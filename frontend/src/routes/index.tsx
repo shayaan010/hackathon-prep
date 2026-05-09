@@ -4,8 +4,11 @@ import { useEffect, useMemo, useState } from "react";
 import { AppHeader } from "@/components/AppHeader";
 import { StatuteListItem } from "@/components/StatuteListItem";
 import { StatuteDetail } from "@/components/StatuteDetail";
+import { MainChat } from "@/components/MainChat";
+import { Sheet, SheetContent } from "@/components/ui/sheet";
 import { FACTOR_CATEGORIES, STATUTES } from "@/lib/statutes";
 import { api } from "@/lib/api";
+import { useProjects } from "@/lib/projects";
 import { Search, SlidersHorizontal, Sparkles } from "lucide-react";
 
 export const Route = createFileRoute("/")({
@@ -44,7 +47,15 @@ function HarvesterPage() {
   const [activeFactors, setActiveFactors] = useState<string[]>([]);
   const [activeJurisdictions, setActiveJurisdictions] = useState<string[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
-  const [bookmarks, setBookmarks] = useState<Set<string>>(new Set());
+
+  const projects = useProjects();
+  const savedIds = useMemo(() => {
+    const set = new Set<string>();
+    for (const p of projects) {
+      for (const id of p.statuteIds) set.add(id);
+    }
+    return set;
+  }, [projects]);
 
   // Debounce typing → semantic search (avoid hitting /api/search every keystroke).
   useEffect(() => {
@@ -101,19 +112,12 @@ function HarvesterPage() {
     });
   }, [semanticOrdered, statutes, query, activeFactors, activeJurisdictions, useSemantic]);
 
-  const selected = filtered.find((s) => s.id === selectedId) ?? filtered[0] ?? null;
+  // Only show detail when the user explicitly clicked something — no auto-select,
+  // otherwise the Sheet would pop open as filters/search results change.
+  const selected = selectedId ? statutes.find((s) => s.id === selectedId) ?? null : null;
 
   const toggle = (list: string[], v: string, set: (l: string[]) => void) =>
     set(list.includes(v) ? list.filter((x) => x !== v) : [...list, v]);
-
-  const toggleBookmark = (id: string) => {
-    setBookmarks((prev) => {
-      const next = new Set(prev);
-      if (next.has(id)) next.delete(id);
-      else next.add(id);
-      return next;
-    });
-  };
 
   return (
     <div className="h-screen flex flex-col bg-background">
@@ -138,12 +142,6 @@ function HarvesterPage() {
             </div>
 
             <div className="mt-3 flex items-center gap-2">
-              <button
-                onClick={() => window.dispatchEvent(new Event("open-chat"))}
-                className="text-xs font-medium text-primary flex items-center gap-1 px-2 py-1 rounded hover:bg-secondary"
-              >
-                <Sparkles className="h-3 w-3" /> Ask the agent
-              </button>
               {useSemantic && (
                 <span className="text-[10px] font-mono uppercase tracking-widest text-gold flex items-center gap-1">
                   <Sparkles className="h-2.5 w-2.5" />
@@ -211,7 +209,7 @@ function HarvesterPage() {
           {/* Results count */}
           <div className="px-4 py-2 border-b border-border flex items-center justify-between text-[11px] font-mono uppercase tracking-widest text-muted-foreground bg-secondary/50">
             <span>{filtered.length} results</span>
-            <span>{bookmarks.size} saved</span>
+            <span>{savedIds.size} saved</span>
           </div>
 
           {/* Result list */}
@@ -221,9 +219,8 @@ function HarvesterPage() {
                 key={s.id}
                 statute={s}
                 active={selected?.id === s.id}
-                bookmarked={bookmarks.has(s.id)}
+                saved={savedIds.has(s.id)}
                 onSelect={() => setSelectedId(s.id)}
-                onToggleBookmark={() => toggleBookmark(s.id)}
               />
             ))}
             {filtered.length === 0 && (
@@ -234,15 +231,26 @@ function HarvesterPage() {
           </div>
         </aside>
 
-        {/* RIGHT: Detail */}
+        {/* RIGHT: Chat */}
         <main className="min-h-0 bg-background">
-          <StatuteDetail
-            statute={selected}
-            bookmarked={selected ? bookmarks.has(selected.id) : false}
-            onToggleBookmark={() => selected && toggleBookmark(selected.id)}
-          />
+          <MainChat statutes={statutes} onSelectStatute={setSelectedId} />
         </main>
       </div>
+
+      {/* Statute detail drawer — opens from chat card or sidebar list click */}
+      <Sheet
+        open={selected != null}
+        onOpenChange={(o) => {
+          if (!o) setSelectedId(null);
+        }}
+      >
+        <SheetContent
+          side="right"
+          className="p-0 sm:max-w-3xl w-full overflow-y-auto"
+        >
+          <StatuteDetail statute={selected} />
+        </SheetContent>
+      </Sheet>
     </div>
   );
 }

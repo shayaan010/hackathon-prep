@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from "react";
+import { useLocation } from "@tanstack/react-router";
 import { MessageCircle, X, Send, Sparkles, Scale } from "lucide-react";
 import { CURRENT_MATTER, type Matter } from "@/lib/matter";
 import { api } from "@/lib/api";
@@ -61,6 +62,7 @@ function renderText(text: string) {
 
 export function ChatWidget() {
   const matter = CURRENT_MATTER;
+  const { pathname } = useLocation();
   const [open, setOpen] = useState(false);
   const [messages, setMessages] = useState<Message[]>(() => [greeting(matter)]);
   const [input, setInput] = useState("");
@@ -77,6 +79,11 @@ export function ChatWidget() {
     window.addEventListener("open-chat", handler);
     return () => window.removeEventListener("open-chat", handler);
   }, []);
+
+  // The index route already hosts a full-pane chat; suppress the floating
+  // launcher there to avoid two competing chat surfaces. Guard goes after all
+  // hooks so the hook count stays stable across route changes.
+  if (pathname === "/") return null;
 
   const send = async () => {
     const text = input.trim();

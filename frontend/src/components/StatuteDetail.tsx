@@ -1,14 +1,13 @@
 import { Statute } from "@/lib/statutes";
-import { ExternalLink, Link2, BookMarked, Calendar, Copy, Bookmark, FileText } from "lucide-react";
+import { ExternalLink, Link2, BookMarked, Calendar, Copy, FileText } from "lucide-react";
 import { useState } from "react";
+import { SaveToProject } from "@/components/SaveToProject";
 
 interface Props {
   statute: Statute | null;
-  bookmarked: boolean;
-  onToggleBookmark: () => void;
 }
 
-export function StatuteDetail({ statute, bookmarked, onToggleBookmark }: Props) {
+export function StatuteDetail({ statute }: Props) {
   const [note, setNote] = useState("");
 
   if (!statute) {
@@ -46,18 +45,7 @@ export function StatuteDetail({ statute, bookmarked, onToggleBookmark }: Props) 
             <h1 className="font-serif text-3xl font-bold leading-tight max-w-2xl">{statute.title}</h1>
           </div>
           <div className="ml-auto flex items-center gap-1.5">
-            <button
-              onClick={onToggleBookmark}
-              className={[
-                "h-9 px-3 rounded-md border text-sm font-medium flex items-center gap-1.5 transition-colors",
-                bookmarked
-                  ? "bg-gold text-gold-foreground border-gold"
-                  : "border-border bg-card hover:bg-secondary",
-              ].join(" ")}
-            >
-              <Bookmark className={`h-4 w-4 ${bookmarked ? "fill-current" : ""}`} />
-              {bookmarked ? "Saved" : "Save"}
-            </button>
+            <SaveToProject statuteId={statute.id} />
             <button className="h-9 w-9 rounded-md border border-border bg-card hover:bg-secondary grid place-items-center">
               <Copy className="h-4 w-4" />
             </button>

@@ -4,12 +4,11 @@ import { Bookmark, MapPin } from "lucide-react";
 interface Props {
   statute: Statute;
   active: boolean;
-  bookmarked: boolean;
+  saved: boolean;
   onSelect: () => void;
-  onToggleBookmark: () => void;
 }
 
-export function StatuteListItem({ statute, active, bookmarked, onSelect, onToggleBookmark }: Props) {
+export function StatuteListItem({ statute, active, saved, onSelect }: Props) {
   return (
     <button
       onClick={onSelect}
@@ -49,21 +48,15 @@ export function StatuteListItem({ statute, active, bookmarked, onSelect, onToggl
             </span>
           </div>
         </div>
-        <button
-          onClick={(e) => {
-            e.stopPropagation();
-            onToggleBookmark();
-          }}
-          className={[
-            "shrink-0 p-1 rounded transition-colors",
-            bookmarked
-              ? "text-gold"
-              : "text-muted-foreground/40 hover:text-gold opacity-0 group-hover:opacity-100",
-            active && "opacity-100",
-          ].filter(Boolean).join(" ")}
-        >
-          <Bookmark className={`h-4 w-4 ${bookmarked ? "fill-current" : ""}`} />
-        </button>
+        {saved && (
+          <span
+            className="shrink-0 p-1 text-gold"
+            title="Saved in a project"
+            aria-label="Saved"
+          >
+            <Bookmark className="h-4 w-4 fill-current" />
+          </span>
+        )}
       </div>
     </button>
   );

@@ -1,13 +1,14 @@
 import { Link, useRouterState } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { Scale, BookOpen, FolderKanban, Network } from "lucide-react";
+import { Scale, BookOpen, FolderKanban, Network, FolderOpen } from "lucide-react";
 import { api } from "@/lib/api";
 
 const nav = [
   { to: "/", label: "Harvester", icon: BookOpen },
+  { to: "/projects", label: "Projects", icon: FolderOpen },
   { to: "/organizer", label: "Organizer", icon: FolderKanban },
   { to: "/coverage", label: "Coverage", icon: Network },
-];
+] as const;
 
 export function AppHeader() {
   const path = useRouterState({ select: (s) => s.location.pathname });
