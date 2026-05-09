@@ -1,0 +1,59 @@
+{
+  "jurisdiction": "NV",
+  "law_code": "NRS43",
+  "code_name": null,
+  "section_num": "484B.117",
+  "section_name": "Driving upon sidewalk",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "484B",
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "43",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) Except as otherwise provided in subsection 2, the driver of a vehicle shall not drive upon or within any sidewalk area except at a permanent or temporary driveway or alley entrance.\n\n(2) The provisions of subsection 1 do not apply to a vehicle that is powered solely by electricity and designed to travel on three wheels when such a vehicle is operated:\n\n(a) As an authorized emergency vehicle;\n\n(b) By an officer or other authorized employee of a law enforcement agency, as that term is defined in NRS 239C.065 , in the course of his or her official duties; or\n\n(c) By a security guard, as that term is defined in NRS 648.016 , in the course of his or her official duties.",
+  "markdown": "## Title 43\n### Chapter 484B\n##### § 484B.117 — Driving upon sidewalk\n\n(1) Except as otherwise provided in subsection 2, the driver of a vehicle shall not drive upon or within any sidewalk area except at a permanent or temporary driveway or alley entrance.\n\n(2) The provisions of subsection 1 do not apply to a vehicle that is powered solely by electricity and designed to travel on three wheels when such a vehicle is operated:\n\n    (a) As an authorized emergency vehicle;\n\n    (b) By an officer or other authorized employee of a law enforcement agency, as that term is defined in NRS 239C.065 , in the course of his or her official duties; or\n\n    (c) By a security guard, as that term is defined in NRS 648.016 , in the course of his or her official duties.\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "Except as otherwise provided in subsection 2, the driver of a vehicle shall not drive upon or within any sidewalk area except at a permanent or temporary driveway or alley entrance.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The provisions of subsection 1 do not apply to a vehicle that is powered solely by electricity and designed to travel on three wheels when such a vehicle is operated:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "As an authorized emergency vehicle;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "By an officer or other authorized employee of a law enforcement agency, as that term is defined in NRS 239C.065 , in the course of his or her official duties; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "By a security guard, as that term is defined in NRS 648.016 , in the course of his or her official duties.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": null,
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://nevada.public.law/statutes/nrs_484b.117",
+  "source_path": "data/raw/nv_public_law/NRS43/484b.117.html",
+  "content_sha256": "8c112df3bf32afaff70e0b38249bdca0b8092cfd1813cb7394a07782713a2223",
+  "parsed_at": "2026-05-09T19:08:33+00:00",
+  "parser_version": "1"
+}

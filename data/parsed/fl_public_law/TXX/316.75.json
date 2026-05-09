@@ -1,0 +1,49 @@
+{
+  "jurisdiction": "FL",
+  "law_code": "TXX",
+  "code_name": null,
+  "section_num": "316.75",
+  "section_name": "School crossing guards",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "316",
+  "chapter_title": "State Unif. Traffic Control",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) A person who received equivalent training during employment as a law enforcement officer.\n\n(2) A person who receives less than $5,000 in annual compensation in a county with a population of less than 75,000.\n\n(3) A student who serves in a school patrol.",
+  "markdown": "### Chapter 316. State Unif. Traffic Control\n##### § 316.75 — School crossing guards\n\n(1) A person who received equivalent training during employment as a law enforcement officer.\n\n(2) A person who receives less than $5,000 in annual compensation in a county with a population of less than 75,000.\n\n(3) A student who serves in a school patrol.\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "A person who received equivalent training during employment as a law enforcement officer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "A person who receives less than $5,000 in annual compensation in a county with a population of less than 75,000.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "3",
+      "text": "A student who serves in a school patrol.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": null,
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://florida.public.law/statutes/fla._stat._316.75",
+  "source_path": "data/raw/fl_public_law/TXX/316.75.html",
+  "content_sha256": "28cf336b8d5f00da4b7db93c87ef9e2be32ac3921e04362dcf034e28b924f544",
+  "parsed_at": "2026-05-09T18:57:54+00:00",
+  "parser_version": "1"
+}

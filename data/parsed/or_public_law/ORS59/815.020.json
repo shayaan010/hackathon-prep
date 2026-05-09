@@ -1,0 +1,54 @@
+{
+  "jurisdiction": "OR",
+  "law_code": "ORS59",
+  "code_name": null,
+  "section_num": "815.020",
+  "section_name": "Operation of unsafe vehicle",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "815",
+  "chapter_title": "Vehicle Equip. Generally",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "59",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) A person commits the offense of operation of an unsafe vehicle if the person does any of the following:\n\n(a) Drives or moves on any highway any vehicle which is in such unsafe condition as to endanger any person.\n\n(b) Owns a vehicle and causes or knowingly permits the vehicle to be driven or moved on any highway when the vehicle is in such unsafe condition as to endanger any person.\n\n(2) The offense described in this section, operation of an unsafe vehicle, is a Class B traffic violation. [1983 c.338 §437]",
+  "markdown": "## Title 59\n### Chapter 815. Vehicle Equip. Generally\n##### § 815.020 — Operation of unsafe vehicle\n\n(1) A person commits the offense of operation of an unsafe vehicle if the person does any of the following:\n\n    (a) Drives or moves on any highway any vehicle which is in such unsafe condition as to endanger any person.\n\n    (b) Owns a vehicle and causes or knowingly permits the vehicle to be driven or moved on any highway when the vehicle is in such unsafe condition as to endanger any person.\n\n(2) The offense described in this section, operation of an unsafe vehicle, is a Class B traffic violation. [1983 c.338 §437]\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "A person commits the offense of operation of an unsafe vehicle if the person does any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Drives or moves on any highway any vehicle which is in such unsafe condition as to endanger any person.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Owns a vehicle and causes or knowingly permits the vehicle to be driven or moved on any highway when the vehicle is in such unsafe condition as to endanger any person.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The offense described in this section, operation of an unsafe vehicle, is a Class B traffic violation. [1983 c.338 §437]",
+      "depth_em": 0.0
+    }
+  ],
+  "history": null,
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://oregon.public.law/statutes/ors_815.020",
+  "source_path": "data/raw/or_public_law/ORS59/815.020.html",
+  "content_sha256": "21d3ef7e8075a15801d56e5bb798fc7e763d0481697d6ea72ffbc82ed7d270b6",
+  "parsed_at": "2026-05-09T19:08:33+00:00",
+  "parser_version": "1"
+}

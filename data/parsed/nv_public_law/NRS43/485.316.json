@@ -1,0 +1,129 @@
+{
+  "jurisdiction": "NV",
+  "law_code": "NRS43",
+  "code_name": null,
+  "section_num": "485.316",
+  "section_name": "Confidentiality of information in system",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "485",
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "43",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) Except as otherwise provided in subsection 2 and NRS 239.0115 , information which is maintained in the system created pursuant to NRS 485.313 is confidential.\n\n(2) The Department may only disclose information which is maintained in the system to:\n\n(a) A state or local governmental agency for the purpose of enforcing NRS 485.185 , including investigating or litigating a violation or alleged violation;\n\n(b) An authorized insurer;\n\n(c) A person:\n\n(1) With whom the Department has contracted to provide services relating to the system created pursuant to NRS 485.313 ; and\n\n(2) To whom the information is disclosed only pursuant to a nondisclosure or confidentiality agreement which relates to the information;\n\n(d) A person who requests information regarding his or her own status;\n\n(e) The parent or legal guardian of the person about whom the information is requested if the person is an unemancipated minor or legally incapacitated;\n\n(f) A person who has a power of attorney from the person about whom the information is requested;\n\n(g) A person who submits a notarized release from the person about whom the information is requested which is dated no more than 90 days before the date of the request; or\n\n(h) A person who has suffered a loss or injury in a crash involving a motor vehicle, or the person’s authorized insurer or a representative of the authorized insurer, who requests:\n\n(1) Information for use in the crash report; and\n\n(2) For each motor vehicle involved in the crash:\n\n(I) The name and address of each registered owner;\n\n(II) The name of the insurer; and\n\n(III) The number of the policy of liability insurance.\n\n(3) A person who knowingly violates the provisions of this section is guilty of a category D felony and shall be punished as provided in NRS 193.130 .\n\n(4) As used in this section, “authorized insurer” has the meaning ascribed to it in NRS 679A.030 .",
+  "markdown": "## Title 43\n### Chapter 485\n##### § 485.316 — Confidentiality of information in system\n\n(1) Except as otherwise provided in subsection 2 and NRS 239.0115 , information which is maintained in the system created pursuant to NRS 485.313 is confidential.\n\n(2) The Department may only disclose information which is maintained in the system to:\n\n    (a) A state or local governmental agency for the purpose of enforcing NRS 485.185 , including investigating or litigating a violation or alleged violation;\n\n    (b) An authorized insurer;\n\n    (c) A person:\n\n        (1) With whom the Department has contracted to provide services relating to the system created pursuant to NRS 485.313 ; and\n\n        (2) To whom the information is disclosed only pursuant to a nondisclosure or confidentiality agreement which relates to the information;\n\n    (d) A person who requests information regarding his or her own status;\n\n    (e) The parent or legal guardian of the person about whom the information is requested if the person is an unemancipated minor or legally incapacitated;\n\n    (f) A person who has a power of attorney from the person about whom the information is requested;\n\n    (g) A person who submits a notarized release from the person about whom the information is requested which is dated no more than 90 days before the date of the request; or\n\n    (h) A person who has suffered a loss or injury in a crash involving a motor vehicle, or the person’s authorized insurer or a representative of the authorized insurer, who requests:\n\n        (1) Information for use in the crash report; and\n\n        (2) For each motor vehicle involved in the crash:\n\n(I) The name and address of each registered owner;\n\n(II) The name of the insurer; and\n\n(III) The number of the policy of liability insurance.\n\n(3) A person who knowingly violates the provisions of this section is guilty of a category D felony and shall be punished as provided in NRS 193.130 .\n\n(4) As used in this section, “authorized insurer” has the meaning ascribed to it in NRS 679A.030 .\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "Except as otherwise provided in subsection 2 and NRS 239.0115 , information which is maintained in the system created pursuant to NRS 485.313 is confidential.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The Department may only disclose information which is maintained in the system to:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A state or local governmental agency for the purpose of enforcing NRS 485.185 , including investigating or litigating a violation or alleged violation;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "An authorized insurer;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "A person:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "1",
+      "text": "With whom the Department has contracted to provide services relating to the system created pursuant to NRS 485.313 ; and",
+      "depth_em": 2.0
+    },
+    {
+      "label": "2",
+      "text": "To whom the information is disclosed only pursuant to a nondisclosure or confidentiality agreement which relates to the information;",
+      "depth_em": 2.0
+    },
+    {
+      "label": "d",
+      "text": "A person who requests information regarding his or her own status;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "e",
+      "text": "The parent or legal guardian of the person about whom the information is requested if the person is an unemancipated minor or legally incapacitated;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "f",
+      "text": "A person who has a power of attorney from the person about whom the information is requested;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "g",
+      "text": "A person who submits a notarized release from the person about whom the information is requested which is dated no more than 90 days before the date of the request; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "h",
+      "text": "A person who has suffered a loss or injury in a crash involving a motor vehicle, or the person’s authorized insurer or a representative of the authorized insurer, who requests:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "1",
+      "text": "Information for use in the crash report; and",
+      "depth_em": 2.0
+    },
+    {
+      "label": "2",
+      "text": "For each motor vehicle involved in the crash:",
+      "depth_em": 2.0
+    },
+    {
+      "label": null,
+      "text": "(I) The name and address of each registered owner;",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "(II) The name of the insurer; and",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "(III) The number of the policy of liability insurance.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "3",
+      "text": "A person who knowingly violates the provisions of this section is guilty of a category D felony and shall be punished as provided in NRS 193.130 .",
+      "depth_em": 0.0
+    },
+    {
+      "label": "4",
+      "text": "As used in this section, “authorized insurer” has the meaning ascribed to it in NRS 679A.030 .",
+      "depth_em": 0.0
+    }
+  ],
+  "history": null,
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://nevada.public.law/statutes/nrs_485.316",
+  "source_path": "data/raw/nv_public_law/NRS43/485.316.html",
+  "content_sha256": "f97fbee1b7a0f3054e903d87e09ec4b3eaed2451c418a81a568ebe663cf41321",
+  "parsed_at": "2026-05-09T19:08:33+00:00",
+  "parser_version": "1"
+}

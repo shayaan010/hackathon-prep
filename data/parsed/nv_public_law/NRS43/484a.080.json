@@ -1,0 +1,49 @@
+{
+  "jurisdiction": "NV",
+  "law_code": "NRS43",
+  "code_name": null,
+  "section_num": "484A.080",
+  "section_name": "“Driver” defined.",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "484A",
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "43",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) Except as otherwise provided in subsection 2, “driver” means every person who drives or is in actual physical control of a vehicle.\n\n(2) If a vehicle is an autonomous vehicle, as defined in NRS 482A.030 , and the automated driving system, as defined in NRS 482A.025 , of the autonomous vehicle is engaged, “driver” means a person who causes the automated driving system of the autonomous vehicle to engage.\n\n(3) If a vehicle is a fully autonomous vehicle, as defined in NRS 482A.036 , and the automated driving system, as defined in NRS 482A.025 , of the fully autonomous vehicle is engaged, “driver” does not include a natural person who causes the automated driving system of the fully autonomous vehicle to engage unless the natural person is the owner of the fully autonomous vehicle.",
+  "markdown": "## Title 43\n### Chapter 484A\n##### § 484A.080 — “Driver” defined.\n\n(1) Except as otherwise provided in subsection 2, “driver” means every person who drives or is in actual physical control of a vehicle.\n\n(2) If a vehicle is an autonomous vehicle, as defined in NRS 482A.030 , and the automated driving system, as defined in NRS 482A.025 , of the autonomous vehicle is engaged, “driver” means a person who causes the automated driving system of the autonomous vehicle to engage.\n\n(3) If a vehicle is a fully autonomous vehicle, as defined in NRS 482A.036 , and the automated driving system, as defined in NRS 482A.025 , of the fully autonomous vehicle is engaged, “driver” does not include a natural person who causes the automated driving system of the fully autonomous vehicle to engage unless the natural person is the owner of the fully autonomous vehicle.\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "Except as otherwise provided in subsection 2, “driver” means every person who drives or is in actual physical control of a vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "If a vehicle is an autonomous vehicle, as defined in NRS 482A.030 , and the automated driving system, as defined in NRS 482A.025 , of the autonomous vehicle is engaged, “driver” means a person who causes the automated driving system of the autonomous vehicle to engage.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "3",
+      "text": "If a vehicle is a fully autonomous vehicle, as defined in NRS 482A.036 , and the automated driving system, as defined in NRS 482A.025 , of the fully autonomous vehicle is engaged, “driver” does not include a natural person who causes the automated driving system of the fully autonomous vehicle to engage unless the natural person is the owner of the fully autonomous vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": null,
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://nevada.public.law/statutes/nrs_484a.080",
+  "source_path": "data/raw/nv_public_law/NRS43/484a.080.html",
+  "content_sha256": "1106caaa1deab8a36b450f8f0a8db21cc042bf666ef11ebe01b6a1731c59f311",
+  "parsed_at": "2026-05-09T19:08:33+00:00",
+  "parser_version": "1"
+}

@@ -7,6 +7,11 @@ Reads:
 Writes:
     data/parsed/jsonl/{jurisdiction}/{LAW_CODE}.jsonl
 
+Sources are **auto-discovered**: any subdirectory of ``data/parsed/`` that
+looks like ``{slug}/{CODE}/`` and contains valid StatuteSection JSON files
+gets included.  Adding a new jurisdiction means dropping a new
+``ingest/sources/<slug>.py`` + parser and re-running this — no edits here.
+
 Each JSONL line is a record matching this schema:
 
     {
@@ -21,52 +26,50 @@ Each JSONL line is a record matching this schema:
         "division":{...},
         "chapter": {...},
         "article": {...},
-        "part":    {...},
-        "subtitle":{...},
-        "subchapter":{...}
+        ...
       },
-      "text": "...plain-text body...",
-      "markdown": "...markdown rendering...",
+      "text": "...",
+      "markdown": "...",
       "subsections": [{"label":"a", "text":"...", "depth_em":0.0}, ...],
       "history": {"raw": "...", "action":"Amended", "statutes_year":2022, ...},
       "source": {
-        "url": "https://leginfo.legislature.ca.gov/...",
-        "raw_path": "data/raw/ca_leginfo_pages/VEH/21453.html",
+        "url": "...",
+        "raw_path": "...",
         "content_sha256": "...",
-        "parsed_at": "2026-05-09T14:00:00+00:00",
+        "parsed_at": "...",
         "metadata": {  # jurisdiction-specific extras
-          "op_statues": "2022",
-          "op_chapter": "957",
-          "op_section": "3",
-          "node_tree_path": "15.2.3"
+          "op_statues": "2022", ...
         }
       }
     }
 
 Usage:
-    # All sources
+    # All sources (auto-discovered)
     uv run python -m ingest.parsers.consolidate_jsonl
 
-    # One source
-    uv run python -m ingest.parsers.consolidate_jsonl --jurisdiction CA --code VEH
+    # Filter to one jurisdiction
+    uv run python -m ingest.parsers.consolidate_jsonl --jurisdiction CA
 
-    # Custom output dir
-    uv run python -m ingest.parsers.consolidate_jsonl --out data/parsed/jsonl
+    # Filter to a specific code
+    uv run python -m ingest.parsers.consolidate_jsonl --jurisdiction CA --code VEH
 """
 from __future__ import annotations
 
 import argparse
 import json
 import logging
-import re
 import sys
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Iterable, Optional
 
+from .._http import setup_logging
+from ..cli import section_sort_key
+
 
 DEFAULT_OUT_DIR = Path("data/parsed/jsonl")
 DEFAULT_DATA_ROOT = Path("data/parsed")
+DEFAULT_LOG_FILE = Path("data/logs/consolidate_jsonl.log")
 
 logger = logging.getLogger("consolidate_jsonl")
 
@@ -82,12 +85,72 @@ class SourceConfig:
         return f"{self.law_code}.jsonl"
 
 
-# Map (jurisdiction) -> source dir slug, used to find parsed JSONs.
-_KNOWN_SOURCES: list[SourceConfig] = [
-    SourceConfig("CA", "VEH", DEFAULT_DATA_ROOT / "ca_leginfo_pages" / "VEH"),
-    SourceConfig("NY", "VAT", DEFAULT_DATA_ROOT / "ny_public_law" / "VAT"),
-    SourceConfig("TX", "TN", DEFAULT_DATA_ROOT / "tx_public_law" / "TN"),
-]
+# ---------------------------------------------------------------------------
+# Auto-discovery
+# ---------------------------------------------------------------------------
+
+
+def discover_sources(parsed_root: Path = DEFAULT_DATA_ROOT) -> list[SourceConfig]:
+    """Walk ``data/parsed/<slug>/<CODE>/*.json`` and infer (jurisdiction, code).
+
+    For each candidate ``CODE`` directory, reads the first parsed JSON and
+    pulls ``jurisdiction`` and ``law_code`` from it (the JSONs are
+    self-describing).  Skips directories that don't contain readable
+    StatuteSection JSON.
+    """
+    if not parsed_root.is_dir():
+        return []
+
+    sources: list[SourceConfig] = []
+    seen: set[tuple[str, str]] = set()
+
+    for slug_dir in sorted(parsed_root.iterdir()):
+        if not slug_dir.is_dir():
+            continue
+        # Skip the JSONL output dir
+        if slug_dir.name == "jsonl":
+            continue
+        for code_dir in sorted(slug_dir.iterdir()):
+            if not code_dir.is_dir():
+                continue
+            jsons = list(code_dir.glob("*.json"))
+            if not jsons:
+                continue
+            # Sniff the first parseable JSON for jurisdiction + law_code
+            jurisdiction: Optional[str] = None
+            law_code: Optional[str] = None
+            for j in jsons[:5]:
+                try:
+                    with j.open() as f:
+                        rec = json.load(f)
+                    jurisdiction = rec.get("jurisdiction")
+                    law_code = rec.get("law_code")
+                    if jurisdiction and law_code:
+                        break
+                except (OSError, json.JSONDecodeError):
+                    continue
+            if not jurisdiction or not law_code:
+                logger.debug("auto-discover: skip %s (no parseable JSON)", code_dir)
+                continue
+            key = (jurisdiction, law_code)
+            if key in seen:
+                # Multiple sources for the same (jurisdiction, code) — skip later one
+                logger.warning(
+                    "auto-discover: duplicate (%s, %s) at %s — keeping first",
+                    jurisdiction, law_code, code_dir,
+                )
+                continue
+            seen.add(key)
+            sources.append(SourceConfig(
+                jurisdiction=jurisdiction,
+                law_code=law_code,
+                parsed_dir=code_dir,
+            ))
+            logger.debug(
+                "auto-discover: %s/%s <- %s (%d JSONs)",
+                jurisdiction, law_code, code_dir, len(jsons),
+            )
+    return sources
 
 
 # ---------------------------------------------------------------------------
@@ -95,9 +158,7 @@ _KNOWN_SOURCES: list[SourceConfig] = [
 # ---------------------------------------------------------------------------
 
 
-# The metadata fields that belong in the source.metadata sub-dict (not the
-# top-level fields). These are jurisdiction-specific extras that don't fit
-# the unified schema cleanly.
+# Jurisdiction-specific extras that don't fit the unified schema cleanly.
 _JURISDICTION_METADATA_FIELDS = {
     "op_statues",      # CA: stats year from JS metadata
     "op_chapter",      # CA: chapter from JS metadata
@@ -117,12 +178,10 @@ _HIERARCHY_FIELDS = {
 
 
 def _section_id(jurisdiction: str, law_code: str, section: str) -> str:
-    """Build a stable URI-style id for a section: 'ca/veh/21453'."""
     return f"{jurisdiction.lower()}/{law_code.lower()}/{section}"
 
 
 def _hierarchy_subdict(rec: dict) -> dict[str, dict[str, Any]]:
-    """Pull flat hierarchy fields from the parsed JSON into a nested dict."""
     out: dict[str, dict[str, Any]] = {}
     for level_key, fields in _HIERARCHY_FIELDS.items():
         ident_field = fields[0]
@@ -131,19 +190,18 @@ def _hierarchy_subdict(rec: dict) -> dict[str, dict[str, Any]]:
             continue
         node: dict[str, Any] = {"ident": ident}
         if len(fields) > 1:
-            title = rec.get(fields[1])
-            if title:
-                node["title"] = title
+            t = rec.get(fields[1])
+            if t:
+                node["title"] = t
         if len(fields) > 2:
-            rng = rec.get(fields[2])
-            if rng:
-                node["range"] = rng
+            r = rec.get(fields[2])
+            if r:
+                node["range"] = r
         out[level_key] = node
     return out
 
 
 def _source_metadata(rec: dict) -> dict[str, Any]:
-    """Pluck jurisdiction-specific extras into source.metadata."""
     out: dict[str, Any] = {}
     for key in _JURISDICTION_METADATA_FIELDS:
         val = rec.get(key)
@@ -182,49 +240,8 @@ def to_unified(rec: dict) -> dict[str, Any]:
 
 
 # ---------------------------------------------------------------------------
-# Section sorting (natural order across CA, NY, TX section numbers)
-# ---------------------------------------------------------------------------
-
-
-def _section_sort_key(name: str) -> tuple:
-    stem = Path(name).stem
-
-    if "." in stem:
-        parts = stem.split(".")
-        try:
-            return (0, int(parts[0]), int(parts[1]) if len(parts) > 1 else 0, 0, "", stem)
-        except ValueError:
-            pass
-
-    m = re.match(r"^(\d+)(?:\.(\d+))?(?:-([A-Za-z]+))?(?:\*(\d+))?$", stem)
-    if m:
-        major = int(m.group(1))
-        minor = int(m.group(2)) if m.group(2) else 0
-        suffix = (m.group(3) or "").upper()
-        star = int(m.group(4)) if m.group(4) else 0
-        return (1, major, minor, star, suffix, stem)
-
-    return (9, 10**9, 0, 0, "", stem)
-
-
-# ---------------------------------------------------------------------------
 # Conversion driver
 # ---------------------------------------------------------------------------
-
-
-def _setup_logging(verbose: bool) -> None:
-    level = logging.DEBUG if verbose else logging.INFO
-    logger.setLevel(level)
-    for h in list(logger.handlers):
-        logger.removeHandler(h)
-    fmt = logging.Formatter(
-        "%(asctime)s.%(msecs)03d %(levelname)-7s %(message)s",
-        datefmt="%H:%M:%S",
-    )
-    sh = logging.StreamHandler(sys.stdout)
-    sh.setLevel(level)
-    sh.setFormatter(fmt)
-    logger.addHandler(sh)
 
 
 def consolidate_one(
@@ -233,8 +250,7 @@ def consolidate_one(
 ) -> tuple[int, int]:
     """Write one JSONL for a single (jurisdiction, law_code).
 
-    Returns:
-        (n_records, n_skipped) — n_skipped counts JSONs we couldn't read.
+    Returns ``(n_records, n_skipped)``.
     """
     if not source.parsed_dir.is_dir():
         logger.warning("skip     %s/%s — no parsed dir at %s",
@@ -243,7 +259,7 @@ def consolidate_one(
 
     jsons = sorted(
         source.parsed_dir.glob("*.json"),
-        key=lambda p: _section_sort_key(p.name),
+        key=lambda p: section_sort_key(p.stem),
     )
     if not jsons:
         logger.warning("skip     %s/%s — no JSON files in %s",
@@ -257,7 +273,7 @@ def consolidate_one(
     n_records = 0
     n_skipped = 0
 
-    with out_path.open("w") as f:
+    with out_path.open("w", encoding="utf-8") as f:
         for json_path in jsons:
             try:
                 with json_path.open() as inp:
@@ -303,46 +319,68 @@ def consolidate(
     return totals
 
 
-def _parse_args(argv: list[str]) -> dict:
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
+
+
+def _build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         description="Consolidate per-section parsed JSON files into unified JSONL.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     p.add_argument(
         "--jurisdiction", "-j", default=None,
-        help="Filter to a single jurisdiction (CA/NY/TX). Default: all known.",
+        help="Filter to one jurisdiction (e.g. CA, NY, TX). Default: all auto-discovered.",
     )
     p.add_argument(
         "--code", "-c", default=None,
-        help="Filter to a single law code. Default: all known for the jurisdiction.",
+        help="Filter to one law code. Default: all auto-discovered.",
     )
     p.add_argument(
-        "--out", dest="out_dir", type=Path, default=DEFAULT_OUT_DIR,
-        help="Output root for JSONL files (default: %(default)s).",
+        "--in-dir", type=Path, default=DEFAULT_DATA_ROOT,
+        help=f"Parsed-data root to scan (default: {DEFAULT_DATA_ROOT})",
     )
-    p.add_argument("--verbose", action="store_true", help="DEBUG-level logs.")
-    return vars(p.parse_args(argv))
+    p.add_argument(
+        "--out-dir", type=Path, default=DEFAULT_OUT_DIR,
+        help=f"Output root for JSONL files (default: {DEFAULT_OUT_DIR})",
+    )
+    p.add_argument(
+        "--log-file", type=Path, default=DEFAULT_LOG_FILE,
+        help=f"File to append log lines to (default: {DEFAULT_LOG_FILE})",
+    )
+    p.add_argument("--no-log-file", action="store_true",
+                   help="Disable file logging.")
+    p.add_argument("--verbose", action="store_true",
+                   help="DEBUG-level logs.")
+    return p
 
 
 def main(argv: Optional[list[str]] = None) -> int:
-    args = _parse_args(argv if argv is not None else sys.argv[1:])
-    _setup_logging(args["verbose"])
+    args = _build_parser().parse_args(argv if argv is not None else sys.argv[1:])
 
-    sources = list(_KNOWN_SOURCES)
-    if args["jurisdiction"]:
-        j = args["jurisdiction"].upper()
+    log_path = None if args.no_log_file else args.log_file
+    setup_logging("consolidate_jsonl", verbose=args.verbose, log_path=log_path)
+
+    sources = discover_sources(args.in_dir)
+    if args.jurisdiction:
+        j = args.jurisdiction.upper()
         sources = [s for s in sources if s.jurisdiction == j]
-    if args["code"]:
-        c = args["code"].upper()
+    if args.code:
+        c = args.code.upper()
         sources = [s for s in sources if s.law_code == c]
 
     if not sources:
         raise SystemExit(
-            f"no known sources match jurisdiction={args['jurisdiction']!r} "
-            f"code={args['code']!r}"
+            f"no parsed sources found under {args.in_dir} matching "
+            f"jurisdiction={args.jurisdiction!r} code={args.code!r}"
         )
 
-    consolidate(sources=sources, out_dir=args["out_dir"])
+    logger.info("discovered %d source(s):", len(sources))
+    for s in sources:
+        logger.info("  %s/%s <- %s", s.jurisdiction, s.law_code, s.parsed_dir)
+
+    consolidate(sources=sources, out_dir=args.out_dir)
     return 0
 
 

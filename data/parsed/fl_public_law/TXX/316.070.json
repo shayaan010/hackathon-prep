@@ -1,0 +1,49 @@
+{
+  "jurisdiction": "FL",
+  "law_code": "TXX",
+  "code_name": null,
+  "section_num": "316.070",
+  "section_name": "Exchange of information at scene of crash",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "316",
+  "chapter_title": "State Unif. Traffic Control",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) The name and address of the owner and the driver of the vehicle.\n\n(2) The license number of the vehicle.\n\n(3) The name of the liability carrier for the vehicle.",
+  "markdown": "### Chapter 316. State Unif. Traffic Control\n##### § 316.070 — Exchange of information at scene of crash\n\n(1) The name and address of the owner and the driver of the vehicle.\n\n(2) The license number of the vehicle.\n\n(3) The name of the liability carrier for the vehicle.\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "The name and address of the owner and the driver of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The license number of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "3",
+      "text": "The name of the liability carrier for the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": null,
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://florida.public.law/statutes/fla._stat._316.070",
+  "source_path": "data/raw/fl_public_law/TXX/316.070.html",
+  "content_sha256": "4aa4b8e8f2f265261dfde3b4cec72c617807bc9b7e76e9c8e56bdbdc48affe90",
+  "parsed_at": "2026-05-09T18:57:54+00:00",
+  "parser_version": "1"
+}

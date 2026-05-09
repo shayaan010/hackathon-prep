@@ -130,22 +130,46 @@ def default_client(*, concurrency: int = 4, timeout: float = DEFAULT_TIMEOUT_S) 
     )
 
 
-def setup_logging(verbose: bool, log_path=None):
-    """Standard logging setup used by source CLIs."""
+def setup_logging(
+    name: Optional[str] = None,
+    *,
+    verbose: bool = False,
+    log_path=None,
+) -> logging.Logger:
+    """Configure a named logger with stdout + optional file handler.
+
+    If ``name`` is None, configures the root logger (legacy behavior).
+    Returns the configured logger so callers can do
+    ``log = setup_logging("ny_public_law", verbose=True, log_path=...)``.
+
+    Idempotent: existing handlers on the named logger are removed first.
+    """
     fmt = "%(asctime)s.%(msecs)03d %(levelname)-7s %(message)s"
     datefmt = "%H:%M:%S"
-    handlers: list[logging.Handler] = []
+    formatter = logging.Formatter(fmt, datefmt=datefmt)
+
+    target = logging.getLogger(name) if name else logging.getLogger()
+    # Clear existing handlers so re-runs in the same process don't double-log.
+    for h in list(target.handlers):
+        target.removeHandler(h)
+
     import sys
     stream = logging.StreamHandler(sys.stdout)
-    stream.setFormatter(logging.Formatter(fmt, datefmt=datefmt))
+    stream.setFormatter(formatter)
     stream.setLevel(logging.DEBUG if verbose else logging.INFO)
-    handlers.append(stream)
+    target.addHandler(stream)
+
     if log_path:
         log_path.parent.mkdir(parents=True, exist_ok=True)
         fileh = logging.FileHandler(log_path, mode="a", encoding="utf-8")
-        fileh.setFormatter(logging.Formatter(fmt, datefmt=datefmt))
+        fileh.setFormatter(formatter)
         fileh.setLevel(logging.DEBUG)
-        handlers.append(fileh)
-    root = logging.getLogger()
-    root.handlers = handlers
-    root.setLevel(logging.DEBUG if verbose else logging.INFO)
+        target.addHandler(fileh)
+
+    target.setLevel(logging.DEBUG if verbose else logging.INFO)
+    # Don't double-log via root if a name was given.
+    if name:
+        target.propagate = False
+    if log_path:
+        target.info("file-log path=%s", log_path)
+    return target

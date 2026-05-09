@@ -1,0 +1,54 @@
+{
+  "jurisdiction": "NV",
+  "law_code": "NRS43",
+  "code_name": null,
+  "section_num": "484A.800",
+  "section_name": "Sponsor of special event to provide for control of vehicular traffic.",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "484A",
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "43",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) Any person or governmental agency sponsoring a special event shall ensure that adequate provision is made for the control of vehicular traffic related to or affected by the event.\n\n(2) As used in this section, “special event” means any scheduled activity or event:\n\n(a) That is attended or observed by more than 500 persons; or\n\n(b) That substantially increases or disrupts the normal flow of traffic on any street or highway.",
+  "markdown": "## Title 43\n### Chapter 484A\n##### § 484A.800 — Sponsor of special event to provide for control of vehicular traffic.\n\n(1) Any person or governmental agency sponsoring a special event shall ensure that adequate provision is made for the control of vehicular traffic related to or affected by the event.\n\n(2) As used in this section, “special event” means any scheduled activity or event:\n\n    (a) That is attended or observed by more than 500 persons; or\n\n    (b) That substantially increases or disrupts the normal flow of traffic on any street or highway.\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "Any person or governmental agency sponsoring a special event shall ensure that adequate provision is made for the control of vehicular traffic related to or affected by the event.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "As used in this section, “special event” means any scheduled activity or event:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "That is attended or observed by more than 500 persons; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "That substantially increases or disrupts the normal flow of traffic on any street or highway.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": null,
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://nevada.public.law/statutes/nrs_484a.800",
+  "source_path": "data/raw/nv_public_law/NRS43/484a.800.html",
+  "content_sha256": "9096f0610a4a5cffdfcdb9e1e49bea16b1cea45b9c1664227e3d1af7da915a02",
+  "parsed_at": "2026-05-09T19:08:33+00:00",
+  "parser_version": "1"
+}

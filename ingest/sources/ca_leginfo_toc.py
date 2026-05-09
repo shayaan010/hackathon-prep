@@ -31,13 +31,14 @@ import json
 import logging
 import re
 import sys
-from dataclasses import dataclass, asdict, field
+from dataclasses import dataclass, asdict
 from html import unescape
 from pathlib import Path
-from typing import Iterable, Optional
-from urllib.parse import parse_qs, urlparse
+from typing import Optional
 
 import httpx
+
+from .._http import RateLimiter, default_client, get_with_retry, setup_logging
 
 
 SOURCE_SLUG = "ca_leginfo_toc"
@@ -46,23 +47,11 @@ BASE = "https://leginfo.legislature.ca.gov/faces"
 
 DEFAULT_LAW_CODE = "VEH"
 DEFAULT_OUT_DIR = Path("data/raw") / SOURCE_SLUG
-DEFAULT_CONCURRENCY = 2  # leginfo throttles aggressively; keep it polite
-DEFAULT_RATE_INTERVAL = 0.4  # min seconds between request starts (global)
-DEFAULT_TIMEOUT_S = 30.0
+DEFAULT_LOG_FILE = Path("data/logs") / f"{SOURCE_SLUG}.log"
+DEFAULT_CONCURRENCY = 2
+DEFAULT_RATE_INTERVAL = 0.4
 
-USER_AGENT = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/120.0.0.0 Safari/537.36"
-)
-
-# Retry policy — same shape as ca_leginfo_pages.py
-MAX_RETRIES = 6
-BACKOFF_BASE = 0.5
-MAX_BACKOFF = 30.0
-RETRY_STATUSES = {403, 429, 502, 503, 504}
-
-logger = logging.getLogger("ca_leginfo_toc")
+logger = logging.getLogger(SOURCE_SLUG)
 
 
 # ---------------------------------------------------------------------------
@@ -121,68 +110,6 @@ class TocSection:
     article: str
     source_url: str      # the displayText URL where we found it
     section_url: str     # the canonical codes_displaySection URL
-
-
-# ---------------------------------------------------------------------------
-# HTTP helpers
-# ---------------------------------------------------------------------------
-
-
-class RateLimiter:
-    """Global rate limiter: enforce min seconds between request starts."""
-    def __init__(self, interval: float):
-        self.interval = interval
-        self._lock = asyncio.Lock()
-        self._next = 0.0
-
-    async def wait(self):
-        if self.interval <= 0:
-            return
-        async with self._lock:
-            now = asyncio.get_event_loop().time()
-            wait = self._next - now
-            if wait > 0:
-                await asyncio.sleep(wait)
-                now = asyncio.get_event_loop().time()
-            self._next = max(now, self._next) + self.interval
-
-
-async def get_with_retry(
-    client: httpx.AsyncClient,
-    url: str,
-    *,
-    rate: RateLimiter,
-    label: str = "",
-) -> httpx.Response:
-    """GET with rate limiting and retry on transient failures."""
-    last_exc: Optional[Exception] = None
-    for attempt in range(1, MAX_RETRIES + 1):
-        await rate.wait()
-        try:
-            resp = await client.get(url)
-            if resp.status_code in RETRY_STATUSES:
-                wait = min(BACKOFF_BASE * (2 ** (attempt - 1)) + 0.1 * attempt, MAX_BACKOFF)
-                logger.warning(
-                    "retry    %s attempt=%d/%d status=%d backoff=%.1fs",
-                    label or url, attempt, MAX_RETRIES, resp.status_code, wait,
-                )
-                if attempt < MAX_RETRIES:
-                    await asyncio.sleep(wait)
-                    continue
-                resp.raise_for_status()
-            return resp
-        except (httpx.ConnectError, httpx.ConnectTimeout, httpx.ReadError,
-                httpx.ReadTimeout, httpx.RemoteProtocolError) as e:
-            last_exc = e
-            wait = min(BACKOFF_BASE * (2 ** (attempt - 1)) + 0.1 * attempt, MAX_BACKOFF)
-            logger.warning(
-                "retry    %s attempt=%d/%d error=%s backoff=%.1fs",
-                label or url, attempt, MAX_RETRIES, type(e).__name__, wait,
-            )
-            if attempt < MAX_RETRIES:
-                await asyncio.sleep(wait)
-                continue
-    raise RuntimeError(f"exhausted retries for {url}: {last_exc}")
 
 
 # ---------------------------------------------------------------------------
@@ -334,16 +261,10 @@ async def walk(
         chapters_dir.mkdir(exist_ok=True)
     debug_dir.mkdir(exist_ok=True)
 
-    rate = RateLimiter(rate_interval)
+    rate = RateLimiter(rate_interval) if rate_interval > 0 else None
     sem = asyncio.Semaphore(concurrency)
-    headers = {"User-Agent": USER_AGENT, "Accept": "text/html,application/xhtml+xml"}
 
-    async with httpx.AsyncClient(
-        headers=headers,
-        timeout=DEFAULT_TIMEOUT_S,
-        follow_redirects=True,
-        limits=httpx.Limits(max_connections=concurrency * 2, max_keepalive_connections=concurrency),
-    ) as client:
+    async with default_client(concurrency=concurrency) as client:
 
         # ---- 1. Root TOC: list of divisions ----
         root_url = f"{BASE}/codesTOCSelected.xhtml?tocCode={law_code}"
@@ -508,87 +429,64 @@ def diff_against_manifest(
 # ---------------------------------------------------------------------------
 
 
-def _setup_logging(verbose: bool, log_path: Optional[Path]):
-    fmt = "%(asctime)s.%(msecs)03d %(levelname)-7s %(message)s"
-    datefmt = "%H:%M:%S"
-    handlers: list[logging.Handler] = []
-
-    stream = logging.StreamHandler(sys.stdout)
-    stream.setFormatter(logging.Formatter(fmt, datefmt=datefmt))
-    stream.setLevel(logging.DEBUG if verbose else logging.INFO)
-    handlers.append(stream)
-
-    if log_path:
-        log_path.parent.mkdir(parents=True, exist_ok=True)
-        fileh = logging.FileHandler(log_path, mode="a", encoding="utf-8")
-        fileh.setFormatter(logging.Formatter(fmt, datefmt=datefmt))
-        fileh.setLevel(logging.DEBUG)
-        handlers.append(fileh)
-
-    root = logging.getLogger()
-    root.handlers = handlers
-    root.setLevel(logging.DEBUG if verbose else logging.INFO)
-
-
-def _parse_args(argv: Optional[list[str]] = None) -> dict:
-    p = argparse.ArgumentParser(description=__doc__)
-    p.add_argument("--code", default=DEFAULT_LAW_CODE, help="Law code (default: VEH)")
-    p.add_argument("--out-dir", type=Path, default=DEFAULT_OUT_DIR)
-    p.add_argument("--concurrency", type=int, default=DEFAULT_CONCURRENCY)
-    p.add_argument("--rate-interval", type=float, default=DEFAULT_RATE_INTERVAL)
+def _build_parser() -> argparse.ArgumentParser:
+    p = argparse.ArgumentParser(description=__doc__,
+                                formatter_class=argparse.RawDescriptionHelpFormatter)
+    p.add_argument("--code", default=DEFAULT_LAW_CODE,
+                   help=f"Law code (default: {DEFAULT_LAW_CODE})")
+    p.add_argument("--out-dir", type=Path, default=DEFAULT_OUT_DIR,
+                   help=f"Output directory root (default: {DEFAULT_OUT_DIR})")
+    p.add_argument("--concurrency", type=int, default=DEFAULT_CONCURRENCY,
+                   help=f"Parallel HTTP requests (default: {DEFAULT_CONCURRENCY})")
+    p.add_argument("--rate-interval", type=float, default=DEFAULT_RATE_INTERVAL,
+                   help=f"Min seconds between request starts (default: {DEFAULT_RATE_INTERVAL})")
     p.add_argument("--no-save-chapters", action="store_true",
                    help="Don't save chapter-level HTML to disk")
-    p.add_argument(
-        "--diff",
-        type=Path,
-        help="Path to a per-section manifest.jsonl to diff against. "
-             "Outputs missing-sections list at out_dir/{code}_missing.txt",
-    )
-    p.add_argument("--log-file", type=Path, default=Path("data/logs/ca_leginfo_toc.log"))
-    p.add_argument("--no-log-file", action="store_true")
-    p.add_argument("--verbose", action="store_true")
-    return vars(p.parse_args(argv))
+    p.add_argument("--diff", type=Path,
+                   help="Path to a per-section manifest.jsonl to diff against. "
+                        "Outputs missing-sections list at out_dir/{code}_missing.txt")
+    p.add_argument("--log-file", type=Path, default=DEFAULT_LOG_FILE,
+                   help=f"File to append log lines to (default: {DEFAULT_LOG_FILE})")
+    p.add_argument("--no-log-file", action="store_true",
+                   help="Disable file logging.")
+    p.add_argument("--verbose", action="store_true",
+                   help="DEBUG-level logs to stdout.")
+    return p
 
 
-async def _amain(args: dict) -> int:
-    log_path = None if args["no_log_file"] else args["log_file"]
-    _setup_logging(args["verbose"], log_path)
-    if log_path:
-        logger.info("file-log path=%s", log_path)
+def main(argv: Optional[list[str]] = None) -> int:
+    args = _build_parser().parse_args(argv if argv is not None else sys.argv[1:])
 
-    divisions, leaves, sections = await walk(
-        law_code=args["code"],
-        out_dir=args["out_dir"],
-        concurrency=args["concurrency"],
-        rate_interval=args["rate_interval"],
-        save_chapters=not args["no_save_chapters"],
-    )
+    log_path = None if args.no_log_file else args.log_file
+    setup_logging(SOURCE_SLUG, verbose=args.verbose, log_path=log_path)
+
+    divisions, leaves, sections = asyncio.run(walk(
+        law_code=args.code,
+        out_dir=args.out_dir,
+        concurrency=args.concurrency,
+        rate_interval=args.rate_interval,
+        save_chapters=not args.no_save_chapters,
+    ))
 
     summary = {
-        "code": args["code"],
+        "code": args.code,
         "divisions": len(divisions),
         "leaves": len(leaves),
         "sections_unique": len(sections),
     }
     logger.info("summary  %s", summary)
 
-    if args["diff"]:
-        manifest_path = args["diff"]
-        missing, present = diff_against_manifest(sections, manifest_path)
-        out = args["out_dir"] / f"{args['code']}_missing.txt"
+    if args.diff:
+        missing, present = diff_against_manifest(sections, args.diff)
+        out = args.out_dir / f"{args.code}_missing.txt"
         with out.open("w") as f:
             for s in missing:
                 f.write(f"{s.section}\n")
         logger.info(
             "diff     manifest=%s  in-manifest=%d  expected=%d  missing=%d -> %s",
-            manifest_path, len(present), len(sections), len(missing), out,
+            args.diff, len(present), len(sections), len(missing), out,
         )
     return 0
-
-
-def main(argv: Optional[list[str]] = None) -> int:
-    args = _parse_args(argv)
-    return asyncio.run(_amain(args))
 
 
 if __name__ == "__main__":

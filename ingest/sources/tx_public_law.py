@@ -12,230 +12,72 @@ Discovery strategy:
 1. Root index:    https://texas.public.law/statutes/tex._transp._code
                   -> 7 Titles, each with a Chapters range (e.g. "Chapters 501-1006").
 2. Title page:    https://texas.public.law/statutes/tex._transp._code_title_<N>
+                  -> list of Chapters (or list of Subtitles).
+3. Subtitle:      https://texas.public.law/statutes/tex._transp._code_title_<N>_subtitle_<X>
                   -> list of Chapters.
-3. Chapter page:  https://texas.public.law/statutes/tex._transp._code_chapter_<N>
-                  -> list of Sections (decimal: e.g. "545.151"). All section URLs
-                     are linked directly via <a href="...section_545.151">.
-4. Section page:  https://texas.public.law/statutes/tex._transp._code_section_<X.Y>
-                  -> single statute, HTTP 200 if exists, redirect/404 if not.
+4. Chapter page:  https://texas.public.law/statutes/tex._transp._code_chapter_<N>
+                  -> list of Sections (decimal: e.g. "545.151").
+5. Section page:  https://texas.public.law/statutes/tex._transp._code_section_<X.Y>
 
 Output:
     data/raw/tx_public_law/
         TN/<chapter>.<section>.html  # one file per valid section
         toc/                         # cached title + chapter pages (debug/audit)
         TN_toc.jsonl                 # master section index
-        manifest.jsonl
+        manifest.jsonl               # per-record write
 """
 from __future__ import annotations
 
 import argparse
 import asyncio
-import hashlib
 import json
 import logging
 import re
-from dataclasses import dataclass, asdict
-from datetime import datetime, timezone
+import sys
+from dataclasses import dataclass
 from html import unescape
 from pathlib import Path
 from typing import Optional
 
 import httpx
 
-from ingest._http import (
-    RateLimiter,
-    default_client,
-    get_with_retry,
-    setup_logging,
-)
+from .._http import RateLimiter, default_client, get_with_retry, setup_logging
+from ..cli import add_fetcher_args
+from ..manifest import ManifestWriter, dedupe, load_known_missing
+from .base import FetcherConfig, register_source, run_fetcher
 
 
 SOURCE_SLUG = "tx_public_law"
 JURISDICTION = "TX"
-LAW_CODE = "TN"   # Texas Transportation code abbreviation
+DEFAULT_LAW_CODE = "TN"
 BASE = "https://texas.public.law"
 ROOT_URL = f"{BASE}/statutes/tex._transp._code"
 
 DEFAULT_OUT_DIR = Path("data/raw") / SOURCE_SLUG
-DEFAULT_CONCURRENCY = 2
-DEFAULT_RATE_INTERVAL = 0.4
+DEFAULT_LOG_FILE = Path("data/logs") / f"{SOURCE_SLUG}.log"
 
-logger = logging.getLogger("tx_public_law")
+logger = logging.getLogger(SOURCE_SLUG)
 
 _TAG_RE = re.compile(r"<[^>]+>")
-
-
-# ---------------------------------------------------------------------------
-# Data model
-# ---------------------------------------------------------------------------
-
-
-@dataclass
-class TxTitle:
-    number: str        # "7"
-    title: str         # "Vehicles and Traffic"
-    chapter_range: str # "501-1006" or "Chapter 1"
-
-
-@dataclass
-class TxChapter:
-    title_number: str  # "7"
-    number: str        # "545"
-    title: str         # "Operation and Movement of Vehicles"
-    sections: list[str]   # ["545.001", "545.002", ...]
-
-
-@dataclass
-class FetchRecord:
-    source_slug: str
-    jurisdiction: str
-    law_code: str
-    section: str          # e.g. "545.151"
-    url: str
-    fetched_at: str
-    http_status: int
-    bytes: int
-    content_sha256: str
-    raw_path: Optional[str]
-    valid: bool
-    title_number: Optional[str] = None
-    chapter: Optional[str] = None
-    error: Optional[str] = None
-
-
-# ---------------------------------------------------------------------------
-# Parsing
-# ---------------------------------------------------------------------------
-
-
-def _text_of(html: str) -> str:
-    body = re.search(r"<body[^>]*>(.*?)</body>", html, re.DOTALL)
-    inner = body.group(1) if body else html
-    inner = re.sub(r"<script.*?</script>", " ", inner, flags=re.DOTALL)
-    inner = re.sub(r"<style.*?</style>", " ", inner, flags=re.DOTALL)
-    text = _TAG_RE.sub(" ", inner)
-    text = text.replace("\u2011", "-").replace("\u2013", "-").replace("\u2014", "-")
-    text = unescape(text)
-    text = re.sub(r"\s+", " ", text).strip()
-    return text
-
-
-# Root TOC: "Titles 1 General Provisions Chapter 1 2 General Provisions Relating to Carriers Chapters 5–20 ..."
 _ROOT_TITLE_RE = re.compile(
     r"\b(\d{1,2})\s+([A-Z][^\d]{3,80}?)\s+Chapters?\s+([\d\-]+)",
 )
-
-# Chapter links appear in two URL forms:
-#   tex._transp._code_chapter_545                                (canonical, used in our fetcher)
-#   tex._transp._code_title_7_subtitle_c_chapter_545             (long, found on subtitle pages)
-# We extract the chapter number from either form.
 _CHAPTER_LINK_RE = re.compile(
     r"tex\._transp\._code(?:_title_\d+(?:_subtitle_[a-z])?)?_chapter_(\d+[a-z]?)",
 )
 _SUBTITLE_LINK_RE = re.compile(
     r"tex\._transp\._code_title_(\d+)_subtitle_([a-z])",
 )
-
-# Chapter page lists sections via section URL pattern:
-#   /statutes/tex._transp._code_section_545.151
 _SECTION_LINK_RE = re.compile(
     r"tex\._transp\._code_section_(\d+\.\d+(?:[a-z])?)",
 )
-
-# Chapter title is on its own page near the top: "Chapter 545 Operation and Movement of Vehicles"
 _CHAPTER_TITLE_RE = re.compile(
     r"Chapter\s+\d+[a-z]?\s+(.+?)(?:\s+Statute|\s+Sections?|\s+Subchapter|\s+\d+\.)",
 )
 
 
-def parse_root(html: str) -> list[TxTitle]:
-    text = _text_of(html)
-    s = text.find("Titles")
-    e = text.find("Stay Connected")
-    if s >= 0 and e > s:
-        text = text[s:e]
-    titles: dict[str, TxTitle] = {}
-    for m in _ROOT_TITLE_RE.finditer(text):
-        num = m.group(1)
-        if num in titles:
-            continue
-        titles[num] = TxTitle(
-            number=num,
-            title=m.group(2).strip(),
-            chapter_range=m.group(3).strip(),
-        )
-    # Also handle "Chapter 1" (singular) for Title 1
-    # already in our text; the regex matches Chapters/Chapter
-    return list(titles.values())
-
-
-def parse_title(html: str, title_number: str) -> tuple[list[str], list[str]]:
-    """Return (chapters, subtitles) found on a title page.
-
-    Some titles link directly to chapters, others link to subtitles which then
-    link to chapters. Caller walks subtitles for chapter discovery if needed.
-    """
-    chapters: list[str] = []
-    seen_ch: set[str] = set()
-    for m in _CHAPTER_LINK_RE.finditer(html):
-        ch = m.group(1)
-        if ch in seen_ch:
-            continue
-        seen_ch.add(ch)
-        chapters.append(ch)
-
-    subtitles: list[str] = []
-    seen_st: set[str] = set()
-    for m in _SUBTITLE_LINK_RE.finditer(html):
-        if m.group(1) != title_number:
-            continue
-        st = m.group(2)
-        if st in seen_st:
-            continue
-        seen_st.add(st)
-        subtitles.append(st)
-    return chapters, subtitles
-
-
-def parse_subtitle(html: str) -> list[str]:
-    """Return chapter numbers linked from a subtitle page."""
-    chapters: list[str] = []
-    seen: set[str] = set()
-    for m in _CHAPTER_LINK_RE.finditer(html):
-        ch = m.group(1)
-        if ch in seen:
-            continue
-        seen.add(ch)
-        chapters.append(ch)
-    return chapters
-
-
-def subtitle_url(title_number: str, subtitle: str) -> str:
-    return f"{BASE}/statutes/tex._transp._code_title_{title_number}_subtitle_{subtitle}"
-
-
-def parse_chapter(html: str) -> list[str]:
-    """Return all section numbers (e.g. '545.151') linked from a chapter page."""
-    sections: list[str] = []
-    seen: set[str] = set()
-    for m in _SECTION_LINK_RE.finditer(html):
-        sec = m.group(1)
-        if sec in seen:
-            continue
-        seen.add(sec)
-        sections.append(sec)
-    return sorted(sections, key=_section_sort_key)
-
-
-def _section_sort_key(s: str) -> tuple:
-    m = re.match(r"(\d+)\.(\d+)", s)
-    if not m:
-        return (10**9, 10**9, s)
-    return (int(m.group(1)), int(m.group(2)), s)
-
-
 # ---------------------------------------------------------------------------
-# URLs
+# Source config
 # ---------------------------------------------------------------------------
 
 
@@ -251,38 +93,150 @@ def title_url(title_number: str) -> str:
     return f"{BASE}/statutes/tex._transp._code_title_{title_number}"
 
 
-def _now_iso() -> str:
-    return datetime.now(timezone.utc).isoformat(timespec="seconds")
+def subtitle_url(title_number: str, subtitle: str) -> str:
+    return f"{BASE}/statutes/tex._transp._code_title_{title_number}_subtitle_{subtitle}"
 
 
 def _safe_filename(section: str) -> str:
     return section + ".html"
 
 
+def _validity_check(section: str, body: bytes, text: str) -> tuple[bool, dict]:
+    if len(body) < 2000:
+        return False, {}
+    if "leaf-statute-body" not in text:
+        return False, {}
+    return True, {}
+
+
+@register_source(SOURCE_SLUG)
+def config_for(law_code: str = DEFAULT_LAW_CODE,
+               out_root: Path = DEFAULT_OUT_DIR) -> FetcherConfig:
+    return FetcherConfig(
+        source_slug=SOURCE_SLUG,
+        jurisdiction=JURISDICTION,
+        law_code=law_code,
+        code_name="Transportation Code",
+        url_builder=section_url,
+        validity_check=_validity_check,
+        output_root=out_root,
+        section_filename=_safe_filename,
+        default_concurrency=2,
+        default_rate_interval=0.4,
+    )
+
+
 # ---------------------------------------------------------------------------
-# Walker
+# Discovery
 # ---------------------------------------------------------------------------
+
+
+@dataclass
+class TxTitle:
+    number: str
+    title: str
+    chapter_range: str
+
+
+@dataclass
+class TxChapter:
+    title_number: str
+    number: str
+    title: str
+    sections: list[str]
+
+
+def _text_of(html: str) -> str:
+    body = re.search(r"<body[^>]*>(.*?)</body>", html, re.DOTALL)
+    inner = body.group(1) if body else html
+    inner = re.sub(r"<script.*?</script>", " ", inner, flags=re.DOTALL)
+    inner = re.sub(r"<style.*?</style>", " ", inner, flags=re.DOTALL)
+    text = _TAG_RE.sub(" ", inner)
+    text = text.replace("\u2011", "-").replace("\u2013", "-").replace("\u2014", "-")
+    text = unescape(text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
+
+
+def parse_root(html: str) -> list[TxTitle]:
+    text = _text_of(html)
+    s = text.find("Titles")
+    e = text.find("Stay Connected")
+    if s >= 0 and e > s:
+        text = text[s:e]
+    titles: dict[str, TxTitle] = {}
+    for m in _ROOT_TITLE_RE.finditer(text):
+        num = m.group(1)
+        if num in titles:
+            continue
+        titles[num] = TxTitle(num, m.group(2).strip(), m.group(3).strip())
+    return list(titles.values())
+
+
+def parse_title(html: str, title_number: str) -> tuple[list[str], list[str]]:
+    chapters: list[str] = []
+    seen_ch: set[str] = set()
+    for m in _CHAPTER_LINK_RE.finditer(html):
+        ch = m.group(1)
+        if ch not in seen_ch:
+            seen_ch.add(ch)
+            chapters.append(ch)
+    subtitles: list[str] = []
+    seen_st: set[str] = set()
+    for m in _SUBTITLE_LINK_RE.finditer(html):
+        if m.group(1) != title_number:
+            continue
+        st = m.group(2)
+        if st not in seen_st:
+            seen_st.add(st)
+            subtitles.append(st)
+    return chapters, subtitles
+
+
+def parse_subtitle(html: str) -> list[str]:
+    chapters: list[str] = []
+    seen: set[str] = set()
+    for m in _CHAPTER_LINK_RE.finditer(html):
+        ch = m.group(1)
+        if ch not in seen:
+            seen.add(ch)
+            chapters.append(ch)
+    return chapters
+
+
+def parse_chapter(html: str) -> list[str]:
+    sections: list[str] = []
+    seen: set[str] = set()
+    for m in _SECTION_LINK_RE.finditer(html):
+        sec = m.group(1)
+        if sec not in seen:
+            seen.add(sec)
+            sections.append(sec)
+    return sorted(sections, key=_section_sort_key)
+
+
+def _section_sort_key(s: str) -> tuple:
+    m = re.match(r"(\d+)\.(\d+)", s)
+    if not m:
+        return (10**9, 10**9, s)
+    return (int(m.group(1)), int(m.group(2)), s)
 
 
 async def discover_sections(
     client: httpx.AsyncClient,
-    rate: RateLimiter,
+    rate: Optional[RateLimiter],
     out_dir: Path,
 ) -> list[TxChapter]:
     toc_dir = out_dir / "toc"
     toc_dir.mkdir(parents=True, exist_ok=True)
 
-    # Step 1: root
     logger.info("toc      GET root")
     r = await get_with_retry(client, ROOT_URL, rate=rate, label="tx-root")
     r.raise_for_status()
     (toc_dir / "root.html").write_text(r.text)
     titles = parse_root(r.text)
     logger.info("toc      discovered %d titles", len(titles))
-    for t in titles:
-        logger.info("  title %-3s %s [Chapters %s]", t.number, t.title, t.chapter_range)
 
-    # Step 2: each title -> chapters (directly or via subtitles)
     title_chapters: dict[str, list[str]] = {}
     title_subtitles: dict[str, list[str]] = {}
 
@@ -296,29 +250,19 @@ async def discover_sections(
             return
         (toc_dir / f"title_{t.number}.html").write_text(resp.text)
         chs, sts = parse_title(resp.text, t.number)
-        logger.info(
-            "toc      title %-3s -> %d direct chapter links, %d subtitle links",
-            t.number, len(chs), len(sts),
-        )
         title_chapters[t.number] = chs
         title_subtitles[t.number] = sts
 
     await asyncio.gather(*[_fetch_title(t) for t in titles])
 
-    # Step 2b: walk any subtitles to collect more chapters
-    flat_subtitles: list[tuple[str, str]] = []
-    for tnum, sts in title_subtitles.items():
-        for st in sts:
-            flat_subtitles.append((tnum, st))
+    flat_subtitles: list[tuple[str, str]] = [
+        (tnum, st) for tnum, sts in title_subtitles.items() for st in sts
+    ]
     if flat_subtitles:
-        logger.info("toc      walking %d subtitles for chapter discovery", len(flat_subtitles))
-
         async def _fetch_subtitle(tnum: str, st: str):
             url = subtitle_url(tnum, st)
             resp = await get_with_retry(client, url, rate=rate, label=f"tx-subt-{tnum}-{st}")
             if resp.status_code >= 400:
-                logger.warning("toc      subtitle %s/%s failed status=%d",
-                               tnum, st, resp.status_code)
                 return
             (toc_dir / f"title_{tnum}_subtitle_{st}.html").write_text(resp.text)
             chs = parse_subtitle(resp.text)
@@ -326,21 +270,13 @@ async def discover_sections(
             for ch in chs:
                 if ch not in existing:
                     existing.append(ch)
-            logger.info(
-                "toc      subtitle %s/%s -> +%d chapter links (running total %d for title %s)",
-                tnum, st, len(chs), len(existing), tnum,
-            )
-
         await asyncio.gather(*[_fetch_subtitle(t, s) for t, s in flat_subtitles])
 
-    # Build flat chapter list with parent title
-    flat_chapters: list[tuple[str, str]] = []
-    for tnum, chs in title_chapters.items():
-        for ch in chs:
-            flat_chapters.append((tnum, ch))
-    logger.info("toc      total chapters across all titles: %d", len(flat_chapters))
+    flat_chapters: list[tuple[str, str]] = [
+        (tnum, ch) for tnum, chs in title_chapters.items() for ch in chs
+    ]
+    logger.info("toc      total chapters: %d", len(flat_chapters))
 
-    # Step 3: each chapter -> sections
     chapters_out: list[TxChapter] = []
     chap_lock = asyncio.Lock()
 
@@ -348,189 +284,151 @@ async def discover_sections(
         url = chapter_url(ch)
         resp = await get_with_retry(client, url, rate=rate, label=f"tx-chap-{ch}")
         if resp.status_code >= 400:
-            logger.warning("toc      chapter %s failed status=%d", ch, resp.status_code)
             return
         (toc_dir / f"chapter_{ch}.html").write_text(resp.text)
         sections = parse_chapter(resp.text)
-        # Try to grab chapter title from rendered text
         text = _text_of(resp.text)
         m = _CHAPTER_TITLE_RE.search(text)
         chap_title = m.group(1).strip() if m else ""
         async with chap_lock:
-            chapters_out.append(TxChapter(
-                title_number=tnum,
-                number=ch,
-                title=chap_title,
-                sections=sections,
-            ))
-        if len(chapters_out) % 25 == 0:
-            logger.info(
-                "toc      chapter walk: %d/%d done (last: ch%s -> %d secs)",
-                len(chapters_out), len(flat_chapters), ch, len(sections),
-            )
+            chapters_out.append(TxChapter(tnum, ch, chap_title, sections))
 
     await asyncio.gather(*[_fetch_chapter(t, c) for t, c in flat_chapters])
 
     total_sections = sum(len(c.sections) for c in chapters_out)
     logger.info(
-        "toc      total: %d titles, %d chapters, %d sections (raw, before fetch)",
+        "toc      total: %d titles, %d chapters, %d sections",
         len(titles), len(chapters_out), total_sections,
     )
     return chapters_out
 
 
 # ---------------------------------------------------------------------------
-# Section fetcher
+# Run
 # ---------------------------------------------------------------------------
-
-
-async def fetch_section(
-    client: httpx.AsyncClient,
-    rate: RateLimiter,
-    section: str,
-    out_dir: Path,
-    *,
-    title_number: Optional[str],
-    chapter: Optional[str],
-    force: bool = False,
-) -> FetchRecord:
-    code_dir = out_dir / LAW_CODE
-    code_dir.mkdir(parents=True, exist_ok=True)
-    dest = code_dir / _safe_filename(section)
-    url = section_url(section)
-
-    # Cache short-circuit
-    if dest.exists() and dest.stat().st_size > 1000 and not force:
-        text = dest.read_text(errors="ignore")
-        return FetchRecord(
-            source_slug=SOURCE_SLUG, jurisdiction=JURISDICTION,
-            law_code=LAW_CODE, section=section, url=url,
-            fetched_at=_now_iso(), http_status=200,
-            bytes=dest.stat().st_size,
-            content_sha256=hashlib.sha256(text.encode("utf-8", "ignore")).hexdigest(),
-            raw_path=str(dest), valid=True,
-            title_number=title_number, chapter=chapter,
-        )
-
-    resp = await get_with_retry(client, url, rate=rate, label=f"tx-sec-{section}")
-    text = resp.text
-    if resp.status_code == 200 and len(text) > 2000:
-        dest.write_text(text)
-        return FetchRecord(
-            source_slug=SOURCE_SLUG, jurisdiction=JURISDICTION,
-            law_code=LAW_CODE, section=section, url=url,
-            fetched_at=_now_iso(), http_status=200,
-            bytes=len(resp.content),
-            content_sha256=hashlib.sha256(text.encode("utf-8", "ignore")).hexdigest(),
-            raw_path=str(dest), valid=True,
-            title_number=title_number, chapter=chapter,
-        )
-    return FetchRecord(
-        source_slug=SOURCE_SLUG, jurisdiction=JURISDICTION,
-        law_code=LAW_CODE, section=section, url=url,
-        fetched_at=_now_iso(), http_status=resp.status_code,
-        bytes=len(resp.content),
-        content_sha256="", raw_path=None, valid=False,
-        title_number=title_number, chapter=chapter,
-        error=None if resp.status_code in (404, 307, 301, 302) else f"HTTP {resp.status_code}",
-    )
 
 
 async def run(
     *,
+    law_code: str = DEFAULT_LAW_CODE,
     out_dir: Path = DEFAULT_OUT_DIR,
-    concurrency: int = DEFAULT_CONCURRENCY,
-    rate_interval: float = DEFAULT_RATE_INTERVAL,
+    concurrency: int = 2,
+    rate_interval: float = 0.4,
     force: bool = False,
     sections_override: Optional[list[str]] = None,
+    skip_known_missing: bool = True,
+    heartbeat_every: float = 5.0,
+    limit: Optional[int] = None,
 ) -> dict:
     out_dir.mkdir(parents=True, exist_ok=True)
     manifest_path = out_dir / "manifest.jsonl"
-    toc_index_path = out_dir / f"{LAW_CODE}_toc.jsonl"
+    toc_index_path = out_dir / f"{law_code}_toc.jsonl"
 
-    rate = RateLimiter(rate_interval)
+    config = config_for(law_code=law_code, out_root=out_dir)
+    rate = RateLimiter(rate_interval) if rate_interval > 0 else None
 
     async with default_client(concurrency=concurrency) as client:
         # ---- Discovery ----
         if sections_override is None:
             chapters = await discover_sections(client, rate, out_dir)
-            tasks: list[tuple[str, Optional[str], Optional[str]]] = []
             seen: set[str] = set()
+            sections: list[str] = []
+            chapter_by_section: dict[str, tuple[Optional[str], Optional[str]]] = {}
             for ch in chapters:
                 for sec in ch.sections:
                     if sec in seen:
                         continue
                     seen.add(sec)
-                    tasks.append((sec, ch.title_number, ch.number))
-
+                    sections.append(sec)
+                    chapter_by_section[sec] = (ch.title_number, ch.number)
             with toc_index_path.open("w") as f:
-                for sec, tnum, ch in tasks:
+                for sec in sections:
+                    tnum, ch = chapter_by_section[sec]
                     f.write(json.dumps({
-                        "code": LAW_CODE,
+                        "code": law_code,
                         "section": sec,
                         "title_number": tnum,
                         "chapter": ch,
                         "section_url": section_url(sec),
                     }) + "\n")
-            logger.info("toc      wrote %s (%d sections)", toc_index_path, len(tasks))
+            logger.info("toc      wrote %s (%d sections)", toc_index_path, len(sections))
         else:
-            tasks = [(s, None, None) for s in sections_override]
+            sections = sections_override
+            chapter_by_section = {}
+
+        if skip_known_missing and not force:
+            missing = load_known_missing(
+                manifest_path,
+                jurisdiction=JURISDICTION,
+                law_code=law_code,
+            )
+            if missing:
+                before = len(sections)
+                sections = [s for s in sections if s not in missing]
+                logger.info(
+                    "skip-known-missing dropped=%d remaining=%d",
+                    before - len(sections), len(sections),
+                )
+
+        if limit is not None:
+            sections = sections[:limit]
+
+        logger.info(
+            "start    code=%s sections=%d concurrency=%d out=%s",
+            law_code, len(sections), concurrency, out_dir,
+        )
 
         # ---- Fetch ----
-        sem = asyncio.Semaphore(concurrency)
-        records: list[FetchRecord] = []
-        stats = {"completed": 0, "valid": 0, "not_found": 0, "errors": 0, "bytes": 0}
-        lock = asyncio.Lock()
-        total = len(tasks)
+        with ManifestWriter(manifest_path) as mw:
+            stats = await run_fetcher(
+                config, sections,
+                force=force,
+                concurrency=concurrency,
+                rate_interval=rate_interval,
+                manifest=mw,
+                heartbeat_every=heartbeat_every,
+                log=logger,
+            )
 
-        async def _worker(sec: str, tnum: Optional[str], ch: Optional[str]):
-            async with sem:
-                try:
-                    rec = await fetch_section(
-                        client, rate, sec, out_dir,
-                        title_number=tnum, chapter=ch, force=force,
-                    )
-                except Exception as e:
-                    rec = FetchRecord(
-                        source_slug=SOURCE_SLUG, jurisdiction=JURISDICTION,
-                        law_code=LAW_CODE, section=sec, url=section_url(sec),
-                        fetched_at=_now_iso(), http_status=0, bytes=0,
-                        content_sha256="", raw_path=None, valid=False,
-                        title_number=tnum, chapter=ch, error=f"{type(e).__name__}: {e}",
-                    )
-            async with lock:
-                records.append(rec)
-                stats["completed"] += 1
-                stats["bytes"] += rec.bytes
-                if rec.valid:
-                    stats["valid"] += 1
-                elif rec.error:
-                    stats["errors"] += 1
-                else:
-                    stats["not_found"] += 1
-                if stats["completed"] % 50 == 0 or stats["completed"] == total:
-                    logger.info(
-                        "fetch    %d/%d  valid=%d  not_found=%d  errors=%d  %.1fMB",
-                        stats["completed"], total, stats["valid"],
-                        stats["not_found"], stats["errors"],
-                        stats["bytes"] / (1 << 20),
-                    )
-            return rec
-
-        await asyncio.gather(*[_worker(s, t, c) for s, t, c in tasks])
-
-    with manifest_path.open("a") as f:
-        for rec in records:
-            f.write(json.dumps(asdict(rec)) + "\n")
+    if chapter_by_section:
+        _annotate_manifest_with_chapters(manifest_path, chapter_by_section)
 
     summary = {
-        "code": LAW_CODE,
-        "total": total,
-        **{k: stats[k] for k in ("valid", "not_found", "errors", "bytes")},
+        "code": law_code,
+        "total": len(sections),
+        **stats,
     }
     logger.info("done     %s", summary)
     logger.info("manifest %s", manifest_path)
     return summary
+
+
+def _annotate_manifest_with_chapters(
+    manifest_path: Path,
+    chapter_by_section: dict[str, tuple[Optional[str], Optional[str]]],
+) -> None:
+    if not manifest_path.exists():
+        return
+    lines = manifest_path.read_text().splitlines()
+    out_lines: list[str] = []
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            rec = json.loads(line)
+        except json.JSONDecodeError:
+            out_lines.append(line)
+            continue
+        sec = rec.get("section")
+        if sec in chapter_by_section:
+            tnum, ch = chapter_by_section[sec]
+            extra = rec.get("extra") or {}
+            extra.setdefault("title_number", tnum)
+            extra.setdefault("chapter", ch)
+            rec["extra"] = extra
+        out_lines.append(json.dumps(rec, ensure_ascii=False, default=str))
+    manifest_path.write_text("\n".join(out_lines) + "\n")
 
 
 # ---------------------------------------------------------------------------
@@ -538,37 +436,68 @@ async def run(
 # ---------------------------------------------------------------------------
 
 
-def _parse_args(argv: Optional[list[str]] = None) -> dict:
-    p = argparse.ArgumentParser(description=__doc__)
-    p.add_argument("--out-dir", type=Path, default=DEFAULT_OUT_DIR)
-    p.add_argument("--concurrency", type=int, default=DEFAULT_CONCURRENCY)
-    p.add_argument("--rate-interval", type=float, default=DEFAULT_RATE_INTERVAL)
-    p.add_argument("--force", action="store_true")
-    p.add_argument("--sections", nargs="+",
-                   help="Skip discovery and just fetch this explicit list of sections.")
-    p.add_argument("--log-file", type=Path, default=Path("data/logs/tx_public_law.log"))
-    p.add_argument("--no-log-file", action="store_true")
-    p.add_argument("--verbose", action="store_true")
-    return vars(p.parse_args(argv))
-
-
-async def _amain(args: dict) -> int:
-    log_path = None if args["no_log_file"] else args["log_file"]
-    setup_logging(args["verbose"], log_path)
-    if log_path:
-        logger.info("file-log path=%s", log_path)
-    await run(
-        out_dir=args["out_dir"],
-        concurrency=args["concurrency"],
-        rate_interval=args["rate_interval"],
-        force=args["force"],
-        sections_override=args.get("sections"),
+def _build_parser() -> argparse.ArgumentParser:
+    p = argparse.ArgumentParser(
+        description="TX Transportation Code fetcher (texas.public.law).",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
     )
-    return 0
+    add_fetcher_args(
+        p,
+        default_code=DEFAULT_LAW_CODE,
+        default_out_dir=DEFAULT_OUT_DIR,
+        default_log_file=DEFAULT_LOG_FILE,
+        default_concurrency=2,
+        default_rate_interval=0.4,
+        supports_sections_file=True,
+        supports_skip_known_missing=True,
+        supports_dedupe=True,
+    )
+    return p
 
 
 def main(argv: Optional[list[str]] = None) -> int:
-    return asyncio.run(_amain(_parse_args(argv)))
+    args = _build_parser().parse_args(argv if argv is not None else sys.argv[1:])
+
+    log_path = None if args.no_log_file else args.log_file
+    setup_logging(SOURCE_SLUG, verbose=args.verbose, log_path=log_path)
+
+    manifest_path = args.out_dir / "manifest.jsonl"
+
+    if args.dedupe:
+        before, after, qc = dedupe(
+            manifest_path,
+            key_fields=("law_code", "section"),
+        )
+        print(f"[dedupe] before={before} after={after}")
+        print(f"[dedupe] quality: valid={qc.get('valid', 0)}  "
+              f"not_found={qc.get('not_found', 0)}  "
+              f"error={qc.get('error', 0)}  other={qc.get('other', 0)}")
+        return 0
+
+    sections_override: Optional[list[str]] = None
+    if args.sections:
+        sections_override = list(args.sections)
+    elif getattr(args, "sections_file", None):
+        path: Path = args.sections_file
+        if not path.exists():
+            raise SystemExit(f"sections file not found at {path}")
+        with path.open() as f:
+            sections_override = [
+                ln.strip() for ln in f if ln.strip() and not ln.startswith("#")
+            ]
+
+    asyncio.run(run(
+        law_code=args.code,
+        out_dir=args.out_dir,
+        concurrency=args.concurrency,
+        rate_interval=args.rate_interval,
+        force=args.force,
+        sections_override=sections_override,
+        skip_known_missing=not args.no_skip_missing,
+        heartbeat_every=args.heartbeat_every,
+        limit=args.limit,
+    ))
+    return 0
 
 
 if __name__ == "__main__":
