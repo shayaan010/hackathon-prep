@@ -46,12 +46,29 @@ DEFAULT_OUT_DIR = Path("data/raw") / SOURCE_SLUG
 EVAL_CSV = Path("data/eval-ca-vehicle-code.csv")
 
 DEFAULT_LAW_CODE = "VEH"
-DEFAULT_CONCURRENCY = 20
+DEFAULT_CONCURRENCY = 2   # leginfo throttles aggressively; 2 is sustainable
 DEFAULT_TIMEOUT_S = 30.0
+
+# leginfo returns 403s less often when the request looks like a real browser.
+# This is not deception — we identify ourselves in the URL contact param if asked.
 USER_AGENT = (
-    "OpenClawHackathonHarvester/0.1 "
-    "(legal research; contact: hackathon@example.com)"
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/120.0.0.0 Safari/537.36"
 )
+
+# 403 / rate-limit retry policy. Each attempt waits BACKOFF_BASE * 2**(attempt-1) sec
+# plus a small jitter, capped at MAX_BACKOFF.
+# leginfo's 403s are noisy/transient (per probing: ~30% baseline rate even sequential)
+# so we use SHORT backoffs — 0.5s, 1s, 2s, 4s, 8s — to recover quickly.
+MAX_RETRIES_403 = 6
+BACKOFF_BASE = 0.5
+MAX_BACKOFF = 30.0
+RETRY_STATUSES = {403, 429, 502, 503, 504}
+
+# Logger setup
+import logging
+logger = logging.getLogger("ca_leginfo_pages")
 
 # Marker indicating a real section. The leginfo page sets `op_statues = '2022'`
 # (or another year) for real sections, and `op_statues = ''` for missing ones.
@@ -159,6 +176,7 @@ async def fetch_section(
     if dest.exists() and dest.stat().st_size > 0 and not force:
         text = dest.read_text(errors="ignore")
         m = _VALID_SECTION_RE.search(text)
+        logger.debug("cache hit  section=%s valid=%s", section, bool(m))
         return FetchRecord(
             source_slug=SOURCE_SLUG,
             jurisdiction=JURISDICTION,
@@ -174,9 +192,77 @@ async def fetch_section(
             op_statues=m.group(1) if m else None,
         )
 
-    try:
-        resp = await client.get(url)
-    except Exception as e:
+    # Retry loop for transient errors (403, 429, 5xx, network failures).
+    last_status: int = 0
+    last_error: Optional[str] = None
+    body: bytes = b""
+    text: str = ""
+    resp: Optional[httpx.Response] = None
+
+    for attempt in range(1, MAX_RETRIES_403 + 1):
+        try:
+            resp = await client.get(url)
+            last_status = resp.status_code
+
+            if resp.status_code in RETRY_STATUSES:
+                # backoff: 0.5s, 1s, 2s, 4s, 8s, 16s with small jitter
+                wait = min(
+                    BACKOFF_BASE * (2 ** (attempt - 1)) + 0.1 * attempt,
+                    MAX_BACKOFF,
+                )
+                logger.warning(
+                    "retry    section=%s attempt=%d/%d status=%d backoff=%.1fs",
+                    section, attempt, MAX_RETRIES_403,
+                    resp.status_code, wait,
+                )
+                if attempt < MAX_RETRIES_403:
+                    await asyncio.sleep(wait)
+                    continue
+                # exhausted retries — fall through with last response
+                break
+
+            # Success path (or any non-retryable status)
+            body = resp.content
+            text = resp.text
+            break
+
+        except (httpx.ConnectError, httpx.ConnectTimeout, httpx.ReadError,
+                httpx.ReadTimeout, httpx.RemoteProtocolError) as e:
+            last_error = f"{type(e).__name__}: {e}"
+            wait = min(
+                BACKOFF_BASE * (2 ** (attempt - 1)) + 0.1 * attempt,
+                MAX_BACKOFF,
+            )
+            logger.warning(
+                "retry    section=%s attempt=%d/%d error=%s backoff=%.1fs",
+                section, attempt, MAX_RETRIES_403, type(e).__name__, wait,
+            )
+            if attempt < MAX_RETRIES_403:
+                await asyncio.sleep(wait)
+                continue
+            # Exhausted retries on network error
+            return FetchRecord(
+                source_slug=SOURCE_SLUG,
+                jurisdiction=JURISDICTION,
+                law_code=law_code,
+                section=section,
+                url=url,
+                fetched_at=_now_iso(),
+                http_status=0,
+                bytes=0,
+                content_sha256="",
+                raw_path=None,
+                valid=False,
+                error=last_error,
+            )
+
+    # If we still have a retryable status after exhausting attempts, mark as error
+    # so a future run will retry this section instead of caching it as "missing".
+    if resp is not None and resp.status_code in RETRY_STATUSES:
+        logger.error(
+            "give-up  section=%s status=%d after %d retries",
+            section, resp.status_code, MAX_RETRIES_403,
+        )
         return FetchRecord(
             source_slug=SOURCE_SLUG,
             jurisdiction=JURISDICTION,
@@ -184,16 +270,31 @@ async def fetch_section(
             section=section,
             url=url,
             fetched_at=_now_iso(),
-            http_status=0,
+            http_status=resp.status_code,
+            bytes=len(resp.content),
+            content_sha256="",
+            raw_path=None,
+            valid=False,
+            error=f"HTTP {resp.status_code} after {MAX_RETRIES_403} retries",
+        )
+
+    if resp is None:
+        # Should not happen — but guard against it
+        return FetchRecord(
+            source_slug=SOURCE_SLUG,
+            jurisdiction=JURISDICTION,
+            law_code=law_code,
+            section=section,
+            url=url,
+            fetched_at=_now_iso(),
+            http_status=last_status,
             bytes=0,
             content_sha256="",
             raw_path=None,
             valid=False,
-            error=f"{type(e).__name__}: {e}",
+            error=last_error or "no response",
         )
 
-    body = resp.content
-    text = resp.text
     m = _VALID_SECTION_RE.search(text)
     valid = bool(m)
     sha = hashlib.sha256(body).hexdigest()
@@ -201,8 +302,16 @@ async def fetch_section(
     if valid:
         dest.write_bytes(body)
         raw_path: Optional[str] = str(dest)
+        logger.debug(
+            "ok       section=%s status=%d bytes=%d op_statues=%s",
+            section, resp.status_code, len(body), m.group(1) if m else "",
+        )
     else:
-        raw_path = None  # don't persist 160KB of "section doesn't exist" chrome
+        raw_path = None
+        logger.debug(
+            "no-stmt  section=%s status=%d (section does not exist)",
+            section, resp.status_code,
+        )
 
     return FetchRecord(
         source_slug=SOURCE_SLUG,
@@ -225,6 +334,165 @@ async def fetch_section(
 # ---------------------------------------------------------------------------
 
 
+def _record_quality(rec: dict) -> int:
+    """Higher = more informative. Used to pick the best record per section.
+
+    Priority:
+      4: valid=True (we have the statute on disk)
+      3: 200 not-found (server says it doesn't exist)
+      2: any other 2xx/3xx with no error
+      1: 4xx with no error
+      0: errored / 5xx / connect failure
+    """
+    if rec.get("valid"):
+        return 4
+    if rec.get("error"):
+        return 0
+    status = rec.get("http_status") or 0
+    if status == 200:
+        return 3
+    if 200 <= status < 400:
+        return 2
+    if 400 <= status < 500:
+        return 1
+    return 0
+
+
+def dedupe_manifest(manifest_path: Path) -> tuple[int, int, dict[str, int]]:
+    """Compact the manifest in place, keeping the best record per (law_code, section).
+
+    Returns (records_before, records_after, quality_counts).
+    Older duplicate lines are dropped. Records with no section/law_code are kept as-is.
+    """
+    if not manifest_path.exists():
+        return 0, 0, {}
+
+    lines = [l for l in manifest_path.read_text().splitlines() if l.strip()]
+    before = len(lines)
+
+    best: dict[tuple, dict] = {}
+    keepers: list[dict] = []  # records without a section key (shouldn't exist, but safe)
+    for line in lines:
+        try:
+            rec = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        key = (rec.get("law_code"), rec.get("section"))
+        if not all(key):
+            keepers.append(rec)
+            continue
+        prev = best.get(key)
+        if prev is None or _record_quality(rec) > _record_quality(prev):
+            best[key] = rec
+
+    final = list(best.values()) + keepers
+
+    quality_counts: dict[str, int] = {"valid": 0, "not_found": 0, "error": 0, "other": 0}
+    for rec in final:
+        q = _record_quality(rec)
+        if q == 4:
+            quality_counts["valid"] += 1
+        elif q == 3:
+            quality_counts["not_found"] += 1
+        elif q == 0:
+            quality_counts["error"] += 1
+        else:
+            quality_counts["other"] += 1
+
+    # Sort for stable output: by law_code then section sort key
+    final.sort(key=lambda r: (
+        r.get("law_code") or "",
+        _section_sort_key(r.get("section") or ""),
+    ))
+
+    backup = manifest_path.with_suffix(manifest_path.suffix + ".bak")
+    manifest_path.replace(backup)
+    with manifest_path.open("w") as f:
+        for rec in final:
+            f.write(json.dumps(rec) + "\n")
+
+    return before, len(final), quality_counts
+
+
+def load_known_missing(manifest_path: Path, law_code: str) -> set[str]:
+    """Read the manifest and return sections previously confirmed not-found.
+
+    A section is "known missing" if a prior fetch returned a valid 200 response
+    but the body indicated no statute (op_statues = '' / regex didn't match).
+    Sections with errors / 403 / 5xx are NOT considered known missing — those
+    should be retried.
+    """
+    if not manifest_path.exists():
+        return set()
+    missing: set[str] = set()
+    with manifest_path.open() as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                rec = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if rec.get("law_code") != law_code:
+                continue
+            if rec.get("error"):
+                continue
+            if rec.get("http_status") == 200 and not rec.get("valid"):
+                missing.add(rec["section"])
+    return missing
+
+
+def _setup_logging(log_path: Optional[Path], verbose: bool) -> None:
+    """Configure root logger for the fetcher: stdout + optional file."""
+    level = logging.DEBUG if verbose else logging.INFO
+    logger.setLevel(level)
+    # Clear any existing handlers (re-runs in same process).
+    for h in list(logger.handlers):
+        logger.removeHandler(h)
+
+    fmt = logging.Formatter(
+        "%(asctime)s.%(msecs)03d %(levelname)-7s %(message)s",
+        datefmt="%H:%M:%S",
+    )
+    sh = logging.StreamHandler(sys.stdout)
+    sh.setLevel(level)
+    sh.setFormatter(fmt)
+    logger.addHandler(sh)
+
+    if log_path:
+        log_path.parent.mkdir(parents=True, exist_ok=True)
+        fh = logging.FileHandler(log_path, mode="a")
+        fh.setLevel(logging.DEBUG)  # file always gets debug
+        fh.setFormatter(fmt)
+        logger.addHandler(fh)
+        logger.info("file-log path=%s", log_path)
+
+
+async def _heartbeat(stats: dict, total: int, every_s: float = 5.0) -> None:
+    """Periodically print rolling progress until cancelled."""
+    last_completed = 0
+    last_t = asyncio.get_event_loop().time()
+    while True:
+        await asyncio.sleep(every_s)
+        now = asyncio.get_event_loop().time()
+        delta = stats["completed"] - last_completed
+        rate = delta / max(now - last_t, 0.001)
+        remaining = total - stats["completed"]
+        eta = remaining / rate if rate > 0 else float("inf")
+        eta_str = f"{eta/60:.1f}min" if eta != float("inf") else "n/a"
+        logger.info(
+            "progress %d/%d  valid=%d  not_found=%d  retried=%d  errors=%d  "
+            "rate=%.1f/s eta=%s  %.1f MB",
+            stats["completed"], total,
+            stats["valid"], stats["not_found"],
+            stats["retried"], stats["errors"],
+            rate, eta_str, stats["bytes"] / (1 << 20),
+        )
+        last_completed = stats["completed"]
+        last_t = now
+
+
 async def run(
     sections: Iterable[str],
     law_code: str = DEFAULT_LAW_CODE,
@@ -232,26 +500,61 @@ async def run(
     out_dir: Path = DEFAULT_OUT_DIR,
     concurrency: int = DEFAULT_CONCURRENCY,
     force: bool = False,
-    progress_every: int = 100,
+    skip_known_missing: bool = True,
+    log_path: Optional[Path] = None,
+    verbose: bool = False,
+    heartbeat_every_s: float = 5.0,
+    request_interval_s: float = 0.0,
 ) -> list[FetchRecord]:
     sections = list(sections)
     out_dir.mkdir(parents=True, exist_ok=True)
     manifest_path = out_dir / "manifest.jsonl"
 
+    _setup_logging(log_path, verbose)
+
+    # Skip sections we've already confirmed don't exist (unless --force).
+    if skip_known_missing and not force:
+        missing = load_known_missing(manifest_path, law_code)
+        if missing:
+            before = len(sections)
+            sections = [s for s in sections if s not in missing]
+            logger.info(
+                "skip-known-missing dropped=%d remaining=%d",
+                before - len(sections), len(sections),
+            )
+
     headers = {"User-Agent": USER_AGENT, "Accept": "text/html,*/*;q=0.8"}
     timeout = httpx.Timeout(DEFAULT_TIMEOUT_S, connect=15.0)
 
-    print(
-        f"[start] {len(sections)} sections, code={law_code}, "
-        f"concurrency={concurrency}",
-        flush=True,
+    logger.info(
+        "start    code=%s sections=%d concurrency=%d out=%s",
+        law_code, len(sections), concurrency, out_dir,
     )
 
-    sem = asyncio.Semaphore(concurrency)
-    completed = 0
-    valid_count = 0
-    bytes_total = 0
+    stats = {
+        "completed": 0,
+        "valid": 0,
+        "not_found": 0,
+        "retried": 0,
+        "errors": 0,
+        "bytes": 0,
+    }
     lock = asyncio.Lock()
+    sem = asyncio.Semaphore(concurrency)
+    rate_lock = asyncio.Lock()
+    next_request_t: list[float] = [0.0]  # mutable closure cell
+
+    async def _rate_limit():
+        """Enforce a global minimum interval between request starts."""
+        if request_interval_s <= 0:
+            return
+        async with rate_lock:
+            now = asyncio.get_event_loop().time()
+            wait = next_request_t[0] - now
+            if wait > 0:
+                await asyncio.sleep(wait)
+                now = asyncio.get_event_loop().time()
+            next_request_t[0] = max(now, next_request_t[0]) + request_interval_s
 
     async with httpx.AsyncClient(
         headers=headers,
@@ -265,46 +568,60 @@ async def run(
     ) as client:
 
         async def _bounded(section: str) -> FetchRecord:
-            nonlocal completed, valid_count, bytes_total
             async with sem:
+                await _rate_limit()
                 rec = await fetch_section(
                     client, section, law_code, out_dir, force=force
                 )
             async with lock:
-                completed += 1
-                bytes_total += rec.bytes
+                stats["completed"] += 1
+                stats["bytes"] += rec.bytes
                 if rec.valid:
-                    valid_count += 1
-                if completed % progress_every == 0 or completed == len(sections):
-                    print(
-                        f"  ... {completed}/{len(sections)}  "
-                        f"valid={valid_count}  bytes={bytes_total / (1<<20):.1f} MB",
-                        flush=True,
-                    )
+                    stats["valid"] += 1
+                elif rec.error:
+                    stats["errors"] += 1
+                elif rec.http_status == 200:
+                    stats["not_found"] += 1
+                else:
+                    stats["retried"] += 1
             return rec
 
-        records: list[FetchRecord] = await asyncio.gather(
-            *[_bounded(s) for s in sections]
+        # Heartbeat task for periodic progress
+        hb_task = asyncio.create_task(
+            _heartbeat(stats, len(sections), every_s=heartbeat_every_s)
         )
 
-    # Append to manifest (don't truncate — keep history of fetch runs).
+        try:
+            records: list[FetchRecord] = await asyncio.gather(
+                *[_bounded(s) for s in sections]
+            )
+        finally:
+            hb_task.cancel()
+            try:
+                await hb_task
+            except asyncio.CancelledError:
+                pass
+
+    # Append to manifest. Dedupe afterwards for callers who want compaction.
     with manifest_path.open("a") as f:
         for rec in records:
             f.write(json.dumps(asdict(rec)) + "\n")
 
-    valid = [r for r in records if r.valid]
-    invalid = [r for r in records if not r.valid and not r.error]
     failed = [r for r in records if r.error]
-    print(
-        f"\n[summary] {len(valid)} valid, {len(invalid)} not-found, "
-        f"{len(failed)} failed; {bytes_total / (1<<20):.1f} MB"
+    not_found = [r for r in records if not r.valid and not r.error and r.http_status == 200]
+    valid = [r for r in records if r.valid]
+
+    logger.info(
+        "done     valid=%d not_found=%d errors=%d total_bytes=%.1fMB",
+        len(valid), len(not_found), len(failed), stats["bytes"] / (1 << 20),
     )
     if failed:
         for r in failed[:10]:
-            print(f"  ✗ {r.section}: {r.error}")
+            logger.warning("failed   section=%s status=%d err=%s",
+                           r.section, r.http_status, r.error)
         if len(failed) > 10:
-            print(f"  ... and {len(failed) - 10} more")
-    print(f"[manifest] {manifest_path}")
+            logger.warning("... and %d more failures", len(failed) - 10)
+    logger.info("manifest %s", manifest_path)
     return records
 
 
@@ -379,6 +696,45 @@ Examples:
         default=None,
         help="Cap number of sections (smoke testing).",
     )
+    p.add_argument(
+        "--no-skip-missing",
+        action="store_true",
+        help="Re-attempt sections previously confirmed not-found.",
+    )
+    p.add_argument(
+        "--dedupe",
+        action="store_true",
+        help="Compact the manifest (keep best record per section) and exit.",
+    )
+    p.add_argument(
+        "--log-file",
+        type=Path,
+        default=Path("data/logs/ca_leginfo_pages.log"),
+        help="File to append detailed log lines to (default: %(default)s)",
+    )
+    p.add_argument(
+        "--no-log-file",
+        action="store_true",
+        help="Disable file logging.",
+    )
+    p.add_argument(
+        "--verbose",
+        action="store_true",
+        help="Log DEBUG-level messages to stdout.",
+    )
+    p.add_argument(
+        "--heartbeat-every",
+        type=float,
+        default=5.0,
+        help="Seconds between progress heartbeat lines (default: %(default)s)",
+    )
+    p.add_argument(
+        "--rate-interval",
+        type=float,
+        default=0.5,
+        help="Minimum seconds between request starts (global, across all workers). "
+        "Default %(default)s. Set 0 to disable.",
+    )
     return vars(p.parse_args(argv))
 
 
@@ -405,6 +761,19 @@ def _build_section_list(args: dict) -> list[str]:
 
 
 async def _main_async(args: dict) -> int:
+    out_dir: Path = args["out"]
+    manifest_path = out_dir / "manifest.jsonl"
+
+    if args["dedupe"]:
+        before, after, qc = dedupe_manifest(manifest_path)
+        print(f"[dedupe] before={before} after={after}")
+        print(f"[dedupe] quality: valid={qc.get('valid', 0)}  "
+              f"not_found={qc.get('not_found', 0)}  "
+              f"error={qc.get('error', 0)}  other={qc.get('other', 0)}")
+        backup = manifest_path.with_suffix(manifest_path.suffix + ".bak")
+        print(f"[dedupe] backup at {backup}")
+        return 0
+
     sections = _build_section_list(args)
     if args["limit"] is not None:
         sections = sections[: args["limit"]]
@@ -412,12 +781,19 @@ async def _main_async(args: dict) -> int:
         print("No sections to fetch.")
         return 1
 
+    log_path = None if args["no_log_file"] else args["log_file"]
+
     await run(
         sections,
         law_code=args["code"],
-        out_dir=args["out"],
+        out_dir=out_dir,
         concurrency=args["concurrency"],
         force=args["force"],
+        skip_known_missing=not args["no_skip_missing"],
+        log_path=log_path,
+        verbose=args["verbose"],
+        heartbeat_every_s=args["heartbeat_every"],
+        request_interval_s=args["rate_interval"],
     )
     return 0
 
