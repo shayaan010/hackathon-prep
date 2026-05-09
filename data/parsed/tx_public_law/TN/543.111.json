@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "543.111",
+  "section_name": "Regulation by Certain State Agencies",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "543",
+  "chapter_title": "Arrest & Prosecution of Violators",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The Texas Commission of Licensing and Regulation shall enter into a memorandum of understanding with the Texas Department of Insurance for the interagency development of a curriculum for driving safety courses.\n\n(b) The Texas Commission of Licensing and Regulation and Texas Department of Licensing and Regulation, as appropriate, shall:\n\n(1) adopt and administer comprehensive rules governing driving safety courses; and\n\n(2) investigate options to develop and implement procedures to electronically transmit information pertaining to driving safety courses to municipal and justice courts.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 543. Arrest & Prosecution of Violators\n##### § 543.111 — Regulation by Certain State Agencies\n\n(a) The Texas Commission of Licensing and Regulation shall enter into a memorandum of understanding with the Texas Department of Insurance for the interagency development of a curriculum for driving safety courses.\n\n(b) The Texas Commission of Licensing and Regulation and Texas Department of Licensing and Regulation, as appropriate, shall:\n\n    (1) adopt and administer comprehensive rules governing driving safety courses; and\n\n    (2) investigate options to develop and implement procedures to electronically transmit information pertaining to driving safety courses to municipal and justice courts.\n\n*Acts 2015, 84th Leg., R.S., Ch. 1044 (H.B.1786), Sec. 65, eff. September 1, 2015.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Texas Commission of Licensing and Regulation shall enter into a memorandum of understanding with the Texas Department of Insurance for the interagency development of a curriculum for driving safety courses.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The Texas Commission of Licensing and Regulation and Texas Department of Licensing and Regulation, as appropriate, shall:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "adopt and administer comprehensive rules governing driving safety courses; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "investigate options to develop and implement procedures to electronically transmit information pertaining to driving safety courses to municipal and justice courts.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2015, 84th Leg., R.S., Ch. 1044 (H.B.1786), Sec. 65, eff. September 1, 2015.",
+    "action": null,
+    "statutes_year": 2015,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2015-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_543.111",
+  "source_path": "data/raw/tx_public_law/TN/543.111.html",
+  "content_sha256": "e66efeaf9fd8a3a2960701c716947110073205b8177163399f482815399a005f",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

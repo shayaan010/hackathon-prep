@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "647.002",
+  "section_name": "Application of Chapter",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "647",
+  "chapter_title": "Motor Transp. of Migrant Agricultural Workers",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) This chapter applies to any carrier, including a carrier under contract, who at any time uses a motor vehicle to transport to or from a place of employment in this state at least five migrant agricultural workers for a total distance of more than 50 miles.\n\n(b) This chapter does not apply if:\n\n(1) the carrier is a common carrier;\n\n(2) the motor vehicle used is a station wagon or passenger automobile; or\n\n(3) the carrier is a migrant agricultural worker transporting the worker or a member of the worker’s immediate family.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 647. Motor Transp. of Migrant Agricultural Workers\n##### § 647.002 — Application of Chapter\n\n(a) This chapter applies to any carrier, including a carrier under contract, who at any time uses a motor vehicle to transport to or from a place of employment in this state at least five migrant agricultural workers for a total distance of more than 50 miles.\n\n(b) This chapter does not apply if:\n\n    (1) the carrier is a common carrier;\n\n    (2) the motor vehicle used is a station wagon or passenger automobile; or\n\n    (3) the carrier is a migrant agricultural worker transporting the worker or a member of the worker’s immediate family.\n\n*Added by Acts 1999, 76th Leg., ch. 62, Sec. 17.34(a), eff. Sept. 1, 1999.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "This chapter applies to any carrier, including a carrier under contract, who at any time uses a motor vehicle to transport to or from a place of employment in this state at least five migrant agricultural workers for a total distance of more than 50 miles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This chapter does not apply if:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the carrier is a common carrier;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the motor vehicle used is a station wagon or passenger automobile; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "the carrier is a migrant agricultural worker transporting the worker or a member of the worker’s immediate family.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 1999, 76th Leg., ch. 62, Sec. 17.34(a), eff. Sept. 1, 1999.",
+    "action": "Added",
+    "statutes_year": 1999,
+    "chapter": "62",
+    "section": "17.34",
+    "bill_number": null,
+    "effective_date": "1999-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_647.002",
+  "source_path": "data/raw/tx_public_law/TN/647.002.html",
+  "content_sha256": "4ac50dcec1d024f2bf9557c5ef2dfe8b7ad1c58a0415179b2edec5b8001f5cfa",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

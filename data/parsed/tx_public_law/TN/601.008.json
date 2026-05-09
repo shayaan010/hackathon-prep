@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "601.008",
+  "section_name": "Violation of Chapter; Offense",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "601",
+  "chapter_title": "Motor Vehicle Safety Responsibility Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person commits an offense if the person violates a provision of this chapter for which a penalty is not otherwise provided.\n\n(b) An offense under this section is a misdemeanor punishable by:\n\n(1) a fine not to exceed $500;\n\n(2) confinement in county jail for a term not to exceed 90 days; or\n\n(3) both the fine and the confinement.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 601. Motor Vehicle Safety Responsibility Act\n##### § 601.008 — Violation of Chapter; Offense\n\n(a) A person commits an offense if the person violates a provision of this chapter for which a penalty is not otherwise provided.\n\n(b) An offense under this section is a misdemeanor punishable by:\n\n    (1) a fine not to exceed $500;\n\n    (2) confinement in county jail for a term not to exceed 90 days; or\n\n    (3) both the fine and the confinement.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person commits an offense if the person violates a provision of this chapter for which a penalty is not otherwise provided.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An offense under this section is a misdemeanor punishable by:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "a fine not to exceed $500;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "confinement in county jail for a term not to exceed 90 days; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "both the fine and the confinement.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_601.008",
+  "source_path": "data/raw/tx_public_law/TN/601.008.html",
+  "content_sha256": "e962187cd5b96db70cf3125e94b61e72483b861e06c2d1e4a49a392766b428d0",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

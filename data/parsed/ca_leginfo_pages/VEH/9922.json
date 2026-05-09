@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "9922",
+  "section_name": null,
   "division": "3.5",
   "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
   "division_range": "9840 - 9928",
@@ -42,6 +43,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9922.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/9922.html",
   "content_sha256": "cf5a8d7efbd1e40118f0b36c31d76b503196878bae35e906891e4065a920f152",
-  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parsed_at": "2026-05-09T18:32:17+00:00",
   "parser_version": "1"
 }

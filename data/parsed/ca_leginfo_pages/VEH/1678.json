@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "1678",
+  "section_name": null,
   "division": "2",
   "division_title": "ADMINISTRATION",
   "division_range": "1500 - 3093",
@@ -52,6 +53,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1678.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/1678.html",
   "content_sha256": "6ace4a1e2e3cb577ff7ddc16a466e76859095a33a095a92359e2a0cf81b6c86c",
-  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parsed_at": "2026-05-09T18:32:16+00:00",
   "parser_version": "1"
 }

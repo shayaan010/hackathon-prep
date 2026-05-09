@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "9981",
+  "section_name": null,
   "division": "3.6",
   "division_title": "VEHICLE SALES",
   "division_range": "9950 - 9993",
@@ -42,6 +43,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9981.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/9981.html",
   "content_sha256": "700d23b51f08bdfdc6464ae50a560f0142d77ff96f19318daf80e6a52690cdb6",
-  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parsed_at": "2026-05-09T18:32:17+00:00",
   "parser_version": "1"
 }

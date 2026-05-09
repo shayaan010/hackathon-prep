@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "504.948",
+  "section_name": "General Penalty",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "504",
+  "chapter_title": "License Plates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person commits an offense if the person violates a provision of this chapter and no other penalty is prescribed for the violation.\n\n(b) An offense under Subsection (a) is a misdemeanor punishable by a fine of not less than $5 or more than $200.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 504. License Plates\n##### § 504.948 — General Penalty\n\n(a) A person commits an offense if the person violates a provision of this chapter and no other penalty is prescribed for the violation.\n\n(b) An offense under Subsection (a) is a misdemeanor punishable by a fine of not less than $5 or more than $200.\n\n*Added by Acts 2013, 83rd Leg., R.S., Ch. 1135 (H.B.2741), Sec. 84, eff. June 14, 2013.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person commits an offense if the person violates a provision of this chapter and no other penalty is prescribed for the violation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An offense under Subsection (a) is a misdemeanor punishable by a fine of not less than $5 or more than $200.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2013, 83rd Leg., R.S., Ch. 1135 (H.B.2741), Sec. 84, eff. June 14, 2013.",
+    "action": "Added",
+    "statutes_year": 2013,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2013-06-14",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_504.948",
+  "source_path": "data/raw/tx_public_law/TN/504.948.html",
+  "content_sha256": "b0697781ceadfcf2c4cdebc052b81bafb687e413a8e3ac7b3241a2937b952fa1",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

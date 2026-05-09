@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "38170",
+  "section_name": null,
   "division": "16.5",
   "division_title": "OFF-HIGHWAY VEHICLES",
   "division_range": "38000 - 38604",
@@ -72,6 +73,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38170.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/38170.html",
   "content_sha256": "9c157bade6cc2b275257301998f64cf536ab9212131974b89eb4f9fc6bea33b7",
-  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parsed_at": "2026-05-09T18:32:22+00:00",
   "parser_version": "1"
 }

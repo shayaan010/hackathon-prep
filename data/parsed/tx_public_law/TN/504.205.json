@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "504.205",
+  "section_name": "Information Provided with Plates",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "504",
+  "chapter_title": "License Plates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "The department shall include with each set of specialty license plates issued under this subchapter a document that provides:\n\n(1) information on laws governing parking for persons with disabilities; and\n\n(2) instructions for reporting alleged violations of Chapter 681 (Privileged Parking) .",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 504. License Plates\n##### § 504.205 — Information Provided with Plates\n\nThe department shall include with each set of specialty license plates issued under this subchapter a document that provides:\n\n    (1) information on laws governing parking for persons with disabilities; and\n\n    (2) instructions for reporting alleged violations of Chapter 681 (Privileged Parking) .\n\n*Added by Acts 2019, 86th Leg., R.S., Ch. 1159 (H.B.3163), Sec. 2, eff. September 1, 2019.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department shall include with each set of specialty license plates issued under this subchapter a document that provides:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "information on laws governing parking for persons with disabilities; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "instructions for reporting alleged violations of Chapter 681 (Privileged Parking) .",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2019, 86th Leg., R.S., Ch. 1159 (H.B.3163), Sec. 2, eff. September 1, 2019.",
+    "action": "Added",
+    "statutes_year": 2019,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2019-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_504.205",
+  "source_path": "data/raw/tx_public_law/TN/504.205.html",
+  "content_sha256": "e73b57016c71786875c92c19132518d06bfe5be66249e6ebf6cd87c67ee20b4d",
+  "parsed_at": "2026-05-09T18:32:25+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "623.100",
+  "section_name": "Times and Days of Movement",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "623",
+  "chapter_title": "Permits for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Movement authorized by a permit issued under this subchapter may be made on any day, except a national holiday, but shall be made only during daylight hours.\n\n(b) The Texas Department of Transportation may limit the hours for travel on certain routes because of heavy traffic conditions.\n\n(c) The Texas Department of Transportation shall publish the limitation on movements prescribed by this section and the limitations adopted under Subsection (b) and shall make the publications available to the public. Each limitation adopted by the Texas Department of Transportation must be made available to the public before it takes effect.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 623. Permits for Oversize or Overweight Vehicles\n##### § 623.100 — Times and Days of Movement\n\n(a) Movement authorized by a permit issued under this subchapter may be made on any day, except a national holiday, but shall be made only during daylight hours.\n\n(b) The Texas Department of Transportation may limit the hours for travel on certain routes because of heavy traffic conditions.\n\n(c) The Texas Department of Transportation shall publish the limitation on movements prescribed by this section and the limitations adopted under Subsection (b) and shall make the publications available to the public. Each limitation adopted by the Texas Department of Transportation must be made available to the public before it takes effect.\n\n*Acts 2011, 82nd Leg., R.S., Ch. 1345 (S.B.1420), Sec. 83, eff. September 1, 2011.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Movement authorized by a permit issued under this subchapter may be made on any day, except a national holiday, but shall be made only during daylight hours.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The Texas Department of Transportation may limit the hours for travel on certain routes because of heavy traffic conditions.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The Texas Department of Transportation shall publish the limitation on movements prescribed by this section and the limitations adopted under Subsection (b) and shall make the publications available to the public. Each limitation adopted by the Texas Department of Transportation must be made available to the public before it takes effect.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., R.S., Ch. 1345 (S.B.1420), Sec. 83, eff. September 1, 2011.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2011-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_623.100",
+  "source_path": "data/raw/tx_public_law/TN/623.100.html",
+  "content_sha256": "0e8d0d23d199757061142463cc79024d25256ae9f27fe980f70e17221444b72c",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "28500",
+  "section_name": null,
   "division": "12.5",
   "division_title": "Zero-Emission Vehicles",
   "division_range": "28500- 28500.",
@@ -47,6 +48,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28500.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/28500.html",
   "content_sha256": "758f4aeeb6fbfdf20fbfa35bc3112c11e0f7bfd6870697b62c1357c88920c419",
-  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parsed_at": "2026-05-09T18:32:21+00:00",
   "parser_version": "1"
 }

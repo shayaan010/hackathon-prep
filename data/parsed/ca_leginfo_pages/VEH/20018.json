@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "20018",
+  "section_name": null,
   "division": "10",
   "division_title": "ACCIDENTS AND ACCIDENT REPORTS",
   "division_range": "20000 - 20018",
@@ -42,6 +43,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=20018.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/20018.html",
   "content_sha256": "aa18325c36f49584eaca993605852a564bf307c46dd37effc80155b54fd1d9a2",
-  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parsed_at": "2026-05-09T18:32:19+00:00",
   "parser_version": "1"
 }

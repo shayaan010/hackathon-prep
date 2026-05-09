@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "601.085",
+  "section_name": "Termination of Certified Policy",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "601",
+  "chapter_title": "Motor Vehicle Safety Responsibility Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) If an insurer has certified a policy under Section 601.083 (Certificate of Motor Vehicle Liability Insurance) or 601.084 (Nonresident Certificate) , the policy may not be terminated before the sixth day after the date a notice of the termination is received by the department except as provided by Subsection (b).\n\n(b) A policy that is obtained and certified terminates a previously certified policy on the effective date of the certification of a subsequent policy.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 601. Motor Vehicle Safety Responsibility Act\n##### § 601.085 — Termination of Certified Policy\n\n(a) If an insurer has certified a policy under Section 601.083 (Certificate of Motor Vehicle Liability Insurance) or 601.084 (Nonresident Certificate) , the policy may not be terminated before the sixth day after the date a notice of the termination is received by the department except as provided by Subsection (b).\n\n(b) A policy that is obtained and certified terminates a previously certified policy on the effective date of the certification of a subsequent policy.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If an insurer has certified a policy under Section 601.083 (Certificate of Motor Vehicle Liability Insurance) or 601.084 (Nonresident Certificate) , the policy may not be terminated before the sixth day after the date a notice of the termination is received by the department except as provided by Subsection (b).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A policy that is obtained and certified terminates a previously certified policy on the effective date of the certification of a subsequent policy.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_601.085",
+  "source_path": "data/raw/tx_public_law/TN/601.085.html",
+  "content_sha256": "8ccd50f490fe86b7e25561ce1a8729e1458947366db069e2a5211a3c19b96189",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

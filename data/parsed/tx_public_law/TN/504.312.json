@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "504.312",
+  "section_name": "Vietnam Veterans",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "504",
+  "chapter_title": "License Plates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department shall issue specialty license plates for persons who served in the United States armed forces:\n\n(1) during the period beginning on January 1, 1961, and ending on August 14, 1974, and who received the National Defense Service Medal; or\n\n(2) in a combat zone in the Republic of Vietnam during the period beginning on July 1, 1958, and ending on March 28, 1973, and who received the Vietnam Service Medal.\n\n(b) License plates issued under this section must include the words “Vietnam Veteran” and bear a depiction of the appropriate medal.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 504. License Plates\n##### § 504.312 — Vietnam Veterans\n\n(a) The department shall issue specialty license plates for persons who served in the United States armed forces:\n\n    (1) during the period beginning on January 1, 1961, and ending on August 14, 1974, and who received the National Defense Service Medal; or\n\n    (2) in a combat zone in the Republic of Vietnam during the period beginning on July 1, 1958, and ending on March 28, 1973, and who received the Vietnam Service Medal.\n\n(b) License plates issued under this section must include the words “Vietnam Veteran” and bear a depiction of the appropriate medal.\n\n*Acts 2015, 84th Leg., R.S., Ch. 716 (H.B.1273), Sec. 4, eff. September 1, 2015.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall issue specialty license plates for persons who served in the United States armed forces:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "during the period beginning on January 1, 1961, and ending on August 14, 1974, and who received the National Defense Service Medal; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "in a combat zone in the Republic of Vietnam during the period beginning on July 1, 1958, and ending on March 28, 1973, and who received the Vietnam Service Medal.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "License plates issued under this section must include the words “Vietnam Veteran” and bear a depiction of the appropriate medal.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2015, 84th Leg., R.S., Ch. 716 (H.B.1273), Sec. 4, eff. September 1, 2015.",
+    "action": null,
+    "statutes_year": 2015,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2015-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_504.312",
+  "source_path": "data/raw/tx_public_law/TN/504.312.html",
+  "content_sha256": "130b3d987dcc391125ebc0dd99fac8bb332c9488868a74e284e15acfd2ec5e04",
+  "parsed_at": "2026-05-09T18:32:25+00:00",
+  "parser_version": "1"
+}

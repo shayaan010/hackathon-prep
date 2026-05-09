@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "504.616",
+  "section_name": "Texas Reads License Plates",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "504",
+  "chapter_title": "License Plates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department shall issue specialty license plates including the words “Texas Reads” that incorporate one or more submissions from middle school students in a competition conducted by the department.\n\n(b) After deduction of the department’s administrative costs, the remainder of the fee shall be deposited to the credit of the Texas Reads account in the general revenue fund. Money from the account may be used only to make grants under Section 441.0092 (Texas Reads Program Grants) , Government Code. The account is composed of:\n\n(1) money required to be deposited to the credit of the account under this subsection; and\n\n(2) donations made to the account.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 504. License Plates\n##### § 504.616 — Texas Reads License Plates\n\n(a) The department shall issue specialty license plates including the words “Texas Reads” that incorporate one or more submissions from middle school students in a competition conducted by the department.\n\n(b) After deduction of the department’s administrative costs, the remainder of the fee shall be deposited to the credit of the Texas Reads account in the general revenue fund. Money from the account may be used only to make grants under Section 441.0092 (Texas Reads Program Grants) , Government Code. The account is composed of:\n\n    (1) money required to be deposited to the credit of the account under this subsection; and\n\n    (2) donations made to the account.\n\n*Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 206, eff. January 1, 2012.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall issue specialty license plates including the words “Texas Reads” that incorporate one or more submissions from middle school students in a competition conducted by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "After deduction of the department’s administrative costs, the remainder of the fee shall be deposited to the credit of the Texas Reads account in the general revenue fund. Money from the account may be used only to make grants under Section 441.0092 (Texas Reads Program Grants) , Government Code. The account is composed of:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "money required to be deposited to the credit of the account under this subsection; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "donations made to the account.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 206, eff. January 1, 2012.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_504.616",
+  "source_path": "data/raw/tx_public_law/TN/504.616.html",
+  "content_sha256": "022c47817ab52ea30b1a090e114d2d48b4e971fb6748ce7ee4ba6f701e1ca587",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

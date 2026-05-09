@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "727.003",
+  "section_name": "Tire Equipment of Motor Vehicle, Trailer, or Tractor; Offense",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "727",
+  "chapter_title": "Modification Of, Tampering With, & Equip. of Motor Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person commits an offense if the person operates or permits to be operated on a public highway a motor vehicle, trailer, semitrailer, or tractor equipped with:\n\n(1) solid rubber tires less than one inch in thickness at any point from the surface to the rim; or\n\n(2) pneumatic tires, one or more of which has been removed.\n\n(b) An offense under this section is a misdemeanor punishable by a fine not to exceed $200.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 727. Modification Of, Tampering With, & Equip. of Motor Vehicles\n##### § 727.003 — Tire Equipment of Motor Vehicle, Trailer, or Tractor; Offense\n\n(a) A person commits an offense if the person operates or permits to be operated on a public highway a motor vehicle, trailer, semitrailer, or tractor equipped with:\n\n    (1) solid rubber tires less than one inch in thickness at any point from the surface to the rim; or\n\n    (2) pneumatic tires, one or more of which has been removed.\n\n(b) An offense under this section is a misdemeanor punishable by a fine not to exceed $200.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person commits an offense if the person operates or permits to be operated on a public highway a motor vehicle, trailer, semitrailer, or tractor equipped with:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "solid rubber tires less than one inch in thickness at any point from the surface to the rim; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "pneumatic tires, one or more of which has been removed.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "An offense under this section is a misdemeanor punishable by a fine not to exceed $200.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_727.003",
+  "source_path": "data/raw/tx_public_law/TN/727.003.html",
+  "content_sha256": "29f41b50c431bf172d9ac7b75819893af94616ada15d7bfd5a1169e46b95da4d",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

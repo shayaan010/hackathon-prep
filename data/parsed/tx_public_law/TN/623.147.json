@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "623.147",
+  "section_name": "Deposit of Fee in State Highway Fund and in Texas Department of Motor Vehicles Fund",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "623",
+  "chapter_title": "Permits for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "A fee collected under this subchapter shall be deposited as follows:\n\n(1) 90 percent to the credit of the state highway fund; and\n\n(2) 10 percent to the credit of the Texas Department of Motor Vehicles fund.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 623. Permits for Oversize or Overweight Vehicles\n##### § 623.147 — Deposit of Fee in State Highway Fund and in Texas Department of Motor Vehicles Fund\n\nA fee collected under this subchapter shall be deposited as follows:\n\n    (1) 90 percent to the credit of the state highway fund; and\n\n    (2) 10 percent to the credit of the Texas Department of Motor Vehicles fund.\n\n*Acts 2013, 83rd Leg., R.S., Ch. 1287 (H.B.2202), Sec. 58, eff. September 1, 2013.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A fee collected under this subchapter shall be deposited as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "90 percent to the credit of the state highway fund; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "10 percent to the credit of the Texas Department of Motor Vehicles fund.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2013, 83rd Leg., R.S., Ch. 1287 (H.B.2202), Sec. 58, eff. September 1, 2013.",
+    "action": null,
+    "statutes_year": 2013,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2013-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_623.147",
+  "source_path": "data/raw/tx_public_law/TN/623.147.html",
+  "content_sha256": "087f9ffbbc8baff61f08be35ced3d684dab3ee644809f55017eda7b7f3561f68",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "623.0113",
+  "section_name": "Route Restrictions",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "623",
+  "chapter_title": "Permits for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Except as provided by Subsection (b), a permit issued under Section 623.011 (Permit for Excess Axle or Gross Weight) does not authorize the operation of a vehicle on:\n\n(1) the national system of interstate and defense highways in this state if the weight of the vehicle is greater than authorized by federal law; or\n\n(2) a bridge for which a maximum weight and load limit has been established and posted by the Texas Transportation Commission under Section 621.102 (Authority to Set Maximum Weights) or the commissioners court of a county under Section 621.301 (County’s Authority to Set Maximum Weights) , if the gross weight of the vehicle and load or the axles and wheel loads are greater than the limits established and posted under those sections.\n\n(b) The restrictions under Subsection (a)(2) do not apply if a bridge described by Subsection (a)(2) provides the only public vehicular access from an origin or to a destination by a holder of a permit issued under Section 623.011 (Permit for Excess Axle or Gross Weight) .",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 623. Permits for Oversize or Overweight Vehicles\n##### § 623.0113 — Route Restrictions\n\n(a) Except as provided by Subsection (b), a permit issued under Section 623.011 (Permit for Excess Axle or Gross Weight) does not authorize the operation of a vehicle on:\n\n    (1) the national system of interstate and defense highways in this state if the weight of the vehicle is greater than authorized by federal law; or\n\n    (2) a bridge for which a maximum weight and load limit has been established and posted by the Texas Transportation Commission under Section 621.102 (Authority to Set Maximum Weights) or the commissioners court of a county under Section 621.301 (County’s Authority to Set Maximum Weights) , if the gross weight of the vehicle and load or the axles and wheel loads are greater than the limits established and posted under those sections.\n\n(b) The restrictions under Subsection (a)(2) do not apply if a bridge described by Subsection (a)(2) provides the only public vehicular access from an origin or to a destination by a holder of a permit issued under Section 623.011 (Permit for Excess Axle or Gross Weight) .\n\n*Added by Acts 2001, 77th Leg., ch. 1227, Sec. 9, eff. Sept. 1, 2001.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided by Subsection (b), a permit issued under Section 623.011 (Permit for Excess Axle or Gross Weight) does not authorize the operation of a vehicle on:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the national system of interstate and defense highways in this state if the weight of the vehicle is greater than authorized by federal law; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a bridge for which a maximum weight and load limit has been established and posted by the Texas Transportation Commission under Section 621.102 (Authority to Set Maximum Weights) or the commissioners court of a county under Section 621.301 (County’s Authority to Set Maximum Weights) , if the gross weight of the vehicle and load or the axles and wheel loads are greater than the limits established and posted under those sections.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The restrictions under Subsection (a)(2) do not apply if a bridge described by Subsection (a)(2) provides the only public vehicular access from an origin or to a destination by a holder of a permit issued under Section 623.011 (Permit for Excess Axle or Gross Weight) .",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2001, 77th Leg., ch. 1227, Sec. 9, eff. Sept. 1, 2001.",
+    "action": "Added",
+    "statutes_year": 2001,
+    "chapter": "1227",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": "2001-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_623.0113",
+  "source_path": "data/raw/tx_public_law/TN/623.0113.html",
+  "content_sha256": "a923c1429aaae23fc7834d4b6428c9a3fb8d23b3477e7e1f67a47231bd963a28",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

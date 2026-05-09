@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "13353",
+  "section_name": null,
   "division": "6",
   "division_title": "DRIVERS' LICENSES",
   "division_range": "12500 - 15326",
@@ -127,6 +128,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13353.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/13353.html",
   "content_sha256": "d0dd545ee1daa3055e0efc0a1338c1f9da9ed5207505839d9a821e2874da16f1",
-  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parsed_at": "2026-05-09T18:32:19+00:00",
   "parser_version": "1"
 }

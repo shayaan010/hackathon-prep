@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "504.327",
+  "section_name": "Presidential Service Badge",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "504",
+  "chapter_title": "License Plates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "The department shall issue specialty license plates for persons awarded the Presidential Service Badge. The license plates must include:\n\n(1) the words “Presidential Service Badge”; and\n\n(2) a depiction of the Presidential Service Badge.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 504. License Plates\n##### § 504.327 — Presidential Service Badge\n\nThe department shall issue specialty license plates for persons awarded the Presidential Service Badge. The license plates must include:\n\n    (1) the words “Presidential Service Badge”; and\n\n    (2) a depiction of the Presidential Service Badge.\n\n*Added by Acts 2021, 87th Leg., R.S., Ch. 18 (H.B.1081), Sec. 2, eff. September 1, 2021.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department shall issue specialty license plates for persons awarded the Presidential Service Badge. The license plates must include:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the words “Presidential Service Badge”; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a depiction of the Presidential Service Badge.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2021, 87th Leg., R.S., Ch. 18 (H.B.1081), Sec. 2, eff. September 1, 2021.",
+    "action": "Added",
+    "statutes_year": 2021,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2021-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_504.327",
+  "source_path": "data/raw/tx_public_law/TN/504.327.html",
+  "content_sha256": "11cf9577c9a15692fbde181de54bd86136c6523ff2f17904b5cc3d122af3eeca",
+  "parsed_at": "2026-05-09T18:32:25+00:00",
+  "parser_version": "1"
+}

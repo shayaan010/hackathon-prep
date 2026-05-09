@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "623.078",
+  "section_name": "Vehicle Supervision Fee",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "623",
+  "chapter_title": "Permits for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Each applicant for a permit under this subchapter for a vehicle that is heavier than 200,000 pounds must also pay a vehicle supervision fee in an amount determined by the Texas Department of Transportation and designed to recover the direct cost of providing safe transportation of the vehicle over the state highway system, including the cost of:\n\n(1) bridge structural analysis;\n\n(2) the monitoring of the trip process; and\n\n(3) moving traffic control devices.\n\n(b) The department shall send each fee collected under Subsection (a) to the comptroller for deposit to the credit of the state highway fund.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 623. Permits for Oversize or Overweight Vehicles\n##### § 623.078 — Vehicle Supervision Fee\n\n(a) Each applicant for a permit under this subchapter for a vehicle that is heavier than 200,000 pounds must also pay a vehicle supervision fee in an amount determined by the Texas Department of Transportation and designed to recover the direct cost of providing safe transportation of the vehicle over the state highway system, including the cost of:\n\n    (1) bridge structural analysis;\n\n    (2) the monitoring of the trip process; and\n\n    (3) moving traffic control devices.\n\n(b) The department shall send each fee collected under Subsection (a) to the comptroller for deposit to the credit of the state highway fund.\n\n*Acts 2013, 83rd Leg., R.S., Ch. 1135 (H.B.2741), Sec. 114, eff. September 1, 2013.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Each applicant for a permit under this subchapter for a vehicle that is heavier than 200,000 pounds must also pay a vehicle supervision fee in an amount determined by the Texas Department of Transportation and designed to recover the direct cost of providing safe transportation of the vehicle over the state highway system, including the cost of:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "bridge structural analysis;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the monitoring of the trip process; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "moving traffic control devices.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall send each fee collected under Subsection (a) to the comptroller for deposit to the credit of the state highway fund.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2013, 83rd Leg., R.S., Ch. 1135 (H.B.2741), Sec. 114, eff. September 1, 2013.",
+    "action": null,
+    "statutes_year": 2013,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2013-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_623.078",
+  "source_path": "data/raw/tx_public_law/TN/623.078.html",
+  "content_sha256": "bc0819b328cdc8984f5f4046972bdd12dfabc84ba6fc3884c9a9d16857426453",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

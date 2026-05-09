@@ -1,0 +1,78 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "647.003",
+  "section_name": "Type of Vehicle Allowed",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "647",
+  "chapter_title": "Motor Transp. of Migrant Agricultural Workers",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A carrier may transport migrant agricultural workers only in a:\n\n(1) bus;\n\n(2) truck to which a trailer is not attached; or\n\n(3) semitrailer attached to a truck tractor.\n\n(b) A carrier may not:\n\n(1) attach a trailer to a semitrailer described by Subsection (a)(3); or\n\n(2) use a closed van that does not have windows or a method to ensure ventilation.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 647. Motor Transp. of Migrant Agricultural Workers\n##### § 647.003 — Type of Vehicle Allowed\n\n(a) A carrier may transport migrant agricultural workers only in a:\n\n    (1) bus;\n\n    (2) truck to which a trailer is not attached; or\n\n    (3) semitrailer attached to a truck tractor.\n\n(b) A carrier may not:\n\n    (1) attach a trailer to a semitrailer described by Subsection (a)(3); or\n\n    (2) use a closed van that does not have windows or a method to ensure ventilation.\n\n*Added by Acts 1999, 76th Leg., ch. 62, Sec. 17.34(a), eff. Sept. 1, 1999.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A carrier may transport migrant agricultural workers only in a:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "bus;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "truck to which a trailer is not attached; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "semitrailer attached to a truck tractor.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A carrier may not:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "attach a trailer to a semitrailer described by Subsection (a)(3); or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "use a closed van that does not have windows or a method to ensure ventilation.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 1999, 76th Leg., ch. 62, Sec. 17.34(a), eff. Sept. 1, 1999.",
+    "action": "Added",
+    "statutes_year": 1999,
+    "chapter": "62",
+    "section": "17.34",
+    "bill_number": null,
+    "effective_date": "1999-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_647.003",
+  "source_path": "data/raw/tx_public_law/TN/647.003.html",
+  "content_sha256": "36d242812b9e0a7779ab7eb4c15dbd78f27d440e3626741bb7cd8270faf58f32",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

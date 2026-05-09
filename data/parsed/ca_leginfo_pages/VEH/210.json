@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "210",
+  "section_name": null,
   "division": "1",
   "division_title": "WORDS AND PHRASES DEFINED",
   "division_range": "100 - 681",
@@ -42,6 +43,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=210.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/210.html",
   "content_sha256": "66ddf6ec03a59b00f48031a97d212267906d95244e29cd44592ba96e88f8cab3",
-  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parsed_at": "2026-05-09T18:32:15+00:00",
   "parser_version": "1"
 }

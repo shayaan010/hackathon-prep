@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "33000",
+  "section_name": null,
   "division": "14.5",
   "division_title": "TRANSPORTATION OF RADIOACTIVE MATERIALS",
   "division_range": "33000 - 33002",
@@ -42,6 +43,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=33000.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/33000.html",
   "content_sha256": "b5d58939ebaa68376881a593fa35d4ad479957e47b0bed3e935e2cca828f924a",
-  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parsed_at": "2026-05-09T18:32:21+00:00",
   "parser_version": "1"
 }

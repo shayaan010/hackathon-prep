@@ -1,0 +1,83 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "601.339",
+  "section_name": "Evidence of Financial Responsibility Following Conviction, Plea, or Forfeiture",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "601",
+  "chapter_title": "Motor Vehicle Safety Responsibility Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Except as provided by Subsection (c), the department may not issue a driver’s license to a person who does not hold a driver’s license and who:\n\n(1) enters a plea of guilty to an offense or is convicted by a final order or a judgment that:\n\n(A) requires the suspension or revocation of a driver’s license;\n\n(B) is imposed for operating a motor vehicle on a highway without a driver’s license; or\n\n(C) is imposed for operating an unregistered motor vehicle on a highway; or\n\n(2) forfeits bail or collateral deposited to secure an appearance for trial for an offense described by Subdivision (1).\n\n(b) Except as described by Subsection (c), a motor vehicle may not be registered in the name of a person described by Subsection (a).\n\n(c) Notwithstanding Subsections (a) and (b), a driver’s license may be issued or a motor vehicle may be registered if the person files and maintains evidence of financial responsibility with the department.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 601. Motor Vehicle Safety Responsibility Act\n##### § 601.339 — Evidence of Financial Responsibility Following Conviction, Plea, or Forfeiture\n\n(a) Except as provided by Subsection (c), the department may not issue a driver’s license to a person who does not hold a driver’s license and who:\n\n    (1) enters a plea of guilty to an offense or is convicted by a final order or a judgment that:\n\n        (A) requires the suspension or revocation of a driver’s license;\n\n        (B) is imposed for operating a motor vehicle on a highway without a driver’s license; or\n\n        (C) is imposed for operating an unregistered motor vehicle on a highway; or\n\n    (2) forfeits bail or collateral deposited to secure an appearance for trial for an offense described by Subdivision (1).\n\n(b) Except as described by Subsection (c), a motor vehicle may not be registered in the name of a person described by Subsection (a).\n\n(c) Notwithstanding Subsections (a) and (b), a driver’s license may be issued or a motor vehicle may be registered if the person files and maintains evidence of financial responsibility with the department.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided by Subsection (c), the department may not issue a driver’s license to a person who does not hold a driver’s license and who:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "enters a plea of guilty to an offense or is convicted by a final order or a judgment that:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "requires the suspension or revocation of a driver’s license;",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "is imposed for operating a motor vehicle on a highway without a driver’s license; or",
+      "depth_em": 2.0
+    },
+    {
+      "label": "C",
+      "text": "is imposed for operating an unregistered motor vehicle on a highway; or",
+      "depth_em": 2.0
+    },
+    {
+      "label": "2",
+      "text": "forfeits bail or collateral deposited to secure an appearance for trial for an offense described by Subdivision (1).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Except as described by Subsection (c), a motor vehicle may not be registered in the name of a person described by Subsection (a).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Notwithstanding Subsections (a) and (b), a driver’s license may be issued or a motor vehicle may be registered if the person files and maintains evidence of financial responsibility with the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_601.339",
+  "source_path": "data/raw/tx_public_law/TN/601.339.html",
+  "content_sha256": "18db7bfdaaef151474c25ec49ef0a99f9c8af59fe64b7378b641ab85c7c97a35",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

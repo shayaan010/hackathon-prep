@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "623.094",
+  "section_name": "Permit Issuance",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "623",
+  "chapter_title": "Permits for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Except as authorized by Section 623.095 (Permit Types) , the department may issue a permit only to:\n\n(1) a person licensed by the Texas Department of Housing and Community Affairs as a manufacturer, retailer, or installer; or\n\n(2) motor carriers registered with the department.\n\n(b) The license or registration number of the person to whom the permit is issued shall be affixed to the rear of the manufactured house during transportation and have letters and numbers that are at least eight inches high.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 623. Permits for Oversize or Overweight Vehicles\n##### § 623.094 — Permit Issuance\n\n(a) Except as authorized by Section 623.095 (Permit Types) , the department may issue a permit only to:\n\n    (1) a person licensed by the Texas Department of Housing and Community Affairs as a manufacturer, retailer, or installer; or\n\n    (2) motor carriers registered with the department.\n\n(b) The license or registration number of the person to whom the permit is issued shall be affixed to the rear of the manufactured house during transportation and have letters and numbers that are at least eight inches high.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 1997, 75th Leg., ch. 165, Sec. 30.143(a), eff. Sept. 1, 1997; Acts 1997, 75th Leg., ch. 791, Sec. 20, eff. Sept. 1, 1997.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as authorized by Section 623.095 (Permit Types) , the department may issue a permit only to:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "a person licensed by the Texas Department of Housing and Community Affairs as a manufacturer, retailer, or installer; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "motor carriers registered with the department.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The license or registration number of the person to whom the permit is issued shall be affixed to the rear of the manufactured house during transportation and have letters and numbers that are at least eight inches high.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 1997, 75th Leg., ch. 165, Sec. 30.143(a), eff. Sept. 1, 1997; Acts 1997, 75th Leg., ch. 791, Sec. 20, eff. Sept. 1, 1997.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_623.094",
+  "source_path": "data/raw/tx_public_law/TN/623.094.html",
+  "content_sha256": "18b2bfcf5c240677acb873c289c1813db3e04400232efd87deb7488954ef3ffe",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

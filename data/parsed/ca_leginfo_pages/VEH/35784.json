@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "35784",
+  "section_name": null,
   "division": "15",
   "division_title": "SIZE, WEIGHT, AND LOAD",
   "division_range": "35000 - 35796",
@@ -72,6 +73,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35784.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/35784.html",
   "content_sha256": "73af857dd24bce55ec1ea0ed8c103e5a9c0e284c9c8cf9ac5f2b0264c018bbb1",
-  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parsed_at": "2026-05-09T18:32:22+00:00",
   "parser_version": "1"
 }
