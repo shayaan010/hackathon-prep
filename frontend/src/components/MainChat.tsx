@@ -1,16 +1,12 @@
 import { useEffect, useRef, useState } from "react";
-import { Send, Sparkles, Scale, Loader2 } from "lucide-react";
-import { api } from "@/lib/api";
+import { Send, Sparkles, Scale, Loader2, Paperclip, X, Eraser } from "lucide-react";
+import { api, type AttachedFile } from "@/lib/api";
 import type { Statute } from "@/lib/statutes";
-
-type Role = "user" | "assistant";
-type Msg = {
-  id: string;
-  role: Role;
-  text: string;
-  statutes?: Statute[];
-  pending?: boolean;
-};
+import {
+  chatStore,
+  useChatHistory,
+  type ChatMessage as Msg,
+} from "@/lib/chat-store";
 
 const uid = () => Math.random().toString(36).slice(2, 10);
 
@@ -51,12 +47,44 @@ function renderText(text: string) {
 }
 
 export function MainChat({ statutes, onSelectStatute }: Props) {
-  const [messages, setMessages] = useState<Msg[]>(() => [
-    { id: uid(), role: "assistant", text: GREETING_TEXT },
-  ]);
+  const [messages, updateMessages] = useChatHistory();
+  // Seed a one-shot greeting if this is the first visit.
+  useEffect(() => {
+    if (chatStore.get().length === 0) {
+      chatStore.set([{ id: uid(), role: "assistant", text: GREETING_TEXT }]);
+    }
+  }, []);
+
   const [input, setInput] = useState("");
   const [busy, setBusy] = useState(false);
+  const [attachments, setAttachments] = useState<AttachedFile[]>([]);
+  const [uploading, setUploading] = useState(false);
+  const [uploadError, setUploadError] = useState<string | null>(null);
+  const fileInputRef = useRef<HTMLInputElement>(null);
   const scrollRef = useRef<HTMLDivElement>(null);
+
+  const onFilePicked = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    e.target.value = ""; // allow re-uploading the same name
+    if (!file) return;
+    setUploadError(null);
+    setUploading(true);
+    try {
+      const res = await api.upload(file, false);
+      setAttachments((prev) => [
+        ...prev,
+        { filename: res.filename, text: res.text },
+      ]);
+    } catch (err) {
+      setUploadError(err instanceof Error ? err.message : "Upload failed");
+    } finally {
+      setUploading(false);
+    }
+  };
+
+  const removeAttachment = (filename: string) => {
+    setAttachments((prev) => prev.filter((a) => a.filename !== filename));
+  };
 
   useEffect(() => {
     if (scrollRef.current) {
@@ -66,21 +94,36 @@ export function MainChat({ statutes, onSelectStatute }: Props) {
 
   const send = async (raw: string) => {
     const text = raw.trim();
-    if (!text || busy) return;
+    if ((!text && attachments.length === 0) || busy) return;
 
-    const userMsg: Msg = { id: uid(), role: "user", text };
+    const attachedNow = attachments;
+    const filenames = attachedNow.map((a) => a.filename);
+    const displayText =
+      text ||
+      `Reading attached file${attachedNow.length > 1 ? "s" : ""}: ${filenames.join(", ")}`;
+    const userMsg: Msg = {
+      id: uid(),
+      role: "user",
+      text: displayText,
+      attachments: filenames.length ? filenames : undefined,
+    };
     const placeholderId = uid();
     const placeholder: Msg = { id: placeholderId, role: "assistant", text: "", pending: true };
     const priorHistory = messages.map((m) => ({ role: m.role, text: m.text }));
 
-    setMessages((m) => [...m, userMsg, placeholder]);
+    updateMessages((m) => [...m, userMsg, placeholder]);
     setInput("");
+    setAttachments([]);
     setBusy(true);
 
     try {
       const [chatRes, hitsRes] = await Promise.allSettled([
-        api.chat({ message: text, history: priorHistory }),
-        api.search(text, 6),
+        api.chat({
+          message: text || "Please analyze the attached file(s).",
+          history: priorHistory,
+          attached_files: attachedNow,
+        }),
+        api.search(text || filenames.join(" "), 6),
       ]);
 
       const answer =
@@ -103,7 +146,7 @@ export function MainChat({ statutes, onSelectStatute }: Props) {
         }
       }
 
-      setMessages((m) =>
+      updateMessages((m) =>
         m.map((msg) =>
           msg.id === placeholderId
             ? { ...msg, text: answer, statutes: matched, pending: false }
@@ -130,7 +173,7 @@ export function MainChat({ statutes, onSelectStatute }: Props) {
         <div className="h-9 w-9 rounded-md gradient-primary grid place-items-center shrink-0">
           <Scale className="h-4 w-4 text-primary-foreground" />
         </div>
-        <div className="min-w-0">
+        <div className="min-w-0 flex-1">
           <div className="flex items-center gap-1.5 text-[10px] font-mono uppercase tracking-widest text-gold">
             <Sparkles className="h-3 w-3" /> Statute Assistant
           </div>
@@ -138,6 +181,19 @@ export function MainChat({ statutes, onSelectStatute }: Props) {
             Ask a question, get the relevant statutes.
           </div>
         </div>
+        {messages.length > 1 && (
+          <button
+            onClick={() => {
+              chatStore.set([{ id: uid(), role: "assistant", text: GREETING_TEXT }]);
+            }}
+            className="text-xs text-muted-foreground hover:text-foreground inline-flex items-center gap-1.5 px-2 py-1 rounded hover:bg-secondary"
+            aria-label="Clear conversation"
+            title="Clear conversation"
+          >
+            <Eraser className="h-3.5 w-3.5" />
+            Clear
+          </button>
+        )}
       </div>
 
       <div ref={scrollRef} className="flex-1 overflow-y-auto scrollbar-thin px-6 py-6 bg-secondary/30">
@@ -198,23 +254,73 @@ export function MainChat({ statutes, onSelectStatute }: Props) {
       )}
 
       <div className="border-t border-border bg-card p-3">
-        <div className="max-w-3xl mx-auto flex items-end gap-2">
-          <textarea
-            value={input}
-            onChange={(e) => setInput(e.target.value)}
-            onKeyDown={onKey}
-            rows={1}
-            placeholder="Search statutes by topic, section, or fact pattern…"
-            className="flex-1 resize-none max-h-32 min-h-10 rounded-md border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary/50"
-          />
-          <button
-            onClick={() => send(input)}
-            disabled={!input.trim() || busy}
-            className="h-10 w-10 rounded-md bg-primary text-primary-foreground grid place-items-center disabled:opacity-40 hover:opacity-90"
-            aria-label="Send"
-          >
-            <Send className="h-4 w-4" />
-          </button>
+        <div className="max-w-3xl mx-auto space-y-2">
+          {(attachments.length > 0 || uploading || uploadError) && (
+            <div className="flex flex-wrap gap-1.5">
+              {attachments.map((a) => (
+                <span
+                  key={a.filename}
+                  className="inline-flex items-center gap-1.5 text-xs px-2 py-1 rounded-md border border-border bg-secondary/50"
+                  title={`${a.text.length} chars`}
+                >
+                  <Paperclip className="h-3 w-3 text-muted-foreground" />
+                  <span className="font-medium truncate max-w-[200px]">{a.filename}</span>
+                  <span className="text-muted-foreground">
+                    {Math.round(a.text.length / 1000)}k
+                  </span>
+                  <button
+                    onClick={() => removeAttachment(a.filename)}
+                    className="text-muted-foreground hover:text-foreground"
+                    aria-label={`Remove ${a.filename}`}
+                  >
+                    <X className="h-3 w-3" />
+                  </button>
+                </span>
+              ))}
+              {uploading && (
+                <span className="inline-flex items-center gap-1.5 text-xs text-muted-foreground">
+                  <Loader2 className="h-3 w-3 animate-spin" /> Reading file…
+                </span>
+              )}
+              {uploadError && (
+                <span className="text-xs text-destructive">{uploadError}</span>
+              )}
+            </div>
+          )}
+          <div className="flex items-end gap-2">
+            <input
+              ref={fileInputRef}
+              type="file"
+              accept=".pdf,.docx,.txt,.md"
+              onChange={onFilePicked}
+              className="hidden"
+            />
+            <button
+              onClick={() => fileInputRef.current?.click()}
+              disabled={uploading || busy}
+              className="h-10 w-10 rounded-md border border-border bg-background grid place-items-center text-muted-foreground hover:text-foreground hover:border-primary/40 disabled:opacity-40"
+              aria-label="Attach file"
+              title="Attach a PDF, .docx, or .txt"
+            >
+              <Paperclip className="h-4 w-4" />
+            </button>
+            <textarea
+              value={input}
+              onChange={(e) => setInput(e.target.value)}
+              onKeyDown={onKey}
+              rows={1}
+              placeholder="Search statutes, ask a question, or attach a file…"
+              className="flex-1 resize-none max-h-32 min-h-10 rounded-md border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary/50"
+            />
+            <button
+              onClick={() => send(input)}
+              disabled={(!input.trim() && attachments.length === 0) || busy}
+              className="h-10 w-10 rounded-md bg-primary text-primary-foreground grid place-items-center disabled:opacity-40 hover:opacity-90"
+              aria-label="Send"
+            >
+              <Send className="h-4 w-4" />
+            </button>
+          </div>
         </div>
       </div>
     </div>

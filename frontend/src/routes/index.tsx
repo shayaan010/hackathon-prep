@@ -9,7 +9,7 @@ import { Sheet, SheetContent } from "@/components/ui/sheet";
 import { FACTOR_CATEGORIES, STATUTES } from "@/lib/statutes";
 import { api } from "@/lib/api";
 import { useProjects } from "@/lib/projects";
-import { Search, SlidersHorizontal, Sparkles } from "lucide-react";
+import { Search, Sparkles } from "lucide-react";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -134,24 +134,18 @@ function HarvesterPage() {
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 placeholder="Search statutes, citations, factors…"
-                className="w-full h-11 pl-9 pr-10 rounded-lg border border-border bg-background text-sm focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary/50 font-medium"
+                className="w-full h-11 pl-9 pr-3 rounded-lg border border-border bg-background text-sm focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary/50 font-medium"
               />
-              <kbd className="absolute right-3 top-1/2 -translate-y-1/2 text-[10px] font-mono px-1.5 py-0.5 rounded bg-secondary border border-border text-muted-foreground">
-                ⌘K
-              </kbd>
             </div>
 
-            <div className="mt-3 flex items-center gap-2">
-              {useSemantic && (
+            {useSemantic && (
+              <div className="mt-3 flex items-center gap-2">
                 <span className="text-[10px] font-mono uppercase tracking-widest text-gold flex items-center gap-1">
                   <Sparkles className="h-2.5 w-2.5" />
                   {searching ? "searching…" : "semantic"}
                 </span>
-              )}
-              <button className="text-xs font-medium text-muted-foreground flex items-center gap-1 px-2 py-1 rounded hover:bg-secondary ml-auto">
-                <SlidersHorizontal className="h-3 w-3" /> Advanced
-              </button>
-            </div>
+              </div>
+            )}
           </div>
 
           {/* Filters */}

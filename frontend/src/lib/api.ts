@@ -29,6 +29,17 @@ export type SearchHit = {
 };
 
 export type ChatMessage = { role: "user" | "assistant"; text: string };
+export type AttachedFile = { filename: string; text: string };
+
+export type UploadResponse = {
+  filename: string;
+  size: number;
+  char_count: number;
+  text: string;
+  ingested: boolean;
+  doc_id: number | null;
+  chunks: number;
+};
 
 export const api = {
   stats: () =>
@@ -46,9 +57,24 @@ export const api = {
     history: ChatMessage[];
     matter_name?: string;
     matter_caption?: string;
+    attached_files?: AttachedFile[];
   }) =>
     jsonFetch<{ text: string }>("/api/chat", {
       method: "POST",
       body: JSON.stringify(params),
     }),
+  upload: async (file: File, ingest = false): Promise<UploadResponse> => {
+    const fd = new FormData();
+    fd.append("file", file);
+    fd.append("ingest", ingest ? "true" : "false");
+    const res = await fetch(`${API_BASE}/api/upload`, {
+      method: "POST",
+      body: fd,
+    });
+    if (!res.ok) {
+      const body = await res.text().catch(() => "");
+      throw new Error(`${res.status} ${res.statusText} — ${body}`);
+    }
+    return res.json();
+  },
 };
