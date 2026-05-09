@@ -58,8 +58,15 @@ Tools available:
 - `search_statutes`: Query both the statute corpus AND the attorney's uploaded \
 documents by topic, factor, code section, or fact pattern. Use it whenever the \
 answer depends on what a statute says, what's in an uploaded document, or which \
-statutes might apply to facts described in an upload. Skip it only for casual \
-chatter or follow-ups about material already in this conversation.
+statutes might apply to facts described in an upload.
+- `search_courtlistener`: Query CourtListener for real published opinions. \
+Use this whenever the attorney asks for case law, prior opinions, similar cases, \
+or "find me a case where...". Each hit comes back with a permanent CourtListener \
+URL — ALWAYS include the URL when you cite a CourtListener result so the \
+attorney can click through.
+
+Skip both tools for casual chatter or follow-ups about material already in this \
+conversation.
 
 When uploaded-document hits come back:
 - Treat the file content as facts. Quote short phrases verbatim.
@@ -69,10 +76,12 @@ Citation rules (NON-NEGOTIABLE):
 1. Quote a short verbatim phrase — never paraphrase a citation or a fact from a file.
 2. For statutes, always include the citation and section, e.g. **Cal. Veh. Code § 22350**.
 3. For uploaded documents, attribute by filename, e.g. **(report.pdf)**.
-4. If `search_statutes` returns nothing relevant, say "I don't have anything on \
-that in the corpus." Do NOT invent statutes, sections, quotes, or facts.
-5. Distinguish "the corpus contains X" from "the law says X". You only have what's \
-in the corpus.
+4. For case law from `search_courtlistener`, include the case name, citation \
+(if returned), and the CourtListener URL — never invent a CourtListener URL.
+5. If a tool returns nothing relevant, say so plainly. Do NOT invent statutes, \
+sections, quotes, cases, or URLs.
+6. Distinguish "the corpus contains X" from "the law says X". You only have what's \
+in the corpus or what the tools just returned.
 
 When the user attaches a file inline (paperclip in chat):
 - Treat that attachment as primary context, the same way you'd treat an uploaded \
@@ -113,6 +122,53 @@ SEARCH_TOOL: dict[str, Any] = {
                 "default": 5,
                 "minimum": 1,
                 "maximum": 12,
+            },
+        },
+        "required": ["query"],
+    },
+}
+
+
+COURTLISTENER_TOOL: dict[str, Any] = {
+    "name": "search_courtlistener",
+    "description": (
+        "Search CourtListener for published court opinions matching a query. "
+        "Use this whenever the attorney wants real case law — e.g. 'find a "
+        "case where someone fled the police related to Veh. Code § 2800.1', "
+        "or 'similar rear-end collision verdicts in California'. Each result "
+        "comes with a permanent CourtListener URL that the attorney can open. "
+        "Prefer this tool over `search_statutes` when the attorney asks for "
+        "case law, opinions, or 'similar cases' — `search_statutes` only "
+        "covers statutes and uploaded documents in the local corpus, not "
+        "external case law."
+    ),
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "query": {
+                "type": "string",
+                "description": (
+                    "Free-text query. Include factor or fact-pattern keywords "
+                    "(e.g. 'fleeing police officer evade pursuit'). Avoid "
+                    "stuffing in long boilerplate; CourtListener ranks by "
+                    "relevance and over-long queries hurt recall."
+                ),
+            },
+            "court": {
+                "type": "string",
+                "description": (
+                    "Optional CourtListener court slug to restrict results: "
+                    "'cal' (California), 'ny' (New York), 'tex' (Texas). "
+                    "Omit for nationwide search."
+                ),
+                "default": "",
+            },
+            "top_k": {
+                "type": "integer",
+                "description": "How many opinions to return. Default 5; max 10.",
+                "default": 5,
+                "minimum": 1,
+                "maximum": 10,
             },
         },
         "required": ["query"],
@@ -198,7 +254,7 @@ class ChatWrapper:
             thinking={"type": "adaptive"},
             output_config={"effort": self.effort},
             system=self._system_blocks(),
-            tools=[SEARCH_TOOL],
+            tools=[SEARCH_TOOL, COURTLISTENER_TOOL],
             messages=messages,
         )
 
@@ -271,6 +327,12 @@ class ChatWrapper:
                         block.input.get("query", ""),
                         int(block.input.get("top_k", 5)),
                     )
+                elif name == "search_courtlistener":
+                    text = self._run_courtlistener(
+                        block.input.get("query", ""),
+                        block.input.get("court", "") or "",
+                        int(block.input.get("top_k", 5)),
+                    )
                 else:
                     text = f"Unknown tool: {name}"
                 results.append({
@@ -286,6 +348,77 @@ class ChatWrapper:
                     "is_error": True,
                 })
         return results
+
+    @staticmethod
+    def _run_courtlistener(query: str, court: str, top_k: int) -> str:
+        """Hit the CourtListener API and format opinions with permanent URLs."""
+        import asyncio
+        import os
+
+        from ingest.courtlistener import search_opinions
+
+        query = (query or "").strip()
+        if not query:
+            return "No query was provided."
+
+        top_k = max(1, min(int(top_k or 5), 10))
+        court = (court or "").strip() or None
+
+        if not os.environ.get("COURTLISTENER_TOKEN"):
+            # The unauthenticated API still works but is heavily rate-limited;
+            # surface the limitation honestly so Claude can pass it along.
+            note = " (no COURTLISTENER_TOKEN configured — anonymous quota)"
+        else:
+            note = ""
+
+        try:
+            results = asyncio.run(
+                search_opinions(query, court=court, page_size=top_k)
+            )
+        except Exception as e:
+            return f"CourtListener search failed{note}: {e}"
+
+        if not results:
+            return f"No CourtListener opinions found for query {query!r}{note}."
+
+        lines = [
+            f"Found {len(results)} CourtListener opinion(s) for {query!r}"
+            f"{(' in court=' + court) if court else ''}{note}:"
+        ]
+        for i, r in enumerate(results, 1):
+            case_name = (r.get("caseName") or r.get("caseNameShort") or "").strip()
+            court_name = (r.get("court") or "").strip()
+            date_filed = (r.get("dateFiled") or "")[:10]
+            citations = r.get("citation") or []
+            citation_str = ", ".join(citations) if citations else ""
+
+            absolute_url = r.get("absolute_url") or ""
+            url = (
+                f"https://www.courtlistener.com{absolute_url}"
+                if absolute_url
+                else f"https://www.courtlistener.com/opinion/{r.get('id')}/"
+            )
+
+            snippet = (r.get("snippet") or "").strip().replace("\n", " ")
+            if len(snippet) > 400:
+                snippet = snippet[:400] + "…"
+
+            block = [f"[{i}] {case_name or '(no case name)'}"]
+            details: list[str] = []
+            if court_name:
+                details.append(court_name)
+            if date_filed:
+                details.append(date_filed)
+            if citation_str:
+                details.append(citation_str)
+            if details:
+                block.append("    " + " · ".join(details))
+            block.append(f"    URL: {url}")
+            if snippet:
+                block.append(f"    snippet: {snippet}")
+            lines.append("\n".join(block))
+
+        return "\n\n".join(lines)
 
     def _run_search(self, query: str, top_k: int) -> str:
         query = (query or "").strip()
