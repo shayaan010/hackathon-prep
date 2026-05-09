@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9924",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "3",
+  "chapter_title": "Transfer of Title or Interest in Undocumented Vessel",
+  "chapter_range": "9900 - 9928",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.3",
+  "text": "In the event the vessel is no longer registered in this state and the currently valid certificate of ownership is surrendered to the department or the vessel has been destroyed or lost, the bond or undertaking shall be returned and surrendered after three years.",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 3. Transfer of Title or Interest in Undocumented Vessel [9900 - 9928]\n##### § 9924\n\nIn the event the vessel is no longer registered in this state and the currently valid certificate of ownership is surrendered to the department or the vessel has been destroyed or lost, the bond or undertaking shall be returned and surrendered after three years.\n\n*(Amended by Stats. 1982, Ch. 517, Sec. 389.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In the event the vessel is no longer registered in this state and the currently valid certificate of ownership is surrendered to the department or the vessel has been destroyed or lost, the bond or undertaking shall be returned and surrendered after three years.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1982, Ch. 517, Sec. 389.)",
+    "action": "Amended",
+    "statutes_year": 1982,
+    "chapter": "517",
+    "section": "389",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "517",
+  "op_section": "389",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9924.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9924.html",
+  "content_sha256": "322d4b992242f50f1f41adf5e087c019274407568c2885542caa0006c24917e6",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

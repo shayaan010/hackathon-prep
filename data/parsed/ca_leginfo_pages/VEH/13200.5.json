@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13200.5",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "2",
+  "chapter_title": "Suspension or Revocation of Licenses",
+  "chapter_range": "13100 - 13559",
+  "article": "2",
+  "article_title": "Suspension or Revocation by Court",
+  "article_range": "13200 - 13210",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.2.2",
+  "text": "Whenever any person licensed under this code is convicted of a violation of subdivision (b) of Section 22348, the court may, unless this code makes mandatory a revocation by the department, suspend the privilege of the person to operate a motor vehicle for a period of not to exceed 30 days.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 2. Suspension or Revocation of Licenses [13100 - 13559]\n#### Article 2. Suspension or Revocation by Court [13200 - 13210]\n##### § 13200.5\n\nWhenever any person licensed under this code is convicted of a violation of subdivision (b) of Section 22348, the court may, unless this code makes mandatory a revocation by the department, suspend the privilege of the person to operate a motor vehicle for a period of not to exceed 30 days.\n\n*(Amended by Stats. 1984, Ch. 276, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever any person licensed under this code is convicted of a violation of subdivision (b) of Section 22348, the court may, unless this code makes mandatory a revocation by the department, suspend the privilege of the person to operate a motor vehicle for a period of not to exceed 30 days.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1984, Ch. 276, Sec. 2.)",
+    "action": "Amended",
+    "statutes_year": 1984,
+    "chapter": "276",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "276",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13200.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13200.5.html",
+  "content_sha256": "bd7654a911edbe1269520421faf48da0a6a0dc110cda666c008169b08644096f",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

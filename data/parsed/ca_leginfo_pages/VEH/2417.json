@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2417",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "(a) The commissioner may suspend or revoke any permit issued for an authorized emergency vehicle under the following conditions:\n\n(1) The vehicle is operated in violation of any of the provisions of this code.\n\n(2) The vehicle is operated in violation of the rules and regulations relating to authorized emergency vehicles as promulgated by the commissioner.\n\n(3) The vehicle is not equipped as required by this code.\n\n(b) The permittee of any authorized emergency vehicle whose permit has been suspended or revoked shall be entitled, upon request, to a hearing in accordance with Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code.\n\n(c) When any authorized emergency vehicle permit has been suspended or revoked under provisions of this section, any additional authorized emergency vehicle permit issued in the name of the permittee may be likewise suspended or revoked.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2417\n\n(a) The commissioner may suspend or revoke any permit issued for an authorized emergency vehicle under the following conditions:\n\n    (1) The vehicle is operated in violation of any of the provisions of this code.\n\n    (2) The vehicle is operated in violation of the rules and regulations relating to authorized emergency vehicles as promulgated by the commissioner.\n\n    (3) The vehicle is not equipped as required by this code.\n\n(b) The permittee of any authorized emergency vehicle whose permit has been suspended or revoked shall be entitled, upon request, to a hearing in accordance with Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code.\n\n(c) When any authorized emergency vehicle permit has been suspended or revoked under provisions of this section, any additional authorized emergency vehicle permit issued in the name of the permittee may be likewise suspended or revoked.\n\n*(Amended by Stats. 1978, Ch. 272.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The commissioner may suspend or revoke any permit issued for an authorized emergency vehicle under the following conditions:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The vehicle is operated in violation of any of the provisions of this code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The vehicle is operated in violation of the rules and regulations relating to authorized emergency vehicles as promulgated by the commissioner.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The vehicle is not equipped as required by this code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The permittee of any authorized emergency vehicle whose permit has been suspended or revoked shall be entitled, upon request, to a hearing in accordance with Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "When any authorized emergency vehicle permit has been suspended or revoked under provisions of this section, any additional authorized emergency vehicle permit issued in the name of the permittee may be likewise suspended or revoked.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1978, Ch. 272.)",
+    "action": "Amended",
+    "statutes_year": 1978,
+    "chapter": "272",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1978",
+  "op_chapter": "272",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2417.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2417.html",
+  "content_sha256": "4a9db724eb31ba1baf81971fba6b9ed8072f49ac9f32cc7bb2de59c99022aa6f",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

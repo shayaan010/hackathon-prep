@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40516",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "2",
+  "article_title": "Release Upon Promise to Appear",
+  "article_range": "40500 - 40522",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.2",
+  "text": "(a) The expenses incurred by the Department of the California Highway Patrol and the Department of Motor Vehicles in executing any warrant issued as a result of a notice to appear issued by a member of the California Highway Patrol shall be a legal charge against the city or county in which jurisdiction the warrant was issued except where the commissioner authorizes the acceptance of a warrant for execution within 30 days of the date of its issuance.\n\n(b) The commissioner or director shall certify to the Controller the cost of executing warrants on behalf of each city or county under this section. The departments shall be reimbursed for costs as provided in Section 11004.5 of the Revenue and Taxation Code.\n\n(c) The peace officer to whom a warrant has been delivered for execution, upon demand, shall transfer the warrant, if it has not been executed within 30 days of the date of its issuance, to any member of the California Highway Patrol or to the Department of Motor Vehicles for execution.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 2. Release Upon Promise to Appear [40500 - 40522]\n##### § 40516\n\n(a) The expenses incurred by the Department of the California Highway Patrol and the Department of Motor Vehicles in executing any warrant issued as a result of a notice to appear issued by a member of the California Highway Patrol shall be a legal charge against the city or county in which jurisdiction the warrant was issued except where the commissioner authorizes the acceptance of a warrant for execution within 30 days of the date of its issuance.\n\n(b) The commissioner or director shall certify to the Controller the cost of executing warrants on behalf of each city or county under this section. The departments shall be reimbursed for costs as provided in Section 11004.5 of the Revenue and Taxation Code.\n\n(c) The peace officer to whom a warrant has been delivered for execution, upon demand, shall transfer the warrant, if it has not been executed within 30 days of the date of its issuance, to any member of the California Highway Patrol or to the Department of Motor Vehicles for execution.\n\n*(Amended by Stats. 1959, Ch. 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The expenses incurred by the Department of the California Highway Patrol and the Department of Motor Vehicles in executing any warrant issued as a result of a notice to appear issued by a member of the California Highway Patrol shall be a legal charge against the city or county in which jurisdiction the warrant was issued except where the commissioner authorizes the acceptance of a warrant for execution within 30 days of the date of its issuance.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The commissioner or director shall certify to the Controller the cost of executing warrants on behalf of each city or county under this section. The departments shall be reimbursed for costs as provided in Section 11004.5 of the Revenue and Taxation Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The peace officer to whom a warrant has been delivered for execution, upon demand, shall transfer the warrant, if it has not been executed within 30 days of the date of its issuance, to any member of the California Highway Patrol or to the Department of Motor Vehicles for execution.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1959, Ch. 1996.)",
+    "action": "Amended",
+    "statutes_year": 1959,
+    "chapter": "1996",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "1996",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40516.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40516.html",
+  "content_sha256": "7e2693f2d3ac89798e25d80f42581f18c08ad5a35edb2a4311bf8b43a166767e",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

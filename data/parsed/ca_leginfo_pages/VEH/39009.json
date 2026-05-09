@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "39009",
+  "division": "16.7",
+  "division_title": "REGISTRATION AND LICENSING OF BICYCLES",
+  "division_range": "39000 - 39011",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "33",
+  "text": "(a) Whenever the owner of a bicycle licensed pursuant to an ordinance or resolution of a city or county changes his address, he shall within 10 days notify the appropriate licensing agency of the old and new address.\n\n(b) In the event that any bicycle license indicia or registration form issued pursuant to the provisions of this division is lost, stolen, or mutilated, the licensee of such bicycle shall immediately notify the licensing agency, and, within 10 days after such notification, shall apply to the licensing agency for a duplicate license indicia or registration form. Thereupon, the licensing agency shall issue to such licensee a replacement indicia or registration form upon payment to the licensing agency of the appropriate fee.",
+  "markdown": "# Vehicle Code\n## Division 16.7. REGISTRATION AND LICENSING OF BICYCLES [39000 - 39011]\n##### § 39009\n\n(a) Whenever the owner of a bicycle licensed pursuant to an ordinance or resolution of a city or county changes his address, he shall within 10 days notify the appropriate licensing agency of the old and new address.\n\n(b) In the event that any bicycle license indicia or registration form issued pursuant to the provisions of this division is lost, stolen, or mutilated, the licensee of such bicycle shall immediately notify the licensing agency, and, within 10 days after such notification, shall apply to the licensing agency for a duplicate license indicia or registration form. Thereupon, the licensing agency shall issue to such licensee a replacement indicia or registration form upon payment to the licensing agency of the appropriate fee.\n\n*(Amended by Stats. 1975, Ch. 1250.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever the owner of a bicycle licensed pursuant to an ordinance or resolution of a city or county changes his address, he shall within 10 days notify the appropriate licensing agency of the old and new address.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "In the event that any bicycle license indicia or registration form issued pursuant to the provisions of this division is lost, stolen, or mutilated, the licensee of such bicycle shall immediately notify the licensing agency, and, within 10 days after such notification, shall apply to the licensing agency for a duplicate license indicia or registration form. Thereupon, the licensing agency shall issue to such licensee a replacement indicia or registration form upon payment to the licensing agency of the appropriate fee.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1975, Ch. 1250.)",
+    "action": "Amended",
+    "statutes_year": 1975,
+    "chapter": "1250",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "1250",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=39009.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/39009.html",
+  "content_sha256": "95185d687e31ec0511e09c4bcddf683a676963a4cb821674d2fe222306d6a993",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

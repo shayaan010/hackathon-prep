@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1808.48",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "Notwithstanding any other law, no government agency or department, law enforcement agency, commercial entity, or other person shall obtain, access, use, or otherwise disclose, noncriminal history information maintained by the department, for the purpose of immigration enforcement, as defined in subdivision (f) of Section 7284.4. of the Government Code.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1808.48\n\nNotwithstanding any other law, no government agency or department, law enforcement agency, commercial entity, or other person shall obtain, access, use, or otherwise disclose, noncriminal history information maintained by the department, for the purpose of immigration enforcement, as defined in subdivision (f) of Section 7284.4. of the Government Code.\n\n*(Added by Stats. 2022, Ch. 482, Sec. 6. (AB 1766) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding any other law, no government agency or department, law enforcement agency, commercial entity, or other person shall obtain, access, use, or otherwise disclose, noncriminal history information maintained by the department, for the purpose of immigration enforcement, as defined in subdivision (f) of Section 7284.4. of the Government Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2022, Ch. 482, Sec. 6. (AB 1766) Effective January 1, 2023.)",
+    "action": "Added",
+    "statutes_year": 2022,
+    "chapter": "482",
+    "section": "6",
+    "bill_number": "AB 1766",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "482",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1808.48.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1808.48.html",
+  "content_sha256": "e0af3d633ed9a1af6aff2e2f5db856854e71628a3f3ba7361fa9deb6a0ee5adc",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22511.95",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "All new or replacement signs installed on or after July 1, 2008, relating to parking privileges for disabled persons shall refer to “persons with disabilities” rather than “disabled persons” or any other similar term, whenever the reference is required on the sign.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22511.95\n\nAll new or replacement signs installed on or after July 1, 2008, relating to parking privileges for disabled persons shall refer to “persons with disabilities” rather than “disabled persons” or any other similar term, whenever the reference is required on the sign.\n\n*(Added by Stats. 2007, Ch. 413, Sec. 5. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "All new or replacement signs installed on or after July 1, 2008, relating to parking privileges for disabled persons shall refer to “persons with disabilities” rather than “disabled persons” or any other similar term, whenever the reference is required on the sign.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2007, Ch. 413, Sec. 5. Effective January 1, 2008.)",
+    "action": "Added",
+    "statutes_year": 2007,
+    "chapter": "413",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "413",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22511.95.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22511.95.html",
+  "content_sha256": "8850e7301d3e07d21c63b577804996dc1f9aac68045ec8178f4a5db76bbcea92",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

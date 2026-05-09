@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40000.14",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "A violation of subdivision (b) or (c) of Section 21367 is an infraction, except as follows:\n\n(a) A willful violation is a misdemeanor.\n\n(b) A willful violation committed in a manner exhibiting a wanton disregard for the safety of persons is a misdemeanor punishable by imprisonment in the county jail for not more than one year.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40000.14\n\nA violation of subdivision (b) or (c) of Section 21367 is an infraction, except as follows:\n\n(a) A willful violation is a misdemeanor.\n\n(b) A willful violation committed in a manner exhibiting a wanton disregard for the safety of persons is a misdemeanor punishable by imprisonment in the county jail for not more than one year.\n\n*(Added by Stats. 1986, Ch. 748, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A violation of subdivision (b) or (c) of Section 21367 is an infraction, except as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A willful violation is a misdemeanor.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A willful violation committed in a manner exhibiting a wanton disregard for the safety of persons is a misdemeanor punishable by imprisonment in the county jail for not more than one year.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1986, Ch. 748, Sec. 3.)",
+    "action": "Added",
+    "statutes_year": 1986,
+    "chapter": "748",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1986",
+  "op_chapter": "748",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40000.14.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40000.14.html",
+  "content_sha256": "e7b71602477d1e436733ad5c60a368dab2885654507f9ec43b77ecfd9b5e13ba",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35715.1",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "4",
+  "article_title": "Local Authorities",
+  "article_range": "35700 - 35722",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.5",
+  "text": "(a) The County of Tuolumne may by ordinance prohibit the use of Old Priest Grade in that county by a vehicle or combination of vehicles that exceeds a weight limit of 7,500 pounds or more. The weight limit shall be determined by the County Board of Supervisors and specified in the ordinance.\n\n(b) An ordinance adopted pursuant to this section is not effective with respect to the following:\n\n(1) A vehicle or combination of vehicles coming from an unrestricted highway having ingress and egress by direct route to and from the restricted highway when necessary for the purpose of making pickups or deliveries of goods, wares, and merchandise from or to any building or structure located on the restricted highway or for the purpose of delivering materials to be used in the actual and bona fide repair, alteration, remodeling, or construction of a building or structure upon the restricted highway for which a building permit has previously been obtained.\n\n(2) The operation of ambulances, hearses, or vehicles providing emergency roadside services or roadside assistance.\n\n(3) A vehicle or combination of vehicles owned, operated, controlled, or used by a public utility in connection with the construction, installation, operation, maintenance, or repair of a public utility facility.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 4. Local Authorities [35700 - 35722]\n##### § 35715.1\n\n(a) The County of Tuolumne may by ordinance prohibit the use of Old Priest Grade in that county by a vehicle or combination of vehicles that exceeds a weight limit of 7,500 pounds or more. The weight limit shall be determined by the County Board of Supervisors and specified in the ordinance.\n\n(b) An ordinance adopted pursuant to this section is not effective with respect to the following:\n\n    (1) A vehicle or combination of vehicles coming from an unrestricted highway having ingress and egress by direct route to and from the restricted highway when necessary for the purpose of making pickups or deliveries of goods, wares, and merchandise from or to any building or structure located on the restricted highway or for the purpose of delivering materials to be used in the actual and bona fide repair, alteration, remodeling, or construction of a building or structure upon the restricted highway for which a building permit has previously been obtained.\n\n    (2) The operation of ambulances, hearses, or vehicles providing emergency roadside services or roadside assistance.\n\n    (3) A vehicle or combination of vehicles owned, operated, controlled, or used by a public utility in connection with the construction, installation, operation, maintenance, or repair of a public utility facility.\n\n*(Added by Stats. 2003, Ch. 15, Sec. 1. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The County of Tuolumne may by ordinance prohibit the use of Old Priest Grade in that county by a vehicle or combination of vehicles that exceeds a weight limit of 7,500 pounds or more. The weight limit shall be determined by the County Board of Supervisors and specified in the ordinance.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An ordinance adopted pursuant to this section is not effective with respect to the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A vehicle or combination of vehicles coming from an unrestricted highway having ingress and egress by direct route to and from the restricted highway when necessary for the purpose of making pickups or deliveries of goods, wares, and merchandise from or to any building or structure located on the restricted highway or for the purpose of delivering materials to be used in the actual and bona fide repair, alteration, remodeling, or construction of a building or structure upon the restricted highway for which a building permit has previously been obtained.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The operation of ambulances, hearses, or vehicles providing emergency roadside services or roadside assistance.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "A vehicle or combination of vehicles owned, operated, controlled, or used by a public utility in connection with the construction, installation, operation, maintenance, or repair of a public utility facility.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2003, Ch. 15, Sec. 1. Effective January 1, 2004.)",
+    "action": "Added",
+    "statutes_year": 2003,
+    "chapter": "15",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "15",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35715.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35715.1.html",
+  "content_sha256": "16931c860e840968ed75c8c5954e483869596b6cccee60da46069a8f4e7599cf",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

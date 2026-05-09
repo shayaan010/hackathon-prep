@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2400.6",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "The commissioner shall enforce all laws regulating the operation of vehicles on, and the use of any portion of, State Highway Route 1 in the City of Malibu, if requested by the city, and if a contract is entered into between the state and the city. The contract shall require that an amount be paid to the commissioner that is equal to the costs incurred by the department for services provided under the contract.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2400.6\n\nThe commissioner shall enforce all laws regulating the operation of vehicles on, and the use of any portion of, State Highway Route 1 in the City of Malibu, if requested by the city, and if a contract is entered into between the state and the city. The contract shall require that an amount be paid to the commissioner that is equal to the costs incurred by the department for services provided under the contract.\n\n*(Added by Stats. 1992, Ch. 394, Sec. 1. Effective January 1, 1993.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The commissioner shall enforce all laws regulating the operation of vehicles on, and the use of any portion of, State Highway Route 1 in the City of Malibu, if requested by the city, and if a contract is entered into between the state and the city. The contract shall require that an amount be paid to the commissioner that is equal to the costs incurred by the department for services provided under the contract.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1992, Ch. 394, Sec. 1. Effective January 1, 1993.)",
+    "action": "Added",
+    "statutes_year": 1992,
+    "chapter": "394",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1993-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1992",
+  "op_chapter": "394",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2400.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2400.6.html",
+  "content_sha256": "69008306ab2a6f106a0074ff66fd5e5a63a2fa1f85a564037d45e431f6157492",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

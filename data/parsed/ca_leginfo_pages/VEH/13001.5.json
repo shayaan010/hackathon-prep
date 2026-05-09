@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13001.5",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "5",
+  "article_title": "Identification Cards",
+  "article_range": "13000 - 13008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.5",
+  "text": "Commencing no later than July 1, 2027, the department shall issue an identification card pursuant to Section 12801.9 to an eligible applicant, other than a person described in Section 13001, who is unable to submit satisfactory proof that the applicant’s presence in the United States is authorized under federal law.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 5. Identification Cards [13000 - 13008]\n##### § 13001.5\n\nCommencing no later than July 1, 2027, the department shall issue an identification card pursuant to Section 12801.9 to an eligible applicant, other than a person described in Section 13001, who is unable to submit satisfactory proof that the applicant’s presence in the United States is authorized under federal law.\n\n*(Added by Stats. 2022, Ch. 482, Sec. 11. (AB 1766) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Commencing no later than July 1, 2027, the department shall issue an identification card pursuant to Section 12801.9 to an eligible applicant, other than a person described in Section 13001, who is unable to submit satisfactory proof that the applicant’s presence in the United States is authorized under federal law.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2022, Ch. 482, Sec. 11. (AB 1766) Effective January 1, 2023.)",
+    "action": "Added",
+    "statutes_year": 2022,
+    "chapter": "482",
+    "section": "11",
+    "bill_number": "AB 1766",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "482",
+  "op_section": "11",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13001.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13001.5.html",
+  "content_sha256": "8023a7df42fd6d532fc0e2b7d20d1077ede11eeee3e904874ebcaca296c732ac",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

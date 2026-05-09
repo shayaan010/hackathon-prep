@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38076",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "2",
+  "chapter_title": "Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership",
+  "chapter_range": "38010 - 38265",
+  "article": "3",
+  "article_title": "Evidences of Identification",
+  "article_range": "38070 - 38100",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.2.3",
+  "text": "The certificate of ownership shall contain:\n\n(a) Not less than the information required upon the face of the identification certificate.\n\n(b) Provision for notice to the department of a transfer of the title or interest of the owner or legal owner.\n\n(c) Provision for application for transfer of identification by the transferee.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 2. Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership [38010 - 38265]\n#### Article 3. Evidences of Identification [38070 - 38100]\n##### § 38076\n\nThe certificate of ownership shall contain:\n\n(a) Not less than the information required upon the face of the identification certificate.\n\n(b) Provision for notice to the department of a transfer of the title or interest of the owner or legal owner.\n\n(c) Provision for application for transfer of identification by the transferee.\n\n*(Added by Stats. 1971, Ch. 1816.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The certificate of ownership shall contain:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Not less than the information required upon the face of the identification certificate.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Provision for notice to the department of a transfer of the title or interest of the owner or legal owner.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Provision for application for transfer of identification by the transferee.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1971, Ch. 1816.)",
+    "action": "Added",
+    "statutes_year": 1971,
+    "chapter": "1816",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1971",
+  "op_chapter": "1816",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38076.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38076.html",
+  "content_sha256": "6b776f16fa77ba8030d14682bc7a4487d7b686cf064ce9b1361a5aa02c16bb58",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

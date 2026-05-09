@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12500",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "1",
+  "article_title": "Persons Required to Be Licensed, Exemptions, and Age Limits",
+  "article_range": "12500 - 12527",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.1",
+  "text": "(a) A person may not drive a motor vehicle upon a highway, unless the person then holds a valid driver’s license issued under this code, except those persons who are expressly exempted under this code.\n\n(b) A person may not drive a motorcycle, motor-driven cycle, or motorized bicycle upon a highway, unless the person then holds a valid driver’s license or endorsement issued under this code for that class, except those persons who are expressly exempted under this code, or those persons specifically authorized to operate motorized bicycles or motorized scooters with a valid driver’s license of any class, as specified in subdivision (h) of Section 12804.9.\n\n(c) A person may not drive a motor vehicle in or upon any offstreet parking facility, unless the person then holds a valid driver’s license of the appropriate class or certification to operate the vehicle. As used in this subdivision, “offstreet parking facility” means any offstreet facility held open for use by the public for parking vehicles and includes any publicly owned facilities for offstreet parking, and privately owned facilities for offstreet parking where no fee is charged for the privilege to park and which are held open for the common public use of retail customers.\n\n(d) A person may not drive a motor vehicle or combination of vehicles that is not of a type for which the person is licensed.\n\n(e) A motorized scooter operated on public streets shall at all times be equipped with an engine that complies with the applicable State Air Resources Board emission requirements.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 1. Persons Required to Be Licensed, Exemptions, and Age Limits [12500 - 12527]\n##### § 12500\n\n(a) A person may not drive a motor vehicle upon a highway, unless the person then holds a valid driver’s license issued under this code, except those persons who are expressly exempted under this code.\n\n(b) A person may not drive a motorcycle, motor-driven cycle, or motorized bicycle upon a highway, unless the person then holds a valid driver’s license or endorsement issued under this code for that class, except those persons who are expressly exempted under this code, or those persons specifically authorized to operate motorized bicycles or motorized scooters with a valid driver’s license of any class, as specified in subdivision (h) of Section 12804.9.\n\n(c) A person may not drive a motor vehicle in or upon any offstreet parking facility, unless the person then holds a valid driver’s license of the appropriate class or certification to operate the vehicle. As used in this subdivision, “offstreet parking facility” means any offstreet facility held open for use by the public for parking vehicles and includes any publicly owned facilities for offstreet parking, and privately owned facilities for offstreet parking where no fee is charged for the privilege to park and which are held open for the common public use of retail customers.\n\n(d) A person may not drive a motor vehicle or combination of vehicles that is not of a type for which the person is licensed.\n\n(e) A motorized scooter operated on public streets shall at all times be equipped with an engine that complies with the applicable State Air Resources Board emission requirements.\n\n*(Amended by Stats. 2007, Ch. 630, Sec. 3. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person may not drive a motor vehicle upon a highway, unless the person then holds a valid driver’s license issued under this code, except those persons who are expressly exempted under this code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person may not drive a motorcycle, motor-driven cycle, or motorized bicycle upon a highway, unless the person then holds a valid driver’s license or endorsement issued under this code for that class, except those persons who are expressly exempted under this code, or those persons specifically authorized to operate motorized bicycles or motorized scooters with a valid driver’s license of any class, as specified in subdivision (h) of Section 12804.9.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A person may not drive a motor vehicle in or upon any offstreet parking facility, unless the person then holds a valid driver’s license of the appropriate class or certification to operate the vehicle. As used in this subdivision, “offstreet parking facility” means any offstreet facility held open for use by the public for parking vehicles and includes any publicly owned facilities for offstreet parking, and privately owned facilities for offstreet parking where no fee is charged for the privilege to park and which are held open for the common public use of retail customers.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "A person may not drive a motor vehicle or combination of vehicles that is not of a type for which the person is licensed.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "A motorized scooter operated on public streets shall at all times be equipped with an engine that complies with the applicable State Air Resources Board emission requirements.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2007, Ch. 630, Sec. 3. Effective January 1, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2007,
+    "chapter": "630",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "630",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12500.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12500.html",
+  "content_sha256": "ec53b5d780f263f8ebaec1a3fce722e38a3d72a958990af0ab845a0b092fb835",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

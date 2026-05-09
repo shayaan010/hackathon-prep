@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9103",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "1",
+  "article_title": "Exemptions",
+  "article_range": "9101 - 9107",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.1",
+  "text": "(a) Fees specified in this code, except fees for duplicate plates, certificates, or cards, are not required to be paid for any vehicle of a type subject to registration under this code owned by the United States or by any state or political subdivision of a state or by any municipality duly organized under the California Constitution or laws of this state.\n\n(b) The registration fees specified in this code, except fees for duplicate plates, certificates, or cards, are not required to be paid for any vehicle owned by a public entity described in subdivision (f) of Section 15975 of the Government Code.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 1. Exemptions [9101 - 9107]\n##### § 9103\n\n(a) Fees specified in this code, except fees for duplicate plates, certificates, or cards, are not required to be paid for any vehicle of a type subject to registration under this code owned by the United States or by any state or political subdivision of a state or by any municipality duly organized under the California Constitution or laws of this state.\n\n(b) The registration fees specified in this code, except fees for duplicate plates, certificates, or cards, are not required to be paid for any vehicle owned by a public entity described in subdivision (f) of Section 15975 of the Government Code.\n\n*(Amended by Stats. 2009, Ch. 200, Sec. 8. (SB 734) Effective January 1, 2010.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Fees specified in this code, except fees for duplicate plates, certificates, or cards, are not required to be paid for any vehicle of a type subject to registration under this code owned by the United States or by any state or political subdivision of a state or by any municipality duly organized under the California Constitution or laws of this state.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The registration fees specified in this code, except fees for duplicate plates, certificates, or cards, are not required to be paid for any vehicle owned by a public entity described in subdivision (f) of Section 15975 of the Government Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2009, Ch. 200, Sec. 8. (SB 734) Effective January 1, 2010.)",
+    "action": "Amended",
+    "statutes_year": 2009,
+    "chapter": "200",
+    "section": "8",
+    "bill_number": "SB 734",
+    "effective_date": "2010-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2009",
+  "op_chapter": "200",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9103.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9103.html",
+  "content_sha256": "ade554430fec18781e9099a2f98fef1811bcee51aa1158887eadf8ae71eb868f",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

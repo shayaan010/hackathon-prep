@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35780.3",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "6",
+  "article_title": "Permits and Agreements",
+  "article_range": "35780 - 35796",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.7",
+  "text": "A permit issued under Section 35780 for the movement of a park trailer, as described in Section 18009.3 of the Health and Safety Code, shall not be issued except to transporters, or licensed manufacturers and dealers.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 6. Permits and Agreements [35780 - 35796]\n##### § 35780.3\n\nA permit issued under Section 35780 for the movement of a park trailer, as described in Section 18009.3 of the Health and Safety Code, shall not be issued except to transporters, or licensed manufacturers and dealers.\n\n*(Amended by Stats. 2000, Ch. 566, Sec. 8. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A permit issued under Section 35780 for the movement of a park trailer, as described in Section 18009.3 of the Health and Safety Code, shall not be issued except to transporters, or licensed manufacturers and dealers.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2000, Ch. 566, Sec. 8. Effective January 1, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2000,
+    "chapter": "566",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "566",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35780.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35780.3.html",
+  "content_sha256": "35ddd71e1d8623e3308810e4af662f61c99f30793e2e843c7521385c7f9e48cc",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

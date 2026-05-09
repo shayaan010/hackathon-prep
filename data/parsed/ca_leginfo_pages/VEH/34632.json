@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34632",
+  "division": "14.85",
+  "division_title": "MOTOR CARRIERS OF PROPERTY PERMIT ACT",
+  "division_range": "34600 - 34672",
+  "chapter": "3",
+  "chapter_title": "Insurance",
+  "chapter_range": "34630 - 34634",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "26.3",
+  "text": "(a) Every motor carrier of property shall furnish the department annually, as specified by the department, a list, prepared under oath, of all vehicles, described in Section 34601, used in transportation during the preceding year.\n\n(b) If the carrier’s insurer informs the department that the carrier has failed to obtain insurance coverage for any vehicle reported on the list, the department shall, in addition to any other applicable penalty provided in this division, suspend the carrier’s permit.",
+  "markdown": "# Vehicle Code\n## Division 14.85. MOTOR CARRIERS OF PROPERTY PERMIT ACT [34600 - 34672]\n### Chapter 3. Insurance [34630 - 34634]\n##### § 34632\n\n(a) Every motor carrier of property shall furnish the department annually, as specified by the department, a list, prepared under oath, of all vehicles, described in Section 34601, used in transportation during the preceding year.\n\n(b) If the carrier’s insurer informs the department that the carrier has failed to obtain insurance coverage for any vehicle reported on the list, the department shall, in addition to any other applicable penalty provided in this division, suspend the carrier’s permit.\n\n*(Added by Stats. 1996, Ch. 1042, Sec. 53. Effective September 29, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every motor carrier of property shall furnish the department annually, as specified by the department, a list, prepared under oath, of all vehicles, described in Section 34601, used in transportation during the preceding year.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If the carrier’s insurer informs the department that the carrier has failed to obtain insurance coverage for any vehicle reported on the list, the department shall, in addition to any other applicable penalty provided in this division, suspend the carrier’s permit.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1996, Ch. 1042, Sec. 53. Effective September 29, 1996.)",
+    "action": "Added",
+    "statutes_year": 1996,
+    "chapter": "1042",
+    "section": "53",
+    "bill_number": null,
+    "effective_date": "1996-09-29",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "1042",
+  "op_section": "53",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34632.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34632.html",
+  "content_sha256": "6c97375810a8a3eda4298931b2f17be6b8bb225a2862a927693523c14dd06d78",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

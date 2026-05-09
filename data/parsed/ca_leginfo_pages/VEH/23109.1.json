@@ -1,0 +1,97 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23109.1",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "12",
+  "chapter_title": "Public Offenses",
+  "chapter_range": "23100 - 23249.50",
+  "article": "1",
+  "article_title": "Driving Offenses",
+  "article_range": "23100 - 23135",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.12.1",
+  "text": "(a) A person convicted of engaging in a motor vehicle speed contest in violation of subdivision (a) of Section 23109 that proximately causes one or more of the injuries specified in subdivision (b) to a person other than the driver, shall be punished by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code, or by imprisonment in a county jail for not less than 30 days nor more than six months, or by a fine of not less than five hundred dollars ($500) nor more than one thousand dollars ($1,000), or by both that fine and imprisonment.\n\n(b) This section applies to all of the following injuries:\n\n(1) A loss of consciousness.\n\n(2) A concussion.\n\n(3) A bone fracture.\n\n(4) A protracted loss or impairment of function of a bodily member or organ.\n\n(5) A wound requiring extensive suturing.\n\n(6) A serious disfigurement.\n\n(7) Brain injury.\n\n(8) Paralysis.\n\n(c) This section does not preclude or prohibit prosecution under any other provision of law.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 12. Public Offenses [23100 - 23249.50]\n#### Article 1. Driving Offenses [23100 - 23135]\n##### § 23109.1\n\n(a) A person convicted of engaging in a motor vehicle speed contest in violation of subdivision (a) of Section 23109 that proximately causes one or more of the injuries specified in subdivision (b) to a person other than the driver, shall be punished by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code, or by imprisonment in a county jail for not less than 30 days nor more than six months, or by a fine of not less than five hundred dollars ($500) nor more than one thousand dollars ($1,000), or by both that fine and imprisonment.\n\n(b) This section applies to all of the following injuries:\n\n    (1) A loss of consciousness.\n\n    (2) A concussion.\n\n    (3) A bone fracture.\n\n    (4) A protracted loss or impairment of function of a bodily member or organ.\n\n    (5) A wound requiring extensive suturing.\n\n    (6) A serious disfigurement.\n\n    (7) Brain injury.\n\n    (8) Paralysis.\n\n(c) This section does not preclude or prohibit prosecution under any other provision of law.\n\n*(Amended by Stats. 2011, Ch. 15, Sec. 612. (AB 109) Effective April 4, 2011. Operative October 1, 2011, by Sec. 636 of Ch. 15, as amended by Stats. 2011, Ch. 39, Sec. 68.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person convicted of engaging in a motor vehicle speed contest in violation of subdivision (a) of Section 23109 that proximately causes one or more of the injuries specified in subdivision (b) to a person other than the driver, shall be punished by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code, or by imprisonment in a county jail for not less than 30 days nor more than six months, or by a fine of not less than five hundred dollars ($500) nor more than one thousand dollars ($1,000), or by both that fine and imprisonment.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section applies to all of the following injuries:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A loss of consciousness.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "A concussion.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "A bone fracture.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "A protracted loss or impairment of function of a bodily member or organ.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "A wound requiring extensive suturing.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "6",
+      "text": "A serious disfigurement.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "7",
+      "text": "Brain injury.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "8",
+      "text": "Paralysis.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "This section does not preclude or prohibit prosecution under any other provision of law.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2011, Ch. 15, Sec. 612. (AB 109) Effective April 4, 2011. Operative October 1, 2011, by Sec. 636 of Ch. 15, as amended by Stats. 2011, Ch. 39, Sec. 68.)",
+    "action": "Amended",
+    "statutes_year": 2011,
+    "chapter": "15",
+    "section": "612",
+    "bill_number": "AB 109",
+    "effective_date": "2011-04-04",
+    "operative_date": "2011-10-01"
+  },
+  "op_statues": "2011",
+  "op_chapter": "15",
+  "op_section": "612",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23109.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23109.1.html",
+  "content_sha256": "c1283c1add79f064f119258651df152daa95b1a47971b05f726a171480aa9d29",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

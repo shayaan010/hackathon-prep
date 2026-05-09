@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35400.6",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "4",
+  "chapter_title": "Length",
+  "chapter_range": "35400 - 35414",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.4",
+  "text": "(a) Subdivision (a) of Section 35400 does not apply to a fifth-wheel travel trailer that does not exceed the following lengths:\n\n(1) Forty-eight feet in length from the foremost point of the trailer to the rear extremity of the trailer.\n\n(2) (A) For a fifth-wheel travel trailer with a single axle, 38 feet in length from the kingpin to the rearmost axle.\n\n(B) For a fifth-wheel travel trailer with two or more axles, 40 feet in length from the kingpin to the rearmost axle.\n\n(b) A manufacturer of a fifth-wheel travel trailer described by subdivision (a) shall include in the delivery documents the information necessary to register that fifth-wheel travel trailer, including its overall length pursuant to paragraph (1) of subdivision (a) and a declaration that its length is in compliance with subparagraph (A) or subparagraph (B) of paragraph (2) of subdivision (a). The dealer may reject acceptance of the fifth-wheel travel trailer if this documentation is not provided.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 4. Length [35400 - 35414]\n##### § 35400.6\n\n(a) Subdivision (a) of Section 35400 does not apply to a fifth-wheel travel trailer that does not exceed the following lengths:\n\n    (1) Forty-eight feet in length from the foremost point of the trailer to the rear extremity of the trailer.\n\n    (2) (A) For a fifth-wheel travel trailer with a single axle, 38 feet in length from the kingpin to the rearmost axle.\n\n        (B) For a fifth-wheel travel trailer with two or more axles, 40 feet in length from the kingpin to the rearmost axle.\n\n(b) A manufacturer of a fifth-wheel travel trailer described by subdivision (a) shall include in the delivery documents the information necessary to register that fifth-wheel travel trailer, including its overall length pursuant to paragraph (1) of subdivision (a) and a declaration that its length is in compliance with subparagraph (A) or subparagraph (B) of paragraph (2) of subdivision (a). The dealer may reject acceptance of the fifth-wheel travel trailer if this documentation is not provided.\n\n*(Added by Stats. 2013, Ch. 548, Sec. 1. (AB 64) Effective January 1, 2014.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Subdivision (a) of Section 35400 does not apply to a fifth-wheel travel trailer that does not exceed the following lengths:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Forty-eight feet in length from the foremost point of the trailer to the rear extremity of the trailer.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "(A) For a fifth-wheel travel trailer with a single axle, 38 feet in length from the kingpin to the rearmost axle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "B",
+      "text": "For a fifth-wheel travel trailer with two or more axles, 40 feet in length from the kingpin to the rearmost axle.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "b",
+      "text": "A manufacturer of a fifth-wheel travel trailer described by subdivision (a) shall include in the delivery documents the information necessary to register that fifth-wheel travel trailer, including its overall length pursuant to paragraph (1) of subdivision (a) and a declaration that its length is in compliance with subparagraph (A) or subparagraph (B) of paragraph (2) of subdivision (a). The dealer may reject acceptance of the fifth-wheel travel trailer if this documentation is not provided.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2013, Ch. 548, Sec. 1. (AB 64) Effective January 1, 2014.)",
+    "action": "Added",
+    "statutes_year": 2013,
+    "chapter": "548",
+    "section": "1",
+    "bill_number": "AB 64",
+    "effective_date": "2014-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2013",
+  "op_chapter": "548",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35400.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35400.6.html",
+  "content_sha256": "bde9d5208b9ca9af4e7e22bd02b1b78ba5e047aea68e457058000e460909e0d3",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

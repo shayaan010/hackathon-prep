@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40000.28",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "Any offense which would otherwise be an infraction is a misdemeanor if a defendant has been convicted of three or more violations of this code or any local ordinance adopted pursuant to this code within the 12-month period immediately preceding the commission of the offense and such prior convictions are admitted by the defendant or alleged in the accusatory pleading. For this purpose, a bail forfeiture shall be deemed to be a conviction of the offense charged.\n\nThis section shall have no application to violations by pedestrians.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40000.28\n\nAny offense which would otherwise be an infraction is a misdemeanor if a defendant has been convicted of three or more violations of this code or any local ordinance adopted pursuant to this code within the 12-month period immediately preceding the commission of the offense and such prior convictions are admitted by the defendant or alleged in the accusatory pleading. For this purpose, a bail forfeiture shall be deemed to be a conviction of the offense charged.\n\nThis section shall have no application to violations by pedestrians.\n\n*(Amended by Stats. 1975, Ch. 635.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any offense which would otherwise be an infraction is a misdemeanor if a defendant has been convicted of three or more violations of this code or any local ordinance adopted pursuant to this code within the 12-month period immediately preceding the commission of the offense and such prior convictions are admitted by the defendant or alleged in the accusatory pleading. For this purpose, a bail forfeiture shall be deemed to be a conviction of the offense charged.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "This section shall have no application to violations by pedestrians.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1975, Ch. 635.)",
+    "action": "Amended",
+    "statutes_year": 1975,
+    "chapter": "635",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "635",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40000.28.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40000.28.html",
+  "content_sha256": "292e451585eaea1ee06f4462fd068dc013e5315851223311fbe63f12d0861a0b",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

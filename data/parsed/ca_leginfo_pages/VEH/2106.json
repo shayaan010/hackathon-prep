@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2106",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "1",
+  "article_title": "Administration",
+  "article_range": "2100 - 2114",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.1",
+  "text": "The department shall maintain its main office within 20 miles of Sacramento.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 1. Administration [2100 - 2114]\n##### § 2106\n\nThe department shall maintain its main office within 20 miles of Sacramento.\n\n*(Amended by Stats. 2007, Ch. 9, Sec. 1. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department shall maintain its main office within 20 miles of Sacramento.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2007, Ch. 9, Sec. 1. Effective January 1, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2007,
+    "chapter": "9",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "9",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2106.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2106.html",
+  "content_sha256": "bf83fdd22dbdc36793dc590a2137b03b92a5c74841d02c8f29901d0b326ad4a7",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

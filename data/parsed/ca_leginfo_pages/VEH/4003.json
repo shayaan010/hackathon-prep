@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4003",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "1",
+  "article_title": "Vehicles Subject to Registration",
+  "article_range": "4000 - 4023",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.1",
+  "text": "A permit, as described in Section 9258, may be issued by the department for operating any of the following vehicles, except a crane:\n\n(a) A vehicle while being moved or operated unladen for one continuous trip from a place within this state to another place either within or without this state or from a place without this state to a place within this state.\n\n(b) A vehicle while being moved or operated for one round trip to be completed within 60 days from one place to another for the purpose of participating as a vehicular float or display in a lawful parade or exhibition, provided that the total round trip does not exceed 100 miles.\n\nThe department may issue a quantity of permits under this subsection in booklet form upon payment of the proper fee for each permit contained in such booklet. Each permit shall be valid for only one vehicle and for only one continuous trip. Such permit shall be posted upon the windshield or other prominent place upon a vehicle and shall identify the vehicle to which it is affixed. When so affixed, such permit shall serve in lieu of California registration.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 1. Vehicles Subject to Registration [4000 - 4023]\n##### § 4003\n\nA permit, as described in Section 9258, may be issued by the department for operating any of the following vehicles, except a crane:\n\n(a) A vehicle while being moved or operated unladen for one continuous trip from a place within this state to another place either within or without this state or from a place without this state to a place within this state.\n\n(b) A vehicle while being moved or operated for one round trip to be completed within 60 days from one place to another for the purpose of participating as a vehicular float or display in a lawful parade or exhibition, provided that the total round trip does not exceed 100 miles.\n\nThe department may issue a quantity of permits under this subsection in booklet form upon payment of the proper fee for each permit contained in such booklet. Each permit shall be valid for only one vehicle and for only one continuous trip. Such permit shall be posted upon the windshield or other prominent place upon a vehicle and shall identify the vehicle to which it is affixed. When so affixed, such permit shall serve in lieu of California registration.\n\n*(Amended by Stats. 1977, Ch. 326.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A permit, as described in Section 9258, may be issued by the department for operating any of the following vehicles, except a crane:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A vehicle while being moved or operated unladen for one continuous trip from a place within this state to another place either within or without this state or from a place without this state to a place within this state.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A vehicle while being moved or operated for one round trip to be completed within 60 days from one place to another for the purpose of participating as a vehicular float or display in a lawful parade or exhibition, provided that the total round trip does not exceed 100 miles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The department may issue a quantity of permits under this subsection in booklet form upon payment of the proper fee for each permit contained in such booklet. Each permit shall be valid for only one vehicle and for only one continuous trip. Such permit shall be posted upon the windshield or other prominent place upon a vehicle and shall identify the vehicle to which it is affixed. When so affixed, such permit shall serve in lieu of California registration.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1977, Ch. 326.)",
+    "action": "Amended",
+    "statutes_year": 1977,
+    "chapter": "326",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1977",
+  "op_chapter": "326",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4003.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4003.html",
+  "content_sha256": "4f56d7ecf7b2b8b2258b05bb8d7843e8257a3de5baca47664df991cc76671112",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

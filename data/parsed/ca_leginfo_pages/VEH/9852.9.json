@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9852.9",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "2",
+  "chapter_title": "Registration",
+  "chapter_range": "9850 - 9880",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.2",
+  "text": "(a) On and after July 1, 2008, the form for an initial application for a number prepared by the department pursuant to Section 9853 shall include both of the following:\n\n(1) Checkoff boxes or line alternatives for the retail seller of an undocumented vessel to certify that a sterndrive or inboard vessel that contains a spark-ignition marine engine below 373 kW (500 hp) rated power output that was manufactured on or after January 1, 2008, and a sterndrive or inboard vessel that contains a spark-ignition marine engine with any rated power output that was manufactured on or after January 1, 2009, has a permanently affixed label indicating that the engine meets or exceeds the 2008 California emissions standards required by Section 2442 of Title 13 of the California Code of Regulations.\n\n(2) A line requiring that an initial application for a vessel described in paragraph (1) be accompanied by the hang tag required by Section 2443.3 of Title 13 of the California Code of Regulations for the engine described in paragraph (1).\n\n(b) As used in this section, “spark-ignition marine engine” has the same meaning as that term is defined in Section 9853.7.",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 2. Registration [9850 - 9880]\n##### § 9852.9\n\n(a) On and after July 1, 2008, the form for an initial application for a number prepared by the department pursuant to Section 9853 shall include both of the following:\n\n    (1) Checkoff boxes or line alternatives for the retail seller of an undocumented vessel to certify that a sterndrive or inboard vessel that contains a spark-ignition marine engine below 373 kW (500 hp) rated power output that was manufactured on or after January 1, 2008, and a sterndrive or inboard vessel that contains a spark-ignition marine engine with any rated power output that was manufactured on or after January 1, 2009, has a permanently affixed label indicating that the engine meets or exceeds the 2008 California emissions standards required by Section 2442 of Title 13 of the California Code of Regulations.\n\n    (2) A line requiring that an initial application for a vessel described in paragraph (1) be accompanied by the hang tag required by Section 2443.3 of Title 13 of the California Code of Regulations for the engine described in paragraph (1).\n\n(b) As used in this section, “spark-ignition marine engine” has the same meaning as that term is defined in Section 9853.7.\n\n*(Added by Stats. 2007, Ch. 609, Sec. 1. Effective January 1, 2008. Operative July 1, 2008, by Sec. 4 of Ch. 609.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "On and after July 1, 2008, the form for an initial application for a number prepared by the department pursuant to Section 9853 shall include both of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Checkoff boxes or line alternatives for the retail seller of an undocumented vessel to certify that a sterndrive or inboard vessel that contains a spark-ignition marine engine below 373 kW (500 hp) rated power output that was manufactured on or after January 1, 2008, and a sterndrive or inboard vessel that contains a spark-ignition marine engine with any rated power output that was manufactured on or after January 1, 2009, has a permanently affixed label indicating that the engine meets or exceeds the 2008 California emissions standards required by Section 2442 of Title 13 of the California Code of Regulations.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "A line requiring that an initial application for a vessel described in paragraph (1) be accompanied by the hang tag required by Section 2443.3 of Title 13 of the California Code of Regulations for the engine described in paragraph (1).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "As used in this section, “spark-ignition marine engine” has the same meaning as that term is defined in Section 9853.7.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2007, Ch. 609, Sec. 1. Effective January 1, 2008. Operative July 1, 2008, by Sec. 4 of Ch. 609.)",
+    "action": "Added",
+    "statutes_year": 2007,
+    "chapter": "609",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": "2008-07-01"
+  },
+  "op_statues": "2007",
+  "op_chapter": "609",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9852.9.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9852.9.html",
+  "content_sha256": "069a8dee77c73f932703de2682682f027f77a268b58aa48a680ce5f6183f6cb9",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

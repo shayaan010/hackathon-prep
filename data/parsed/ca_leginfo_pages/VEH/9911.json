@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9911",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "3",
+  "chapter_title": "Transfer of Title or Interest in Undocumented Vessel",
+  "chapter_range": "9900 - 9928",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.3",
+  "text": "Whenever the owner of an undocumented vessel numbered under this code sells or transfers his or her title or interest in, or any part thereof, and delivers the possession of, the vessel to another, the owner shall, within five calendar days, notify the department of the sale or transfer by giving the date thereof, the name and address of the owner and of the transferee and a description of the vessel as may be required in the appropriate form provided for the purpose by the department.",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 3. Transfer of Title or Interest in Undocumented Vessel [9900 - 9928]\n##### § 9911\n\nWhenever the owner of an undocumented vessel numbered under this code sells or transfers his or her title or interest in, or any part thereof, and delivers the possession of, the vessel to another, the owner shall, within five calendar days, notify the department of the sale or transfer by giving the date thereof, the name and address of the owner and of the transferee and a description of the vessel as may be required in the appropriate form provided for the purpose by the department.\n\n*(Amended by Stats. 1992, Ch. 427, Sec. 166. Effective January 1, 1993.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever the owner of an undocumented vessel numbered under this code sells or transfers his or her title or interest in, or any part thereof, and delivers the possession of, the vessel to another, the owner shall, within five calendar days, notify the department of the sale or transfer by giving the date thereof, the name and address of the owner and of the transferee and a description of the vessel as may be required in the appropriate form provided for the purpose by the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1992, Ch. 427, Sec. 166. Effective January 1, 1993.)",
+    "action": "Amended",
+    "statutes_year": 1992,
+    "chapter": "427",
+    "section": "166",
+    "bill_number": null,
+    "effective_date": "1993-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1992",
+  "op_chapter": "427",
+  "op_section": "166",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9911.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9911.html",
+  "content_sha256": "18ab222408269deb14ca4600e195b01926824fc9c183e1684ddeb2d61a6734d9",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

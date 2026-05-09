@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35704",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "4",
+  "article_title": "Local Authorities",
+  "article_range": "35700 - 35722",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.5",
+  "text": "No ordinance adopted pursuant to Section 35701 to decrease weight limits shall apply to any vehicle owned by a public utility or a licensed contractor while necessarily in use in the construction, installation, or repair of any public utility.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 4. Local Authorities [35700 - 35722]\n##### § 35704\n\nNo ordinance adopted pursuant to Section 35701 to decrease weight limits shall apply to any vehicle owned by a public utility or a licensed contractor while necessarily in use in the construction, installation, or repair of any public utility.\n\n*(Amended by Stats. 1987, Ch. 371, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No ordinance adopted pursuant to Section 35701 to decrease weight limits shall apply to any vehicle owned by a public utility or a licensed contractor while necessarily in use in the construction, installation, or repair of any public utility.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1987, Ch. 371, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1987,
+    "chapter": "371",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1987",
+  "op_chapter": "371",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35704.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35704.html",
+  "content_sha256": "1903cf58cb92accab2dae0f38348b5a7176c14bf52cae9a72413e7dc6e77a06a",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

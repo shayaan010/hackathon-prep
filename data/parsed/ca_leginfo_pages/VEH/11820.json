@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11820",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "4",
+  "chapter_title": "Manufacturers, Transporters, Dealers, and Salesmen",
+  "chapter_range": "11700 - 11909",
+  "article": "2",
+  "article_title": "Vehicle Salespersons",
+  "article_range": "11800 - 11824",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.7.3",
+  "text": "The following fees shall be paid to the department:\n\n(a) Except as provided by Section 42231, a nonrefundable fee for the original issuance of a license, fifty dollars ($50).\n\n(b) Fee for license renewal, fifty dollars ($50).\n\n(c) Fee for a duplicate license, fifteen dollars ($15).",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 4. Manufacturers, Transporters, Dealers, and Salesmen [11700 - 11909]\n#### Article 2. Vehicle Salespersons [11800 - 11824]\n##### § 11820\n\nThe following fees shall be paid to the department:\n\n(a) Except as provided by Section 42231, a nonrefundable fee for the original issuance of a license, fifty dollars ($50).\n\n(b) Fee for license renewal, fifty dollars ($50).\n\n(c) Fee for a duplicate license, fifteen dollars ($15).\n\n*(Amended by Stats. 1990, Ch. 90, Sec. 6. Effective May 9, 1990. Operative July 1, 1990, by Sec. 7 of Ch. 90.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The following fees shall be paid to the department:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Except as provided by Section 42231, a nonrefundable fee for the original issuance of a license, fifty dollars ($50).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Fee for license renewal, fifty dollars ($50).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Fee for a duplicate license, fifteen dollars ($15).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1990, Ch. 90, Sec. 6. Effective May 9, 1990. Operative July 1, 1990, by Sec. 7 of Ch. 90.)",
+    "action": "Amended",
+    "statutes_year": 1990,
+    "chapter": "90",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "1990-05-09",
+    "operative_date": "1990-07-01"
+  },
+  "op_statues": "1990",
+  "op_chapter": "90",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11820.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11820.html",
+  "content_sha256": "fe8d9d1cc71d10ab03e407fd24d0b473c94ebf2dd3f4a8d9f62a4ed8ea85b9f2",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

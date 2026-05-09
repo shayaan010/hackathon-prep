@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23646",
+  "division": "11.5",
+  "division_title": "SENTENCING FOR DRIVING WHILE UNDER THE INFLUENCE",
+  "division_range": "23500 - 23675",
+  "chapter": "4",
+  "chapter_title": "Procedures",
+  "chapter_range": "23610 - 23675",
+  "article": "6",
+  "article_title": "Alcohol Assessment",
+  "article_range": "23645 - 23650",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "16.4.6",
+  "text": "(a) Each county alcohol program administrator or the administrator’s designee shall develop, implement, operate, and administer an alcohol and drug problem assessment program pursuant to this article for each person described in subdivision (b). The alcohol and drug problem assessment program may include a referral and client tracking component.\n\n(b) (1) The court shall order a person to participate in an alcohol and drug problem assessment program pursuant to this section and Sections 23647 to 23649, inclusive, and the related regulations of the State Department of Health Care Services, if the person was convicted of a violation of Section 23152 or 23153 that occurred within 10 years of a separate violation of Section 23152 or 23153 that resulted in a conviction.\n\n(2) A court may order a person convicted of a violation of Section 23152 or 23153 to attend an alcohol and drug problem assessment program pursuant to this article.\n\n(3) The court shall order a person convicted of a violation of Section 23152 or 23153 who has previously been convicted of a violation of Section 23152 or 23153 that occurred more than 10 years ago, or has been previously convicted of a violation of subdivision (f) of Section 647 of the Penal Code, to attend and complete an alcohol and drug problem assessment program under this article. In order to determine whether a previous conviction for a violation occurring more than 10 years ago exists, the court shall rely on state summary criminal history information, local summary history information, or records made available to the judge through the district attorney.\n\n(c) The State Department of Health Care Services shall establish minimum specifications for alcohol and other drug problem assessments and reports.",
+  "markdown": "# Vehicle Code\n## Division 11.5. SENTENCING FOR DRIVING WHILE UNDER THE INFLUENCE [23500 - 23675]\n### Chapter 4. Procedures [23610 - 23675]\n#### Article 6. Alcohol Assessment [23645 - 23650]\n##### § 23646\n\n(a) Each county alcohol program administrator or the administrator’s designee shall develop, implement, operate, and administer an alcohol and drug problem assessment program pursuant to this article for each person described in subdivision (b). The alcohol and drug problem assessment program may include a referral and client tracking component.\n\n(b) (1) The court shall order a person to participate in an alcohol and drug problem assessment program pursuant to this section and Sections 23647 to 23649, inclusive, and the related regulations of the State Department of Health Care Services, if the person was convicted of a violation of Section 23152 or 23153 that occurred within 10 years of a separate violation of Section 23152 or 23153 that resulted in a conviction.\n\n    (2) A court may order a person convicted of a violation of Section 23152 or 23153 to attend an alcohol and drug problem assessment program pursuant to this article.\n\n    (3) The court shall order a person convicted of a violation of Section 23152 or 23153 who has previously been convicted of a violation of Section 23152 or 23153 that occurred more than 10 years ago, or has been previously convicted of a violation of subdivision (f) of Section 647 of the Penal Code, to attend and complete an alcohol and drug problem assessment program under this article. In order to determine whether a previous conviction for a violation occurring more than 10 years ago exists, the court shall rely on state summary criminal history information, local summary history information, or records made available to the judge through the district attorney.\n\n(c) The State Department of Health Care Services shall establish minimum specifications for alcohol and other drug problem assessments and reports.\n\n*(Amended by Stats. 2017, Ch. 485, Sec. 31. (SB 611) Effective January 1, 2018.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Each county alcohol program administrator or the administrator’s designee shall develop, implement, operate, and administer an alcohol and drug problem assessment program pursuant to this article for each person described in subdivision (b). The alcohol and drug problem assessment program may include a referral and client tracking component.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "(1) The court shall order a person to participate in an alcohol and drug problem assessment program pursuant to this section and Sections 23647 to 23649, inclusive, and the related regulations of the State Department of Health Care Services, if the person was convicted of a violation of Section 23152 or 23153 that occurred within 10 years of a separate violation of Section 23152 or 23153 that resulted in a conviction.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "A court may order a person convicted of a violation of Section 23152 or 23153 to attend an alcohol and drug problem assessment program pursuant to this article.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The court shall order a person convicted of a violation of Section 23152 or 23153 who has previously been convicted of a violation of Section 23152 or 23153 that occurred more than 10 years ago, or has been previously convicted of a violation of subdivision (f) of Section 647 of the Penal Code, to attend and complete an alcohol and drug problem assessment program under this article. In order to determine whether a previous conviction for a violation occurring more than 10 years ago exists, the court shall rely on state summary criminal history information, local summary history information, or records made available to the judge through the district attorney.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "The State Department of Health Care Services shall establish minimum specifications for alcohol and other drug problem assessments and reports.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2017, Ch. 485, Sec. 31. (SB 611) Effective January 1, 2018.)",
+    "action": "Amended",
+    "statutes_year": 2017,
+    "chapter": "485",
+    "section": "31",
+    "bill_number": "SB 611",
+    "effective_date": "2018-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2017",
+  "op_chapter": "485",
+  "op_section": "31",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23646.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23646.html",
+  "content_sha256": "08e157854493299f6ded1400b46b9f4482f800cdc01476fc0b587dc14bca8e4c",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

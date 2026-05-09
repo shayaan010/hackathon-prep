@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4602",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "5",
+  "article_title": "Renewal of Registration",
+  "article_range": "4600 - 4610",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.5",
+  "text": "Application for renewal of a vehicle registration shall be made by the owner not later than midnight of the expiration date, and shall be made by presentation of the registration card last issued for the vehicle or by presentation of a potential registration card issued by the department for use at the time of renewal and by payment of the full registration year fee for the vehicle as provided in this code. If the registration card and potential registration card are unavailable, a fee as specified in Section 9265 shall not be paid.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 5. Renewal of Registration [4600 - 4610]\n##### § 4602\n\nApplication for renewal of a vehicle registration shall be made by the owner not later than midnight of the expiration date, and shall be made by presentation of the registration card last issued for the vehicle or by presentation of a potential registration card issued by the department for use at the time of renewal and by payment of the full registration year fee for the vehicle as provided in this code. If the registration card and potential registration card are unavailable, a fee as specified in Section 9265 shall not be paid.\n\n*(Amended by Stats. 1988, Ch. 1268, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Application for renewal of a vehicle registration shall be made by the owner not later than midnight of the expiration date, and shall be made by presentation of the registration card last issued for the vehicle or by presentation of a potential registration card issued by the department for use at the time of renewal and by payment of the full registration year fee for the vehicle as provided in this code. If the registration card and potential registration card are unavailable, a fee as specified in Section 9265 shall not be paid.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1988, Ch. 1268, Sec. 2.)",
+    "action": "Amended",
+    "statutes_year": 1988,
+    "chapter": "1268",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1268",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4602.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4602.html",
+  "content_sha256": "e1d86d45f46d3c5e939b0cc2a4c8d6f77c19a267485db7992491cf0eb2257875",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40000.25",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "A violation of any of the following provisions shall constitute a misdemeanor, and not an infraction:\n\nSection 40005, relating to owner’s responsibility.\n\nSection 40504, relating to false signatures.\n\nSection 40508, relating to failure to appear or to pay fine.\n\nSection 40519, relating to failure to appear.\n\nSection 40614, relating to use of a fictitious name.\n\nSection 40616, relating to a willful violation of a notice to correct.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40000.25\n\nA violation of any of the following provisions shall constitute a misdemeanor, and not an infraction:\n\nSection 40005, relating to owner’s responsibility.\n\nSection 40504, relating to false signatures.\n\nSection 40508, relating to failure to appear or to pay fine.\n\nSection 40519, relating to failure to appear.\n\nSection 40614, relating to use of a fictitious name.\n\nSection 40616, relating to a willful violation of a notice to correct.\n\n*(Amended by Stats. 2023, Ch. 85, Sec. 1. (AB 466) Effective January 1, 2024.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A violation of any of the following provisions shall constitute a misdemeanor, and not an infraction:",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Section 40005, relating to owner’s responsibility.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Section 40504, relating to false signatures.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Section 40508, relating to failure to appear or to pay fine.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Section 40519, relating to failure to appear.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Section 40614, relating to use of a fictitious name.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Section 40616, relating to a willful violation of a notice to correct.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2023, Ch. 85, Sec. 1. (AB 466) Effective January 1, 2024.)",
+    "action": "Amended",
+    "statutes_year": 2023,
+    "chapter": "85",
+    "section": "1",
+    "bill_number": "AB 466",
+    "effective_date": "2024-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2023",
+  "op_chapter": "85",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40000.25.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40000.25.html",
+  "content_sha256": "39be0142e790ce2b0aab930015507bbaacc998f53e7c9d82298d397d567525cb",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38314",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "5",
+  "chapter_title": "Off-Highway Vehicle Operating Rules",
+  "chapter_range": "38280 - 38321",
+  "article": "4",
+  "article_title": "Turning and Starting",
+  "article_range": "38312 - 38314",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.3.4",
+  "text": "No person shall turn an off-highway motor vehicle from a direct course or move right or left until such movement can be made with reasonable safety.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 5. Off-Highway Vehicle Operating Rules [38280 - 38321]\n#### Article 4. Turning and Starting [38312 - 38314]\n##### § 38314\n\nNo person shall turn an off-highway motor vehicle from a direct course or move right or left until such movement can be made with reasonable safety.\n\n*(Added by Stats. 1976, Ch. 1093.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall turn an off-highway motor vehicle from a direct course or move right or left until such movement can be made with reasonable safety.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1976, Ch. 1093.)",
+    "action": "Added",
+    "statutes_year": 1976,
+    "chapter": "1093",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "1093",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38314.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38314.html",
+  "content_sha256": "482b835657a6f0b24cc147a76f40b5eaa4b1581a0cfdc8cfad37ccd9e6356a60",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

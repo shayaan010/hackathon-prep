@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15632",
+  "division": "6.7",
+  "division_title": "UNATTENDED CHILD IN MOTOR VEHICLE SAFETY ACT",
+  "division_range": "15600 - 15632",
+  "chapter": "3",
+  "chapter_title": "Educational Provisions",
+  "chapter_range": "15630 - 15632",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "11.3",
+  "text": "(a) The department shall include information concerning the dangers of leaving children unattended in motor vehicles, including, but not limited to, the effect of solar heat on the temperature of vehicle interiors and the penalties for noncompliance with Chapter 2 (commencing with Section 15620), in the following materials distributed by the department:\n\n(1) The California Driver’s Handbook published under Section 1656.\n\n(2) The driver’s license examination administered under Section 12804.9, by including, on a rotating basis, at least one question in one version of the driver’s license examination that is periodically administered to applicants.\n\n(3) Any driver’s education materials certified by the department.\n\n(4) Courses and examinations for traffic violator schools.\n\n(5) Materials provided to secondary and postsecondary schools and educational institutions.\n\n(6) Any materials provided to community education campaigns undertaken by the department and other state agencies, including, but not limited to, the Department of the California Highway Patrol and the Department of Transportation.\n\n(b) The department shall not republish materials before existing supplies are exhausted, but shall arrange for compliance with this section in the next edition or publication of those materials in the normal course of business.",
+  "markdown": "# Vehicle Code\n## Division 6.7. UNATTENDED CHILD IN MOTOR VEHICLE SAFETY ACT [15600 - 15632]\n### Chapter 3. Educational Provisions [15630 - 15632]\n##### § 15632\n\n(a) The department shall include information concerning the dangers of leaving children unattended in motor vehicles, including, but not limited to, the effect of solar heat on the temperature of vehicle interiors and the penalties for noncompliance with Chapter 2 (commencing with Section 15620), in the following materials distributed by the department:\n\n    (1) The California Driver’s Handbook published under Section 1656.\n\n    (2) The driver’s license examination administered under Section 12804.9, by including, on a rotating basis, at least one question in one version of the driver’s license examination that is periodically administered to applicants.\n\n    (3) Any driver’s education materials certified by the department.\n\n    (4) Courses and examinations for traffic violator schools.\n\n    (5) Materials provided to secondary and postsecondary schools and educational institutions.\n\n    (6) Any materials provided to community education campaigns undertaken by the department and other state agencies, including, but not limited to, the Department of the California Highway Patrol and the Department of Transportation.\n\n(b) The department shall not republish materials before existing supplies are exhausted, but shall arrange for compliance with this section in the next edition or publication of those materials in the normal course of business.\n\n*(Amended by Stats. 2021, Ch. 254, Sec. 9. (AB 174) Effective September 23, 2021.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall include information concerning the dangers of leaving children unattended in motor vehicles, including, but not limited to, the effect of solar heat on the temperature of vehicle interiors and the penalties for noncompliance with Chapter 2 (commencing with Section 15620), in the following materials distributed by the department:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The California Driver’s Handbook published under Section 1656.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The driver’s license examination administered under Section 12804.9, by including, on a rotating basis, at least one question in one version of the driver’s license examination that is periodically administered to applicants.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Any driver’s education materials certified by the department.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Courses and examinations for traffic violator schools.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "Materials provided to secondary and postsecondary schools and educational institutions.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "6",
+      "text": "Any materials provided to community education campaigns undertaken by the department and other state agencies, including, but not limited to, the Department of the California Highway Patrol and the Department of Transportation.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall not republish materials before existing supplies are exhausted, but shall arrange for compliance with this section in the next edition or publication of those materials in the normal course of business.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 254, Sec. 9. (AB 174) Effective September 23, 2021.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "254",
+    "section": "9",
+    "bill_number": "AB 174",
+    "effective_date": "2021-09-23",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "254",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15632.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15632.html",
+  "content_sha256": "29972753acd2cda7aee4e3243d0948ad18b053ec75bd2b343dcc05939bb516c2",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

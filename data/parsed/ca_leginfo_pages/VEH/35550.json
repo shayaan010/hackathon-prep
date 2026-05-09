@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35550",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "1",
+  "article_title": "Axle Limits",
+  "article_range": "35550 - 35559",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.1",
+  "text": "(a) The gross weight imposed upon the highway by the wheels on any one axle of a vehicle shall not exceed 20,000 pounds and the gross weight upon any one wheel, or wheels, supporting one end of an axle, and resting upon the roadway, shall not exceed 10,500 pounds.\n\n(b) The gross weight limit provided for weight bearing upon any one wheel, or wheels, supporting one end of an axle shall not apply to vehicles the loads of which consist of livestock.\n\n(c) The maximum wheel load is the lesser of the following:\n\n(1) The load limit established by the tire manufacturer, as molded on at least one sidewall of the tire.\n\n(2) A load of 620 pounds per lateral inch of tire width, as determined by the manufacturer’s rated tire width as molded on at least one sidewall of the tire for all axles except the steering axle, in which case paragraph (1) applies.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 1. Axle Limits [35550 - 35559]\n##### § 35550\n\n(a) The gross weight imposed upon the highway by the wheels on any one axle of a vehicle shall not exceed 20,000 pounds and the gross weight upon any one wheel, or wheels, supporting one end of an axle, and resting upon the roadway, shall not exceed 10,500 pounds.\n\n(b) The gross weight limit provided for weight bearing upon any one wheel, or wheels, supporting one end of an axle shall not apply to vehicles the loads of which consist of livestock.\n\n(c) The maximum wheel load is the lesser of the following:\n\n    (1) The load limit established by the tire manufacturer, as molded on at least one sidewall of the tire.\n\n    (2) A load of 620 pounds per lateral inch of tire width, as determined by the manufacturer’s rated tire width as molded on at least one sidewall of the tire for all axles except the steering axle, in which case paragraph (1) applies.\n\n*(Amended by Stats. 1996, Ch. 1154, Sec. 82. Effective September 30, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The gross weight imposed upon the highway by the wheels on any one axle of a vehicle shall not exceed 20,000 pounds and the gross weight upon any one wheel, or wheels, supporting one end of an axle, and resting upon the roadway, shall not exceed 10,500 pounds.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The gross weight limit provided for weight bearing upon any one wheel, or wheels, supporting one end of an axle shall not apply to vehicles the loads of which consist of livestock.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The maximum wheel load is the lesser of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The load limit established by the tire manufacturer, as molded on at least one sidewall of the tire.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "A load of 620 pounds per lateral inch of tire width, as determined by the manufacturer’s rated tire width as molded on at least one sidewall of the tire for all axles except the steering axle, in which case paragraph (1) applies.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 1154, Sec. 82. Effective September 30, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "1154",
+    "section": "82",
+    "bill_number": null,
+    "effective_date": "1996-09-30",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "1154",
+  "op_section": "82",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35550.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35550.html",
+  "content_sha256": "23ea44ff6f4e080c756f2bfddc3f2b57a8997493aac96399da6fe5bfeda240c3",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

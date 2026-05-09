@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2478",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "5",
+  "article_title": "Renderers and Transporters of Inedible Kitchen Grease",
+  "article_range": "2460 - 2482",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.7",
+  "text": "(a) Any person who is found guilty of violating Section 2470, 2472, 2474, or 2476, or the rules and regulations promulgated under those provisions, is subject to imprisonment in a county jail for not more than one year, or a fine of not more than five thousand dollars ($5,000), or both that imprisonment and fine.\n\n(b) If the conviction is a second or subsequent conviction of a violation described in subdivision (a), or the violation is committed with intent to defraud or mislead, the person is subject to imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code, or a fine of not more than fifteen thousand dollars ($15,000), or both that imprisonment and fine.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 5. Renderers and Transporters of Inedible Kitchen Grease [2460 - 2482]\n##### § 2478\n\n(a) Any person who is found guilty of violating Section 2470, 2472, 2474, or 2476, or the rules and regulations promulgated under those provisions, is subject to imprisonment in a county jail for not more than one year, or a fine of not more than five thousand dollars ($5,000), or both that imprisonment and fine.\n\n(b) If the conviction is a second or subsequent conviction of a violation described in subdivision (a), or the violation is committed with intent to defraud or mislead, the person is subject to imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code, or a fine of not more than fifteen thousand dollars ($15,000), or both that imprisonment and fine.\n\n*(Amended by Stats. 2012, Ch. 303, Sec. 6. (AB 2378) Effective January 1, 2013.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any person who is found guilty of violating Section 2470, 2472, 2474, or 2476, or the rules and regulations promulgated under those provisions, is subject to imprisonment in a county jail for not more than one year, or a fine of not more than five thousand dollars ($5,000), or both that imprisonment and fine.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If the conviction is a second or subsequent conviction of a violation described in subdivision (a), or the violation is committed with intent to defraud or mislead, the person is subject to imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code, or a fine of not more than fifteen thousand dollars ($15,000), or both that imprisonment and fine.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2012, Ch. 303, Sec. 6. (AB 2378) Effective January 1, 2013.)",
+    "action": "Amended",
+    "statutes_year": 2012,
+    "chapter": "303",
+    "section": "6",
+    "bill_number": "AB 2378",
+    "effective_date": "2013-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2012",
+  "op_chapter": "303",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2478.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2478.html",
+  "content_sha256": "60c0958869b8a8809d4071a39e3c5fe9483f491f27f65bdc63c6f26bba4f4b6f",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

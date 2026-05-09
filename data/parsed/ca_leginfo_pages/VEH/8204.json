@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "8204",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "4",
+  "chapter_title": "Permits to Nonresident Owners",
+  "chapter_range": "6700 - 8204",
+  "article": "6",
+  "article_title": "Enforcement of Liens on Apportioned Fleet Vehicles",
+  "article_range": "8200 - 8204",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.5.6",
+  "text": "(a) When a transferee or purchaser of an apportionately registered fleet vehicle applies to the department for transfer of ownership and it is determined by the department that there is an outstanding lien against the fleet in which the vehicle was operated, that fees became due prior to the transfer or purchase of the vehicle, and that the transferee or the purchaser was not cognizant of the fact that a lien existed, the department may waive apportioned registration fees and any penalties that are due.\n\n(b) When fees and penalties are waived pursuant to subdivision (a), the apportioned registration fees and penalties shall become the liability of the registrant who failed to pay the fees and penalties when they became due. The fees and penalties may be collected by the department in an appropriate civil action.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 4. Permits to Nonresident Owners [6700 - 8204]\n#### Article 6. Enforcement of Liens on Apportioned Fleet Vehicles [8200 - 8204]\n##### § 8204\n\n(a) When a transferee or purchaser of an apportionately registered fleet vehicle applies to the department for transfer of ownership and it is determined by the department that there is an outstanding lien against the fleet in which the vehicle was operated, that fees became due prior to the transfer or purchase of the vehicle, and that the transferee or the purchaser was not cognizant of the fact that a lien existed, the department may waive apportioned registration fees and any penalties that are due.\n\n(b) When fees and penalties are waived pursuant to subdivision (a), the apportioned registration fees and penalties shall become the liability of the registrant who failed to pay the fees and penalties when they became due. The fees and penalties may be collected by the department in an appropriate civil action.\n\n*(Added by Stats. 1989, Ch. 187, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "When a transferee or purchaser of an apportionately registered fleet vehicle applies to the department for transfer of ownership and it is determined by the department that there is an outstanding lien against the fleet in which the vehicle was operated, that fees became due prior to the transfer or purchase of the vehicle, and that the transferee or the purchaser was not cognizant of the fact that a lien existed, the department may waive apportioned registration fees and any penalties that are due.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When fees and penalties are waived pursuant to subdivision (a), the apportioned registration fees and penalties shall become the liability of the registrant who failed to pay the fees and penalties when they became due. The fees and penalties may be collected by the department in an appropriate civil action.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1989, Ch. 187, Sec. 2.)",
+    "action": "Added",
+    "statutes_year": 1989,
+    "chapter": "187",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1989",
+  "op_chapter": "187",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=8204.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/8204.html",
+  "content_sha256": "a61d905a8720dbd3bdcc61e6de702080bead056ce9ddcfda6e67aa809b451cc1",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

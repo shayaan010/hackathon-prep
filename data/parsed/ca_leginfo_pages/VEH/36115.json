@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "36115",
+  "division": "16",
+  "division_title": "IMPLEMENTS OF HUSBANDRY",
+  "division_range": "36000 - 36800",
+  "chapter": "2",
+  "chapter_title": "Registration of Implements of Husbandry",
+  "chapter_range": "36100 - 36130",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "30.2",
+  "text": "(a) Any person who owns an implement of husbandry which is exempt from registration may obtain an identification plate as provided in Section 5014 for the implement.\n\n(b) The department shall issue an identification plate as applied for to any manufacturer or dealer of an implement of husbandry which is exempt from registration as provided in Section 5016.5. That manufacturer or dealer may obtain more than one plate.",
+  "markdown": "# Vehicle Code\n## Division 16. IMPLEMENTS OF HUSBANDRY [36000 - 36800]\n### Chapter 2. Registration of Implements of Husbandry [36100 - 36130]\n##### § 36115\n\n(a) Any person who owns an implement of husbandry which is exempt from registration may obtain an identification plate as provided in Section 5014 for the implement.\n\n(b) The department shall issue an identification plate as applied for to any manufacturer or dealer of an implement of husbandry which is exempt from registration as provided in Section 5016.5. That manufacturer or dealer may obtain more than one plate.\n\n*(Amended by Stats. 1984, Ch. 1077, Sec. 14. Operative July 1, 1985, by Sec. 21 of Ch. 1077.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any person who owns an implement of husbandry which is exempt from registration may obtain an identification plate as provided in Section 5014 for the implement.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall issue an identification plate as applied for to any manufacturer or dealer of an implement of husbandry which is exempt from registration as provided in Section 5016.5. That manufacturer or dealer may obtain more than one plate.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1984, Ch. 1077, Sec. 14. Operative July 1, 1985, by Sec. 21 of Ch. 1077.)",
+    "action": "Amended",
+    "statutes_year": 1984,
+    "chapter": "1077",
+    "section": "14",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": "1985-07-01"
+  },
+  "op_statues": "1984",
+  "op_chapter": "1077",
+  "op_section": "14",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=36115.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/36115.html",
+  "content_sha256": "b3051399fc8a44d9805fc3f3b3d3892d7514ccca41f6d66d3cd804f21a2d1cb1",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

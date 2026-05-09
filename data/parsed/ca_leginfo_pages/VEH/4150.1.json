@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4150.1",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "2",
+  "article_title": "Original Registration",
+  "article_range": "4150 - 4166",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.2",
+  "text": "(a) On a form provided by the department, the registered owner of record, lessee, or the owner’s designee shall certify and report the declared gross or combined gross vehicle weight of any commercial motor vehicle, singly or in combination, in excess of 10,000 pounds.\n\n(b) A single form may be used or referenced for multiple vehicles.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 2. Original Registration [4150 - 4166]\n##### § 4150.1\n\n(a) On a form provided by the department, the registered owner of record, lessee, or the owner’s designee shall certify and report the declared gross or combined gross vehicle weight of any commercial motor vehicle, singly or in combination, in excess of 10,000 pounds.\n\n(b) A single form may be used or referenced for multiple vehicles.\n\n*(Amended by Stats. 2001, Ch. 826, Sec. 10. Effective January 1, 2002.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "On a form provided by the department, the registered owner of record, lessee, or the owner’s designee shall certify and report the declared gross or combined gross vehicle weight of any commercial motor vehicle, singly or in combination, in excess of 10,000 pounds.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A single form may be used or referenced for multiple vehicles.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2001, Ch. 826, Sec. 10. Effective January 1, 2002.)",
+    "action": "Amended",
+    "statutes_year": 2001,
+    "chapter": "826",
+    "section": "10",
+    "bill_number": null,
+    "effective_date": "2002-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "826",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4150.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4150.1.html",
+  "content_sha256": "14beab4938fb02b5eb83bbca3b865991b35dca4b088a012cfd7c449d8f8ab382",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21655.6",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "1",
+  "article_title": "Driving on Right Side",
+  "article_range": "21650 - 21664",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.1",
+  "text": "(a) Whenever the Department of Transportation authorizes or permits exclusive or preferential use of highway lanes for high-occupancy vehicles on any highway located within the territory of a transportation planning agency, as defined in Section 99214 of the Public Utilities Code, or a county transportation commission, the department shall obtain the approval of the transportation planning agency or county transportation commission prior to establishing the exclusive or preferential use of the highway lanes.\n\n(b) If the department authorizes or permits additional exclusive or preferential use of highway lanes for high-occupancy vehicles on that portion of State Highway Route 101 located within the boundaries of the City of Los Angeles, the department shall obtain the approval of the Los Angeles County Transportation Commission by at least a two-thirds majority vote of the entire membership eligible to vote prior to establishing the additional exclusion or preferential use of the highway lanes.\n\n(c) If the department restricts or requires the restriction of the use of any lane on any federal-aid highway in the unincorporated areas of Alameda County to high-occupancy vehicles, the Metropolitan Transportation Commission shall review the use patterns of those lanes and shall determine if congestion relief is being efficiently achieved by the creation of the high-occupancy vehicle lanes. The commission shall report its findings and recommendations in its HOV Master Plan Update for the San Francisco Bay area no later than two years after those high-occupancy vehicle lanes become operational.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 1. Driving on Right Side [21650 - 21664]\n##### § 21655.6\n\n(a) Whenever the Department of Transportation authorizes or permits exclusive or preferential use of highway lanes for high-occupancy vehicles on any highway located within the territory of a transportation planning agency, as defined in Section 99214 of the Public Utilities Code, or a county transportation commission, the department shall obtain the approval of the transportation planning agency or county transportation commission prior to establishing the exclusive or preferential use of the highway lanes.\n\n(b) If the department authorizes or permits additional exclusive or preferential use of highway lanes for high-occupancy vehicles on that portion of State Highway Route 101 located within the boundaries of the City of Los Angeles, the department shall obtain the approval of the Los Angeles County Transportation Commission by at least a two-thirds majority vote of the entire membership eligible to vote prior to establishing the additional exclusion or preferential use of the highway lanes.\n\n(c) If the department restricts or requires the restriction of the use of any lane on any federal-aid highway in the unincorporated areas of Alameda County to high-occupancy vehicles, the Metropolitan Transportation Commission shall review the use patterns of those lanes and shall determine if congestion relief is being efficiently achieved by the creation of the high-occupancy vehicle lanes. The commission shall report its findings and recommendations in its HOV Master Plan Update for the San Francisco Bay area no later than two years after those high-occupancy vehicle lanes become operational.\n\n*(Amended by Stats. 1998, Ch. 653, Sec. 1. Effective January 1, 1999.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever the Department of Transportation authorizes or permits exclusive or preferential use of highway lanes for high-occupancy vehicles on any highway located within the territory of a transportation planning agency, as defined in Section 99214 of the Public Utilities Code, or a county transportation commission, the department shall obtain the approval of the transportation planning agency or county transportation commission prior to establishing the exclusive or preferential use of the highway lanes.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If the department authorizes or permits additional exclusive or preferential use of highway lanes for high-occupancy vehicles on that portion of State Highway Route 101 located within the boundaries of the City of Los Angeles, the department shall obtain the approval of the Los Angeles County Transportation Commission by at least a two-thirds majority vote of the entire membership eligible to vote prior to establishing the additional exclusion or preferential use of the highway lanes.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "If the department restricts or requires the restriction of the use of any lane on any federal-aid highway in the unincorporated areas of Alameda County to high-occupancy vehicles, the Metropolitan Transportation Commission shall review the use patterns of those lanes and shall determine if congestion relief is being efficiently achieved by the creation of the high-occupancy vehicle lanes. The commission shall report its findings and recommendations in its HOV Master Plan Update for the San Francisco Bay area no later than two years after those high-occupancy vehicle lanes become operational.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1998, Ch. 653, Sec. 1. Effective January 1, 1999.)",
+    "action": "Amended",
+    "statutes_year": 1998,
+    "chapter": "653",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1999-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1998",
+  "op_chapter": "653",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21655.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21655.6.html",
+  "content_sha256": "6f8d2bd4239fa54f8e53a438edf65b2c2eb8f5d0cc06e44bbd3ccfcd2a5113ed",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

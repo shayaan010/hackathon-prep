@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13000.1",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "5",
+  "article_title": "Identification Cards",
+  "article_range": "13000 - 13008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.5",
+  "text": "(a) The department may refuse to issue or renew an identification card to any person for any of the following reasons:\n\n(1) The department determines that the person has knowingly used a false or fictitious name in any application.\n\n(2) The department determines that the person has impersonated another in making an application.\n\n(3) The department determines that the person has knowingly made a false statement, knowingly concealed a material fact, or otherwise committed any fraud on any application.\n\n(b) The department may declare an identification card invalid upon any of the grounds specified in subdivision (a) as reason to refuse to reissue or renew an identification card. The holder of an identification card that has been declared invalid shall surrender the identification card to the department.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 5. Identification Cards [13000 - 13008]\n##### § 13000.1\n\n(a) The department may refuse to issue or renew an identification card to any person for any of the following reasons:\n\n    (1) The department determines that the person has knowingly used a false or fictitious name in any application.\n\n    (2) The department determines that the person has impersonated another in making an application.\n\n    (3) The department determines that the person has knowingly made a false statement, knowingly concealed a material fact, or otherwise committed any fraud on any application.\n\n(b) The department may declare an identification card invalid upon any of the grounds specified in subdivision (a) as reason to refuse to reissue or renew an identification card. The holder of an identification card that has been declared invalid shall surrender the identification card to the department.\n\n*(Added by Stats. 2000, Ch. 787, Sec. 19. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may refuse to issue or renew an identification card to any person for any of the following reasons:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The department determines that the person has knowingly used a false or fictitious name in any application.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The department determines that the person has impersonated another in making an application.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The department determines that the person has knowingly made a false statement, knowingly concealed a material fact, or otherwise committed any fraud on any application.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The department may declare an identification card invalid upon any of the grounds specified in subdivision (a) as reason to refuse to reissue or renew an identification card. The holder of an identification card that has been declared invalid shall surrender the identification card to the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2000, Ch. 787, Sec. 19. Effective January 1, 2001.)",
+    "action": "Added",
+    "statutes_year": 2000,
+    "chapter": "787",
+    "section": "19",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "787",
+  "op_section": "19",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13000.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13000.1.html",
+  "content_sha256": "8b0c91a54295fa37e935b4ee42d744837f1f37b4854af90726e5c4c20454ad72",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

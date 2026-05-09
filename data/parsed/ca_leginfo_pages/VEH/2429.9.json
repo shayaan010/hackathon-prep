@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2429.9",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "(a) On or before January 1, 2027, the Department of the California Highway Patrol shall make the following available to city and county law enforcement agencies subject to this section:\n\n(1) At no charge, training on enforcement of laws related to commercial vehicles, as defined in Section 260 of the California Vehicle Code, including, but not limited to, truck route enforcement.\n\n(2) Course completion certificates for city and county law enforcement personnel who have completed the training described in paragraph (1).\n\n(b) All jurisdictions that are required to update a circulation element or to adopt an ordinance pursuant to Section 65098.1 of the Government Code shall have at least one enforcement officer that has received a completion certificate pursuant to paragraph (2) of subdivision (a) by the date upon which that circulation element is updated or ordinance is adopted.\n\n(c) Nothing in this section shall be construed to require the department to provide training for which it has not received funding or to require a jurisdiction to have an enforcement officer that has received a course completion certificate if the department has not made the training described in subdivision (a) available to law enforcement personnel at no charge.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2429.9\n\n(a) On or before January 1, 2027, the Department of the California Highway Patrol shall make the following available to city and county law enforcement agencies subject to this section:\n\n    (1) At no charge, training on enforcement of laws related to commercial vehicles, as defined in Section 260 of the California Vehicle Code, including, but not limited to, truck route enforcement.\n\n    (2) Course completion certificates for city and county law enforcement personnel who have completed the training described in paragraph (1).\n\n(b) All jurisdictions that are required to update a circulation element or to adopt an ordinance pursuant to Section 65098.1 of the Government Code shall have at least one enforcement officer that has received a completion certificate pursuant to paragraph (2) of subdivision (a) by the date upon which that circulation element is updated or ordinance is adopted.\n\n(c) Nothing in this section shall be construed to require the department to provide training for which it has not received funding or to require a jurisdiction to have an enforcement officer that has received a course completion certificate if the department has not made the training described in subdivision (a) available to law enforcement personnel at no charge.\n\n*(Added by Stats. 2025, Ch. 316, Sec. 16. (SB 415) Effective January 1, 2026.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "On or before January 1, 2027, the Department of the California Highway Patrol shall make the following available to city and county law enforcement agencies subject to this section:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "At no charge, training on enforcement of laws related to commercial vehicles, as defined in Section 260 of the California Vehicle Code, including, but not limited to, truck route enforcement.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Course completion certificates for city and county law enforcement personnel who have completed the training described in paragraph (1).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "All jurisdictions that are required to update a circulation element or to adopt an ordinance pursuant to Section 65098.1 of the Government Code shall have at least one enforcement officer that has received a completion certificate pursuant to paragraph (2) of subdivision (a) by the date upon which that circulation element is updated or ordinance is adopted.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Nothing in this section shall be construed to require the department to provide training for which it has not received funding or to require a jurisdiction to have an enforcement officer that has received a course completion certificate if the department has not made the training described in subdivision (a) available to law enforcement personnel at no charge.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2025, Ch. 316, Sec. 16. (SB 415) Effective January 1, 2026.)",
+    "action": "Added",
+    "statutes_year": 2025,
+    "chapter": "316",
+    "section": "16",
+    "bill_number": "SB 415",
+    "effective_date": "2026-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2025",
+  "op_chapter": "316",
+  "op_section": "16",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2429.9.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2429.9.html",
+  "content_sha256": "bed752306de31d67e79e8125363ea5ea03e2ab729ecbc7c2e5265c25dc89b6ab",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

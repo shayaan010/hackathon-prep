@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9250.8",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "2",
+  "article_title": "Registration Fees",
+  "article_range": "9250 - 9271",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.2",
+  "text": "(a) In addition to any other fees specified in this code and the Revenue and Taxation Code, a fee of three dollars ($3) shall be paid at the time of registration or renewal of registration of every vehicle, except vehicles described in subdivision (a) of Section 5014.1, subject to registration under this code, except those vehicles that are expressly exempted under this code from the payment of registration fees.\n\n(b) In addition to the fee required under subdivision (a), upon the implementation of the permanent trailer identification plate program, and as part of the Commercial Vehicle Registration Act of 2001, all commercial motor vehicles subject to Section 9400.1 shall pay a fee of six dollars ($6).",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 2. Registration Fees [9250 - 9271]\n##### § 9250.8\n\n(a) In addition to any other fees specified in this code and the Revenue and Taxation Code, a fee of three dollars ($3) shall be paid at the time of registration or renewal of registration of every vehicle, except vehicles described in subdivision (a) of Section 5014.1, subject to registration under this code, except those vehicles that are expressly exempted under this code from the payment of registration fees.\n\n(b) In addition to the fee required under subdivision (a), upon the implementation of the permanent trailer identification plate program, and as part of the Commercial Vehicle Registration Act of 2001, all commercial motor vehicles subject to Section 9400.1 shall pay a fee of six dollars ($6).\n\n*(Amended by Stats. 2003, Ch. 719, Sec. 11. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In addition to any other fees specified in this code and the Revenue and Taxation Code, a fee of three dollars ($3) shall be paid at the time of registration or renewal of registration of every vehicle, except vehicles described in subdivision (a) of Section 5014.1, subject to registration under this code, except those vehicles that are expressly exempted under this code from the payment of registration fees.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "In addition to the fee required under subdivision (a), upon the implementation of the permanent trailer identification plate program, and as part of the Commercial Vehicle Registration Act of 2001, all commercial motor vehicles subject to Section 9400.1 shall pay a fee of six dollars ($6).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 719, Sec. 11. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "719",
+    "section": "11",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "719",
+  "op_section": "11",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9250.8.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9250.8.html",
+  "content_sha256": "6890f99cb01be4c80d492f394bda4de6f7e225454c377b27ccad8b3a9f88880f",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

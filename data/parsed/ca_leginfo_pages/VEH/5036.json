@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5036",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8.1",
+  "article_title": "Motorized Bicycles",
+  "article_range": "5030 - 5039",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.10",
+  "text": "A service fee of fifteen dollars ($15) shall be paid for the issuance or transfer of a special license plate for motorized bicycles, as defined in Section 406. Publicly-owned motorized bicycles are exempt from the fee.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8.1. Motorized Bicycles [5030 - 5039]\n##### § 5036\n\nA service fee of fifteen dollars ($15) shall be paid for the issuance or transfer of a special license plate for motorized bicycles, as defined in Section 406. Publicly-owned motorized bicycles are exempt from the fee.\n\n*(Amended by Stats. 2003, Ch. 719, Sec. 7. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A service fee of fifteen dollars ($15) shall be paid for the issuance or transfer of a special license plate for motorized bicycles, as defined in Section 406. Publicly-owned motorized bicycles are exempt from the fee.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 719, Sec. 7. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "719",
+    "section": "7",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "719",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5036.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5036.html",
+  "content_sha256": "dbceeb7956c08f80c8042baafd0e38334e171c65fc2419b95274e71bcdf89ffa",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

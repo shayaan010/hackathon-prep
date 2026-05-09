@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5353",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "10",
+  "article_title": "Registration of Trailer Coaches",
+  "article_range": "5350 - 5354",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.17",
+  "text": "The registration provisions of this article shall not apply to any of the following:\n\n(a) Any trailer coach which is driven or moved upon a highway in any of the following circumstances:\n\n(1) In conformance with the provisions of this code relating to dealers, manufacturers, transporters, or nonresidents.\n\n(2) Under a temporary permit issued by the department as authorized by Section 4156.\n\n(3) Under a one-trip permit issued by the department as authorized by Section 4003 when such permit is issued to a nonresident.\n\n(b) Any unoccupied trailer coach which is part of an inventory of trailer coaches held for sale by a manufacturer or dealer in the course of his business.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 10. Registration of Trailer Coaches [5350 - 5354]\n##### § 5353\n\nThe registration provisions of this article shall not apply to any of the following:\n\n(a) Any trailer coach which is driven or moved upon a highway in any of the following circumstances:\n\n    (1) In conformance with the provisions of this code relating to dealers, manufacturers, transporters, or nonresidents.\n\n    (2) Under a temporary permit issued by the department as authorized by Section 4156.\n\n    (3) Under a one-trip permit issued by the department as authorized by Section 4003 when such permit is issued to a nonresident.\n\n(b) Any unoccupied trailer coach which is part of an inventory of trailer coaches held for sale by a manufacturer or dealer in the course of his business.\n\n*(Amended by Stats. 1981, Ch. 975, Sec. 39.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The registration provisions of this article shall not apply to any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Any trailer coach which is driven or moved upon a highway in any of the following circumstances:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "In conformance with the provisions of this code relating to dealers, manufacturers, transporters, or nonresidents.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Under a temporary permit issued by the department as authorized by Section 4156.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Under a one-trip permit issued by the department as authorized by Section 4003 when such permit is issued to a nonresident.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Any unoccupied trailer coach which is part of an inventory of trailer coaches held for sale by a manufacturer or dealer in the course of his business.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1981, Ch. 975, Sec. 39.)",
+    "action": "Amended",
+    "statutes_year": 1981,
+    "chapter": "975",
+    "section": "39",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1981",
+  "op_chapter": "975",
+  "op_section": "39",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5353.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5353.html",
+  "content_sha256": "d5e1598fbfe0c3fb8cf74b1cf87b9393c93511f0486ab5772e7a97f080f04977",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

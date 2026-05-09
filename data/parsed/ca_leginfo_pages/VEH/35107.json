@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35107",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "2",
+  "chapter_title": "Width",
+  "chapter_range": "35100 - 35111",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.2",
+  "text": "“Urban and suburban service” means a service performed in urban or suburban areas, or between municipalities in close proximity, except that:\n\n(a) The one-way route mileage of the service shall not be more than 50 miles.\n\n(b) Designated motor coach routes over state highways outside limits of incorporated cities where the one-way route mileage is over 25 miles, but does not exceed 50 miles, shall be approved by the Department of Transportation.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 2. Width [35100 - 35111]\n##### § 35107\n\n“Urban and suburban service” means a service performed in urban or suburban areas, or between municipalities in close proximity, except that:\n\n(a) The one-way route mileage of the service shall not be more than 50 miles.\n\n(b) Designated motor coach routes over state highways outside limits of incorporated cities where the one-way route mileage is over 25 miles, but does not exceed 50 miles, shall be approved by the Department of Transportation.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "“Urban and suburban service” means a service performed in urban or suburban areas, or between municipalities in close proximity, except that:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The one-way route mileage of the service shall not be more than 50 miles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Designated motor coach routes over state highways outside limits of incorporated cities where the one-way route mileage is over 25 miles, but does not exceed 50 miles, shall be approved by the Department of Transportation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35107.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35107.html",
+  "content_sha256": "d548df995ce8b032043e99034c3ca0fd04fee1e19f500a83e72f105e781dc131",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

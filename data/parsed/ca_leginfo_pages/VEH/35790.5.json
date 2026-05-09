@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35790.5",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "6",
+  "article_title": "Permits and Agreements",
+  "article_range": "35780 - 35796",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.7",
+  "text": "(a) A permit issued pursuant to Section 35790 may authorize an exemption from length limitations otherwise applicable to vehicles and combinations of vehicles for the transportation of more than one unit of a manufactured home if all of the following conditions are met:\n\n(1) The units are parts of a manufactured home that, when completed, connect two or more modular units.\n\n(2) The units are mounted or loaded on a single vehicle or chassis in a manner so that their narrowest dimension represents the loaded width on the highway.\n\n(3) The units are loaded in tandem only with respect to length, and the dimension from the front of the forward unit to the rear of the last unit does not exceed the length of vehicles in combination that would otherwise be permitted under this section.\n\n(b) Applications for permits issued pursuant to this section shall specifically describe the manufactured home units to be moved and shall include a written statement of good cause satisfying the requirements of this section.\n\n(c) Permits, other than annual permits, issued pursuant to this section shall describe the particular highways over which the permit is valid and shall be subject to all of the conditions of this article and any additional conditions imposed by the public agency issuing the permit.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 6. Permits and Agreements [35780 - 35796]\n##### § 35790.5\n\n(a) A permit issued pursuant to Section 35790 may authorize an exemption from length limitations otherwise applicable to vehicles and combinations of vehicles for the transportation of more than one unit of a manufactured home if all of the following conditions are met:\n\n    (1) The units are parts of a manufactured home that, when completed, connect two or more modular units.\n\n    (2) The units are mounted or loaded on a single vehicle or chassis in a manner so that their narrowest dimension represents the loaded width on the highway.\n\n    (3) The units are loaded in tandem only with respect to length, and the dimension from the front of the forward unit to the rear of the last unit does not exceed the length of vehicles in combination that would otherwise be permitted under this section.\n\n(b) Applications for permits issued pursuant to this section shall specifically describe the manufactured home units to be moved and shall include a written statement of good cause satisfying the requirements of this section.\n\n(c) Permits, other than annual permits, issued pursuant to this section shall describe the particular highways over which the permit is valid and shall be subject to all of the conditions of this article and any additional conditions imposed by the public agency issuing the permit.\n\n*(Added by Stats. 1984, Ch. 1312, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A permit issued pursuant to Section 35790 may authorize an exemption from length limitations otherwise applicable to vehicles and combinations of vehicles for the transportation of more than one unit of a manufactured home if all of the following conditions are met:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The units are parts of a manufactured home that, when completed, connect two or more modular units.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The units are mounted or loaded on a single vehicle or chassis in a manner so that their narrowest dimension represents the loaded width on the highway.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The units are loaded in tandem only with respect to length, and the dimension from the front of the forward unit to the rear of the last unit does not exceed the length of vehicles in combination that would otherwise be permitted under this section.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Applications for permits issued pursuant to this section shall specifically describe the manufactured home units to be moved and shall include a written statement of good cause satisfying the requirements of this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Permits, other than annual permits, issued pursuant to this section shall describe the particular highways over which the permit is valid and shall be subject to all of the conditions of this article and any additional conditions imposed by the public agency issuing the permit.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1984, Ch. 1312, Sec. 2.)",
+    "action": "Added",
+    "statutes_year": 1984,
+    "chapter": "1312",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "1312",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35790.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35790.5.html",
+  "content_sha256": "0a86a6e411e4c544c3bf3e0c77a0dc240f7576378d1e7a330ec7f06f83c3d8ec",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

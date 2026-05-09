@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "16433",
+  "division": "7",
+  "division_title": "FINANCIAL RESPONSIBILITY LAWS",
+  "division_range": "16000 - 16560",
+  "chapter": "3",
+  "chapter_title": "Proof of Financial Responsibility",
+  "chapter_range": "16430 - 16484",
+  "article": "1",
+  "article_title": "Proof Requirements",
+  "article_range": "16430 - 16436",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "12.3.1",
+  "text": "A certificate or certificates shall certify, if the liability policy therein cited has been canceled, that the department shall be notified in writing within 10 days after the cancellation of insurance becomes final.\n\nNothing in this section extends coverage beyond the date stated in the notice of cancellation.",
+  "markdown": "# Vehicle Code\n## Division 7. FINANCIAL RESPONSIBILITY LAWS [16000 - 16560]\n### Chapter 3. Proof of Financial Responsibility [16430 - 16484]\n#### Article 1. Proof Requirements [16430 - 16436]\n##### § 16433\n\nA certificate or certificates shall certify, if the liability policy therein cited has been canceled, that the department shall be notified in writing within 10 days after the cancellation of insurance becomes final.\n\nNothing in this section extends coverage beyond the date stated in the notice of cancellation.\n\n*(Amended by Stats. 1990, Ch. 314, Sec. 8. Effective July 17, 1990.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A certificate or certificates shall certify, if the liability policy therein cited has been canceled, that the department shall be notified in writing within 10 days after the cancellation of insurance becomes final.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Nothing in this section extends coverage beyond the date stated in the notice of cancellation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1990, Ch. 314, Sec. 8. Effective July 17, 1990.)",
+    "action": "Amended",
+    "statutes_year": 1990,
+    "chapter": "314",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": "1990-07-17",
+    "operative_date": null
+  },
+  "op_statues": "1990",
+  "op_chapter": "314",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=16433.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/16433.html",
+  "content_sha256": "4aee1022788009d1f56dcde74eeb45d6849d1340e3394ba71b23623cce29e1e5",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

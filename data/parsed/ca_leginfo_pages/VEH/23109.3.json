@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23109.3",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "12",
+  "chapter_title": "Public Offenses",
+  "chapter_range": "23100 - 23249.50",
+  "article": "1",
+  "article_title": "Driving Offenses",
+  "article_range": "23100 - 23135",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.12.1",
+  "text": "If a peace officer arrests a person for a violation of subdivision (d) of Section 23109 and causes the removal and seizure of the vehicle used to commit the violation pursuant to paragraph (1) of subdivision (h) of Section 22651, the peace officer shall not be required to take the person into custody.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 12. Public Offenses [23100 - 23249.50]\n#### Article 1. Driving Offenses [23100 - 23135]\n##### § 23109.3\n\nIf a peace officer arrests a person for a violation of subdivision (d) of Section 23109 and causes the removal and seizure of the vehicle used to commit the violation pursuant to paragraph (1) of subdivision (h) of Section 22651, the peace officer shall not be required to take the person into custody.\n\n*(Added by Stats. 2024, Ch. 501, Sec. 2. (AB 1978) Effective January 1, 2025.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "If a peace officer arrests a person for a violation of subdivision (d) of Section 23109 and causes the removal and seizure of the vehicle used to commit the violation pursuant to paragraph (1) of subdivision (h) of Section 22651, the peace officer shall not be required to take the person into custody.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2024, Ch. 501, Sec. 2. (AB 1978) Effective January 1, 2025.)",
+    "action": "Added",
+    "statutes_year": 2024,
+    "chapter": "501",
+    "section": "2",
+    "bill_number": "AB 1978",
+    "effective_date": "2025-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2024",
+  "op_chapter": "501",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23109.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23109.3.html",
+  "content_sha256": "555c24df03b5ff6a0b984a294e3092ec92541ca4f2c32cc583848a818959ee02",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

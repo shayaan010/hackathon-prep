@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35411",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "4",
+  "chapter_title": "Length",
+  "chapter_range": "35400 - 35414",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.4",
+  "text": "(a) Except as provided in subdivision (b), the load upon any combination of vehicles shall not exceed 75 feet measured from the front extremity of the front vehicle or load to the rear extremity of the last vehicle or load.\n\n(b) The load upon any combination of vehicles operating pursuant to Section 35401 or 35401.5, when the overall length of the combination of vehicles exceeds 75 feet, shall be confined within the exterior dimensions of the vehicles.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 4. Length [35400 - 35414]\n##### § 35411\n\n(a) Except as provided in subdivision (b), the load upon any combination of vehicles shall not exceed 75 feet measured from the front extremity of the front vehicle or load to the rear extremity of the last vehicle or load.\n\n(b) The load upon any combination of vehicles operating pursuant to Section 35401 or 35401.5, when the overall length of the combination of vehicles exceeds 75 feet, shall be confined within the exterior dimensions of the vehicles.\n\n*(Amended by Stats. 1983, Ch. 145, Sec. 17. Effective June 28, 1983.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in subdivision (b), the load upon any combination of vehicles shall not exceed 75 feet measured from the front extremity of the front vehicle or load to the rear extremity of the last vehicle or load.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The load upon any combination of vehicles operating pursuant to Section 35401 or 35401.5, when the overall length of the combination of vehicles exceeds 75 feet, shall be confined within the exterior dimensions of the vehicles.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 145, Sec. 17. Effective June 28, 1983.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "145",
+    "section": "17",
+    "bill_number": null,
+    "effective_date": "1983-06-28",
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "145",
+  "op_section": "17",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35411.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35411.html",
+  "content_sha256": "e328430ea35ca70a950344d8fe9f028379678b40295b8163d1dfa660f69741ed",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40002.1",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "(a) Whenever a person has failed to appear in the court designated in the notice to appear or a verified complaint specified in Section 40002, following personal service of the notice of noncompliance or deposit in the mail pursuant to Section 22, the magistrate or clerk of the court may give notice of that fact to the department.\n\n(b) Whenever the matter is adjudicated, including a dismissal of the charges upon forfeiture of bail or otherwise, the magistrate or clerk of the court hearing the matter shall immediately do all of the following:\n\n(1) Endorse a certificate to that effect.\n\n(2) Provide the person or the person’s attorney with a copy of the certificate.\n\n(3) Transmit a copy of the certificate to the department.\n\n(c) A notice of noncompliance shall not be transmitted to the department pursuant to subdivision (a) if a warrant of arrest has been issued on the same offense pursuant to subdivision (b) of Section 40002. A warrant of arrest shall not be issued pursuant to subdivision (b) of Section 40002 if a notice of noncompliance has been transmitted to the department on the same offense pursuant to this section, except that, when a notice has been received by the court pursuant to subdivision (c) of Section 4766 or recalled by motion of the court, a warrant may then be issued.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40002.1\n\n(a) Whenever a person has failed to appear in the court designated in the notice to appear or a verified complaint specified in Section 40002, following personal service of the notice of noncompliance or deposit in the mail pursuant to Section 22, the magistrate or clerk of the court may give notice of that fact to the department.\n\n(b) Whenever the matter is adjudicated, including a dismissal of the charges upon forfeiture of bail or otherwise, the magistrate or clerk of the court hearing the matter shall immediately do all of the following:\n\n    (1) Endorse a certificate to that effect.\n\n    (2) Provide the person or the person’s attorney with a copy of the certificate.\n\n    (3) Transmit a copy of the certificate to the department.\n\n(c) A notice of noncompliance shall not be transmitted to the department pursuant to subdivision (a) if a warrant of arrest has been issued on the same offense pursuant to subdivision (b) of Section 40002. A warrant of arrest shall not be issued pursuant to subdivision (b) of Section 40002 if a notice of noncompliance has been transmitted to the department on the same offense pursuant to this section, except that, when a notice has been received by the court pursuant to subdivision (c) of Section 4766 or recalled by motion of the court, a warrant may then be issued.\n\n*(Amended by Stats. 2007, Ch. 452, Sec. 4. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever a person has failed to appear in the court designated in the notice to appear or a verified complaint specified in Section 40002, following personal service of the notice of noncompliance or deposit in the mail pursuant to Section 22, the magistrate or clerk of the court may give notice of that fact to the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Whenever the matter is adjudicated, including a dismissal of the charges upon forfeiture of bail or otherwise, the magistrate or clerk of the court hearing the matter shall immediately do all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Endorse a certificate to that effect.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Provide the person or the person’s attorney with a copy of the certificate.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Transmit a copy of the certificate to the department.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "A notice of noncompliance shall not be transmitted to the department pursuant to subdivision (a) if a warrant of arrest has been issued on the same offense pursuant to subdivision (b) of Section 40002. A warrant of arrest shall not be issued pursuant to subdivision (b) of Section 40002 if a notice of noncompliance has been transmitted to the department on the same offense pursuant to this section, except that, when a notice has been received by the court pursuant to subdivision (c) of Section 4766 or recalled by motion of the court, a warrant may then be issued.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2007, Ch. 452, Sec. 4. Effective January 1, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2007,
+    "chapter": "452",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "452",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40002.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40002.1.html",
+  "content_sha256": "520621186f2e82120600efd5eb0529f59b97fc71119190fa43cadd8512c8108a",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

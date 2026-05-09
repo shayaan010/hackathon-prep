@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "14900.5",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "5",
+  "chapter_title": "License Fees",
+  "chapter_range": "14900 - 14911",
+  "article": "1",
+  "article_title": "Imposition of Fees",
+  "article_range": "14900 - 14907",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.5.1",
+  "text": "Upon application and payment of the fees for a driver’s license pursuant to Section 14900, an identification card may be issued to the applicant if it is determined that a driver’s license cannot be issued due to the applicant’s physical or mental condition. The identification card, unless canceled earlier, shall expire on the applicant’s sixth birthday following the date of application.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 5. License Fees [14900 - 14911]\n#### Article 1. Imposition of Fees [14900 - 14907]\n##### § 14900.5\n\nUpon application and payment of the fees for a driver’s license pursuant to Section 14900, an identification card may be issued to the applicant if it is determined that a driver’s license cannot be issued due to the applicant’s physical or mental condition. The identification card, unless canceled earlier, shall expire on the applicant’s sixth birthday following the date of application.\n\n*(Added by Stats. 1990, Ch. 607, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Upon application and payment of the fees for a driver’s license pursuant to Section 14900, an identification card may be issued to the applicant if it is determined that a driver’s license cannot be issued due to the applicant’s physical or mental condition. The identification card, unless canceled earlier, shall expire on the applicant’s sixth birthday following the date of application.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1990, Ch. 607, Sec. 2.)",
+    "action": "Added",
+    "statutes_year": 1990,
+    "chapter": "607",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1990",
+  "op_chapter": "607",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=14900.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/14900.5.html",
+  "content_sha256": "d46cca1b7a271ce75eaf1957197568bd28e8f509e5255541fa06dd03f77170b2",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

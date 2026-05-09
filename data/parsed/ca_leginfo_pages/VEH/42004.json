@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "42004",
+  "division": "18",
+  "division_title": "PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+  "division_range": "42000 - 42277",
+  "chapter": "1",
+  "chapter_title": "Penalties",
+  "chapter_range": "42000 - 42032",
+  "article": "1",
+  "article_title": "Public Offenses",
+  "article_range": "42000 - 42010",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "35.1.1",
+  "text": "For the purpose of determining the penalty to be imposed pursuant to this code, the court may consider a written report from the Department of Motor Vehicles containing information from its records showing prior convictions; and the communication is prima facie evidence of such convictions, if the defendant admits them, regardless of whether or not the complaint commencing the proceedings has alleged prior convictions.\n\nFor the purpose of this chapter a prior bail forfeiture shall be deemed to be a conviction of the offense charged.",
+  "markdown": "# Vehicle Code\n## Division 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES [42000 - 42277]\n### Chapter 1. Penalties [42000 - 42032]\n#### Article 1. Public Offenses [42000 - 42010]\n##### § 42004\n\nFor the purpose of determining the penalty to be imposed pursuant to this code, the court may consider a written report from the Department of Motor Vehicles containing information from its records showing prior convictions; and the communication is prima facie evidence of such convictions, if the defendant admits them, regardless of whether or not the complaint commencing the proceedings has alleged prior convictions.\n\nFor the purpose of this chapter a prior bail forfeiture shall be deemed to be a conviction of the offense charged.\n\n*(Repealed and added by Stats. 1968, Ch. 1192.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "For the purpose of determining the penalty to be imposed pursuant to this code, the court may consider a written report from the Department of Motor Vehicles containing information from its records showing prior convictions; and the communication is prima facie evidence of such convictions, if the defendant admits them, regardless of whether or not the complaint commencing the proceedings has alleged prior convictions.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "For the purpose of this chapter a prior bail forfeiture shall be deemed to be a conviction of the offense charged.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed and added by Stats. 1968, Ch. 1192.)",
+    "action": "Repealed",
+    "statutes_year": 1968,
+    "chapter": "1192",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1968",
+  "op_chapter": "1192",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42004.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/42004.html",
+  "content_sha256": "fa04eff120dba0fe1af311bb3e46935e801da06d147e2671a22991ae9a3e405d",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

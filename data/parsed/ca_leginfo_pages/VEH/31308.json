@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "31308",
+  "division": "13",
+  "division_title": "TOWING AND LOADING EQUIPMENT",
+  "division_range": "29000 - 31560",
+  "chapter": "5",
+  "chapter_title": "Transporting Other Loads",
+  "chapter_range": "31301 - 31560",
+  "article": "1",
+  "article_title": "Hazardous Materials",
+  "article_range": "31301 - 31309",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "19.2.1",
+  "text": "(a) Nothing contained in Section 31303 or 31304 shall be deemed to exempt any person subject to these sections from other provisions of this code.\n\n(b) This section shall become operative on January 1, 1987.",
+  "markdown": "# Vehicle Code\n## Division 13. TOWING AND LOADING EQUIPMENT [29000 - 31560]\n### Chapter 5. Transporting Other Loads [31301 - 31560]\n#### Article 1. Hazardous Materials [31301 - 31309]\n##### § 31308\n\n(a) Nothing contained in Section 31303 or 31304 shall be deemed to exempt any person subject to these sections from other provisions of this code.\n\n(b) This section shall become operative on January 1, 1987.\n\n*(Added by Stats. 1985, Ch. 814, Sec. 7. Section operative January 1, 1987, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Nothing contained in Section 31303 or 31304 shall be deemed to exempt any person subject to these sections from other provisions of this code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section shall become operative on January 1, 1987.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1985, Ch. 814, Sec. 7. Section operative January 1, 1987, by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 1985,
+    "chapter": "814",
+    "section": "7",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1985",
+  "op_chapter": "814",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=31308.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/31308.html",
+  "content_sha256": "c2e0d909ae37b40c0a64f5989f1f0035db8faa09c499470ed494ca04d87ff7d9",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

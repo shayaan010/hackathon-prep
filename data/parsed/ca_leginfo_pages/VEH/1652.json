@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1652",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "2",
+  "article_title": "Powers and Duties",
+  "article_range": "1650 - 1685.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.2",
+  "text": "(a) The department shall prescribe and provide suitable forms of applications, certificates of ownership, registration cards, drivers’ licenses, and all other forms requisite or deemed necessary for the purposes of this code and shall prepay all transportation charges thereon.\n\n(b) The department may require that any application or document filed with the department be signed and submitted under penalty of perjury.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 2. Powers and Duties [1650 - 1685.1]\n##### § 1652\n\n(a) The department shall prescribe and provide suitable forms of applications, certificates of ownership, registration cards, drivers’ licenses, and all other forms requisite or deemed necessary for the purposes of this code and shall prepay all transportation charges thereon.\n\n(b) The department may require that any application or document filed with the department be signed and submitted under penalty of perjury.\n\n*(Amended by Stats. 1982, Ch. 830, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall prescribe and provide suitable forms of applications, certificates of ownership, registration cards, drivers’ licenses, and all other forms requisite or deemed necessary for the purposes of this code and shall prepay all transportation charges thereon.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department may require that any application or document filed with the department be signed and submitted under penalty of perjury.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1982, Ch. 830, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1982,
+    "chapter": "830",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "830",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1652.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1652.html",
+  "content_sha256": "89fb6ce500415edb5636832502b5f773afc861dc6906281df7bb1ba01dd85980",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

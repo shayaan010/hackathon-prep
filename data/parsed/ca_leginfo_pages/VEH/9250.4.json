@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9250.4",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "2",
+  "article_title": "Registration Fees",
+  "article_range": "9250 - 9271",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.2",
+  "text": "(a) The department shall, if requested by a countywide transportation planning agency, collect the fee imposed pursuant to Section 65089.20 of the Government Code upon the registration or renewal of registration of a motor vehicle registered in the county, except those vehicles that are expressly exempted under this code from the payment of registration fees.\n\n(b) The countywide transportation planning agency shall pay for the initial setup and programming costs identified by the department through a direct contract with the department. Any direct contract payment by the board shall be repaid, with no restriction on the funds, to the countywide transportation planning agency as part of the initial revenues available for distribution.\n\n(c) (1) After deducting all costs incurred pursuant to this section, the department shall distribute the net revenues pursuant to subdivision (a) of Section 65089.20 of the Government Code.\n\n(2) The costs deducted under paragraph (1) shall not be counted against the 5-percent administrative cost limit specified in subdivision (d) of Section 65089.20 of the Government Code.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 2. Registration Fees [9250 - 9271]\n##### § 9250.4\n\n(a) The department shall, if requested by a countywide transportation planning agency, collect the fee imposed pursuant to Section 65089.20 of the Government Code upon the registration or renewal of registration of a motor vehicle registered in the county, except those vehicles that are expressly exempted under this code from the payment of registration fees.\n\n(b) The countywide transportation planning agency shall pay for the initial setup and programming costs identified by the department through a direct contract with the department. Any direct contract payment by the board shall be repaid, with no restriction on the funds, to the countywide transportation planning agency as part of the initial revenues available for distribution.\n\n(c) (1) After deducting all costs incurred pursuant to this section, the department shall distribute the net revenues pursuant to subdivision (a) of Section 65089.20 of the Government Code.\n\n    (2) The costs deducted under paragraph (1) shall not be counted against the 5-percent administrative cost limit specified in subdivision (d) of Section 65089.20 of the Government Code.\n\n*(Added by Stats. 2009, Ch. 554, Sec. 3. (SB 83) Effective January 1, 2010.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall, if requested by a countywide transportation planning agency, collect the fee imposed pursuant to Section 65089.20 of the Government Code upon the registration or renewal of registration of a motor vehicle registered in the county, except those vehicles that are expressly exempted under this code from the payment of registration fees.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The countywide transportation planning agency shall pay for the initial setup and programming costs identified by the department through a direct contract with the department. Any direct contract payment by the board shall be repaid, with no restriction on the funds, to the countywide transportation planning agency as part of the initial revenues available for distribution.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "(1) After deducting all costs incurred pursuant to this section, the department shall distribute the net revenues pursuant to subdivision (a) of Section 65089.20 of the Government Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The costs deducted under paragraph (1) shall not be counted against the 5-percent administrative cost limit specified in subdivision (d) of Section 65089.20 of the Government Code.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2009, Ch. 554, Sec. 3. (SB 83) Effective January 1, 2010.)",
+    "action": "Added",
+    "statutes_year": 2009,
+    "chapter": "554",
+    "section": "3",
+    "bill_number": "SB 83",
+    "effective_date": "2010-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2009",
+  "op_chapter": "554",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9250.4.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9250.4.html",
+  "content_sha256": "caa098f690aa114ebd9a49851a62e3ed389fd5d9eabbb5f97fd9a974bf807d7d",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

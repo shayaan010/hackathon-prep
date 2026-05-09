@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22357.1",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "1",
+  "article_title": "Generally",
+  "article_range": "22348 - 22366",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.1",
+  "text": "Notwithstanding Section 22357, a local authority may, by ordinance or resolution, set a prima facie speed limit of 25 miles per hour on any street, other than a state highway, adjacent to any children’s playground in a public park but only during particular hours or days when children are expected to use the facilities. The 25 mile per hour speed limit shall be effective when signs giving notice of the speed limit are posted.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 1. Generally [22348 - 22366]\n##### § 22357.1\n\nNotwithstanding Section 22357, a local authority may, by ordinance or resolution, set a prima facie speed limit of 25 miles per hour on any street, other than a state highway, adjacent to any children’s playground in a public park but only during particular hours or days when children are expected to use the facilities. The 25 mile per hour speed limit shall be effective when signs giving notice of the speed limit are posted.\n\n*(Added by Stats. 1989, Ch. 508, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding Section 22357, a local authority may, by ordinance or resolution, set a prima facie speed limit of 25 miles per hour on any street, other than a state highway, adjacent to any children’s playground in a public park but only during particular hours or days when children are expected to use the facilities. The 25 mile per hour speed limit shall be effective when signs giving notice of the speed limit are posted.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1989, Ch. 508, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1989,
+    "chapter": "508",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1989",
+  "op_chapter": "508",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22357.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22357.1.html",
+  "content_sha256": "dc0952c65923055962d3240b011a5707e3354095d7340877b020dc4582ce310e",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22445.4",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "5",
+  "article_title": "State Highway Work Zone Speed Safety Program",
+  "article_range": "22445 - 22445.6",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.5",
+  "text": "(a) The department shall offer the ability for indigent speed safety system violation recipients to pay applicable fines and penalties over a period of time under a payment plan with monthly installments of no more than twenty-five dollars ($25) and shall limit the processing fee to participate in a payment plan to five dollars ($5) or less.\n\n(b) Notwithstanding subdivision (a), the department shall reduce the applicable fines and penalties by 80 percent for indigent persons, and by 50 percent for individuals up to 250 percent above the federal poverty level.\n\n(c) The person may demonstrate that they are indigent or make up to 250 percent above the poverty level or less by providing either of the following information, as applicable:\n\n(1) Proof of income from a pay stub or another form of proof of earnings, such as a bank statement, that shows that the person meets the income criteria set forth in subdivision (b) of Section 68632 of the Government Code, subject to review and approval by the department or its designee. The department or its designee shall not unreasonably withhold its approval.\n\n(2) Proof of receipt of benefits under the programs described in subdivision (a) of Section 68632 of the Government Code, including, but not limited to, an electronic benefits transfer card or another card, subject to review and approval by the department. The department or its designee shall not unreasonably withhold its approval.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 5. State Highway Work Zone Speed Safety Program [22445 - 22445.6]\n##### § 22445.4\n\n(a) The department shall offer the ability for indigent speed safety system violation recipients to pay applicable fines and penalties over a period of time under a payment plan with monthly installments of no more than twenty-five dollars ($25) and shall limit the processing fee to participate in a payment plan to five dollars ($5) or less.\n\n(b) Notwithstanding subdivision (a), the department shall reduce the applicable fines and penalties by 80 percent for indigent persons, and by 50 percent for individuals up to 250 percent above the federal poverty level.\n\n(c) The person may demonstrate that they are indigent or make up to 250 percent above the poverty level or less by providing either of the following information, as applicable:\n\n    (1) Proof of income from a pay stub or another form of proof of earnings, such as a bank statement, that shows that the person meets the income criteria set forth in subdivision (b) of Section 68632 of the Government Code, subject to review and approval by the department or its designee. The department or its designee shall not unreasonably withhold its approval.\n\n    (2) Proof of receipt of benefits under the programs described in subdivision (a) of Section 68632 of the Government Code, including, but not limited to, an electronic benefits transfer card or another card, subject to review and approval by the department. The department or its designee shall not unreasonably withhold its approval.\n\n*(Added by Stats. 2025, Ch. 684, Sec. 3. (AB 289) Effective January 1, 2026. Repealed as of January 1, 2032, pursuant to Section 22445.6.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall offer the ability for indigent speed safety system violation recipients to pay applicable fines and penalties over a period of time under a payment plan with monthly installments of no more than twenty-five dollars ($25) and shall limit the processing fee to participate in a payment plan to five dollars ($5) or less.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding subdivision (a), the department shall reduce the applicable fines and penalties by 80 percent for indigent persons, and by 50 percent for individuals up to 250 percent above the federal poverty level.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The person may demonstrate that they are indigent or make up to 250 percent above the poverty level or less by providing either of the following information, as applicable:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Proof of income from a pay stub or another form of proof of earnings, such as a bank statement, that shows that the person meets the income criteria set forth in subdivision (b) of Section 68632 of the Government Code, subject to review and approval by the department or its designee. The department or its designee shall not unreasonably withhold its approval.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Proof of receipt of benefits under the programs described in subdivision (a) of Section 68632 of the Government Code, including, but not limited to, an electronic benefits transfer card or another card, subject to review and approval by the department. The department or its designee shall not unreasonably withhold its approval.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2025, Ch. 684, Sec. 3. (AB 289) Effective January 1, 2026. Repealed as of January 1, 2032, pursuant to Section 22445.6.)",
+    "action": "Added",
+    "statutes_year": 2025,
+    "chapter": "684",
+    "section": "3",
+    "bill_number": "AB 289",
+    "effective_date": "2026-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2025",
+  "op_chapter": "684",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22445.4.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22445.4.html",
+  "content_sha256": "a3eb81128a410c08b9cffe0cc61020d90c7146684d1f498e5a2c7edd5a3f6fa5",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21650.1",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "1",
+  "article_title": "Driving on Right Side",
+  "article_range": "21650 - 21664",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.1",
+  "text": "A bicycle operated on a roadway, or the shoulder of a highway, shall be operated in the same direction as vehicles are required to be driven upon the roadway.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 1. Driving on Right Side [21650 - 21664]\n##### § 21650.1\n\nA bicycle operated on a roadway, or the shoulder of a highway, shall be operated in the same direction as vehicles are required to be driven upon the roadway.\n\n*(Added by Stats. 1988, Ch. 58, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A bicycle operated on a roadway, or the shoulder of a highway, shall be operated in the same direction as vehicles are required to be driven upon the roadway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 58, Sec. 2.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "58",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "58",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21650.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21650.1.html",
+  "content_sha256": "5d763b8f736eb436e6f79f4fb667bf6f4748428d74253c45a3909c4e2226d84b",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15230",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "7",
+  "chapter_title": "Commercial Motor Vehicle Safety Program",
+  "chapter_range": "15200 - 15326",
+  "article": "3",
+  "article_title": "Driver Notification Requirements",
+  "article_range": "15215 - 15230",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.7.3",
+  "text": "Each person who applies for employment as a driver of a commercial motor vehicle shall provide the employer, at the time of the application, with the following information for the 10 years preceding the date of application:\n\n(a) A list of the names and addresses of the applicant’s previous employers for which the applicant was a driver of a commercial motor vehicle.\n\n(b) The dates the applicant was employed by each employer.\n\n(c) The reason for leaving that employment.\n\nThe applicant shall certify that all information furnished is true and complete. An employer may require an applicant to provide additional information.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 7. Commercial Motor Vehicle Safety Program [15200 - 15326]\n#### Article 3. Driver Notification Requirements [15215 - 15230]\n##### § 15230\n\nEach person who applies for employment as a driver of a commercial motor vehicle shall provide the employer, at the time of the application, with the following information for the 10 years preceding the date of application:\n\n(a) A list of the names and addresses of the applicant’s previous employers for which the applicant was a driver of a commercial motor vehicle.\n\n(b) The dates the applicant was employed by each employer.\n\n(c) The reason for leaving that employment.\n\nThe applicant shall certify that all information furnished is true and complete. An employer may require an applicant to provide additional information.\n\n*(Added by Stats. 1988, Ch. 1509, Sec. 9.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Each person who applies for employment as a driver of a commercial motor vehicle shall provide the employer, at the time of the application, with the following information for the 10 years preceding the date of application:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A list of the names and addresses of the applicant’s previous employers for which the applicant was a driver of a commercial motor vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The dates the applicant was employed by each employer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The reason for leaving that employment.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The applicant shall certify that all information furnished is true and complete. An employer may require an applicant to provide additional information.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 1509, Sec. 9.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "1509",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1509",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15230.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15230.html",
+  "content_sha256": "bcaec51304e6ca896c5c8f14c5fd97e6a75fa1d3338bc0e40c404b96bd7c579e",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

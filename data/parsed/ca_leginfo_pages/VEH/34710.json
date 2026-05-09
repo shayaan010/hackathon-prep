@@ -1,0 +1,87 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34710",
+  "division": "14.9",
+  "division_title": "MOTOR VEHICLE DAMAGE CONTROL",
+  "division_range": "34700 - 34725",
+  "chapter": "2",
+  "chapter_title": "General Provisions and Definitions",
+  "chapter_range": "34710 - 34715",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "28.2",
+  "text": "As used in this division, “passenger vehicle” means any motor vehicle defined in Section 465, except any of the following motor vehicles:\n\n(a) Motorcycles.\n\n(b) Housecars.\n\n(c) Specially constructed vehicles.\n\n(d) Motor vehicles equipped with four-wheel drive.\n\n(e) Motor vehicles constructed on a truck chassis.\n\n(f) Motor vehicles operated for hire, compensation, or profit.\n\n(g) Makes of motor vehicles of a model year manufactured or sold in California in quantities of less than 2,000 units for each such model year.\n\n(h) Motor vehicles designed and constructed by the manufacturer of such vehicles, for off-highway use, as determined by the Department of Motor Vehicles.",
+  "markdown": "# Vehicle Code\n## Division 14.9. MOTOR VEHICLE DAMAGE CONTROL [34700 - 34725]\n### Chapter 2. General Provisions and Definitions [34710 - 34715]\n##### § 34710\n\nAs used in this division, “passenger vehicle” means any motor vehicle defined in Section 465, except any of the following motor vehicles:\n\n(a) Motorcycles.\n\n(b) Housecars.\n\n(c) Specially constructed vehicles.\n\n(d) Motor vehicles equipped with four-wheel drive.\n\n(e) Motor vehicles constructed on a truck chassis.\n\n(f) Motor vehicles operated for hire, compensation, or profit.\n\n(g) Makes of motor vehicles of a model year manufactured or sold in California in quantities of less than 2,000 units for each such model year.\n\n(h) Motor vehicles designed and constructed by the manufacturer of such vehicles, for off-highway use, as determined by the Department of Motor Vehicles.\n\n*(Amended by Stats. 1974, Ch. 635.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "As used in this division, “passenger vehicle” means any motor vehicle defined in Section 465, except any of the following motor vehicles:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Motorcycles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Housecars.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Specially constructed vehicles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Motor vehicles equipped with four-wheel drive.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "Motor vehicles constructed on a truck chassis.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "f",
+      "text": "Motor vehicles operated for hire, compensation, or profit.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "g",
+      "text": "Makes of motor vehicles of a model year manufactured or sold in California in quantities of less than 2,000 units for each such model year.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "h",
+      "text": "Motor vehicles designed and constructed by the manufacturer of such vehicles, for off-highway use, as determined by the Department of Motor Vehicles.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 635.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "635",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "635",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34710.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34710.html",
+  "content_sha256": "130c48f2a9733a6893bf62f35913c4524ae85e7bb93620fa5a9d887accdcd8a4",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

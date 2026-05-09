@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40004",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "(a) The period for commencing criminal action against any person having filed or caused to be filed any false, fictitious, altered, forged or counterfeit document with the Department of Motor Vehicles or the Department of the California Highway Patrol shall, if the offense is a misdemeanor, expire one year from time of discovery of such act.\n\n(b) The period for commencing criminal action against any person having filed or caused to be filed any false, fictitious, altered, forged or counterfeit document with the Department of Motor Vehicles or the Department of the California Highway Patrol shall, if the offense is a felony, expire three years from time of discovery of such act.\n\n(c) The time allowed for commencing criminal proceedings as provided in subdivisions (a) and (b) of this section shall not extend beyond five years from the date of commission of the act.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40004\n\n(a) The period for commencing criminal action against any person having filed or caused to be filed any false, fictitious, altered, forged or counterfeit document with the Department of Motor Vehicles or the Department of the California Highway Patrol shall, if the offense is a misdemeanor, expire one year from time of discovery of such act.\n\n(b) The period for commencing criminal action against any person having filed or caused to be filed any false, fictitious, altered, forged or counterfeit document with the Department of Motor Vehicles or the Department of the California Highway Patrol shall, if the offense is a felony, expire three years from time of discovery of such act.\n\n(c) The time allowed for commencing criminal proceedings as provided in subdivisions (a) and (b) of this section shall not extend beyond five years from the date of commission of the act.\n\n*(Repealed and added by Stats. 1968, Ch. 1192.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The period for commencing criminal action against any person having filed or caused to be filed any false, fictitious, altered, forged or counterfeit document with the Department of Motor Vehicles or the Department of the California Highway Patrol shall, if the offense is a misdemeanor, expire one year from time of discovery of such act.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The period for commencing criminal action against any person having filed or caused to be filed any false, fictitious, altered, forged or counterfeit document with the Department of Motor Vehicles or the Department of the California Highway Patrol shall, if the offense is a felony, expire three years from time of discovery of such act.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The time allowed for commencing criminal proceedings as provided in subdivisions (a) and (b) of this section shall not extend beyond five years from the date of commission of the act.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed and added by Stats. 1968, Ch. 1192.)",
+    "action": "Repealed",
+    "statutes_year": 1968,
+    "chapter": "1192",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1968",
+  "op_chapter": "1192",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40004.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40004.html",
+  "content_sha256": "28646a448f5e90ba8ed59ffc3968dd7e98930215f96ec408f99d121ed1b53f6b",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

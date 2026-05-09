@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22500.2",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "(a) A local authority may, by ordinance, prohibit a person from stopping, parking, or leaving standing a vehicle, whether attended or unattended, except if necessary to avoid conflict with other traffic or in compliance with the directions of a peace officer or official traffic control device, within 15 feet of a driveway that is used by an emergency vehicle owned or operated by a police department, ambulance service care provider, or general acute care hospital, to enter or exit a police station, ambulance service provider facility, or general acute care hospital. This section does not apply to any vehicle owned or operated by a fire department, police department, ambulance service provider, or general acute care hospital, if the vehicle is clearly marked as a fire department vehicle, police department vehicle, ambulance, or general acute care hospital vehicle.\n\n(b) A local authority that enacts an ordinance pursuant to subdivision (a) shall provide appropriate curb markings or “KEEP CLEAR” pavement markings and post signs that delineate the area specified in subdivision (a).",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22500.2\n\n(a) A local authority may, by ordinance, prohibit a person from stopping, parking, or leaving standing a vehicle, whether attended or unattended, except if necessary to avoid conflict with other traffic or in compliance with the directions of a peace officer or official traffic control device, within 15 feet of a driveway that is used by an emergency vehicle owned or operated by a police department, ambulance service care provider, or general acute care hospital, to enter or exit a police station, ambulance service provider facility, or general acute care hospital. This section does not apply to any vehicle owned or operated by a fire department, police department, ambulance service provider, or general acute care hospital, if the vehicle is clearly marked as a fire department vehicle, police department vehicle, ambulance, or general acute care hospital vehicle.\n\n(b) A local authority that enacts an ordinance pursuant to subdivision (a) shall provide appropriate curb markings or “KEEP CLEAR” pavement markings and post signs that delineate the area specified in subdivision (a).\n\n*(Added by Stats. 2016, Ch. 358, Sec. 1. (AB 2491) Effective January 1, 2017.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A local authority may, by ordinance, prohibit a person from stopping, parking, or leaving standing a vehicle, whether attended or unattended, except if necessary to avoid conflict with other traffic or in compliance with the directions of a peace officer or official traffic control device, within 15 feet of a driveway that is used by an emergency vehicle owned or operated by a police department, ambulance service care provider, or general acute care hospital, to enter or exit a police station, ambulance service provider facility, or general acute care hospital. This section does not apply to any vehicle owned or operated by a fire department, police department, ambulance service provider, or general acute care hospital, if the vehicle is clearly marked as a fire department vehicle, police department vehicle, ambulance, or general acute care hospital vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A local authority that enacts an ordinance pursuant to subdivision (a) shall provide appropriate curb markings or “KEEP CLEAR” pavement markings and post signs that delineate the area specified in subdivision (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2016, Ch. 358, Sec. 1. (AB 2491) Effective January 1, 2017.)",
+    "action": "Added",
+    "statutes_year": 2016,
+    "chapter": "358",
+    "section": "1",
+    "bill_number": "AB 2491",
+    "effective_date": "2017-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2016",
+  "op_chapter": "358",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22500.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22500.2.html",
+  "content_sha256": "42b5cbb420bb239971b1561237e4017dabccf6aa194d77d5ef275a5a0b19bfe3",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

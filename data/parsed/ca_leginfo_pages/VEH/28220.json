@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28220",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "6",
+  "chapter_title": "Connected Vehicle Service",
+  "chapter_range": "28200 - 28244",
+  "article": "2",
+  "article_title": "Access to Connected Vehicle Service",
+  "article_range": "28220 - 28228",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.6.2",
+  "text": "(a) A covered provider shall provide a process that includes a prominent and clearly visible link entitled “HOW TO DISCONNECT REMOTE VEHICLE ACCESS” on its internet website to complete both of the following transactions:\n\n(1) Submit a connected vehicle service request.\n\n(2) Obtain a new connected vehicle service account.\n\n(b) A covered provider shall ensure that all communications provided pursuant to this article are clear, concise, and written in accessible language. It is imperative that drivers, particularly those who are abuse survivors, receive support and clear guidance throughout the process for submitting a connected vehicle service request or obtaining a new connected vehicle service account.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 6. Connected Vehicle Service [28200 - 28244]\n#### Article 2. Access to Connected Vehicle Service [28220 - 28228]\n##### § 28220\n\n(a) A covered provider shall provide a process that includes a prominent and clearly visible link entitled “HOW TO DISCONNECT REMOTE VEHICLE ACCESS” on its internet website to complete both of the following transactions:\n\n    (1) Submit a connected vehicle service request.\n\n    (2) Obtain a new connected vehicle service account.\n\n(b) A covered provider shall ensure that all communications provided pursuant to this article are clear, concise, and written in accessible language. It is imperative that drivers, particularly those who are abuse survivors, receive support and clear guidance throughout the process for submitting a connected vehicle service request or obtaining a new connected vehicle service account.\n\n*(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025. Operative July 1, 2025, pursuant to Sec. 28206.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A covered provider shall provide a process that includes a prominent and clearly visible link entitled “HOW TO DISCONNECT REMOTE VEHICLE ACCESS” on its internet website to complete both of the following transactions:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Submit a connected vehicle service request.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Obtain a new connected vehicle service account.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A covered provider shall ensure that all communications provided pursuant to this article are clear, concise, and written in accessible language. It is imperative that drivers, particularly those who are abuse survivors, receive support and clear guidance throughout the process for submitting a connected vehicle service request or obtaining a new connected vehicle service account.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025. Operative July 1, 2025, pursuant to Sec. 28206.)",
+    "action": "Added",
+    "statutes_year": 2024,
+    "chapter": "655",
+    "section": "2",
+    "bill_number": "SB 1394",
+    "effective_date": "2025-01-01",
+    "operative_date": "2025-07-01"
+  },
+  "op_statues": "2024",
+  "op_chapter": "655",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28220.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28220.html",
+  "content_sha256": "912f5fbf4ed85154948bf359d9d2e1b9997129ac606c7d34665aa723d23a0b55",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

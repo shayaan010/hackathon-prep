@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "31409",
+  "division": "13",
+  "division_title": "TOWING AND LOADING EQUIPMENT",
+  "division_range": "29000 - 31560",
+  "chapter": "5",
+  "chapter_title": "Transporting Other Loads",
+  "chapter_range": "31301 - 31560",
+  "article": "2",
+  "article_title": "Vehicles Transporting Workmen",
+  "article_range": "31400 - 31409",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "19.2.2",
+  "text": "Notwithstanding paragraph (2) of subdivision (c) of Section 322, any vehicle owned or operated by or for a public transit system that is purchased with funds appropriated pursuant to Item 2660-103-0046 of Section 2.00 of the Budget Act of 2000 (Chapter 52 of the Statutes of 2000) or pursuant to Section 5309 of Title 49 of the United States Code and is used to transport farmworkers for any farmworker transportation program shall comply with the farm labor vehicle provisions contained in, and the regulations promulgated under, this chapter, relating to the following:\n\n(a) (1) Annual farm labor vehicle inspection and certification.\n\n(2) Following initial certification, the inspection and certification of buses designed, used, or maintained for carrying more than 15 persons, including the driver, shall be conducted during the inspection required by subdivision (c) of Section 34501.\n\n(b) Seatbelt installation.\n\n(c) Illumination of headlamps.\n\n(d) Storage and securing of tools in passenger compartments.",
+  "markdown": "# Vehicle Code\n## Division 13. TOWING AND LOADING EQUIPMENT [29000 - 31560]\n### Chapter 5. Transporting Other Loads [31301 - 31560]\n#### Article 2. Vehicles Transporting Workmen [31400 - 31409]\n##### § 31409\n\nNotwithstanding paragraph (2) of subdivision (c) of Section 322, any vehicle owned or operated by or for a public transit system that is purchased with funds appropriated pursuant to Item 2660-103-0046 of Section 2.00 of the Budget Act of 2000 (Chapter 52 of the Statutes of 2000) or pursuant to Section 5309 of Title 49 of the United States Code and is used to transport farmworkers for any farmworker transportation program shall comply with the farm labor vehicle provisions contained in, and the regulations promulgated under, this chapter, relating to the following:\n\n(a) (1) Annual farm labor vehicle inspection and certification.\n\n    (2) Following initial certification, the inspection and certification of buses designed, used, or maintained for carrying more than 15 persons, including the driver, shall be conducted during the inspection required by subdivision (c) of Section 34501.\n\n(b) Seatbelt installation.\n\n(c) Illumination of headlamps.\n\n(d) Storage and securing of tools in passenger compartments.\n\n*(Added by Stats. 2000, Ch. 308, Sec. 6. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding paragraph (2) of subdivision (c) of Section 322, any vehicle owned or operated by or for a public transit system that is purchased with funds appropriated pursuant to Item 2660-103-0046 of Section 2.00 of the Budget Act of 2000 (Chapter 52 of the Statutes of 2000) or pursuant to Section 5309 of Title 49 of the United States Code and is used to transport farmworkers for any farmworker transportation program shall comply with the farm labor vehicle provisions contained in, and the regulations promulgated under, this chapter, relating to the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "(1) Annual farm labor vehicle inspection and certification.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "Following initial certification, the inspection and certification of buses designed, used, or maintained for carrying more than 15 persons, including the driver, shall be conducted during the inspection required by subdivision (c) of Section 34501.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Seatbelt installation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Illumination of headlamps.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Storage and securing of tools in passenger compartments.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2000, Ch. 308, Sec. 6. Effective January 1, 2001.)",
+    "action": "Added",
+    "statutes_year": 2000,
+    "chapter": "308",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "308",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=31409.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/31409.html",
+  "content_sha256": "97691c969bea353b89b25c357273c69a10dfba105bfe69fc1c9270b7d033af40",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

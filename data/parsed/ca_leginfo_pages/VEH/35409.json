@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35409",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "4",
+  "chapter_title": "Length",
+  "chapter_range": "35400 - 35414",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.4",
+  "text": "(a) Any motor vehicle used for the purpose of taking photographs, motion pictures, or television pictures or for teaching safe driving may be equipped with a dismountable platform or other device extending forward of either the fenders or cab structure or radiator, whichever extends farthest toward the front of such vehicle, for a distance not exceeding five feet while such vehicle is in use for such purpose.\n\n(b) Any device used for the sole purpose of teaching safe driving, as provided in subdivision (a), shall be of a type authorized by the Department of the California Highway Patrol and the Department of Motor Vehicles.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 4. Length [35400 - 35414]\n##### § 35409\n\n(a) Any motor vehicle used for the purpose of taking photographs, motion pictures, or television pictures or for teaching safe driving may be equipped with a dismountable platform or other device extending forward of either the fenders or cab structure or radiator, whichever extends farthest toward the front of such vehicle, for a distance not exceeding five feet while such vehicle is in use for such purpose.\n\n(b) Any device used for the sole purpose of teaching safe driving, as provided in subdivision (a), shall be of a type authorized by the Department of the California Highway Patrol and the Department of Motor Vehicles.\n\n*(Amended by Stats. 1979, Ch. 723.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any motor vehicle used for the purpose of taking photographs, motion pictures, or television pictures or for teaching safe driving may be equipped with a dismountable platform or other device extending forward of either the fenders or cab structure or radiator, whichever extends farthest toward the front of such vehicle, for a distance not exceeding five feet while such vehicle is in use for such purpose.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any device used for the sole purpose of teaching safe driving, as provided in subdivision (a), shall be of a type authorized by the Department of the California Highway Patrol and the Department of Motor Vehicles.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1979, Ch. 723.)",
+    "action": "Amended",
+    "statutes_year": 1979,
+    "chapter": "723",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1979",
+  "op_chapter": "723",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35409.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35409.html",
+  "content_sha256": "7f2ee4292e9981980954e40ca3025ab8d708f49b8a63504546255bacd488b45f",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

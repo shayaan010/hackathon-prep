@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2410.5",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "(a) The department may contract with a person or governmental entity that is conducting a special event which will impose extraordinary traffic control requirements at and near the site of the special event to provide supplemental patrol services to coordinate and direct traffic at and near the special event site. A contract entered into pursuant to this section shall include provisions for reimbursement to the department, and may include a requirement for the posting of a bond, for the cost of providing the supplemental patrol services, as determined by the commissioner.\n\n(b) The patrol services, if any, provided under this section shall be rendered by officers of the department.\n\n(c) Contract patrol services authorized under this section shall not reduce the normal and regular services of the department.\n\n(d) Any contract fees received by the department pursuant to a contract under this section shall be deposited in the Motor Vehicle Account in the State Transportation Fund.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2410.5\n\n(a) The department may contract with a person or governmental entity that is conducting a special event which will impose extraordinary traffic control requirements at and near the site of the special event to provide supplemental patrol services to coordinate and direct traffic at and near the special event site. A contract entered into pursuant to this section shall include provisions for reimbursement to the department, and may include a requirement for the posting of a bond, for the cost of providing the supplemental patrol services, as determined by the commissioner.\n\n(b) The patrol services, if any, provided under this section shall be rendered by officers of the department.\n\n(c) Contract patrol services authorized under this section shall not reduce the normal and regular services of the department.\n\n(d) Any contract fees received by the department pursuant to a contract under this section shall be deposited in the Motor Vehicle Account in the State Transportation Fund.\n\n*(Added by Stats. 1983, Ch. 54, Sec. 1. Effective May 27, 1983.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may contract with a person or governmental entity that is conducting a special event which will impose extraordinary traffic control requirements at and near the site of the special event to provide supplemental patrol services to coordinate and direct traffic at and near the special event site. A contract entered into pursuant to this section shall include provisions for reimbursement to the department, and may include a requirement for the posting of a bond, for the cost of providing the supplemental patrol services, as determined by the commissioner.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The patrol services, if any, provided under this section shall be rendered by officers of the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Contract patrol services authorized under this section shall not reduce the normal and regular services of the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Any contract fees received by the department pursuant to a contract under this section shall be deposited in the Motor Vehicle Account in the State Transportation Fund.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1983, Ch. 54, Sec. 1. Effective May 27, 1983.)",
+    "action": "Added",
+    "statutes_year": 1983,
+    "chapter": "54",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1983-05-27",
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "54",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2410.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2410.5.html",
+  "content_sha256": "c9d3ce98e01c8ef453902b43d4bbb6d1bff02e13f53a6f66b0cd4089f31a976a",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

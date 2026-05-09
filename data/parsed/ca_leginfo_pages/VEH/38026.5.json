@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38026.5",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "2",
+  "chapter_title": "Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership",
+  "chapter_range": "38010 - 38265",
+  "article": "1",
+  "article_title": "Motor Vehicles Subject to Identification",
+  "article_range": "38010 - 38030",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.2.1",
+  "text": "(a) In accordance with subdivision (c) of Section 4000, a motor vehicle issued a plate or device pursuant to Section 38160 may be operated or driven on a local highway, or a portion of the local highway, that is designated pursuant to Section 38026, 38026.1, 38026.2, or 38026.3 if the operation is in conformance with this code and the vehicle complies with off-highway vehicle equipment requirements specified in this division.\n\n(b) Notwithstanding subdivision (a), it is unlawful for a person using an off-highway vehicle on a combined-use highway to do any of the following:\n\n(1) Operate an off-highway motor vehicle on the highway during the hours of darkness.\n\n(2) Operate a vehicle on the highway that does not have an operational stoplight.\n\n(3) Operate a vehicle on the highway that does not have rubber tires.\n\n(4) Operate a vehicle without a valid driver’s license of the appropriate class for the vehicle operation in possession.\n\n(5) Operate a vehicle on the highway without complying with Article 2 (commencing with Section 16020) of Chapter 1 of Division 7.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 2. Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership [38010 - 38265]\n#### Article 1. Motor Vehicles Subject to Identification [38010 - 38030]\n##### § 38026.5\n\n(a) In accordance with subdivision (c) of Section 4000, a motor vehicle issued a plate or device pursuant to Section 38160 may be operated or driven on a local highway, or a portion of the local highway, that is designated pursuant to Section 38026, 38026.1, 38026.2, or 38026.3 if the operation is in conformance with this code and the vehicle complies with off-highway vehicle equipment requirements specified in this division.\n\n(b) Notwithstanding subdivision (a), it is unlawful for a person using an off-highway vehicle on a combined-use highway to do any of the following:\n\n    (1) Operate an off-highway motor vehicle on the highway during the hours of darkness.\n\n    (2) Operate a vehicle on the highway that does not have an operational stoplight.\n\n    (3) Operate a vehicle on the highway that does not have rubber tires.\n\n    (4) Operate a vehicle without a valid driver’s license of the appropriate class for the vehicle operation in possession.\n\n    (5) Operate a vehicle on the highway without complying with Article 2 (commencing with Section 16020) of Chapter 1 of Division 7.\n\n*(Amended by Stats. 2024, Ch. 592, Sec. 3. (SB 632) Effective January 1, 2025.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In accordance with subdivision (c) of Section 4000, a motor vehicle issued a plate or device pursuant to Section 38160 may be operated or driven on a local highway, or a portion of the local highway, that is designated pursuant to Section 38026, 38026.1, 38026.2, or 38026.3 if the operation is in conformance with this code and the vehicle complies with off-highway vehicle equipment requirements specified in this division.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding subdivision (a), it is unlawful for a person using an off-highway vehicle on a combined-use highway to do any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Operate an off-highway motor vehicle on the highway during the hours of darkness.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Operate a vehicle on the highway that does not have an operational stoplight.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Operate a vehicle on the highway that does not have rubber tires.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Operate a vehicle without a valid driver’s license of the appropriate class for the vehicle operation in possession.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "Operate a vehicle on the highway without complying with Article 2 (commencing with Section 16020) of Chapter 1 of Division 7.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2024, Ch. 592, Sec. 3. (SB 632) Effective January 1, 2025.)",
+    "action": "Amended",
+    "statutes_year": 2024,
+    "chapter": "592",
+    "section": "3",
+    "bill_number": "SB 632",
+    "effective_date": "2025-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2024",
+  "op_chapter": "592",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38026.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38026.5.html",
+  "content_sha256": "0c4809cc7aa05623b2fd1aeabc55778590838e48c41e69adb2644879bd0859ac",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35001",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "1",
+  "chapter_title": "General Provisions",
+  "chapter_range": "35000 - 35003",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.1",
+  "text": "The provisions of this division, except those requiring a permit for overweight loads, do not apply to motor trucks equipped with snow removal devices.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 1. General Provisions [35000 - 35003]\n##### § 35001\n\nThe provisions of this division, except those requiring a permit for overweight loads, do not apply to motor trucks equipped with snow removal devices.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The provisions of this division, except those requiring a permit for overweight loads, do not apply to motor trucks equipped with snow removal devices.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35001.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35001.html",
+  "content_sha256": "6c37cd86128b3b8be9eccbf5f21ed25b8c9e5564af0ae8f4cd8ffba2d976dd3c",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

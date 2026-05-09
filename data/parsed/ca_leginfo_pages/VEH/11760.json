@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11760",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "4",
+  "chapter_title": "Manufacturers, Transporters, Dealers, and Salesmen",
+  "chapter_range": "11700 - 11909",
+  "article": "1.1",
+  "article_title": "Consumer Automotive Recall Safety Act",
+  "article_range": "11750 - 11762",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.7.2",
+  "text": "(a) This article shall not create any legal duty upon the dealer, rental car company, personal vehicle sharing program, or department related to the accuracy, errors, or omissions contained in a recall database report or any legal duty to provide information added to a recall database after the dealer, rental car company, personal vehicle sharing program, or department obtained the recall database report pursuant to Sections 11754 and 11758.\n\n(b) The changes to this section made by the act amending subdivision (a) shall not apply in any manner to pending litigation.\n\n(c) This section does not affect the determination of whether or not a company is a rental car company or whether or not a company is a personal vehicle sharing program.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 4. Manufacturers, Transporters, Dealers, and Salesmen [11700 - 11909]\n#### Article 1.1. Consumer Automotive Recall Safety Act [11750 - 11762]\n##### § 11760\n\n(a) This article shall not create any legal duty upon the dealer, rental car company, personal vehicle sharing program, or department related to the accuracy, errors, or omissions contained in a recall database report or any legal duty to provide information added to a recall database after the dealer, rental car company, personal vehicle sharing program, or department obtained the recall database report pursuant to Sections 11754 and 11758.\n\n(b) The changes to this section made by the act amending subdivision (a) shall not apply in any manner to pending litigation.\n\n(c) This section does not affect the determination of whether or not a company is a rental car company or whether or not a company is a personal vehicle sharing program.\n\n*(Amended by Stats. 2018, Ch. 591, Sec. 3. (AB 2873) Effective January 1, 2019.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "This article shall not create any legal duty upon the dealer, rental car company, personal vehicle sharing program, or department related to the accuracy, errors, or omissions contained in a recall database report or any legal duty to provide information added to a recall database after the dealer, rental car company, personal vehicle sharing program, or department obtained the recall database report pursuant to Sections 11754 and 11758.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The changes to this section made by the act amending subdivision (a) shall not apply in any manner to pending litigation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section does not affect the determination of whether or not a company is a rental car company or whether or not a company is a personal vehicle sharing program.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2018, Ch. 591, Sec. 3. (AB 2873) Effective January 1, 2019.)",
+    "action": "Amended",
+    "statutes_year": 2018,
+    "chapter": "591",
+    "section": "3",
+    "bill_number": "AB 2873",
+    "effective_date": "2019-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2018",
+  "op_chapter": "591",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11760.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11760.html",
+  "content_sha256": "c6662d2b646accd7a7cc9c24d6bfc0adfeb0cfd2f1a81c3ec68ba0d7a88f6e34",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

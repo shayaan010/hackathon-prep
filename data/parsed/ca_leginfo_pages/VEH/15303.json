@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15303",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "7",
+  "chapter_title": "Commercial Motor Vehicle Safety Program",
+  "chapter_range": "15200 - 15326",
+  "article": "7",
+  "article_title": "Sanctions",
+  "article_range": "15300 - 15326",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.7.7",
+  "text": "(a) A driver shall not operate a commercial motor vehicle for the rest of their life if convicted of using a commercial motor vehicle in the commission of a felony involving an act or practice of severe forms of human trafficking, as described in Section 7102 of Title 22 of the United States Code.\n\n(b) A driver shall not operate a commercial motor vehicle for the rest of their life if convicted of Section 236.1 of the Penal Code while using a commercial motor vehicle.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 7. Commercial Motor Vehicle Safety Program [15200 - 15326]\n#### Article 7. Sanctions [15300 - 15326]\n##### § 15303\n\n(a) A driver shall not operate a commercial motor vehicle for the rest of their life if convicted of using a commercial motor vehicle in the commission of a felony involving an act or practice of severe forms of human trafficking, as described in Section 7102 of Title 22 of the United States Code.\n\n(b) A driver shall not operate a commercial motor vehicle for the rest of their life if convicted of Section 236.1 of the Penal Code while using a commercial motor vehicle.\n\n*(Added by Stats. 2024, Ch. 226, Sec. 10. (AB 3278) Effective January 1, 2025.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A driver shall not operate a commercial motor vehicle for the rest of their life if convicted of using a commercial motor vehicle in the commission of a felony involving an act or practice of severe forms of human trafficking, as described in Section 7102 of Title 22 of the United States Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A driver shall not operate a commercial motor vehicle for the rest of their life if convicted of Section 236.1 of the Penal Code while using a commercial motor vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2024, Ch. 226, Sec. 10. (AB 3278) Effective January 1, 2025.)",
+    "action": "Added",
+    "statutes_year": 2024,
+    "chapter": "226",
+    "section": "10",
+    "bill_number": "AB 3278",
+    "effective_date": "2025-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2024",
+  "op_chapter": "226",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15303.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15303.html",
+  "content_sha256": "dabe609dfd072e6800f7c74c5f4aca40ba489e92aa0702d3a99d7cc6fd457138",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

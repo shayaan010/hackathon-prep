@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40000.6",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "A violation of any of the following is a misdemeanor and not an infraction:\n\n(a) Subdivision (b) of Section 1808.1, relating to enrollment in the pull notice system.\n\n(b) Subdivision (f) of Section 1808.1, relating to employment of disqualified drivers.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40000.6\n\nA violation of any of the following is a misdemeanor and not an infraction:\n\n(a) Subdivision (b) of Section 1808.1, relating to enrollment in the pull notice system.\n\n(b) Subdivision (f) of Section 1808.1, relating to employment of disqualified drivers.\n\n*(Amended by Stats. 1991, Ch. 928, Sec. 37. Effective October 14, 1991.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A violation of any of the following is a misdemeanor and not an infraction:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Subdivision (b) of Section 1808.1, relating to enrollment in the pull notice system.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Subdivision (f) of Section 1808.1, relating to employment of disqualified drivers.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1991, Ch. 928, Sec. 37. Effective October 14, 1991.)",
+    "action": "Amended",
+    "statutes_year": 1991,
+    "chapter": "928",
+    "section": "37",
+    "bill_number": null,
+    "effective_date": "1991-10-14",
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "928",
+  "op_section": "37",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40000.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40000.6.html",
+  "content_sha256": "d7c459eb25542d22f3c67ec76259d3c81649081a5baa2b19fdc077faf948ad3e",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

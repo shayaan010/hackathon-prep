@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25252.5",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "7",
+  "article_title": "Flashing and Colored Lights",
+  "article_range": "25250 - 25282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.7",
+  "text": "(a) Every authorized emergency vehicle may be equipped with a system which flashes the upper-beam headlamps of the vehicle with the flashes occurring alternately from the front headlamp on one side of the vehicle to the front headlamp on the other side of the vehicle. The flashing of the headlamps shall consist only of upper-beam flashing, and not the flashing of any other light beam.\n\n(b) “Upper-beam headlamp,” as used in this section, means a headlamp or that part of a headlamp which projects a distribution of light, or composite beam, so aimed and of such intensity as to reveal persons and vehicles at a distance of at least 350 feet ahead for all conditions of loading.\n\n(c) The system provided for in subdivision (a) shall only be used when an authorized emergency vehicle is being operated pursuant to Section 21055.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 7. Flashing and Colored Lights [25250 - 25282]\n##### § 25252.5\n\n(a) Every authorized emergency vehicle may be equipped with a system which flashes the upper-beam headlamps of the vehicle with the flashes occurring alternately from the front headlamp on one side of the vehicle to the front headlamp on the other side of the vehicle. The flashing of the headlamps shall consist only of upper-beam flashing, and not the flashing of any other light beam.\n\n(b) “Upper-beam headlamp,” as used in this section, means a headlamp or that part of a headlamp which projects a distribution of light, or composite beam, so aimed and of such intensity as to reveal persons and vehicles at a distance of at least 350 feet ahead for all conditions of loading.\n\n(c) The system provided for in subdivision (a) shall only be used when an authorized emergency vehicle is being operated pursuant to Section 21055.\n\n*(Amended by Stats. 1983, Ch. 1017, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every authorized emergency vehicle may be equipped with a system which flashes the upper-beam headlamps of the vehicle with the flashes occurring alternately from the front headlamp on one side of the vehicle to the front headlamp on the other side of the vehicle. The flashing of the headlamps shall consist only of upper-beam flashing, and not the flashing of any other light beam.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "“Upper-beam headlamp,” as used in this section, means a headlamp or that part of a headlamp which projects a distribution of light, or composite beam, so aimed and of such intensity as to reveal persons and vehicles at a distance of at least 350 feet ahead for all conditions of loading.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The system provided for in subdivision (a) shall only be used when an authorized emergency vehicle is being operated pursuant to Section 21055.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 1017, Sec. 4.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "1017",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "1017",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25252.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25252.5.html",
+  "content_sha256": "e42667323c6f5babe77782fff70b4482af03b5c5415efe374ac6b896698f7299",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

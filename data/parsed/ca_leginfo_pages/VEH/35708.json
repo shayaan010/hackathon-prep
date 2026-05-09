@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35708",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "4",
+  "article_title": "Local Authorities",
+  "article_range": "35700 - 35722",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.5",
+  "text": "In the event any person protests in writing to the clerk of the board of supervisors within 15 days after the adoption of an ordinance reducing the permissible gross weight upon an improved highway, the reduction in weight shall not become final until the Department of Transportation after a hearing approves the action of the board of supervisors in making such reduction.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 4. Local Authorities [35700 - 35722]\n##### § 35708\n\nIn the event any person protests in writing to the clerk of the board of supervisors within 15 days after the adoption of an ordinance reducing the permissible gross weight upon an improved highway, the reduction in weight shall not become final until the Department of Transportation after a hearing approves the action of the board of supervisors in making such reduction.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In the event any person protests in writing to the clerk of the board of supervisors within 15 days after the adoption of an ordinance reducing the permissible gross weight upon an improved highway, the reduction in weight shall not become final until the Department of Transportation after a hearing approves the action of the board of supervisors in making such reduction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35708.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35708.html",
+  "content_sha256": "25043fed26fa3a830d3569012ea51ec0aac5fc1b4ff9256b4bb164a6477fd4dd",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

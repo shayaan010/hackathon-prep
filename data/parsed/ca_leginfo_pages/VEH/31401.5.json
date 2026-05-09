@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "31401.5",
+  "division": "13",
+  "division_title": "TOWING AND LOADING EQUIPMENT",
+  "division_range": "29000 - 31560",
+  "chapter": "5",
+  "chapter_title": "Transporting Other Loads",
+  "chapter_range": "31301 - 31560",
+  "article": "2",
+  "article_title": "Vehicles Transporting Workmen",
+  "article_range": "31400 - 31409",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "19.2.2",
+  "text": "(a) The department shall develop, by regulation, specifications for a display sticker that shall be clearly displayed on every farm labor vehicle. This display sticker shall list the inspection certification date pursuant to this section and the “800” telephone reporting system required by Section 2429.\n\n(b) The regulations of the department shall require every owner or operator of a farm labor vehicle to request the scheduling of the inspection required under subdivision (b) of Section 31401 as follows:\n\n(1) The owner or operator of a farm labor vehicle that has a current inspection certificate pursuant to Section 31401 shall make the request for inspection not later than four weeks prior to the expiration date of the certificate.\n\n(2) The owner or operator of a farm labor vehicle required to have its initial inspection shall make the request for inspection not later than three business days prior to the requested date.\n\n(c) In no event shall the owner or operator of a farm labor vehicle allow the operation of a farm labor vehicle without the proper certification requirements specified under Section 31401.",
+  "markdown": "# Vehicle Code\n## Division 13. TOWING AND LOADING EQUIPMENT [29000 - 31560]\n### Chapter 5. Transporting Other Loads [31301 - 31560]\n#### Article 2. Vehicles Transporting Workmen [31400 - 31409]\n##### § 31401.5\n\n(a) The department shall develop, by regulation, specifications for a display sticker that shall be clearly displayed on every farm labor vehicle. This display sticker shall list the inspection certification date pursuant to this section and the “800” telephone reporting system required by Section 2429.\n\n(b) The regulations of the department shall require every owner or operator of a farm labor vehicle to request the scheduling of the inspection required under subdivision (b) of Section 31401 as follows:\n\n    (1) The owner or operator of a farm labor vehicle that has a current inspection certificate pursuant to Section 31401 shall make the request for inspection not later than four weeks prior to the expiration date of the certificate.\n\n    (2) The owner or operator of a farm labor vehicle required to have its initial inspection shall make the request for inspection not later than three business days prior to the requested date.\n\n(c) In no event shall the owner or operator of a farm labor vehicle allow the operation of a farm labor vehicle without the proper certification requirements specified under Section 31401.\n\n*(Added by Stats. 1999, Ch. 557, Sec. 4. Effective September 29, 1999.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall develop, by regulation, specifications for a display sticker that shall be clearly displayed on every farm labor vehicle. This display sticker shall list the inspection certification date pursuant to this section and the “800” telephone reporting system required by Section 2429.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The regulations of the department shall require every owner or operator of a farm labor vehicle to request the scheduling of the inspection required under subdivision (b) of Section 31401 as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The owner or operator of a farm labor vehicle that has a current inspection certificate pursuant to Section 31401 shall make the request for inspection not later than four weeks prior to the expiration date of the certificate.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The owner or operator of a farm labor vehicle required to have its initial inspection shall make the request for inspection not later than three business days prior to the requested date.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "In no event shall the owner or operator of a farm labor vehicle allow the operation of a farm labor vehicle without the proper certification requirements specified under Section 31401.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1999, Ch. 557, Sec. 4. Effective September 29, 1999.)",
+    "action": "Added",
+    "statutes_year": 1999,
+    "chapter": "557",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "1999-09-29",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "557",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=31401.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/31401.5.html",
+  "content_sha256": "22b40d59bde5d6f8110a26c764b28f91c98832b9ca31c1ec501e916f415fd4b5",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

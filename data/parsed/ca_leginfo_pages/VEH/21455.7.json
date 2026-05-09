@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21455.7",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "3",
+  "article_title": "Offenses Relating to Traffic Devices",
+  "article_range": "21450 - 21468",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.3",
+  "text": "(a) At an intersection at which there is an automated traffic enforcement system in operation pursuant to Section 21455.5 or 21455.9, the minimum yellow light change interval shall be established in accordance with the California Manual on Uniform Traffic Control Devices.\n\n(b) For purposes of subdivision (a), the minimum yellow light change intervals relating to designated approach speeds provided in the California Manual on Uniform Traffic Control Devices are mandatory minimum yellow light intervals.\n\n(c) A yellow light change interval may exceed the minimum interval established pursuant to subdivision (a).",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 3. Offenses Relating to Traffic Devices [21450 - 21468]\n##### § 21455.7\n\n(a) At an intersection at which there is an automated traffic enforcement system in operation pursuant to Section 21455.5 or 21455.9, the minimum yellow light change interval shall be established in accordance with the California Manual on Uniform Traffic Control Devices.\n\n(b) For purposes of subdivision (a), the minimum yellow light change intervals relating to designated approach speeds provided in the California Manual on Uniform Traffic Control Devices are mandatory minimum yellow light intervals.\n\n(c) A yellow light change interval may exceed the minimum interval established pursuant to subdivision (a).\n\n*(Amended by Stats. 2025, Ch. 782, Sec. 5. (SB 720) Effective January 1, 2026.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "At an intersection at which there is an automated traffic enforcement system in operation pursuant to Section 21455.5 or 21455.9, the minimum yellow light change interval shall be established in accordance with the California Manual on Uniform Traffic Control Devices.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For purposes of subdivision (a), the minimum yellow light change intervals relating to designated approach speeds provided in the California Manual on Uniform Traffic Control Devices are mandatory minimum yellow light intervals.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A yellow light change interval may exceed the minimum interval established pursuant to subdivision (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2025, Ch. 782, Sec. 5. (SB 720) Effective January 1, 2026.)",
+    "action": "Amended",
+    "statutes_year": 2025,
+    "chapter": "782",
+    "section": "5",
+    "bill_number": "SB 720",
+    "effective_date": "2026-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2025",
+  "op_chapter": "782",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21455.7.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21455.7.html",
+  "content_sha256": "dee401b88f20d6bf11f5076558839d0c1c8c3d7007b286fba3248387e9dfbed8",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

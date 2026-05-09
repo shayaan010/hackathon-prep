@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "295.7",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “disabled veteran” is any person who, as a result of injury or disease suffered while on active service with the armed forces of the United States, suffers any of the following:\n\n(a) Has a disability which has been rated at 100 percent by the Department of Veterans Affairs or the military service from which the veteran was discharged, due to a diagnosed disease or disorder which substantially impairs or interferes with mobility.\n\n(b) Is so severely disabled as to be unable to move without the aid of an assistant device.\n\n(c) Has lost, or has lost use of, one or more limbs.\n\n(d) Has suffered permanent blindness, as defined in Section 19153 of the Welfare and Institutions Code.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 295.7\n\nA “disabled veteran” is any person who, as a result of injury or disease suffered while on active service with the armed forces of the United States, suffers any of the following:\n\n(a) Has a disability which has been rated at 100 percent by the Department of Veterans Affairs or the military service from which the veteran was discharged, due to a diagnosed disease or disorder which substantially impairs or interferes with mobility.\n\n(b) Is so severely disabled as to be unable to move without the aid of an assistant device.\n\n(c) Has lost, or has lost use of, one or more limbs.\n\n(d) Has suffered permanent blindness, as defined in Section 19153 of the Welfare and Institutions Code.\n\n*(Added by Stats. 1989, Ch. 554, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “disabled veteran” is any person who, as a result of injury or disease suffered while on active service with the armed forces of the United States, suffers any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Has a disability which has been rated at 100 percent by the Department of Veterans Affairs or the military service from which the veteran was discharged, due to a diagnosed disease or disorder which substantially impairs or interferes with mobility.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Is so severely disabled as to be unable to move without the aid of an assistant device.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Has lost, or has lost use of, one or more limbs.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Has suffered permanent blindness, as defined in Section 19153 of the Welfare and Institutions Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1989, Ch. 554, Sec. 2.)",
+    "action": "Added",
+    "statutes_year": 1989,
+    "chapter": "554",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1989",
+  "op_chapter": "554",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=295.7.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/295.7.html",
+  "content_sha256": "86049114d81ea57d3145a2683c13348874d6d410d407b64f3e15ac110e7be338",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

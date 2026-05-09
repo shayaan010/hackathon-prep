@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34019",
+  "division": "14.7",
+  "division_title": "FLAMMABLE AND COMBUSTIBLE LIQUIDS",
+  "division_range": "34000 - 34100",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "2",
+  "article_title": "Regulations",
+  "article_range": "34019 - 34024",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "24.2",
+  "text": "(a) The commissioner shall adopt reasonable regulations with respect to the following:\n\n(1) The design, construction, and structural safety of cargo tanks and fire auxiliary equipment.\n\n(2) To the extent permitted by federal law, the stability of tank vehicles.\n\n(b) For intrastate shipments in this state, the commissioner shall, as soon as feasible, incorporate any new United States Department of Transportation standards concerning interstate shipments.",
+  "markdown": "# Vehicle Code\n## Division 14.7. FLAMMABLE AND COMBUSTIBLE LIQUIDS [34000 - 34100]\n#### Article 2. Regulations [34019 - 34024]\n##### § 34019\n\n(a) The commissioner shall adopt reasonable regulations with respect to the following:\n\n    (1) The design, construction, and structural safety of cargo tanks and fire auxiliary equipment.\n\n    (2) To the extent permitted by federal law, the stability of tank vehicles.\n\n(b) For intrastate shipments in this state, the commissioner shall, as soon as feasible, incorporate any new United States Department of Transportation standards concerning interstate shipments.\n\n*(Amended by Stats. 1991, Ch. 1043, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The commissioner shall adopt reasonable regulations with respect to the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The design, construction, and structural safety of cargo tanks and fire auxiliary equipment.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "To the extent permitted by federal law, the stability of tank vehicles.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "For intrastate shipments in this state, the commissioner shall, as soon as feasible, incorporate any new United States Department of Transportation standards concerning interstate shipments.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1991, Ch. 1043, Sec. 2.)",
+    "action": "Amended",
+    "statutes_year": 1991,
+    "chapter": "1043",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "1043",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34019.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34019.html",
+  "content_sha256": "d2a96cf11c4cff9c3b65877ba1712ea77a772f3d83c34629759386e5a7f7835a",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

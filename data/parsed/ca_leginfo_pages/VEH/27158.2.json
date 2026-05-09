@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27158.2",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "2",
+  "article_title": "Exhaust Systems",
+  "article_range": "27150 - 27159",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.2",
+  "text": "(a) The driver of a nongasoline heavy-duty onroad motor vehicle with a gross vehicle weight rating of more than 14,000 pounds shall present a Heavy-Duty Vehicle Inspection and Maintenance Compliance Certificate, as described in Section 44152 of the Health and Safety Code, or other evidence of that certificate of compliance, of the vehicle under the driver’s immediate control for examination upon demand by any peace officer.\n\n(b) The driver of the vehicle described in subdivision (a) shall not present to any peace officer a Heavy-Duty Vehicle Inspection and Maintenance Compliance Certificate not issued for that vehicle.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 2. Exhaust Systems [27150 - 27159]\n##### § 27158.2\n\n(a) The driver of a nongasoline heavy-duty onroad motor vehicle with a gross vehicle weight rating of more than 14,000 pounds shall present a Heavy-Duty Vehicle Inspection and Maintenance Compliance Certificate, as described in Section 44152 of the Health and Safety Code, or other evidence of that certificate of compliance, of the vehicle under the driver’s immediate control for examination upon demand by any peace officer.\n\n(b) The driver of the vehicle described in subdivision (a) shall not present to any peace officer a Heavy-Duty Vehicle Inspection and Maintenance Compliance Certificate not issued for that vehicle.\n\n*(Added by Stats. 2019, Ch. 298, Sec. 8. (SB 210) Effective January 1, 2020.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The driver of a nongasoline heavy-duty onroad motor vehicle with a gross vehicle weight rating of more than 14,000 pounds shall present a Heavy-Duty Vehicle Inspection and Maintenance Compliance Certificate, as described in Section 44152 of the Health and Safety Code, or other evidence of that certificate of compliance, of the vehicle under the driver’s immediate control for examination upon demand by any peace officer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The driver of the vehicle described in subdivision (a) shall not present to any peace officer a Heavy-Duty Vehicle Inspection and Maintenance Compliance Certificate not issued for that vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2019, Ch. 298, Sec. 8. (SB 210) Effective January 1, 2020.)",
+    "action": "Added",
+    "statutes_year": 2019,
+    "chapter": "298",
+    "section": "8",
+    "bill_number": "SB 210",
+    "effective_date": "2020-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2019",
+  "op_chapter": "298",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27158.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27158.2.html",
+  "content_sha256": "1da7aa0dd918e8ebc2b19e46e337d6f4629545d46c62645e5c89c451a0c4fec3",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

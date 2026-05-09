@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35557",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "1",
+  "article_title": "Axle Limits",
+  "article_range": "35550 - 35559",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.1",
+  "text": "(a) Only upon request to, and approval by, and in accordance with regulations adopted by, the Director of Food and Agriculture, all of the following are available for inspection by district attorneys and are subject to legal process for admission in any criminal or civil proceeding arising out of a violation of this chapter:\n\n(1) Vehicle weight certificates issued on or after January 1, 1984, pursuant to Chapter 7 (commencing with Section 12700), Chapter 7.3 (commencing with Section 12740), and Chapter 7.7 (commencing with Section 12770) of Division 5 of the Business and Professions Code.\n\n(2) Other records of vehicle weight relating to those certificates.\n\n(3) Copies of those certificates and records.\n\n(b) All certificates, records, and copies thereof, issued before January 1, 1984, shall not be available for inspection and are not admissible in any criminal or civil proceedings arising out of a violation of this chapter.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 1. Axle Limits [35550 - 35559]\n##### § 35557\n\n(a) Only upon request to, and approval by, and in accordance with regulations adopted by, the Director of Food and Agriculture, all of the following are available for inspection by district attorneys and are subject to legal process for admission in any criminal or civil proceeding arising out of a violation of this chapter:\n\n    (1) Vehicle weight certificates issued on or after January 1, 1984, pursuant to Chapter 7 (commencing with Section 12700), Chapter 7.3 (commencing with Section 12740), and Chapter 7.7 (commencing with Section 12770) of Division 5 of the Business and Professions Code.\n\n    (2) Other records of vehicle weight relating to those certificates.\n\n    (3) Copies of those certificates and records.\n\n(b) All certificates, records, and copies thereof, issued before January 1, 1984, shall not be available for inspection and are not admissible in any criminal or civil proceedings arising out of a violation of this chapter.\n\n*(Added by Stats. 1983, Ch. 1319, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Only upon request to, and approval by, and in accordance with regulations adopted by, the Director of Food and Agriculture, all of the following are available for inspection by district attorneys and are subject to legal process for admission in any criminal or civil proceeding arising out of a violation of this chapter:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Vehicle weight certificates issued on or after January 1, 1984, pursuant to Chapter 7 (commencing with Section 12700), Chapter 7.3 (commencing with Section 12740), and Chapter 7.7 (commencing with Section 12770) of Division 5 of the Business and Professions Code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Other records of vehicle weight relating to those certificates.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Copies of those certificates and records.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "All certificates, records, and copies thereof, issued before January 1, 1984, shall not be available for inspection and are not admissible in any criminal or civil proceedings arising out of a violation of this chapter.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1983, Ch. 1319, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1983,
+    "chapter": "1319",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "1319",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35557.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35557.html",
+  "content_sha256": "4856a3a3cc889506de001f5d28b1ba9dbd8b95e6e2d2fc09e67aabfa2cc55da4",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

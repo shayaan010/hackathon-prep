@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40307",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "1",
+  "article_title": "Arrests",
+  "article_range": "40300 - 40313",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.1",
+  "text": "(a) When an arresting officer attempts to take a person arrested for a misdemeanor or infraction of this code before a magistrate and the magistrate or person authorized to act for him or her is not available, the arresting officer shall take the person arrested, without unnecessary delay, before one of the following:\n\n(1) The clerk of the magistrate, who shall admit the person to bail for the full amount set for the offense in a schedule fixed as provided in Section 1269b of the Penal Code.\n\n(2) The officer in charge of the most accessible county or city jail or other place of detention within the county, who shall admit the person to bail for the full amount set for the offense in a schedule fixed as provided in Section 1269b of the Penal Code or may, in lieu of bail, release the person on his or her written promise to appear as provided in subdivisions (a) to (f), inclusive, of Section 853.6 of the Penal Code.\n\n(b) Whenever a person is taken into custody pursuant to subdivision (a) of Section 40302 and is arrested for a misdemeanor or infraction of this code pertaining to the operation of a motor vehicle, the officer in charge of the most accessible county or city jail or other place of detention within the county may detain the person arrested for a reasonable period of time, not to exceed two hours, in order to verify his or her identity.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 1. Arrests [40300 - 40313]\n##### § 40307\n\n(a) When an arresting officer attempts to take a person arrested for a misdemeanor or infraction of this code before a magistrate and the magistrate or person authorized to act for him or her is not available, the arresting officer shall take the person arrested, without unnecessary delay, before one of the following:\n\n    (1) The clerk of the magistrate, who shall admit the person to bail for the full amount set for the offense in a schedule fixed as provided in Section 1269b of the Penal Code.\n\n    (2) The officer in charge of the most accessible county or city jail or other place of detention within the county, who shall admit the person to bail for the full amount set for the offense in a schedule fixed as provided in Section 1269b of the Penal Code or may, in lieu of bail, release the person on his or her written promise to appear as provided in subdivisions (a) to (f), inclusive, of Section 853.6 of the Penal Code.\n\n(b) Whenever a person is taken into custody pursuant to subdivision (a) of Section 40302 and is arrested for a misdemeanor or infraction of this code pertaining to the operation of a motor vehicle, the officer in charge of the most accessible county or city jail or other place of detention within the county may detain the person arrested for a reasonable period of time, not to exceed two hours, in order to verify his or her identity.\n\n*(Amended by Stats. 2007, Ch. 738, Sec. 44. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "When an arresting officer attempts to take a person arrested for a misdemeanor or infraction of this code before a magistrate and the magistrate or person authorized to act for him or her is not available, the arresting officer shall take the person arrested, without unnecessary delay, before one of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The clerk of the magistrate, who shall admit the person to bail for the full amount set for the offense in a schedule fixed as provided in Section 1269b of the Penal Code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The officer in charge of the most accessible county or city jail or other place of detention within the county, who shall admit the person to bail for the full amount set for the offense in a schedule fixed as provided in Section 1269b of the Penal Code or may, in lieu of bail, release the person on his or her written promise to appear as provided in subdivisions (a) to (f), inclusive, of Section 853.6 of the Penal Code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Whenever a person is taken into custody pursuant to subdivision (a) of Section 40302 and is arrested for a misdemeanor or infraction of this code pertaining to the operation of a motor vehicle, the officer in charge of the most accessible county or city jail or other place of detention within the county may detain the person arrested for a reasonable period of time, not to exceed two hours, in order to verify his or her identity.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2007, Ch. 738, Sec. 44. Effective January 1, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2007,
+    "chapter": "738",
+    "section": "44",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "738",
+  "op_section": "44",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40307.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40307.html",
+  "content_sha256": "8b70ed5a19f86e669e77c4d1485f4e0bceffe84f8d130c668caf7ad45343a042",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

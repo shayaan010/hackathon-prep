@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1808.47",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "Any person who has access to confidential or restricted information from the department shall establish procedures to protect the confidentiality of those records. If any confidential or restricted information is released to any agent of a person authorized to obtain information, the person shall require the agent to take all steps necessary to ensure confidentiality and prevent the release of any information to a third party. No agent shall obtain or use any confidential or restricted records for any purpose other than the reason the information was requested.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1808.47\n\nAny person who has access to confidential or restricted information from the department shall establish procedures to protect the confidentiality of those records. If any confidential or restricted information is released to any agent of a person authorized to obtain information, the person shall require the agent to take all steps necessary to ensure confidentiality and prevent the release of any information to a third party. No agent shall obtain or use any confidential or restricted records for any purpose other than the reason the information was requested.\n\n*(Amended by Stats. 1999, Ch. 880, Sec. 3. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any person who has access to confidential or restricted information from the department shall establish procedures to protect the confidentiality of those records. If any confidential or restricted information is released to any agent of a person authorized to obtain information, the person shall require the agent to take all steps necessary to ensure confidentiality and prevent the release of any information to a third party. No agent shall obtain or use any confidential or restricted records for any purpose other than the reason the information was requested.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 880, Sec. 3. Effective January 1, 2000.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "880",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "880",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1808.47.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1808.47.html",
+  "content_sha256": "2e5da747fc443224a0a69969e8b37a98226a49e21eacd03cdc3dacd2e843fb97",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21706.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "2",
+  "article_title": "Additional Driving Rules",
+  "article_range": "21700 - 21721",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.2",
+  "text": "(a) For purposes of this section, the following terms have the following meanings:\n\n(1) “Emergency incident zone” means an area on a freeway that is within 500 feet of, and in the direction of travel of, a stationary authorized emergency vehicle that has its emergency lights activated. Traffic in the opposite lanes of the freeway is not in an “emergency incident zone.”\n\n(2) “Operate a vehicle in an unsafe manner” means operating a motor vehicle in violation of an act made unlawful under this division, except a violation of Section 21809.\n\n(b) A person shall not operate a vehicle in an unsafe manner within an emergency incident zone.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 2. Additional Driving Rules [21700 - 21721]\n##### § 21706.5\n\n(a) For purposes of this section, the following terms have the following meanings:\n\n    (1) “Emergency incident zone” means an area on a freeway that is within 500 feet of, and in the direction of travel of, a stationary authorized emergency vehicle that has its emergency lights activated. Traffic in the opposite lanes of the freeway is not in an “emergency incident zone.”\n\n    (2) “Operate a vehicle in an unsafe manner” means operating a motor vehicle in violation of an act made unlawful under this division, except a violation of Section 21809.\n\n(b) A person shall not operate a vehicle in an unsafe manner within an emergency incident zone.\n\n*(Added by Stats. 2006, Ch. 375, Sec. 1. Effective January 1, 2007.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "For purposes of this section, the following terms have the following meanings:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "“Emergency incident zone” means an area on a freeway that is within 500 feet of, and in the direction of travel of, a stationary authorized emergency vehicle that has its emergency lights activated. Traffic in the opposite lanes of the freeway is not in an “emergency incident zone.”",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "“Operate a vehicle in an unsafe manner” means operating a motor vehicle in violation of an act made unlawful under this division, except a violation of Section 21809.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A person shall not operate a vehicle in an unsafe manner within an emergency incident zone.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2006, Ch. 375, Sec. 1. Effective January 1, 2007.)",
+    "action": "Added",
+    "statutes_year": 2006,
+    "chapter": "375",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2007-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2006",
+  "op_chapter": "375",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21706.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21706.5.html",
+  "content_sha256": "8f2a334184f649e5b7af7ce6d6c81796c808c6370a5efac7f24e1ef95c734e67",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

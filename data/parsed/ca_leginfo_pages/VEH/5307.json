@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5307",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "9.5",
+  "article_title": "Registration of Fleet Vehicles",
+  "article_range": "5301 - 5309",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.16",
+  "text": "(a) A fleet vehicle registered under this article may be deleted from the identified fleet when the fleet operator notifies the department of the proposed deletion on a form approved by the department and the distinguishing license plate or decal and registration card issued for the vehicle are surrendered to the department.\n\n(b) Failure to comply with subdivision (a) will require that the payment of fees due for the registration of the vehicle shall be the responsibility of the fleet owner as though the vehicle remained part of the fleet.\n\n(c) The fees determined to be due and owing under this article shall be a lien upon all vehicles of the applicant of a type subject to registration under this code, and the provisions of Article 6 (commencing with Section 9800) of Chapter 6 shall apply.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 9.5. Registration of Fleet Vehicles [5301 - 5309]\n##### § 5307\n\n(a) A fleet vehicle registered under this article may be deleted from the identified fleet when the fleet operator notifies the department of the proposed deletion on a form approved by the department and the distinguishing license plate or decal and registration card issued for the vehicle are surrendered to the department.\n\n(b) Failure to comply with subdivision (a) will require that the payment of fees due for the registration of the vehicle shall be the responsibility of the fleet owner as though the vehicle remained part of the fleet.\n\n(c) The fees determined to be due and owing under this article shall be a lien upon all vehicles of the applicant of a type subject to registration under this code, and the provisions of Article 6 (commencing with Section 9800) of Chapter 6 shall apply.\n\n*(Repealed and added by Stats. 1982, Ch. 695, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A fleet vehicle registered under this article may be deleted from the identified fleet when the fleet operator notifies the department of the proposed deletion on a form approved by the department and the distinguishing license plate or decal and registration card issued for the vehicle are surrendered to the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Failure to comply with subdivision (a) will require that the payment of fees due for the registration of the vehicle shall be the responsibility of the fleet owner as though the vehicle remained part of the fleet.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The fees determined to be due and owing under this article shall be a lien upon all vehicles of the applicant of a type subject to registration under this code, and the provisions of Article 6 (commencing with Section 9800) of Chapter 6 shall apply.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed and added by Stats. 1982, Ch. 695, Sec. 2.)",
+    "action": "Repealed",
+    "statutes_year": 1982,
+    "chapter": "695",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "695",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5307.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5307.html",
+  "content_sha256": "48901bf99c3d2185a63a02cfaca31369027f8d7db336a3dddb53c6b643051d7a",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

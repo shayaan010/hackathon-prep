@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15024",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "6",
+  "chapter_title": "Driver License Compact",
+  "chapter_range": "15000 - 15028",
+  "article": "2",
+  "article_title": "Compact Terms",
+  "article_range": "15020 - 15028",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.6.2",
+  "text": "Upon application for a license to drive, the licensing authority in a party state shall ascertain whether the applicant has ever held, or is the holder of a license to drive issued by any other party state. The licensing authority in the state where application is made shall not issue a license to drive to the applicant if:\n\n(1) The applicant has held such a license, but the license has been suspended by reason, in whole or in part, of a violation, and if such suspension period has not terminated.\n\n(2) The applicant has held such a license, but the license has been revoked by reason, in whole or in part, of a violation, and if such revocation has not terminated; except that after the expiration of one year from the date the license was revoked, such person may make application for a new license if permitted by law. The licensing authority may refuse to issue a license to any such applicant if, after investigation, the licensing authority determines that it will not be safe to grant to such person the privilege of driving a motor vehicle on the public highways.\n\n(3) The applicant is the holder of a license to drive issued by another party state and currently in force, unless the applicant surrenders such license.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 6. Driver License Compact [15000 - 15028]\n#### Article 2. Compact Terms [15020 - 15028]\n##### § 15024\n\nUpon application for a license to drive, the licensing authority in a party state shall ascertain whether the applicant has ever held, or is the holder of a license to drive issued by any other party state. The licensing authority in the state where application is made shall not issue a license to drive to the applicant if:\n\n    (1) The applicant has held such a license, but the license has been suspended by reason, in whole or in part, of a violation, and if such suspension period has not terminated.\n\n    (2) The applicant has held such a license, but the license has been revoked by reason, in whole or in part, of a violation, and if such revocation has not terminated; except that after the expiration of one year from the date the license was revoked, such person may make application for a new license if permitted by law. The licensing authority may refuse to issue a license to any such applicant if, after investigation, the licensing authority determines that it will not be safe to grant to such person the privilege of driving a motor vehicle on the public highways.\n\n    (3) The applicant is the holder of a license to drive issued by another party state and currently in force, unless the applicant surrenders such license.\n\n*(Added by Stats. 1963, Ch. 237.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Upon application for a license to drive, the licensing authority in a party state shall ascertain whether the applicant has ever held, or is the holder of a license to drive issued by any other party state. The licensing authority in the state where application is made shall not issue a license to drive to the applicant if:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The applicant has held such a license, but the license has been suspended by reason, in whole or in part, of a violation, and if such suspension period has not terminated.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The applicant has held such a license, but the license has been revoked by reason, in whole or in part, of a violation, and if such revocation has not terminated; except that after the expiration of one year from the date the license was revoked, such person may make application for a new license if permitted by law. The licensing authority may refuse to issue a license to any such applicant if, after investigation, the licensing authority determines that it will not be safe to grant to such person the privilege of driving a motor vehicle on the public highways.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The applicant is the holder of a license to drive issued by another party state and currently in force, unless the applicant surrenders such license.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1963, Ch. 237.)",
+    "action": "Added",
+    "statutes_year": 1963,
+    "chapter": "237",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1963",
+  "op_chapter": "237",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15024.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15024.html",
+  "content_sha256": "016f71b77e1ab0f70b1e73159214ebc40c6abc3fa2436e8feadacd970cb9a08b",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

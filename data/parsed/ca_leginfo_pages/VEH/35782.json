@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35782",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "6",
+  "article_title": "Permits and Agreements",
+  "article_range": "35780 - 35796",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.7",
+  "text": "(a) The Department of Transportation or a local authority may issue or withhold the permit at its discretion, or, if the permit is issued, do any of the following when necessary to protect against injury to the road, foundations, surfaces, or structures:\n\n(1) Limit the number of trips.\n\n(2) Establish seasonal or other time limitations within which the vehicle or vehicles described may be operated on the highways indicated.\n\n(3) Otherwise limit or prescribe conditions of operation of the vehicle.\n\n(b) The Department of Transportation or a local authority may not require the posting of a bond as a condition of the issuance of a permit, except that a requirement of extra insurance or other financial security may be imposed as a condition for a permit for unusually large or heavy loads that pose a substantial risk to public facilities.\n\n(c) Except as provided in subdivision (b), the Department of Transportation or a local authority may not require proof of financial responsibility in an amount greater than that required for compliance with Section 16500.5 as a condition of the permit, and shall accept evidence of financial responsibility that complies with Section 16020.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 6. Permits and Agreements [35780 - 35796]\n##### § 35782\n\n(a) The Department of Transportation or a local authority may issue or withhold the permit at its discretion, or, if the permit is issued, do any of the following when necessary to protect against injury to the road, foundations, surfaces, or structures:\n\n    (1) Limit the number of trips.\n\n    (2) Establish seasonal or other time limitations within which the vehicle or vehicles described may be operated on the highways indicated.\n\n    (3) Otherwise limit or prescribe conditions of operation of the vehicle.\n\n(b) The Department of Transportation or a local authority may not require the posting of a bond as a condition of the issuance of a permit, except that a requirement of extra insurance or other financial security may be imposed as a condition for a permit for unusually large or heavy loads that pose a substantial risk to public facilities.\n\n(c) Except as provided in subdivision (b), the Department of Transportation or a local authority may not require proof of financial responsibility in an amount greater than that required for compliance with Section 16500.5 as a condition of the permit, and shall accept evidence of financial responsibility that complies with Section 16020.\n\n*(Amended by Stats. 1996, Ch. 124, Sec. 137. Effective January 1, 1997.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Department of Transportation or a local authority may issue or withhold the permit at its discretion, or, if the permit is issued, do any of the following when necessary to protect against injury to the road, foundations, surfaces, or structures:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Limit the number of trips.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Establish seasonal or other time limitations within which the vehicle or vehicles described may be operated on the highways indicated.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Otherwise limit or prescribe conditions of operation of the vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The Department of Transportation or a local authority may not require the posting of a bond as a condition of the issuance of a permit, except that a requirement of extra insurance or other financial security may be imposed as a condition for a permit for unusually large or heavy loads that pose a substantial risk to public facilities.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Except as provided in subdivision (b), the Department of Transportation or a local authority may not require proof of financial responsibility in an amount greater than that required for compliance with Section 16500.5 as a condition of the permit, and shall accept evidence of financial responsibility that complies with Section 16020.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 124, Sec. 137. Effective January 1, 1997.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "124",
+    "section": "137",
+    "bill_number": null,
+    "effective_date": "1997-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "124",
+  "op_section": "137",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35782.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35782.html",
+  "content_sha256": "f2875a775941df151f654dda4bc02d87849675f059d09b4853b6d2241ae18f4a",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

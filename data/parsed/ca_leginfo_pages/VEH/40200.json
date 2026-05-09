@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40200",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "3",
+  "article_title": "Procedure on Parking Violations",
+  "article_range": "40200 - 40230",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.3",
+  "text": "(a) Any violation of any regulation that is not a misdemeanor governing the standing or parking of a vehicle under this code, under any federal statute or regulation, or under any ordinance enacted by local authorities is subject to a civil penalty. The enforcement of those civil penalties shall be governed by the civil administrative procedures set forth in this article.\n\n(b) Except as provided in Section 40209, the registered owner and driver, rentee, or lessee of a vehicle cited for any violation of any regulation governing the parking of a vehicle under this code, under any federal statute or regulation, or under any ordinance enacted by a local authority shall be jointly liable for parking penalties imposed under this article, unless the owner can show that the vehicle was used without consent of that person, express or implied. An owner who pays any parking penalty, civil judgment, costs, or administrative fees pursuant to this article shall have the right to recover the same from the driver, rentee, or lessee.\n\n(c) The driver of a vehicle who is not the owner thereof but who uses or operates the vehicle with the express or implied permission of the owner shall be considered the agent of the owner to receive notices of parking violations served in accordance with this article and may contest the notice of violation.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 3. Procedure on Parking Violations [40200 - 40230]\n##### § 40200\n\n(a) Any violation of any regulation that is not a misdemeanor governing the standing or parking of a vehicle under this code, under any federal statute or regulation, or under any ordinance enacted by local authorities is subject to a civil penalty. The enforcement of those civil penalties shall be governed by the civil administrative procedures set forth in this article.\n\n(b) Except as provided in Section 40209, the registered owner and driver, rentee, or lessee of a vehicle cited for any violation of any regulation governing the parking of a vehicle under this code, under any federal statute or regulation, or under any ordinance enacted by a local authority shall be jointly liable for parking penalties imposed under this article, unless the owner can show that the vehicle was used without consent of that person, express or implied. An owner who pays any parking penalty, civil judgment, costs, or administrative fees pursuant to this article shall have the right to recover the same from the driver, rentee, or lessee.\n\n(c) The driver of a vehicle who is not the owner thereof but who uses or operates the vehicle with the express or implied permission of the owner shall be considered the agent of the owner to receive notices of parking violations served in accordance with this article and may contest the notice of violation.\n\n*(Amended by Stats. 1993, Ch. 1093, Sec. 3. Effective January 1, 1994.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any violation of any regulation that is not a misdemeanor governing the standing or parking of a vehicle under this code, under any federal statute or regulation, or under any ordinance enacted by local authorities is subject to a civil penalty. The enforcement of those civil penalties shall be governed by the civil administrative procedures set forth in this article.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Except as provided in Section 40209, the registered owner and driver, rentee, or lessee of a vehicle cited for any violation of any regulation governing the parking of a vehicle under this code, under any federal statute or regulation, or under any ordinance enacted by a local authority shall be jointly liable for parking penalties imposed under this article, unless the owner can show that the vehicle was used without consent of that person, express or implied. An owner who pays any parking penalty, civil judgment, costs, or administrative fees pursuant to this article shall have the right to recover the same from the driver, rentee, or lessee.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The driver of a vehicle who is not the owner thereof but who uses or operates the vehicle with the express or implied permission of the owner shall be considered the agent of the owner to receive notices of parking violations served in accordance with this article and may contest the notice of violation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1993, Ch. 1093, Sec. 3. Effective January 1, 1994.)",
+    "action": "Amended",
+    "statutes_year": 1993,
+    "chapter": "1093",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "1994-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1993",
+  "op_chapter": "1093",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40200.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40200.html",
+  "content_sha256": "7b9958cddb60b90b4f561e0006d97b9e9a27c2d8c5fdff61f5cb43bf557f32b8",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

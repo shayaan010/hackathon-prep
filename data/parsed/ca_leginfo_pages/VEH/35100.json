@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35100",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "2",
+  "chapter_title": "Width",
+  "chapter_range": "35100 - 35111",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.2",
+  "text": "(a) The total outside width of any vehicle or its load shall not exceed 102 inches, except as otherwise provided in this chapter.\n\n(b) Notwithstanding any other provision of law, safety devices which the Secretary of Transportation determines to be necessary for the safe and efficient operation of motor vehicles shall not be included in the calculation of width as specified in subdivision (a).\n\n(c) Any city or county may, by ordinance, prohibit a combination of vehicles of a total width in excess of 96 inches upon highways under its jurisdiction. The ordinance shall not be effective until appropriate signs are erected indicating the streets affected.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 2. Width [35100 - 35111]\n##### § 35100\n\n(a) The total outside width of any vehicle or its load shall not exceed 102 inches, except as otherwise provided in this chapter.\n\n(b) Notwithstanding any other provision of law, safety devices which the Secretary of Transportation determines to be necessary for the safe and efficient operation of motor vehicles shall not be included in the calculation of width as specified in subdivision (a).\n\n(c) Any city or county may, by ordinance, prohibit a combination of vehicles of a total width in excess of 96 inches upon highways under its jurisdiction. The ordinance shall not be effective until appropriate signs are erected indicating the streets affected.\n\n*(Amended by Stats. 1988, Ch. 1452, Sec. 5. Effective September 28, 1988.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The total outside width of any vehicle or its load shall not exceed 102 inches, except as otherwise provided in this chapter.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding any other provision of law, safety devices which the Secretary of Transportation determines to be necessary for the safe and efficient operation of motor vehicles shall not be included in the calculation of width as specified in subdivision (a).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any city or county may, by ordinance, prohibit a combination of vehicles of a total width in excess of 96 inches upon highways under its jurisdiction. The ordinance shall not be effective until appropriate signs are erected indicating the streets affected.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1988, Ch. 1452, Sec. 5. Effective September 28, 1988.)",
+    "action": "Amended",
+    "statutes_year": 1988,
+    "chapter": "1452",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "1988-09-28",
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1452",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35100.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35100.html",
+  "content_sha256": "81b841b893e492e7f6fa04170af005442d9b97a4628bf40b77312d0f80f702d7",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

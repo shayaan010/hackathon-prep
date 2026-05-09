@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40300.2",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "1",
+  "article_title": "Arrests",
+  "article_range": "40300 - 40313",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.1",
+  "text": "Whenever a person is arrested for a violation of this code, or a violation of any other statute required to be reported under Section 1803, the written complaint, notice to appear in court, or other notice of violation, shall indicate whether the vehicle involved in the offense is a commercial motor vehicle, as defined in subdivision (b) of Section 15210.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 1. Arrests [40300 - 40313]\n##### § 40300.2\n\nWhenever a person is arrested for a violation of this code, or a violation of any other statute required to be reported under Section 1803, the written complaint, notice to appear in court, or other notice of violation, shall indicate whether the vehicle involved in the offense is a commercial motor vehicle, as defined in subdivision (b) of Section 15210.\n\n*(Added by Stats. 1988, Ch. 1509, Sec. 10.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever a person is arrested for a violation of this code, or a violation of any other statute required to be reported under Section 1803, the written complaint, notice to appear in court, or other notice of violation, shall indicate whether the vehicle involved in the offense is a commercial motor vehicle, as defined in subdivision (b) of Section 15210.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 1509, Sec. 10.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "1509",
+    "section": "10",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1509",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40300.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40300.2.html",
+  "content_sha256": "d8d979259fec7d2daabc0623ac996954e88b6c55836e18e44c174a7616f19a00",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

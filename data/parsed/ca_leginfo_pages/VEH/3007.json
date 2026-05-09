@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "3007",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "6",
+  "chapter_title": "New Motor Vehicle Board",
+  "chapter_range": "3000 - 3085.10",
+  "article": "1",
+  "article_title": "Organization of Board",
+  "article_range": "3000 - 3016",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.6.1",
+  "text": "The board shall meet at least twice during each calendar year.\n\nSpecial meetings may be called at any time by the president or by any five members of the board upon notice for such time and in such manner as the board may provide.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 6. New Motor Vehicle Board [3000 - 3085.10]\n#### Article 1. Organization of Board [3000 - 3016]\n##### § 3007\n\nThe board shall meet at least twice during each calendar year.\n\nSpecial meetings may be called at any time by the president or by any five members of the board upon notice for such time and in such manner as the board may provide.\n\n*(Added by Stats. 1967, Ch. 1397.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The board shall meet at least twice during each calendar year.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Special meetings may be called at any time by the president or by any five members of the board upon notice for such time and in such manner as the board may provide.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1967, Ch. 1397.)",
+    "action": "Added",
+    "statutes_year": 1967,
+    "chapter": "1397",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1967",
+  "op_chapter": "1397",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3007.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/3007.html",
+  "content_sha256": "609ab0bbbd9b48264a496f4e60d62d06dc5bfeb3d9187b632f6a06a31b026834",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

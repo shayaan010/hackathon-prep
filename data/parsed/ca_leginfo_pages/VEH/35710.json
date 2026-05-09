@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35710",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "4",
+  "article_title": "Local Authorities",
+  "article_range": "35700 - 35722",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.5",
+  "text": "Whenever any weight limit different from those specified in this code is fixed in accordance with Section 35706 or 35707, the board of supervisors shall cause signs indicating the weight so fixed to be erected at all entrances to the highway upon which the permissible gross weight is altered.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 4. Local Authorities [35700 - 35722]\n##### § 35710\n\nWhenever any weight limit different from those specified in this code is fixed in accordance with Section 35706 or 35707, the board of supervisors shall cause signs indicating the weight so fixed to be erected at all entrances to the highway upon which the permissible gross weight is altered.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever any weight limit different from those specified in this code is fixed in accordance with Section 35706 or 35707, the board of supervisors shall cause signs indicating the weight so fixed to be erected at all entrances to the highway upon which the permissible gross weight is altered.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35710.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35710.html",
+  "content_sha256": "ea7be33d770f2f5810bfefb07110d1e0634124934ebdf80e009d556d666ccce1",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

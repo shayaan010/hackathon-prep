@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40000.9",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "A violation of any of the following provisions shall constitute a misdemeanor, and not an infraction:\n\nSection 10501, relating to false report of vehicle theft.\n\nSections 10750 and 10751, relating to altered or defaced vehicle identifying numbers.\n\nSection 10851.5, relating to theft of binder chains.\n\nSections 10852 and 10853, relating to injuring or tampering with a vehicle.\n\nSection 10854, relating to unlawful use of stored vehicle.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40000.9\n\nA violation of any of the following provisions shall constitute a misdemeanor, and not an infraction:\n\nSection 10501, relating to false report of vehicle theft.\n\nSections 10750 and 10751, relating to altered or defaced vehicle identifying numbers.\n\nSection 10851.5, relating to theft of binder chains.\n\nSections 10852 and 10853, relating to injuring or tampering with a vehicle.\n\nSection 10854, relating to unlawful use of stored vehicle.\n\n*(Added by Stats. 1971, Ch. 1178.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A violation of any of the following provisions shall constitute a misdemeanor, and not an infraction:",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Section 10501, relating to false report of vehicle theft.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Sections 10750 and 10751, relating to altered or defaced vehicle identifying numbers.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Section 10851.5, relating to theft of binder chains.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Sections 10852 and 10853, relating to injuring or tampering with a vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Section 10854, relating to unlawful use of stored vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1971, Ch. 1178.)",
+    "action": "Added",
+    "statutes_year": 1971,
+    "chapter": "1178",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1971",
+  "op_chapter": "1178",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40000.9.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40000.9.html",
+  "content_sha256": "550b4f9329a8ef30dbe25e21fd22fcbd2189f6ffb94dbd6248bf6d623b479255",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

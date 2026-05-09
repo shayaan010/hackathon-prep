@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "6854",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "4",
+  "chapter_title": "Permits to Nonresident Owners",
+  "chapter_range": "6700 - 8204",
+  "article": "2",
+  "article_title": "Foreign Commercial Vehicles",
+  "article_range": "6850 - 6854",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.5.2",
+  "text": "(a) Any owner or lessor of a commercial vehicle with primary registration and plates issued in a foreign jurisdiction which does not grant reciprocal privileges to California owners of commercial vehicles shall submit to the department proof of financial responsibility issued by an insurance company authorized to do business in California. This section shall apply only to commercial vehicles having an unladen weight of over 7,000 pounds that are used in the transportation of property in the conduct of a business.\n\n(b) As an alternative to the requirements of subdivision (a), proof of financial responsibility may be met by submitting to the department either of the following:\n\n(1) A certificate of registration as a foreign motor carrier or foreign motor private carrier issued by the Interstate Commerce Commission under Part 1171 of Title 49 of the Code of Federal Regulations.\n\n(2) Contractual documents showing to the satisfaction of the department that a trailer or semitrailer subject to registration under Part 1171 of Title 49 of the Code of Federal Regulations will be towed by a truck or truck tractor operated by a motor carrier having highway carrier operating authority issued by the Public Utilities Commission.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 4. Permits to Nonresident Owners [6700 - 8204]\n#### Article 2. Foreign Commercial Vehicles [6850 - 6854]\n##### § 6854\n\n(a) Any owner or lessor of a commercial vehicle with primary registration and plates issued in a foreign jurisdiction which does not grant reciprocal privileges to California owners of commercial vehicles shall submit to the department proof of financial responsibility issued by an insurance company authorized to do business in California. This section shall apply only to commercial vehicles having an unladen weight of over 7,000 pounds that are used in the transportation of property in the conduct of a business.\n\n(b) As an alternative to the requirements of subdivision (a), proof of financial responsibility may be met by submitting to the department either of the following:\n\n    (1) A certificate of registration as a foreign motor carrier or foreign motor private carrier issued by the Interstate Commerce Commission under Part 1171 of Title 49 of the Code of Federal Regulations.\n\n    (2) Contractual documents showing to the satisfaction of the department that a trailer or semitrailer subject to registration under Part 1171 of Title 49 of the Code of Federal Regulations will be towed by a truck or truck tractor operated by a motor carrier having highway carrier operating authority issued by the Public Utilities Commission.\n\n*(Amended by Stats. 1992, Ch. 974, Sec. 3. Effective September 28, 1992.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any owner or lessor of a commercial vehicle with primary registration and plates issued in a foreign jurisdiction which does not grant reciprocal privileges to California owners of commercial vehicles shall submit to the department proof of financial responsibility issued by an insurance company authorized to do business in California. This section shall apply only to commercial vehicles having an unladen weight of over 7,000 pounds that are used in the transportation of property in the conduct of a business.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "As an alternative to the requirements of subdivision (a), proof of financial responsibility may be met by submitting to the department either of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A certificate of registration as a foreign motor carrier or foreign motor private carrier issued by the Interstate Commerce Commission under Part 1171 of Title 49 of the Code of Federal Regulations.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Contractual documents showing to the satisfaction of the department that a trailer or semitrailer subject to registration under Part 1171 of Title 49 of the Code of Federal Regulations will be towed by a truck or truck tractor operated by a motor carrier having highway carrier operating authority issued by the Public Utilities Commission.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1992, Ch. 974, Sec. 3. Effective September 28, 1992.)",
+    "action": "Amended",
+    "statutes_year": 1992,
+    "chapter": "974",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "1992-09-28",
+    "operative_date": null
+  },
+  "op_statues": "1992",
+  "op_chapter": "974",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6854.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/6854.html",
+  "content_sha256": "60ee29ec41a905341f959a70e3b9ee38600490bf5d5bb3333786e899d84af238",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

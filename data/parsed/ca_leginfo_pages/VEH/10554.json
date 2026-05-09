@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "10554",
+  "division": "4",
+  "division_title": "SPECIAL ANTITHEFT LAWS",
+  "division_range": "10500 - 10904",
+  "chapter": "1.5",
+  "chapter_title": "Reports of Stolen Vessels",
+  "chapter_range": "10550 - 10554",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "7.2",
+  "text": "The department upon receiving a report of a stolen or embezzled vessel shall place an appropriate notice in the electronic file system which will identify such vessel during the processing of new certificates of number, ownership, or number and ownership. When such vessels are thus identified, processing shall be discontinued and the agency holding the theft report and the Department of Justice shall be notified. New certificates shall not be issued until cleared by the Department of Justice. Notices shall remain in the Department of Motor Vehicles system until a Department of Justice deletion is received.\n\nA report of a stolen or embezzled vessel is effective for a period of not less than one year from the date first reported, or for such longer period as the department may determine.",
+  "markdown": "# Vehicle Code\n## Division 4. SPECIAL ANTITHEFT LAWS [10500 - 10904]\n### Chapter 1.5. Reports of Stolen Vessels [10550 - 10554]\n##### § 10554\n\nThe department upon receiving a report of a stolen or embezzled vessel shall place an appropriate notice in the electronic file system which will identify such vessel during the processing of new certificates of number, ownership, or number and ownership. When such vessels are thus identified, processing shall be discontinued and the agency holding the theft report and the Department of Justice shall be notified. New certificates shall not be issued until cleared by the Department of Justice. Notices shall remain in the Department of Motor Vehicles system until a Department of Justice deletion is received.\n\nA report of a stolen or embezzled vessel is effective for a period of not less than one year from the date first reported, or for such longer period as the department may determine.\n\n*(Amended by Stats. 1980, Ch. 617, Sec. 8.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department upon receiving a report of a stolen or embezzled vessel shall place an appropriate notice in the electronic file system which will identify such vessel during the processing of new certificates of number, ownership, or number and ownership. When such vessels are thus identified, processing shall be discontinued and the agency holding the theft report and the Department of Justice shall be notified. New certificates shall not be issued until cleared by the Department of Justice. Notices shall remain in the Department of Motor Vehicles system until a Department of Justice deletion is received.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "A report of a stolen or embezzled vessel is effective for a period of not less than one year from the date first reported, or for such longer period as the department may determine.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1980, Ch. 617, Sec. 8.)",
+    "action": "Amended",
+    "statutes_year": 1980,
+    "chapter": "617",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1980",
+  "op_chapter": "617",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=10554.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/10554.html",
+  "content_sha256": "a14eafcc311e03af0d4c60c4858f9123341492eb5841e96c3e48510e3ab12626",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

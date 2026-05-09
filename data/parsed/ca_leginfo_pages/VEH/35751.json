@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35751",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "5",
+  "article_title": "Bridges and Other Structures",
+  "article_range": "35750 - 35755",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.6",
+  "text": "(a) The Department of Transportation or the city council or board of supervisors of a city or county with a population of 1,100,000 or more, as determined by the 1970 federal decennial census, as the case may be, shall make an engineering investigation and hold a public hearing whenever such a determination appears necessary.\n\n(b) Notice of the time and place of the hearing shall be posted upon the bridge or other structure at least five days before the date fixed for the hearing. Upon the basis of the investigation and all evidence presented at the hearing, the department or the city council or board of supervisors, as the case may be, shall determine by order in writing the maximum weight of vehicle and load which the bridge or other structure with safety to itself will sustain.\n\n(c) With respect to any bridge or other structure not under its jurisdiction, the department shall not proceed under subdivisions (a) and (b) unless it first receives a request to do so from the city council or the board of supervisors having jurisdiction over the bridge or other structure.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 5. Bridges and Other Structures [35750 - 35755]\n##### § 35751\n\n(a) The Department of Transportation or the city council or board of supervisors of a city or county with a population of 1,100,000 or more, as determined by the 1970 federal decennial census, as the case may be, shall make an engineering investigation and hold a public hearing whenever such a determination appears necessary.\n\n(b) Notice of the time and place of the hearing shall be posted upon the bridge or other structure at least five days before the date fixed for the hearing. Upon the basis of the investigation and all evidence presented at the hearing, the department or the city council or board of supervisors, as the case may be, shall determine by order in writing the maximum weight of vehicle and load which the bridge or other structure with safety to itself will sustain.\n\n(c) With respect to any bridge or other structure not under its jurisdiction, the department shall not proceed under subdivisions (a) and (b) unless it first receives a request to do so from the city council or the board of supervisors having jurisdiction over the bridge or other structure.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Department of Transportation or the city council or board of supervisors of a city or county with a population of 1,100,000 or more, as determined by the 1970 federal decennial census, as the case may be, shall make an engineering investigation and hold a public hearing whenever such a determination appears necessary.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notice of the time and place of the hearing shall be posted upon the bridge or other structure at least five days before the date fixed for the hearing. Upon the basis of the investigation and all evidence presented at the hearing, the department or the city council or board of supervisors, as the case may be, shall determine by order in writing the maximum weight of vehicle and load which the bridge or other structure with safety to itself will sustain.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "With respect to any bridge or other structure not under its jurisdiction, the department shall not proceed under subdivisions (a) and (b) unless it first receives a request to do so from the city council or the board of supervisors having jurisdiction over the bridge or other structure.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35751.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35751.html",
+  "content_sha256": "5f67ad8282f38c9cdee529a1970cb4204efd505cba3133c72439dd625f007891",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

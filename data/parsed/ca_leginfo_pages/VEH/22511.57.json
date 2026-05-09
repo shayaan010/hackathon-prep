@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22511.57",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "A local authority may, by ordinance or resolution, prohibit or restrict the parking or standing of a vehicle on streets or highways or in a parking stall or space in a privately or publicly owned or operated offstreet parking facility within its jurisdiction when the vehicle displays, in order to obtain special parking privileges, a distinguishing placard or special license plate, issued pursuant to Section 5007, 22511.55, or 22511.59, and any of the following conditions are met:\n\n(a) The records of the Department of Motor Vehicles for the identification number assigned to the placard or license plate indicate that the placard or license plate has been reported as lost, stolen, surrendered, canceled, revoked, or expired, or was issued to a person who has been reported as deceased for a period exceeding 60 days.\n\n(b) The placard or license plate is displayed on a vehicle that is not being used to transport, and is not in the reasonable proximity of, the person to whom the license plate or placard was issued or a person who is authorized to be transported in the vehicle displaying that placard or license plate.\n\n(c) The placard or license plate is counterfeit, forged, altered, or mutilated.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22511.57\n\nA local authority may, by ordinance or resolution, prohibit or restrict the parking or standing of a vehicle on streets or highways or in a parking stall or space in a privately or publicly owned or operated offstreet parking facility within its jurisdiction when the vehicle displays, in order to obtain special parking privileges, a distinguishing placard or special license plate, issued pursuant to Section 5007, 22511.55, or 22511.59, and any of the following conditions are met:\n\n(a) The records of the Department of Motor Vehicles for the identification number assigned to the placard or license plate indicate that the placard or license plate has been reported as lost, stolen, surrendered, canceled, revoked, or expired, or was issued to a person who has been reported as deceased for a period exceeding 60 days.\n\n(b) The placard or license plate is displayed on a vehicle that is not being used to transport, and is not in the reasonable proximity of, the person to whom the license plate or placard was issued or a person who is authorized to be transported in the vehicle displaying that placard or license plate.\n\n(c) The placard or license plate is counterfeit, forged, altered, or mutilated.\n\n*(Amended by Stats. 2011, Ch. 341, Sec. 3. (SB 565) Effective January 1, 2012.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A local authority may, by ordinance or resolution, prohibit or restrict the parking or standing of a vehicle on streets or highways or in a parking stall or space in a privately or publicly owned or operated offstreet parking facility within its jurisdiction when the vehicle displays, in order to obtain special parking privileges, a distinguishing placard or special license plate, issued pursuant to Section 5007, 22511.55, or 22511.59, and any of the following conditions are met:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The records of the Department of Motor Vehicles for the identification number assigned to the placard or license plate indicate that the placard or license plate has been reported as lost, stolen, surrendered, canceled, revoked, or expired, or was issued to a person who has been reported as deceased for a period exceeding 60 days.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The placard or license plate is displayed on a vehicle that is not being used to transport, and is not in the reasonable proximity of, the person to whom the license plate or placard was issued or a person who is authorized to be transported in the vehicle displaying that placard or license plate.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The placard or license plate is counterfeit, forged, altered, or mutilated.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2011, Ch. 341, Sec. 3. (SB 565) Effective January 1, 2012.)",
+    "action": "Amended",
+    "statutes_year": 2011,
+    "chapter": "341",
+    "section": "3",
+    "bill_number": "SB 565",
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2011",
+  "op_chapter": "341",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22511.57.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22511.57.html",
+  "content_sha256": "2fdaf6531fa28c5080e1024a66ddd1438fbf60cdee07dc7d21a4f51c39b46e9f",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

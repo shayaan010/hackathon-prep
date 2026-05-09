@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12520",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "1",
+  "article_title": "Persons Required to Be Licensed, Exemptions, and Age Limits",
+  "article_range": "12500 - 12527",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.1",
+  "text": "(a) No person employed as a tow truck driver, as defined in Section 2430.1, shall operate a tow truck unless that person has, in his or her immediate possession, a valid California driver’s license of an appropriate class for the vehicle to be driven, and a tow truck driver certificate issued by the department or a temporary tow truck driver certificate issued by the Department of the California Highway Patrol, to permit the operation of the tow truck.\n\n(b) When notified that the applicant has been cleared through the Department of Justice or the Federal Bureau of Investigation, or both, and if the applicant meets all other applicable provisions of this code, the department shall issue a permanent tow truck driver certificate. The permanent tow truck driver certificate shall be valid for a maximum of five years and shall expire on the same date as that of the applicant’s driver’s license.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 1. Persons Required to Be Licensed, Exemptions, and Age Limits [12500 - 12527]\n##### § 12520\n\n(a) No person employed as a tow truck driver, as defined in Section 2430.1, shall operate a tow truck unless that person has, in his or her immediate possession, a valid California driver’s license of an appropriate class for the vehicle to be driven, and a tow truck driver certificate issued by the department or a temporary tow truck driver certificate issued by the Department of the California Highway Patrol, to permit the operation of the tow truck.\n\n(b) When notified that the applicant has been cleared through the Department of Justice or the Federal Bureau of Investigation, or both, and if the applicant meets all other applicable provisions of this code, the department shall issue a permanent tow truck driver certificate. The permanent tow truck driver certificate shall be valid for a maximum of five years and shall expire on the same date as that of the applicant’s driver’s license.\n\n*(Amended by Stats. 1996, Ch. 1043, Sec. 2. Effective January 1, 1997.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person employed as a tow truck driver, as defined in Section 2430.1, shall operate a tow truck unless that person has, in his or her immediate possession, a valid California driver’s license of an appropriate class for the vehicle to be driven, and a tow truck driver certificate issued by the department or a temporary tow truck driver certificate issued by the Department of the California Highway Patrol, to permit the operation of the tow truck.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When notified that the applicant has been cleared through the Department of Justice or the Federal Bureau of Investigation, or both, and if the applicant meets all other applicable provisions of this code, the department shall issue a permanent tow truck driver certificate. The permanent tow truck driver certificate shall be valid for a maximum of five years and shall expire on the same date as that of the applicant’s driver’s license.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 1043, Sec. 2. Effective January 1, 1997.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "1043",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "1997-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "1043",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12520.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12520.html",
+  "content_sha256": "eae7a453aa6d96ac02740d18f204953c7f986cc2179675e9a8dd19e6687bc43e",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

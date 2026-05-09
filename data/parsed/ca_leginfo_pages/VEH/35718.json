@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35718",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "4",
+  "article_title": "Local Authorities",
+  "article_range": "35700 - 35722",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.5",
+  "text": "No ordinance adopted pursuant to Section 35717 shall be effective until appropriate signs are erected indicating either the streets, roads or highways affected by the ordinance or the streets, roads or highways not affected, as the board of supervisors may determine will best serve to give notice of the ordinance.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 4. Local Authorities [35700 - 35722]\n##### § 35718\n\nNo ordinance adopted pursuant to Section 35717 shall be effective until appropriate signs are erected indicating either the streets, roads or highways affected by the ordinance or the streets, roads or highways not affected, as the board of supervisors may determine will best serve to give notice of the ordinance.\n\n*(Added by Stats. 1959, Ch. 1732.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No ordinance adopted pursuant to Section 35717 shall be effective until appropriate signs are erected indicating either the streets, roads or highways affected by the ordinance or the streets, roads or highways not affected, as the board of supervisors may determine will best serve to give notice of the ordinance.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1959, Ch. 1732.)",
+    "action": "Added",
+    "statutes_year": 1959,
+    "chapter": "1732",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "1732",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35718.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35718.html",
+  "content_sha256": "704268e00e0d4594e5d6997202d2629bdd0751a0dbe3e56150edb6570fd77df0",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

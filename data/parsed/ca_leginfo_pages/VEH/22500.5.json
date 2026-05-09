@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22500.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "Upon agreement between a transit system operating buses engaged as common carriers in local transportation and a public school district or private school, local authorities may, by ordinance, permit schoolbuses owned by, or operated under contract for, that public school district or private school to stop for the loading or unloading of passengers alongside any or all curb spaces designated for the loading or unloading of passengers of the transit system buses.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22500.5\n\nUpon agreement between a transit system operating buses engaged as common carriers in local transportation and a public school district or private school, local authorities may, by ordinance, permit schoolbuses owned by, or operated under contract for, that public school district or private school to stop for the loading or unloading of passengers alongside any or all curb spaces designated for the loading or unloading of passengers of the transit system buses.\n\n*(Amended by Stats. 2012, Ch. 769, Sec. 36. (AB 2679) Effective January 1, 2013.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Upon agreement between a transit system operating buses engaged as common carriers in local transportation and a public school district or private school, local authorities may, by ordinance, permit schoolbuses owned by, or operated under contract for, that public school district or private school to stop for the loading or unloading of passengers alongside any or all curb spaces designated for the loading or unloading of passengers of the transit system buses.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2012, Ch. 769, Sec. 36. (AB 2679) Effective January 1, 2013.)",
+    "action": "Amended",
+    "statutes_year": 2012,
+    "chapter": "769",
+    "section": "36",
+    "bill_number": "AB 2679",
+    "effective_date": "2013-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2012",
+  "op_chapter": "769",
+  "op_section": "36",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22500.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22500.5.html",
+  "content_sha256": "c801a9b3afdf071e0751d6ba4956c367512365d99dc36615ff048a2407b8fc57",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35753",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "5",
+  "article_title": "Bridges and Other Structures",
+  "article_range": "35750 - 35755",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.6",
+  "text": "(a) No person shall drive a vehicle over any bridge, causeway, viaduct, trestle, or dam constituting a part of a highway when the weight of the vehicle and load thereon is greater than the maximum weight which the bridge or other structure with safety to itself will sustain. Violations of this subdivision shall be punished in accordance with the schedule of fines set forth in Section 42030.\n\n(b) Upon the trial of any person charged with a violation with respect to a weight restriction sign erected pursuant to Section 35752, proof of the determination of the maximum weight by the Department of Transportation and the existence of the weight restriction signs constitute prima facie evidence of the maximum weight which the bridge or other structure with safety to itself will sustain.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 5. Bridges and Other Structures [35750 - 35755]\n##### § 35753\n\n(a) No person shall drive a vehicle over any bridge, causeway, viaduct, trestle, or dam constituting a part of a highway when the weight of the vehicle and load thereon is greater than the maximum weight which the bridge or other structure with safety to itself will sustain. Violations of this subdivision shall be punished in accordance with the schedule of fines set forth in Section 42030.\n\n(b) Upon the trial of any person charged with a violation with respect to a weight restriction sign erected pursuant to Section 35752, proof of the determination of the maximum weight by the Department of Transportation and the existence of the weight restriction signs constitute prima facie evidence of the maximum weight which the bridge or other structure with safety to itself will sustain.\n\n*(Amended by Stats. 1984, Ch. 542, Sec. 6.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall drive a vehicle over any bridge, causeway, viaduct, trestle, or dam constituting a part of a highway when the weight of the vehicle and load thereon is greater than the maximum weight which the bridge or other structure with safety to itself will sustain. Violations of this subdivision shall be punished in accordance with the schedule of fines set forth in Section 42030.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Upon the trial of any person charged with a violation with respect to a weight restriction sign erected pursuant to Section 35752, proof of the determination of the maximum weight by the Department of Transportation and the existence of the weight restriction signs constitute prima facie evidence of the maximum weight which the bridge or other structure with safety to itself will sustain.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1984, Ch. 542, Sec. 6.)",
+    "action": "Amended",
+    "statutes_year": 1984,
+    "chapter": "542",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "542",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35753.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35753.html",
+  "content_sha256": "cd7286ab500339eceff5682a7e3100214a8776e1166866e8a4bb14adbe9f7e56",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

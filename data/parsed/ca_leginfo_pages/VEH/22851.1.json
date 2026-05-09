@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22851.1",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "10",
+  "chapter_title": "Removal of Parked and Abandoned Vehicles",
+  "chapter_range": "22650 - 22856",
+  "article": "2",
+  "article_title": "Vehicle Disposition",
+  "article_range": "22850 - 22856",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.10.2",
+  "text": "(a) If the vehicle is impounded pursuant to subdivision (i) of Section 22651 and not released as provided in that subdivision, the vehicle may be sold pursuant to this chapter to satisfy the liens specified in Section 22851 and in subdivision (b) of this section.\n\n(b) A local authority impounding a vehicle pursuant to subdivision (i) of Section 22651 shall have a lien dependent upon possession by the keeper of the garage for satisfaction of bail for all outstanding notices of parking violation issued by the local authority for the vehicle, when the conditions specified in subdivision (c) have been met. This lien shall be subordinate in priority to the lien established by Section 22851, and the proceeds of any sale shall be applied accordingly. Consistent with this order of priority, the term “lien,” as used in this article and in Chapter 6.5 (commencing with Section 3067) of Title 14 of Part 4 of Division 3 of the Civil Code, includes a lien imposed by this subdivision. In any action brought to perfect the lien, where required by subdivision (d) of Section 22851.8 of this code, or by subdivision (d) of Section 3071 or subdivision (d) of Section 3072 of the Civil Code, it shall be a defense to the recovery of bail that the owner of the vehicle at the time of impoundment was not the owner of the vehicle at the time of the parking offense.\n\n(c) A lien shall exist for bail with respect to parking violations for which no person has answered the charge in the notice of parking violation given, or filed an affidavit of nonownership pursuant to and within the time specified in subdivision (b) of Section 41103.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 10. Removal of Parked and Abandoned Vehicles [22650 - 22856]\n#### Article 2. Vehicle Disposition [22850 - 22856]\n##### § 22851.1\n\n(a) If the vehicle is impounded pursuant to subdivision (i) of Section 22651 and not released as provided in that subdivision, the vehicle may be sold pursuant to this chapter to satisfy the liens specified in Section 22851 and in subdivision (b) of this section.\n\n(b) A local authority impounding a vehicle pursuant to subdivision (i) of Section 22651 shall have a lien dependent upon possession by the keeper of the garage for satisfaction of bail for all outstanding notices of parking violation issued by the local authority for the vehicle, when the conditions specified in subdivision (c) have been met. This lien shall be subordinate in priority to the lien established by Section 22851, and the proceeds of any sale shall be applied accordingly. Consistent with this order of priority, the term “lien,” as used in this article and in Chapter 6.5 (commencing with Section 3067) of Title 14 of Part 4 of Division 3 of the Civil Code, includes a lien imposed by this subdivision. In any action brought to perfect the lien, where required by subdivision (d) of Section 22851.8 of this code, or by subdivision (d) of Section 3071 or subdivision (d) of Section 3072 of the Civil Code, it shall be a defense to the recovery of bail that the owner of the vehicle at the time of impoundment was not the owner of the vehicle at the time of the parking offense.\n\n(c) A lien shall exist for bail with respect to parking violations for which no person has answered the charge in the notice of parking violation given, or filed an affidavit of nonownership pursuant to and within the time specified in subdivision (b) of Section 41103.\n\n*(Amended by Stats. 1996, Ch. 124, Sec. 129. Effective January 1, 1997.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If the vehicle is impounded pursuant to subdivision (i) of Section 22651 and not released as provided in that subdivision, the vehicle may be sold pursuant to this chapter to satisfy the liens specified in Section 22851 and in subdivision (b) of this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A local authority impounding a vehicle pursuant to subdivision (i) of Section 22651 shall have a lien dependent upon possession by the keeper of the garage for satisfaction of bail for all outstanding notices of parking violation issued by the local authority for the vehicle, when the conditions specified in subdivision (c) have been met. This lien shall be subordinate in priority to the lien established by Section 22851, and the proceeds of any sale shall be applied accordingly. Consistent with this order of priority, the term “lien,” as used in this article and in Chapter 6.5 (commencing with Section 3067) of Title 14 of Part 4 of Division 3 of the Civil Code, includes a lien imposed by this subdivision. In any action brought to perfect the lien, where required by subdivision (d) of Section 22851.8 of this code, or by subdivision (d) of Section 3071 or subdivision (d) of Section 3072 of the Civil Code, it shall be a defense to the recovery of bail that the owner of the vehicle at the time of impoundment was not the owner of the vehicle at the time of the parking offense.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A lien shall exist for bail with respect to parking violations for which no person has answered the charge in the notice of parking violation given, or filed an affidavit of nonownership pursuant to and within the time specified in subdivision (b) of Section 41103.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 124, Sec. 129. Effective January 1, 1997.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "124",
+    "section": "129",
+    "bill_number": null,
+    "effective_date": "1997-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "124",
+  "op_section": "129",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22851.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22851.1.html",
+  "content_sha256": "cfd33f2964181643b1b3ca833b298baa918f262903f8f59582bcdef3126cea51",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

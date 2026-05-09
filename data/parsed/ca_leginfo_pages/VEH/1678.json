@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1678",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "2",
+  "article_title": "Powers and Duties",
+  "article_range": "1650 - 1685.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.2",
+  "text": "(a) Between January 1, 2004, and December 31, 2004, inclusive, the fee amounts set forth in Section 488.385 of the Code of Civil Procedure, Section 10902 of the Revenue and Taxation Code, and Sections 4604, 5014, 5036, 6700.25, 9102.5, 9250.8, 9250.13, 9252, 9254, 9258, 9261, 9265, 9702, 11515, 11515.2, 14900, 14900.1, 14901, 14902, 15255.1, 15255.2, 38121, 38225.4, 38225.5, 38232, 38255, 38260, and 38265, and subdivision (b) of Section 9250, of this code, shall be the base fee amounts charged by the department.\n\n(b) On January 1, 2005, and every January 1 thereafter, the department shall adjust the fees imposed under the sections listed in subdivision (a) by increasing each fee in an amount equal to the increase in the California Consumer Price Index for the prior year, as calculated by the Department of Finance, with amounts equal to or greater than fifty cents ($0.50) rounded to the next highest whole dollar.\n\n(c) Any increases to the fees imposed under the sections listed in subdivision (a) that are enacted by legislation subsequent to January 1, 2005, shall be deemed to be changes to the base fee for purposes of the calculation performed pursuant to subdivision (b).",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 2. Powers and Duties [1650 - 1685.1]\n##### § 1678\n\n(a) Between January 1, 2004, and December 31, 2004, inclusive, the fee amounts set forth in Section 488.385 of the Code of Civil Procedure, Section 10902 of the Revenue and Taxation Code, and Sections 4604, 5014, 5036, 6700.25, 9102.5, 9250.8, 9250.13, 9252, 9254, 9258, 9261, 9265, 9702, 11515, 11515.2, 14900, 14900.1, 14901, 14902, 15255.1, 15255.2, 38121, 38225.4, 38225.5, 38232, 38255, 38260, and 38265, and subdivision (b) of Section 9250, of this code, shall be the base fee amounts charged by the department.\n\n(b) On January 1, 2005, and every January 1 thereafter, the department shall adjust the fees imposed under the sections listed in subdivision (a) by increasing each fee in an amount equal to the increase in the California Consumer Price Index for the prior year, as calculated by the Department of Finance, with amounts equal to or greater than fifty cents ($0.50) rounded to the next highest whole dollar.\n\n(c) Any increases to the fees imposed under the sections listed in subdivision (a) that are enacted by legislation subsequent to January 1, 2005, shall be deemed to be changes to the base fee for purposes of the calculation performed pursuant to subdivision (b).\n\n*(Amended by Stats. 2016, Ch. 339, Sec. 4. (SB 838) Effective September 13, 2016.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Between January 1, 2004, and December 31, 2004, inclusive, the fee amounts set forth in Section 488.385 of the Code of Civil Procedure, Section 10902 of the Revenue and Taxation Code, and Sections 4604, 5014, 5036, 6700.25, 9102.5, 9250.8, 9250.13, 9252, 9254, 9258, 9261, 9265, 9702, 11515, 11515.2, 14900, 14900.1, 14901, 14902, 15255.1, 15255.2, 38121, 38225.4, 38225.5, 38232, 38255, 38260, and 38265, and subdivision (b) of Section 9250, of this code, shall be the base fee amounts charged by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "On January 1, 2005, and every January 1 thereafter, the department shall adjust the fees imposed under the sections listed in subdivision (a) by increasing each fee in an amount equal to the increase in the California Consumer Price Index for the prior year, as calculated by the Department of Finance, with amounts equal to or greater than fifty cents ($0.50) rounded to the next highest whole dollar.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any increases to the fees imposed under the sections listed in subdivision (a) that are enacted by legislation subsequent to January 1, 2005, shall be deemed to be changes to the base fee for purposes of the calculation performed pursuant to subdivision (b).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2016, Ch. 339, Sec. 4. (SB 838) Effective September 13, 2016.)",
+    "action": "Amended",
+    "statutes_year": 2016,
+    "chapter": "339",
+    "section": "4",
+    "bill_number": "SB 838",
+    "effective_date": "2016-09-13",
+    "operative_date": null
+  },
+  "op_statues": "2016",
+  "op_chapter": "339",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1678.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1678.html",
+  "content_sha256": "6ace4a1e2e3cb577ff7ddc16a466e76859095a33a095a92359e2a0cf81b6c86c",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

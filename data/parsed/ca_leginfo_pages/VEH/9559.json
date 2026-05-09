@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9559",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "4",
+  "article_title": "Payment of Fees",
+  "article_range": "9550 - 9564",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.4",
+  "text": "In computing any registration or weight fee or penalty imposed by this code, whether on a proration or otherwise, a fraction of a dollar is disregarded, unless it equals or exceeds fifty cents ($0.50), in which case it is treated as one full dollar ($1). Computation of any penalty shall be made from the fee after the same has been computed as provided in this section.\n\nAny fee or penalty in an amount of forty-nine cents ($0.49) or less shall be deemed to be one dollar ($1).",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 4. Payment of Fees [9550 - 9564]\n##### § 9559\n\nIn computing any registration or weight fee or penalty imposed by this code, whether on a proration or otherwise, a fraction of a dollar is disregarded, unless it equals or exceeds fifty cents ($0.50), in which case it is treated as one full dollar ($1). Computation of any penalty shall be made from the fee after the same has been computed as provided in this section.\n\nAny fee or penalty in an amount of forty-nine cents ($0.49) or less shall be deemed to be one dollar ($1).\n\n*(Amended by Stats. 1992, Ch. 1241, Sec. 14. Effective January 1, 1993.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In computing any registration or weight fee or penalty imposed by this code, whether on a proration or otherwise, a fraction of a dollar is disregarded, unless it equals or exceeds fifty cents ($0.50), in which case it is treated as one full dollar ($1). Computation of any penalty shall be made from the fee after the same has been computed as provided in this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Any fee or penalty in an amount of forty-nine cents ($0.49) or less shall be deemed to be one dollar ($1).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1992, Ch. 1241, Sec. 14. Effective January 1, 1993.)",
+    "action": "Amended",
+    "statutes_year": 1992,
+    "chapter": "1241",
+    "section": "14",
+    "bill_number": null,
+    "effective_date": "1993-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1992",
+  "op_chapter": "1241",
+  "op_section": "14",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9559.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9559.html",
+  "content_sha256": "8a0967fb30fa7377b9a5f9fc2f9c50980acbf22e7c3ee5d93fd335d7e4584076",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

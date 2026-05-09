@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38310",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "5",
+  "chapter_title": "Off-Highway Vehicle Operating Rules",
+  "chapter_range": "38280 - 38321",
+  "article": "3",
+  "article_title": "Speed Laws",
+  "article_range": "38305 - 38310",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.3.3",
+  "text": "The prima facie speed limit within 50 feet of any campground, campsite, or concentration of people or animals shall be 15 miles per hour unless changed as authorized by this code and, if so changed, only when signs have been erected giving notice thereof.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 5. Off-Highway Vehicle Operating Rules [38280 - 38321]\n#### Article 3. Speed Laws [38305 - 38310]\n##### § 38310\n\nThe prima facie speed limit within 50 feet of any campground, campsite, or concentration of people or animals shall be 15 miles per hour unless changed as authorized by this code and, if so changed, only when signs have been erected giving notice thereof.\n\n*(Added by Stats. 1976, Ch. 1093.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The prima facie speed limit within 50 feet of any campground, campsite, or concentration of people or animals shall be 15 miles per hour unless changed as authorized by this code and, if so changed, only when signs have been erected giving notice thereof.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1976, Ch. 1093.)",
+    "action": "Added",
+    "statutes_year": 1976,
+    "chapter": "1093",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "1093",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38310.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38310.html",
+  "content_sha256": "e1f259054736562ea04c28c3954bd9c7a00741b3b9cea0d043e56f2f28912ab9",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

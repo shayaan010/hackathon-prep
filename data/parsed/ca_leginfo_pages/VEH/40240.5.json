@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40240.5",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "3.5",
+  "article_title": "Procedure on Video Imaging of Parking Violations Occurring in Transit-Only Lanes",
+  "article_range": "40240 - 40241",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.4",
+  "text": "(a) A public transit operator, including the Alameda-Contra Costa Transit District, that implements an automated enforcement system to enforce parking violations occurring in transit-only traffic lanes and at transit stops pursuant to this article, shall provide to the transportation, privacy, and judiciary committees of the Legislature an evaluation report of the enforcement system’s effectiveness, impact on privacy, impact on traffic outcomes, cost to implement, change in citations issued, and generation of revenue, no later than January 1, 2025. This section shall not apply to the City and County of San Francisco.\n\n(b) A report submitted pursuant to this section shall be submitted in compliance with Section 9795 of the Government Code.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 3.5. Procedure on Video Imaging of Parking Violations Occurring in Transit-Only Lanes [40240 - 40241]\n##### § 40240.5\n\n(a) A public transit operator, including the Alameda-Contra Costa Transit District, that implements an automated enforcement system to enforce parking violations occurring in transit-only traffic lanes and at transit stops pursuant to this article, shall provide to the transportation, privacy, and judiciary committees of the Legislature an evaluation report of the enforcement system’s effectiveness, impact on privacy, impact on traffic outcomes, cost to implement, change in citations issued, and generation of revenue, no later than January 1, 2025. This section shall not apply to the City and County of San Francisco.\n\n(b) A report submitted pursuant to this section shall be submitted in compliance with Section 9795 of the Government Code.\n\n*(Repealed and added by Stats. 2021, Ch. 709, Sec. 4. (AB 917) Effective January 1, 2022.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A public transit operator, including the Alameda-Contra Costa Transit District, that implements an automated enforcement system to enforce parking violations occurring in transit-only traffic lanes and at transit stops pursuant to this article, shall provide to the transportation, privacy, and judiciary committees of the Legislature an evaluation report of the enforcement system’s effectiveness, impact on privacy, impact on traffic outcomes, cost to implement, change in citations issued, and generation of revenue, no later than January 1, 2025. This section shall not apply to the City and County of San Francisco.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A report submitted pursuant to this section shall be submitted in compliance with Section 9795 of the Government Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed and added by Stats. 2021, Ch. 709, Sec. 4. (AB 917) Effective January 1, 2022.)",
+    "action": "Repealed",
+    "statutes_year": 2021,
+    "chapter": "709",
+    "section": "4",
+    "bill_number": "AB 917",
+    "effective_date": "2022-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "709",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40240.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40240.5.html",
+  "content_sha256": "82163ca327f1d06fef078515f1e015634adb49dc6ad114524908ef307be04882",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

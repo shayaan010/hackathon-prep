@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34501.7",
+  "division": "14.8",
+  "division_title": "SAFETY REGULATIONS",
+  "division_range": "34500 - 34520.5",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "25",
+  "text": "(a) Any rules or regulations adopted pursuant to Section 34501 for the construction, testing, or certification of wheelchair lifts for installation and use on buses shall take into consideration the costs of implementing the regulations and shall be reviewed and brought up to date by the department annually.\n\n(b) This section shall become operative on July 1, 1987.",
+  "markdown": "# Vehicle Code\n## Division 14.8. SAFETY REGULATIONS [34500 - 34520.5]\n##### § 34501.7\n\n(a) Any rules or regulations adopted pursuant to Section 34501 for the construction, testing, or certification of wheelchair lifts for installation and use on buses shall take into consideration the costs of implementing the regulations and shall be reviewed and brought up to date by the department annually.\n\n(b) This section shall become operative on July 1, 1987.\n\n*(Added by Stats. 1986, Ch. 969, Sec. 4. Section operative July 1, 1987, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any rules or regulations adopted pursuant to Section 34501 for the construction, testing, or certification of wheelchair lifts for installation and use on buses shall take into consideration the costs of implementing the regulations and shall be reviewed and brought up to date by the department annually.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section shall become operative on July 1, 1987.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1986, Ch. 969, Sec. 4. Section operative July 1, 1987, by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 1986,
+    "chapter": "969",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1986",
+  "op_chapter": "969",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34501.7.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34501.7.html",
+  "content_sha256": "48e6b276f11f0185f8c79402d9a3893a0fae01006d1e910e5a2f32913af019b6",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13366.5",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "2",
+  "chapter_title": "Suspension or Revocation of Licenses",
+  "chapter_range": "13100 - 13559",
+  "article": "3",
+  "article_title": "Suspension and Revocation by Department",
+  "article_range": "13350 - 13392",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.2.3",
+  "text": "(a) Notwithstanding Section 13366, whenever in this code the department is required to disqualify the commercial driving privilege of a person to operate a commercial motor vehicle upon the conviction of that person of a violation of this code, the suspension or revocation shall begin upon receipt by the department of a duly certified abstract of any court record showing that the person has been so convicted.\n\n(b) This section shall become operative on September 20, 2005.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 2. Suspension or Revocation of Licenses [13100 - 13559]\n#### Article 3. Suspension and Revocation by Department [13350 - 13392]\n##### § 13366.5\n\n(a) Notwithstanding Section 13366, whenever in this code the department is required to disqualify the commercial driving privilege of a person to operate a commercial motor vehicle upon the conviction of that person of a violation of this code, the suspension or revocation shall begin upon receipt by the department of a duly certified abstract of any court record showing that the person has been so convicted.\n\n(b) This section shall become operative on September 20, 2005.\n\n*(Added by Stats. 2004, Ch. 952, Sec. 11. Effective January 1, 2005. Section operative September 20, 2005, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Notwithstanding Section 13366, whenever in this code the department is required to disqualify the commercial driving privilege of a person to operate a commercial motor vehicle upon the conviction of that person of a violation of this code, the suspension or revocation shall begin upon receipt by the department of a duly certified abstract of any court record showing that the person has been so convicted.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section shall become operative on September 20, 2005.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2004, Ch. 952, Sec. 11. Effective January 1, 2005. Section operative September 20, 2005, by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 2004,
+    "chapter": "952",
+    "section": "11",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "952",
+  "op_section": "11",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13366.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13366.5.html",
+  "content_sha256": "05f0d3b6fcf0a8f91aa712bcc4353886266301e6b43dc5cbfeb3c4d3e3506402",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

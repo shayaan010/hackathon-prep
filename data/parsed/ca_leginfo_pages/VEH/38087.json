@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38087",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "2",
+  "chapter_title": "Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership",
+  "chapter_range": "38010 - 38265",
+  "article": "3",
+  "article_title": "Evidences of Identification",
+  "article_range": "38070 - 38100",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.2.3",
+  "text": "(a) Upon payment of the fees specified in Section 38231, the department may issue to manufacturers, dealers, distributors, or their agents, a special permit to operate or use for the purpose of delivery, demonstration, or display, off-highway motor vehicles otherwise required to be identified under this division.\n\n(b) Special permits issued pursuant to this section shall expire at midnight on the 30th day of June in the second calendar year following the year of issuance of such permit.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 2. Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership [38010 - 38265]\n#### Article 3. Evidences of Identification [38070 - 38100]\n##### § 38087\n\n(a) Upon payment of the fees specified in Section 38231, the department may issue to manufacturers, dealers, distributors, or their agents, a special permit to operate or use for the purpose of delivery, demonstration, or display, off-highway motor vehicles otherwise required to be identified under this division.\n\n(b) Special permits issued pursuant to this section shall expire at midnight on the 30th day of June in the second calendar year following the year of issuance of such permit.\n\n*(Amended by Stats. 1976, Ch. 1093.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Upon payment of the fees specified in Section 38231, the department may issue to manufacturers, dealers, distributors, or their agents, a special permit to operate or use for the purpose of delivery, demonstration, or display, off-highway motor vehicles otherwise required to be identified under this division.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Special permits issued pursuant to this section shall expire at midnight on the 30th day of June in the second calendar year following the year of issuance of such permit.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1976, Ch. 1093.)",
+    "action": "Amended",
+    "statutes_year": 1976,
+    "chapter": "1093",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "1093",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38087.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38087.html",
+  "content_sha256": "9d500fffe650c8aa90fdb4456c060d4e41a0e848ce2c110564d83517cff4a311",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

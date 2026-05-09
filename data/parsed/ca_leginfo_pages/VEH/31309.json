@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "31309",
+  "division": "13",
+  "division_title": "TOWING AND LOADING EQUIPMENT",
+  "division_range": "29000 - 31560",
+  "chapter": "5",
+  "chapter_title": "Transporting Other Loads",
+  "chapter_range": "31301 - 31560",
+  "article": "1",
+  "article_title": "Hazardous Materials",
+  "article_range": "31301 - 31309",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "19.2.1",
+  "text": "Notwithstanding Section 34500 and subdivision (a) of Section 34501, the transportation of hazardous materials in a manner requiring that placards be displayed on the transporting vehicle pursuant to Section 27903, shall comply with regulations adopted by the California Highway Patrol pursuant to subdivision (b) of Section 34501.",
+  "markdown": "# Vehicle Code\n## Division 13. TOWING AND LOADING EQUIPMENT [29000 - 31560]\n### Chapter 5. Transporting Other Loads [31301 - 31560]\n#### Article 1. Hazardous Materials [31301 - 31309]\n##### § 31309\n\nNotwithstanding Section 34500 and subdivision (a) of Section 34501, the transportation of hazardous materials in a manner requiring that placards be displayed on the transporting vehicle pursuant to Section 27903, shall comply with regulations adopted by the California Highway Patrol pursuant to subdivision (b) of Section 34501.\n\n*(Added by Stats. 1990, Ch. 429, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding Section 34500 and subdivision (a) of Section 34501, the transportation of hazardous materials in a manner requiring that placards be displayed on the transporting vehicle pursuant to Section 27903, shall comply with regulations adopted by the California Highway Patrol pursuant to subdivision (b) of Section 34501.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1990, Ch. 429, Sec. 3.)",
+    "action": "Added",
+    "statutes_year": 1990,
+    "chapter": "429",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1990",
+  "op_chapter": "429",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=31309.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/31309.html",
+  "content_sha256": "6eb7413b2f57eaac2e53e3ae24ea2aea0e654e3a55d06a404e4e73f7e49ce8fb",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

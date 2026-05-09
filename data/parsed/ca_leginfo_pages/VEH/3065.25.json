@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "3065.25",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "6",
+  "chapter_title": "New Motor Vehicle Board",
+  "chapter_range": "3000 - 3085.10",
+  "article": "4",
+  "article_title": "Hearings on Franchise Modification, Replacement, Termination, Refusal to Continue, Delivery and Preparation Obligations, and Warranty Reimbursement",
+  "article_range": "3060 - 3069.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.6.3",
+  "text": "As used in Sections 3065, 3065.2, and 3065.4, the following terms shall have the following meanings:\n\n(a) “Parts” includes, but is not limited to, engine, transmission, and other part assemblies.\n\n(b) “Warranty” includes a new vehicle warranty, a certified preowned warranty, a repair pursuant to a technical service bulletin on a vehicle covered under the period of warranty, a repair pursuant to a customer service campaign on a vehicle covered under the period of warranty, and a recall conducted pursuant to Sections 30118 to 30120, inclusive, of Title 49 of the United States Code.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 6. New Motor Vehicle Board [3000 - 3085.10]\n#### Article 4. Hearings on Franchise Modification, Replacement, Termination, Refusal to Continue, Delivery and Preparation Obligations, and Warranty Reimbursement [3060 - 3069.1]\n##### § 3065.25\n\nAs used in Sections 3065, 3065.2, and 3065.4, the following terms shall have the following meanings:\n\n(a) “Parts” includes, but is not limited to, engine, transmission, and other part assemblies.\n\n(b) “Warranty” includes a new vehicle warranty, a certified preowned warranty, a repair pursuant to a technical service bulletin on a vehicle covered under the period of warranty, a repair pursuant to a customer service campaign on a vehicle covered under the period of warranty, and a recall conducted pursuant to Sections 30118 to 30120, inclusive, of Title 49 of the United States Code.\n\n*(Added by Stats. 2019, Ch. 796, Sec. 13. (AB 179) Effective January 1, 2020.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "As used in Sections 3065, 3065.2, and 3065.4, the following terms shall have the following meanings:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "“Parts” includes, but is not limited to, engine, transmission, and other part assemblies.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "“Warranty” includes a new vehicle warranty, a certified preowned warranty, a repair pursuant to a technical service bulletin on a vehicle covered under the period of warranty, a repair pursuant to a customer service campaign on a vehicle covered under the period of warranty, and a recall conducted pursuant to Sections 30118 to 30120, inclusive, of Title 49 of the United States Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2019, Ch. 796, Sec. 13. (AB 179) Effective January 1, 2020.)",
+    "action": "Added",
+    "statutes_year": 2019,
+    "chapter": "796",
+    "section": "13",
+    "bill_number": "AB 179",
+    "effective_date": "2020-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2019",
+  "op_chapter": "796",
+  "op_section": "13",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3065.25.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/3065.25.html",
+  "content_sha256": "981457a2cdd730b230cf9da482e096cb8885ad0ff9e6db28866abc1086f9bce4",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

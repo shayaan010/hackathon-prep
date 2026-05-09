@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5061",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8.4",
+  "article_title": "Special Interest License Plates",
+  "article_range": "5060 - 5075",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.12",
+  "text": "(a) Notwithstanding any other provision of law, if the department permits the issuance of a special interest license plate for display on a motorcycle, the department shall not approve any design for that plate that incorporates either or both of the following:\n\n(1) Full or partial graphic designs appearing behind the license plate number configuration.\n\n(2) Symbols within the license plate number configuration.\n\n(b) Any special interest license plate issued for display on a motorcycle is subject to the same fees that are collected for the issuance and retention of special interest license plates on other vehicles.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8.4. Special Interest License Plates [5060 - 5075]\n##### § 5061\n\n(a) Notwithstanding any other provision of law, if the department permits the issuance of a special interest license plate for display on a motorcycle, the department shall not approve any design for that plate that incorporates either or both of the following:\n\n    (1) Full or partial graphic designs appearing behind the license plate number configuration.\n\n    (2) Symbols within the license plate number configuration.\n\n(b) Any special interest license plate issued for display on a motorcycle is subject to the same fees that are collected for the issuance and retention of special interest license plates on other vehicles.\n\n*(Added by Stats. 2000, Ch. 859, Sec. 2. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Notwithstanding any other provision of law, if the department permits the issuance of a special interest license plate for display on a motorcycle, the department shall not approve any design for that plate that incorporates either or both of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Full or partial graphic designs appearing behind the license plate number configuration.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Symbols within the license plate number configuration.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Any special interest license plate issued for display on a motorcycle is subject to the same fees that are collected for the issuance and retention of special interest license plates on other vehicles.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2000, Ch. 859, Sec. 2. Effective January 1, 2001.)",
+    "action": "Added",
+    "statutes_year": 2000,
+    "chapter": "859",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "859",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5061.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5061.html",
+  "content_sha256": "7bb7b63907e6bbf2604f1a50b58c2c4afea871468120d76b81d48c40a134658f",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

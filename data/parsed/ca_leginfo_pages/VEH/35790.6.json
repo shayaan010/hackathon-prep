@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35790.6",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "6",
+  "article_title": "Permits and Agreements",
+  "article_range": "35780 - 35796",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.7",
+  "text": "A permit issued pursuant to Section 35780 or 35790 may authorize an exemption from the height limitations in Section 35250 for manufactured homes, including manufactured homes with a height in excess of 15 feet, measured from the surface upon which the vehicle stands, if the proposed route can accommodate the vehicle.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 6. Permits and Agreements [35780 - 35796]\n##### § 35790.6\n\nA permit issued pursuant to Section 35780 or 35790 may authorize an exemption from the height limitations in Section 35250 for manufactured homes, including manufactured homes with a height in excess of 15 feet, measured from the surface upon which the vehicle stands, if the proposed route can accommodate the vehicle.\n\n*(Added by Stats. 1986, Ch. 350, Sec. 2. Effective July 15, 1986.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A permit issued pursuant to Section 35780 or 35790 may authorize an exemption from the height limitations in Section 35250 for manufactured homes, including manufactured homes with a height in excess of 15 feet, measured from the surface upon which the vehicle stands, if the proposed route can accommodate the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1986, Ch. 350, Sec. 2. Effective July 15, 1986.)",
+    "action": "Added",
+    "statutes_year": 1986,
+    "chapter": "350",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "1986-07-15",
+    "operative_date": null
+  },
+  "op_statues": "1986",
+  "op_chapter": "350",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35790.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35790.6.html",
+  "content_sha256": "034679412dfa739b103356718dfdbbd81f7061fac23b256fe0121d6939da87bf",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

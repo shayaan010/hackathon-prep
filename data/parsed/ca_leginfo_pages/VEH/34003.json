@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34003",
+  "division": "14.7",
+  "division_title": "FLAMMABLE AND COMBUSTIBLE LIQUIDS",
+  "division_range": "34000 - 34100",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "1",
+  "article_title": "Administration",
+  "article_range": "34000 - 34006",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "24.1",
+  "text": "For purposes of this division:\n\n(a) “Cargo tank” has the same meaning as defined in Section 171.8 of Title 49 of the Code of Federal Regulations.\n\n(b) “Cargo tank vehicle” means a truck, trailer, or semitrailer with one or more permanently attached cargo tanks to or forming an integral part of the vehicle.\n\n(c) “Flammable liquids” and “combustible liquids” have the same meanings as defined in Section 173.120 of Title 49 of the Code of Federal Regulations.",
+  "markdown": "# Vehicle Code\n## Division 14.7. FLAMMABLE AND COMBUSTIBLE LIQUIDS [34000 - 34100]\n#### Article 1. Administration [34000 - 34006]\n##### § 34003\n\nFor purposes of this division:\n\n(a) “Cargo tank” has the same meaning as defined in Section 171.8 of Title 49 of the Code of Federal Regulations.\n\n(b) “Cargo tank vehicle” means a truck, trailer, or semitrailer with one or more permanently attached cargo tanks to or forming an integral part of the vehicle.\n\n(c) “Flammable liquids” and “combustible liquids” have the same meanings as defined in Section 173.120 of Title 49 of the Code of Federal Regulations.\n\n*(Repealed and added by Stats. 2023, Ch. 219, Sec. 8. (SB 891) Effective January 1, 2024.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "For purposes of this division:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "“Cargo tank” has the same meaning as defined in Section 171.8 of Title 49 of the Code of Federal Regulations.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "“Cargo tank vehicle” means a truck, trailer, or semitrailer with one or more permanently attached cargo tanks to or forming an integral part of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "“Flammable liquids” and “combustible liquids” have the same meanings as defined in Section 173.120 of Title 49 of the Code of Federal Regulations.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed and added by Stats. 2023, Ch. 219, Sec. 8. (SB 891) Effective January 1, 2024.)",
+    "action": "Repealed",
+    "statutes_year": 2023,
+    "chapter": "219",
+    "section": "8",
+    "bill_number": "SB 891",
+    "effective_date": "2024-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2023",
+  "op_chapter": "219",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34003.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34003.html",
+  "content_sha256": "e96ec0d31c2a4cb77c3c5e0d9900e1500ca39e9bf475195e424eb51e9a442b75",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

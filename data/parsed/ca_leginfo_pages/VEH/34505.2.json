@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34505.2",
+  "division": "14.8",
+  "division_title": "SAFETY REGULATIONS",
+  "division_range": "34500 - 34520.5",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "25",
+  "text": "(a) In furtherance of the requirements specified in subdivision (c) of Section 34501, upon the request of, and in consultation with, representatives of a local government in a jurisdiction where tour buses operate, the Department of the California Highway Patrol shall develop protocols for entering into memoranda of understanding with local governments to allow the department to increase the number of the locally operating tour buses that are being inspected by the department.\n\n(b) A memorandum of understanding entered into with a local government pursuant to subdivision (a) shall include a provision that the local government will reimburse the department for all actual costs associated with conducting additional inspections.\n\n(c) Any inspection conducted pursuant to subdivision (a) shall not be duplicative of an inspection conducted by the department to meet the requirements specified in subdivision (c) of Section 34501.",
+  "markdown": "# Vehicle Code\n## Division 14.8. SAFETY REGULATIONS [34500 - 34520.5]\n##### § 34505.2\n\n(a) In furtherance of the requirements specified in subdivision (c) of Section 34501, upon the request of, and in consultation with, representatives of a local government in a jurisdiction where tour buses operate, the Department of the California Highway Patrol shall develop protocols for entering into memoranda of understanding with local governments to allow the department to increase the number of the locally operating tour buses that are being inspected by the department.\n\n(b) A memorandum of understanding entered into with a local government pursuant to subdivision (a) shall include a provision that the local government will reimburse the department for all actual costs associated with conducting additional inspections.\n\n(c) Any inspection conducted pursuant to subdivision (a) shall not be duplicative of an inspection conducted by the department to meet the requirements specified in subdivision (c) of Section 34501.\n\n*(Added by Stats. 2016, Ch. 685, Sec. 1. (AB 1677) Effective January 1, 2017.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In furtherance of the requirements specified in subdivision (c) of Section 34501, upon the request of, and in consultation with, representatives of a local government in a jurisdiction where tour buses operate, the Department of the California Highway Patrol shall develop protocols for entering into memoranda of understanding with local governments to allow the department to increase the number of the locally operating tour buses that are being inspected by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A memorandum of understanding entered into with a local government pursuant to subdivision (a) shall include a provision that the local government will reimburse the department for all actual costs associated with conducting additional inspections.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any inspection conducted pursuant to subdivision (a) shall not be duplicative of an inspection conducted by the department to meet the requirements specified in subdivision (c) of Section 34501.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2016, Ch. 685, Sec. 1. (AB 1677) Effective January 1, 2017.)",
+    "action": "Added",
+    "statutes_year": 2016,
+    "chapter": "685",
+    "section": "1",
+    "bill_number": "AB 1677",
+    "effective_date": "2017-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2016",
+  "op_chapter": "685",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34505.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34505.2.html",
+  "content_sha256": "012df14d6377ad928d636efbea68acc5ef142c7f7796ed828e31d2bbf8d44414",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

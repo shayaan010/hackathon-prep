@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40801",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "3",
+  "chapter_title": "Illegal Evidence",
+  "chapter_range": "40800 - 40834",
+  "article": "1",
+  "article_title": "Prosecutions Under Code",
+  "article_range": "40800 - 40808",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.3.1",
+  "text": "No peace officer or other person shall use a speed trap in arresting, or participating or assisting in the arrest of, any person for any alleged violation of this code nor shall any speed trap be used in securing evidence as to the speed of any vehicle for the purpose of an arrest or prosecution under this code.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 3. Illegal Evidence [40800 - 40834]\n#### Article 1. Prosecutions Under Code [40800 - 40808]\n##### § 40801\n\nNo peace officer or other person shall use a speed trap in arresting, or participating or assisting in the arrest of, any person for any alleged violation of this code nor shall any speed trap be used in securing evidence as to the speed of any vehicle for the purpose of an arrest or prosecution under this code.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No peace officer or other person shall use a speed trap in arresting, or participating or assisting in the arrest of, any person for any alleged violation of this code nor shall any speed trap be used in securing evidence as to the speed of any vehicle for the purpose of an arrest or prosecution under this code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40801.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40801.html",
+  "content_sha256": "71ede57995a69d4d0322a255f0f4e784a748aa78fe94b9566e7dd075210a2ca9",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

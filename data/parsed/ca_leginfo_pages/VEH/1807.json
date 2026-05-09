@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1807",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "(a) The department is not required to maintain records relating to drivers of motor vehicles after the records are, in the opinion of the director, no longer necessary, except as follows:\n\n(1) Records of convictions shall be maintained so long as they may form the basis of license suspensions or revocations as prior convictions or with other records of conviction constitute a person a “negligent driver.”\n\n(2) Records of convictions of violating Section 38301.3 shall be maintained for seven years.\n\n(b) Records that are not required to be maintained may be destroyed with the approval of the Department of General Services.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1807\n\n(a) The department is not required to maintain records relating to drivers of motor vehicles after the records are, in the opinion of the director, no longer necessary, except as follows:\n\n    (1) Records of convictions shall be maintained so long as they may form the basis of license suspensions or revocations as prior convictions or with other records of conviction constitute a person a “negligent driver.”\n\n    (2) Records of convictions of violating Section 38301.3 shall be maintained for seven years.\n\n(b) Records that are not required to be maintained may be destroyed with the approval of the Department of General Services.\n\n*(Amended by Stats. 2005, Ch. 571, Sec. 2. Effective January 1, 2006.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department is not required to maintain records relating to drivers of motor vehicles after the records are, in the opinion of the director, no longer necessary, except as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Records of convictions shall be maintained so long as they may form the basis of license suspensions or revocations as prior convictions or with other records of conviction constitute a person a “negligent driver.”",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Records of convictions of violating Section 38301.3 shall be maintained for seven years.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Records that are not required to be maintained may be destroyed with the approval of the Department of General Services.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2005, Ch. 571, Sec. 2. Effective January 1, 2006.)",
+    "action": "Amended",
+    "statutes_year": 2005,
+    "chapter": "571",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2006-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2005",
+  "op_chapter": "571",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1807.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1807.html",
+  "content_sha256": "5c5276c37e7d712df3f421aee5b070150c9f2cf244b86045f1ba920f5019016c",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

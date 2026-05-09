@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26708.5",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "4",
+  "chapter_title": "Windshields and Mirrors",
+  "chapter_range": "26700 - 26712",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.4",
+  "text": "(a) No person shall place, install, affix, or apply any transparent material upon the windshield, or side or rear windows, of any motor vehicle if the material alters the color or reduces the light transmittance of the windshield or side or rear windows, except as provided in subdivision (b), (c), or (d) of Section 26708.\n\n(b) Tinted safety glass may be installed in a vehicle if (1) the glass complies with motor vehicle safety standards of the United States Department of Transportation for safety glazing materials, and (2) the glass is installed in a location permitted by those standards for the particular type of glass used.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 4. Windshields and Mirrors [26700 - 26712]\n##### § 26708.5\n\n(a) No person shall place, install, affix, or apply any transparent material upon the windshield, or side or rear windows, of any motor vehicle if the material alters the color or reduces the light transmittance of the windshield or side or rear windows, except as provided in subdivision (b), (c), or (d) of Section 26708.\n\n(b) Tinted safety glass may be installed in a vehicle if (1) the glass complies with motor vehicle safety standards of the United States Department of Transportation for safety glazing materials, and (2) the glass is installed in a location permitted by those standards for the particular type of glass used.\n\n*(Amended by Stats. 1998, Ch. 476, Sec. 2. Effective January 1, 1999.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall place, install, affix, or apply any transparent material upon the windshield, or side or rear windows, of any motor vehicle if the material alters the color or reduces the light transmittance of the windshield or side or rear windows, except as provided in subdivision (b), (c), or (d) of Section 26708.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Tinted safety glass may be installed in a vehicle if (1) the glass complies with motor vehicle safety standards of the United States Department of Transportation for safety glazing materials, and (2) the glass is installed in a location permitted by those standards for the particular type of glass used.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1998, Ch. 476, Sec. 2. Effective January 1, 1999.)",
+    "action": "Amended",
+    "statutes_year": 1998,
+    "chapter": "476",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "1999-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1998",
+  "op_chapter": "476",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26708.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26708.5.html",
+  "content_sha256": "4cb4d16f846098aba7ffc4a966aa1375ae7163932011c93ee58baa0c8f128ede",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

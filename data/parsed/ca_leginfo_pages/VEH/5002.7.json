@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5002.7",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8",
+  "article_title": "Special Plates",
+  "article_range": "5000 - 5024",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.9",
+  "text": "(a) For a county of over 20,000 square miles in area, a member of the county board of supervisors, or a county assessor, auditor, controller, treasurer, or tax collector, who is regularly issued a county-owned vehicle may apply to the department for regular series license plates for that vehicle, if a request for that issuance is also made by the county board of supervisors. The application and the request shall be in the manner specified by the department.\n\n(b) Regular series license plates issued pursuant to subdivision (a) shall be surrendered to the department by the board member or administrative officer, as applicable, upon the reassignment of a vehicle, for which those plates have been issued, to a person other than the person who requested those plates.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8. Special Plates [5000 - 5024]\n##### § 5002.7\n\n(a) For a county of over 20,000 square miles in area, a member of the county board of supervisors, or a county assessor, auditor, controller, treasurer, or tax collector, who is regularly issued a county-owned vehicle may apply to the department for regular series license plates for that vehicle, if a request for that issuance is also made by the county board of supervisors. The application and the request shall be in the manner specified by the department.\n\n(b) Regular series license plates issued pursuant to subdivision (a) shall be surrendered to the department by the board member or administrative officer, as applicable, upon the reassignment of a vehicle, for which those plates have been issued, to a person other than the person who requested those plates.\n\n*(Amended by Stats. 2007, Ch. 630, Sec. 2. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "For a county of over 20,000 square miles in area, a member of the county board of supervisors, or a county assessor, auditor, controller, treasurer, or tax collector, who is regularly issued a county-owned vehicle may apply to the department for regular series license plates for that vehicle, if a request for that issuance is also made by the county board of supervisors. The application and the request shall be in the manner specified by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Regular series license plates issued pursuant to subdivision (a) shall be surrendered to the department by the board member or administrative officer, as applicable, upon the reassignment of a vehicle, for which those plates have been issued, to a person other than the person who requested those plates.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2007, Ch. 630, Sec. 2. Effective January 1, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2007,
+    "chapter": "630",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "630",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5002.7.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5002.7.html",
+  "content_sha256": "adbdea1373f83126cb100dd5502ad736223a79c2272307a384c2f4b556b757c0",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

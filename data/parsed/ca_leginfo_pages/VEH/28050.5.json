@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28050.5",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "10",
+  "article_title": "Odometers",
+  "article_range": "28050 - 28053",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.15",
+  "text": "It is unlawful for any person with the intent to defraud to operate a motor vehicle on any street or highway knowing that the odometer of such vehicle is disconnected or nonfunctional.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 10. Odometers [28050 - 28053]\n##### § 28050.5\n\nIt is unlawful for any person with the intent to defraud to operate a motor vehicle on any street or highway knowing that the odometer of such vehicle is disconnected or nonfunctional.\n\n*(Added by Stats. 1967, Ch. 1210.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "It is unlawful for any person with the intent to defraud to operate a motor vehicle on any street or highway knowing that the odometer of such vehicle is disconnected or nonfunctional.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1967, Ch. 1210.)",
+    "action": "Added",
+    "statutes_year": 1967,
+    "chapter": "1210",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1967",
+  "op_chapter": "1210",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28050.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28050.5.html",
+  "content_sha256": "5a2c8a18fb802204620a6275a3fc2a3d6fe8b02dc463a9545d56bdfb8719fe33",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

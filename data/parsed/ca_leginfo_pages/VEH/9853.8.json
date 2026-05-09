@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9853.8",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "2",
+  "chapter_title": "Registration",
+  "chapter_range": "9850 - 9880",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.2",
+  "text": "(a) This section applies only to a sterndrive or inboard vessel that contains a spark-ignition marine engine below 373 kW (500 hp) rated power output that was manufactured on or after January 1, 2008, or contains a spark-ignition marine engine with any rated power output that was manufactured on or after January 1, 2009.\n\n(b) It is an infraction, punishable by a fine of two hundred fifty dollars ($250), for a person to operate an undocumented vessel, requiring numbering by the state, that is not currently numbered by the state, and that does not comply with the emissions standards required by Section 2442 of Title 13 of the California Code of Regulations.\n\n(c) As used in this section, “spark-ignition marine engine” has the same meaning as that term is defined in Section 9853.7.",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 2. Registration [9850 - 9880]\n##### § 9853.8\n\n(a) This section applies only to a sterndrive or inboard vessel that contains a spark-ignition marine engine below 373 kW (500 hp) rated power output that was manufactured on or after January 1, 2008, or contains a spark-ignition marine engine with any rated power output that was manufactured on or after January 1, 2009.\n\n(b) It is an infraction, punishable by a fine of two hundred fifty dollars ($250), for a person to operate an undocumented vessel, requiring numbering by the state, that is not currently numbered by the state, and that does not comply with the emissions standards required by Section 2442 of Title 13 of the California Code of Regulations.\n\n(c) As used in this section, “spark-ignition marine engine” has the same meaning as that term is defined in Section 9853.7.\n\n*(Added by Stats. 2007, Ch. 609, Sec. 3. Effective January 1, 2008. Operative July 1, 2008, by Sec. 4 of Ch. 609.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "This section applies only to a sterndrive or inboard vessel that contains a spark-ignition marine engine below 373 kW (500 hp) rated power output that was manufactured on or after January 1, 2008, or contains a spark-ignition marine engine with any rated power output that was manufactured on or after January 1, 2009.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "It is an infraction, punishable by a fine of two hundred fifty dollars ($250), for a person to operate an undocumented vessel, requiring numbering by the state, that is not currently numbered by the state, and that does not comply with the emissions standards required by Section 2442 of Title 13 of the California Code of Regulations.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "As used in this section, “spark-ignition marine engine” has the same meaning as that term is defined in Section 9853.7.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2007, Ch. 609, Sec. 3. Effective January 1, 2008. Operative July 1, 2008, by Sec. 4 of Ch. 609.)",
+    "action": "Added",
+    "statutes_year": 2007,
+    "chapter": "609",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": "2008-07-01"
+  },
+  "op_statues": "2007",
+  "op_chapter": "609",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9853.8.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9853.8.html",
+  "content_sha256": "749b5e268802dce15c763ab6f8dc34d1977742f66f13647bbe000485f19013bc",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

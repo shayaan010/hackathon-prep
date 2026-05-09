@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22658.1",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "10",
+  "chapter_title": "Removal of Parked and Abandoned Vehicles",
+  "chapter_range": "22650 - 22856",
+  "article": "1",
+  "article_title": "Authority to Remove Vehicles",
+  "article_range": "22650 - 22711",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.10.1",
+  "text": "(a) Any towing company that, in removing a vehicle, cuts, removes, otherwise damages, or leaves open a fence without the prior approval of the property owner or the person in charge of the property shall then and there do either of the following:\n\n(1) Locate and notify the owner or person in charge of the property of the damage or open condition of the fence, the name and address of the towing company, and the license, registration, or identification number of the vehicle being removed.\n\n(2) Leave in a conspicuous place on the property the name and address of the towing company, and the license, registration, or identification number of the vehicle being removed, and shall without unnecessary delay, notify the police department of the city in which the property is located, or if the property is located in unincorporated territory, either the sheriff or the local headquarters of the Department of the California Highway Patrol, of that information and the location of the damaged or opened fence.\n\n(b) Any person failing to comply with all the requirements of this section is guilty of an infraction.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 10. Removal of Parked and Abandoned Vehicles [22650 - 22856]\n#### Article 1. Authority to Remove Vehicles [22650 - 22711]\n##### § 22658.1\n\n(a) Any towing company that, in removing a vehicle, cuts, removes, otherwise damages, or leaves open a fence without the prior approval of the property owner or the person in charge of the property shall then and there do either of the following:\n\n    (1) Locate and notify the owner or person in charge of the property of the damage or open condition of the fence, the name and address of the towing company, and the license, registration, or identification number of the vehicle being removed.\n\n    (2) Leave in a conspicuous place on the property the name and address of the towing company, and the license, registration, or identification number of the vehicle being removed, and shall without unnecessary delay, notify the police department of the city in which the property is located, or if the property is located in unincorporated territory, either the sheriff or the local headquarters of the Department of the California Highway Patrol, of that information and the location of the damaged or opened fence.\n\n(b) Any person failing to comply with all the requirements of this section is guilty of an infraction.\n\n*(Amended by Stats. 2001, Ch. 854, Sec. 68. Effective January 1, 2002.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any towing company that, in removing a vehicle, cuts, removes, otherwise damages, or leaves open a fence without the prior approval of the property owner or the person in charge of the property shall then and there do either of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Locate and notify the owner or person in charge of the property of the damage or open condition of the fence, the name and address of the towing company, and the license, registration, or identification number of the vehicle being removed.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Leave in a conspicuous place on the property the name and address of the towing company, and the license, registration, or identification number of the vehicle being removed, and shall without unnecessary delay, notify the police department of the city in which the property is located, or if the property is located in unincorporated territory, either the sheriff or the local headquarters of the Department of the California Highway Patrol, of that information and the location of the damaged or opened fence.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Any person failing to comply with all the requirements of this section is guilty of an infraction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2001, Ch. 854, Sec. 68. Effective January 1, 2002.)",
+    "action": "Amended",
+    "statutes_year": 2001,
+    "chapter": "854",
+    "section": "68",
+    "bill_number": null,
+    "effective_date": "2002-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "854",
+  "op_section": "68",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22658.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22658.1.html",
+  "content_sha256": "9c93e65463f826899e5edf9365b2b8c2ae7263b6aaaddcc6886cd9fe59052d60",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

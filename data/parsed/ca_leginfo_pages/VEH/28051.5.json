@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28051.5",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "10",
+  "article_title": "Odometers",
+  "article_range": "28050 - 28053",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.15",
+  "text": "It is unlawful for any person to advertise for sale, to sell, or to use, any device designed primarily for the purpose of turning back or resetting the odometer of any motor vehicle to reduce the number of miles indicated on the odometer gauge.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 10. Odometers [28050 - 28053]\n##### § 28051.5\n\nIt is unlawful for any person to advertise for sale, to sell, or to use, any device designed primarily for the purpose of turning back or resetting the odometer of any motor vehicle to reduce the number of miles indicated on the odometer gauge.\n\n*(Added by Stats. 1970, Ch. 841.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "It is unlawful for any person to advertise for sale, to sell, or to use, any device designed primarily for the purpose of turning back or resetting the odometer of any motor vehicle to reduce the number of miles indicated on the odometer gauge.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1970, Ch. 841.)",
+    "action": "Added",
+    "statutes_year": 1970,
+    "chapter": "841",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1970",
+  "op_chapter": "841",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28051.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28051.5.html",
+  "content_sha256": "9a2d0938e0a976a0258a7e7bc4b7ff255e7bed3ea4aaad000e3e187d78026e60",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

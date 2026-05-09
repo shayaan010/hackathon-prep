@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21362.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "1",
+  "article_title": "Erection and Maintenance",
+  "article_range": "21350 - 21376",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.1",
+  "text": "(a) (1) Railroad and rail transit grade crossings may be equipped with an automated rail crossing enforcement system if the system is identified by signs clearly indicating the system’s presence and visible to traffic approaching from each direction.\n\n(2) Only a governmental agency, in cooperation with a law enforcement agency, may operate an automated rail crossing enforcement system.\n\n(b) Notwithstanding Article 1 (commencing with Section 7922.500) and Article 2 (commencing with Section 7922.525) of Chapter 1 of Part 3 of Division 10 of Title 1 of the Government Code, or any other provision of law, photographic records made by an automated rail crossing enforcement system shall be confidential, and shall be made available only to governmental agencies and law enforcement agencies for the purposes of this section.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 1. Erection and Maintenance [21350 - 21376]\n##### § 21362.5\n\n(a) (1) Railroad and rail transit grade crossings may be equipped with an automated rail crossing enforcement system if the system is identified by signs clearly indicating the system’s presence and visible to traffic approaching from each direction.\n\n    (2) Only a governmental agency, in cooperation with a law enforcement agency, may operate an automated rail crossing enforcement system.\n\n(b) Notwithstanding Article 1 (commencing with Section 7922.500) and Article 2 (commencing with Section 7922.525) of Chapter 1 of Part 3 of Division 10 of Title 1 of the Government Code, or any other provision of law, photographic records made by an automated rail crossing enforcement system shall be confidential, and shall be made available only to governmental agencies and law enforcement agencies for the purposes of this section.\n\n*(Amended by Stats. 2021, Ch. 615, Sec. 425. (AB 474) Effective January 1, 2022. Operative January 1, 2023, pursuant to Section 463 of Stats. 2021, Ch. 615.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "(1) Railroad and rail transit grade crossings may be equipped with an automated rail crossing enforcement system if the system is identified by signs clearly indicating the system’s presence and visible to traffic approaching from each direction.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "Only a governmental agency, in cooperation with a law enforcement agency, may operate an automated rail crossing enforcement system.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding Article 1 (commencing with Section 7922.500) and Article 2 (commencing with Section 7922.525) of Chapter 1 of Part 3 of Division 10 of Title 1 of the Government Code, or any other provision of law, photographic records made by an automated rail crossing enforcement system shall be confidential, and shall be made available only to governmental agencies and law enforcement agencies for the purposes of this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 615, Sec. 425. (AB 474) Effective January 1, 2022. Operative January 1, 2023, pursuant to Section 463 of Stats. 2021, Ch. 615.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "615",
+    "section": "425",
+    "bill_number": "AB 474",
+    "effective_date": "2022-01-01",
+    "operative_date": "2023-01-01"
+  },
+  "op_statues": "2021",
+  "op_chapter": "615",
+  "op_section": "425",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21362.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21362.5.html",
+  "content_sha256": "25aea86e61d5ad8cfa5bb425a971453e13f75a410f68095cf1c4bb84283a8d53",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

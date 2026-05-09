@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24013.5",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "1",
+  "chapter_title": "General Provisions",
+  "chapter_range": "24000 - 24020",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.1",
+  "text": "(a) No dealer shall sell, offer for sale, or display for sale any new light duty truck with a manufacturer’s gross vehicle weight rating of 8,500 pounds or less unless there is securely affixed to the windshield or side window of the light duty truck a label on which the manufacturer has endorsed clearly, distinctly, and legibly, true and correct entries disclosing the following information concerning the light duty truck:\n\n(1) The make, model, and serial or identification number or numbers.\n\n(2) The retail price of the light duty truck as suggested by the manufacturer.\n\n(3) The retail delivered price, as suggested by the manufacturer, for each accessory or item of optional equipment which is physically attached to the light duty truck at the time of its delivery to the dealer and which is not included within the price of the light duty truck as stated pursuant to paragraph (2).\n\n(4) The amount charged, if any, to the dealer for the transportation of the light duty truck to the location at which it is delivered to the dealer.\n\n(5) The total of the amounts specified pursuant to paragraphs (2), (3), and (4).\n\n(b) Subdivision (a) applies to every light duty truck sold, offered for sale, or displayed in California which is manufactured on or after September 1, 1988.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 1. General Provisions [24000 - 24020]\n##### § 24013.5\n\n(a) No dealer shall sell, offer for sale, or display for sale any new light duty truck with a manufacturer’s gross vehicle weight rating of 8,500 pounds or less unless there is securely affixed to the windshield or side window of the light duty truck a label on which the manufacturer has endorsed clearly, distinctly, and legibly, true and correct entries disclosing the following information concerning the light duty truck:\n\n    (1) The make, model, and serial or identification number or numbers.\n\n    (2) The retail price of the light duty truck as suggested by the manufacturer.\n\n    (3) The retail delivered price, as suggested by the manufacturer, for each accessory or item of optional equipment which is physically attached to the light duty truck at the time of its delivery to the dealer and which is not included within the price of the light duty truck as stated pursuant to paragraph (2).\n\n    (4) The amount charged, if any, to the dealer for the transportation of the light duty truck to the location at which it is delivered to the dealer.\n\n    (5) The total of the amounts specified pursuant to paragraphs (2), (3), and (4).\n\n(b) Subdivision (a) applies to every light duty truck sold, offered for sale, or displayed in California which is manufactured on or after September 1, 1988.\n\n*(Added by Stats. 1987, Ch. 418, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No dealer shall sell, offer for sale, or display for sale any new light duty truck with a manufacturer’s gross vehicle weight rating of 8,500 pounds or less unless there is securely affixed to the windshield or side window of the light duty truck a label on which the manufacturer has endorsed clearly, distinctly, and legibly, true and correct entries disclosing the following information concerning the light duty truck:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The make, model, and serial or identification number or numbers.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The retail price of the light duty truck as suggested by the manufacturer.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The retail delivered price, as suggested by the manufacturer, for each accessory or item of optional equipment which is physically attached to the light duty truck at the time of its delivery to the dealer and which is not included within the price of the light duty truck as stated pursuant to paragraph (2).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "The amount charged, if any, to the dealer for the transportation of the light duty truck to the location at which it is delivered to the dealer.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "The total of the amounts specified pursuant to paragraphs (2), (3), and (4).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Subdivision (a) applies to every light duty truck sold, offered for sale, or displayed in California which is manufactured on or after September 1, 1988.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1987, Ch. 418, Sec. 2.)",
+    "action": "Added",
+    "statutes_year": 1987,
+    "chapter": "418",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1987",
+  "op_chapter": "418",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24013.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24013.5.html",
+  "content_sha256": "fc58171cc064a53a17ddb4f46a5a324b481321ab5eb78337548aaac6ac1755f6",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

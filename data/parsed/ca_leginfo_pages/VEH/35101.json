@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35101",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "2",
+  "chapter_title": "Width",
+  "chapter_range": "35100 - 35111",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.2",
+  "text": "When any vehicle is equipped with pneumatic tires, the maximum width from the outside of one wheel and tire to the outside of the opposite outer wheel and tire shall not exceed 108 inches, but the outside width of the body of the vehicle or the load thereon shall not exceed 102 inches.\n\nVehicles manufactured, reconstructed, or modified after the effective date of amendments to this section enacted during the 1983 portion of the 1983–84 Regular Session of the Legislature, to utilize the 102 inch maximum width dimension, shall be equipped with axles, tires, and wheels of sufficient width to adequately and safely stabilize the vehicle. The Department of the California Highway Patrol shall conduct tests relating to the dynamic stability of vehicles utilizing body widths over 96 inches, up to and including 102 inches, to determine the necessity for establishing performance standards under the authority of Section 34500. Such standards if established shall be consistent with width standards established by or under the authority of the United States Department of Transportation.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 2. Width [35100 - 35111]\n##### § 35101\n\nWhen any vehicle is equipped with pneumatic tires, the maximum width from the outside of one wheel and tire to the outside of the opposite outer wheel and tire shall not exceed 108 inches, but the outside width of the body of the vehicle or the load thereon shall not exceed 102 inches.\n\nVehicles manufactured, reconstructed, or modified after the effective date of amendments to this section enacted during the 1983 portion of the 1983–84 Regular Session of the Legislature, to utilize the 102 inch maximum width dimension, shall be equipped with axles, tires, and wheels of sufficient width to adequately and safely stabilize the vehicle. The Department of the California Highway Patrol shall conduct tests relating to the dynamic stability of vehicles utilizing body widths over 96 inches, up to and including 102 inches, to determine the necessity for establishing performance standards under the authority of Section 34500. Such standards if established shall be consistent with width standards established by or under the authority of the United States Department of Transportation.\n\n*(Amended by Stats. 1983, Ch. 145, Sec. 2. Effective June 28, 1983.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "When any vehicle is equipped with pneumatic tires, the maximum width from the outside of one wheel and tire to the outside of the opposite outer wheel and tire shall not exceed 108 inches, but the outside width of the body of the vehicle or the load thereon shall not exceed 102 inches.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Vehicles manufactured, reconstructed, or modified after the effective date of amendments to this section enacted during the 1983 portion of the 1983–84 Regular Session of the Legislature, to utilize the 102 inch maximum width dimension, shall be equipped with axles, tires, and wheels of sufficient width to adequately and safely stabilize the vehicle. The Department of the California Highway Patrol shall conduct tests relating to the dynamic stability of vehicles utilizing body widths over 96 inches, up to and including 102 inches, to determine the necessity for establishing performance standards under the authority of Section 34500. Such standards if established shall be consistent with width standards established by or under the authority of the United States Department of Transportation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 145, Sec. 2. Effective June 28, 1983.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "145",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "1983-06-28",
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "145",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35101.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35101.html",
+  "content_sha256": "7005e0c8c667ca958d3a1db7c12a37e24a0441fbfc01fd8e4ea60f41665a8024",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

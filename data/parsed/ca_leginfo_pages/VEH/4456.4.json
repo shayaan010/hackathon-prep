@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4456.4",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "4",
+  "article_title": "Evidences of Registration",
+  "article_range": "4450 - 4467",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.4",
+  "text": "(a) A motor vehicle sold or leased by a new motor vehicle dealer shall be registered by the dealer using electronic programs provided by a qualified private industry partner pursuant to Section 1685 if the department permits the transaction to be processed electronically.\n\n(b) This section does not apply to the sale or lease of a motorcycle or off-highway motor vehicle subject to identification under Section 38010 or a recreational vehicle as defined in Section 18010 of the Health and Safety Code.\n\n(c) This section shall become operative on July 1, 2012.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 4. Evidences of Registration [4450 - 4467]\n##### § 4456.4\n\n(a) A motor vehicle sold or leased by a new motor vehicle dealer shall be registered by the dealer using electronic programs provided by a qualified private industry partner pursuant to Section 1685 if the department permits the transaction to be processed electronically.\n\n(b) This section does not apply to the sale or lease of a motorcycle or off-highway motor vehicle subject to identification under Section 38010 or a recreational vehicle as defined in Section 18010 of the Health and Safety Code.\n\n(c) This section shall become operative on July 1, 2012.\n\n*(Added by Stats. 2011, Ch. 329, Sec. 9. (AB 1215) Effective January 1, 2012. Section operative July 1, 2012, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A motor vehicle sold or leased by a new motor vehicle dealer shall be registered by the dealer using electronic programs provided by a qualified private industry partner pursuant to Section 1685 if the department permits the transaction to be processed electronically.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to the sale or lease of a motorcycle or off-highway motor vehicle subject to identification under Section 38010 or a recreational vehicle as defined in Section 18010 of the Health and Safety Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section shall become operative on July 1, 2012.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2011, Ch. 329, Sec. 9. (AB 1215) Effective January 1, 2012. Section operative July 1, 2012, by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 2011,
+    "chapter": "329",
+    "section": "9",
+    "bill_number": "AB 1215",
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2011",
+  "op_chapter": "329",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4456.4.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4456.4.html",
+  "content_sha256": "9a90e5fc375fa3e8140de1167df592ca565bdfc6eedff25cade900dd67ab6d79",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

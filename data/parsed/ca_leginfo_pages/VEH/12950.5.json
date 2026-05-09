@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12950.5",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "4",
+  "article_title": "Signature and Display of Licenses",
+  "article_range": "12950 - 12953",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.4",
+  "text": "(a) The department shall require digitized signatures on each driver’s license. A digitized signature is an electronic representation of a handwritten signature.\n\n(b) The department shall provide to the Secretary of State the digitized signature of every person who registers to vote on the voter registration card provided by the department.\n\n(c) The department shall provide the Secretary of State with change-of-address information for every voter who indicates that he or she desires to have his or her address changed for voter registration purposes.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 4. Signature and Display of Licenses [12950 - 12953]\n##### § 12950.5\n\n(a) The department shall require digitized signatures on each driver’s license. A digitized signature is an electronic representation of a handwritten signature.\n\n(b) The department shall provide to the Secretary of State the digitized signature of every person who registers to vote on the voter registration card provided by the department.\n\n(c) The department shall provide the Secretary of State with change-of-address information for every voter who indicates that he or she desires to have his or her address changed for voter registration purposes.\n\n*(Added by Stats. 2003, Ch. 819, Sec. 4. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall require digitized signatures on each driver’s license. A digitized signature is an electronic representation of a handwritten signature.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall provide to the Secretary of State the digitized signature of every person who registers to vote on the voter registration card provided by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The department shall provide the Secretary of State with change-of-address information for every voter who indicates that he or she desires to have his or her address changed for voter registration purposes.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2003, Ch. 819, Sec. 4. Effective January 1, 2004.)",
+    "action": "Added",
+    "statutes_year": 2003,
+    "chapter": "819",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "819",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12950.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12950.5.html",
+  "content_sha256": "0be4682425a3dbc9fac1e0a65a89bfc71ac6b196ce878adea4d810c759710973",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

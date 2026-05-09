@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "3000",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "6",
+  "chapter_title": "New Motor Vehicle Board",
+  "chapter_range": "3000 - 3085.10",
+  "article": "1",
+  "article_title": "Organization of Board",
+  "article_range": "3000 - 3016",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.6.1",
+  "text": "There is in the Department of Motor Vehicles a New Motor Vehicle Board, which consists of nine members.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 6. New Motor Vehicle Board [3000 - 3085.10]\n#### Article 1. Organization of Board [3000 - 3016]\n##### § 3000\n\nThere is in the Department of Motor Vehicles a New Motor Vehicle Board, which consists of nine members.\n\n*(Amended by Stats. 1973, Ch. 996.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "There is in the Department of Motor Vehicles a New Motor Vehicle Board, which consists of nine members.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1973, Ch. 996.)",
+    "action": "Amended",
+    "statutes_year": 1973,
+    "chapter": "996",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1973",
+  "op_chapter": "996",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3000.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/3000.html",
+  "content_sha256": "10bed4d22647e777724065a8de258a719305534bc64e94e70a0f841b8c1a8cef",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

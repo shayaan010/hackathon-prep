@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13351",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "2",
+  "chapter_title": "Suspension or Revocation of Licenses",
+  "chapter_range": "13100 - 13559",
+  "article": "3",
+  "article_title": "Suspension and Revocation by Department",
+  "article_range": "13350 - 13392",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.2.3",
+  "text": "(a) The department immediately shall revoke the privilege of a person to drive a motor vehicle upon receipt of a duly certified abstract of the record of a court showing that the person has been convicted of any of the following crimes or offenses:\n\n(1) Manslaughter resulting from the operation of a motor vehicle, except when convicted under paragraph (2) of subdivision (c) of Section 192 of the Penal Code.\n\n(2) Conviction of three or more violations of Section 20001, 20002, 23103, 23104, or 23105 within a period of 12 months from the time of the first offense to the third or subsequent offense, or a combination of three or more convictions of violations within the same period.\n\n(3) Violation of subdivision (a) of Section 191.5 or subdivision (a) of Section 192.5 of the Penal Code or of Section 2800.3 causing serious bodily injury resulting in a serious impairment of physical condition, including, but not limited to, loss of consciousness, concussion, serious bone fracture, protracted loss or impairment of function of any bodily member or organ, and serious disfigurement.\n\n(b) The department shall not reinstate the privilege revoked under subdivision (a) until the expiration of three years after the date of revocation and until the person whose privilege was revoked gives proof of financial responsibility, as defined in Section 16430.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 2. Suspension or Revocation of Licenses [13100 - 13559]\n#### Article 3. Suspension and Revocation by Department [13350 - 13392]\n##### § 13351\n\n(a) The department immediately shall revoke the privilege of a person to drive a motor vehicle upon receipt of a duly certified abstract of the record of a court showing that the person has been convicted of any of the following crimes or offenses:\n\n    (1) Manslaughter resulting from the operation of a motor vehicle, except when convicted under paragraph (2) of subdivision (c) of Section 192 of the Penal Code.\n\n    (2) Conviction of three or more violations of Section 20001, 20002, 23103, 23104, or 23105 within a period of 12 months from the time of the first offense to the third or subsequent offense, or a combination of three or more convictions of violations within the same period.\n\n    (3) Violation of subdivision (a) of Section 191.5 or subdivision (a) of Section 192.5 of the Penal Code or of Section 2800.3 causing serious bodily injury resulting in a serious impairment of physical condition, including, but not limited to, loss of consciousness, concussion, serious bone fracture, protracted loss or impairment of function of any bodily member or organ, and serious disfigurement.\n\n(b) The department shall not reinstate the privilege revoked under subdivision (a) until the expiration of three years after the date of revocation and until the person whose privilege was revoked gives proof of financial responsibility, as defined in Section 16430.\n\n*(Amended by Stats. 2007, Ch. 747, Sec. 20.5. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department immediately shall revoke the privilege of a person to drive a motor vehicle upon receipt of a duly certified abstract of the record of a court showing that the person has been convicted of any of the following crimes or offenses:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Manslaughter resulting from the operation of a motor vehicle, except when convicted under paragraph (2) of subdivision (c) of Section 192 of the Penal Code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Conviction of three or more violations of Section 20001, 20002, 23103, 23104, or 23105 within a period of 12 months from the time of the first offense to the third or subsequent offense, or a combination of three or more convictions of violations within the same period.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Violation of subdivision (a) of Section 191.5 or subdivision (a) of Section 192.5 of the Penal Code or of Section 2800.3 causing serious bodily injury resulting in a serious impairment of physical condition, including, but not limited to, loss of consciousness, concussion, serious bone fracture, protracted loss or impairment of function of any bodily member or organ, and serious disfigurement.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall not reinstate the privilege revoked under subdivision (a) until the expiration of three years after the date of revocation and until the person whose privilege was revoked gives proof of financial responsibility, as defined in Section 16430.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2007, Ch. 747, Sec. 20.5. Effective January 1, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2007,
+    "chapter": "747",
+    "section": "20.5",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "747",
+  "op_section": "20.5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13351.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13351.html",
+  "content_sha256": "9fac7a46c2632c7f8f9d2fb6313dedfe8a65962fc5e215698bd201d3b0ff334f",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

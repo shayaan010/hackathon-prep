@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40304.5",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "1",
+  "article_title": "Arrests",
+  "article_range": "40300 - 40313",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.1",
+  "text": "Notwithstanding any other provision of law, whenever any person is taken into custody for bail to be collected on two or fewer outstanding warrants for failure to appear on a citation for a parking offense or a traffic infraction, the person shall be provided the opportunity immediately to post bail, and shall not be booked, photographed, or fingerprinted, nor shall an arrest record be made, when the amount of bail required to be paid on the warrant may be ascertained by reference to the face thereof or to a fixed schedule of bail, unless and until all of the following requirements have been exhausted:\n\n(a) If the person has sufficient cash in his or her possession, that person shall be given the opportunity immediately to post bail with the person in charge of the jail or his or her designee.\n\n(b) If the person does not have sufficient cash in his or her possession, that person shall be informed of his or her rights and given the opportunity to do all of the following:\n\n(1) Make not less than three completed telephone calls to obtain bail. The person shall be permitted the use of the police or sheriff’s department telephone to make not less than three completed local or collect long-distance telephone calls to obtain bail.\n\n(2) Have not less than three hours in which to arrange for the deposit of bail.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 1. Arrests [40300 - 40313]\n##### § 40304.5\n\nNotwithstanding any other provision of law, whenever any person is taken into custody for bail to be collected on two or fewer outstanding warrants for failure to appear on a citation for a parking offense or a traffic infraction, the person shall be provided the opportunity immediately to post bail, and shall not be booked, photographed, or fingerprinted, nor shall an arrest record be made, when the amount of bail required to be paid on the warrant may be ascertained by reference to the face thereof or to a fixed schedule of bail, unless and until all of the following requirements have been exhausted:\n\n(a) If the person has sufficient cash in his or her possession, that person shall be given the opportunity immediately to post bail with the person in charge of the jail or his or her designee.\n\n(b) If the person does not have sufficient cash in his or her possession, that person shall be informed of his or her rights and given the opportunity to do all of the following:\n\n    (1) Make not less than three completed telephone calls to obtain bail. The person shall be permitted the use of the police or sheriff’s department telephone to make not less than three completed local or collect long-distance telephone calls to obtain bail.\n\n    (2) Have not less than three hours in which to arrange for the deposit of bail.\n\n*(Added by Stats. 1984, Ch. 35, Sec. 3. Effective March 8, 1984. Operative March 31, 1984, by Sec. 7 of Ch. 35.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding any other provision of law, whenever any person is taken into custody for bail to be collected on two or fewer outstanding warrants for failure to appear on a citation for a parking offense or a traffic infraction, the person shall be provided the opportunity immediately to post bail, and shall not be booked, photographed, or fingerprinted, nor shall an arrest record be made, when the amount of bail required to be paid on the warrant may be ascertained by reference to the face thereof or to a fixed schedule of bail, unless and until all of the following requirements have been exhausted:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "If the person has sufficient cash in his or her possession, that person shall be given the opportunity immediately to post bail with the person in charge of the jail or his or her designee.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If the person does not have sufficient cash in his or her possession, that person shall be informed of his or her rights and given the opportunity to do all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Make not less than three completed telephone calls to obtain bail. The person shall be permitted the use of the police or sheriff’s department telephone to make not less than three completed local or collect long-distance telephone calls to obtain bail.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Have not less than three hours in which to arrange for the deposit of bail.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1984, Ch. 35, Sec. 3. Effective March 8, 1984. Operative March 31, 1984, by Sec. 7 of Ch. 35.)",
+    "action": "Added",
+    "statutes_year": 1984,
+    "chapter": "35",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "1984-03-08",
+    "operative_date": "1984-03-31"
+  },
+  "op_statues": "1984",
+  "op_chapter": "35",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40304.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40304.5.html",
+  "content_sha256": "5fed749cb60f23b1a50f4de811f9c74dda00a88cff27f16f032618c156f082d5",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

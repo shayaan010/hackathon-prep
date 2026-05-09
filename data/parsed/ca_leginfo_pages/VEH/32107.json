@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "32107",
+  "division": "14.3",
+  "division_title": "TRANSPORTATION OF INHALATION HAZARDS",
+  "division_range": "32100 - 32109",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "22",
+  "text": "Every vehicle, or combination of vehicles, transporting an inhalation hazard shall contain a self-contained breathing apparatus and equipment capable of immediate communication with emergency personnel.",
+  "markdown": "# Vehicle Code\n## Division 14.3. TRANSPORTATION OF INHALATION HAZARDS [32100 - 32109]\n##### § 32107\n\nEvery vehicle, or combination of vehicles, transporting an inhalation hazard shall contain a self-contained breathing apparatus and equipment capable of immediate communication with emergency personnel.\n\n*(Added by Stats. 1988, Ch. 1384, Sec. 5.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every vehicle, or combination of vehicles, transporting an inhalation hazard shall contain a self-contained breathing apparatus and equipment capable of immediate communication with emergency personnel.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 1384, Sec. 5.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "1384",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1384",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=32107.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/32107.html",
+  "content_sha256": "92dcd26e80c7da54ddba166f5a787915c2b50d07a3ef852654228c51a943d25d",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

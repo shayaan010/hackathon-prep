@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9975",
+  "division": "3.6",
+  "division_title": "VEHICLE SALES",
+  "division_range": "9950 - 9993",
+  "chapter": "2",
+  "chapter_title": "Manufacturer’s Responsibility for Safety Defects",
+  "chapter_range": "9975- 9975.",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "6.2",
+  "text": "Every manufacturer of a motor vehicle who furnishes notification to the registered owner of the motor vehicle of any defect in the motor vehicle or motor vehicle equipment which relates to motor vehicle safety, shall, notwithstanding any limitation in any warranty relating to the motor vehicle, correct such defect without charge to the registered owner of the vehicle or, at the manufacturer’s election, reimburse the registered owner for the cost of making such correction.\n\nThe manufacturer of such motor vehicle shall not be liable for the cost of such correction if the registered owner of the motor vehicle does not seek to have the correction made within 45 days after receipt of the notification or within the warranty period of the motor vehicle, whichever is longer.",
+  "markdown": "# Vehicle Code\n## Division 3.6. VEHICLE SALES [9950 - 9993]\n### Chapter 2. Manufacturer’s Responsibility for Safety Defects [9975- 9975.]\n##### § 9975\n\nEvery manufacturer of a motor vehicle who furnishes notification to the registered owner of the motor vehicle of any defect in the motor vehicle or motor vehicle equipment which relates to motor vehicle safety, shall, notwithstanding any limitation in any warranty relating to the motor vehicle, correct such defect without charge to the registered owner of the vehicle or, at the manufacturer’s election, reimburse the registered owner for the cost of making such correction.\n\nThe manufacturer of such motor vehicle shall not be liable for the cost of such correction if the registered owner of the motor vehicle does not seek to have the correction made within 45 days after receipt of the notification or within the warranty period of the motor vehicle, whichever is longer.\n\n*(Added by Stats. 1972, Ch. 954.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every manufacturer of a motor vehicle who furnishes notification to the registered owner of the motor vehicle of any defect in the motor vehicle or motor vehicle equipment which relates to motor vehicle safety, shall, notwithstanding any limitation in any warranty relating to the motor vehicle, correct such defect without charge to the registered owner of the vehicle or, at the manufacturer’s election, reimburse the registered owner for the cost of making such correction.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The manufacturer of such motor vehicle shall not be liable for the cost of such correction if the registered owner of the motor vehicle does not seek to have the correction made within 45 days after receipt of the notification or within the warranty period of the motor vehicle, whichever is longer.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1972, Ch. 954.)",
+    "action": "Added",
+    "statutes_year": 1972,
+    "chapter": "954",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1972",
+  "op_chapter": "954",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9975.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9975.html",
+  "content_sha256": "5fabc3ef5dac1273ecd1dfc6a6af1eb3a4a1b4dd73e1c1383aa150a03c5b4544",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

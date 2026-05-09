@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2432",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3.3",
+  "article_title": "Tow Truck Drivers",
+  "article_range": "2430.1 - 2432.3",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.4",
+  "text": "(a) It is unlawful for a freeway service patrol tow truck driver to knowingly provide false information on the application prepared and submitted to the department pursuant to subdivision (b) of Section 2431.\n\n(b) It is unlawful for a California Highway Patrol rotation tow truck operator, including, but not limited to, a freeway service patrol tow truck driver, to fail to comply with the notification requirements in Section 2430.3.\n\n(c) A violation of this section is punishable as a misdemeanor.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3.3. Tow Truck Drivers [2430.1 - 2432.3]\n##### § 2432\n\n(a) It is unlawful for a freeway service patrol tow truck driver to knowingly provide false information on the application prepared and submitted to the department pursuant to subdivision (b) of Section 2431.\n\n(b) It is unlawful for a California Highway Patrol rotation tow truck operator, including, but not limited to, a freeway service patrol tow truck driver, to fail to comply with the notification requirements in Section 2430.3.\n\n(c) A violation of this section is punishable as a misdemeanor.\n\n*(Amended by Stats. 2001, Ch. 127, Sec. 6. Effective July 30, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is unlawful for a freeway service patrol tow truck driver to knowingly provide false information on the application prepared and submitted to the department pursuant to subdivision (b) of Section 2431.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "It is unlawful for a California Highway Patrol rotation tow truck operator, including, but not limited to, a freeway service patrol tow truck driver, to fail to comply with the notification requirements in Section 2430.3.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A violation of this section is punishable as a misdemeanor.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2001, Ch. 127, Sec. 6. Effective July 30, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2001,
+    "chapter": "127",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "2001-07-30",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "127",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2432.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2432.html",
+  "content_sha256": "709725eff94aeaaf0402c1c15d1faa426210a98effca54f0c0cbe556bd0c9308",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

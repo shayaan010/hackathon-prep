@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40152",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "2",
+  "article_title": "Procedure on Equipment and Registration Violations",
+  "article_range": "40150 - 40152",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.2",
+  "text": "(a) Whenever any vehicle or combination of vehicles is found to be not registered as required by this code, and a notice to appear is issued or a complaint is filed for that violation, the person to whom the notice to appear is issued or against whom the complaint is filed shall produce in court satisfactory evidence that the vehicle or combination of vehicles has been registered or has had the appropriate fees paid, or has been reduced to junk, to conform with the requirements of this code. The court shall not dismiss the offense until that evidence is produced.\n\n(b) A four-day, nonresident commercial trip permit of the type authorized in Section 4004 may not be accepted as evidence of registration compliance as required in subdivision (a) of this section.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 2. Procedure on Equipment and Registration Violations [40150 - 40152]\n##### § 40152\n\n(a) Whenever any vehicle or combination of vehicles is found to be not registered as required by this code, and a notice to appear is issued or a complaint is filed for that violation, the person to whom the notice to appear is issued or against whom the complaint is filed shall produce in court satisfactory evidence that the vehicle or combination of vehicles has been registered or has had the appropriate fees paid, or has been reduced to junk, to conform with the requirements of this code. The court shall not dismiss the offense until that evidence is produced.\n\n(b) A four-day, nonresident commercial trip permit of the type authorized in Section 4004 may not be accepted as evidence of registration compliance as required in subdivision (a) of this section.\n\n*(Amended by Stats. 1996, Ch. 1154, Sec. 83. Effective September 30, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever any vehicle or combination of vehicles is found to be not registered as required by this code, and a notice to appear is issued or a complaint is filed for that violation, the person to whom the notice to appear is issued or against whom the complaint is filed shall produce in court satisfactory evidence that the vehicle or combination of vehicles has been registered or has had the appropriate fees paid, or has been reduced to junk, to conform with the requirements of this code. The court shall not dismiss the offense until that evidence is produced.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A four-day, nonresident commercial trip permit of the type authorized in Section 4004 may not be accepted as evidence of registration compliance as required in subdivision (a) of this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 1154, Sec. 83. Effective September 30, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "1154",
+    "section": "83",
+    "bill_number": null,
+    "effective_date": "1996-09-30",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "1154",
+  "op_section": "83",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40152.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40152.html",
+  "content_sha256": "28871e31bc45d8b4203d6ce9220b7f6f675816ff68d9d3b7e5e9d7bc04139238",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

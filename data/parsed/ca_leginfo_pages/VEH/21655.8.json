@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21655.8",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "1",
+  "article_title": "Driving on Right Side",
+  "article_range": "21650 - 21664",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.1",
+  "text": "(a) Except as required under subdivision (b), when exclusive or preferential use lanes for high-occupancy vehicles are established pursuant to Section 21655.5 and double parallel solid lines are in place to the right thereof, no person driving a vehicle may cross over these double lines to enter into or exit from the exclusive or preferential use lanes, and entrance or exit may be made only in areas designated for these purposes or where a single broken line is in place to the right of the exclusive or preferential use lanes.\n\n(b) Upon the approach of an authorized emergency vehicle displaying a red light or siren, as specified in Section 21806, a person driving a vehicle in an exclusive or preferential use lane shall exit that lane immediately upon determining that the exit can be accomplished with reasonable safety.\n\n(c) Raised pavement markers may be used to simulate painted lines described in this section.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 1. Driving on Right Side [21650 - 21664]\n##### § 21655.8\n\n(a) Except as required under subdivision (b), when exclusive or preferential use lanes for high-occupancy vehicles are established pursuant to Section 21655.5 and double parallel solid lines are in place to the right thereof, no person driving a vehicle may cross over these double lines to enter into or exit from the exclusive or preferential use lanes, and entrance or exit may be made only in areas designated for these purposes or where a single broken line is in place to the right of the exclusive or preferential use lanes.\n\n(b) Upon the approach of an authorized emergency vehicle displaying a red light or siren, as specified in Section 21806, a person driving a vehicle in an exclusive or preferential use lane shall exit that lane immediately upon determining that the exit can be accomplished with reasonable safety.\n\n(c) Raised pavement markers may be used to simulate painted lines described in this section.\n\n*(Amended by Stats. 1996, Ch. 1154, Sec. 67. Effective September 30, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as required under subdivision (b), when exclusive or preferential use lanes for high-occupancy vehicles are established pursuant to Section 21655.5 and double parallel solid lines are in place to the right thereof, no person driving a vehicle may cross over these double lines to enter into or exit from the exclusive or preferential use lanes, and entrance or exit may be made only in areas designated for these purposes or where a single broken line is in place to the right of the exclusive or preferential use lanes.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Upon the approach of an authorized emergency vehicle displaying a red light or siren, as specified in Section 21806, a person driving a vehicle in an exclusive or preferential use lane shall exit that lane immediately upon determining that the exit can be accomplished with reasonable safety.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Raised pavement markers may be used to simulate painted lines described in this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 1154, Sec. 67. Effective September 30, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "1154",
+    "section": "67",
+    "bill_number": null,
+    "effective_date": "1996-09-30",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "1154",
+  "op_section": "67",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21655.8.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21655.8.html",
+  "content_sha256": "0cb82661ecb2d4dbb071b37d3c47d59dddb501161756af95d58fab0e24603ac5",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

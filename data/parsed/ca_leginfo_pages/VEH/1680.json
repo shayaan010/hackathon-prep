@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1680",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "2",
+  "article_title": "Powers and Duties",
+  "article_range": "1650 - 1685.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.2",
+  "text": "(a) It shall be unlawful for any person to sell, or offer for sale, an appointment with the department.\n\n(b) For purposes of this section, “appointment” means an arrangement to receive a government service at a specified time.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 2. Powers and Duties [1650 - 1685.1]\n##### § 1680\n\n(a) It shall be unlawful for any person to sell, or offer for sale, an appointment with the department.\n\n(b) For purposes of this section, “appointment” means an arrangement to receive a government service at a specified time.\n\n*(Added by Stats. 2019, Ch. 608, Sec. 1. (AB 317) Effective January 1, 2020.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It shall be unlawful for any person to sell, or offer for sale, an appointment with the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For purposes of this section, “appointment” means an arrangement to receive a government service at a specified time.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2019, Ch. 608, Sec. 1. (AB 317) Effective January 1, 2020.)",
+    "action": "Added",
+    "statutes_year": 2019,
+    "chapter": "608",
+    "section": "1",
+    "bill_number": "AB 317",
+    "effective_date": "2020-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2019",
+  "op_chapter": "608",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1680.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1680.html",
+  "content_sha256": "be085bb7a955a9a60353b19ba6d4170faf5ed85ee69bf087e446be7444b2ac0a",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15315",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "7",
+  "chapter_title": "Commercial Motor Vehicle Safety Program",
+  "chapter_range": "15200 - 15326",
+  "article": "7",
+  "article_title": "Sanctions",
+  "article_range": "15300 - 15326",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.7.7",
+  "text": "(a) The department shall not issue a commercial driver’s license to a person during a period in which the person is prohibited from operating a commercial motor vehicle, or the person’s driving privilege is suspended, revoked, or canceled.\n\n(b) No commercial driver’s license may be issued to a person who has a commercial driver’s license issued by any other state unless the person first surrenders the commercial driver’s license issued by the other state, which license shall be returned to the issuing state.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 7. Commercial Motor Vehicle Safety Program [15200 - 15326]\n#### Article 7. Sanctions [15300 - 15326]\n##### § 15315\n\n(a) The department shall not issue a commercial driver’s license to a person during a period in which the person is prohibited from operating a commercial motor vehicle, or the person’s driving privilege is suspended, revoked, or canceled.\n\n(b) No commercial driver’s license may be issued to a person who has a commercial driver’s license issued by any other state unless the person first surrenders the commercial driver’s license issued by the other state, which license shall be returned to the issuing state.\n\n*(Added by Stats. 1988, Ch. 1509, Sec. 9.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall not issue a commercial driver’s license to a person during a period in which the person is prohibited from operating a commercial motor vehicle, or the person’s driving privilege is suspended, revoked, or canceled.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No commercial driver’s license may be issued to a person who has a commercial driver’s license issued by any other state unless the person first surrenders the commercial driver’s license issued by the other state, which license shall be returned to the issuing state.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 1509, Sec. 9.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "1509",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1509",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15315.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15315.html",
+  "content_sha256": "b87ad53333ce1ecba0e456d1c9ac6afdfff18dc3fd77bd4ac91e3317dcd4dde2",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

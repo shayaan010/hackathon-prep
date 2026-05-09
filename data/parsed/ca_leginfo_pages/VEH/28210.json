@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28210",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "6",
+  "chapter_title": "Connected Vehicle Service",
+  "chapter_range": "28200 - 28244",
+  "article": "1",
+  "article_title": "General Provisions",
+  "article_range": "28200 - 28210",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.6.1",
+  "text": "A covered provider or any officer, director, employee, vendor, or agent of a covered provider shall not be subject to liability for any claims deriving from an action taken in compliance with this chapter.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 6. Connected Vehicle Service [28200 - 28244]\n#### Article 1. General Provisions [28200 - 28210]\n##### § 28210\n\nA covered provider or any officer, director, employee, vendor, or agent of a covered provider shall not be subject to liability for any claims deriving from an action taken in compliance with this chapter.\n\n*(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025. Operative July 1, 2025, pursuant to Sec. 28206.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A covered provider or any officer, director, employee, vendor, or agent of a covered provider shall not be subject to liability for any claims deriving from an action taken in compliance with this chapter.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025. Operative July 1, 2025, pursuant to Sec. 28206.)",
+    "action": "Added",
+    "statutes_year": 2024,
+    "chapter": "655",
+    "section": "2",
+    "bill_number": "SB 1394",
+    "effective_date": "2025-01-01",
+    "operative_date": "2025-07-01"
+  },
+  "op_statues": "2024",
+  "op_chapter": "655",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28210.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28210.html",
+  "content_sha256": "b14038d879da92137e54ed852e722cbd3c2b192ac17291b37bed92392bc53e29",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11515.1",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "3",
+  "chapter_title": "Automobile Dismantlers",
+  "chapter_range": "11500 - 11541",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.5",
+  "text": "A salvage pool shall sell a vehicle only with either of the following:\n\n(a) A salvage certificate, except those vehicles described in subdivision (f) of Section 11515, which may be sold with a certificate of title.\n\n(b) A nonrepairable vehicle certificate, except those vehicles described in subdivision (f) of Section 11515.2, which may be sold with a certificate of title.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 3. Automobile Dismantlers [11500 - 11541]\n##### § 11515.1\n\nA salvage pool shall sell a vehicle only with either of the following:\n\n(a) A salvage certificate, except those vehicles described in subdivision (f) of Section 11515, which may be sold with a certificate of title.\n\n(b) A nonrepairable vehicle certificate, except those vehicles described in subdivision (f) of Section 11515.2, which may be sold with a certificate of title.\n\n*(Amended by Stats. 1994, Ch. 1008, Sec. 13. Effective January 1, 1995. Operative July 1, 1995, by Sec. 19 of Ch. 1008.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A salvage pool shall sell a vehicle only with either of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A salvage certificate, except those vehicles described in subdivision (f) of Section 11515, which may be sold with a certificate of title.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A nonrepairable vehicle certificate, except those vehicles described in subdivision (f) of Section 11515.2, which may be sold with a certificate of title.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 1008, Sec. 13. Effective January 1, 1995. Operative July 1, 1995, by Sec. 19 of Ch. 1008.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "1008",
+    "section": "13",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": "1995-07-01"
+  },
+  "op_statues": "1994",
+  "op_chapter": "1008",
+  "op_section": "13",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11515.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11515.1.html",
+  "content_sha256": "8a466db69f7252fcd86daf12b100d91cf612f8b37e6f9f2547b943ba8e1fae6b",
+  "parsed_at": "2026-05-09T17:53:44+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5110",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8.5",
+  "article_title": "Environmental License Plates",
+  "article_range": "5100 - 5112",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.13",
+  "text": "(a) The director may adopt rules and regulations as necessary to carry out the purposes of this article.\n\n(b) Whenever two or more separate series of special plates are authorized under this article in a period of one year, the director shall coordinate the administrative and technical procedures for preparation and issuance of the plates in order to control costs to the maximum extent.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8.5. Environmental License Plates [5100 - 5112]\n##### § 5110\n\n(a) The director may adopt rules and regulations as necessary to carry out the purposes of this article.\n\n(b) Whenever two or more separate series of special plates are authorized under this article in a period of one year, the director shall coordinate the administrative and technical procedures for preparation and issuance of the plates in order to control costs to the maximum extent.\n\n*(Amended by Stats. 1991, Ch. 358, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The director may adopt rules and regulations as necessary to carry out the purposes of this article.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Whenever two or more separate series of special plates are authorized under this article in a period of one year, the director shall coordinate the administrative and technical procedures for preparation and issuance of the plates in order to control costs to the maximum extent.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1991, Ch. 358, Sec. 2.)",
+    "action": "Amended",
+    "statutes_year": 1991,
+    "chapter": "358",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "358",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5110.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5110.html",
+  "content_sha256": "bcbf1354c278e7e0dfb8c5532589209f7b8a80d4cd26dbfeaf4d27df97c0f9a4",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

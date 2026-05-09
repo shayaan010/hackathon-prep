@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2107",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "1",
+  "article_title": "Administration",
+  "article_range": "2100 - 2114",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.1",
+  "text": "The department is under the control of a civil executive officer, known as the Commissioner of the California Highway Patrol. The commissioner shall be appointed by the Governor with the advice and consent of the Senate to serve at the pleasure of the Governor, and shall have resided within the state continuously for at least five years immediately preceding appointment.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 1. Administration [2100 - 2114]\n##### § 2107\n\nThe department is under the control of a civil executive officer, known as the Commissioner of the California Highway Patrol. The commissioner shall be appointed by the Governor with the advice and consent of the Senate to serve at the pleasure of the Governor, and shall have resided within the state continuously for at least five years immediately preceding appointment.\n\n*(Amended by Stats. 2021, Ch. 133, Sec. 103. (SB 272) Effective July 23, 2021.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department is under the control of a civil executive officer, known as the Commissioner of the California Highway Patrol. The commissioner shall be appointed by the Governor with the advice and consent of the Senate to serve at the pleasure of the Governor, and shall have resided within the state continuously for at least five years immediately preceding appointment.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 133, Sec. 103. (SB 272) Effective July 23, 2021.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "133",
+    "section": "103",
+    "bill_number": "SB 272",
+    "effective_date": "2021-07-23",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "133",
+  "op_section": "103",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2107.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2107.html",
+  "content_sha256": "79de198cf98181f631a37c7054523d7f1aaead2aec5d6bea9bc3ba55a957c67d",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

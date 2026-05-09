@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4000.5",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "1",
+  "article_title": "Vehicles Subject to Registration",
+  "article_range": "4000 - 4023",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.1",
+  "text": "(a) The department shall register an autoette, as defined in Section 175, as a motor vehicle.\n\n(b) The owner of an autoette shall remove the license plates from the vehicle and return them to the department when the autoette is removed from a natural island, as described in Section 175.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 1. Vehicles Subject to Registration [4000 - 4023]\n##### § 4000.5\n\n(a) The department shall register an autoette, as defined in Section 175, as a motor vehicle.\n\n(b) The owner of an autoette shall remove the license plates from the vehicle and return them to the department when the autoette is removed from a natural island, as described in Section 175.\n\n*(Added by Stats. 2006, Ch. 322, Sec. 2. Effective January 1, 2007.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall register an autoette, as defined in Section 175, as a motor vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The owner of an autoette shall remove the license plates from the vehicle and return them to the department when the autoette is removed from a natural island, as described in Section 175.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2006, Ch. 322, Sec. 2. Effective January 1, 2007.)",
+    "action": "Added",
+    "statutes_year": 2006,
+    "chapter": "322",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2007-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2006",
+  "op_chapter": "322",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4000.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4000.5.html",
+  "content_sha256": "8d4bc0d0b087949f78580af86a23fca31f16fa9684af2e1b37b01d90d0bcd6fc",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

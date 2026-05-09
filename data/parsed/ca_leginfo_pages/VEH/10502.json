@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "10502",
+  "division": "4",
+  "division_title": "SPECIAL ANTITHEFT LAWS",
+  "division_range": "10500 - 10904",
+  "chapter": "1",
+  "chapter_title": "Reports of Stolen Vehicles",
+  "chapter_range": "10500 - 10505",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "7.1",
+  "text": "(a) The owner or legal owner of a vehicle registered under this code which has been stolen or embezzled may notify the Department of the California Highway Patrol of the theft or embezzlement, but in the event of an embezzlement other than an embezzlement as specified in Section 10855, may make the report only after having procured the issuance of a warrant for the arrest of the person charged with the embezzlement.\n\n(b) Every owner or legal owner who has given any notice under subdivision (a) shall notify the Department of the California Highway Patrol of a recovery of the vehicle.",
+  "markdown": "# Vehicle Code\n## Division 4. SPECIAL ANTITHEFT LAWS [10500 - 10904]\n### Chapter 1. Reports of Stolen Vehicles [10500 - 10505]\n##### § 10502\n\n(a) The owner or legal owner of a vehicle registered under this code which has been stolen or embezzled may notify the Department of the California Highway Patrol of the theft or embezzlement, but in the event of an embezzlement other than an embezzlement as specified in Section 10855, may make the report only after having procured the issuance of a warrant for the arrest of the person charged with the embezzlement.\n\n(b) Every owner or legal owner who has given any notice under subdivision (a) shall notify the Department of the California Highway Patrol of a recovery of the vehicle.\n\n*(Amended by Stats. 1992, Ch. 290, Sec. 2. Effective January 1, 1993.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The owner or legal owner of a vehicle registered under this code which has been stolen or embezzled may notify the Department of the California Highway Patrol of the theft or embezzlement, but in the event of an embezzlement other than an embezzlement as specified in Section 10855, may make the report only after having procured the issuance of a warrant for the arrest of the person charged with the embezzlement.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Every owner or legal owner who has given any notice under subdivision (a) shall notify the Department of the California Highway Patrol of a recovery of the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1992, Ch. 290, Sec. 2. Effective January 1, 1993.)",
+    "action": "Amended",
+    "statutes_year": 1992,
+    "chapter": "290",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "1993-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1992",
+  "op_chapter": "290",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=10502.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/10502.html",
+  "content_sha256": "2497df709ec200896f9b6b016907144e810f51b681ac569baf9324261fbf7ecd",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

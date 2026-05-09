@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35104",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "2",
+  "chapter_title": "Width",
+  "chapter_range": "35100 - 35111",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.2",
+  "text": "The limitations as to width do not apply to the following vehicles except that these vehicles shall not exceed a width of 120 inches:\n\n(a) Special mobile equipment.\n\n(b) Special construction or highway maintenance equipment.\n\n(c) Motor vehicles designed for, and used exclusively to, haul feed for livestock that are exempted from registration by subdivision (c) of Section 36102, except when operated on a highway during darkness.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 2. Width [35100 - 35111]\n##### § 35104\n\nThe limitations as to width do not apply to the following vehicles except that these vehicles shall not exceed a width of 120 inches:\n\n(a) Special mobile equipment.\n\n(b) Special construction or highway maintenance equipment.\n\n(c) Motor vehicles designed for, and used exclusively to, haul feed for livestock that are exempted from registration by subdivision (c) of Section 36102, except when operated on a highway during darkness.\n\n*(Amended by Stats. 1984, Ch. 1021, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The limitations as to width do not apply to the following vehicles except that these vehicles shall not exceed a width of 120 inches:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Special mobile equipment.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Special construction or highway maintenance equipment.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Motor vehicles designed for, and used exclusively to, haul feed for livestock that are exempted from registration by subdivision (c) of Section 36102, except when operated on a highway during darkness.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1984, Ch. 1021, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1984,
+    "chapter": "1021",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "1021",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35104.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35104.html",
+  "content_sha256": "8cbd8bb565cdb4f125ff9697c97342bc2cb415fdf44edd162eb369911fa2f877",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

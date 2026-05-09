@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9859",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "2",
+  "chapter_title": "Registration",
+  "chapter_range": "9850 - 9880",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.2",
+  "text": "All money received by an agent from the sale of certificates of number or temporary certificates of number and use tax shall be kept separate and apart from any other funds of the agent, and shall at all times belong to the state.\n\nIn case of an assignment for the benefit of creditors, receivership, or bankruptcy, the state shall have a preferred claim against the assignee, receiver, or trustee for all moneys owing the state for the sale of certificates as provided in this code and any use tax, and shall not be estopped from asserting such claim by reason of the commingling of funds or otherwise.",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 2. Registration [9850 - 9880]\n##### § 9859\n\nAll money received by an agent from the sale of certificates of number or temporary certificates of number and use tax shall be kept separate and apart from any other funds of the agent, and shall at all times belong to the state.\n\nIn case of an assignment for the benefit of creditors, receivership, or bankruptcy, the state shall have a preferred claim against the assignee, receiver, or trustee for all moneys owing the state for the sale of certificates as provided in this code and any use tax, and shall not be estopped from asserting such claim by reason of the commingling of funds or otherwise.\n\n*(Amended by Stats. 2009, Ch. 500, Sec. 61. (AB 1059) Effective January 1, 2010.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "All money received by an agent from the sale of certificates of number or temporary certificates of number and use tax shall be kept separate and apart from any other funds of the agent, and shall at all times belong to the state.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "In case of an assignment for the benefit of creditors, receivership, or bankruptcy, the state shall have a preferred claim against the assignee, receiver, or trustee for all moneys owing the state for the sale of certificates as provided in this code and any use tax, and shall not be estopped from asserting such claim by reason of the commingling of funds or otherwise.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2009, Ch. 500, Sec. 61. (AB 1059) Effective January 1, 2010.)",
+    "action": "Amended",
+    "statutes_year": 2009,
+    "chapter": "500",
+    "section": "61",
+    "bill_number": "AB 1059",
+    "effective_date": "2010-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2009",
+  "op_chapter": "500",
+  "op_section": "61",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9859.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9859.html",
+  "content_sha256": "fcd18b80936daa35c525d26dee7e4a12ee0a4eb4c8abb4fec2190bc504d4ced7",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

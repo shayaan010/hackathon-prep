@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11100",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "1",
+  "chapter_title": "Driving Schools and Driving Instructors",
+  "chapter_range": "11100 - 11114",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.1",
+  "text": "(a) No person shall own or operate a driving school or give driving instruction for compensation, unless a license therefor has been secured from the department.\n\n(b) This section does not apply to the ownership or operation of any school, or the giving of instruction, for the driving of motortrucks of three or more axles which are more than 6,000 pounds unladen weight.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 1. Driving Schools and Driving Instructors [11100 - 11114]\n##### § 11100\n\n(a) No person shall own or operate a driving school or give driving instruction for compensation, unless a license therefor has been secured from the department.\n\n(b) This section does not apply to the ownership or operation of any school, or the giving of instruction, for the driving of motortrucks of three or more axles which are more than 6,000 pounds unladen weight.\n\n*(Amended by Stats. 1988, Ch. 1399, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall own or operate a driving school or give driving instruction for compensation, unless a license therefor has been secured from the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to the ownership or operation of any school, or the giving of instruction, for the driving of motortrucks of three or more axles which are more than 6,000 pounds unladen weight.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1988, Ch. 1399, Sec. 2.)",
+    "action": "Amended",
+    "statutes_year": 1988,
+    "chapter": "1399",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1399",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11100.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11100.html",
+  "content_sha256": "f9e9afc6f5dd8e17ae48dd9ffbc38d295bce887cb750730db18f81953adeed7d",
+  "parsed_at": "2026-05-09T17:53:44+00:00",
+  "parser_version": "1"
+}

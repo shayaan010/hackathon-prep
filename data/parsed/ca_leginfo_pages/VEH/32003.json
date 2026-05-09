@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "32003",
+  "division": "14.1",
+  "division_title": "TRANSPORTATION OF HAZARDOUS MATERIAL",
+  "division_range": "32000 - 32053",
+  "chapter": "1",
+  "chapter_title": "Licensing",
+  "chapter_range": "32000 - 32004",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "21.1",
+  "text": "(a) All fees collected by the department pursuant to the issuance or renewal of a license for the transportation of hazardous material shall be deposited in the Motor Vehicle Account of the State Transportation Fund.\n\n(b) All moneys collected from these fees shall be used for the support of the hazardous materials inspection and licensing program of the department upon appropriation therefor by the Legislature.",
+  "markdown": "# Vehicle Code\n## Division 14.1. TRANSPORTATION OF HAZARDOUS MATERIAL [32000 - 32053]\n### Chapter 1. Licensing [32000 - 32004]\n##### § 32003\n\n(a) All fees collected by the department pursuant to the issuance or renewal of a license for the transportation of hazardous material shall be deposited in the Motor Vehicle Account of the State Transportation Fund.\n\n(b) All moneys collected from these fees shall be used for the support of the hazardous materials inspection and licensing program of the department upon appropriation therefor by the Legislature.\n\n*(Added by Stats. 1981, Ch. 860, Sec. 13.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "All fees collected by the department pursuant to the issuance or renewal of a license for the transportation of hazardous material shall be deposited in the Motor Vehicle Account of the State Transportation Fund.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "All moneys collected from these fees shall be used for the support of the hazardous materials inspection and licensing program of the department upon appropriation therefor by the Legislature.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1981, Ch. 860, Sec. 13.)",
+    "action": "Added",
+    "statutes_year": 1981,
+    "chapter": "860",
+    "section": "13",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1981",
+  "op_chapter": "860",
+  "op_section": "13",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=32003.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/32003.html",
+  "content_sha256": "9a093c24f84fc209716228cd0362afd9a4a6b73a6401ccddc34548c4043a7395",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

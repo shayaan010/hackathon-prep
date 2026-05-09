@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40268",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "4",
+  "article_title": "Procedure on Toll Evasion Violations",
+  "article_range": "40250 - 40273",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.6",
+  "text": "The processing agency shall not file a civil judgment with the court relating to a toll evasion violation which has been filed with the department unless the processing agency has determined that the registration of the vehicle has not been renewed for 60 days beyond the renewal date and the notice has not been collected by the department pursuant to Section 4770.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 4. Procedure on Toll Evasion Violations [40250 - 40273]\n##### § 40268\n\nThe processing agency shall not file a civil judgment with the court relating to a toll evasion violation which has been filed with the department unless the processing agency has determined that the registration of the vehicle has not been renewed for 60 days beyond the renewal date and the notice has not been collected by the department pursuant to Section 4770.\n\n*(Added by Stats. 1995, Ch. 739, Sec. 8. Effective January 1, 1996.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The processing agency shall not file a civil judgment with the court relating to a toll evasion violation which has been filed with the department unless the processing agency has determined that the registration of the vehicle has not been renewed for 60 days beyond the renewal date and the notice has not been collected by the department pursuant to Section 4770.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1995, Ch. 739, Sec. 8. Effective January 1, 1996.)",
+    "action": "Added",
+    "statutes_year": 1995,
+    "chapter": "739",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": "1996-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1995",
+  "op_chapter": "739",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40268.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40268.html",
+  "content_sha256": "fe9d0cbef82a7171280933c208e770404e971fe5e849003f1f2a52413a00cec4",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

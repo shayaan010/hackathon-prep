@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25260.4",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "7",
+  "article_title": "Flashing and Colored Lights",
+  "article_range": "25250 - 25282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.7",
+  "text": "Any hazardous substance spill response vehicle, under contract to the Department of Transportation for the cleanup of hazardous substance spills, may display flashing amber warning lights to the front, sides, or rear of the vehicle while it is engaged in the actual cleanup of the spill. The warning lights shall be removed or covered with opaque material whenever the vehicle is not actually engaged in the cleanup of a hazardous substance at the scene of the spill.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 7. Flashing and Colored Lights [25250 - 25282]\n##### § 25260.4\n\nAny hazardous substance spill response vehicle, under contract to the Department of Transportation for the cleanup of hazardous substance spills, may display flashing amber warning lights to the front, sides, or rear of the vehicle while it is engaged in the actual cleanup of the spill. The warning lights shall be removed or covered with opaque material whenever the vehicle is not actually engaged in the cleanup of a hazardous substance at the scene of the spill.\n\n*(Added by Stats. 1984, Ch. 887, Sec. 1. Effective September 5, 1984.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any hazardous substance spill response vehicle, under contract to the Department of Transportation for the cleanup of hazardous substance spills, may display flashing amber warning lights to the front, sides, or rear of the vehicle while it is engaged in the actual cleanup of the spill. The warning lights shall be removed or covered with opaque material whenever the vehicle is not actually engaged in the cleanup of a hazardous substance at the scene of the spill.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1984, Ch. 887, Sec. 1. Effective September 5, 1984.)",
+    "action": "Added",
+    "statutes_year": 1984,
+    "chapter": "887",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1984-09-05",
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "887",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25260.4.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25260.4.html",
+  "content_sha256": "2a2be98cd50c6c8a046e7eea6fbe73a49b24ed20e0a35e6c4d7361c444d0f216",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

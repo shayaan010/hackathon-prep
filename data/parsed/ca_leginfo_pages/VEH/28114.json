@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28114",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "16",
+  "article_title": "Methanol or Ethanol Fueled Vehicles",
+  "article_range": "28110 - 28114",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.22",
+  "text": "(a) Every heavy-duty vehicle operated by a transit authority or transit district, or owned by a private entity providing transit service under contract with a transit district or transportation authority, and used to transport persons for compensation shall meet the emission standards adopted by the State Air Resources Board pursuant to Section 43806 of the Health and Safety Code.\n\n(b) As used in this section, “heavy-duty” has the same meaning as defined in Section 39033 of the Health and Safety Code.\n\n(c) This section applies to all new heavy-duty motor vehicles purchased on or after January 1, 1996, and all new or replacement engines purchased on or after January 1, 1996, for use in heavy-duty vehicles.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 16. Methanol or Ethanol Fueled Vehicles [28110 - 28114]\n##### § 28114\n\n(a) Every heavy-duty vehicle operated by a transit authority or transit district, or owned by a private entity providing transit service under contract with a transit district or transportation authority, and used to transport persons for compensation shall meet the emission standards adopted by the State Air Resources Board pursuant to Section 43806 of the Health and Safety Code.\n\n(b) As used in this section, “heavy-duty” has the same meaning as defined in Section 39033 of the Health and Safety Code.\n\n(c) This section applies to all new heavy-duty motor vehicles purchased on or after January 1, 1996, and all new or replacement engines purchased on or after January 1, 1996, for use in heavy-duty vehicles.\n\n*(Added by Stats. 1991, Ch. 496, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every heavy-duty vehicle operated by a transit authority or transit district, or owned by a private entity providing transit service under contract with a transit district or transportation authority, and used to transport persons for compensation shall meet the emission standards adopted by the State Air Resources Board pursuant to Section 43806 of the Health and Safety Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "As used in this section, “heavy-duty” has the same meaning as defined in Section 39033 of the Health and Safety Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section applies to all new heavy-duty motor vehicles purchased on or after January 1, 1996, and all new or replacement engines purchased on or after January 1, 1996, for use in heavy-duty vehicles.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1991, Ch. 496, Sec. 4.)",
+    "action": "Added",
+    "statutes_year": 1991,
+    "chapter": "496",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "496",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28114.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28114.html",
+  "content_sha256": "fb449ce7b40124d573f8d806b375fc0c910d88d72ec7c69a140245a73d27caef",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

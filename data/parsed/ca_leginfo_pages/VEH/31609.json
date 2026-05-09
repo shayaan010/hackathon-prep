@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "31609",
+  "division": "14",
+  "division_title": "TRANSPORTATION OF EXPLOSIVES",
+  "division_range": "31600 - 31620",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "20",
+  "text": "Every person operating a vehicle or combination of vehicles in the transportation of explosives subject to this division shall complete a record of every inspection which is required under Sections 31607 and 31608 in such form as approved by the Department of the California Highway Patrol showing the time and place of every inspection. The person making the inspection shall certify the fact in the record. The forms may be based upon the type used by the United States Department of Transportation. The record of every inspection shall be made at the time such inspection is conducted.\n\nThe driver of the vehicle shall display the record upon demand of any member of the California Highway Patrol or any police officer of a city who is on duty for the exclusive or main purpose of enforcing the provisions of this code.",
+  "markdown": "# Vehicle Code\n## Division 14. TRANSPORTATION OF EXPLOSIVES [31600 - 31620]\n##### § 31609\n\nEvery person operating a vehicle or combination of vehicles in the transportation of explosives subject to this division shall complete a record of every inspection which is required under Sections 31607 and 31608 in such form as approved by the Department of the California Highway Patrol showing the time and place of every inspection. The person making the inspection shall certify the fact in the record. The forms may be based upon the type used by the United States Department of Transportation. The record of every inspection shall be made at the time such inspection is conducted.\n\nThe driver of the vehicle shall display the record upon demand of any member of the California Highway Patrol or any police officer of a city who is on duty for the exclusive or main purpose of enforcing the provisions of this code.\n\n*(Amended by Stats. 1970, Ch. 1315.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every person operating a vehicle or combination of vehicles in the transportation of explosives subject to this division shall complete a record of every inspection which is required under Sections 31607 and 31608 in such form as approved by the Department of the California Highway Patrol showing the time and place of every inspection. The person making the inspection shall certify the fact in the record. The forms may be based upon the type used by the United States Department of Transportation. The record of every inspection shall be made at the time such inspection is conducted.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The driver of the vehicle shall display the record upon demand of any member of the California Highway Patrol or any police officer of a city who is on duty for the exclusive or main purpose of enforcing the provisions of this code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1970, Ch. 1315.)",
+    "action": "Amended",
+    "statutes_year": 1970,
+    "chapter": "1315",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1970",
+  "op_chapter": "1315",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=31609.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/31609.html",
+  "content_sha256": "1e4781821382366f5c410d101550e0f453c8fd864e0aff0e74c643f3bc8bd257",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

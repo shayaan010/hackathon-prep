@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35721",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "4",
+  "article_title": "Local Authorities",
+  "article_range": "35700 - 35722",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.5",
+  "text": "No ordinance shall be adopted pursuant to Section 35717 except upon notice and hearing in the manner prescribed in this section.\n\nNotice of hearing shall be published as prescribed in Section 6064 of the Government Code. The notice shall advise all interested parties that they may submit written or oral objections to the proposed action and shall designate a time and place for presentation of such objections. The time for submission of objections shall not expire, and the hearing may not be held, less than 60 days after the first publication of notice. The hearing shall be held before the board of supervisors and interested parties shall be afforded an adequate opportunity to be heard with respect to their objections.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 4. Local Authorities [35700 - 35722]\n##### § 35721\n\nNo ordinance shall be adopted pursuant to Section 35717 except upon notice and hearing in the manner prescribed in this section.\n\nNotice of hearing shall be published as prescribed in Section 6064 of the Government Code. The notice shall advise all interested parties that they may submit written or oral objections to the proposed action and shall designate a time and place for presentation of such objections. The time for submission of objections shall not expire, and the hearing may not be held, less than 60 days after the first publication of notice. The hearing shall be held before the board of supervisors and interested parties shall be afforded an adequate opportunity to be heard with respect to their objections.\n\n*(Added by Stats. 1959, Ch. 1732.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No ordinance shall be adopted pursuant to Section 35717 except upon notice and hearing in the manner prescribed in this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Notice of hearing shall be published as prescribed in Section 6064 of the Government Code. The notice shall advise all interested parties that they may submit written or oral objections to the proposed action and shall designate a time and place for presentation of such objections. The time for submission of objections shall not expire, and the hearing may not be held, less than 60 days after the first publication of notice. The hearing shall be held before the board of supervisors and interested parties shall be afforded an adequate opportunity to be heard with respect to their objections.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1959, Ch. 1732.)",
+    "action": "Added",
+    "statutes_year": 1959,
+    "chapter": "1732",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "1732",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35721.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35721.html",
+  "content_sha256": "3cfca2c15f494fb7bc40aac1d04837236b64ecb7e0a19213a996be2153528d15",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

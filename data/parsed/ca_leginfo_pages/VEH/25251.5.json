@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25251.5",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "7",
+  "article_title": "Flashing and Colored Lights",
+  "article_range": "25250 - 25282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.7",
+  "text": "(a) Any motor vehicle may also be equipped with a system in which an amber light is center mounted on the rear of a vehicle to communicate a component of deceleration of the vehicle, and which light pulses in a controlled fashion at a rate which varies exponentially with a component of deceleration.\n\n(b) Any motor vehicle may be equipped with two amber lamps on the rear of the vehicle which operate simultaneously with not more than four flashes within four seconds after the accelerator pedal is in the deceleration position and which are not lighted at any other time. The lamps shall be mounted at the same height, with one lamp located on each side of the vertical centerline of the vehicle, not higher than the bottom of the rear window, or if the vehicle has no rear window, not higher than 60 inches. The light output from each of the lamps shall not exceed 200 candlepower at any angle horizontal or above. The amber lamps may be used either separately or in combination with another lamp.\n\n(c) Any stoplamp or supplemental stoplamp required or permitted by Section 24603 may be equipped so as to flash not more than four times within the first four seconds after actuation by application of the brakes.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 7. Flashing and Colored Lights [25250 - 25282]\n##### § 25251.5\n\n(a) Any motor vehicle may also be equipped with a system in which an amber light is center mounted on the rear of a vehicle to communicate a component of deceleration of the vehicle, and which light pulses in a controlled fashion at a rate which varies exponentially with a component of deceleration.\n\n(b) Any motor vehicle may be equipped with two amber lamps on the rear of the vehicle which operate simultaneously with not more than four flashes within four seconds after the accelerator pedal is in the deceleration position and which are not lighted at any other time. The lamps shall be mounted at the same height, with one lamp located on each side of the vertical centerline of the vehicle, not higher than the bottom of the rear window, or if the vehicle has no rear window, not higher than 60 inches. The light output from each of the lamps shall not exceed 200 candlepower at any angle horizontal or above. The amber lamps may be used either separately or in combination with another lamp.\n\n(c) Any stoplamp or supplemental stoplamp required or permitted by Section 24603 may be equipped so as to flash not more than four times within the first four seconds after actuation by application of the brakes.\n\n*(Amended by Stats. 1983, Ch. 410, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any motor vehicle may also be equipped with a system in which an amber light is center mounted on the rear of a vehicle to communicate a component of deceleration of the vehicle, and which light pulses in a controlled fashion at a rate which varies exponentially with a component of deceleration.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any motor vehicle may be equipped with two amber lamps on the rear of the vehicle which operate simultaneously with not more than four flashes within four seconds after the accelerator pedal is in the deceleration position and which are not lighted at any other time. The lamps shall be mounted at the same height, with one lamp located on each side of the vertical centerline of the vehicle, not higher than the bottom of the rear window, or if the vehicle has no rear window, not higher than 60 inches. The light output from each of the lamps shall not exceed 200 candlepower at any angle horizontal or above. The amber lamps may be used either separately or in combination with another lamp.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any stoplamp or supplemental stoplamp required or permitted by Section 24603 may be equipped so as to flash not more than four times within the first four seconds after actuation by application of the brakes.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 410, Sec. 3.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "410",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "410",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25251.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25251.5.html",
+  "content_sha256": "b4f4197a4d8ccb3eab3629a5175c0daf913f4c539d7140df85d358ff6a25f5de",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

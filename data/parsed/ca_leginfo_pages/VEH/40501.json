@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40501",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "2",
+  "article_title": "Release Upon Promise to Appear",
+  "article_range": "40500 - 40522",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.2",
+  "text": "(a) The time specified in the notice to appear shall be a specific date which is at least 21 days after the arrest, except that the court having jurisdiction over the offense charged may authorize the arresting officer to specify on the notice that an appearance may be made before the time specified.\n\n(b) In the case of juveniles, the court having jurisdiction over the offense charged may require the arresting officer to indicate on the notice “to be notified” rather than specifying a specific date pursuant to subdivision (a).",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 2. Release Upon Promise to Appear [40500 - 40522]\n##### § 40501\n\n(a) The time specified in the notice to appear shall be a specific date which is at least 21 days after the arrest, except that the court having jurisdiction over the offense charged may authorize the arresting officer to specify on the notice that an appearance may be made before the time specified.\n\n(b) In the case of juveniles, the court having jurisdiction over the offense charged may require the arresting officer to indicate on the notice “to be notified” rather than specifying a specific date pursuant to subdivision (a).\n\n*(Amended by Stats. 1986, Ch. 557, Sec. 1. Effective August 22, 1986.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The time specified in the notice to appear shall be a specific date which is at least 21 days after the arrest, except that the court having jurisdiction over the offense charged may authorize the arresting officer to specify on the notice that an appearance may be made before the time specified.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "In the case of juveniles, the court having jurisdiction over the offense charged may require the arresting officer to indicate on the notice “to be notified” rather than specifying a specific date pursuant to subdivision (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1986, Ch. 557, Sec. 1. Effective August 22, 1986.)",
+    "action": "Amended",
+    "statutes_year": 1986,
+    "chapter": "557",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1986-08-22",
+    "operative_date": null
+  },
+  "op_statues": "1986",
+  "op_chapter": "557",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40501.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40501.html",
+  "content_sha256": "8d470b3269891f0e50269b08a30b7bcc5244ae41b54312c8dff9dd9334892186",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

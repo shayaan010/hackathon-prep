@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "42001.20",
+  "division": "18",
+  "division_title": "PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+  "division_range": "42000 - 42277",
+  "chapter": "1",
+  "chapter_title": "Penalties",
+  "chapter_range": "42000 - 42032",
+  "article": "1",
+  "article_title": "Public Offenses",
+  "article_range": "42000 - 42010",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "35.1.1",
+  "text": "Notwithstanding any other provision of law, a person who violates subdivision (b) or (c) of Section 27000 is punishable as follows:\n\n(a) By a fine of one hundred fifty dollars ($150).\n\n(b) For a second infraction occurring within one year of a prior infraction that resulted in a conviction, a fine not exceeding two hundred dollars ($200).\n\n(c) For a third or any subsequent infraction occurring within one year of two or more prior infractions that resulted in convictions, a fine, not exceeding two hundred fifty dollars ($250).",
+  "markdown": "# Vehicle Code\n## Division 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES [42000 - 42277]\n### Chapter 1. Penalties [42000 - 42032]\n#### Article 1. Public Offenses [42000 - 42010]\n##### § 42001.20\n\nNotwithstanding any other provision of law, a person who violates subdivision (b) or (c) of Section 27000 is punishable as follows:\n\n(a) By a fine of one hundred fifty dollars ($150).\n\n(b) For a second infraction occurring within one year of a prior infraction that resulted in a conviction, a fine not exceeding two hundred dollars ($200).\n\n(c) For a third or any subsequent infraction occurring within one year of two or more prior infractions that resulted in convictions, a fine, not exceeding two hundred fifty dollars ($250).\n\n*(Added by Stats. 2005, Ch. 166, Sec. 4. Effective January 1, 2006.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding any other provision of law, a person who violates subdivision (b) or (c) of Section 27000 is punishable as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "By a fine of one hundred fifty dollars ($150).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For a second infraction occurring within one year of a prior infraction that resulted in a conviction, a fine not exceeding two hundred dollars ($200).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "For a third or any subsequent infraction occurring within one year of two or more prior infractions that resulted in convictions, a fine, not exceeding two hundred fifty dollars ($250).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2005, Ch. 166, Sec. 4. Effective January 1, 2006.)",
+    "action": "Added",
+    "statutes_year": 2005,
+    "chapter": "166",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "2006-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2005",
+  "op_chapter": "166",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42001.20.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/42001.20.html",
+  "content_sha256": "1a5fd8be0e564a941d85c547f4dba21f8094659ee3691b8e0e9211c2da055612",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

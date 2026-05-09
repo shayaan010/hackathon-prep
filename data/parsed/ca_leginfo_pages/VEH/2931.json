@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2931",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "5",
+  "chapter_title": "California Traffic Safety Program",
+  "chapter_range": "2900 - 2935",
+  "article": "2",
+  "article_title": "Motorcycle Safety",
+  "article_range": "2930 - 2935",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.5.2",
+  "text": "A motorcyclist safety program is hereby established in the Department of the California Highway Patrol, to be administered by the commissioner.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 5. California Traffic Safety Program [2900 - 2935]\n#### Article 2. Motorcycle Safety [2930 - 2935]\n##### § 2931\n\nA motorcyclist safety program is hereby established in the Department of the California Highway Patrol, to be administered by the commissioner.\n\n*(Added by Stats. 1985, Ch. 547, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A motorcyclist safety program is hereby established in the Department of the California Highway Patrol, to be administered by the commissioner.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1985, Ch. 547, Sec. 2.)",
+    "action": "Added",
+    "statutes_year": 1985,
+    "chapter": "547",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1985",
+  "op_chapter": "547",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2931.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2931.html",
+  "content_sha256": "58a19988955db952c9cbf48ae3a741855f13582e32d8b8ca77b16077a3dc70bc",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

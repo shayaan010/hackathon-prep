@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27150.1",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "2",
+  "article_title": "Exhaust Systems",
+  "article_range": "27150 - 27159",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.2",
+  "text": "No person engaged in a business that involves the selling of motor vehicle exhaust systems, or parts thereof, including, but not limited to, mufflers, shall offer for sale, sell, or install, a motor vehicle exhaust system, or part thereof, including, but not limited to, a muffler, unless it meets the regulations and standards applicable pursuant to this article. Motor vehicle exhaust systems or parts thereof include, but are not limited to, nonoriginal exhaust equipment.\n\nA violation of this section is a misdemeanor.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 2. Exhaust Systems [27150 - 27159]\n##### § 27150.1\n\nNo person engaged in a business that involves the selling of motor vehicle exhaust systems, or parts thereof, including, but not limited to, mufflers, shall offer for sale, sell, or install, a motor vehicle exhaust system, or part thereof, including, but not limited to, a muffler, unless it meets the regulations and standards applicable pursuant to this article. Motor vehicle exhaust systems or parts thereof include, but are not limited to, nonoriginal exhaust equipment.\n\nA violation of this section is a misdemeanor.\n\n*(Amended by Stats. 2002, Ch. 569, Sec. 2. Effective January 1, 2003.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person engaged in a business that involves the selling of motor vehicle exhaust systems, or parts thereof, including, but not limited to, mufflers, shall offer for sale, sell, or install, a motor vehicle exhaust system, or part thereof, including, but not limited to, a muffler, unless it meets the regulations and standards applicable pursuant to this article. Motor vehicle exhaust systems or parts thereof include, but are not limited to, nonoriginal exhaust equipment.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "A violation of this section is a misdemeanor.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2002, Ch. 569, Sec. 2. Effective January 1, 2003.)",
+    "action": "Amended",
+    "statutes_year": 2002,
+    "chapter": "569",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2003-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2002",
+  "op_chapter": "569",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27150.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27150.1.html",
+  "content_sha256": "1d8abdbcbd368e62db94f778974d4df66a44a7ea30a867851a742a4dcd23d75b",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

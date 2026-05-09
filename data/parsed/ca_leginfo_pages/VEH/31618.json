@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "31618",
+  "division": "14",
+  "division_title": "TRANSPORTATION OF EXPLOSIVES",
+  "division_range": "31600 - 31620",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "20",
+  "text": "Where not specifically provided otherwise, it is a misdemeanor for any person to violate any provision of this division. Every person convicted of a misdemeanor for a violation of any of the provisions of this division shall be punished as follows:\n\n(a) For a first violation, by a fine of not less than one thousand dollars ($1,000), or by imprisonment for not more than six months, or by both fine and imprisonment.\n\n(b) For a second or subsequent violation, by a fine of not less than two thousand dollars ($2,000) or by imprisonment for not more than six months, or by both fine and imprisonment.",
+  "markdown": "# Vehicle Code\n## Division 14. TRANSPORTATION OF EXPLOSIVES [31600 - 31620]\n##### § 31618\n\nWhere not specifically provided otherwise, it is a misdemeanor for any person to violate any provision of this division. Every person convicted of a misdemeanor for a violation of any of the provisions of this division shall be punished as follows:\n\n(a) For a first violation, by a fine of not less than one thousand dollars ($1,000), or by imprisonment for not more than six months, or by both fine and imprisonment.\n\n(b) For a second or subsequent violation, by a fine of not less than two thousand dollars ($2,000) or by imprisonment for not more than six months, or by both fine and imprisonment.\n\n*(Amended by Stats. 1988, Ch. 1384, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Where not specifically provided otherwise, it is a misdemeanor for any person to violate any provision of this division. Every person convicted of a misdemeanor for a violation of any of the provisions of this division shall be punished as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "For a first violation, by a fine of not less than one thousand dollars ($1,000), or by imprisonment for not more than six months, or by both fine and imprisonment.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For a second or subsequent violation, by a fine of not less than two thousand dollars ($2,000) or by imprisonment for not more than six months, or by both fine and imprisonment.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1988, Ch. 1384, Sec. 3.)",
+    "action": "Amended",
+    "statutes_year": 1988,
+    "chapter": "1384",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1384",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=31618.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/31618.html",
+  "content_sha256": "293cd9ce37572ffee6c36551731a24dceb9cf63e12198248d459ac6471a515a0",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35105",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "2",
+  "chapter_title": "Width",
+  "chapter_range": "35100 - 35111",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.2",
+  "text": "Any city organized under a freeholders’ charter may by ordinance permit a total outside width of vehicle and load in excess of the limits set forth in Sections 35100, 35101, 35102, 35104, and 35106 when the vehicle is used exclusively within the boundary limits of the city.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 2. Width [35100 - 35111]\n##### § 35105\n\nAny city organized under a freeholders’ charter may by ordinance permit a total outside width of vehicle and load in excess of the limits set forth in Sections 35100, 35101, 35102, 35104, and 35106 when the vehicle is used exclusively within the boundary limits of the city.\n\n*(Amended by Stats. 1983, Ch. 145, Sec. 4. Effective June 28, 1983.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any city organized under a freeholders’ charter may by ordinance permit a total outside width of vehicle and load in excess of the limits set forth in Sections 35100, 35101, 35102, 35104, and 35106 when the vehicle is used exclusively within the boundary limits of the city.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 145, Sec. 4. Effective June 28, 1983.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "145",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "1983-06-28",
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "145",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35105.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35105.html",
+  "content_sha256": "e7d611a376cc957acb5640f86f21d969c52ddafe1f7ceb7911c3877b57cc52e8",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

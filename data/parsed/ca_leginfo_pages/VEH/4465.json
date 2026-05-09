@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4465",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "4",
+  "article_title": "Evidences of Registration",
+  "article_range": "4450 - 4467",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.4",
+  "text": "(a) A legal owner of record of a vehicle may request, and the department shall furnish, information regarding the current registration status of the vehicle, including the license plate number and address of the registered owner of the vehicle. The department may charge a fee to pay for the cost of furnishing this information.\n\n(b) (1) By January 1, 2010, the department shall be in full compliance with the federal Anti Car Theft Act of 1992 (P.L. 102-519) and the United States Department of Justice (DOJ) rules governing the federal National Motor Vehicle Title Information System (NMVTIS) (49 U.S.C. Sec. 30501 et seq.), to the extent practicable.\n\n(2) Notwithstanding paragraph (1), by January 1, 2010, the department shall eliminate any restrictions to consumer access to titling, branding, and theft information provided by the department to NMVTIS, to ensure that prospective purchasers have instant and reliable access to California’s data.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 4. Evidences of Registration [4450 - 4467]\n##### § 4465\n\n(a) A legal owner of record of a vehicle may request, and the department shall furnish, information regarding the current registration status of the vehicle, including the license plate number and address of the registered owner of the vehicle. The department may charge a fee to pay for the cost of furnishing this information.\n\n(b) (1) By January 1, 2010, the department shall be in full compliance with the federal Anti Car Theft Act of 1992 (P.L. 102-519) and the United States Department of Justice (DOJ) rules governing the federal National Motor Vehicle Title Information System (NMVTIS) (49 U.S.C. Sec. 30501 et seq.), to the extent practicable.\n\n    (2) Notwithstanding paragraph (1), by January 1, 2010, the department shall eliminate any restrictions to consumer access to titling, branding, and theft information provided by the department to NMVTIS, to ensure that prospective purchasers have instant and reliable access to California’s data.\n\n*(Amended by Stats. 2010, Ch. 328, Sec. 226. (SB 1330) Effective January 1, 2011.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A legal owner of record of a vehicle may request, and the department shall furnish, information regarding the current registration status of the vehicle, including the license plate number and address of the registered owner of the vehicle. The department may charge a fee to pay for the cost of furnishing this information.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "(1) By January 1, 2010, the department shall be in full compliance with the federal Anti Car Theft Act of 1992 (P.L. 102-519) and the United States Department of Justice (DOJ) rules governing the federal National Motor Vehicle Title Information System (NMVTIS) (49 U.S.C. Sec. 30501 et seq.), to the extent practicable.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "Notwithstanding paragraph (1), by January 1, 2010, the department shall eliminate any restrictions to consumer access to titling, branding, and theft information provided by the department to NMVTIS, to ensure that prospective purchasers have instant and reliable access to California’s data.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2010, Ch. 328, Sec. 226. (SB 1330) Effective January 1, 2011.)",
+    "action": "Amended",
+    "statutes_year": 2010,
+    "chapter": "328",
+    "section": "226",
+    "bill_number": "SB 1330",
+    "effective_date": "2011-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2010",
+  "op_chapter": "328",
+  "op_section": "226",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4465.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4465.html",
+  "content_sha256": "d7883a7b2e6776abf8073f05155e9f94d7518fda6fbbbf7546563e7e6478902d",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

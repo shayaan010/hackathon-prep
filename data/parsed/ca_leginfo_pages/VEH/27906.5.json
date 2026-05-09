@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27906.5",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "8",
+  "article_title": "Signs",
+  "article_range": "27900 - 27910",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.13",
+  "text": "Every youth bus, when operated for the transportation of school pupils, shall bear, upon the front and rear of the youth bus, a plainly visible sign containing the words “YOUTH BUS” in letters not less than eight inches in height. The letters on youth bus signs shall be of proportionate width and the letters shall be in sharp contrast to the background.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 8. Signs [27900 - 27910]\n##### § 27906.5\n\nEvery youth bus, when operated for the transportation of school pupils, shall bear, upon the front and rear of the youth bus, a plainly visible sign containing the words “YOUTH BUS” in letters not less than eight inches in height. The letters on youth bus signs shall be of proportionate width and the letters shall be in sharp contrast to the background.\n\n*(Added by Stats. 1982, Ch. 383, Sec. 6. Effective July 4, 1982. Operative on date (not sooner than October 1, 1982, or later than January 1, 1983) prescribed by Sec. 13 of Ch. 383.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every youth bus, when operated for the transportation of school pupils, shall bear, upon the front and rear of the youth bus, a plainly visible sign containing the words “YOUTH BUS” in letters not less than eight inches in height. The letters on youth bus signs shall be of proportionate width and the letters shall be in sharp contrast to the background.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1982, Ch. 383, Sec. 6. Effective July 4, 1982. Operative on date (not sooner than October 1, 1982, or later than January 1, 1983) prescribed by Sec. 13 of Ch. 383.)",
+    "action": "Added",
+    "statutes_year": 1982,
+    "chapter": "383",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "1982-07-04",
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "383",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27906.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27906.5.html",
+  "content_sha256": "3c5021d4e25b1099e1916689038eff136576b8ad6f161f7ea4ab523b5e0bed30",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

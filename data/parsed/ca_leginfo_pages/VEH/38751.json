@@ -1,0 +1,137 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38751",
+  "division": "16.6",
+  "division_title": "Autonomous Vehicles",
+  "division_range": "38750 - 38755",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "32",
+  "text": "(a) For purposes of this section, the following definitions apply:\n\n(1) “Emergency geofencing message” means a message delivered using commonly available communication methods to identify a location using a street address, intersection, coordinates, or any other reasonable and customary way of identifying a location, that directs an autonomous vehicle to leave or avoid an area because of an emergency.\n\n(2) “Emergency response official” includes, but is not limited to, emergency dispatchers, peace officers as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, and first responders.\n\n(3) “Emergency” means a sudden, unexpected occurrence demanding immediate action to prevent or mitigate loss or damage to life, health, property, or essential public services.\n\n(b) A manufacturer shall comply with all of the following requirements:\n\n(1) (A) A manufacturer operating an autonomous vehicle under a testing permit or deployment permit issued by the department shall maintain a dedicated emergency response telephone line that is available for emergency response officials during all hours when an autonomous vehicle is on a public road. The telephone line shall be available at no cost to public agencies.\n\n(B) The manufacturer shall continuously monitor the status of each autonomous vehicle on a public road and shall equip and staff the telephone line to ensure that calls are picked up within 30 seconds by a remote human operator who has situational awareness of all autonomous vehicles on public roads.\n\n(C) The remote human operator shall have the ability to immobilize the autonomous vehicle, allow an emergency response official to move the autonomous vehicle, or cause the autonomous vehicle to move as directed by an emergency response official.\n\n(2) (A) A manufacturer operating an autonomous vehicle under a testing permit or deployment permit issued by the department shall equip each autonomous vehicle with a two-way voice communication device that enables emergency response officials that are near the vehicle to communicate effectively with a remote human operator who has situational awareness about the autonomous vehicle. The manufacturer shall ensure that an emergency response official is able to reach a remote human operator within 30 seconds after making a request through the device.\n\n(B) The remote human operator shall have the ability to immobilize the autonomous vehicle, allow an emergency response official to move the autonomous vehicle, or cause the autonomous vehicle to move as directed by an emergency response official.\n\n(3) Autonomous vehicles equipped with an override system in the vehicle that allows someone physically present to move the vehicle, pursuant to subparagraphs (A) and (D) of paragraph (1) of subdivision (c) of Section 38750 shall provide access to the override system to law enforcement and firefighters in case of emergency to allow law enforcement and firefighters to completely immobilize the vehicle or cause the vehicle to move as necessary to address the emergency. The manufacturer shall provide training for law enforcement and firefighters on the use of the override system. The training shall be reviewed on a regular basis by the manufacturer and updated as changes are needed.\n\n(c) The department shall not renew, reinstate, or approve an expansion of the operational design domain of a permit unless the manufacturer certifies that it is in full compliance with the requirements under subdivision (b).\n\n(d) (1) An emergency response official may issue an emergency geofencing message to a manufacturer.\n\n(2) Within two minutes of receiving an emergency geofencing message, a manufacturer shall issue direction to its fleet to leave or avoid the area identified.\n\n(3) Within 30 business days of receiving a notice that an emergency response official wishes to begin issuing emergency geofencing messages, a manufacturer shall provide the emergency response official with all information necessary for the emergency response official to begin issuing and for the manufacturer to receive and respond to emergency geofencing messages.\n\n(4) An emergency geofencing message shall include the initial duration for the defined avoidance area based on a reasonable assessment of the emergency. Where necessary, an emergency response official may extend the duration for the avoidance area.\n\n(e) This section shall only apply to manufacturers of autonomous vehicles that operate without a human operator physically present in the vehicle.\n\n(f) Paragraphs (2) and (3) of subdivision (b) and subdivision (c) shall not apply to a commercial motor vehicle with a gross vehicle weight rating or gross vehicle weight of at least 10,001 pounds, whichever is greater. This subdivision does not apply to a passenger transportation vehicle as defined in Section 464. The department may establish requirements by the adoption of regulations, determined in consultation with the Department of the California Highway Patrol, to ensure the safe interaction between autonomous commercial motor vehicles and emergency response officials.\n\n(g) This section shall become operative on July 1, 2026.",
+  "markdown": "# Vehicle Code\n## Division 16.6. Autonomous Vehicles [38750 - 38755]\n##### § 38751\n\n(a) For purposes of this section, the following definitions apply:\n\n    (1) “Emergency geofencing message” means a message delivered using commonly available communication methods to identify a location using a street address, intersection, coordinates, or any other reasonable and customary way of identifying a location, that directs an autonomous vehicle to leave or avoid an area because of an emergency.\n\n    (2) “Emergency response official” includes, but is not limited to, emergency dispatchers, peace officers as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, and first responders.\n\n    (3) “Emergency” means a sudden, unexpected occurrence demanding immediate action to prevent or mitigate loss or damage to life, health, property, or essential public services.\n\n(b) A manufacturer shall comply with all of the following requirements:\n\n    (1) (A) A manufacturer operating an autonomous vehicle under a testing permit or deployment permit issued by the department shall maintain a dedicated emergency response telephone line that is available for emergency response officials during all hours when an autonomous vehicle is on a public road. The telephone line shall be available at no cost to public agencies.\n\n        (B) The manufacturer shall continuously monitor the status of each autonomous vehicle on a public road and shall equip and staff the telephone line to ensure that calls are picked up within 30 seconds by a remote human operator who has situational awareness of all autonomous vehicles on public roads.\n\n        (C) The remote human operator shall have the ability to immobilize the autonomous vehicle, allow an emergency response official to move the autonomous vehicle, or cause the autonomous vehicle to move as directed by an emergency response official.\n\n    (2) (A) A manufacturer operating an autonomous vehicle under a testing permit or deployment permit issued by the department shall equip each autonomous vehicle with a two-way voice communication device that enables emergency response officials that are near the vehicle to communicate effectively with a remote human operator who has situational awareness about the autonomous vehicle. The manufacturer shall ensure that an emergency response official is able to reach a remote human operator within 30 seconds after making a request through the device.\n\n        (B) The remote human operator shall have the ability to immobilize the autonomous vehicle, allow an emergency response official to move the autonomous vehicle, or cause the autonomous vehicle to move as directed by an emergency response official.\n\n    (3) Autonomous vehicles equipped with an override system in the vehicle that allows someone physically present to move the vehicle, pursuant to subparagraphs (A) and (D) of paragraph (1) of subdivision (c) of Section 38750 shall provide access to the override system to law enforcement and firefighters in case of emergency to allow law enforcement and firefighters to completely immobilize the vehicle or cause the vehicle to move as necessary to address the emergency. The manufacturer shall provide training for law enforcement and firefighters on the use of the override system. The training shall be reviewed on a regular basis by the manufacturer and updated as changes are needed.\n\n(c) The department shall not renew, reinstate, or approve an expansion of the operational design domain of a permit unless the manufacturer certifies that it is in full compliance with the requirements under subdivision (b).\n\n(d) (1) An emergency response official may issue an emergency geofencing message to a manufacturer.\n\n    (2) Within two minutes of receiving an emergency geofencing message, a manufacturer shall issue direction to its fleet to leave or avoid the area identified.\n\n    (3) Within 30 business days of receiving a notice that an emergency response official wishes to begin issuing emergency geofencing messages, a manufacturer shall provide the emergency response official with all information necessary for the emergency response official to begin issuing and for the manufacturer to receive and respond to emergency geofencing messages.\n\n    (4) An emergency geofencing message shall include the initial duration for the defined avoidance area based on a reasonable assessment of the emergency. Where necessary, an emergency response official may extend the duration for the avoidance area.\n\n(e) This section shall only apply to manufacturers of autonomous vehicles that operate without a human operator physically present in the vehicle.\n\n(f) Paragraphs (2) and (3) of subdivision (b) and subdivision (c) shall not apply to a commercial motor vehicle with a gross vehicle weight rating or gross vehicle weight of at least 10,001 pounds, whichever is greater. This subdivision does not apply to a passenger transportation vehicle as defined in Section 464. The department may establish requirements by the adoption of regulations, determined in consultation with the Department of the California Highway Patrol, to ensure the safe interaction between autonomous commercial motor vehicles and emergency response officials.\n\n(g) This section shall become operative on July 1, 2026.\n\n*(Added by Stats. 2024, Ch. 682, Sec. 2. (AB 1777) Effective January 1, 2025. Operative July 1, 2026, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "For purposes of this section, the following definitions apply:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "“Emergency geofencing message” means a message delivered using commonly available communication methods to identify a location using a street address, intersection, coordinates, or any other reasonable and customary way of identifying a location, that directs an autonomous vehicle to leave or avoid an area because of an emergency.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "“Emergency response official” includes, but is not limited to, emergency dispatchers, peace officers as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, and first responders.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "“Emergency” means a sudden, unexpected occurrence demanding immediate action to prevent or mitigate loss or damage to life, health, property, or essential public services.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A manufacturer shall comply with all of the following requirements:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "(A) A manufacturer operating an autonomous vehicle under a testing permit or deployment permit issued by the department shall maintain a dedicated emergency response telephone line that is available for emergency response officials during all hours when an autonomous vehicle is on a public road. The telephone line shall be available at no cost to public agencies.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "B",
+      "text": "The manufacturer shall continuously monitor the status of each autonomous vehicle on a public road and shall equip and staff the telephone line to ensure that calls are picked up within 30 seconds by a remote human operator who has situational awareness of all autonomous vehicles on public roads.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "C",
+      "text": "The remote human operator shall have the ability to immobilize the autonomous vehicle, allow an emergency response official to move the autonomous vehicle, or cause the autonomous vehicle to move as directed by an emergency response official.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "2",
+      "text": "(A) A manufacturer operating an autonomous vehicle under a testing permit or deployment permit issued by the department shall equip each autonomous vehicle with a two-way voice communication device that enables emergency response officials that are near the vehicle to communicate effectively with a remote human operator who has situational awareness about the autonomous vehicle. The manufacturer shall ensure that an emergency response official is able to reach a remote human operator within 30 seconds after making a request through the device.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "B",
+      "text": "The remote human operator shall have the ability to immobilize the autonomous vehicle, allow an emergency response official to move the autonomous vehicle, or cause the autonomous vehicle to move as directed by an emergency response official.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "3",
+      "text": "Autonomous vehicles equipped with an override system in the vehicle that allows someone physically present to move the vehicle, pursuant to subparagraphs (A) and (D) of paragraph (1) of subdivision (c) of Section 38750 shall provide access to the override system to law enforcement and firefighters in case of emergency to allow law enforcement and firefighters to completely immobilize the vehicle or cause the vehicle to move as necessary to address the emergency. The manufacturer shall provide training for law enforcement and firefighters on the use of the override system. The training shall be reviewed on a regular basis by the manufacturer and updated as changes are needed.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "The department shall not renew, reinstate, or approve an expansion of the operational design domain of a permit unless the manufacturer certifies that it is in full compliance with the requirements under subdivision (b).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "(1) An emergency response official may issue an emergency geofencing message to a manufacturer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "Within two minutes of receiving an emergency geofencing message, a manufacturer shall issue direction to its fleet to leave or avoid the area identified.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Within 30 business days of receiving a notice that an emergency response official wishes to begin issuing emergency geofencing messages, a manufacturer shall provide the emergency response official with all information necessary for the emergency response official to begin issuing and for the manufacturer to receive and respond to emergency geofencing messages.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "An emergency geofencing message shall include the initial duration for the defined avoidance area based on a reasonable assessment of the emergency. Where necessary, an emergency response official may extend the duration for the avoidance area.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "e",
+      "text": "This section shall only apply to manufacturers of autonomous vehicles that operate without a human operator physically present in the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "f",
+      "text": "Paragraphs (2) and (3) of subdivision (b) and subdivision (c) shall not apply to a commercial motor vehicle with a gross vehicle weight rating or gross vehicle weight of at least 10,001 pounds, whichever is greater. This subdivision does not apply to a passenger transportation vehicle as defined in Section 464. The department may establish requirements by the adoption of regulations, determined in consultation with the Department of the California Highway Patrol, to ensure the safe interaction between autonomous commercial motor vehicles and emergency response officials.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "g",
+      "text": "This section shall become operative on July 1, 2026.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2024, Ch. 682, Sec. 2. (AB 1777) Effective January 1, 2025. Operative July 1, 2026, by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 2024,
+    "chapter": "682",
+    "section": "2",
+    "bill_number": "AB 1777",
+    "effective_date": "2025-01-01",
+    "operative_date": "2026-07-01"
+  },
+  "op_statues": "2024",
+  "op_chapter": "682",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38751.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38751.html",
+  "content_sha256": "1951fd54c44ab8218953e6e1d89fac04e4a7f20b1128f345af4f47d56c6fad1e",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "6102",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "2",
+  "chapter_title": "Transfers of Title or Interest",
+  "chapter_range": "5600 - 6105",
+  "article": "5",
+  "article_title": "Transfers Through Wholesale Auctions",
+  "article_range": "6100 - 6105",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.2.5",
+  "text": "For each vehicle sold pursuant to this article, the dealer who conducts the auction shall maintain a copy of the following documents for a period of not less than five years:\n\n(a) The form required by subdivision (b) of Section 4456.\n\n(b) A copy of the auction sales agreement.\n\n(c) A copy of the odometer statement required by Section 5900.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 2. Transfers of Title or Interest [5600 - 6105]\n#### Article 5. Transfers Through Wholesale Auctions [6100 - 6105]\n##### § 6102\n\nFor each vehicle sold pursuant to this article, the dealer who conducts the auction shall maintain a copy of the following documents for a period of not less than five years:\n\n(a) The form required by subdivision (b) of Section 4456.\n\n(b) A copy of the auction sales agreement.\n\n(c) A copy of the odometer statement required by Section 5900.\n\n*(Amended by Stats. 1994, Ch. 180, Sec. 9. Effective July 11, 1994.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "For each vehicle sold pursuant to this article, the dealer who conducts the auction shall maintain a copy of the following documents for a period of not less than five years:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The form required by subdivision (b) of Section 4456.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A copy of the auction sales agreement.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A copy of the odometer statement required by Section 5900.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 180, Sec. 9. Effective July 11, 1994.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "180",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": "1994-07-11",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "180",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6102.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/6102.html",
+  "content_sha256": "5e8229f2fb441a539ee9cad91a82e67ff7055244458812b767559bb0702c5a40",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

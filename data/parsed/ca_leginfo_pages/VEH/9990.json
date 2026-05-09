@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9990",
+  "division": "3.6",
+  "division_title": "VEHICLE SALES",
+  "division_range": "9950 - 9993",
+  "chapter": "4",
+  "chapter_title": "Disclosure of Damage",
+  "chapter_range": "9990 - 9993",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "6.4",
+  "text": "For purposes of this chapter, damage sustained by a motor vehicle is material under any of the following circumstances:\n\n(a) The damage required repairs having a value, including parts and labor calculated at the repairer’s cost, exceeding 3 percent of the manufacturer’s suggested retail price of the vehicle or five hundred dollars ($500), whichever is greater. The replacement of damaged or stolen components, excluding the cost of repainting or refinishing those components, if replaced by the installation of new original manufacturer’s equipment, parts, or accessories that are bolted or otherwise attached as a unit to the vehicle, including, but not limited to, the hood, bumpers, fenders, mechanical parts, instrument panels, moldings, glass, tires, wheels, and electronic instruments, shall be excluded from the damage calculation, except that any damage having a cumulative repair or replacement value which exceeds 10 percent of the manufacturer’s suggested retail price of the vehicle shall be deemed material.\n\n(b) The damage was to the frame or drive train of the motor vehicle.\n\n(c) The damage occurred in connection with a theft of the entire vehicle.\n\n(d) The damage was to the suspension of the vehicle requiring repairs other than wheel balancing or alignment.",
+  "markdown": "# Vehicle Code\n## Division 3.6. VEHICLE SALES [9950 - 9993]\n### Chapter 4. Disclosure of Damage [9990 - 9993]\n##### § 9990\n\nFor purposes of this chapter, damage sustained by a motor vehicle is material under any of the following circumstances:\n\n(a) The damage required repairs having a value, including parts and labor calculated at the repairer’s cost, exceeding 3 percent of the manufacturer’s suggested retail price of the vehicle or five hundred dollars ($500), whichever is greater. The replacement of damaged or stolen components, excluding the cost of repainting or refinishing those components, if replaced by the installation of new original manufacturer’s equipment, parts, or accessories that are bolted or otherwise attached as a unit to the vehicle, including, but not limited to, the hood, bumpers, fenders, mechanical parts, instrument panels, moldings, glass, tires, wheels, and electronic instruments, shall be excluded from the damage calculation, except that any damage having a cumulative repair or replacement value which exceeds 10 percent of the manufacturer’s suggested retail price of the vehicle shall be deemed material.\n\n(b) The damage was to the frame or drive train of the motor vehicle.\n\n(c) The damage occurred in connection with a theft of the entire vehicle.\n\n(d) The damage was to the suspension of the vehicle requiring repairs other than wheel balancing or alignment.\n\n*(Added by Stats. 1990, Ch. 1373, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "For purposes of this chapter, damage sustained by a motor vehicle is material under any of the following circumstances:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The damage required repairs having a value, including parts and labor calculated at the repairer’s cost, exceeding 3 percent of the manufacturer’s suggested retail price of the vehicle or five hundred dollars ($500), whichever is greater. The replacement of damaged or stolen components, excluding the cost of repainting or refinishing those components, if replaced by the installation of new original manufacturer’s equipment, parts, or accessories that are bolted or otherwise attached as a unit to the vehicle, including, but not limited to, the hood, bumpers, fenders, mechanical parts, instrument panels, moldings, glass, tires, wheels, and electronic instruments, shall be excluded from the damage calculation, except that any damage having a cumulative repair or replacement value which exceeds 10 percent of the manufacturer’s suggested retail price of the vehicle shall be deemed material.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The damage was to the frame or drive train of the motor vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The damage occurred in connection with a theft of the entire vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The damage was to the suspension of the vehicle requiring repairs other than wheel balancing or alignment.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1990, Ch. 1373, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1990,
+    "chapter": "1373",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1990",
+  "op_chapter": "1373",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9990.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9990.html",
+  "content_sha256": "5effc0073f8fd4600a036e8876bbddff82c6e137f54f67e7e43b372a94ccf41d",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

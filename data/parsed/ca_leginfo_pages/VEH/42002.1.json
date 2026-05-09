@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "42002.1",
+  "division": "18",
+  "division_title": "PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+  "division_range": "42000 - 42277",
+  "chapter": "1",
+  "chapter_title": "Penalties",
+  "chapter_range": "42000 - 42032",
+  "article": "1",
+  "article_title": "Public Offenses",
+  "article_range": "42000 - 42010",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "35.1.1",
+  "text": "A person convicted of a misdemeanor violation of Section 2800, 2801, or 2803, insofar as it affects a failure to stop and submit to inspection of equipment or for an unsafe condition endangering a person, shall be punished as follows:\n\n(a) By a fine not exceeding fifty dollars ($50) or imprisonment in the county jail not exceeding five days.\n\n(b) For a second conviction within a period of one year, a fine not exceeding one hundred dollars ($100) or imprisonment in the county jail not exceeding 10 days, or both that fine and imprisonment.\n\n(c) For a third or a subsequent conviction within a period of one year, a fine not exceeding five hundred dollars ($500) or imprisonment in the county jail not exceeding six months, or both that fine and imprisonment.",
+  "markdown": "# Vehicle Code\n## Division 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES [42000 - 42277]\n### Chapter 1. Penalties [42000 - 42032]\n#### Article 1. Public Offenses [42000 - 42010]\n##### § 42002.1\n\nA person convicted of a misdemeanor violation of Section 2800, 2801, or 2803, insofar as it affects a failure to stop and submit to inspection of equipment or for an unsafe condition endangering a person, shall be punished as follows:\n\n(a) By a fine not exceeding fifty dollars ($50) or imprisonment in the county jail not exceeding five days.\n\n(b) For a second conviction within a period of one year, a fine not exceeding one hundred dollars ($100) or imprisonment in the county jail not exceeding 10 days, or both that fine and imprisonment.\n\n(c) For a third or a subsequent conviction within a period of one year, a fine not exceeding five hundred dollars ($500) or imprisonment in the county jail not exceeding six months, or both that fine and imprisonment.\n\n*(Added by Stats. 2006, Ch. 898, Sec. 6. Effective January 1, 2007.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A person convicted of a misdemeanor violation of Section 2800, 2801, or 2803, insofar as it affects a failure to stop and submit to inspection of equipment or for an unsafe condition endangering a person, shall be punished as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "By a fine not exceeding fifty dollars ($50) or imprisonment in the county jail not exceeding five days.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For a second conviction within a period of one year, a fine not exceeding one hundred dollars ($100) or imprisonment in the county jail not exceeding 10 days, or both that fine and imprisonment.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "For a third or a subsequent conviction within a period of one year, a fine not exceeding five hundred dollars ($500) or imprisonment in the county jail not exceeding six months, or both that fine and imprisonment.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2006, Ch. 898, Sec. 6. Effective January 1, 2007.)",
+    "action": "Added",
+    "statutes_year": 2006,
+    "chapter": "898",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "2007-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2006",
+  "op_chapter": "898",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42002.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/42002.1.html",
+  "content_sha256": "efd77b5aa6afa06335d74819b96521e739e5b168ecdeae60348472aff0ad83b5",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

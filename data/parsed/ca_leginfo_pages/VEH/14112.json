@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "14112",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "3",
+  "chapter_title": "Investigation and Hearing",
+  "chapter_range": "13800 - 14401",
+  "article": "3",
+  "article_title": "Hearing",
+  "article_range": "14100 - 14112",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.3.3",
+  "text": "(a) All matters in a hearing not covered by this chapter shall be governed, as far as applicable, by Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code.\n\n(b) Subdivision (a) of Section 11425.30 of the Government Code does not apply to a proceeding for issuance, denial, revocation, or suspension of a driver’s license pursuant to this division.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 3. Investigation and Hearing [13800 - 14401]\n#### Article 3. Hearing [14100 - 14112]\n##### § 14112\n\n(a) All matters in a hearing not covered by this chapter shall be governed, as far as applicable, by Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code.\n\n(b) Subdivision (a) of Section 11425.30 of the Government Code does not apply to a proceeding for issuance, denial, revocation, or suspension of a driver’s license pursuant to this division.\n\n*(Amended by Stats. 2004, Ch. 193, Sec. 196. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "All matters in a hearing not covered by this chapter shall be governed, as far as applicable, by Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Subdivision (a) of Section 11425.30 of the Government Code does not apply to a proceeding for issuance, denial, revocation, or suspension of a driver’s license pursuant to this division.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 193, Sec. 196. Effective January 1, 2005.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "193",
+    "section": "196",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "193",
+  "op_section": "196",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=14112.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/14112.html",
+  "content_sha256": "f5a4d2d7220bebf0e610ec6ea11d445662f750e124ea459d77c773d86d8ffef4",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

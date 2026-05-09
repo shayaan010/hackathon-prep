@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2420",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "Upon request of the California Highway Patrol, manufacturers of motorcycles shall furnish a certification of gross brake horsepower to the department. If any manufacturer of motorcycles fails to comply with such request within 30 days from the date such request has been deposited in the mail, then and in that event no dealer shall sell or offer for sale the particular make and model of motocycle for which the certification was requested.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2420\n\nUpon request of the California Highway Patrol, manufacturers of motorcycles shall furnish a certification of gross brake horsepower to the department. If any manufacturer of motorcycles fails to comply with such request within 30 days from the date such request has been deposited in the mail, then and in that event no dealer shall sell or offer for sale the particular make and model of motocycle for which the certification was requested.\n\n*(Added by Stats. 1963, Ch. 422.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Upon request of the California Highway Patrol, manufacturers of motorcycles shall furnish a certification of gross brake horsepower to the department. If any manufacturer of motorcycles fails to comply with such request within 30 days from the date such request has been deposited in the mail, then and in that event no dealer shall sell or offer for sale the particular make and model of motocycle for which the certification was requested.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1963, Ch. 422.)",
+    "action": "Added",
+    "statutes_year": 1963,
+    "chapter": "422",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1963",
+  "op_chapter": "422",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2420.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2420.html",
+  "content_sha256": "a09906021d66e6af10588ffea777afff257556ced41adba4bf7607ae8ae02254",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

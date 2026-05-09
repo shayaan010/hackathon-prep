@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "39008",
+  "division": "16.7",
+  "division_title": "REGISTRATION AND LICENSING OF BICYCLES",
+  "division_range": "39000 - 39011",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "33",
+  "text": "(a) Whenever any person sells or otherwise disposes of a bicycle, he shall endorse upon the registration certificate previously issued for such bicycle a written transfer of same, setting forth the name, address, telephone number of the transferee, date of transfer, and signature of the transferrer, and shall deliver the registration certificate, so endorsed, to the licensing agency within 10 days.\n\n(b) Any person who purchases or otherwise acquires possession of a bicycle shall, within 10 days of taking possession, apply for the transfer of license to his own name. Cities and counties may establish rules and regulations to govern and enforce the provisions of this section.",
+  "markdown": "# Vehicle Code\n## Division 16.7. REGISTRATION AND LICENSING OF BICYCLES [39000 - 39011]\n##### § 39008\n\n(a) Whenever any person sells or otherwise disposes of a bicycle, he shall endorse upon the registration certificate previously issued for such bicycle a written transfer of same, setting forth the name, address, telephone number of the transferee, date of transfer, and signature of the transferrer, and shall deliver the registration certificate, so endorsed, to the licensing agency within 10 days.\n\n(b) Any person who purchases or otherwise acquires possession of a bicycle shall, within 10 days of taking possession, apply for the transfer of license to his own name. Cities and counties may establish rules and regulations to govern and enforce the provisions of this section.\n\n*(Amended by Stats. 1975, Ch. 1250.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever any person sells or otherwise disposes of a bicycle, he shall endorse upon the registration certificate previously issued for such bicycle a written transfer of same, setting forth the name, address, telephone number of the transferee, date of transfer, and signature of the transferrer, and shall deliver the registration certificate, so endorsed, to the licensing agency within 10 days.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any person who purchases or otherwise acquires possession of a bicycle shall, within 10 days of taking possession, apply for the transfer of license to his own name. Cities and counties may establish rules and regulations to govern and enforce the provisions of this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1975, Ch. 1250.)",
+    "action": "Amended",
+    "statutes_year": 1975,
+    "chapter": "1250",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "1250",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=39008.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/39008.html",
+  "content_sha256": "b074326d014ff2f2b77264025cb455fa083caaf4fd7e7398201b193f205944c7",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

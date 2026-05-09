@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22850.3",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "10",
+  "chapter_title": "Removal of Parked and Abandoned Vehicles",
+  "chapter_range": "22650 - 22856",
+  "article": "2",
+  "article_title": "Vehicle Disposition",
+  "article_range": "22850 - 22856",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.10.2",
+  "text": "(a) A vehicle placed in storage pursuant to Section 22850 shall be released to the owner or person in control of the vehicle only if the owner or person furnishes, to the law enforcement agency or employee who placed the vehicle in storage, satisfactory proof of current vehicle registration. The agency which caused the vehicle to be stored may, in its discretion, issue a notice to appear for the registration violation, if the two days immediately following the day of impoundment are weekend days or holidays.\n\n(b) At every storage facility there shall be posted in a conspicuous place a notice to the effect that a vehicle placed in storage pursuant to Section 22850 may be released only on proof of current registration or, at the discretion of the impounding agency, upon the issuance of a notice to appear for the registration violation by the local agency which caused the vehicle to be stored, specifying the name and telephone number of that local agency.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 10. Removal of Parked and Abandoned Vehicles [22650 - 22856]\n#### Article 2. Vehicle Disposition [22850 - 22856]\n##### § 22850.3\n\n(a) A vehicle placed in storage pursuant to Section 22850 shall be released to the owner or person in control of the vehicle only if the owner or person furnishes, to the law enforcement agency or employee who placed the vehicle in storage, satisfactory proof of current vehicle registration. The agency which caused the vehicle to be stored may, in its discretion, issue a notice to appear for the registration violation, if the two days immediately following the day of impoundment are weekend days or holidays.\n\n(b) At every storage facility there shall be posted in a conspicuous place a notice to the effect that a vehicle placed in storage pursuant to Section 22850 may be released only on proof of current registration or, at the discretion of the impounding agency, upon the issuance of a notice to appear for the registration violation by the local agency which caused the vehicle to be stored, specifying the name and telephone number of that local agency.\n\n*(Amended by Stats. 1994, Ch. 1220, Sec. 64. Effective September 30, 1994.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A vehicle placed in storage pursuant to Section 22850 shall be released to the owner or person in control of the vehicle only if the owner or person furnishes, to the law enforcement agency or employee who placed the vehicle in storage, satisfactory proof of current vehicle registration. The agency which caused the vehicle to be stored may, in its discretion, issue a notice to appear for the registration violation, if the two days immediately following the day of impoundment are weekend days or holidays.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "At every storage facility there shall be posted in a conspicuous place a notice to the effect that a vehicle placed in storage pursuant to Section 22850 may be released only on proof of current registration or, at the discretion of the impounding agency, upon the issuance of a notice to appear for the registration violation by the local agency which caused the vehicle to be stored, specifying the name and telephone number of that local agency.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 1220, Sec. 64. Effective September 30, 1994.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "1220",
+    "section": "64",
+    "bill_number": null,
+    "effective_date": "1994-09-30",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "1220",
+  "op_section": "64",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22850.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22850.3.html",
+  "content_sha256": "2497fbc78d2962192728298d115c73623fa5c672881a16d84810db35f7c7a862",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

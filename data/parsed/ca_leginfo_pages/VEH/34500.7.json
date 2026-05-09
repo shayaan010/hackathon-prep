@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34500.7",
+  "division": "14.8",
+  "division_title": "SAFETY REGULATIONS",
+  "division_range": "34500 - 34520.5",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "25",
+  "text": "(a) Subject to Section 34500, motor carriers, drivers, and vehicles shall comply with the Federal Motor Carrier Safety Regulations in Parts 385, 392, 393, 396, and 397 of Title 49 of the Code of Federal Regulations.\n\n(b) Notwithstanding subdivision (a), Daily Vehicle Inspection Reports are required for intrastate drivers and motor carriers pursuant to Section 1215 of Title 13 of the California Code of Regulations.",
+  "markdown": "# Vehicle Code\n## Division 14.8. SAFETY REGULATIONS [34500 - 34520.5]\n##### § 34500.7\n\n(a) Subject to Section 34500, motor carriers, drivers, and vehicles shall comply with the Federal Motor Carrier Safety Regulations in Parts 385, 392, 393, 396, and 397 of Title 49 of the Code of Federal Regulations.\n\n(b) Notwithstanding subdivision (a), Daily Vehicle Inspection Reports are required for intrastate drivers and motor carriers pursuant to Section 1215 of Title 13 of the California Code of Regulations.\n\n*(Added by Stats. 2023, Ch. 219, Sec. 10. (SB 891) Effective January 1, 2024.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Subject to Section 34500, motor carriers, drivers, and vehicles shall comply with the Federal Motor Carrier Safety Regulations in Parts 385, 392, 393, 396, and 397 of Title 49 of the Code of Federal Regulations.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding subdivision (a), Daily Vehicle Inspection Reports are required for intrastate drivers and motor carriers pursuant to Section 1215 of Title 13 of the California Code of Regulations.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2023, Ch. 219, Sec. 10. (SB 891) Effective January 1, 2024.)",
+    "action": "Added",
+    "statutes_year": 2023,
+    "chapter": "219",
+    "section": "10",
+    "bill_number": "SB 891",
+    "effective_date": "2024-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2023",
+  "op_chapter": "219",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34500.7.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34500.7.html",
+  "content_sha256": "77c5bd892a00e639ec79dcb862477a30b4c261db77e8a9616f3c781157dd499f",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

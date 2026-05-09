@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "313.5",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "An “electrically motorized board” is any wheeled device that has a floorboard designed to be stood upon when riding that is not greater than 60 inches deep and 18 inches wide, is designed to transport only one person, and has an electric propulsion system averaging less than 1,000 watts, the maximum speed of which, when powered solely by a propulsion system on a paved level surface, is no more than 20 miles per hour. The device may be designed to also be powered by human propulsion.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 313.5\n\nAn “electrically motorized board” is any wheeled device that has a floorboard designed to be stood upon when riding that is not greater than 60 inches deep and 18 inches wide, is designed to transport only one person, and has an electric propulsion system averaging less than 1,000 watts, the maximum speed of which, when powered solely by a propulsion system on a paved level surface, is no more than 20 miles per hour. The device may be designed to also be powered by human propulsion.\n\n*(Added by Stats. 2015, Ch. 777, Sec. 1. (AB 604) Effective January 1, 2016.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "An “electrically motorized board” is any wheeled device that has a floorboard designed to be stood upon when riding that is not greater than 60 inches deep and 18 inches wide, is designed to transport only one person, and has an electric propulsion system averaging less than 1,000 watts, the maximum speed of which, when powered solely by a propulsion system on a paved level surface, is no more than 20 miles per hour. The device may be designed to also be powered by human propulsion.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2015, Ch. 777, Sec. 1. (AB 604) Effective January 1, 2016.)",
+    "action": "Added",
+    "statutes_year": 2015,
+    "chapter": "777",
+    "section": "1",
+    "bill_number": "AB 604",
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2015",
+  "op_chapter": "777",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=313.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/313.5.html",
+  "content_sha256": "318c43abc6f03cf336f3af39b271bb47942c63fbe57da42a9894f7a28a0a838c",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

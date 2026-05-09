@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40007",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "Division 5 (commencing with Section 11100) does not preclude the application of any other statutory provision which is applicable to any act violating any provision of Division 5.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40007\n\nDivision 5 (commencing with Section 11100) does not preclude the application of any other statutory provision which is applicable to any act violating any provision of Division 5.\n\n*(Added by Stats. 1985, Ch. 93, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Division 5 (commencing with Section 11100) does not preclude the application of any other statutory provision which is applicable to any act violating any provision of Division 5.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1985, Ch. 93, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1985,
+    "chapter": "93",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1985",
+  "op_chapter": "93",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40007.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40007.html",
+  "content_sha256": "a8757d24c1c509d6d128e97121ec79ed1ce66cddb475fe77d244bfe1d5b225fd",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

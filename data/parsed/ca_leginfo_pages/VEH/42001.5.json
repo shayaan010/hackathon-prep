@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "42001.5",
+  "division": "18",
+  "division_title": "PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+  "division_range": "42000 - 42277",
+  "chapter": "1",
+  "chapter_title": "Penalties",
+  "chapter_range": "42000 - 42032",
+  "article": "1",
+  "article_title": "Public Offenses",
+  "article_range": "42000 - 42010",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "35.1.1",
+  "text": "(a) A person convicted of an infraction for a violation of subdivision (i) or (l) of Section 22500, or of Section 22522, shall be punished by a fine of not less than two hundred fifty dollars ($250).\n\n(b) No part of any fine imposed under this section may be suspended, except the court may suspend that portion of the fine above one hundred dollars ($100).\n\n(c) A fine imposed under this section may be paid in installments if the court determines that the defendant is unable to pay the entire amount in one payment.",
+  "markdown": "# Vehicle Code\n## Division 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES [42000 - 42277]\n### Chapter 1. Penalties [42000 - 42032]\n#### Article 1. Public Offenses [42000 - 42010]\n##### § 42001.5\n\n(a) A person convicted of an infraction for a violation of subdivision (i) or (l) of Section 22500, or of Section 22522, shall be punished by a fine of not less than two hundred fifty dollars ($250).\n\n(b) No part of any fine imposed under this section may be suspended, except the court may suspend that portion of the fine above one hundred dollars ($100).\n\n(c) A fine imposed under this section may be paid in installments if the court determines that the defendant is unable to pay the entire amount in one payment.\n\n*(Amended by Stats. 2003, Ch. 555, Sec. 8. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person convicted of an infraction for a violation of subdivision (i) or (l) of Section 22500, or of Section 22522, shall be punished by a fine of not less than two hundred fifty dollars ($250).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No part of any fine imposed under this section may be suspended, except the court may suspend that portion of the fine above one hundred dollars ($100).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A fine imposed under this section may be paid in installments if the court determines that the defendant is unable to pay the entire amount in one payment.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 555, Sec. 8. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "555",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "555",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42001.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/42001.5.html",
+  "content_sha256": "c2731a546ef759fe3586bacacc718fcdd4f804df3bfb0a02c79968ab8d6370ae",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

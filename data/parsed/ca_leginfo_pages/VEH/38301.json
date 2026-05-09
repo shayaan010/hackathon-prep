@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38301",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "5",
+  "chapter_title": "Off-Highway Vehicle Operating Rules",
+  "chapter_range": "38280 - 38321",
+  "article": "1",
+  "article_title": "Traffic Signs, Signals, and Markings",
+  "article_range": "38280 - 38302",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.3.1",
+  "text": "(a) It is unlawful to operate a vehicle in violation of special regulations which have been promulgated by the governmental agency having jurisdiction over public lands, including, but not limited to, regulations governing access, routes of travel, plants, wildlife, wildlife habitat, water resources, and historical sites.\n\n(b) A person who operates a motor vehicle in an area closed to that vehicle is guilty of a public offense and shall be punished as follows:\n\n(1) Except as provided in paragraphs (2) and (3), the offense is an infraction punishable by a fine not exceeding fifty dollars ($50).\n\n(2) For a second offense committed within seven years after a prior violation for which there was a conviction punishable under paragraph (1), the offense is an infraction punishable by a fine not exceeding seventy-five dollars ($75).\n\n(3) For a third or subsequent offense committed within seven years after two or more prior violations for which there were convictions punishable under this section, the offense is punishable by a fine not exceeding one hundred fifty dollars ($150). In addition to the fine, the court may assess costs sufficient to repair property damage resulting from the violation.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 5. Off-Highway Vehicle Operating Rules [38280 - 38321]\n#### Article 1. Traffic Signs, Signals, and Markings [38280 - 38302]\n##### § 38301\n\n(a) It is unlawful to operate a vehicle in violation of special regulations which have been promulgated by the governmental agency having jurisdiction over public lands, including, but not limited to, regulations governing access, routes of travel, plants, wildlife, wildlife habitat, water resources, and historical sites.\n\n(b) A person who operates a motor vehicle in an area closed to that vehicle is guilty of a public offense and shall be punished as follows:\n\n    (1) Except as provided in paragraphs (2) and (3), the offense is an infraction punishable by a fine not exceeding fifty dollars ($50).\n\n    (2) For a second offense committed within seven years after a prior violation for which there was a conviction punishable under paragraph (1), the offense is an infraction punishable by a fine not exceeding seventy-five dollars ($75).\n\n    (3) For a third or subsequent offense committed within seven years after two or more prior violations for which there were convictions punishable under this section, the offense is punishable by a fine not exceeding one hundred fifty dollars ($150). In addition to the fine, the court may assess costs sufficient to repair property damage resulting from the violation.\n\n*(Amended by Stats. 2007, Ch. 541, Sec. 25. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is unlawful to operate a vehicle in violation of special regulations which have been promulgated by the governmental agency having jurisdiction over public lands, including, but not limited to, regulations governing access, routes of travel, plants, wildlife, wildlife habitat, water resources, and historical sites.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person who operates a motor vehicle in an area closed to that vehicle is guilty of a public offense and shall be punished as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Except as provided in paragraphs (2) and (3), the offense is an infraction punishable by a fine not exceeding fifty dollars ($50).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "For a second offense committed within seven years after a prior violation for which there was a conviction punishable under paragraph (1), the offense is an infraction punishable by a fine not exceeding seventy-five dollars ($75).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "For a third or subsequent offense committed within seven years after two or more prior violations for which there were convictions punishable under this section, the offense is punishable by a fine not exceeding one hundred fifty dollars ($150). In addition to the fine, the court may assess costs sufficient to repair property damage resulting from the violation.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2007, Ch. 541, Sec. 25. Effective January 1, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2007,
+    "chapter": "541",
+    "section": "25",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "541",
+  "op_section": "25",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38301.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38301.html",
+  "content_sha256": "485c668e417198bcb57268f8b5efc19fee281d05d65c1fc3ebc934ec3903cbec",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28228",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "6",
+  "chapter_title": "Connected Vehicle Service",
+  "chapter_range": "28200 - 28244",
+  "article": "2",
+  "article_title": "Access to Connected Vehicle Service",
+  "article_range": "28220 - 28228",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.6.2",
+  "text": "The termination of connected vehicle service pursuant to this article shall not be deemed to impact legal ownership of a vehicle.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 6. Connected Vehicle Service [28200 - 28244]\n#### Article 2. Access to Connected Vehicle Service [28220 - 28228]\n##### § 28228\n\nThe termination of connected vehicle service pursuant to this article shall not be deemed to impact legal ownership of a vehicle.\n\n*(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025. Operative July 1, 2025, pursuant to Sec. 28206.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The termination of connected vehicle service pursuant to this article shall not be deemed to impact legal ownership of a vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025. Operative July 1, 2025, pursuant to Sec. 28206.)",
+    "action": "Added",
+    "statutes_year": 2024,
+    "chapter": "655",
+    "section": "2",
+    "bill_number": "SB 1394",
+    "effective_date": "2025-01-01",
+    "operative_date": "2025-07-01"
+  },
+  "op_statues": "2024",
+  "op_chapter": "655",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28228.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28228.html",
+  "content_sha256": "cf39e53bc2c20260f6edaf2ddc5e43a296ad1e1ea5dd16af0a2d6575f5684e39",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "545.5",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) Notwithstanding Section 545, a bus of the type commonly known as a coach bus is not a schoolbus when it is operated by the Trona Unified School District to transport pupils to route-deviated school activities.\n\n(b) A coach bus operated pursuant to subdivision (a) shall be inspected annually by the Department of the California Highway Patrol, shall meet the equipment safety standards established by the federal government for schoolbuses, and shall be used to transport pupils only if the driver has obtained a certificate to operate a schoolbus pursuant to Section 12517.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 545.5\n\n(a) Notwithstanding Section 545, a bus of the type commonly known as a coach bus is not a schoolbus when it is operated by the Trona Unified School District to transport pupils to route-deviated school activities.\n\n(b) A coach bus operated pursuant to subdivision (a) shall be inspected annually by the Department of the California Highway Patrol, shall meet the equipment safety standards established by the federal government for schoolbuses, and shall be used to transport pupils only if the driver has obtained a certificate to operate a schoolbus pursuant to Section 12517.\n\n*(Added by Stats. 1995, Ch. 400, Sec. 1. Effective January 1, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Notwithstanding Section 545, a bus of the type commonly known as a coach bus is not a schoolbus when it is operated by the Trona Unified School District to transport pupils to route-deviated school activities.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A coach bus operated pursuant to subdivision (a) shall be inspected annually by the Department of the California Highway Patrol, shall meet the equipment safety standards established by the federal government for schoolbuses, and shall be used to transport pupils only if the driver has obtained a certificate to operate a schoolbus pursuant to Section 12517.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1995, Ch. 400, Sec. 1. Effective January 1, 1996.)",
+    "action": "Added",
+    "statutes_year": 1995,
+    "chapter": "400",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1996-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1995",
+  "op_chapter": "400",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=545.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/545.5.html",
+  "content_sha256": "32050d657649d762b9b9de6891afef8f75b0ca22f0564d0bf20570ae2374042b",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34500.6",
+  "division": "14.8",
+  "division_title": "SAFETY REGULATIONS",
+  "division_range": "34500 - 34520.5",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "25",
+  "text": "(a) For purposes of this division, an agricultural vehicle is a vehicle or combination of vehicles with a gross combination weight rating or a gross vehicle weight rating of 26,000 pounds or less if all of the following conditions are met:\n\n(1) Is operated by a farmer, an employee of a farmer, or an instructor credentialed in agriculture as part of an instructional program in agriculture at the high school, community college, or university level.\n\n(2) Is used exclusively in the conduct of agricultural operations when operating in commerce.\n\n(3) Is not used in the capacity of a for-hire carrier or for compensation.\n\n(4) The towing vehicle has a gross weight rating of 16,000 pounds or less.\n\n(5) Is used solely in intrastate commerce.\n\n(b) This section shall remain in effect only until January 1, 2031, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2031, deletes or extends that date.",
+  "markdown": "# Vehicle Code\n## Division 14.8. SAFETY REGULATIONS [34500 - 34520.5]\n##### § 34500.6\n\n(a) For purposes of this division, an agricultural vehicle is a vehicle or combination of vehicles with a gross combination weight rating or a gross vehicle weight rating of 26,000 pounds or less if all of the following conditions are met:\n\n    (1) Is operated by a farmer, an employee of a farmer, or an instructor credentialed in agriculture as part of an instructional program in agriculture at the high school, community college, or university level.\n\n    (2) Is used exclusively in the conduct of agricultural operations when operating in commerce.\n\n    (3) Is not used in the capacity of a for-hire carrier or for compensation.\n\n    (4) The towing vehicle has a gross weight rating of 16,000 pounds or less.\n\n    (5) Is used solely in intrastate commerce.\n\n(b) This section shall remain in effect only until January 1, 2031, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2031, deletes or extends that date.\n\n*(Amended by Stats. 2025, Ch. 61, Sec. 1. (AB 525) Effective January 1, 2026. Repealed as of January 1, 2031, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "For purposes of this division, an agricultural vehicle is a vehicle or combination of vehicles with a gross combination weight rating or a gross vehicle weight rating of 26,000 pounds or less if all of the following conditions are met:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Is operated by a farmer, an employee of a farmer, or an instructor credentialed in agriculture as part of an instructional program in agriculture at the high school, community college, or university level.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Is used exclusively in the conduct of agricultural operations when operating in commerce.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Is not used in the capacity of a for-hire carrier or for compensation.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "The towing vehicle has a gross weight rating of 16,000 pounds or less.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "Is used solely in intrastate commerce.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "This section shall remain in effect only until January 1, 2031, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2031, deletes or extends that date.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2025, Ch. 61, Sec. 1. (AB 525) Effective January 1, 2026. Repealed as of January 1, 2031, by its own provisions.)",
+    "action": "Amended",
+    "statutes_year": 2025,
+    "chapter": "61",
+    "section": "1",
+    "bill_number": "AB 525",
+    "effective_date": "2026-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2025",
+  "op_chapter": "61",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34500.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34500.6.html",
+  "content_sha256": "25bf53d651d70403126bace71c6945571dcf7dbb8a26c132cea22cdec8e6192b",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

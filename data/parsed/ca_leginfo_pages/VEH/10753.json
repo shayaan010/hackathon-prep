@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "10753",
+  "division": "4",
+  "division_title": "SPECIAL ANTITHEFT LAWS",
+  "division_range": "10500 - 10904",
+  "chapter": "3",
+  "chapter_title": "Alteration or Removal of Numbers",
+  "chapter_range": "10750 - 10753",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "7.4",
+  "text": "(a) Any person who removes, alters, or obfuscates any vehicle identification number or other unique marking that has been added to a catalytic converter is guilty of a misdemeanor.\n\n(b) Any person who knowingly possesses three or more catalytic converters that have the vehicle identification number or other unique marking removed, altered, or obfuscated is guilty of a misdemeanor.\n\n(c) This subdivision does not apply to either of the following:\n\n(1) Any person who is removing, altering, or obfuscating a vehicle identification number or other unique marking in order to apply a new vehicle identification number or unique marking because the catalytic converter is being lawfully installed on a different vehicle.\n\n(2) Any person that is disassembling, smelting, or otherwise permanently destroying a catalytic converter lawfully in their possession.",
+  "markdown": "# Vehicle Code\n## Division 4. SPECIAL ANTITHEFT LAWS [10500 - 10904]\n### Chapter 3. Alteration or Removal of Numbers [10750 - 10753]\n##### § 10753\n\n(a) Any person who removes, alters, or obfuscates any vehicle identification number or other unique marking that has been added to a catalytic converter is guilty of a misdemeanor.\n\n(b) Any person who knowingly possesses three or more catalytic converters that have the vehicle identification number or other unique marking removed, altered, or obfuscated is guilty of a misdemeanor.\n\n(c) This subdivision does not apply to either of the following:\n\n    (1) Any person who is removing, altering, or obfuscating a vehicle identification number or other unique marking in order to apply a new vehicle identification number or unique marking because the catalytic converter is being lawfully installed on a different vehicle.\n\n    (2) Any person that is disassembling, smelting, or otherwise permanently destroying a catalytic converter lawfully in their possession.\n\n*(Added by Stats. 2023, Ch. 847, Sec. 1. (AB 1519) Effective January 1, 2024.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any person who removes, alters, or obfuscates any vehicle identification number or other unique marking that has been added to a catalytic converter is guilty of a misdemeanor.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any person who knowingly possesses three or more catalytic converters that have the vehicle identification number or other unique marking removed, altered, or obfuscated is guilty of a misdemeanor.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This subdivision does not apply to either of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Any person who is removing, altering, or obfuscating a vehicle identification number or other unique marking in order to apply a new vehicle identification number or unique marking because the catalytic converter is being lawfully installed on a different vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Any person that is disassembling, smelting, or otherwise permanently destroying a catalytic converter lawfully in their possession.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2023, Ch. 847, Sec. 1. (AB 1519) Effective January 1, 2024.)",
+    "action": "Added",
+    "statutes_year": 2023,
+    "chapter": "847",
+    "section": "1",
+    "bill_number": "AB 1519",
+    "effective_date": "2024-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2023",
+  "op_chapter": "847",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=10753.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/10753.html",
+  "content_sha256": "99b6a38b200b6548d79db047a19aa9d97173c3ab57c6431bd1afc0e204265d29",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9900",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "3",
+  "chapter_title": "Transfer of Title or Interest in Undocumented Vessel",
+  "chapter_range": "9900 - 9928",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.3",
+  "text": "No transfer of the title or any interest in or to an undocumented vessel numbered under this code shall pass, and any attempted transfer shall not be effective, until the parties thereto have paid any delinquent property taxes with respect to that vessel and fulfilled either of the following requirements:\n\n(a) The transferor has made proper endorsement and delivery of the certificate of ownership to the transferee as provided in this code and the transferee has delivered to the department or has placed the certificates in the United States mail addressed to the department when and as required under this code with the proper transfer fee and thereby makes application for a new certificate of ownership and a new certificate of number.\n\n(b) The transferor has delivered to the department or has placed in the United States mail addressed to the department the appropriate documents for the transfer of ownership of the vessel pursuant to the sale or transfer except as otherwise provided.",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 3. Transfer of Title or Interest in Undocumented Vessel [9900 - 9928]\n##### § 9900\n\nNo transfer of the title or any interest in or to an undocumented vessel numbered under this code shall pass, and any attempted transfer shall not be effective, until the parties thereto have paid any delinquent property taxes with respect to that vessel and fulfilled either of the following requirements:\n\n(a) The transferor has made proper endorsement and delivery of the certificate of ownership to the transferee as provided in this code and the transferee has delivered to the department or has placed the certificates in the United States mail addressed to the department when and as required under this code with the proper transfer fee and thereby makes application for a new certificate of ownership and a new certificate of number.\n\n(b) The transferor has delivered to the department or has placed in the United States mail addressed to the department the appropriate documents for the transfer of ownership of the vessel pursuant to the sale or transfer except as otherwise provided.\n\n*(Amended by Stats. 1994, Ch. 940, Sec. 5. Effective January 1, 1995. Operative July 1, 1995, by Sec. 6 of Ch. 940.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No transfer of the title or any interest in or to an undocumented vessel numbered under this code shall pass, and any attempted transfer shall not be effective, until the parties thereto have paid any delinquent property taxes with respect to that vessel and fulfilled either of the following requirements:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The transferor has made proper endorsement and delivery of the certificate of ownership to the transferee as provided in this code and the transferee has delivered to the department or has placed the certificates in the United States mail addressed to the department when and as required under this code with the proper transfer fee and thereby makes application for a new certificate of ownership and a new certificate of number.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The transferor has delivered to the department or has placed in the United States mail addressed to the department the appropriate documents for the transfer of ownership of the vessel pursuant to the sale or transfer except as otherwise provided.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 940, Sec. 5. Effective January 1, 1995. Operative July 1, 1995, by Sec. 6 of Ch. 940.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "940",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": "1995-07-01"
+  },
+  "op_statues": "1994",
+  "op_chapter": "940",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9900.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9900.html",
+  "content_sha256": "eb7c27ce24141f8a76f8003681019cde2f38986f99846f51efdada4fb5900453",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

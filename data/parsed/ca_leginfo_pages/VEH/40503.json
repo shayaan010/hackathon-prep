@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40503",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "2",
+  "article_title": "Release Upon Promise to Appear",
+  "article_range": "40500 - 40522",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.2",
+  "text": "Every notice to appear or notice of violation and every complaint or information charging a violation of any provision of this code regulating the speed of vehicles upon a highway shall specify the approximate speed at which the defendant is alleged to have driven and exactly the prima facie or maximum speed limit applicable to the highway at the time and place of the alleged offense and shall state any other speed limit alleged to have been exceeded if applicable to the particular type of vehicle or combination of vehicles operated by the defendant.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 2. Release Upon Promise to Appear [40500 - 40522]\n##### § 40503\n\nEvery notice to appear or notice of violation and every complaint or information charging a violation of any provision of this code regulating the speed of vehicles upon a highway shall specify the approximate speed at which the defendant is alleged to have driven and exactly the prima facie or maximum speed limit applicable to the highway at the time and place of the alleged offense and shall state any other speed limit alleged to have been exceeded if applicable to the particular type of vehicle or combination of vehicles operated by the defendant.\n\n*(Amended by Stats. 1969, Ch. 1056.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every notice to appear or notice of violation and every complaint or information charging a violation of any provision of this code regulating the speed of vehicles upon a highway shall specify the approximate speed at which the defendant is alleged to have driven and exactly the prima facie or maximum speed limit applicable to the highway at the time and place of the alleged offense and shall state any other speed limit alleged to have been exceeded if applicable to the particular type of vehicle or combination of vehicles operated by the defendant.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1969, Ch. 1056.)",
+    "action": "Amended",
+    "statutes_year": 1969,
+    "chapter": "1056",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1969",
+  "op_chapter": "1056",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40503.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40503.html",
+  "content_sha256": "71d7d3e48c3b487aa1103520e1b54024cce4d0b034fd21d0dcd9bf5af81e7377",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35790.4",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "6",
+  "article_title": "Permits and Agreements",
+  "article_range": "35780 - 35796",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.7",
+  "text": "The Legislature finds and declares that current restrictions on the movement of combinations of manufactured homes have unduly restricted the ability of the California manufactured housing industry to meet the needs of the consumer in this state.\n\nThe Legislature further finds and declares that the improved movement of manufactured homes, with appropriate safeguards, will benefit the state’s economy and will allow production of more affordable and aesthetic manufactured homes.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 6. Permits and Agreements [35780 - 35796]\n##### § 35790.4\n\nThe Legislature finds and declares that current restrictions on the movement of combinations of manufactured homes have unduly restricted the ability of the California manufactured housing industry to meet the needs of the consumer in this state.\n\nThe Legislature further finds and declares that the improved movement of manufactured homes, with appropriate safeguards, will benefit the state’s economy and will allow production of more affordable and aesthetic manufactured homes.\n\n*(Added by Stats. 1984, Ch. 1312, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The Legislature finds and declares that current restrictions on the movement of combinations of manufactured homes have unduly restricted the ability of the California manufactured housing industry to meet the needs of the consumer in this state.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The Legislature further finds and declares that the improved movement of manufactured homes, with appropriate safeguards, will benefit the state’s economy and will allow production of more affordable and aesthetic manufactured homes.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1984, Ch. 1312, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1984,
+    "chapter": "1312",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "1312",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35790.4.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35790.4.html",
+  "content_sha256": "6c8bc0f0c495bd4489c1ffaee2aa2323f419fe2593d2afa707ea0fe01223b8ae",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

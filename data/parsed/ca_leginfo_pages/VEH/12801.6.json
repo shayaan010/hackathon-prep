@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12801.6",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "3",
+  "article_title": "Issuance and Renewal of Licenses",
+  "article_range": "12800 - 12819",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.3",
+  "text": "(a) Any federal document demonstrating favorable action by the federal government for acceptance of a person into the deferred action for childhood arrivals program shall satisfy the requirements of Section 12801.5.\n\n(b) The department may issue an original driver’s license to the person who submits proof of presence in the United States as authorized under federal law pursuant to subdivision (a) and either a social security account number or ineligibility for a social security account number.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 3. Issuance and Renewal of Licenses [12800 - 12819]\n##### § 12801.6\n\n(a) Any federal document demonstrating favorable action by the federal government for acceptance of a person into the deferred action for childhood arrivals program shall satisfy the requirements of Section 12801.5.\n\n(b) The department may issue an original driver’s license to the person who submits proof of presence in the United States as authorized under federal law pursuant to subdivision (a) and either a social security account number or ineligibility for a social security account number.\n\n*(Added by Stats. 2012, Ch. 862, Sec. 3. (AB 2189) Effective January 1, 2013.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any federal document demonstrating favorable action by the federal government for acceptance of a person into the deferred action for childhood arrivals program shall satisfy the requirements of Section 12801.5.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department may issue an original driver’s license to the person who submits proof of presence in the United States as authorized under federal law pursuant to subdivision (a) and either a social security account number or ineligibility for a social security account number.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2012, Ch. 862, Sec. 3. (AB 2189) Effective January 1, 2013.)",
+    "action": "Added",
+    "statutes_year": 2012,
+    "chapter": "862",
+    "section": "3",
+    "bill_number": "AB 2189",
+    "effective_date": "2013-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2012",
+  "op_chapter": "862",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12801.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12801.6.html",
+  "content_sha256": "28cf4678a2403830226a1ea5800ae45179150c878a1edadc6867726411a59237",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

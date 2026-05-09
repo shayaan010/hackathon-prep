@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "29008",
+  "division": "13",
+  "division_title": "TOWING AND LOADING EQUIPMENT",
+  "division_range": "29000 - 31560",
+  "chapter": "1",
+  "chapter_title": "Towing Equipment",
+  "chapter_range": "29000 - 29009",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "19.1",
+  "text": "Sections 29004 and 29005 shall not apply to trailers or dollies used to support booms attached to truck cranes if the following conditions are met:\n\n(a) The trailer or dolly is connected to the boom by a pin, coupling device, or fifth wheel assembly.\n\n(b) The trailer is secured to the boom with a chain, cable, or equivalent device of sufficient strength to control the trailer or dolly in case of failure of the connection consisting of a pin, coupling device, or fifth wheel assembly.",
+  "markdown": "# Vehicle Code\n## Division 13. TOWING AND LOADING EQUIPMENT [29000 - 31560]\n### Chapter 1. Towing Equipment [29000 - 29009]\n##### § 29008\n\nSections 29004 and 29005 shall not apply to trailers or dollies used to support booms attached to truck cranes if the following conditions are met:\n\n(a) The trailer or dolly is connected to the boom by a pin, coupling device, or fifth wheel assembly.\n\n(b) The trailer is secured to the boom with a chain, cable, or equivalent device of sufficient strength to control the trailer or dolly in case of failure of the connection consisting of a pin, coupling device, or fifth wheel assembly.\n\n*(Amended by Stats. 2006, Ch. 538, Sec. 664. Effective January 1, 2007.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Sections 29004 and 29005 shall not apply to trailers or dollies used to support booms attached to truck cranes if the following conditions are met:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The trailer or dolly is connected to the boom by a pin, coupling device, or fifth wheel assembly.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The trailer is secured to the boom with a chain, cable, or equivalent device of sufficient strength to control the trailer or dolly in case of failure of the connection consisting of a pin, coupling device, or fifth wheel assembly.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2006, Ch. 538, Sec. 664. Effective January 1, 2007.)",
+    "action": "Amended",
+    "statutes_year": 2006,
+    "chapter": "538",
+    "section": "664",
+    "bill_number": null,
+    "effective_date": "2007-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2006",
+  "op_chapter": "538",
+  "op_section": "664",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=29008.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/29008.html",
+  "content_sha256": "4bc28e4b66b9c5a53e98e0dd0680149e2a5ca5d34aa6972c75a07c30af513d4d",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

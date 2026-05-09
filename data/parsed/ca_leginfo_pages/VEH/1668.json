@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1668",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "2",
+  "article_title": "Powers and Duties",
+  "article_range": "1650 - 1685.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.2",
+  "text": "(a) The department may provide fingerprint service to the general public. When that service is provided, the department shall charge a fee of not less than five dollars ($5) for each person fingerprinted.\n\n(b) Whenever the department submits the fingerprints of an applicant for a license or certificate to the Department of Justice, and is required to pay a fee pursuant to subdivision (e) of Section 11105 of the Penal Code, the department, without the necessity of adopting regulations, shall charge the applicant a fee sufficient to reimburse the department for that fee.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 2. Powers and Duties [1650 - 1685.1]\n##### § 1668\n\n(a) The department may provide fingerprint service to the general public. When that service is provided, the department shall charge a fee of not less than five dollars ($5) for each person fingerprinted.\n\n(b) Whenever the department submits the fingerprints of an applicant for a license or certificate to the Department of Justice, and is required to pay a fee pursuant to subdivision (e) of Section 11105 of the Penal Code, the department, without the necessity of adopting regulations, shall charge the applicant a fee sufficient to reimburse the department for that fee.\n\n*(Amended by Stats. 1990, Ch. 1360, Sec. 1.5.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may provide fingerprint service to the general public. When that service is provided, the department shall charge a fee of not less than five dollars ($5) for each person fingerprinted.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Whenever the department submits the fingerprints of an applicant for a license or certificate to the Department of Justice, and is required to pay a fee pursuant to subdivision (e) of Section 11105 of the Penal Code, the department, without the necessity of adopting regulations, shall charge the applicant a fee sufficient to reimburse the department for that fee.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1990, Ch. 1360, Sec. 1.5.)",
+    "action": "Amended",
+    "statutes_year": 1990,
+    "chapter": "1360",
+    "section": "1.5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1990",
+  "op_chapter": "1360",
+  "op_section": "1.5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1668.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1668.html",
+  "content_sha256": "4ee8b6d35f9753d48661819d75a06fdacd43b2e0c6b886d6403e09219ef04d5b",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

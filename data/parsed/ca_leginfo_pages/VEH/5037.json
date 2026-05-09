@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5037",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8.1",
+  "article_title": "Motorized Bicycles",
+  "article_range": "5030 - 5039",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.10",
+  "text": "(a) No motorized bicycle first sold on or after July 1, 1981, shall be moved or operated upon a highway unless the owner first makes application for a license plate and, when received, attaches it to the motorized bicycle as provided in this article.\n\n(b) Motorized bicycles first sold prior to July 1, 1981, shall not be moved or operated upon a highway after January 1, 1982, unless the owner makes application for a license plate and, when received, attaches it to the motorized bicycle as provided in this article.\n\n(c) Any motorized bicycle currently licensed pursuant to Division 16.7 (commencing with Section 39000) on July 1, 1981, may be operated upon a highway until July 1, 1982.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8.1. Motorized Bicycles [5030 - 5039]\n##### § 5037\n\n(a) No motorized bicycle first sold on or after July 1, 1981, shall be moved or operated upon a highway unless the owner first makes application for a license plate and, when received, attaches it to the motorized bicycle as provided in this article.\n\n(b) Motorized bicycles first sold prior to July 1, 1981, shall not be moved or operated upon a highway after January 1, 1982, unless the owner makes application for a license plate and, when received, attaches it to the motorized bicycle as provided in this article.\n\n(c) Any motorized bicycle currently licensed pursuant to Division 16.7 (commencing with Section 39000) on July 1, 1981, may be operated upon a highway until July 1, 1982.\n\n*(Added by Stats. 1980, Ch. 1070, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No motorized bicycle first sold on or after July 1, 1981, shall be moved or operated upon a highway unless the owner first makes application for a license plate and, when received, attaches it to the motorized bicycle as provided in this article.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Motorized bicycles first sold prior to July 1, 1981, shall not be moved or operated upon a highway after January 1, 1982, unless the owner makes application for a license plate and, when received, attaches it to the motorized bicycle as provided in this article.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any motorized bicycle currently licensed pursuant to Division 16.7 (commencing with Section 39000) on July 1, 1981, may be operated upon a highway until July 1, 1982.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1980, Ch. 1070, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1980,
+    "chapter": "1070",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1980",
+  "op_chapter": "1070",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5037.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5037.html",
+  "content_sha256": "4b139e9a0c68020db690e593221230a8729c1f1a6ff1a8edabe684a4fe303547",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

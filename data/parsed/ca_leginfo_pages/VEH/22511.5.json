@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22511.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "(a) (1) A disabled person or disabled veteran displaying special license plates issued under Section 5007 or a distinguishing placard issued under Section 22511.55 or 22511.59 is allowed to park for unlimited periods in any of the following zones:\n\n(A) In any restricted zone described in paragraph (5) of subdivision (a) of Section 21458 or on streets upon which preferential parking privileges and height limits have been given pursuant to Section 22507.\n\n(B) In any parking zone that is restricted as to the length of time parking is permitted as indicated by a sign erected pursuant to a local ordinance.\n\n(2) A disabled person or disabled veteran is allowed to park in any metered parking space without being required to pay parking meter fees.\n\n(3) This subdivision does not apply to a zone for which state law or ordinance absolutely prohibits stopping, parking, or standing of all vehicles, or which the law or ordinance reserves for special types of vehicles, or to the parking of a vehicle that is involved in the operation of a street vending business.\n\n(b) A disabled person or disabled veteran is allowed to park a motor vehicle displaying a special disabled person license plate or placard issued by a foreign jurisdiction with the same parking privileges authorized in this code for any motor vehicle displaying a special license plate or a distinguishing placard issued by the Department of Motor Vehicles.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22511.5\n\n(a) (1) A disabled person or disabled veteran displaying special license plates issued under Section 5007 or a distinguishing placard issued under Section 22511.55 or 22511.59 is allowed to park for unlimited periods in any of the following zones:\n\n        (A) In any restricted zone described in paragraph (5) of subdivision (a) of Section 21458 or on streets upon which preferential parking privileges and height limits have been given pursuant to Section 22507.\n\n        (B) In any parking zone that is restricted as to the length of time parking is permitted as indicated by a sign erected pursuant to a local ordinance.\n\n    (2) A disabled person or disabled veteran is allowed to park in any metered parking space without being required to pay parking meter fees.\n\n    (3) This subdivision does not apply to a zone for which state law or ordinance absolutely prohibits stopping, parking, or standing of all vehicles, or which the law or ordinance reserves for special types of vehicles, or to the parking of a vehicle that is involved in the operation of a street vending business.\n\n(b) A disabled person or disabled veteran is allowed to park a motor vehicle displaying a special disabled person license plate or placard issued by a foreign jurisdiction with the same parking privileges authorized in this code for any motor vehicle displaying a special license plate or a distinguishing placard issued by the Department of Motor Vehicles.\n\n*(Amended by Stats. 2010, Ch. 478, Sec. 11. (AB 2777) Effective January 1, 2011.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "(1) A disabled person or disabled veteran displaying special license plates issued under Section 5007 or a distinguishing placard issued under Section 22511.55 or 22511.59 is allowed to park for unlimited periods in any of the following zones:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "A",
+      "text": "In any restricted zone described in paragraph (5) of subdivision (a) of Section 21458 or on streets upon which preferential parking privileges and height limits have been given pursuant to Section 22507.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "B",
+      "text": "In any parking zone that is restricted as to the length of time parking is permitted as indicated by a sign erected pursuant to a local ordinance.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "2",
+      "text": "A disabled person or disabled veteran is allowed to park in any metered parking space without being required to pay parking meter fees.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "This subdivision does not apply to a zone for which state law or ordinance absolutely prohibits stopping, parking, or standing of all vehicles, or which the law or ordinance reserves for special types of vehicles, or to the parking of a vehicle that is involved in the operation of a street vending business.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A disabled person or disabled veteran is allowed to park a motor vehicle displaying a special disabled person license plate or placard issued by a foreign jurisdiction with the same parking privileges authorized in this code for any motor vehicle displaying a special license plate or a distinguishing placard issued by the Department of Motor Vehicles.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2010, Ch. 478, Sec. 11. (AB 2777) Effective January 1, 2011.)",
+    "action": "Amended",
+    "statutes_year": 2010,
+    "chapter": "478",
+    "section": "11",
+    "bill_number": "AB 2777",
+    "effective_date": "2011-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2010",
+  "op_chapter": "478",
+  "op_section": "11",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22511.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22511.5.html",
+  "content_sha256": "a9a5b9937c6cc7505af9638a9d55cafc3b8a5d47bad9c581e0f73b92ca21b7a6",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

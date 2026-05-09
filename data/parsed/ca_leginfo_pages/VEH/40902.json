@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40902",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "3.5",
+  "chapter_title": "Evidence",
+  "chapter_range": "40900 - 40903",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.4",
+  "text": "(a) (1) The court , pursuant to this section, shall, by rule, provide that the defendant may elect to have a trial by written declaration upon any alleged infraction, as charged by the citing officer, involving a violation of this code or any local ordinance adopted pursuant to this code, other than an infraction cited pursuant to Article 2 (commencing with Section 23152) of Chapter 12 of Division 11.\n\n(2) The Judicial Council may adopt rules and forms governing trials by declaration in accordance with this section. Any rule or form adopted by the Judicial Council pursuant to this paragraph shall supersede any local rule of a court adopted pursuant to paragraph (1).\n\n(b) If the defendant elects to have a trial by written declaration, the defendant shall, at the time of submitting that declaration, submit bail in the amount established in the uniform traffic penalty schedule pursuant to Section 40310. If the defendant is found not guilty or if the charges are otherwise dismissed, the amount of the bail shall be promptly refunded to the defendant.\n\n(c) Notwithstanding Division 10 (commencing with Section 1200) of the Evidence Code, the rules governing trials by written declaration may provide for testimony and other relevant evidence to be introduced in the form of a notice to appear issued pursuant to Section 40500, a business record or receipt, a sworn declaration of the arresting officer, or a written statement or letter signed by the defendant.\n\n(d) If the defendant is dissatisfied with a decision of the court in a proceeding pursuant to this section, the defendant shall be granted a trial de novo.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 3.5. Evidence [40900 - 40903]\n##### § 40902\n\n(a) (1) The court , pursuant to this section, shall, by rule, provide that the defendant may elect to have a trial by written declaration upon any alleged infraction, as charged by the citing officer, involving a violation of this code or any local ordinance adopted pursuant to this code, other than an infraction cited pursuant to Article 2 (commencing with Section 23152) of Chapter 12 of Division 11.\n\n    (2) The Judicial Council may adopt rules and forms governing trials by declaration in accordance with this section. Any rule or form adopted by the Judicial Council pursuant to this paragraph shall supersede any local rule of a court adopted pursuant to paragraph (1).\n\n(b) If the defendant elects to have a trial by written declaration, the defendant shall, at the time of submitting that declaration, submit bail in the amount established in the uniform traffic penalty schedule pursuant to Section 40310. If the defendant is found not guilty or if the charges are otherwise dismissed, the amount of the bail shall be promptly refunded to the defendant.\n\n(c) Notwithstanding Division 10 (commencing with Section 1200) of the Evidence Code, the rules governing trials by written declaration may provide for testimony and other relevant evidence to be introduced in the form of a notice to appear issued pursuant to Section 40500, a business record or receipt, a sworn declaration of the arresting officer, or a written statement or letter signed by the defendant.\n\n(d) If the defendant is dissatisfied with a decision of the court in a proceeding pursuant to this section, the defendant shall be granted a trial de novo.\n\n*(Amended by Stats. 1998, Ch. 265, Sec. 1. Effective January 1, 1999.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "(1) The court , pursuant to this section, shall, by rule, provide that the defendant may elect to have a trial by written declaration upon any alleged infraction, as charged by the citing officer, involving a violation of this code or any local ordinance adopted pursuant to this code, other than an infraction cited pursuant to Article 2 (commencing with Section 23152) of Chapter 12 of Division 11.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The Judicial Council may adopt rules and forms governing trials by declaration in accordance with this section. Any rule or form adopted by the Judicial Council pursuant to this paragraph shall supersede any local rule of a court adopted pursuant to paragraph (1).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "If the defendant elects to have a trial by written declaration, the defendant shall, at the time of submitting that declaration, submit bail in the amount established in the uniform traffic penalty schedule pursuant to Section 40310. If the defendant is found not guilty or if the charges are otherwise dismissed, the amount of the bail shall be promptly refunded to the defendant.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Notwithstanding Division 10 (commencing with Section 1200) of the Evidence Code, the rules governing trials by written declaration may provide for testimony and other relevant evidence to be introduced in the form of a notice to appear issued pursuant to Section 40500, a business record or receipt, a sworn declaration of the arresting officer, or a written statement or letter signed by the defendant.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "If the defendant is dissatisfied with a decision of the court in a proceeding pursuant to this section, the defendant shall be granted a trial de novo.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1998, Ch. 265, Sec. 1. Effective January 1, 1999.)",
+    "action": "Amended",
+    "statutes_year": 1998,
+    "chapter": "265",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1999-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1998",
+  "op_chapter": "265",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40902.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40902.html",
+  "content_sha256": "b4600916de64093c8f83d70df8f655b9c2730084eee15f34259494bba4cf9c25",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21655.7",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "1",
+  "article_title": "Driving on Right Side",
+  "article_range": "21650 - 21664",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.1",
+  "text": "A local authority, with respect to any highway under its jurisdiction, may authorize or permit a portion of the highway to be used exclusively for a public mass transit guideway.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 1. Driving on Right Side [21650 - 21664]\n##### § 21655.7\n\nA local authority, with respect to any highway under its jurisdiction, may authorize or permit a portion of the highway to be used exclusively for a public mass transit guideway.\n\n*(Added by Stats. 1981, Ch. 1055, Sec. 12.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A local authority, with respect to any highway under its jurisdiction, may authorize or permit a portion of the highway to be used exclusively for a public mass transit guideway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1981, Ch. 1055, Sec. 12.)",
+    "action": "Added",
+    "statutes_year": 1981,
+    "chapter": "1055",
+    "section": "12",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1981",
+  "op_chapter": "1055",
+  "op_section": "12",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21655.7.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21655.7.html",
+  "content_sha256": "dfbd197c0dc009d73e62225485b82c19af2547921bdf01be452943dc2ee2bab8",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

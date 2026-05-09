@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40203",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "3",
+  "article_title": "Procedure on Parking Violations",
+  "article_range": "40200 - 40230",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.3",
+  "text": "The notice of parking violation shall be accompanied by a written notice of the amount of the parking penalty due for that violation, the address of the person authorized to receive a deposit of the parking penalty, a statement in bold print that payments of the parking penalty for the parking violation may be sent through the mail, and instructions on obtaining information on the procedures to contest the notice of parking violation.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 3. Procedure on Parking Violations [40200 - 40230]\n##### § 40203\n\nThe notice of parking violation shall be accompanied by a written notice of the amount of the parking penalty due for that violation, the address of the person authorized to receive a deposit of the parking penalty, a statement in bold print that payments of the parking penalty for the parking violation may be sent through the mail, and instructions on obtaining information on the procedures to contest the notice of parking violation.\n\n*(Amended by Stats. 1995, Ch. 734, Sec. 8. Effective January 1, 1996.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The notice of parking violation shall be accompanied by a written notice of the amount of the parking penalty due for that violation, the address of the person authorized to receive a deposit of the parking penalty, a statement in bold print that payments of the parking penalty for the parking violation may be sent through the mail, and instructions on obtaining information on the procedures to contest the notice of parking violation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1995, Ch. 734, Sec. 8. Effective January 1, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1995,
+    "chapter": "734",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": "1996-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1995",
+  "op_chapter": "734",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40203.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40203.html",
+  "content_sha256": "195a1bf195fc44643098489cf22340cb668f6ce46a44602f7d1752d1986b39c2",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

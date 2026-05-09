@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "14105.5",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "3",
+  "chapter_title": "Investigation and Hearing",
+  "chapter_range": "13800 - 14401",
+  "article": "3",
+  "article_title": "Hearing",
+  "article_range": "14100 - 14112",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.3.3",
+  "text": "(a) The person subject to a hearing may request a review of the decision taken under Section 14105 within 15 days of the effective date of the decision.\n\n(b) On receipt of a request for review, the department shall stay the action pending a decision on review, unless the hearing followed an action pursuant to Section 13353, 13353.2, or 13953. The review shall include an examination of the hearing report, documentary evidence, and findings. The hearing officer or hearing board conducting the original hearing may not participate in the review process.\n\n(c) Following the review, a written notice of the department’s decision shall be mailed to the person involved. If the action has been stayed pending review, the department’s decision shall take effect as stated in the notice, but not less than four nor more than 15 days after the notice is mailed.\n\n(d) The decision may be modified at any time after issuance to correct mistakes or clerical errors.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 3. Investigation and Hearing [13800 - 14401]\n#### Article 3. Hearing [14100 - 14112]\n##### § 14105.5\n\n(a) The person subject to a hearing may request a review of the decision taken under Section 14105 within 15 days of the effective date of the decision.\n\n(b) On receipt of a request for review, the department shall stay the action pending a decision on review, unless the hearing followed an action pursuant to Section 13353, 13353.2, or 13953. The review shall include an examination of the hearing report, documentary evidence, and findings. The hearing officer or hearing board conducting the original hearing may not participate in the review process.\n\n(c) Following the review, a written notice of the department’s decision shall be mailed to the person involved. If the action has been stayed pending review, the department’s decision shall take effect as stated in the notice, but not less than four nor more than 15 days after the notice is mailed.\n\n(d) The decision may be modified at any time after issuance to correct mistakes or clerical errors.\n\n*(Amended by Stats. 1999, Ch. 724, Sec. 34. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The person subject to a hearing may request a review of the decision taken under Section 14105 within 15 days of the effective date of the decision.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "On receipt of a request for review, the department shall stay the action pending a decision on review, unless the hearing followed an action pursuant to Section 13353, 13353.2, or 13953. The review shall include an examination of the hearing report, documentary evidence, and findings. The hearing officer or hearing board conducting the original hearing may not participate in the review process.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Following the review, a written notice of the department’s decision shall be mailed to the person involved. If the action has been stayed pending review, the department’s decision shall take effect as stated in the notice, but not less than four nor more than 15 days after the notice is mailed.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The decision may be modified at any time after issuance to correct mistakes or clerical errors.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 724, Sec. 34. Effective January 1, 2000.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "724",
+    "section": "34",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "724",
+  "op_section": "34",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=14105.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/14105.5.html",
+  "content_sha256": "bad4ea26fcc90989bffb1ff2d1d7eea748bd12fecab5db3c6239c976dabfe27a",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

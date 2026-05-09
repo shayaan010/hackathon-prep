@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "231.6",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) A “bicycle path crossing” is either of the following:\n\n(1) That portion of a roadway included within the prolongation or connection of the boundary lines of a bike path at intersections where the intersecting roadways meet at approximately right angles.\n\n(2) Any portion of a roadway distinctly indicated for bicycle crossing by lines or other markings on the surface.\n\n(b) Notwithstanding subdivision (a), there shall not be a bicycle path crossing where local authorities have placed signs indicating no crossing.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 231.6\n\n(a) A “bicycle path crossing” is either of the following:\n\n    (1) That portion of a roadway included within the prolongation or connection of the boundary lines of a bike path at intersections where the intersecting roadways meet at approximately right angles.\n\n    (2) Any portion of a roadway distinctly indicated for bicycle crossing by lines or other markings on the surface.\n\n(b) Notwithstanding subdivision (a), there shall not be a bicycle path crossing where local authorities have placed signs indicating no crossing.\n\n*(Added by Stats. 2009, Ch. 200, Sec. 6. (SB 734) Effective January 1, 2010.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A “bicycle path crossing” is either of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "That portion of a roadway included within the prolongation or connection of the boundary lines of a bike path at intersections where the intersecting roadways meet at approximately right angles.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Any portion of a roadway distinctly indicated for bicycle crossing by lines or other markings on the surface.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding subdivision (a), there shall not be a bicycle path crossing where local authorities have placed signs indicating no crossing.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2009, Ch. 200, Sec. 6. (SB 734) Effective January 1, 2010.)",
+    "action": "Added",
+    "statutes_year": 2009,
+    "chapter": "200",
+    "section": "6",
+    "bill_number": "SB 734",
+    "effective_date": "2010-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2009",
+  "op_chapter": "200",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=231.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/231.6.html",
+  "content_sha256": "c84c80cd9bfef05f29ffc67c3b587c5a5ba732b02ac361c255666a199e37110c",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

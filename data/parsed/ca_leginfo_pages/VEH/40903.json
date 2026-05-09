@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40903",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "3.5",
+  "chapter_title": "Evidence",
+  "chapter_range": "40900 - 40903",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.4",
+  "text": "(a) Any person who fails to appear as provided by law may be deemed to have elected to have a trial by written declaration upon any alleged infraction, as charged by the citing officer, involving a violation of this code or any local ordinance adopted pursuant to this code.\n\n(b) Notwithstanding Division 10 (commencing with Section 1200) of the Evidence Code, testimony and other relevant evidence may be introduced in the form of a notice to appear issued pursuant to Section 40500, a notice of parking violation issued pursuant to Section 40202, a notice of delinquent parking violation issued pursuant to Section 40206, a business record or receipt, a sworn declaration of the arresting officer, or a written statement or letter signed by the defendant.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 3.5. Evidence [40900 - 40903]\n##### § 40903\n\n(a) Any person who fails to appear as provided by law may be deemed to have elected to have a trial by written declaration upon any alleged infraction, as charged by the citing officer, involving a violation of this code or any local ordinance adopted pursuant to this code.\n\n(b) Notwithstanding Division 10 (commencing with Section 1200) of the Evidence Code, testimony and other relevant evidence may be introduced in the form of a notice to appear issued pursuant to Section 40500, a notice of parking violation issued pursuant to Section 40202, a notice of delinquent parking violation issued pursuant to Section 40206, a business record or receipt, a sworn declaration of the arresting officer, or a written statement or letter signed by the defendant.\n\n*(Added by Stats. 1992, Ch. 696, Sec. 95. Effective September 15, 1992.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any person who fails to appear as provided by law may be deemed to have elected to have a trial by written declaration upon any alleged infraction, as charged by the citing officer, involving a violation of this code or any local ordinance adopted pursuant to this code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding Division 10 (commencing with Section 1200) of the Evidence Code, testimony and other relevant evidence may be introduced in the form of a notice to appear issued pursuant to Section 40500, a notice of parking violation issued pursuant to Section 40202, a notice of delinquent parking violation issued pursuant to Section 40206, a business record or receipt, a sworn declaration of the arresting officer, or a written statement or letter signed by the defendant.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1992, Ch. 696, Sec. 95. Effective September 15, 1992.)",
+    "action": "Added",
+    "statutes_year": 1992,
+    "chapter": "696",
+    "section": "95",
+    "bill_number": null,
+    "effective_date": "1992-09-15",
+    "operative_date": null
+  },
+  "op_statues": "1992",
+  "op_chapter": "696",
+  "op_section": "95",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40903.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40903.html",
+  "content_sha256": "bfa36c9121185b51af6e40644cac15b37c020975ee06e5bb810256dcf2829d33",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

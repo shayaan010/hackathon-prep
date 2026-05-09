@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5169",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8.6",
+  "article_title": "Specialized License Plates",
+  "article_range": "5151 - 5169",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.14",
+  "text": "(a) The California Cultural and Historical Endowment shall apply to the department to sponsor a license plate program pursuant to this article.\n\n(b) The fees specified in Section 5157 shall be imposed for the issuance, renewal, or transfer of specialized license plates authorized by this section. Notwithstanding subdivision (c) of Section 5157, after deducting its administrative costs, the department shall deposit the revenue derived from the additional fees into the California Cultural and Historical Endowment Fund to fund the grant program described in Section 20092 of the Education Code.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8.6. Specialized License Plates [5151 - 5169]\n##### § 5169\n\n(a) The California Cultural and Historical Endowment shall apply to the department to sponsor a license plate program pursuant to this article.\n\n(b) The fees specified in Section 5157 shall be imposed for the issuance, renewal, or transfer of specialized license plates authorized by this section. Notwithstanding subdivision (c) of Section 5157, after deducting its administrative costs, the department shall deposit the revenue derived from the additional fees into the California Cultural and Historical Endowment Fund to fund the grant program described in Section 20092 of the Education Code.\n\n*(Added by Stats. 2016, Ch. 208, Sec. 9. (AB 2906) Effective January 1, 2017.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The California Cultural and Historical Endowment shall apply to the department to sponsor a license plate program pursuant to this article.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The fees specified in Section 5157 shall be imposed for the issuance, renewal, or transfer of specialized license plates authorized by this section. Notwithstanding subdivision (c) of Section 5157, after deducting its administrative costs, the department shall deposit the revenue derived from the additional fees into the California Cultural and Historical Endowment Fund to fund the grant program described in Section 20092 of the Education Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2016, Ch. 208, Sec. 9. (AB 2906) Effective January 1, 2017.)",
+    "action": "Added",
+    "statutes_year": 2016,
+    "chapter": "208",
+    "section": "9",
+    "bill_number": "AB 2906",
+    "effective_date": "2017-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2016",
+  "op_chapter": "208",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5169.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5169.html",
+  "content_sha256": "d7b58966677009c0b57c6546ac14753be3a3b9504f1abaeee34c32f1bacb5f91",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

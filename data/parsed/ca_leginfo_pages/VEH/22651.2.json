@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22651.2",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "10",
+  "chapter_title": "Removal of Parked and Abandoned Vehicles",
+  "chapter_range": "22650 - 22856",
+  "article": "1",
+  "article_title": "Authority to Remove Vehicles",
+  "article_range": "22650 - 22711",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.10.1",
+  "text": "(a) Any peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, or any regularly employed and salaried employee, who is engaged in directing traffic or enforcing parking laws and regulations of a city, county, or jurisdiction of a state agency in which a vehicle is located, may remove a vehicle located within the territorial limits in which the officer or employee may act when the vehicle is found upon a highway or any public lands, and if all of the following requirements are satisfied:\n\n(1) Because of the size and placement of signs or placards on the vehicle, it appears that the primary purpose of parking the vehicle at that location is to advertise to the public an event or function on private property or on public property hired for a private event or function to which the public is invited.\n\n(2) The vehicle is known to have been previously issued a notice of parking violation that was accompanied by a notice warning that an additional parking violation may result in the impoundment of the vehicle.\n\n(3) The registered owner of the vehicle has been mailed a notice advising of the existence of the parking violation and that an additional violation may result in the impoundment of the vehicle.\n\n(b) Subdivision (a) does not apply to a vehicle bearing any sign or placard advertising any business or enterprise carried on by or through the use of that vehicle.\n\n(c) Section 22852 applies to the removal of any vehicle pursuant to this section.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 10. Removal of Parked and Abandoned Vehicles [22650 - 22856]\n#### Article 1. Authority to Remove Vehicles [22650 - 22711]\n##### § 22651.2\n\n(a) Any peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, or any regularly employed and salaried employee, who is engaged in directing traffic or enforcing parking laws and regulations of a city, county, or jurisdiction of a state agency in which a vehicle is located, may remove a vehicle located within the territorial limits in which the officer or employee may act when the vehicle is found upon a highway or any public lands, and if all of the following requirements are satisfied:\n\n    (1) Because of the size and placement of signs or placards on the vehicle, it appears that the primary purpose of parking the vehicle at that location is to advertise to the public an event or function on private property or on public property hired for a private event or function to which the public is invited.\n\n    (2) The vehicle is known to have been previously issued a notice of parking violation that was accompanied by a notice warning that an additional parking violation may result in the impoundment of the vehicle.\n\n    (3) The registered owner of the vehicle has been mailed a notice advising of the existence of the parking violation and that an additional violation may result in the impoundment of the vehicle.\n\n(b) Subdivision (a) does not apply to a vehicle bearing any sign or placard advertising any business or enterprise carried on by or through the use of that vehicle.\n\n(c) Section 22852 applies to the removal of any vehicle pursuant to this section.\n\n*(Amended by Stats. 1997, Ch. 17, Sec. 144. Effective January 1, 1998.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, or any regularly employed and salaried employee, who is engaged in directing traffic or enforcing parking laws and regulations of a city, county, or jurisdiction of a state agency in which a vehicle is located, may remove a vehicle located within the territorial limits in which the officer or employee may act when the vehicle is found upon a highway or any public lands, and if all of the following requirements are satisfied:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Because of the size and placement of signs or placards on the vehicle, it appears that the primary purpose of parking the vehicle at that location is to advertise to the public an event or function on private property or on public property hired for a private event or function to which the public is invited.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The vehicle is known to have been previously issued a notice of parking violation that was accompanied by a notice warning that an additional parking violation may result in the impoundment of the vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The registered owner of the vehicle has been mailed a notice advising of the existence of the parking violation and that an additional violation may result in the impoundment of the vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Subdivision (a) does not apply to a vehicle bearing any sign or placard advertising any business or enterprise carried on by or through the use of that vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Section 22852 applies to the removal of any vehicle pursuant to this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1997, Ch. 17, Sec. 144. Effective January 1, 1998.)",
+    "action": "Amended",
+    "statutes_year": 1997,
+    "chapter": "17",
+    "section": "144",
+    "bill_number": null,
+    "effective_date": "1998-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1997",
+  "op_chapter": "17",
+  "op_section": "144",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22651.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22651.2.html",
+  "content_sha256": "3495e8a0809afb72c5a9c4bfec3693027781cb71c9c9209ed6b1d81bf2ea17b3",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

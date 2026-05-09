@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "14606",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "4",
+  "chapter_title": "Violation of License Provisions",
+  "chapter_range": "14600 - 14611",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.4",
+  "text": "(a) A person shall not employ, hire, knowingly permit, or authorize any person to drive a motor vehicle owned by him or her or under his or her control upon the highways unless that person is licensed for the appropriate class of vehicle to be driven.\n\n(b) Whenever a person fails to qualify, on reexamination, to operate a commercial motor vehicle, an employer shall report that failure to the department within 10 days.\n\n(c) An employer shall obtain from a driver required to have a commercial driver’s license or commercial endorsement a copy of the driver’s medical certification before allowing the driver to operate a commercial motor vehicle. The employer shall retain the certification as part of a driver qualification file.\n\n(d) This section shall become operative on January 30, 2014.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 4. Violation of License Provisions [14600 - 14611]\n##### § 14606\n\n(a) A person shall not employ, hire, knowingly permit, or authorize any person to drive a motor vehicle owned by him or her or under his or her control upon the highways unless that person is licensed for the appropriate class of vehicle to be driven.\n\n(b) Whenever a person fails to qualify, on reexamination, to operate a commercial motor vehicle, an employer shall report that failure to the department within 10 days.\n\n(c) An employer shall obtain from a driver required to have a commercial driver’s license or commercial endorsement a copy of the driver’s medical certification before allowing the driver to operate a commercial motor vehicle. The employer shall retain the certification as part of a driver qualification file.\n\n(d) This section shall become operative on January 30, 2014.\n\n*(Amended (as added by Stats. 2012, Ch. 670, Sec. 7) by Stats. 2013, Ch. 523, Sec. 30. (SB 788) Effective January 1, 2014. Section operative January 30, 2014, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person shall not employ, hire, knowingly permit, or authorize any person to drive a motor vehicle owned by him or her or under his or her control upon the highways unless that person is licensed for the appropriate class of vehicle to be driven.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Whenever a person fails to qualify, on reexamination, to operate a commercial motor vehicle, an employer shall report that failure to the department within 10 days.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "An employer shall obtain from a driver required to have a commercial driver’s license or commercial endorsement a copy of the driver’s medical certification before allowing the driver to operate a commercial motor vehicle. The employer shall retain the certification as part of a driver qualification file.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "This section shall become operative on January 30, 2014.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended (as added by Stats. 2012, Ch. 670, Sec. 7) by Stats. 2013, Ch. 523, Sec. 30. (SB 788) Effective January 1, 2014. Section operative January 30, 2014, by its own provisions.)",
+    "action": "Amended",
+    "statutes_year": 2013,
+    "chapter": "523",
+    "section": "30",
+    "bill_number": "SB 788",
+    "effective_date": "2014-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2013",
+  "op_chapter": "523",
+  "op_section": "30",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=14606.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/14606.html",
+  "content_sha256": "2fb9324e801f1c738a0af8f6a9b23edd1b92cb40d9c9e1d61b1afd9e742ec823",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

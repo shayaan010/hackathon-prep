@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21207.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "4",
+  "article_title": "Operation of Bicycles",
+  "article_range": "21200 - 21214.7",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.4",
+  "text": "(a) Notwithstanding Sections 21207 and 23127 of this code, or any other law, a motorized bicycle shall not be operated on a bicycle path or trail, bikeway, bicycle lane established pursuant to Section 21207, equestrian trail, or hiking or recreational trail, unless it is within or adjacent to a roadway or unless the local authority or the governing body of a public agency having jurisdiction over the path or trail permits, by ordinance, that operation.\n\n(b) The local authority or governing body of a public agency having jurisdiction over an equestrian trail, or hiking or recreational trail, may prohibit, by ordinance, the operation of an electric bicycle or any class of electric bicycle on that trail.\n\n(c) The Department of Parks and Recreation may prohibit the operation of an electric bicycle or any class of electric bicycle on any bicycle path or trail within the department’s jurisdiction.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 4. Operation of Bicycles [21200 - 21214.7]\n##### § 21207.5\n\n(a) Notwithstanding Sections 21207 and 23127 of this code, or any other law, a motorized bicycle shall not be operated on a bicycle path or trail, bikeway, bicycle lane established pursuant to Section 21207, equestrian trail, or hiking or recreational trail, unless it is within or adjacent to a roadway or unless the local authority or the governing body of a public agency having jurisdiction over the path or trail permits, by ordinance, that operation.\n\n(b) The local authority or governing body of a public agency having jurisdiction over an equestrian trail, or hiking or recreational trail, may prohibit, by ordinance, the operation of an electric bicycle or any class of electric bicycle on that trail.\n\n(c) The Department of Parks and Recreation may prohibit the operation of an electric bicycle or any class of electric bicycle on any bicycle path or trail within the department’s jurisdiction.\n\n*(Amended by Stats. 2022, Ch. 343, Sec. 1. (AB 1909) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Notwithstanding Sections 21207 and 23127 of this code, or any other law, a motorized bicycle shall not be operated on a bicycle path or trail, bikeway, bicycle lane established pursuant to Section 21207, equestrian trail, or hiking or recreational trail, unless it is within or adjacent to a roadway or unless the local authority or the governing body of a public agency having jurisdiction over the path or trail permits, by ordinance, that operation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The local authority or governing body of a public agency having jurisdiction over an equestrian trail, or hiking or recreational trail, may prohibit, by ordinance, the operation of an electric bicycle or any class of electric bicycle on that trail.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The Department of Parks and Recreation may prohibit the operation of an electric bicycle or any class of electric bicycle on any bicycle path or trail within the department’s jurisdiction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 343, Sec. 1. (AB 1909) Effective January 1, 2023.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "343",
+    "section": "1",
+    "bill_number": "AB 1909",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "343",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21207.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21207.5.html",
+  "content_sha256": "668497192de69ea0376eee80cc0a6c77a617a2a781a65e0e5246013d15fb25ea",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

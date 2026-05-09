@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35754",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "5",
+  "article_title": "Bridges and Other Structures",
+  "article_range": "35750 - 35755",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.6",
+  "text": "Whenever, in the opinion of a local authority, a bridge under its jurisdiction is in a dangerous or weak condition, it may temporarily erect suitable signs at all entrances to such bridge specifying the maximum weight which it believes the bridge with safety to itself will sustain. The maximum weight limit so fixed and posted shall remain in effect for not more than 90 days.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 5. Bridges and Other Structures [35750 - 35755]\n##### § 35754\n\nWhenever, in the opinion of a local authority, a bridge under its jurisdiction is in a dangerous or weak condition, it may temporarily erect suitable signs at all entrances to such bridge specifying the maximum weight which it believes the bridge with safety to itself will sustain. The maximum weight limit so fixed and posted shall remain in effect for not more than 90 days.\n\n*(Amended by Stats. 1972, Ch. 597.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever, in the opinion of a local authority, a bridge under its jurisdiction is in a dangerous or weak condition, it may temporarily erect suitable signs at all entrances to such bridge specifying the maximum weight which it believes the bridge with safety to itself will sustain. The maximum weight limit so fixed and posted shall remain in effect for not more than 90 days.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1972, Ch. 597.)",
+    "action": "Amended",
+    "statutes_year": 1972,
+    "chapter": "597",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1972",
+  "op_chapter": "597",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35754.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35754.html",
+  "content_sha256": "f6c8650e3ed25337620109f3187bbc76e6f901769169db92828ba75aef736be8",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2908",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "5",
+  "chapter_title": "California Traffic Safety Program",
+  "chapter_range": "2900 - 2935",
+  "article": "1",
+  "article_title": "Traffic Safety",
+  "article_range": "2900 - 2911",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.5.1",
+  "text": "The Governor shall apportion any funds contained in the California Traffic Safety Program Fund among the various state agencies and local political subdivisions as shall effectuate the purposes of the program, and, in accordance with any federal formula for apportionment or other federal requirements as contained in federal enactments, regulations, or standards promulgated by the Secretary of Commerce.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 5. California Traffic Safety Program [2900 - 2935]\n#### Article 1. Traffic Safety [2900 - 2911]\n##### § 2908\n\nThe Governor shall apportion any funds contained in the California Traffic Safety Program Fund among the various state agencies and local political subdivisions as shall effectuate the purposes of the program, and, in accordance with any federal formula for apportionment or other federal requirements as contained in federal enactments, regulations, or standards promulgated by the Secretary of Commerce.\n\n*(Added by Stats. 1967, Ch. 1492.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The Governor shall apportion any funds contained in the California Traffic Safety Program Fund among the various state agencies and local political subdivisions as shall effectuate the purposes of the program, and, in accordance with any federal formula for apportionment or other federal requirements as contained in federal enactments, regulations, or standards promulgated by the Secretary of Commerce.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1967, Ch. 1492.)",
+    "action": "Added",
+    "statutes_year": 1967,
+    "chapter": "1492",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1967",
+  "op_chapter": "1492",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2908.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2908.html",
+  "content_sha256": "926fc27a2e67a204fa09b7d8765410e4ee41a56c0ef8b8a113ee4731075ab149",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

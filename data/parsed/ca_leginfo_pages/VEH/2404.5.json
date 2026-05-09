@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2404.5",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "The department shall obtain a vehicle suitable for registration and commercial safety inspections at border crossings into Mexico.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2404.5\n\nThe department shall obtain a vehicle suitable for registration and commercial safety inspections at border crossings into Mexico.\n\n*(Amended by Stats. 2016, Ch. 86, Sec. 299. (SB 1171) Effective January 1, 2017.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department shall obtain a vehicle suitable for registration and commercial safety inspections at border crossings into Mexico.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2016, Ch. 86, Sec. 299. (SB 1171) Effective January 1, 2017.)",
+    "action": "Amended",
+    "statutes_year": 2016,
+    "chapter": "86",
+    "section": "299",
+    "bill_number": "SB 1171",
+    "effective_date": "2017-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2016",
+  "op_chapter": "86",
+  "op_section": "299",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2404.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2404.5.html",
+  "content_sha256": "5a4b9be5bdb6497e200006309779adc1c00c40469c1af70c0c7ad18e08b7c050",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

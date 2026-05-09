@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22352.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "1",
+  "article_title": "Generally",
+  "article_range": "22348 - 22366",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.1",
+  "text": "(a) Notwithstanding Section 22352, a local authority may, by ordinance or resolution, determine and declare a prima facie speed limit of 20 miles per hour in a school zone.\n\n(b) For purposes of this section, “school zone” has the same meaning as defined in Section 22352.\n\n(c) This section shall remain in effect until January 1, 2031, and as of that date is repealed.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 1. Generally [22348 - 22366]\n##### § 22352.5\n\n(a) Notwithstanding Section 22352, a local authority may, by ordinance or resolution, determine and declare a prima facie speed limit of 20 miles per hour in a school zone.\n\n(b) For purposes of this section, “school zone” has the same meaning as defined in Section 22352.\n\n(c) This section shall remain in effect until January 1, 2031, and as of that date is repealed.\n\n*(Added by Stats. 2025, Ch. 555, Sec. 3. (AB 382) Effective January 1, 2026. Repealed as of January 1, 2031, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Notwithstanding Section 22352, a local authority may, by ordinance or resolution, determine and declare a prima facie speed limit of 20 miles per hour in a school zone.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For purposes of this section, “school zone” has the same meaning as defined in Section 22352.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section shall remain in effect until January 1, 2031, and as of that date is repealed.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2025, Ch. 555, Sec. 3. (AB 382) Effective January 1, 2026. Repealed as of January 1, 2031, by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 2025,
+    "chapter": "555",
+    "section": "3",
+    "bill_number": "AB 382",
+    "effective_date": "2026-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2025",
+  "op_chapter": "555",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22352.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22352.5.html",
+  "content_sha256": "0681b8c4a40b7a49ee54cb6988c31dad91c7a35137ac733aedfcaf525f9e40c8",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5031",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8.1",
+  "article_title": "Motorized Bicycles",
+  "article_range": "5030 - 5039",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.10",
+  "text": "An application by a person other than a manufacturer or dealer for a license plate for a motorized bicycle shall include all the following:\n\n(a) The true, full name and the driver’s license or identification card number, if any, of the owner.\n\n(b) A description of the motorized bicycle, including any distinctive marks or features.\n\n(c) Other information as may reasonably be required by the department to determine whether a license plate shall be issued for the motorized bicycle.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8.1. Motorized Bicycles [5030 - 5039]\n##### § 5031\n\nAn application by a person other than a manufacturer or dealer for a license plate for a motorized bicycle shall include all the following:\n\n(a) The true, full name and the driver’s license or identification card number, if any, of the owner.\n\n(b) A description of the motorized bicycle, including any distinctive marks or features.\n\n(c) Other information as may reasonably be required by the department to determine whether a license plate shall be issued for the motorized bicycle.\n\n*(Amended by Stats. 1994, Ch. 1221, Sec. 6. Effective January 1, 1995.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "An application by a person other than a manufacturer or dealer for a license plate for a motorized bicycle shall include all the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The true, full name and the driver’s license or identification card number, if any, of the owner.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A description of the motorized bicycle, including any distinctive marks or features.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Other information as may reasonably be required by the department to determine whether a license plate shall be issued for the motorized bicycle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 1221, Sec. 6. Effective January 1, 1995.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "1221",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "1221",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5031.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5031.html",
+  "content_sha256": "a95b6ac2178264c4dea8ab555df9c2d57e08592d8749b84e2e263d91697fbe4c",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

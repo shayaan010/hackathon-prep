@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9861",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "2",
+  "chapter_title": "Registration",
+  "chapter_range": "9850 - 9880",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.2",
+  "text": "All certificates of number expire on December 31 of every odd-numbered year.",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 2. Registration [9850 - 9880]\n##### § 9861\n\nAll certificates of number expire on December 31 of every odd-numbered year.\n\n*(Amended by Stats. 2005, Ch. 473, Sec. 3. Effective January 1, 2006.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "All certificates of number expire on December 31 of every odd-numbered year.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2005, Ch. 473, Sec. 3. Effective January 1, 2006.)",
+    "action": "Amended",
+    "statutes_year": 2005,
+    "chapter": "473",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2006-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2005",
+  "op_chapter": "473",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9861.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9861.html",
+  "content_sha256": "8f33e39ed3529259b368b67ef2bdf1c0bbd7647f2aa2fb30aa9a0f37abf919ef",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

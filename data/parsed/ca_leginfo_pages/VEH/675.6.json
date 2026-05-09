@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "675.6",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) “Vehicle verifier” does not include any of the following:\n\n(1) A peace officer.\n\n(2) An authorized employee of the department.\n\n(3) An agent of the National Insurance Crime Bureau.\n\n(4) An employee of an organization certified under the provisions of Part 5 (commencing with Section 12140) of Division 2 of the Insurance Code whose duties require or authorize the verification of vehicles.\n\n(b) Any person specified in subdivision (a) may perform the duties of a vehicle verifier without obtaining the special permit required in Section 11300.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 675.6\n\n(a) “Vehicle verifier” does not include any of the following:\n\n    (1) A peace officer.\n\n    (2) An authorized employee of the department.\n\n    (3) An agent of the National Insurance Crime Bureau.\n\n    (4) An employee of an organization certified under the provisions of Part 5 (commencing with Section 12140) of Division 2 of the Insurance Code whose duties require or authorize the verification of vehicles.\n\n(b) Any person specified in subdivision (a) may perform the duties of a vehicle verifier without obtaining the special permit required in Section 11300.\n\n*(Amended by Stats. 2018, Ch. 198, Sec. 17. (AB 3246) Effective January 1, 2019.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "“Vehicle verifier” does not include any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A peace officer.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "An authorized employee of the department.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "An agent of the National Insurance Crime Bureau.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "An employee of an organization certified under the provisions of Part 5 (commencing with Section 12140) of Division 2 of the Insurance Code whose duties require or authorize the verification of vehicles.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Any person specified in subdivision (a) may perform the duties of a vehicle verifier without obtaining the special permit required in Section 11300.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2018, Ch. 198, Sec. 17. (AB 3246) Effective January 1, 2019.)",
+    "action": "Amended",
+    "statutes_year": 2018,
+    "chapter": "198",
+    "section": "17",
+    "bill_number": "AB 3246",
+    "effective_date": "2019-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2018",
+  "op_chapter": "198",
+  "op_section": "17",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=675.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/675.6.html",
+  "content_sha256": "5d4a3b821c7c1dd84bbfc27b22030283b8717efc17db4bcd324bee381772d695",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

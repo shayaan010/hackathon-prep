@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40000.5",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "A violation of any of the following provisions shall constitute a misdemeanor, and not an infraction:\n\nSection 20, relating to false statements.\n\nSection 27, relating to impersonating a member of the California Highway Patrol.\n\nSection 31, relating to giving false information.\n\nParagraph (3) of subdivision (a), or subdivision (b), or both, of Section 221, relating to proper evidence of clearance for dismantling.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40000.5\n\nA violation of any of the following provisions shall constitute a misdemeanor, and not an infraction:\n\nSection 20, relating to false statements.\n\nSection 27, relating to impersonating a member of the California Highway Patrol.\n\nSection 31, relating to giving false information.\n\nParagraph (3) of subdivision (a), or subdivision (b), or both, of Section 221, relating to proper evidence of clearance for dismantling.\n\n*(Amended by Stats. 1999, Ch. 316, Sec. 3. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A violation of any of the following provisions shall constitute a misdemeanor, and not an infraction:",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Section 20, relating to false statements.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Section 27, relating to impersonating a member of the California Highway Patrol.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Section 31, relating to giving false information.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Paragraph (3) of subdivision (a), or subdivision (b), or both, of Section 221, relating to proper evidence of clearance for dismantling.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 316, Sec. 3. Effective January 1, 2000.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "316",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "316",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40000.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40000.5.html",
+  "content_sha256": "976b3b3c0e91f837f5c973de5d634bdb97ca556764a3f16069bd30ba5dada83b",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

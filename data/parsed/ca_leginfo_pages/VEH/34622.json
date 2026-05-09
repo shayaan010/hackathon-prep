@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34622",
+  "division": "14.85",
+  "division_title": "MOTOR CARRIERS OF PROPERTY PERMIT ACT",
+  "division_range": "34600 - 34672",
+  "chapter": "2",
+  "chapter_title": "Motor Carrier Permits",
+  "chapter_range": "34620 - 34624",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "26.2",
+  "text": "This chapter does not apply to any of the following:\n\n(a) Vehicles described in Section 5004 or 5011, and those that are exempt from vehicle registration fees.\n\n(b) A household mover transporting used office, store, and institution furniture and fixtures under its household mover permit pursuant to Section 19241 of the Business and Professions Code.",
+  "markdown": "# Vehicle Code\n## Division 14.85. MOTOR CARRIERS OF PROPERTY PERMIT ACT [34600 - 34672]\n### Chapter 2. Motor Carrier Permits [34620 - 34624]\n##### § 34622\n\nThis chapter does not apply to any of the following:\n\n(a) Vehicles described in Section 5004 or 5011, and those that are exempt from vehicle registration fees.\n\n(b) A household mover transporting used office, store, and institution furniture and fixtures under its household mover permit pursuant to Section 19241 of the Business and Professions Code.\n\n*(Amended by Stats. 2022, Ch. 295, Sec. 26. (AB 2956) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "This chapter does not apply to any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Vehicles described in Section 5004 or 5011, and those that are exempt from vehicle registration fees.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A household mover transporting used office, store, and institution furniture and fixtures under its household mover permit pursuant to Section 19241 of the Business and Professions Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 295, Sec. 26. (AB 2956) Effective January 1, 2023.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "295",
+    "section": "26",
+    "bill_number": "AB 2956",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "295",
+  "op_section": "26",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34622.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34622.html",
+  "content_sha256": "a8a381661eb7afca4b2271c75b9434603c29a30b9add9cb51041f88b0d3b56c2",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9552",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "4",
+  "article_title": "Payment of Fees",
+  "article_range": "9550 - 9564",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.4",
+  "text": "(a) Whenever any vehicle is operated upon any highway of this state without the fees first having been paid as required by this code, and those fees have not been paid within 20 days of its first operation, those fees are delinquent, except as provided in subdivision (b).\n\n(b) Fees are delinquent whenever application for renewal of registration, or any application for renewal of special license plates, is made after midnight of the expiration date of the registration or special plates, or 60 days after the date the registered owner is notified by the department pursuant to Section 1661, whichever is later.\n\n(c) Whenever any person has received as transferee a properly endorsed certificate of ownership and the transfer fee has not been paid as required by this code within 10 days, the fee is delinquent.\n\n(d) Whenever any person becomes an automobile dismantler, dealer, manufacturer, manufacturer branch, distributor, distributor branch, or transporter without first having paid the license and special plate fees as required by this code, the fees are delinquent.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 4. Payment of Fees [9550 - 9564]\n##### § 9552\n\n(a) Whenever any vehicle is operated upon any highway of this state without the fees first having been paid as required by this code, and those fees have not been paid within 20 days of its first operation, those fees are delinquent, except as provided in subdivision (b).\n\n(b) Fees are delinquent whenever application for renewal of registration, or any application for renewal of special license plates, is made after midnight of the expiration date of the registration or special plates, or 60 days after the date the registered owner is notified by the department pursuant to Section 1661, whichever is later.\n\n(c) Whenever any person has received as transferee a properly endorsed certificate of ownership and the transfer fee has not been paid as required by this code within 10 days, the fee is delinquent.\n\n(d) Whenever any person becomes an automobile dismantler, dealer, manufacturer, manufacturer branch, distributor, distributor branch, or transporter without first having paid the license and special plate fees as required by this code, the fees are delinquent.\n\n*(Amended by Stats. 2002, Ch. 805, Sec. 13. Effective September 23, 2002.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever any vehicle is operated upon any highway of this state without the fees first having been paid as required by this code, and those fees have not been paid within 20 days of its first operation, those fees are delinquent, except as provided in subdivision (b).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Fees are delinquent whenever application for renewal of registration, or any application for renewal of special license plates, is made after midnight of the expiration date of the registration or special plates, or 60 days after the date the registered owner is notified by the department pursuant to Section 1661, whichever is later.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Whenever any person has received as transferee a properly endorsed certificate of ownership and the transfer fee has not been paid as required by this code within 10 days, the fee is delinquent.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Whenever any person becomes an automobile dismantler, dealer, manufacturer, manufacturer branch, distributor, distributor branch, or transporter without first having paid the license and special plate fees as required by this code, the fees are delinquent.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2002, Ch. 805, Sec. 13. Effective September 23, 2002.)",
+    "action": "Amended",
+    "statutes_year": 2002,
+    "chapter": "805",
+    "section": "13",
+    "bill_number": null,
+    "effective_date": "2002-09-23",
+    "operative_date": null
+  },
+  "op_statues": "2002",
+  "op_chapter": "805",
+  "op_section": "13",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9552.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9552.html",
+  "content_sha256": "912923caac88bac57697ded9b7c15a3d9ca545314a5a25a56216a3f5432f795e",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

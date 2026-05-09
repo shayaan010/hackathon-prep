@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "32053",
+  "division": "14.1",
+  "division_title": "TRANSPORTATION OF HAZARDOUS MATERIAL",
+  "division_range": "32000 - 32053",
+  "chapter": "2",
+  "chapter_title": "Notification of Routes",
+  "chapter_range": "32050 - 32053",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "21.2",
+  "text": "(a) Any carrier who violates Section 32050, 32051, or 32052, in addition to any other penalty provided by law, is subject to a civil penalty of not less than five hundred dollars ($500) or more than one thousand dollars ($1,000) for each violation. For purposes of this section, each day of a continuing violation is a separate violation.\n\n(b) When establishing the amount of the civil penalty, the court shall consider, in addition to other relevant circumstances, all of the following:\n\n(1) The extent of the harm caused by the violation.\n\n(2) The persistence of the violation.\n\n(3) The number of prior violations by the same violator.\n\n(4) The deterrent value of the penalty based on the financial resources of the violator.",
+  "markdown": "# Vehicle Code\n## Division 14.1. TRANSPORTATION OF HAZARDOUS MATERIAL [32000 - 32053]\n### Chapter 2. Notification of Routes [32050 - 32053]\n##### § 32053\n\n(a) Any carrier who violates Section 32050, 32051, or 32052, in addition to any other penalty provided by law, is subject to a civil penalty of not less than five hundred dollars ($500) or more than one thousand dollars ($1,000) for each violation. For purposes of this section, each day of a continuing violation is a separate violation.\n\n(b) When establishing the amount of the civil penalty, the court shall consider, in addition to other relevant circumstances, all of the following:\n\n    (1) The extent of the harm caused by the violation.\n\n    (2) The persistence of the violation.\n\n    (3) The number of prior violations by the same violator.\n\n    (4) The deterrent value of the penalty based on the financial resources of the violator.\n\n*(Added by Stats. 1988, Ch. 1222, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any carrier who violates Section 32050, 32051, or 32052, in addition to any other penalty provided by law, is subject to a civil penalty of not less than five hundred dollars ($500) or more than one thousand dollars ($1,000) for each violation. For purposes of this section, each day of a continuing violation is a separate violation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When establishing the amount of the civil penalty, the court shall consider, in addition to other relevant circumstances, all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The extent of the harm caused by the violation.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The persistence of the violation.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The number of prior violations by the same violator.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "The deterrent value of the penalty based on the financial resources of the violator.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 1222, Sec. 2.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "1222",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1222",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=32053.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/32053.html",
+  "content_sha256": "92f3e3932f3ac8b12fc3eb5975f5f560170fb4d214bce259d55dbd4aba7e6209",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

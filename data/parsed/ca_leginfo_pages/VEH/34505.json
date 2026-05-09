@@ -1,0 +1,97 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34505",
+  "division": "14.8",
+  "division_title": "SAFETY REGULATIONS",
+  "division_range": "34500 - 34520.5",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "25",
+  "text": "(a) Tour bus operators shall, in addition to the systematic inspection, maintenance, and lubrication services required of all motor carriers, require each tour bus to be inspected at least every 45 days, or more often if necessary to ensure safe operation. This inspection shall include, but not be limited to, all of the following:\n\n(1) Brake adjustment.\n\n(2) Brake system components and leaks.\n\n(3) Steering and suspension systems.\n\n(4) Tires and wheels.\n\n(b) A tour bus shall not be used to transport passengers until all defects listed during the inspection conducted pursuant to subdivision (a) have been corrected and attested to by the signature of the operator’s authorized representative.\n\n(c) Records of inspections conducted pursuant to subdivision (a) shall be kept at the operator’s maintenance facility or terminal where the tour bus is regularly garaged. The records shall be retained by the operator for one year, and shall be made available for inspection upon request by any authorized employee of the department. Each record shall include, but not be limited to, all of the following:\n\n(1) Identification of the vehicle, including make, model, license number, or other means of positive identification.\n\n(2) Date and nature of each inspection and any repair performed.\n\n(3) Signature of operator’s authorized representative attesting to the inspection and to the completion of all required repairs.\n\n(4) Company vehicle number.",
+  "markdown": "# Vehicle Code\n## Division 14.8. SAFETY REGULATIONS [34500 - 34520.5]\n##### § 34505\n\n(a) Tour bus operators shall, in addition to the systematic inspection, maintenance, and lubrication services required of all motor carriers, require each tour bus to be inspected at least every 45 days, or more often if necessary to ensure safe operation. This inspection shall include, but not be limited to, all of the following:\n\n    (1) Brake adjustment.\n\n    (2) Brake system components and leaks.\n\n    (3) Steering and suspension systems.\n\n    (4) Tires and wheels.\n\n(b) A tour bus shall not be used to transport passengers until all defects listed during the inspection conducted pursuant to subdivision (a) have been corrected and attested to by the signature of the operator’s authorized representative.\n\n(c) Records of inspections conducted pursuant to subdivision (a) shall be kept at the operator’s maintenance facility or terminal where the tour bus is regularly garaged. The records shall be retained by the operator for one year, and shall be made available for inspection upon request by any authorized employee of the department. Each record shall include, but not be limited to, all of the following:\n\n    (1) Identification of the vehicle, including make, model, license number, or other means of positive identification.\n\n    (2) Date and nature of each inspection and any repair performed.\n\n    (3) Signature of operator’s authorized representative attesting to the inspection and to the completion of all required repairs.\n\n    (4) Company vehicle number.\n\n*(Added by Stats. 1986, Ch. 1306, Sec. 16.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Tour bus operators shall, in addition to the systematic inspection, maintenance, and lubrication services required of all motor carriers, require each tour bus to be inspected at least every 45 days, or more often if necessary to ensure safe operation. This inspection shall include, but not be limited to, all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Brake adjustment.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Brake system components and leaks.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Steering and suspension systems.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Tires and wheels.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A tour bus shall not be used to transport passengers until all defects listed during the inspection conducted pursuant to subdivision (a) have been corrected and attested to by the signature of the operator’s authorized representative.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Records of inspections conducted pursuant to subdivision (a) shall be kept at the operator’s maintenance facility or terminal where the tour bus is regularly garaged. The records shall be retained by the operator for one year, and shall be made available for inspection upon request by any authorized employee of the department. Each record shall include, but not be limited to, all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Identification of the vehicle, including make, model, license number, or other means of positive identification.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Date and nature of each inspection and any repair performed.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Signature of operator’s authorized representative attesting to the inspection and to the completion of all required repairs.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Company vehicle number.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1986, Ch. 1306, Sec. 16.)",
+    "action": "Added",
+    "statutes_year": 1986,
+    "chapter": "1306",
+    "section": "16",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1986",
+  "op_chapter": "1306",
+  "op_section": "16",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34505.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34505.html",
+  "content_sha256": "4f78a534b0e2a879e06259ffd765a7495b5c2408292f96e0250fe17fbbf9969e",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

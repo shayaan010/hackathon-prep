@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34021",
+  "division": "14.7",
+  "division_title": "FLAMMABLE AND COMBUSTIBLE LIQUIDS",
+  "division_range": "34000 - 34100",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "2",
+  "article_title": "Regulations",
+  "article_range": "34019 - 34024",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "24.2",
+  "text": "The regulations adopted by the commissioner shall make reasonable allowances for cargo tanks in existence when the regulations become effective. No allowance shall, however, be made for any cargo tank which because of its design or construction constitutes a distinct hazard to life or property.",
+  "markdown": "# Vehicle Code\n## Division 14.7. FLAMMABLE AND COMBUSTIBLE LIQUIDS [34000 - 34100]\n#### Article 2. Regulations [34019 - 34024]\n##### § 34021\n\nThe regulations adopted by the commissioner shall make reasonable allowances for cargo tanks in existence when the regulations become effective. No allowance shall, however, be made for any cargo tank which because of its design or construction constitutes a distinct hazard to life or property.\n\n*(Amended by Stats. 1983, Ch. 661, Sec. 5.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The regulations adopted by the commissioner shall make reasonable allowances for cargo tanks in existence when the regulations become effective. No allowance shall, however, be made for any cargo tank which because of its design or construction constitutes a distinct hazard to life or property.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 661, Sec. 5.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "661",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "661",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34021.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34021.html",
+  "content_sha256": "8732543854feda197199303d5bcc6200cc6942cf84142486d2cb60b528c34e08",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

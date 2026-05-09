@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "14911",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "5",
+  "chapter_title": "License Fees",
+  "chapter_range": "14900 - 14911",
+  "article": "2",
+  "article_title": "Collection of Fees",
+  "article_range": "14910 - 14911",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.5.2",
+  "text": "(a) When a notice of failure to appear or failure to pay a fine is recorded on the department records pursuant to former Section 40509 and former Section 40509.5, the fine and any penalty assessments shall be a lien upon all vehicles of the defendant of a type subject to registration under this code.\n\n(b) For every lien arising pursuant to subdivision (a) that is due and not paid, the department may collect the amount of the lien plus costs, and Article 6 (commencing with Section 9800) of Chapter 6 of Division 3.5 shall apply.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 5. License Fees [14900 - 14911]\n#### Article 2. Collection of Fees [14910 - 14911]\n##### § 14911\n\n(a) When a notice of failure to appear or failure to pay a fine is recorded on the department records pursuant to former Section 40509 and former Section 40509.5, the fine and any penalty assessments shall be a lien upon all vehicles of the defendant of a type subject to registration under this code.\n\n(b) For every lien arising pursuant to subdivision (a) that is due and not paid, the department may collect the amount of the lien plus costs, and Article 6 (commencing with Section 9800) of Chapter 6 of Division 3.5 shall apply.\n\n*(Amended by Stats. 2022, Ch. 800, Sec. 19. (AB 2746) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "When a notice of failure to appear or failure to pay a fine is recorded on the department records pursuant to former Section 40509 and former Section 40509.5, the fine and any penalty assessments shall be a lien upon all vehicles of the defendant of a type subject to registration under this code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For every lien arising pursuant to subdivision (a) that is due and not paid, the department may collect the amount of the lien plus costs, and Article 6 (commencing with Section 9800) of Chapter 6 of Division 3.5 shall apply.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 800, Sec. 19. (AB 2746) Effective January 1, 2023.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "800",
+    "section": "19",
+    "bill_number": "AB 2746",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "800",
+  "op_section": "19",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=14911.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/14911.html",
+  "content_sha256": "1182484c670596ab6383b4c066f2651cd505038d6eb99446f580de5d94488013",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

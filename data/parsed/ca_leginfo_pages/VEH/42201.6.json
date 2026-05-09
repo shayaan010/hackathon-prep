@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "42201.6",
+  "division": "18",
+  "division_title": "PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+  "division_range": "42000 - 42277",
+  "chapter": "2",
+  "chapter_title": "Disposition of Fees, Fines, and Forfeitures",
+  "chapter_range": "42200 - 42240",
+  "article": "1",
+  "article_title": "Fines and Forfeitures",
+  "article_range": "42200 - 42205",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "35.2.1",
+  "text": "(a) A deposit of bail received with respect to an infraction violation of this code, or any local ordinance adopted pursuant to this code, including, but not limited to, a violation involving the standing or parking of a vehicle, shall be refunded by the agency which issued the notice of violation or the court within 30 days of a cancellation, dismissal, or finding of not guilty of the offense charged.\n\n(b) Multiple or duplicate deposits of bail or parking penalty shall be identified by the court or agency and refunded within 30 days of identification.\n\n(c) Any amount to be refunded in accordance with subdivision (a) or (b) shall accrue interest, at the rate specified in Section 3289 of the Civil Code, on and after the 60th day of a cancellation, dismissal, or finding of not guilty or identification of multiple or duplicate deposits, and shall be refunded as soon as possible thereafter along with accrued interest.",
+  "markdown": "# Vehicle Code\n## Division 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES [42000 - 42277]\n### Chapter 2. Disposition of Fees, Fines, and Forfeitures [42200 - 42240]\n#### Article 1. Fines and Forfeitures [42200 - 42205]\n##### § 42201.6\n\n(a) A deposit of bail received with respect to an infraction violation of this code, or any local ordinance adopted pursuant to this code, including, but not limited to, a violation involving the standing or parking of a vehicle, shall be refunded by the agency which issued the notice of violation or the court within 30 days of a cancellation, dismissal, or finding of not guilty of the offense charged.\n\n(b) Multiple or duplicate deposits of bail or parking penalty shall be identified by the court or agency and refunded within 30 days of identification.\n\n(c) Any amount to be refunded in accordance with subdivision (a) or (b) shall accrue interest, at the rate specified in Section 3289 of the Civil Code, on and after the 60th day of a cancellation, dismissal, or finding of not guilty or identification of multiple or duplicate deposits, and shall be refunded as soon as possible thereafter along with accrued interest.\n\n*(Amended by Stats. 1989, Ch. 290, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A deposit of bail received with respect to an infraction violation of this code, or any local ordinance adopted pursuant to this code, including, but not limited to, a violation involving the standing or parking of a vehicle, shall be refunded by the agency which issued the notice of violation or the court within 30 days of a cancellation, dismissal, or finding of not guilty of the offense charged.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Multiple or duplicate deposits of bail or parking penalty shall be identified by the court or agency and refunded within 30 days of identification.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any amount to be refunded in accordance with subdivision (a) or (b) shall accrue interest, at the rate specified in Section 3289 of the Civil Code, on and after the 60th day of a cancellation, dismissal, or finding of not guilty or identification of multiple or duplicate deposits, and shall be refunded as soon as possible thereafter along with accrued interest.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1989, Ch. 290, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1989,
+    "chapter": "290",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1989",
+  "op_chapter": "290",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42201.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/42201.6.html",
+  "content_sha256": "e9b2336471643970744aea972ec6dcefc844e3115ac03db667b22e614f457df2",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

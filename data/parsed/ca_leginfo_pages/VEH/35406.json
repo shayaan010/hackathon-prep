@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35406",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "4",
+  "chapter_title": "Length",
+  "chapter_range": "35400 - 35414",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.4",
+  "text": "(a) Except as provided in subdivision (b), the load upon any vehicle operated alone, or the load upon the front vehicle of a combination of vehicles, shall not extend more than three feet beyond the foremost part of the front tires of the vehicle or the front bumper of the vehicle, if it is equipped with a front bumper.\n\n(b) When the load is composed solely of vehicles, the load upon the front vehicle of a combination of vehicles shall not extend more than four feet beyond the foremost part of the front tires of the vehicle or the front bumper of the vehicle, if it is equipped with a front bumper.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 4. Length [35400 - 35414]\n##### § 35406\n\n(a) Except as provided in subdivision (b), the load upon any vehicle operated alone, or the load upon the front vehicle of a combination of vehicles, shall not extend more than three feet beyond the foremost part of the front tires of the vehicle or the front bumper of the vehicle, if it is equipped with a front bumper.\n\n(b) When the load is composed solely of vehicles, the load upon the front vehicle of a combination of vehicles shall not extend more than four feet beyond the foremost part of the front tires of the vehicle or the front bumper of the vehicle, if it is equipped with a front bumper.\n\n*(Amended by Stats. 1972, Ch. 434.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in subdivision (b), the load upon any vehicle operated alone, or the load upon the front vehicle of a combination of vehicles, shall not extend more than three feet beyond the foremost part of the front tires of the vehicle or the front bumper of the vehicle, if it is equipped with a front bumper.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When the load is composed solely of vehicles, the load upon the front vehicle of a combination of vehicles shall not extend more than four feet beyond the foremost part of the front tires of the vehicle or the front bumper of the vehicle, if it is equipped with a front bumper.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1972, Ch. 434.)",
+    "action": "Amended",
+    "statutes_year": 1972,
+    "chapter": "434",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1972",
+  "op_chapter": "434",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35406.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35406.html",
+  "content_sha256": "a7888a898ed8101ee557f30747cb680789370b20420e2dc7511a092d428d3272",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21700.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "2",
+  "article_title": "Additional Driving Rules",
+  "article_range": "21700 - 21721",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.2",
+  "text": "No person shall knowingly drive a bus within the City of San Diego which is transporting any public or private school pupil who is enrolled in kindergarten or any of grades 1 to 12, inclusive, to or from a public or private school, unless every such pupil is seated in a seat.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 2. Additional Driving Rules [21700 - 21721]\n##### § 21700.5\n\nNo person shall knowingly drive a bus within the City of San Diego which is transporting any public or private school pupil who is enrolled in kindergarten or any of grades 1 to 12, inclusive, to or from a public or private school, unless every such pupil is seated in a seat.\n\n*(Added by Stats. 1972, Ch. 1124.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall knowingly drive a bus within the City of San Diego which is transporting any public or private school pupil who is enrolled in kindergarten or any of grades 1 to 12, inclusive, to or from a public or private school, unless every such pupil is seated in a seat.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1972, Ch. 1124.)",
+    "action": "Added",
+    "statutes_year": 1972,
+    "chapter": "1124",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1972",
+  "op_chapter": "1124",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21700.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21700.5.html",
+  "content_sha256": "03f3f7abaaf4a955961f3cddd722957ef64b3c7dc28ce4b93f9b579c06de15ea",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

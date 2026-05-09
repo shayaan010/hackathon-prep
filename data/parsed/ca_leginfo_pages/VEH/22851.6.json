@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22851.6",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "10",
+  "chapter_title": "Removal of Parked and Abandoned Vehicles",
+  "chapter_range": "22650 - 22856",
+  "article": "2",
+  "article_title": "Vehicle Disposition",
+  "article_range": "22850 - 22856",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.10.2",
+  "text": "(a) Lienholders who acquire a vehicle subject to Section 22851.2 shall satisfy their lien pursuant to Sections 22851.8 and 22851.10 if the vehicle has a value not exceeding five hundred dollars ($500), as determined pursuant to Section 22670.\n\n(b) All forms required by Sections 22851.8 and 22851.10 shall be prescribed by the Department of Motor Vehicles. The language used in the notices and declarations shall be simple and nontechnical.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 10. Removal of Parked and Abandoned Vehicles [22650 - 22856]\n#### Article 2. Vehicle Disposition [22850 - 22856]\n##### § 22851.6\n\n(a) Lienholders who acquire a vehicle subject to Section 22851.2 shall satisfy their lien pursuant to Sections 22851.8 and 22851.10 if the vehicle has a value not exceeding five hundred dollars ($500), as determined pursuant to Section 22670.\n\n(b) All forms required by Sections 22851.8 and 22851.10 shall be prescribed by the Department of Motor Vehicles. The language used in the notices and declarations shall be simple and nontechnical.\n\n*(Amended by Stats. 2004, Ch. 650, Sec. 14. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Lienholders who acquire a vehicle subject to Section 22851.2 shall satisfy their lien pursuant to Sections 22851.8 and 22851.10 if the vehicle has a value not exceeding five hundred dollars ($500), as determined pursuant to Section 22670.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "All forms required by Sections 22851.8 and 22851.10 shall be prescribed by the Department of Motor Vehicles. The language used in the notices and declarations shall be simple and nontechnical.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 650, Sec. 14. Effective January 1, 2005.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "650",
+    "section": "14",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "650",
+  "op_section": "14",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22851.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22851.6.html",
+  "content_sha256": "1b513bd5238e06b5d47278a91991c1a19416b025e2ec3523fef452765697f8a6",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12810.3",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "3",
+  "article_title": "Issuance and Renewal of Licenses",
+  "article_range": "12800 - 12819",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.3",
+  "text": "Notwithstanding subdivision (f) of Section 12810, a violation point shall be given only for a conviction of a violation of subdivision (a) of Section 23123, subdivision (a) of Section 23123.5, or subdivision (b) of Section 23124, occurring on or after July 1, 2021, that occurs within 36 months of a prior conviction for the same offense.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 3. Issuance and Renewal of Licenses [12800 - 12819]\n##### § 12810.3\n\nNotwithstanding subdivision (f) of Section 12810, a violation point shall be given only for a conviction of a violation of subdivision (a) of Section 23123, subdivision (a) of Section 23123.5, or subdivision (b) of Section 23124, occurring on or after July 1, 2021, that occurs within 36 months of a prior conviction for the same offense.\n\n*(Amended by Stats. 2019, Ch. 603, Sec. 1. (AB 47) Effective January 1, 2020.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding subdivision (f) of Section 12810, a violation point shall be given only for a conviction of a violation of subdivision (a) of Section 23123, subdivision (a) of Section 23123.5, or subdivision (b) of Section 23124, occurring on or after July 1, 2021, that occurs within 36 months of a prior conviction for the same offense.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2019, Ch. 603, Sec. 1. (AB 47) Effective January 1, 2020.)",
+    "action": "Amended",
+    "statutes_year": 2019,
+    "chapter": "603",
+    "section": "1",
+    "bill_number": "AB 47",
+    "effective_date": "2020-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2019",
+  "op_chapter": "603",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12810.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12810.3.html",
+  "content_sha256": "674adffda73bf23984a05d648b8b60565b29ddf441f2889d06a1204796111b78",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

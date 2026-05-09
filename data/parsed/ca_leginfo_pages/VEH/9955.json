@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9955",
+  "division": "3.6",
+  "division_title": "VEHICLE SALES",
+  "division_range": "9950 - 9993",
+  "chapter": "1",
+  "chapter_title": "Advertising, Brochures, and Manuals",
+  "chapter_range": "9950 - 9955",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "6.1",
+  "text": "(a) A manufacturer of a pocket bike shall affix on the pocket bike a sticker with a disclosure stating that the device is prohibited from being operated on a sidewalk, roadway, or any part of a highway, or on a bikeway, bicycle path or trail, equestrian trail, hiking or recreational trail, or on public lands open to off-highway motor vehicle use.\n\n(b) The disclosure required under subdivision (a) shall meet both of the following requirements:\n\n(1) Be printed in not less than 14-point boldface type on a sticker that contains only the disclosure.\n\n(2) Include the following statement:",
+  "markdown": "# Vehicle Code\n## Division 3.6. VEHICLE SALES [9950 - 9993]\n### Chapter 1. Advertising, Brochures, and Manuals [9950 - 9955]\n##### § 9955\n\n(a) A manufacturer of a pocket bike shall affix on the pocket bike a sticker with a disclosure stating that the device is prohibited from being operated on a sidewalk, roadway, or any part of a highway, or on a bikeway, bicycle path or trail, equestrian trail, hiking or recreational trail, or on public lands open to off-highway motor vehicle use.\n\n(b) The disclosure required under subdivision (a) shall meet both of the following requirements:\n\n    (1) Be printed in not less than 14-point boldface type on a sticker that contains only the disclosure.\n\n    (2) Include the following statement:\n\n*(Added by Stats. 2005, Ch. 323, Sec. 2. Effective January 1, 2006.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A manufacturer of a pocket bike shall affix on the pocket bike a sticker with a disclosure stating that the device is prohibited from being operated on a sidewalk, roadway, or any part of a highway, or on a bikeway, bicycle path or trail, equestrian trail, hiking or recreational trail, or on public lands open to off-highway motor vehicle use.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The disclosure required under subdivision (a) shall meet both of the following requirements:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Be printed in not less than 14-point boldface type on a sticker that contains only the disclosure.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Include the following statement:",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2005, Ch. 323, Sec. 2. Effective January 1, 2006.)",
+    "action": "Added",
+    "statutes_year": 2005,
+    "chapter": "323",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2006-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2005",
+  "op_chapter": "323",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9955.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9955.html",
+  "content_sha256": "60914d928aada3e90cb7e5375730c297fe22f0250dcec8ddc58948c76758cf4d",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

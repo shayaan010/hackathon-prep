@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "41401",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "5",
+  "chapter_title": "Defenses",
+  "chapter_range": "41400 - 41403",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.6",
+  "text": "No person shall be prosecuted for a violation of any provision of this code if the violation was required by a law of the federal government, by any rule, regulation, directive or order of any agency of the federal government, the violation of which is subject to penalty under an act of Congress, or by any valid order of military authority.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 5. Defenses [41400 - 41403]\n##### § 41401\n\nNo person shall be prosecuted for a violation of any provision of this code if the violation was required by a law of the federal government, by any rule, regulation, directive or order of any agency of the federal government, the violation of which is subject to penalty under an act of Congress, or by any valid order of military authority.\n\n*(Amended by Stats. 1973, Ch. 78.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall be prosecuted for a violation of any provision of this code if the violation was required by a law of the federal government, by any rule, regulation, directive or order of any agency of the federal government, the violation of which is subject to penalty under an act of Congress, or by any valid order of military authority.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1973, Ch. 78.)",
+    "action": "Amended",
+    "statutes_year": 1973,
+    "chapter": "78",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1973",
+  "op_chapter": "78",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=41401.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/41401.html",
+  "content_sha256": "96c552c7d2b00763edc9c6c14d172865f3fc84615e0ebfa640a7af1176359761",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

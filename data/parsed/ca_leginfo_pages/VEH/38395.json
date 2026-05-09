@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38395",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "6",
+  "chapter_title": "Equipment of Off-Highway Vehicles",
+  "chapter_range": "38325 - 38397",
+  "article": "5",
+  "article_title": "Emission Control Equipment",
+  "article_range": "38390 - 38397",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.4.5",
+  "text": "This article shall not apply to an alteration, modification, or modifying device, apparatus, or mechanism found by resolution of the State Air Resources Board either:\n\n(a) To not reduce the effectiveness of any required off-highway motor vehicle pollution control device; or\n\n(b) To result in emissions from any such modified or altered off-highway vehicle which are at levels which comply with existing state or federal standards for that model year of the vehicle being modified or converted.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 6. Equipment of Off-Highway Vehicles [38325 - 38397]\n#### Article 5. Emission Control Equipment [38390 - 38397]\n##### § 38395\n\nThis article shall not apply to an alteration, modification, or modifying device, apparatus, or mechanism found by resolution of the State Air Resources Board either:\n\n(a) To not reduce the effectiveness of any required off-highway motor vehicle pollution control device; or\n\n(b) To result in emissions from any such modified or altered off-highway vehicle which are at levels which comply with existing state or federal standards for that model year of the vehicle being modified or converted.\n\n*(Added by Stats. 1976, Ch. 1093.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "This article shall not apply to an alteration, modification, or modifying device, apparatus, or mechanism found by resolution of the State Air Resources Board either:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "To not reduce the effectiveness of any required off-highway motor vehicle pollution control device; or",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "To result in emissions from any such modified or altered off-highway vehicle which are at levels which comply with existing state or federal standards for that model year of the vehicle being modified or converted.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1976, Ch. 1093.)",
+    "action": "Added",
+    "statutes_year": 1976,
+    "chapter": "1093",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "1093",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38395.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38395.html",
+  "content_sha256": "597d8150516017a5d046c3163ed06ebf9d9d7366f66e132912e29bcf0dfc7d07",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

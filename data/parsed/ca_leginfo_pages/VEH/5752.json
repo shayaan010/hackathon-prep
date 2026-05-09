@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5752",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "2",
+  "chapter_title": "Transfers of Title or Interest",
+  "chapter_range": "5600 - 6105",
+  "article": "2",
+  "article_title": "Endorsement and Delivery of Documents",
+  "article_range": "5750 - 5753",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.2.2",
+  "text": "(a) When the required certificate of ownership is lost, stolen, damaged, or mutilated, the application for transfer may be made upon a form provided by the department for a duplicate certificate of ownership. The transferor shall write his or her signature and address in the appropriate spaces provided upon the application and file the same together with the proper fees for duplicate certificate of ownership and transfer. The application shall also include, if applicable, the notorized signature of the lienholder.\n\n(b) An insurance company or its agent is exempt from the notarized signature requirement of subdivision (a) and may apply, upon a form provided by the department, for a duplicate certificate of ownership and transfer of ownership to the insurance company, if all of the following occur:\n\n(1) The insurance company or its agent obtains from the lienholder a document to verify satisfaction of the lien.\n\n(2) The insurance company has paid a total loss claim for the vehicle.\n\n(3) A lienholder is indicated on the department’s records.\n\n(4) The certificate of ownership is lost, stolen, damaged, or mutilated.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 2. Transfers of Title or Interest [5600 - 6105]\n#### Article 2. Endorsement and Delivery of Documents [5750 - 5753]\n##### § 5752\n\n(a) When the required certificate of ownership is lost, stolen, damaged, or mutilated, the application for transfer may be made upon a form provided by the department for a duplicate certificate of ownership. The transferor shall write his or her signature and address in the appropriate spaces provided upon the application and file the same together with the proper fees for duplicate certificate of ownership and transfer. The application shall also include, if applicable, the notorized signature of the lienholder.\n\n(b) An insurance company or its agent is exempt from the notarized signature requirement of subdivision (a) and may apply, upon a form provided by the department, for a duplicate certificate of ownership and transfer of ownership to the insurance company, if all of the following occur:\n\n    (1) The insurance company or its agent obtains from the lienholder a document to verify satisfaction of the lien.\n\n    (2) The insurance company has paid a total loss claim for the vehicle.\n\n    (3) A lienholder is indicated on the department’s records.\n\n    (4) The certificate of ownership is lost, stolen, damaged, or mutilated.\n\n*(Amended by Stats. 1996, Ch. 451, Sec. 1. Effective January 1, 1997.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "When the required certificate of ownership is lost, stolen, damaged, or mutilated, the application for transfer may be made upon a form provided by the department for a duplicate certificate of ownership. The transferor shall write his or her signature and address in the appropriate spaces provided upon the application and file the same together with the proper fees for duplicate certificate of ownership and transfer. The application shall also include, if applicable, the notorized signature of the lienholder.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An insurance company or its agent is exempt from the notarized signature requirement of subdivision (a) and may apply, upon a form provided by the department, for a duplicate certificate of ownership and transfer of ownership to the insurance company, if all of the following occur:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The insurance company or its agent obtains from the lienholder a document to verify satisfaction of the lien.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The insurance company has paid a total loss claim for the vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "A lienholder is indicated on the department’s records.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "The certificate of ownership is lost, stolen, damaged, or mutilated.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 451, Sec. 1. Effective January 1, 1997.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "451",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1997-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "451",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5752.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5752.html",
+  "content_sha256": "cecffdf7c1c151a580d1af24324ede1dc3a9b8a7394f50f4baf46112256f72d9",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "10855",
+  "division": "4",
+  "division_title": "SPECIAL ANTITHEFT LAWS",
+  "division_range": "10500 - 10904",
+  "chapter": "4",
+  "chapter_title": "Theft and Injury of Vehicles",
+  "chapter_range": "10850 - 10856",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "7.6",
+  "text": "(a) If a person who has leased or rented a vehicle willfully and intentionally fails to return the vehicle to its owner within five days after the lease or rental agreement has expired, the person shall be presumed to have embezzled the vehicle.\n\n(b) This section shall become operative on January 1, 2024.",
+  "markdown": "# Vehicle Code\n## Division 4. SPECIAL ANTITHEFT LAWS [10500 - 10904]\n### Chapter 4. Theft and Injury of Vehicles [10850 - 10856]\n##### § 10855\n\n(a) If a person who has leased or rented a vehicle willfully and intentionally fails to return the vehicle to its owner within five days after the lease or rental agreement has expired, the person shall be presumed to have embezzled the vehicle.\n\n(b) This section shall become operative on January 1, 2024.\n\n*(Repealed (in Sec. 3) and added by Stats. 2019, Ch. 609, Sec. 4. (AB 391) Effective January 1, 2020. Section operative January 1, 2024, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If a person who has leased or rented a vehicle willfully and intentionally fails to return the vehicle to its owner within five days after the lease or rental agreement has expired, the person shall be presumed to have embezzled the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section shall become operative on January 1, 2024.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed (in Sec. 3) and added by Stats. 2019, Ch. 609, Sec. 4. (AB 391) Effective January 1, 2020. Section operative January 1, 2024, by its own provisions.)",
+    "action": "Repealed",
+    "statutes_year": 2019,
+    "chapter": "609",
+    "section": "4",
+    "bill_number": "AB 391",
+    "effective_date": "2020-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2019",
+  "op_chapter": "609",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=10855.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/10855.html",
+  "content_sha256": "953c7cf6b84f08da52eeeff9938c6073403ccf9464603b6167f0f9541ef584c6",
+  "parsed_at": "2026-05-09T17:53:44+00:00",
+  "parser_version": "1"
+}

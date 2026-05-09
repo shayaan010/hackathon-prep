@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9805",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "6",
+  "article_title": "Enforcement of Liens",
+  "article_range": "9800 - 9808",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.6",
+  "text": "(a) The department may file in the office of the Clerk of the Superior Court of Sacramento County, or any other county, a certificate specifying the amount of any fee, tax, penalty, and collection cost due, the name and last known address of the individual, company, or corporation liable for the amount due, and the fact that the department has complied with all the provisions of this division in the computation of the amount due, and a request that judgment be entered against the individual, company, or corporation in the amount of the fee, tax, penalty, and collection cost set forth in the certificate if the fee, tax, penalty, or collection cost constitutes either of the following:\n\n(1) A lien under this division on the vehicle on which it is due is not paid when due, and there is evidence that the vehicle has been operated in violation of this code or any regulations adopted pursuant to this code.\n\n(2) A lessee liability as provided in Section 10879 of the Revenue and Taxation Code.\n\n(b) Prior to the filing of the certificate, the department shall, by mail, notify the individual, company, or corporation of the amount which is due and of the opportunity for a hearing as provided in this subdivision. At the request of the individual, company, or corporation, the department shall conduct a hearing pursuant to Section 9801, at which it shall be determined whether the claimed fee, tax, penalty, or collection cost in the amount claimed by the department is due and constitutes a lien on the vehicle, and whether the individual, company, or corporation is liable therefor.\n\n(c) If no hearing is requested within 15 days after mailing the notice required by subdivision (b), the certificate required by subdivision (b) may be filed.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 6. Enforcement of Liens [9800 - 9808]\n##### § 9805\n\n(a) The department may file in the office of the Clerk of the Superior Court of Sacramento County, or any other county, a certificate specifying the amount of any fee, tax, penalty, and collection cost due, the name and last known address of the individual, company, or corporation liable for the amount due, and the fact that the department has complied with all the provisions of this division in the computation of the amount due, and a request that judgment be entered against the individual, company, or corporation in the amount of the fee, tax, penalty, and collection cost set forth in the certificate if the fee, tax, penalty, or collection cost constitutes either of the following:\n\n    (1) A lien under this division on the vehicle on which it is due is not paid when due, and there is evidence that the vehicle has been operated in violation of this code or any regulations adopted pursuant to this code.\n\n    (2) A lessee liability as provided in Section 10879 of the Revenue and Taxation Code.\n\n(b) Prior to the filing of the certificate, the department shall, by mail, notify the individual, company, or corporation of the amount which is due and of the opportunity for a hearing as provided in this subdivision. At the request of the individual, company, or corporation, the department shall conduct a hearing pursuant to Section 9801, at which it shall be determined whether the claimed fee, tax, penalty, or collection cost in the amount claimed by the department is due and constitutes a lien on the vehicle, and whether the individual, company, or corporation is liable therefor.\n\n(c) If no hearing is requested within 15 days after mailing the notice required by subdivision (b), the certificate required by subdivision (b) may be filed.\n\n*(Amended by Stats. 2002, Ch. 784, Sec. 593. Effective January 1, 2003.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may file in the office of the Clerk of the Superior Court of Sacramento County, or any other county, a certificate specifying the amount of any fee, tax, penalty, and collection cost due, the name and last known address of the individual, company, or corporation liable for the amount due, and the fact that the department has complied with all the provisions of this division in the computation of the amount due, and a request that judgment be entered against the individual, company, or corporation in the amount of the fee, tax, penalty, and collection cost set forth in the certificate if the fee, tax, penalty, or collection cost constitutes either of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A lien under this division on the vehicle on which it is due is not paid when due, and there is evidence that the vehicle has been operated in violation of this code or any regulations adopted pursuant to this code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "A lessee liability as provided in Section 10879 of the Revenue and Taxation Code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Prior to the filing of the certificate, the department shall, by mail, notify the individual, company, or corporation of the amount which is due and of the opportunity for a hearing as provided in this subdivision. At the request of the individual, company, or corporation, the department shall conduct a hearing pursuant to Section 9801, at which it shall be determined whether the claimed fee, tax, penalty, or collection cost in the amount claimed by the department is due and constitutes a lien on the vehicle, and whether the individual, company, or corporation is liable therefor.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "If no hearing is requested within 15 days after mailing the notice required by subdivision (b), the certificate required by subdivision (b) may be filed.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2002, Ch. 784, Sec. 593. Effective January 1, 2003.)",
+    "action": "Amended",
+    "statutes_year": 2002,
+    "chapter": "784",
+    "section": "593",
+    "bill_number": null,
+    "effective_date": "2003-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2002",
+  "op_chapter": "784",
+  "op_section": "593",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9805.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9805.html",
+  "content_sha256": "92260acfe886d717023550ecf3403299b0e58e23fa206f696eff90a2abd35fe6",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

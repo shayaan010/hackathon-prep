@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22507.8",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "(a) It is unlawful for any person to park or leave standing any vehicle in a stall or space designated for disabled persons and disabled veterans pursuant to Section 22511.7 or 22511.8 of this code or Section 14679 of the Government Code, unless the vehicle displays either a special identification license plate issued pursuant to Section 5007 or a distinguishing placard issued pursuant to Section 22511.55 or 22511.59.\n\n(b) It is unlawful for any person to obstruct, block, or otherwise bar access to those parking stalls or spaces except as provided in subdivision (a).\n\n(c) It is unlawful for any person to park or leave standing any vehicle, including a vehicle displaying a special identification license plate issued pursuant to Section 5007 or a distinguishing placard issued pursuant to Section 22511.55 or 22511.59, in either of the following places:\n\n(1) On the lines marking the boundaries of a parking stall or space designated for disabled persons or disabled veterans.\n\n(2) In any area of the pavement adjacent to a parking stall or space designated for disabled persons or disabled veterans that is marked by crosshatched lines and is thereby designated, pursuant to any local ordinance, for the loading and unloading of vehicles parked in the stall or space.\n\n(d) Subdivisions (a), (b), and (c) apply to all offstreet parking facilities owned or operated by the state, and to all offstreet parking facilities owned or operated by a local authority. Subdivisions (a), (b), and (c) also apply to any privately owned and maintained offstreet parking facility.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22507.8\n\n(a) It is unlawful for any person to park or leave standing any vehicle in a stall or space designated for disabled persons and disabled veterans pursuant to Section 22511.7 or 22511.8 of this code or Section 14679 of the Government Code, unless the vehicle displays either a special identification license plate issued pursuant to Section 5007 or a distinguishing placard issued pursuant to Section 22511.55 or 22511.59.\n\n(b) It is unlawful for any person to obstruct, block, or otherwise bar access to those parking stalls or spaces except as provided in subdivision (a).\n\n(c) It is unlawful for any person to park or leave standing any vehicle, including a vehicle displaying a special identification license plate issued pursuant to Section 5007 or a distinguishing placard issued pursuant to Section 22511.55 or 22511.59, in either of the following places:\n\n    (1) On the lines marking the boundaries of a parking stall or space designated for disabled persons or disabled veterans.\n\n    (2) In any area of the pavement adjacent to a parking stall or space designated for disabled persons or disabled veterans that is marked by crosshatched lines and is thereby designated, pursuant to any local ordinance, for the loading and unloading of vehicles parked in the stall or space.\n\n(d) Subdivisions (a), (b), and (c) apply to all offstreet parking facilities owned or operated by the state, and to all offstreet parking facilities owned or operated by a local authority. Subdivisions (a), (b), and (c) also apply to any privately owned and maintained offstreet parking facility.\n\n*(Amended by Stats. 2009, Ch. 200, Sec. 12. (SB 734) Effective January 1, 2010.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is unlawful for any person to park or leave standing any vehicle in a stall or space designated for disabled persons and disabled veterans pursuant to Section 22511.7 or 22511.8 of this code or Section 14679 of the Government Code, unless the vehicle displays either a special identification license plate issued pursuant to Section 5007 or a distinguishing placard issued pursuant to Section 22511.55 or 22511.59.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "It is unlawful for any person to obstruct, block, or otherwise bar access to those parking stalls or spaces except as provided in subdivision (a).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "It is unlawful for any person to park or leave standing any vehicle, including a vehicle displaying a special identification license plate issued pursuant to Section 5007 or a distinguishing placard issued pursuant to Section 22511.55 or 22511.59, in either of the following places:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "On the lines marking the boundaries of a parking stall or space designated for disabled persons or disabled veterans.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "In any area of the pavement adjacent to a parking stall or space designated for disabled persons or disabled veterans that is marked by crosshatched lines and is thereby designated, pursuant to any local ordinance, for the loading and unloading of vehicles parked in the stall or space.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "d",
+      "text": "Subdivisions (a), (b), and (c) apply to all offstreet parking facilities owned or operated by the state, and to all offstreet parking facilities owned or operated by a local authority. Subdivisions (a), (b), and (c) also apply to any privately owned and maintained offstreet parking facility.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2009, Ch. 200, Sec. 12. (SB 734) Effective January 1, 2010.)",
+    "action": "Amended",
+    "statutes_year": 2009,
+    "chapter": "200",
+    "section": "12",
+    "bill_number": "SB 734",
+    "effective_date": "2010-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2009",
+  "op_chapter": "200",
+  "op_section": "12",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22507.8.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22507.8.html",
+  "content_sha256": "4311a8a52c36fd1fb943c63bf760773eb6a27f4d53c20d4b5430c027ae2d8cbb",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

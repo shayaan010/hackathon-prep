@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34061",
+  "division": "14.7",
+  "division_title": "FLAMMABLE AND COMBUSTIBLE LIQUIDS",
+  "division_range": "34000 - 34100",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "4",
+  "article_title": "Enforcement",
+  "article_range": "34060 - 34064",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "24.3",
+  "text": "The department shall compile data and annually publish a report relating to the level of cargo tank and hazardous waste transport vehicle and container inspections conducted during the previous year. The data included in the report shall include, but need not be limited to, all of the following:\n\n(a) The number of inspections conducted.\n\n(b) The number of violations recorded.\n\n(c) The number of on-highway incidents involving cargo tanks and hazardous waste transport vehicles and containers that were reported to the Office of Emergency Services under Section 8574.17 of the Government Code.",
+  "markdown": "# Vehicle Code\n## Division 14.7. FLAMMABLE AND COMBUSTIBLE LIQUIDS [34000 - 34100]\n#### Article 4. Enforcement [34060 - 34064]\n##### § 34061\n\nThe department shall compile data and annually publish a report relating to the level of cargo tank and hazardous waste transport vehicle and container inspections conducted during the previous year. The data included in the report shall include, but need not be limited to, all of the following:\n\n(a) The number of inspections conducted.\n\n(b) The number of violations recorded.\n\n(c) The number of on-highway incidents involving cargo tanks and hazardous waste transport vehicles and containers that were reported to the Office of Emergency Services under Section 8574.17 of the Government Code.\n\n*(Amended by Stats. 2013, Ch. 352, Sec. 526. (AB 1317) Effective September 26, 2013. Operative July 1, 2013, by Sec. 543 of Ch. 352.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department shall compile data and annually publish a report relating to the level of cargo tank and hazardous waste transport vehicle and container inspections conducted during the previous year. The data included in the report shall include, but need not be limited to, all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The number of inspections conducted.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The number of violations recorded.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The number of on-highway incidents involving cargo tanks and hazardous waste transport vehicles and containers that were reported to the Office of Emergency Services under Section 8574.17 of the Government Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2013, Ch. 352, Sec. 526. (AB 1317) Effective September 26, 2013. Operative July 1, 2013, by Sec. 543 of Ch. 352.)",
+    "action": "Amended",
+    "statutes_year": 2013,
+    "chapter": "352",
+    "section": "526",
+    "bill_number": "AB 1317",
+    "effective_date": "2013-09-26",
+    "operative_date": "2013-07-01"
+  },
+  "op_statues": "2013",
+  "op_chapter": "352",
+  "op_section": "526",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34061.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34061.html",
+  "content_sha256": "868759161927f38d579236ee827487cd511fd8c9a9dd71e30b0b1bdd25d5aafa",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

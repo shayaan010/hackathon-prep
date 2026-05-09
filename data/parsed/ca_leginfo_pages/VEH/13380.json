@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13380",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "2",
+  "chapter_title": "Suspension or Revocation of Licenses",
+  "chapter_range": "13100 - 13559",
+  "article": "3",
+  "article_title": "Suspension and Revocation by Department",
+  "article_range": "13350 - 13392",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.2.3",
+  "text": "(a) If a peace officer serves a notice of an order of suspension pursuant to Section 13388, or arrests any person for a violation of Section 23140, 23152, or 23153, the peace officer shall immediately forward to the department a sworn report of all information relevant to the enforcement action, including information that adequately identifies the person, a statement of the officer’s grounds for belief that the person violated Section 23136, 23140, 23152, or 23153, a report of the results of any chemical tests that were conducted on the person or the circumstances constituting a refusal to submit to or complete the chemical testing pursuant to Section 13388 or 23612, a copy of any notice to appear under which the person was released from custody, and, if immediately available, a copy of the complaint filed with the court. For the purposes of this section and subdivision (g) of Section 23612, “immediately” means on or before the end of the fifth ordinary business day following the arrest, except that with respect to Section 13388 only, “immediately” has the same meaning as that term is defined in paragraph (3) of subdivision (b) of Section 13388.\n\n(b) The peace officer’s sworn report shall be made on forms furnished or approved by the department.\n\n(c) For the purposes of this section, a report prepared pursuant to subdivision (a) and received pursuant to subdivision (a) of Section 1801, is a sworn report when it bears an entry identifying the maker of the document or a signature that has been affixed by means of an electronic device approved by the department.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 2. Suspension or Revocation of Licenses [13100 - 13559]\n#### Article 3. Suspension and Revocation by Department [13350 - 13392]\n##### § 13380\n\n(a) If a peace officer serves a notice of an order of suspension pursuant to Section 13388, or arrests any person for a violation of Section 23140, 23152, or 23153, the peace officer shall immediately forward to the department a sworn report of all information relevant to the enforcement action, including information that adequately identifies the person, a statement of the officer’s grounds for belief that the person violated Section 23136, 23140, 23152, or 23153, a report of the results of any chemical tests that were conducted on the person or the circumstances constituting a refusal to submit to or complete the chemical testing pursuant to Section 13388 or 23612, a copy of any notice to appear under which the person was released from custody, and, if immediately available, a copy of the complaint filed with the court. For the purposes of this section and subdivision (g) of Section 23612, “immediately” means on or before the end of the fifth ordinary business day following the arrest, except that with respect to Section 13388 only, “immediately” has the same meaning as that term is defined in paragraph (3) of subdivision (b) of Section 13388.\n\n(b) The peace officer’s sworn report shall be made on forms furnished or approved by the department.\n\n(c) For the purposes of this section, a report prepared pursuant to subdivision (a) and received pursuant to subdivision (a) of Section 1801, is a sworn report when it bears an entry identifying the maker of the document or a signature that has been affixed by means of an electronic device approved by the department.\n\n*(Added by Stats. 1998, Ch. 118, Sec. 3.24. Effective January 1, 1999. Operative July 1, 1999, by Sec. 85 of Ch. 118.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If a peace officer serves a notice of an order of suspension pursuant to Section 13388, or arrests any person for a violation of Section 23140, 23152, or 23153, the peace officer shall immediately forward to the department a sworn report of all information relevant to the enforcement action, including information that adequately identifies the person, a statement of the officer’s grounds for belief that the person violated Section 23136, 23140, 23152, or 23153, a report of the results of any chemical tests that were conducted on the person or the circumstances constituting a refusal to submit to or complete the chemical testing pursuant to Section 13388 or 23612, a copy of any notice to appear under which the person was released from custody, and, if immediately available, a copy of the complaint filed with the court. For the purposes of this section and subdivision (g) of Section 23612, “immediately” means on or before the end of the fifth ordinary business day following the arrest, except that with respect to Section 13388 only, “immediately” has the same meaning as that term is defined in paragraph (3) of subdivision (b) of Section 13388.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The peace officer’s sworn report shall be made on forms furnished or approved by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "For the purposes of this section, a report prepared pursuant to subdivision (a) and received pursuant to subdivision (a) of Section 1801, is a sworn report when it bears an entry identifying the maker of the document or a signature that has been affixed by means of an electronic device approved by the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1998, Ch. 118, Sec. 3.24. Effective January 1, 1999. Operative July 1, 1999, by Sec. 85 of Ch. 118.)",
+    "action": "Added",
+    "statutes_year": 1998,
+    "chapter": "118",
+    "section": "3.24",
+    "bill_number": null,
+    "effective_date": "1999-01-01",
+    "operative_date": "1999-07-01"
+  },
+  "op_statues": "1998",
+  "op_chapter": "118",
+  "op_section": "3.24",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13380.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13380.html",
+  "content_sha256": "0ce51833aff133546b610e96685d26aa82e8b66d9d61cb3dd0ebdd7a7d0e56fe",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

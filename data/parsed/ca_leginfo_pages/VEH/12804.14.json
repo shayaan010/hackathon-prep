@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12804.14",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "3",
+  "article_title": "Issuance and Renewal of Licenses",
+  "article_range": "12800 - 12819",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.3",
+  "text": "(a) The department may issue a restricted class A driver’s license for the operation of any two-axle vehicle weighing 4,000 pounds or more unladen when towing a livestock trailer exceeding 10,000 pounds, but not exceeding 15,000 pounds gross vehicle weight rating or gross vehicle weight, if all of the following conditions are met:\n\n(1) The vehicle is controlled and operated by a farmer.\n\n(2) The vehicle is used to transport livestock to or from a farm.\n\n(3) The vehicle is not used in the operations of a common or contract carrier.\n\n(4) The vehicle is used within 150 miles of the person’s farm.\n\n(b) The requirements of subdivision (a) incorporate the guidelines published by the Federal Highway Administration in the Federal Register on September 26, 1988 (53 FR 37313). The department shall follow those guidelines in acting pursuant to this section as those guidelines now exist and as they are hereafter amended.\n\n(c) In lieu of a report of a medical examination required by Sections 12804 and 12804.9, a licensed California driver applying for a restricted license issued pursuant to subdivision (a) shall, upon application and every two years thereafter, submit medical information on a form approved by the department.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 3. Issuance and Renewal of Licenses [12800 - 12819]\n##### § 12804.14\n\n(a) The department may issue a restricted class A driver’s license for the operation of any two-axle vehicle weighing 4,000 pounds or more unladen when towing a livestock trailer exceeding 10,000 pounds, but not exceeding 15,000 pounds gross vehicle weight rating or gross vehicle weight, if all of the following conditions are met:\n\n    (1) The vehicle is controlled and operated by a farmer.\n\n    (2) The vehicle is used to transport livestock to or from a farm.\n\n    (3) The vehicle is not used in the operations of a common or contract carrier.\n\n    (4) The vehicle is used within 150 miles of the person’s farm.\n\n(b) The requirements of subdivision (a) incorporate the guidelines published by the Federal Highway Administration in the Federal Register on September 26, 1988 (53 FR 37313). The department shall follow those guidelines in acting pursuant to this section as those guidelines now exist and as they are hereafter amended.\n\n(c) In lieu of a report of a medical examination required by Sections 12804 and 12804.9, a licensed California driver applying for a restricted license issued pursuant to subdivision (a) shall, upon application and every two years thereafter, submit medical information on a form approved by the department.\n\n*(Amended by Stats. 1996, Ch. 10, Sec. 14. Effective February 9, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may issue a restricted class A driver’s license for the operation of any two-axle vehicle weighing 4,000 pounds or more unladen when towing a livestock trailer exceeding 10,000 pounds, but not exceeding 15,000 pounds gross vehicle weight rating or gross vehicle weight, if all of the following conditions are met:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The vehicle is controlled and operated by a farmer.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The vehicle is used to transport livestock to or from a farm.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The vehicle is not used in the operations of a common or contract carrier.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "The vehicle is used within 150 miles of the person’s farm.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The requirements of subdivision (a) incorporate the guidelines published by the Federal Highway Administration in the Federal Register on September 26, 1988 (53 FR 37313). The department shall follow those guidelines in acting pursuant to this section as those guidelines now exist and as they are hereafter amended.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "In lieu of a report of a medical examination required by Sections 12804 and 12804.9, a licensed California driver applying for a restricted license issued pursuant to subdivision (a) shall, upon application and every two years thereafter, submit medical information on a form approved by the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 10, Sec. 14. Effective February 9, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "10",
+    "section": "14",
+    "bill_number": null,
+    "effective_date": "1996-02-09",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "10",
+  "op_section": "14",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12804.14.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12804.14.html",
+  "content_sha256": "7c2a5afb099fe4070ba8394355c2e86f454b2151b14525da9a5eca21b1a7b3d1",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

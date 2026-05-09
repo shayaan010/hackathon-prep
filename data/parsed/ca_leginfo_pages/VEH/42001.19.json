@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "42001.19",
+  "division": "18",
+  "division_title": "PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+  "division_range": "42000 - 42277",
+  "chapter": "1",
+  "chapter_title": "Penalties",
+  "chapter_range": "42000 - 42032",
+  "article": "1",
+  "article_title": "Public Offenses",
+  "article_range": "42000 - 42010",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "35.1.1",
+  "text": "Notwithstanding any other provision of law, a person convicted of a violation of Section 21070 is punishable, as follows:\n\n(a) For a violation involving bodily injury, by a fine of seventy dollars ($70).\n\n(b) For a violation involving great bodily injury, as defined in Section 12022.7 of the Penal Code, by a fine of ninety-five dollars ($95).",
+  "markdown": "# Vehicle Code\n## Division 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES [42000 - 42277]\n### Chapter 1. Penalties [42000 - 42032]\n#### Article 1. Public Offenses [42000 - 42010]\n##### § 42001.19\n\nNotwithstanding any other provision of law, a person convicted of a violation of Section 21070 is punishable, as follows:\n\n(a) For a violation involving bodily injury, by a fine of seventy dollars ($70).\n\n(b) For a violation involving great bodily injury, as defined in Section 12022.7 of the Penal Code, by a fine of ninety-five dollars ($95).\n\n*(Added by Stats. 2006, Ch. 898, Sec. 5. Effective January 1, 2007.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding any other provision of law, a person convicted of a violation of Section 21070 is punishable, as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "For a violation involving bodily injury, by a fine of seventy dollars ($70).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For a violation involving great bodily injury, as defined in Section 12022.7 of the Penal Code, by a fine of ninety-five dollars ($95).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2006, Ch. 898, Sec. 5. Effective January 1, 2007.)",
+    "action": "Added",
+    "statutes_year": 2006,
+    "chapter": "898",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "2007-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2006",
+  "op_chapter": "898",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42001.19.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/42001.19.html",
+  "content_sha256": "4a7aebfafa357d485d86daccbeed36cc02f2520848e66dd25c7ec760867674da",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

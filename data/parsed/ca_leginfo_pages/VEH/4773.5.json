@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4773.5",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "6.5",
+  "article_title": "Refusal of Registration for Nonpayment of Toll Evasion Penalties",
+  "article_range": "4770 - 4775",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.7",
+  "text": "(a) The department shall require the entire cost of initially implementing this article to be reimbursed by the issuing agencies that are private entities and by the local authorities described in Section 40250, on whose behalf toll processing procedures are carried out pursuant to Article 4 (commencing with Section 40250) of Chapter 1 of Division 17. For purposes of this section, the cost to the department of initially implementing this article includes all of the one-time costs that are incurred by the department in order to implement this article, but does not include ongoing administrative costs associated with this article. The issuing agencies and the local authorities shall each be required to reimburse the department for 50 percent of the reimbursable costs.\n\n(b) (1) The amount collected pursuant to subdivision (a) shall be the actual cost.\n\n(2) The amount of the reimbursement required by subdivision (a) for each issuing agency and local authority shall be determined by the department in as equitable a manner as possible. In the event of a dispute of the reimbursement required by subdivision (a), an issuing agency may request an audit of applicable costs by a certified public accountant or public accountant. The cost of the audit shall be borne by the issuing agency requesting the audit. The result of the audit shall determine the actual costs.\n\n(c) The processing agency shall access the department’s data base via “on-line” techniques or other methods as the department and the processing agency may agree.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 6.5. Refusal of Registration for Nonpayment of Toll Evasion Penalties [4770 - 4775]\n##### § 4773.5\n\n(a) The department shall require the entire cost of initially implementing this article to be reimbursed by the issuing agencies that are private entities and by the local authorities described in Section 40250, on whose behalf toll processing procedures are carried out pursuant to Article 4 (commencing with Section 40250) of Chapter 1 of Division 17. For purposes of this section, the cost to the department of initially implementing this article includes all of the one-time costs that are incurred by the department in order to implement this article, but does not include ongoing administrative costs associated with this article. The issuing agencies and the local authorities shall each be required to reimburse the department for 50 percent of the reimbursable costs.\n\n(b) (1) The amount collected pursuant to subdivision (a) shall be the actual cost.\n\n    (2) The amount of the reimbursement required by subdivision (a) for each issuing agency and local authority shall be determined by the department in as equitable a manner as possible. In the event of a dispute of the reimbursement required by subdivision (a), an issuing agency may request an audit of applicable costs by a certified public accountant or public accountant. The cost of the audit shall be borne by the issuing agency requesting the audit. The result of the audit shall determine the actual costs.\n\n(c) The processing agency shall access the department’s data base via “on-line” techniques or other methods as the department and the processing agency may agree.\n\n*(Added by Stats. 1995, Ch. 739, Sec. 5. Effective January 1, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall require the entire cost of initially implementing this article to be reimbursed by the issuing agencies that are private entities and by the local authorities described in Section 40250, on whose behalf toll processing procedures are carried out pursuant to Article 4 (commencing with Section 40250) of Chapter 1 of Division 17. For purposes of this section, the cost to the department of initially implementing this article includes all of the one-time costs that are incurred by the department in order to implement this article, but does not include ongoing administrative costs associated with this article. The issuing agencies and the local authorities shall each be required to reimburse the department for 50 percent of the reimbursable costs.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "(1) The amount collected pursuant to subdivision (a) shall be the actual cost.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The amount of the reimbursement required by subdivision (a) for each issuing agency and local authority shall be determined by the department in as equitable a manner as possible. In the event of a dispute of the reimbursement required by subdivision (a), an issuing agency may request an audit of applicable costs by a certified public accountant or public accountant. The cost of the audit shall be borne by the issuing agency requesting the audit. The result of the audit shall determine the actual costs.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "The processing agency shall access the department’s data base via “on-line” techniques or other methods as the department and the processing agency may agree.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1995, Ch. 739, Sec. 5. Effective January 1, 1996.)",
+    "action": "Added",
+    "statutes_year": 1995,
+    "chapter": "739",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "1996-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1995",
+  "op_chapter": "739",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4773.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4773.5.html",
+  "content_sha256": "68a7144fdbd1e31bbd1fabfbaf396088557426cf012c01ff2b03d9f090b0501d",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

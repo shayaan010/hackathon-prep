@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38301.5",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "5",
+  "chapter_title": "Off-Highway Vehicle Operating Rules",
+  "chapter_range": "38280 - 38321",
+  "article": "1",
+  "article_title": "Traffic Signs, Signals, and Markings",
+  "article_range": "38280 - 38302",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.3.1",
+  "text": "Every person convicted of violating a local ordinance which is adopted by a city with a population over 2,000,000 persons pursuant to Section 38301 and which prohibits entry into all or portions of an area designated by ordinance as a mountain fire district shall be punished as follows:\n\n(a) Except as provided in subdivisions (b) and (c), the offense is an infraction punishable by a fine not exceeding one hundred fifty dollars ($150).\n\n(b) For a second offense committed within one year of a prior violation for which there was a conviction punishable under subdivision (a), the offense is punishable as an infraction by a fine not exceeding two hundred fifty dollars ($250).\n\n(c) (1) For a third or subsequent offense committed within one year of two or more prior violations for which there were convictions punishable under this section, the offense is punishable as a misdemeanor by a fine not exceeding one thousand dollars ($1,000) or by imprisonment in the county jail not exceeding 90 days, or by both that fine and imprisonment. Additionally, the court may order impoundment of the vehicle used in the offense under the following conditions:\n\n(A) The person convicted under this subdivision is the owner of the vehicle.\n\n(B) The vehicle is subject to Section 38010.\n\n(2) The period of impoundment imposed pursuant to this subdivision shall be not less than one day nor more than 30 days. The impoundment shall be at the owner’s expense.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 5. Off-Highway Vehicle Operating Rules [38280 - 38321]\n#### Article 1. Traffic Signs, Signals, and Markings [38280 - 38302]\n##### § 38301.5\n\nEvery person convicted of violating a local ordinance which is adopted by a city with a population over 2,000,000 persons pursuant to Section 38301 and which prohibits entry into all or portions of an area designated by ordinance as a mountain fire district shall be punished as follows:\n\n(a) Except as provided in subdivisions (b) and (c), the offense is an infraction punishable by a fine not exceeding one hundred fifty dollars ($150).\n\n(b) For a second offense committed within one year of a prior violation for which there was a conviction punishable under subdivision (a), the offense is punishable as an infraction by a fine not exceeding two hundred fifty dollars ($250).\n\n(c) (1) For a third or subsequent offense committed within one year of two or more prior violations for which there were convictions punishable under this section, the offense is punishable as a misdemeanor by a fine not exceeding one thousand dollars ($1,000) or by imprisonment in the county jail not exceeding 90 days, or by both that fine and imprisonment. Additionally, the court may order impoundment of the vehicle used in the offense under the following conditions:\n\n        (A) The person convicted under this subdivision is the owner of the vehicle.\n\n        (B) The vehicle is subject to Section 38010.\n\n    (2) The period of impoundment imposed pursuant to this subdivision shall be not less than one day nor more than 30 days. The impoundment shall be at the owner’s expense.\n\n*(Added by Stats. 1984, Ch. 1015, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every person convicted of violating a local ordinance which is adopted by a city with a population over 2,000,000 persons pursuant to Section 38301 and which prohibits entry into all or portions of an area designated by ordinance as a mountain fire district shall be punished as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Except as provided in subdivisions (b) and (c), the offense is an infraction punishable by a fine not exceeding one hundred fifty dollars ($150).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For a second offense committed within one year of a prior violation for which there was a conviction punishable under subdivision (a), the offense is punishable as an infraction by a fine not exceeding two hundred fifty dollars ($250).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "(1) For a third or subsequent offense committed within one year of two or more prior violations for which there were convictions punishable under this section, the offense is punishable as a misdemeanor by a fine not exceeding one thousand dollars ($1,000) or by imprisonment in the county jail not exceeding 90 days, or by both that fine and imprisonment. Additionally, the court may order impoundment of the vehicle used in the offense under the following conditions:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "A",
+      "text": "The person convicted under this subdivision is the owner of the vehicle.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "B",
+      "text": "The vehicle is subject to Section 38010.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "2",
+      "text": "The period of impoundment imposed pursuant to this subdivision shall be not less than one day nor more than 30 days. The impoundment shall be at the owner’s expense.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1984, Ch. 1015, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1984,
+    "chapter": "1015",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "1015",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38301.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38301.5.html",
+  "content_sha256": "b2a47639c312fc873f16ee567c4c7edcefc17a4b6fd3bea89458c8376d04c14b",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

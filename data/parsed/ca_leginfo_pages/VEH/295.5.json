@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "295.5",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “disabled person” is any of the following:\n\n(a) Any person who has lost, or has lost the use of, one or more lower extremities or both hands, or who has significant limitation in the use of lower extremities, or who has a diagnosed disease or disorder which substantially impairs or interferes with mobility, or who is so severely disabled as to be unable to move without the aid of an assistant device.\n\n(b) Any person who is blind to the extent that the person’s central visual acuity does not exceed 20/200 in the better eye, with corrective lenses, as measured by the Snellen test, or visual acuity that is greater than 20/200, but with a limitation in the field of vision such that the widest diameter of the visual field subtends an angle not greater than 20 degrees.\n\n(c) Any person who suffers from lung disease to the extent of any of the following:\n\n(1) The person’s forced (respiratory) expiratory volume for one second when measured by spirometry is less than one liter.\n\n(2) The person’s arterial oxygen tension (pO2) is less than 60 mm/Hg on room air while the person is at rest.\n\n(d) Any person who is impaired by cardiovascular disease to the extent that the person’s functional limitations are classified in severity as class III or class IV based upon standards accepted by the American Heart Association.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 295.5\n\nA “disabled person” is any of the following:\n\n(a) Any person who has lost, or has lost the use of, one or more lower extremities or both hands, or who has significant limitation in the use of lower extremities, or who has a diagnosed disease or disorder which substantially impairs or interferes with mobility, or who is so severely disabled as to be unable to move without the aid of an assistant device.\n\n(b) Any person who is blind to the extent that the person’s central visual acuity does not exceed 20/200 in the better eye, with corrective lenses, as measured by the Snellen test, or visual acuity that is greater than 20/200, but with a limitation in the field of vision such that the widest diameter of the visual field subtends an angle not greater than 20 degrees.\n\n(c) Any person who suffers from lung disease to the extent of any of the following:\n\n    (1) The person’s forced (respiratory) expiratory volume for one second when measured by spirometry is less than one liter.\n\n    (2) The person’s arterial oxygen tension (pO2) is less than 60 mm/Hg on room air while the person is at rest.\n\n(d) Any person who is impaired by cardiovascular disease to the extent that the person’s functional limitations are classified in severity as class III or class IV based upon standards accepted by the American Heart Association.\n\n*(Added by Stats. 1989, Ch. 554, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “disabled person” is any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Any person who has lost, or has lost the use of, one or more lower extremities or both hands, or who has significant limitation in the use of lower extremities, or who has a diagnosed disease or disorder which substantially impairs or interferes with mobility, or who is so severely disabled as to be unable to move without the aid of an assistant device.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any person who is blind to the extent that the person’s central visual acuity does not exceed 20/200 in the better eye, with corrective lenses, as measured by the Snellen test, or visual acuity that is greater than 20/200, but with a limitation in the field of vision such that the widest diameter of the visual field subtends an angle not greater than 20 degrees.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any person who suffers from lung disease to the extent of any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The person’s forced (respiratory) expiratory volume for one second when measured by spirometry is less than one liter.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The person’s arterial oxygen tension (pO2) is less than 60 mm/Hg on room air while the person is at rest.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "d",
+      "text": "Any person who is impaired by cardiovascular disease to the extent that the person’s functional limitations are classified in severity as class III or class IV based upon standards accepted by the American Heart Association.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1989, Ch. 554, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1989,
+    "chapter": "554",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1989",
+  "op_chapter": "554",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=295.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/295.5.html",
+  "content_sha256": "0da4cabb0100037e49820664bf47158ff908715f30faf37bd28fe059bb94cbaa",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

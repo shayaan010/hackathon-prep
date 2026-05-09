@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "42001.13",
+  "division": "18",
+  "division_title": "PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+  "division_range": "42000 - 42277",
+  "chapter": "1",
+  "chapter_title": "Penalties",
+  "chapter_range": "42000 - 42032",
+  "article": "1",
+  "article_title": "Public Offenses",
+  "article_range": "42000 - 42010",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "35.1.1",
+  "text": "(a) A person who commits a violation of Section 22507.8 is subject to either a civil notice of parking violation pursuant to Article 3 (commencing with Section 40200) of Chapter 1 of Division 17 or a criminal notice to appear.\n\n(b) If a notice to appear is issued and upon conviction of an infraction for a violation of Section 22507.8, a person shall be punished as follows:\n\n(1) A fine of not less than two hundred fifty dollars ($250) and not more than five hundred dollars ($500) for the first offense.\n\n(2) A fine of not less than five hundred dollars ($500) and not more than seven hundred fifty dollars ($750) for the second offense.\n\n(3) A fine of not less than seven hundred fifty dollars ($750) and not more than one thousand dollars ($1,000) for three or more offenses.\n\n(c) The court may suspend the imposition of the fine if the person convicted possessed at the time of the offense, but failed to display, a valid special identification license plate issued pursuant to Section 5007 or a distinguishing placard issued pursuant to Section 22511.55 or 22511.59.\n\n(d) A fine imposed under this section may be paid in installments if the court determines that the defendant is unable to pay the entire amount in one payment.",
+  "markdown": "# Vehicle Code\n## Division 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES [42000 - 42277]\n### Chapter 1. Penalties [42000 - 42032]\n#### Article 1. Public Offenses [42000 - 42010]\n##### § 42001.13\n\n(a) A person who commits a violation of Section 22507.8 is subject to either a civil notice of parking violation pursuant to Article 3 (commencing with Section 40200) of Chapter 1 of Division 17 or a criminal notice to appear.\n\n(b) If a notice to appear is issued and upon conviction of an infraction for a violation of Section 22507.8, a person shall be punished as follows:\n\n    (1) A fine of not less than two hundred fifty dollars ($250) and not more than five hundred dollars ($500) for the first offense.\n\n    (2) A fine of not less than five hundred dollars ($500) and not more than seven hundred fifty dollars ($750) for the second offense.\n\n    (3) A fine of not less than seven hundred fifty dollars ($750) and not more than one thousand dollars ($1,000) for three or more offenses.\n\n(c) The court may suspend the imposition of the fine if the person convicted possessed at the time of the offense, but failed to display, a valid special identification license plate issued pursuant to Section 5007 or a distinguishing placard issued pursuant to Section 22511.55 or 22511.59.\n\n(d) A fine imposed under this section may be paid in installments if the court determines that the defendant is unable to pay the entire amount in one payment.\n\n*(Amended by Stats. 2010, Ch. 328, Sec. 233. (SB 1330) Effective January 1, 2011.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person who commits a violation of Section 22507.8 is subject to either a civil notice of parking violation pursuant to Article 3 (commencing with Section 40200) of Chapter 1 of Division 17 or a criminal notice to appear.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If a notice to appear is issued and upon conviction of an infraction for a violation of Section 22507.8, a person shall be punished as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A fine of not less than two hundred fifty dollars ($250) and not more than five hundred dollars ($500) for the first offense.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "A fine of not less than five hundred dollars ($500) and not more than seven hundred fifty dollars ($750) for the second offense.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "A fine of not less than seven hundred fifty dollars ($750) and not more than one thousand dollars ($1,000) for three or more offenses.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "The court may suspend the imposition of the fine if the person convicted possessed at the time of the offense, but failed to display, a valid special identification license plate issued pursuant to Section 5007 or a distinguishing placard issued pursuant to Section 22511.55 or 22511.59.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "A fine imposed under this section may be paid in installments if the court determines that the defendant is unable to pay the entire amount in one payment.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2010, Ch. 328, Sec. 233. (SB 1330) Effective January 1, 2011.)",
+    "action": "Amended",
+    "statutes_year": 2010,
+    "chapter": "328",
+    "section": "233",
+    "bill_number": "SB 1330",
+    "effective_date": "2011-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2010",
+  "op_chapter": "328",
+  "op_section": "233",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42001.13.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/42001.13.html",
+  "content_sha256": "749536cbd9eea986211ea8145cf73f26c4eaa46db710bfe934d4d92c43e441d0",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

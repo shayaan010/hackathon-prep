@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21461.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "3",
+  "article_title": "Offenses Relating to Traffic Devices",
+  "article_range": "21450 - 21468",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.3",
+  "text": "(a) It shall be unlawful for any pedestrian to fail to obey any sign or signal erected or maintained to indicate or carry out the provisions of this code or any local traffic ordinance or resolution adopted pursuant to a local traffic ordinance, or to fail to obey any device erected or maintained pursuant to Section 21352.\n\n(b) (1) A peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, shall not stop a pedestrian for a violation of subdivision (a) unless a reasonably careful person would realize there is an immediate danger of a collision with a moving vehicle or other device moving exclusively by human power.\n\n(2) This subdivision does not relieve a pedestrian from the duty of using due care for their safety.\n\n(3) This subdivision does not relieve a driver of a vehicle from the duty of exercising due care for the safety of any pedestrian within the roadway.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 3. Offenses Relating to Traffic Devices [21450 - 21468]\n##### § 21461.5\n\n(a) It shall be unlawful for any pedestrian to fail to obey any sign or signal erected or maintained to indicate or carry out the provisions of this code or any local traffic ordinance or resolution adopted pursuant to a local traffic ordinance, or to fail to obey any device erected or maintained pursuant to Section 21352.\n\n(b) (1) A peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, shall not stop a pedestrian for a violation of subdivision (a) unless a reasonably careful person would realize there is an immediate danger of a collision with a moving vehicle or other device moving exclusively by human power.\n\n    (2) This subdivision does not relieve a pedestrian from the duty of using due care for their safety.\n\n    (3) This subdivision does not relieve a driver of a vehicle from the duty of exercising due care for the safety of any pedestrian within the roadway.\n\n*(Amended by Stats. 2022, Ch. 957, Sec. 5. (AB 2147) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It shall be unlawful for any pedestrian to fail to obey any sign or signal erected or maintained to indicate or carry out the provisions of this code or any local traffic ordinance or resolution adopted pursuant to a local traffic ordinance, or to fail to obey any device erected or maintained pursuant to Section 21352.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "(1) A peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, shall not stop a pedestrian for a violation of subdivision (a) unless a reasonably careful person would realize there is an immediate danger of a collision with a moving vehicle or other device moving exclusively by human power.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "This subdivision does not relieve a pedestrian from the duty of using due care for their safety.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "This subdivision does not relieve a driver of a vehicle from the duty of exercising due care for the safety of any pedestrian within the roadway.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 957, Sec. 5. (AB 2147) Effective January 1, 2023.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "957",
+    "section": "5",
+    "bill_number": "AB 2147",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "957",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21461.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21461.5.html",
+  "content_sha256": "2a81c759697a76944f51702bec59ac58344b083c4ede4b568aa900111653d9ae",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

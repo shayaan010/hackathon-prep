@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "545.1",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) Notwithstanding Section 545, a motor vehicle is not a schoolbus if it is operated for the purpose of transporting any pupil to or from a community college or to or from activities at that college, irrespective of the age of the pupil or the grade level of the pupil, if the pupil is a current enrollee in classes of the college providing the transportation.\n\n(b) A driver of a motor vehicle that meets the criteria established by subdivision (a) shall escort pupils as required by subdivision (d) of Section 22112 and shall meet the requirements of Section 12517.\n\n(c) This section shall apply to a community college district that includes within its boundaries one or more counties, each of which has a population of 250,000 or less.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 545.1\n\n(a) Notwithstanding Section 545, a motor vehicle is not a schoolbus if it is operated for the purpose of transporting any pupil to or from a community college or to or from activities at that college, irrespective of the age of the pupil or the grade level of the pupil, if the pupil is a current enrollee in classes of the college providing the transportation.\n\n(b) A driver of a motor vehicle that meets the criteria established by subdivision (a) shall escort pupils as required by subdivision (d) of Section 22112 and shall meet the requirements of Section 12517.\n\n(c) This section shall apply to a community college district that includes within its boundaries one or more counties, each of which has a population of 250,000 or less.\n\n*(Amended by Stats. 2001, Ch. 739, Sec. 2. Effective January 1, 2002.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Notwithstanding Section 545, a motor vehicle is not a schoolbus if it is operated for the purpose of transporting any pupil to or from a community college or to or from activities at that college, irrespective of the age of the pupil or the grade level of the pupil, if the pupil is a current enrollee in classes of the college providing the transportation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A driver of a motor vehicle that meets the criteria established by subdivision (a) shall escort pupils as required by subdivision (d) of Section 22112 and shall meet the requirements of Section 12517.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section shall apply to a community college district that includes within its boundaries one or more counties, each of which has a population of 250,000 or less.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2001, Ch. 739, Sec. 2. Effective January 1, 2002.)",
+    "action": "Amended",
+    "statutes_year": 2001,
+    "chapter": "739",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2002-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "739",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=545.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/545.1.html",
+  "content_sha256": "e06e8d0a332233a75900142b0629beb087de62890b40dae743c77b471bf95c91",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

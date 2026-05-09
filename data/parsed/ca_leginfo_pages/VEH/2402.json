@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2402",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "The commissioner may make and enforce such rules and regulations as may be necessary to carry out the duties of the department. Rules and regulations shall be adopted, amended, or repealed in accordance with the Administrative Procedure Act, commencing with Section 11370 of the Government Code.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2402\n\nThe commissioner may make and enforce such rules and regulations as may be necessary to carry out the duties of the department. Rules and regulations shall be adopted, amended, or repealed in accordance with the Administrative Procedure Act, commencing with Section 11370 of the Government Code.\n\n*(Amended by Stats. 1965, Ch. 1500.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The commissioner may make and enforce such rules and regulations as may be necessary to carry out the duties of the department. Rules and regulations shall be adopted, amended, or repealed in accordance with the Administrative Procedure Act, commencing with Section 11370 of the Government Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1965, Ch. 1500.)",
+    "action": "Amended",
+    "statutes_year": 1965,
+    "chapter": "1500",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1965",
+  "op_chapter": "1500",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2402.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2402.html",
+  "content_sha256": "74aec4d916000c252b439ef16e5dcc31ab17ea8bd5061fc5e547159177eecfd4",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

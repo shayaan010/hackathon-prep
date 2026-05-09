@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2413",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "(a) The Commissioner of the California Highway Patrol is designated as the Statewide Vehicle Theft Investigation and Apprehension Coordinator. The commissioner may establish vehicle theft prevention, investigation, and apprehension programs. The commissioner may assist local, state, and federal law enforcement agencies by coordinating multijurisdictional vehicle theft investigations and may establish programs to improve the ability of law enforcement to combat vehicle theft.\n\n(b) The Department of the California Highway Patrol may retain license plate data captured by a license plate reader (LPR) for no more than 60 days, except in circumstances when the data is being used as evidence or for all felonies being investigated, including, but not limited to, auto theft, homicides, kidnaping, burglaries, elder and juvenile abductions, Amber Alerts, and Blue Alerts.\n\n(c) The Department of the California Highway Patrol shall not sell LPR data for any purpose and shall not make the data available to an agency that is not a law enforcement agency or an individual who is not a law enforcement officer. The data may be used by a law enforcement agency only for purposes of locating vehicles or persons when either are reasonably suspected of being involved in the commission of a public offense.\n\n(d) The Department of the California Highway Patrol shall monitor internal use of the LPR data to prevent unauthorized use.\n\n(e) The Department of the California Highway Patrol shall, as a part of the annual automobile theft report submitted to the Legislature pursuant to subdivision (b) of Section 10901, report the LPR practices and usage, including the number of LPR data disclosures, a record of the agencies to which data was disclosed and for what purpose, and any changes in policy that affect privacy concerns.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2413\n\n(a) The Commissioner of the California Highway Patrol is designated as the Statewide Vehicle Theft Investigation and Apprehension Coordinator. The commissioner may establish vehicle theft prevention, investigation, and apprehension programs. The commissioner may assist local, state, and federal law enforcement agencies by coordinating multijurisdictional vehicle theft investigations and may establish programs to improve the ability of law enforcement to combat vehicle theft.\n\n(b) The Department of the California Highway Patrol may retain license plate data captured by a license plate reader (LPR) for no more than 60 days, except in circumstances when the data is being used as evidence or for all felonies being investigated, including, but not limited to, auto theft, homicides, kidnaping, burglaries, elder and juvenile abductions, Amber Alerts, and Blue Alerts.\n\n(c) The Department of the California Highway Patrol shall not sell LPR data for any purpose and shall not make the data available to an agency that is not a law enforcement agency or an individual who is not a law enforcement officer. The data may be used by a law enforcement agency only for purposes of locating vehicles or persons when either are reasonably suspected of being involved in the commission of a public offense.\n\n(d) The Department of the California Highway Patrol shall monitor internal use of the LPR data to prevent unauthorized use.\n\n(e) The Department of the California Highway Patrol shall, as a part of the annual automobile theft report submitted to the Legislature pursuant to subdivision (b) of Section 10901, report the LPR practices and usage, including the number of LPR data disclosures, a record of the agencies to which data was disclosed and for what purpose, and any changes in policy that affect privacy concerns.\n\n*(Amended by Stats. 2011, Ch. 38, Sec. 6. (AB 115) Effective June 30, 2011.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Commissioner of the California Highway Patrol is designated as the Statewide Vehicle Theft Investigation and Apprehension Coordinator. The commissioner may establish vehicle theft prevention, investigation, and apprehension programs. The commissioner may assist local, state, and federal law enforcement agencies by coordinating multijurisdictional vehicle theft investigations and may establish programs to improve the ability of law enforcement to combat vehicle theft.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The Department of the California Highway Patrol may retain license plate data captured by a license plate reader (LPR) for no more than 60 days, except in circumstances when the data is being used as evidence or for all felonies being investigated, including, but not limited to, auto theft, homicides, kidnaping, burglaries, elder and juvenile abductions, Amber Alerts, and Blue Alerts.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The Department of the California Highway Patrol shall not sell LPR data for any purpose and shall not make the data available to an agency that is not a law enforcement agency or an individual who is not a law enforcement officer. The data may be used by a law enforcement agency only for purposes of locating vehicles or persons when either are reasonably suspected of being involved in the commission of a public offense.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The Department of the California Highway Patrol shall monitor internal use of the LPR data to prevent unauthorized use.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "The Department of the California Highway Patrol shall, as a part of the annual automobile theft report submitted to the Legislature pursuant to subdivision (b) of Section 10901, report the LPR practices and usage, including the number of LPR data disclosures, a record of the agencies to which data was disclosed and for what purpose, and any changes in policy that affect privacy concerns.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2011, Ch. 38, Sec. 6. (AB 115) Effective June 30, 2011.)",
+    "action": "Amended",
+    "statutes_year": 2011,
+    "chapter": "38",
+    "section": "6",
+    "bill_number": "AB 115",
+    "effective_date": "2011-06-30",
+    "operative_date": null
+  },
+  "op_statues": "2011",
+  "op_chapter": "38",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2413.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2413.html",
+  "content_sha256": "24680d895d2914eaf2a7ecde19d61efbf164e116c6e8b862dfb3c887a871b879",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

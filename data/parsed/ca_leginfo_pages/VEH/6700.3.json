@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "6700.3",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "4",
+  "chapter_title": "Permits to Nonresident Owners",
+  "chapter_range": "6700 - 8204",
+  "article": "1",
+  "article_title": "Exemption of Nonresidents",
+  "article_range": "6700 - 6703",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.5.1",
+  "text": "(a) An application by a nonresident daily commuter for indicia and an identification card pursuant to Section 6700.25 shall be filed with the department.\n\n(b) The department shall prescribe a form to be completed by the applicant which shall include all of the following information:\n\n(1) The vehicle license number and the vehicle identification number (VIN) of the vehicle that will display the nonresident daily commuter indicia.\n\n(2) The name of the registered owner of the vehicle that will display the indicia.\n\n(3) A statement that the applicant is a nonresident daily commuter as defined in Section 435.5.\n\n(4) A statement that the indicia will be displayed upon a qualified vehicle as specified in Section 6700.4.\n\n(5) A statement that the place of employment of the nonresident daily commuter is within the 35-mile corridor specified in subdivision (d) of Section 6700.25.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 4. Permits to Nonresident Owners [6700 - 8204]\n#### Article 1. Exemption of Nonresidents [6700 - 6703]\n##### § 6700.3\n\n(a) An application by a nonresident daily commuter for indicia and an identification card pursuant to Section 6700.25 shall be filed with the department.\n\n(b) The department shall prescribe a form to be completed by the applicant which shall include all of the following information:\n\n    (1) The vehicle license number and the vehicle identification number (VIN) of the vehicle that will display the nonresident daily commuter indicia.\n\n    (2) The name of the registered owner of the vehicle that will display the indicia.\n\n    (3) A statement that the applicant is a nonresident daily commuter as defined in Section 435.5.\n\n    (4) A statement that the indicia will be displayed upon a qualified vehicle as specified in Section 6700.4.\n\n    (5) A statement that the place of employment of the nonresident daily commuter is within the 35-mile corridor specified in subdivision (d) of Section 6700.25.\n\n*(Added by Stats. 1985, Ch. 1090, Sec. 5. Effective September 27, 1985.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "An application by a nonresident daily commuter for indicia and an identification card pursuant to Section 6700.25 shall be filed with the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall prescribe a form to be completed by the applicant which shall include all of the following information:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The vehicle license number and the vehicle identification number (VIN) of the vehicle that will display the nonresident daily commuter indicia.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The name of the registered owner of the vehicle that will display the indicia.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "A statement that the applicant is a nonresident daily commuter as defined in Section 435.5.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "A statement that the indicia will be displayed upon a qualified vehicle as specified in Section 6700.4.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "A statement that the place of employment of the nonresident daily commuter is within the 35-mile corridor specified in subdivision (d) of Section 6700.25.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1985, Ch. 1090, Sec. 5. Effective September 27, 1985.)",
+    "action": "Added",
+    "statutes_year": 1985,
+    "chapter": "1090",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "1985-09-27",
+    "operative_date": null
+  },
+  "op_statues": "1985",
+  "op_chapter": "1090",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6700.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/6700.3.html",
+  "content_sha256": "f83d43622ff5ebc11be9a914ceff7a4adb7dfdf0e24676f1eda9594894a6e403",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5302",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "9.5",
+  "article_title": "Registration of Fleet Vehicles",
+  "article_range": "5301 - 5309",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.16",
+  "text": "(a) Motor vehicles registered in any state other than California are not permitted to participate in this program.\n\n(b) Section 4604 does not apply to vehicles registered under this article.\n\n(c) The department may conduct an audit of the records of each fleet owner or lessee of the vehicle fleets electing to participate in the program. The department shall be fully reimbursed by the fleet owner or lessee for the costs of conducting the audits.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 9.5. Registration of Fleet Vehicles [5301 - 5309]\n##### § 5302\n\n(a) Motor vehicles registered in any state other than California are not permitted to participate in this program.\n\n(b) Section 4604 does not apply to vehicles registered under this article.\n\n(c) The department may conduct an audit of the records of each fleet owner or lessee of the vehicle fleets electing to participate in the program. The department shall be fully reimbursed by the fleet owner or lessee for the costs of conducting the audits.\n\n*(Amended by Stats. 2017, Ch. 441, Sec. 3. (AB 458) Effective January 1, 2018.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Motor vehicles registered in any state other than California are not permitted to participate in this program.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Section 4604 does not apply to vehicles registered under this article.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The department may conduct an audit of the records of each fleet owner or lessee of the vehicle fleets electing to participate in the program. The department shall be fully reimbursed by the fleet owner or lessee for the costs of conducting the audits.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2017, Ch. 441, Sec. 3. (AB 458) Effective January 1, 2018.)",
+    "action": "Amended",
+    "statutes_year": 2017,
+    "chapter": "441",
+    "section": "3",
+    "bill_number": "AB 458",
+    "effective_date": "2018-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2017",
+  "op_chapter": "441",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5302.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5302.html",
+  "content_sha256": "aeeb7be4dad50da06340429b0abcc8623e9d252b3c8f28fb159bfdbca33b1d93",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "31607",
+  "division": "14",
+  "division_title": "TRANSPORTATION OF EXPLOSIVES",
+  "division_range": "31600 - 31620",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "20",
+  "text": "(a) Any person operating or permitting the operation of a vehicle or combination of vehicles used in the transportation of explosives and subject to this division shall make or cause to be made an inspection of every said vehicle or combination of vehicles as hereinafter set forth.\n\n(b) Such inspection as called for in Section 31608 shall be made immediately preceding the actual transportation of explosives by the vehicle and whenever there is an interchange of any vehicle operating in combination with any other vehicle in the transportation of explosives.\n\n(c) Inspection of tires and brakes shall also be made en route at suitable intervals, off the roadway, at inspection stops established by the Department of the California Highway Patrol, at regular stops, terminal points, or driver-change points.",
+  "markdown": "# Vehicle Code\n## Division 14. TRANSPORTATION OF EXPLOSIVES [31600 - 31620]\n##### § 31607\n\n(a) Any person operating or permitting the operation of a vehicle or combination of vehicles used in the transportation of explosives and subject to this division shall make or cause to be made an inspection of every said vehicle or combination of vehicles as hereinafter set forth.\n\n(b) Such inspection as called for in Section 31608 shall be made immediately preceding the actual transportation of explosives by the vehicle and whenever there is an interchange of any vehicle operating in combination with any other vehicle in the transportation of explosives.\n\n(c) Inspection of tires and brakes shall also be made en route at suitable intervals, off the roadway, at inspection stops established by the Department of the California Highway Patrol, at regular stops, terminal points, or driver-change points.\n\n*(Amended by Stats. 1961, Ch. 228.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any person operating or permitting the operation of a vehicle or combination of vehicles used in the transportation of explosives and subject to this division shall make or cause to be made an inspection of every said vehicle or combination of vehicles as hereinafter set forth.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Such inspection as called for in Section 31608 shall be made immediately preceding the actual transportation of explosives by the vehicle and whenever there is an interchange of any vehicle operating in combination with any other vehicle in the transportation of explosives.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Inspection of tires and brakes shall also be made en route at suitable intervals, off the roadway, at inspection stops established by the Department of the California Highway Patrol, at regular stops, terminal points, or driver-change points.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1961, Ch. 228.)",
+    "action": "Amended",
+    "statutes_year": 1961,
+    "chapter": "228",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1961",
+  "op_chapter": "228",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=31607.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/31607.html",
+  "content_sha256": "2a1b7b4218dc9edc08683cb96683b7cc36e4714c8db102ce195c17447a7ad917",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

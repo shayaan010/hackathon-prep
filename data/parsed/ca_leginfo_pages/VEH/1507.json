@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1507",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "1",
+  "article_title": "Organization of Department",
+  "article_range": "1500 - 1507",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.1",
+  "text": "The director may appoint and, in accordance with law fix the salaries of:\n\n(a) A deputy director.\n\n(b) Such other officers, deputies, technical experts, and employees as may be necessary for the proper discharge of the duties of the department.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 1. Organization of Department [1500 - 1507]\n##### § 1507\n\nThe director may appoint and, in accordance with law fix the salaries of:\n\n(a) A deputy director.\n\n(b) Such other officers, deputies, technical experts, and employees as may be necessary for the proper discharge of the duties of the department.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The director may appoint and, in accordance with law fix the salaries of:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A deputy director.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Such other officers, deputies, technical experts, and employees as may be necessary for the proper discharge of the duties of the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1507.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1507.html",
+  "content_sha256": "c9c579be73458d8794673b53d10f373f38b3a6d002e607c1efcff2b2dfccf352",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

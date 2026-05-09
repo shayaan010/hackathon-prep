@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40200.3",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "3",
+  "article_title": "Procedure on Parking Violations",
+  "article_range": "40200 - 40230",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.3",
+  "text": "(a) All parking penalties collected by the processing agency, which may be the issuing agency, including process service fees and fees and collection costs related to civil debt collection, shall be deposited to the account of the issuing agency, except that those sums attributable to the issuance of a notice of parking violation by a peace officer of the Department of the California Highway Patrol shall be deposited in the account in the jurisdiction where the violation occurred, and except those sums payable to a county pursuant to Chapter 12 (commencing with Section 76000) of Title 8 of the Government Code and that portion of any parking penalty which is attributable to an increase in the parking bail amount effective between September 16, 1988, and July 1, 1992, inclusive, pursuant to Section 1463.28 of the Penal Code. Those funds attributable to this increase in bail shall be transferred to the county treasurer and deposited in the general fund. Any increase in parking penalties effective after July 1, 1992, shall accrue to the benefit of the issuing agency.\n\n(b) The processing agency shall prepare a report at the end of each fiscal year setting forth the number of cases processed, and all sums received and distributed, together with any other information that may be required by the issuing agency or the Controller. This report is a public record and shall be delivered to each issuing agency. Copies shall be made available, upon request, to the county auditor, the Controller, and the grand jury.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 3. Procedure on Parking Violations [40200 - 40230]\n##### § 40200.3\n\n(a) All parking penalties collected by the processing agency, which may be the issuing agency, including process service fees and fees and collection costs related to civil debt collection, shall be deposited to the account of the issuing agency, except that those sums attributable to the issuance of a notice of parking violation by a peace officer of the Department of the California Highway Patrol shall be deposited in the account in the jurisdiction where the violation occurred, and except those sums payable to a county pursuant to Chapter 12 (commencing with Section 76000) of Title 8 of the Government Code and that portion of any parking penalty which is attributable to an increase in the parking bail amount effective between September 16, 1988, and July 1, 1992, inclusive, pursuant to Section 1463.28 of the Penal Code. Those funds attributable to this increase in bail shall be transferred to the county treasurer and deposited in the general fund. Any increase in parking penalties effective after July 1, 1992, shall accrue to the benefit of the issuing agency.\n\n(b) The processing agency shall prepare a report at the end of each fiscal year setting forth the number of cases processed, and all sums received and distributed, together with any other information that may be required by the issuing agency or the Controller. This report is a public record and shall be delivered to each issuing agency. Copies shall be made available, upon request, to the county auditor, the Controller, and the grand jury.\n\n*(Amended by Stats. 1996, Ch. 305, Sec. 72. Effective January 1, 1997.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "All parking penalties collected by the processing agency, which may be the issuing agency, including process service fees and fees and collection costs related to civil debt collection, shall be deposited to the account of the issuing agency, except that those sums attributable to the issuance of a notice of parking violation by a peace officer of the Department of the California Highway Patrol shall be deposited in the account in the jurisdiction where the violation occurred, and except those sums payable to a county pursuant to Chapter 12 (commencing with Section 76000) of Title 8 of the Government Code and that portion of any parking penalty which is attributable to an increase in the parking bail amount effective between September 16, 1988, and July 1, 1992, inclusive, pursuant to Section 1463.28 of the Penal Code. Those funds attributable to this increase in bail shall be transferred to the county treasurer and deposited in the general fund. Any increase in parking penalties effective after July 1, 1992, shall accrue to the benefit of the issuing agency.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The processing agency shall prepare a report at the end of each fiscal year setting forth the number of cases processed, and all sums received and distributed, together with any other information that may be required by the issuing agency or the Controller. This report is a public record and shall be delivered to each issuing agency. Copies shall be made available, upon request, to the county auditor, the Controller, and the grand jury.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 305, Sec. 72. Effective January 1, 1997.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "305",
+    "section": "72",
+    "bill_number": null,
+    "effective_date": "1997-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "305",
+  "op_section": "72",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40200.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40200.3.html",
+  "content_sha256": "cbd1fa6fb991d7adc8a1900ab8e71f9e3622f1812d1dfc0eda28875f39625bca",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

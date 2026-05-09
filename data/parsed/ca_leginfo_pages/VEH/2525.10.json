@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2525.10",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2.5",
+  "chapter_title": "Licenses Issued by California Highway Patrol",
+  "chapter_range": "2500 - 2574",
+  "article": "3.5",
+  "article_title": "Inspection and Maintenance Stations",
+  "article_range": "2525 - 2525.12",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.3.3",
+  "text": "It is unlawful and constitutes a separate offense for any person to knowingly place or knowingly permit to be placed any sticker authorized by this article on any vehicle which does not comply with all the equipment requirements of this code or regulations adopted thereunder.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2.5. Licenses Issued by California Highway Patrol [2500 - 2574]\n#### Article 3.5. Inspection and Maintenance Stations [2525 - 2525.12]\n##### § 2525.10\n\nIt is unlawful and constitutes a separate offense for any person to knowingly place or knowingly permit to be placed any sticker authorized by this article on any vehicle which does not comply with all the equipment requirements of this code or regulations adopted thereunder.\n\n*(Added by Stats. 1970, Ch. 1067.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "It is unlawful and constitutes a separate offense for any person to knowingly place or knowingly permit to be placed any sticker authorized by this article on any vehicle which does not comply with all the equipment requirements of this code or regulations adopted thereunder.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1970, Ch. 1067.)",
+    "action": "Added",
+    "statutes_year": 1970,
+    "chapter": "1067",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1970",
+  "op_chapter": "1067",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2525.10.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2525.10.html",
+  "content_sha256": "d098f7d81acd2cc5475d9a5d419fef153687299c591dea38c63ae3ff7b0afb1a",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

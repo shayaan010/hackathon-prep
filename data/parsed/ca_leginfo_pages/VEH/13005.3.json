@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13005.3",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "5",
+  "article_title": "Identification Cards",
+  "article_range": "13000 - 13008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.5",
+  "text": "In addition to the requirements of Section 13005, any identification card issued pursuant to subdivision (b) of Section 13000 shall contain the words “Senior Citizen”.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 5. Identification Cards [13000 - 13008]\n##### § 13005.3\n\nIn addition to the requirements of Section 13005, any identification card issued pursuant to subdivision (b) of Section 13000 shall contain the words “Senior Citizen”.\n\n*(Amended by Stats. 1982, Ch. 1042, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In addition to the requirements of Section 13005, any identification card issued pursuant to subdivision (b) of Section 13000 shall contain the words “Senior Citizen”.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1982, Ch. 1042, Sec. 4.)",
+    "action": "Amended",
+    "statutes_year": 1982,
+    "chapter": "1042",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "1042",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13005.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13005.3.html",
+  "content_sha256": "be77f40ffe112a1a9e4793af8a2a7d361f07c59c8cdf56ac427ee991640e436e",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

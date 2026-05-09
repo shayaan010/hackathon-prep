@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "16000.1",
+  "division": "7",
+  "division_title": "FINANCIAL RESPONSIBILITY LAWS",
+  "division_range": "16000 - 16560",
+  "chapter": "1",
+  "chapter_title": "Compulsory Financial Responsibility",
+  "chapter_range": "16000 - 16078",
+  "article": "1",
+  "article_title": "Accident Reports",
+  "article_range": "16000 - 16005",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "12.1.1",
+  "text": "(a) For purposes of this division, a “reportable off-highway accident” means an accident that includes all of the following:\n\n(1) Occurs off the street or highway.\n\n(2) Involves a vehicle that is subject to registration under this code.\n\n(3) Results in damages to the property of any one person in excess of one thousand dollars ($1,000) or in bodily injury or in the death of any person.\n\n(b) A “reportable off-highway accident” does not include any accident that occurs off-highway in which damage occurs only to the property of the driver or owner of the motor vehicle and no bodily injury or death of a person occurs.\n\n(c) This section shall become operative on January 1, 2017.",
+  "markdown": "# Vehicle Code\n## Division 7. FINANCIAL RESPONSIBILITY LAWS [16000 - 16560]\n### Chapter 1. Compulsory Financial Responsibility [16000 - 16078]\n#### Article 1. Accident Reports [16000 - 16005]\n##### § 16000.1\n\n(a) For purposes of this division, a “reportable off-highway accident” means an accident that includes all of the following:\n\n    (1) Occurs off the street or highway.\n\n    (2) Involves a vehicle that is subject to registration under this code.\n\n    (3) Results in damages to the property of any one person in excess of one thousand dollars ($1,000) or in bodily injury or in the death of any person.\n\n(b) A “reportable off-highway accident” does not include any accident that occurs off-highway in which damage occurs only to the property of the driver or owner of the motor vehicle and no bodily injury or death of a person occurs.\n\n(c) This section shall become operative on January 1, 2017.\n\n*(Repealed (in Sec. 30) and added by Stats. 2015, Ch. 451, Sec. 31. (SB 491) Effective January 1, 2016. Section operative January 1, 2017, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "For purposes of this division, a “reportable off-highway accident” means an accident that includes all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Occurs off the street or highway.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Involves a vehicle that is subject to registration under this code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Results in damages to the property of any one person in excess of one thousand dollars ($1,000) or in bodily injury or in the death of any person.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A “reportable off-highway accident” does not include any accident that occurs off-highway in which damage occurs only to the property of the driver or owner of the motor vehicle and no bodily injury or death of a person occurs.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section shall become operative on January 1, 2017.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed (in Sec. 30) and added by Stats. 2015, Ch. 451, Sec. 31. (SB 491) Effective January 1, 2016. Section operative January 1, 2017, by its own provisions.)",
+    "action": "Repealed",
+    "statutes_year": 2015,
+    "chapter": "451",
+    "section": "31",
+    "bill_number": "SB 491",
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2015",
+  "op_chapter": "451",
+  "op_section": "31",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=16000.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/16000.1.html",
+  "content_sha256": "23519e76ec3ada361f0da7164363241a48aa749604631858a6f6c61757520ca2",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

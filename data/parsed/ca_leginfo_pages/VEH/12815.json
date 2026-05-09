@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12815",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "3",
+  "article_title": "Issuance and Renewal of Licenses",
+  "article_range": "12800 - 12819",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.3",
+  "text": "(a) If a driver’s license issued under this code is lost, destroyed or mutilated, or a new true, full name is acquired, the person to whom it was issued shall obtain a duplicate upon furnishing to the department (1) satisfactory proof of that loss, destruction, or mutilation and (2) if the licensee is a minor, evidence of permission to obtain a duplicate secured from the parents, guardian, or person having custody of the minor. Any person who loses a driver’s license and who, after obtaining a duplicate, finds the original license shall immediately destroy the original license.\n\n(b) A person in possession of a valid driver’s license who has been informed either by the department or by a law enforcement agency that the document is mutilated shall surrender the license to the department not later than 10 days after that notification.\n\n(c) A person who submits a change of address pursuant to Section 14600 may apply to the department for a duplicate driver’s license. If a person receives a duplicate pursuant to this subdivision, they shall immediately destroy the license with the prior mailing address.\n\n(d) For purposes of this section, a mutilated license is one that has been damaged sufficiently to render any or all of the elements of identity set forth in Sections 12800.5 and 12811 unreadable or unidentifiable through visual, mechanical, or electronic means.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 3. Issuance and Renewal of Licenses [12800 - 12819]\n##### § 12815\n\n(a) If a driver’s license issued under this code is lost, destroyed or mutilated, or a new true, full name is acquired, the person to whom it was issued shall obtain a duplicate upon furnishing to the department (1) satisfactory proof of that loss, destruction, or mutilation and (2) if the licensee is a minor, evidence of permission to obtain a duplicate secured from the parents, guardian, or person having custody of the minor. Any person who loses a driver’s license and who, after obtaining a duplicate, finds the original license shall immediately destroy the original license.\n\n(b) A person in possession of a valid driver’s license who has been informed either by the department or by a law enforcement agency that the document is mutilated shall surrender the license to the department not later than 10 days after that notification.\n\n(c) A person who submits a change of address pursuant to Section 14600 may apply to the department for a duplicate driver’s license. If a person receives a duplicate pursuant to this subdivision, they shall immediately destroy the license with the prior mailing address.\n\n(d) For purposes of this section, a mutilated license is one that has been damaged sufficiently to render any or all of the elements of identity set forth in Sections 12800.5 and 12811 unreadable or unidentifiable through visual, mechanical, or electronic means.\n\n*(Amended by Stats. 2025, Ch. 417, Sec. 4. (SB 506) Effective January 1, 2026.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If a driver’s license issued under this code is lost, destroyed or mutilated, or a new true, full name is acquired, the person to whom it was issued shall obtain a duplicate upon furnishing to the department (1) satisfactory proof of that loss, destruction, or mutilation and (2) if the licensee is a minor, evidence of permission to obtain a duplicate secured from the parents, guardian, or person having custody of the minor. Any person who loses a driver’s license and who, after obtaining a duplicate, finds the original license shall immediately destroy the original license.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person in possession of a valid driver’s license who has been informed either by the department or by a law enforcement agency that the document is mutilated shall surrender the license to the department not later than 10 days after that notification.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A person who submits a change of address pursuant to Section 14600 may apply to the department for a duplicate driver’s license. If a person receives a duplicate pursuant to this subdivision, they shall immediately destroy the license with the prior mailing address.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "For purposes of this section, a mutilated license is one that has been damaged sufficiently to render any or all of the elements of identity set forth in Sections 12800.5 and 12811 unreadable or unidentifiable through visual, mechanical, or electronic means.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2025, Ch. 417, Sec. 4. (SB 506) Effective January 1, 2026.)",
+    "action": "Amended",
+    "statutes_year": 2025,
+    "chapter": "417",
+    "section": "4",
+    "bill_number": "SB 506",
+    "effective_date": "2026-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2025",
+  "op_chapter": "417",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12815.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12815.html",
+  "content_sha256": "46daabb1e8ba382ab946068abad1c1fa23132a257f939849da424f1dd5e9074a",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

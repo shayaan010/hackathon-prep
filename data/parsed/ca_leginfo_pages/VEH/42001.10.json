@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "42001.10",
+  "division": "18",
+  "division_title": "PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+  "division_range": "42000 - 42277",
+  "chapter": "1",
+  "chapter_title": "Penalties",
+  "chapter_range": "42000 - 42032",
+  "article": "1",
+  "article_title": "Public Offenses",
+  "article_range": "42000 - 42010",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "35.1.1",
+  "text": "Every person convicted for a violation of Section 38020 shall be punished by a fine of not less than fifty dollars ($50) for a first offense, and not more than two hundred fifty dollars ($250) for every subsequent offense.",
+  "markdown": "# Vehicle Code\n## Division 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES [42000 - 42277]\n### Chapter 1. Penalties [42000 - 42032]\n#### Article 1. Public Offenses [42000 - 42010]\n##### § 42001.10\n\nEvery person convicted for a violation of Section 38020 shall be punished by a fine of not less than fifty dollars ($50) for a first offense, and not more than two hundred fifty dollars ($250) for every subsequent offense.\n\n*(Added by renumbering Section 42001.9 (as amended by Stats. 1987, Ch. 1027) by Stats. 1988, Ch. 160, Sec. 184.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every person convicted for a violation of Section 38020 shall be punished by a fine of not less than fifty dollars ($50) for a first offense, and not more than two hundred fifty dollars ($250) for every subsequent offense.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by renumbering Section 42001.9 (as amended by Stats. 1987, Ch. 1027) by Stats. 1988, Ch. 160, Sec. 184.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "160",
+    "section": "184",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "160",
+  "op_section": "184",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42001.10.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/42001.10.html",
+  "content_sha256": "f8206f955b45e2da0f0d9b0ff418f87fcf545b7200e32e1e8f0a54d4b5a98321",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

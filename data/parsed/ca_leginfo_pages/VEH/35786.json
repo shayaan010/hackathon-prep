@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35786",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "6",
+  "article_title": "Permits and Agreements",
+  "article_range": "35780 - 35796",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.7",
+  "text": "Truck booster power units may be used to aid in propelling or moving any motor truck or lawful combination of motor vehicles upon a highway upon an ascending or descending grade, subject to the following conditions:\n\n(a) A permit for such operation must be obtained as provided in this article.\n\n(b) The truck booster power unit shall be operated only on such highways and at such times and according to such conditions and requirements as may be specified in the permit.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 6. Permits and Agreements [35780 - 35796]\n##### § 35786\n\nTruck booster power units may be used to aid in propelling or moving any motor truck or lawful combination of motor vehicles upon a highway upon an ascending or descending grade, subject to the following conditions:\n\n(a) A permit for such operation must be obtained as provided in this article.\n\n(b) The truck booster power unit shall be operated only on such highways and at such times and according to such conditions and requirements as may be specified in the permit.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Truck booster power units may be used to aid in propelling or moving any motor truck or lawful combination of motor vehicles upon a highway upon an ascending or descending grade, subject to the following conditions:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A permit for such operation must be obtained as provided in this article.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The truck booster power unit shall be operated only on such highways and at such times and according to such conditions and requirements as may be specified in the permit.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35786.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35786.html",
+  "content_sha256": "2364f71ce795fc1cc02e0496e225df6a5e42c38fb87462cfe7293820533569f9",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

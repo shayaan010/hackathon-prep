@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "29006",
+  "division": "13",
+  "division_title": "TOWING AND LOADING EQUIPMENT",
+  "division_range": "29000 - 31560",
+  "chapter": "1",
+  "chapter_title": "Towing Equipment",
+  "chapter_range": "29000 - 29009",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "19.1",
+  "text": "(a) No person shall operate a vehicle towing another motor vehicle upon a freeway unless the towing vehicle is coupled to the towed vehicle by a rigid structure attached securely to both vehicles by nonrigid means.\n\n(b) The requirements of subdivision (a) are not applicable to a vehicle towing a motor vehicle which has been disabled and is being towed from the point of disablement to the nearest and most accessible exit from the freeway.",
+  "markdown": "# Vehicle Code\n## Division 13. TOWING AND LOADING EQUIPMENT [29000 - 31560]\n### Chapter 1. Towing Equipment [29000 - 29009]\n##### § 29006\n\n(a) No person shall operate a vehicle towing another motor vehicle upon a freeway unless the towing vehicle is coupled to the towed vehicle by a rigid structure attached securely to both vehicles by nonrigid means.\n\n(b) The requirements of subdivision (a) are not applicable to a vehicle towing a motor vehicle which has been disabled and is being towed from the point of disablement to the nearest and most accessible exit from the freeway.\n\n*(Added by Stats. 1970, Ch. 334.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall operate a vehicle towing another motor vehicle upon a freeway unless the towing vehicle is coupled to the towed vehicle by a rigid structure attached securely to both vehicles by nonrigid means.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The requirements of subdivision (a) are not applicable to a vehicle towing a motor vehicle which has been disabled and is being towed from the point of disablement to the nearest and most accessible exit from the freeway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1970, Ch. 334.)",
+    "action": "Added",
+    "statutes_year": 1970,
+    "chapter": "334",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1970",
+  "op_chapter": "334",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=29006.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/29006.html",
+  "content_sha256": "68e2387f25fd0635f21ae3fbb2e60d0e73de9fdc817de0ab9c4e3118798f272c",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35750",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "5",
+  "article_title": "Bridges and Other Structures",
+  "article_range": "35750 - 35755",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.6",
+  "text": "(a) The Department of Transportation may, in the manner provided in Section 35751, determine the maximum weight of vehicle and load, lower than the maximum weight otherwise permitted under this code which a bridge or other structure with safety to itself will sustain.\n\n(b) The city council or the board of supervisors of a city or county with a population of 1,100,000 or more, as determined by the 1970 federal decennial census, may, in the manner provided in Section 35751, determine the maximum weight of vehicle and load, lower than the maximum weight otherwise permitted under this code which a bridge or other structure under its jurisdiction with safety to itself will sustain.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 5. Bridges and Other Structures [35750 - 35755]\n##### § 35750\n\n(a) The Department of Transportation may, in the manner provided in Section 35751, determine the maximum weight of vehicle and load, lower than the maximum weight otherwise permitted under this code which a bridge or other structure with safety to itself will sustain.\n\n(b) The city council or the board of supervisors of a city or county with a population of 1,100,000 or more, as determined by the 1970 federal decennial census, may, in the manner provided in Section 35751, determine the maximum weight of vehicle and load, lower than the maximum weight otherwise permitted under this code which a bridge or other structure under its jurisdiction with safety to itself will sustain.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Department of Transportation may, in the manner provided in Section 35751, determine the maximum weight of vehicle and load, lower than the maximum weight otherwise permitted under this code which a bridge or other structure with safety to itself will sustain.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The city council or the board of supervisors of a city or county with a population of 1,100,000 or more, as determined by the 1970 federal decennial census, may, in the manner provided in Section 35751, determine the maximum weight of vehicle and load, lower than the maximum weight otherwise permitted under this code which a bridge or other structure under its jurisdiction with safety to itself will sustain.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35750.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35750.html",
+  "content_sha256": "6d6479e78c7e30be9f769625db0307c0ade531cb031a4a7b42256aa672179060",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

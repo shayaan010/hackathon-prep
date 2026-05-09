@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21949.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "5",
+  "chapter_title": "Pedestrians’ Rights and Duties",
+  "chapter_range": "21949 - 21971",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.5",
+  "text": "(a) On or before January 1, 2028, the Commissioner of the California Highway Patrol, in consultation with the Institute of Transportation Studies at the University of California, shall submit a report to the Legislature regarding statewide pedestrian-related traffic crash data and any associated impacts to traffic safety, including an evaluation of whether and how the changes made to this chapter and Article 3 (commencing with Section 21450) of Chapter 2 by the act that added this section have impacted pedestrian safety.\n\n(b) (1) A report to be submitted pursuant to subdivision (a) shall be submitted in compliance with Section 9795 of the Government Code.\n\n(2) Pursuant to Section 10231.5 of the Government Code, this section is repealed on January 1, 2032.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 5. Pedestrians’ Rights and Duties [21949 - 21971]\n##### § 21949.5\n\n(a) On or before January 1, 2028, the Commissioner of the California Highway Patrol, in consultation with the Institute of Transportation Studies at the University of California, shall submit a report to the Legislature regarding statewide pedestrian-related traffic crash data and any associated impacts to traffic safety, including an evaluation of whether and how the changes made to this chapter and Article 3 (commencing with Section 21450) of Chapter 2 by the act that added this section have impacted pedestrian safety.\n\n(b) (1) A report to be submitted pursuant to subdivision (a) shall be submitted in compliance with Section 9795 of the Government Code.\n\n    (2) Pursuant to Section 10231.5 of the Government Code, this section is repealed on January 1, 2032.\n\n*(Added by Stats. 2022, Ch. 957, Sec. 7. (AB 2147) Effective January 1, 2023. Repealed as of January 1, 2032, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "On or before January 1, 2028, the Commissioner of the California Highway Patrol, in consultation with the Institute of Transportation Studies at the University of California, shall submit a report to the Legislature regarding statewide pedestrian-related traffic crash data and any associated impacts to traffic safety, including an evaluation of whether and how the changes made to this chapter and Article 3 (commencing with Section 21450) of Chapter 2 by the act that added this section have impacted pedestrian safety.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "(1) A report to be submitted pursuant to subdivision (a) shall be submitted in compliance with Section 9795 of the Government Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "Pursuant to Section 10231.5 of the Government Code, this section is repealed on January 1, 2032.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2022, Ch. 957, Sec. 7. (AB 2147) Effective January 1, 2023. Repealed as of January 1, 2032, by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 2022,
+    "chapter": "957",
+    "section": "7",
+    "bill_number": "AB 2147",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "957",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21949.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21949.5.html",
+  "content_sha256": "8bccb9db4b7534139778441e547a4f16dd78d34bb4eca58dedb93aec4baca0d2",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

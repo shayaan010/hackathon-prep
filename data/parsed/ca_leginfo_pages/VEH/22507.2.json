@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22507.2",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "Notwithstanding subdivision (e) of Section 22500, a local authority may, by ordinance, authorize the owner or lessee of property to park a vehicle in front of the owner’s or lessee’s private driveway when the vehicle displays a permit issued pursuant to the ordinance authorizing such parking.\n\nThe local authority may charge a nonrefundable fee to defray the costs of issuing and administering the permits.\n\nA local ordinance adopted pursuant to this section may not authorize parking on a sidewalk in violation of subdivision (f) of Section 22500.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22507.2\n\nNotwithstanding subdivision (e) of Section 22500, a local authority may, by ordinance, authorize the owner or lessee of property to park a vehicle in front of the owner’s or lessee’s private driveway when the vehicle displays a permit issued pursuant to the ordinance authorizing such parking.\n\nThe local authority may charge a nonrefundable fee to defray the costs of issuing and administering the permits.\n\nA local ordinance adopted pursuant to this section may not authorize parking on a sidewalk in violation of subdivision (f) of Section 22500.\n\n*(Amended by Stats. 1985, Ch. 45, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding subdivision (e) of Section 22500, a local authority may, by ordinance, authorize the owner or lessee of property to park a vehicle in front of the owner’s or lessee’s private driveway when the vehicle displays a permit issued pursuant to the ordinance authorizing such parking.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The local authority may charge a nonrefundable fee to defray the costs of issuing and administering the permits.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "A local ordinance adopted pursuant to this section may not authorize parking on a sidewalk in violation of subdivision (f) of Section 22500.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1985, Ch. 45, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1985,
+    "chapter": "45",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1985",
+  "op_chapter": "45",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22507.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22507.2.html",
+  "content_sha256": "d217ce6604d0b3f861e5d23f9f9bd964ab8dc51ffde6d8f3c52cea3b92b89fcb",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

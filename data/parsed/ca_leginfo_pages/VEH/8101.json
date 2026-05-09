@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "8101",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "4",
+  "chapter_title": "Permits to Nonresident Owners",
+  "chapter_range": "6700 - 8204",
+  "article": "5",
+  "article_title": "Federal Motor Vehicle Safety Program",
+  "article_range": "8100 - 8104",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.5.5",
+  "text": "In addition to the reasons specified in Section 4750 or 4751, the department shall refuse an application for apportioned registration for the following grounds:\n\n(a) The applicant has failed to furnish the department with information required in the application under Section 8100.\n\n(b) The person responsible for the safety of the vehicle or fleet is prohibited from operating in interstate commerce by a federal agency.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 4. Permits to Nonresident Owners [6700 - 8204]\n#### Article 5. Federal Motor Vehicle Safety Program [8100 - 8104]\n##### § 8101\n\nIn addition to the reasons specified in Section 4750 or 4751, the department shall refuse an application for apportioned registration for the following grounds:\n\n(a) The applicant has failed to furnish the department with information required in the application under Section 8100.\n\n(b) The person responsible for the safety of the vehicle or fleet is prohibited from operating in interstate commerce by a federal agency.\n\n*(Added by Stats. 2006, Ch. 169, Sec. 3. Effective January 1, 2007.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In addition to the reasons specified in Section 4750 or 4751, the department shall refuse an application for apportioned registration for the following grounds:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The applicant has failed to furnish the department with information required in the application under Section 8100.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The person responsible for the safety of the vehicle or fleet is prohibited from operating in interstate commerce by a federal agency.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2006, Ch. 169, Sec. 3. Effective January 1, 2007.)",
+    "action": "Added",
+    "statutes_year": 2006,
+    "chapter": "169",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2007-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2006",
+  "op_chapter": "169",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=8101.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/8101.html",
+  "content_sha256": "9837c6a91ab94fcad92fc3f953359f8a9faac285d6dbd0f4dc1c88e005cb1bb9",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

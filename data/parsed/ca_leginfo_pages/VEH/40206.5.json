@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40206.5",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "3",
+  "article_title": "Procedure on Parking Violations",
+  "article_range": "40200 - 40230",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.3",
+  "text": "(a) Within 15 days of a request, by mail or in person, the processing agency shall mail or otherwise provide to any person who has received a notice of delinquent parking violation, or his or her agent, a photostatic copy of the original notice of parking violation or an electronically produced facsimile of the original notice of parking violation. The issuing agency may charge a fee sufficient to recover the actual cost of providing the copy, not to exceed two dollars ($2). Until the issuing agency complies with a request for a copy of the original notice of parking violation, the processing agency may not proceed pursuant to subdivision (i) of Section 22651, Section 22651.7, or Section 40220.\n\n(b) If the description of the vehicle on the notice of parking violation does not substantially match the corresponding information on the registration card for that vehicle and the processing agency is satisfied that the vehicle has not been incorrectly described due to the intentional switching of license plates, the processing agency shall, on written request of the person cancel the notice of parking violation without the necessity of an appearance by that person.\n\n(c) For purposes of this section, a copy of the notice of parking violation may be a photostatic copy or an electronically produced facsimile.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 3. Procedure on Parking Violations [40200 - 40230]\n##### § 40206.5\n\n(a) Within 15 days of a request, by mail or in person, the processing agency shall mail or otherwise provide to any person who has received a notice of delinquent parking violation, or his or her agent, a photostatic copy of the original notice of parking violation or an electronically produced facsimile of the original notice of parking violation. The issuing agency may charge a fee sufficient to recover the actual cost of providing the copy, not to exceed two dollars ($2). Until the issuing agency complies with a request for a copy of the original notice of parking violation, the processing agency may not proceed pursuant to subdivision (i) of Section 22651, Section 22651.7, or Section 40220.\n\n(b) If the description of the vehicle on the notice of parking violation does not substantially match the corresponding information on the registration card for that vehicle and the processing agency is satisfied that the vehicle has not been incorrectly described due to the intentional switching of license plates, the processing agency shall, on written request of the person cancel the notice of parking violation without the necessity of an appearance by that person.\n\n(c) For purposes of this section, a copy of the notice of parking violation may be a photostatic copy or an electronically produced facsimile.\n\n*(Amended by Stats. 1993, Ch. 1093, Sec. 9. Effective January 1, 1994.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Within 15 days of a request, by mail or in person, the processing agency shall mail or otherwise provide to any person who has received a notice of delinquent parking violation, or his or her agent, a photostatic copy of the original notice of parking violation or an electronically produced facsimile of the original notice of parking violation. The issuing agency may charge a fee sufficient to recover the actual cost of providing the copy, not to exceed two dollars ($2). Until the issuing agency complies with a request for a copy of the original notice of parking violation, the processing agency may not proceed pursuant to subdivision (i) of Section 22651, Section 22651.7, or Section 40220.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If the description of the vehicle on the notice of parking violation does not substantially match the corresponding information on the registration card for that vehicle and the processing agency is satisfied that the vehicle has not been incorrectly described due to the intentional switching of license plates, the processing agency shall, on written request of the person cancel the notice of parking violation without the necessity of an appearance by that person.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "For purposes of this section, a copy of the notice of parking violation may be a photostatic copy or an electronically produced facsimile.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1993, Ch. 1093, Sec. 9. Effective January 1, 1994.)",
+    "action": "Amended",
+    "statutes_year": 1993,
+    "chapter": "1093",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": "1994-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1993",
+  "op_chapter": "1093",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40206.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40206.5.html",
+  "content_sha256": "baa7e6bba12f0b904ab3bc745088bc994caa95874b1cd11a02425e7fea8881c8",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

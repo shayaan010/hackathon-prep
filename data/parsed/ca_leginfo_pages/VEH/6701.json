@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "6701",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "4",
+  "chapter_title": "Permits to Nonresident Owners",
+  "chapter_range": "6700 - 8204",
+  "article": "1",
+  "article_title": "Exemption of Nonresidents",
+  "article_range": "6700 - 6703",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.5.1",
+  "text": "(a) Any nonresident owner of a vehicle registered in a foreign state who is a member or spouse of a member of the armed forces of the United States on active duty within this state, and any resident owner of a vehicle registered in a foreign state who is a member or spouse of a member of the armed forces of the United States returning from active duty in a foreign state, may operate the vehicle in this state without securing California registration after satisfying all of the following requirements:\n\n(1) The license plates displayed on the vehicle are valid plates issued by a foreign jurisdiction.\n\n(2) The vehicle registration and license plates are issued to the military person or spouse of the military person.\n\n(3) The vehicle registration and license plates were issued by the foreign jurisdiction where the military person was last regularly assigned and stationed for duty by military orders or a jurisdiction claimed by the nonresident military person as the permanent state of residence.\n\n(4) If the vehicle is a motor vehicle, the owner or driver has in force one of the forms of financial responsibility specified in Section 16021.\n\n(b) For purposes of paragraph (3) of subdivision (a), military orders do not include military orders for leave, for temporary duty, or for any other assignment of any nature requiring the military person’s presence outside the foreign jurisdiction where the owner was regularly assigned and stationed for duty.\n\n(c) This section applies to all vehicles owned by the military person or spouse except any commercial vehicle used in any business manner wherein the military person or spouse receives compensation.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 4. Permits to Nonresident Owners [6700 - 8204]\n#### Article 1. Exemption of Nonresidents [6700 - 6703]\n##### § 6701\n\n(a) Any nonresident owner of a vehicle registered in a foreign state who is a member or spouse of a member of the armed forces of the United States on active duty within this state, and any resident owner of a vehicle registered in a foreign state who is a member or spouse of a member of the armed forces of the United States returning from active duty in a foreign state, may operate the vehicle in this state without securing California registration after satisfying all of the following requirements:\n\n    (1) The license plates displayed on the vehicle are valid plates issued by a foreign jurisdiction.\n\n    (2) The vehicle registration and license plates are issued to the military person or spouse of the military person.\n\n    (3) The vehicle registration and license plates were issued by the foreign jurisdiction where the military person was last regularly assigned and stationed for duty by military orders or a jurisdiction claimed by the nonresident military person as the permanent state of residence.\n\n    (4) If the vehicle is a motor vehicle, the owner or driver has in force one of the forms of financial responsibility specified in Section 16021.\n\n(b) For purposes of paragraph (3) of subdivision (a), military orders do not include military orders for leave, for temporary duty, or for any other assignment of any nature requiring the military person’s presence outside the foreign jurisdiction where the owner was regularly assigned and stationed for duty.\n\n(c) This section applies to all vehicles owned by the military person or spouse except any commercial vehicle used in any business manner wherein the military person or spouse receives compensation.\n\n*(Amended by Stats. 1999, Ch. 100, Sec. 1. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any nonresident owner of a vehicle registered in a foreign state who is a member or spouse of a member of the armed forces of the United States on active duty within this state, and any resident owner of a vehicle registered in a foreign state who is a member or spouse of a member of the armed forces of the United States returning from active duty in a foreign state, may operate the vehicle in this state without securing California registration after satisfying all of the following requirements:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The license plates displayed on the vehicle are valid plates issued by a foreign jurisdiction.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The vehicle registration and license plates are issued to the military person or spouse of the military person.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The vehicle registration and license plates were issued by the foreign jurisdiction where the military person was last regularly assigned and stationed for duty by military orders or a jurisdiction claimed by the nonresident military person as the permanent state of residence.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "If the vehicle is a motor vehicle, the owner or driver has in force one of the forms of financial responsibility specified in Section 16021.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "For purposes of paragraph (3) of subdivision (a), military orders do not include military orders for leave, for temporary duty, or for any other assignment of any nature requiring the military person’s presence outside the foreign jurisdiction where the owner was regularly assigned and stationed for duty.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section applies to all vehicles owned by the military person or spouse except any commercial vehicle used in any business manner wherein the military person or spouse receives compensation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 100, Sec. 1. Effective January 1, 2000.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "100",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "100",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6701.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/6701.html",
+  "content_sha256": "0ad749cb3f66a443d9273777556b2ba37ca8669d9b366bb7d86c488aa2742d49",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

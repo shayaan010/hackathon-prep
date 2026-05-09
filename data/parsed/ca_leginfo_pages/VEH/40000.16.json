@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40000.16",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "A second or subsequent violation of Section 23114, relating to preventing the escape of materials from vehicles, occurring within two years of a prior violation of that section is a misdemeanor, and not an infraction.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40000.16\n\nA second or subsequent violation of Section 23114, relating to preventing the escape of materials from vehicles, occurring within two years of a prior violation of that section is a misdemeanor, and not an infraction.\n\n*(Amended by Stats. 1997, Ch. 945, Sec. 32. Effective January 1, 1998.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A second or subsequent violation of Section 23114, relating to preventing the escape of materials from vehicles, occurring within two years of a prior violation of that section is a misdemeanor, and not an infraction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1997, Ch. 945, Sec. 32. Effective January 1, 1998.)",
+    "action": "Amended",
+    "statutes_year": 1997,
+    "chapter": "945",
+    "section": "32",
+    "bill_number": null,
+    "effective_date": "1998-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1997",
+  "op_chapter": "945",
+  "op_section": "32",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40000.16.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40000.16.html",
+  "content_sha256": "57cfe503dae3172b51b1892777486c67bca47a6b53de58e18aa1a76168d77e13",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "10650",
+  "division": "4",
+  "division_title": "SPECIAL ANTITHEFT LAWS",
+  "division_range": "10500 - 10904",
+  "chapter": "2",
+  "chapter_title": "Reports of Stored Vehicles",
+  "chapter_range": "10650 - 10658",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "7.3",
+  "text": "(a) Every operator of a towing service and every keeper of a garage or trailer park shall keep a written record of every vehicle of a type subject to registration under this code stored for a period longer than 12 hours.\n\n(b) The record shall contain the name and address of the person storing the vehicle or requesting the towing, the names of the owner and driver of the vehicle, if ascertainable, and a brief description of the vehicle including the name or make, the motor or other number of the vehicle, the nature of any damage to the vehicle, and the license number and registration number shown by the license plates or registration card, if either of the latter is attached to the vehicle in a clearly discernible place.\n\n(c) All records shall be kept for one year from the commencement of storage and shall be open to inspection by any peace officer.\n\n(d) Upon termination of the storage, a statement shall be added to the record as to the disposition of the vehicle, including the name and address of the person to whom the vehicle was released and the date of such release.",
+  "markdown": "# Vehicle Code\n## Division 4. SPECIAL ANTITHEFT LAWS [10500 - 10904]\n### Chapter 2. Reports of Stored Vehicles [10650 - 10658]\n##### § 10650\n\n(a) Every operator of a towing service and every keeper of a garage or trailer park shall keep a written record of every vehicle of a type subject to registration under this code stored for a period longer than 12 hours.\n\n(b) The record shall contain the name and address of the person storing the vehicle or requesting the towing, the names of the owner and driver of the vehicle, if ascertainable, and a brief description of the vehicle including the name or make, the motor or other number of the vehicle, the nature of any damage to the vehicle, and the license number and registration number shown by the license plates or registration card, if either of the latter is attached to the vehicle in a clearly discernible place.\n\n(c) All records shall be kept for one year from the commencement of storage and shall be open to inspection by any peace officer.\n\n(d) Upon termination of the storage, a statement shall be added to the record as to the disposition of the vehicle, including the name and address of the person to whom the vehicle was released and the date of such release.\n\n*(Amended by Stats. 1974, Ch. 271.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every operator of a towing service and every keeper of a garage or trailer park shall keep a written record of every vehicle of a type subject to registration under this code stored for a period longer than 12 hours.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The record shall contain the name and address of the person storing the vehicle or requesting the towing, the names of the owner and driver of the vehicle, if ascertainable, and a brief description of the vehicle including the name or make, the motor or other number of the vehicle, the nature of any damage to the vehicle, and the license number and registration number shown by the license plates or registration card, if either of the latter is attached to the vehicle in a clearly discernible place.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "All records shall be kept for one year from the commencement of storage and shall be open to inspection by any peace officer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Upon termination of the storage, a statement shall be added to the record as to the disposition of the vehicle, including the name and address of the person to whom the vehicle was released and the date of such release.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 271.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "271",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "271",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=10650.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/10650.html",
+  "content_sha256": "a3a3f271f5e513ab82562e72d261869236d058b74aa690d8429dd25746684e26",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

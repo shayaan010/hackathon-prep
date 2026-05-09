@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35701",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "4",
+  "article_title": "Local Authorities",
+  "article_range": "35700 - 35722",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.5",
+  "text": "(a) Any city, or county for a residence district, may, by ordinance, prohibit the use of a street by any commercial vehicle or by any vehicle exceeding a maximum gross weight limit, except with respect to any vehicle which is subject to Sections 1031 to 1036, inclusive, of the Public Utilities Code, and except with respect to vehicles used for the collection and transportation of garbage, rubbish, or refuse using traditionally used routes in San Diego County when the solid waste management plan prepared under Section 66780.1 of the Government Code is amended to designate each traditionally used route used for the purpose of transporting garbage, rubbish, or refuse which intersects with a local or regional arterial circulation route contained within a city or county’s traffic circulation element and which provides access to a solid waste disposal site.\n\n(b) The ordinance shall not be effective until appropriate signs are erected indicating either the streets affected by the ordinance or the streets not affected, as the local authority determines will best serve to give notice of the ordinance.\n\n(c) No ordinance adopted pursuant to this section after November 10, 1969, shall apply to any state highway which is included in the National System of Interstate and Defense Highways, except an ordinance which has been approved by a two-thirds vote of the California Transportation Commission.\n\n(d) The solid waste management plan prepared under Section 66780.1 of the Government Code by San Diego County may designate the traditionally used routes.\n\n(e) “Traditionally used route,” for purposes of this section, means any street used for a period of one year or more as access to or from a solid waste disposal site.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 4. Local Authorities [35700 - 35722]\n##### § 35701\n\n(a) Any city, or county for a residence district, may, by ordinance, prohibit the use of a street by any commercial vehicle or by any vehicle exceeding a maximum gross weight limit, except with respect to any vehicle which is subject to Sections 1031 to 1036, inclusive, of the Public Utilities Code, and except with respect to vehicles used for the collection and transportation of garbage, rubbish, or refuse using traditionally used routes in San Diego County when the solid waste management plan prepared under Section 66780.1 of the Government Code is amended to designate each traditionally used route used for the purpose of transporting garbage, rubbish, or refuse which intersects with a local or regional arterial circulation route contained within a city or county’s traffic circulation element and which provides access to a solid waste disposal site.\n\n(b) The ordinance shall not be effective until appropriate signs are erected indicating either the streets affected by the ordinance or the streets not affected, as the local authority determines will best serve to give notice of the ordinance.\n\n(c) No ordinance adopted pursuant to this section after November 10, 1969, shall apply to any state highway which is included in the National System of Interstate and Defense Highways, except an ordinance which has been approved by a two-thirds vote of the California Transportation Commission.\n\n(d) The solid waste management plan prepared under Section 66780.1 of the Government Code by San Diego County may designate the traditionally used routes.\n\n(e) “Traditionally used route,” for purposes of this section, means any street used for a period of one year or more as access to or from a solid waste disposal site.\n\n*(Amended by Stats. 1987, Ch. 616, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any city, or county for a residence district, may, by ordinance, prohibit the use of a street by any commercial vehicle or by any vehicle exceeding a maximum gross weight limit, except with respect to any vehicle which is subject to Sections 1031 to 1036, inclusive, of the Public Utilities Code, and except with respect to vehicles used for the collection and transportation of garbage, rubbish, or refuse using traditionally used routes in San Diego County when the solid waste management plan prepared under Section 66780.1 of the Government Code is amended to designate each traditionally used route used for the purpose of transporting garbage, rubbish, or refuse which intersects with a local or regional arterial circulation route contained within a city or county’s traffic circulation element and which provides access to a solid waste disposal site.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The ordinance shall not be effective until appropriate signs are erected indicating either the streets affected by the ordinance or the streets not affected, as the local authority determines will best serve to give notice of the ordinance.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "No ordinance adopted pursuant to this section after November 10, 1969, shall apply to any state highway which is included in the National System of Interstate and Defense Highways, except an ordinance which has been approved by a two-thirds vote of the California Transportation Commission.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The solid waste management plan prepared under Section 66780.1 of the Government Code by San Diego County may designate the traditionally used routes.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "“Traditionally used route,” for purposes of this section, means any street used for a period of one year or more as access to or from a solid waste disposal site.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1987, Ch. 616, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1987,
+    "chapter": "616",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1987",
+  "op_chapter": "616",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35701.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35701.html",
+  "content_sha256": "7e68fe4cd79dfe36c1ca771ed24d869ebf5beebe62563c63edd77098db4ecebf",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

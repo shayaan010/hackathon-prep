@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5005",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8",
+  "article_title": "Special Plates",
+  "article_range": "5000 - 5024",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.9",
+  "text": "(a) Any person holding an unexpired amateur radio station license issued by the Federal Communications Commission may, after the requirements for the registration of the motor vehicle have been complied with, also apply directly to the department for special license plates, and the department may issue special plates in lieu of the regular license plates. The special license plates shall be affixed to the motor vehicle for which registration is sought and, in lieu of the numbers otherwise prescribed by law, shall display the official amateur radio station call letters of the applicant as assigned by the Federal Communications Commission.\n\nThe applicant shall, by satisfactory proof, show that he or she is the holder of an unexpired license.\n\n(b) The department shall not issue more than one set of special plates for any licensed amateur radio station.\n\n(c) In addition to the regular fees for an original registration or renewal of registration, the following special fees shall be paid:\n\n(1) Twenty dollars ($20) for the initial issuance of the special plate.\n\n(2) Twelve dollars ($12) for the transfer of the special plate to another motor vehicle.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8. Special Plates [5000 - 5024]\n##### § 5005\n\n(a) Any person holding an unexpired amateur radio station license issued by the Federal Communications Commission may, after the requirements for the registration of the motor vehicle have been complied with, also apply directly to the department for special license plates, and the department may issue special plates in lieu of the regular license plates. The special license plates shall be affixed to the motor vehicle for which registration is sought and, in lieu of the numbers otherwise prescribed by law, shall display the official amateur radio station call letters of the applicant as assigned by the Federal Communications Commission.\n\nThe applicant shall, by satisfactory proof, show that he or she is the holder of an unexpired license.\n\n(b) The department shall not issue more than one set of special plates for any licensed amateur radio station.\n\n(c) In addition to the regular fees for an original registration or renewal of registration, the following special fees shall be paid:\n\n    (1) Twenty dollars ($20) for the initial issuance of the special plate.\n\n    (2) Twelve dollars ($12) for the transfer of the special plate to another motor vehicle.\n\n*(Amended by Stats. 1982, Ch. 1273, Sec. 5.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any person holding an unexpired amateur radio station license issued by the Federal Communications Commission may, after the requirements for the registration of the motor vehicle have been complied with, also apply directly to the department for special license plates, and the department may issue special plates in lieu of the regular license plates. The special license plates shall be affixed to the motor vehicle for which registration is sought and, in lieu of the numbers otherwise prescribed by law, shall display the official amateur radio station call letters of the applicant as assigned by the Federal Communications Commission.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The applicant shall, by satisfactory proof, show that he or she is the holder of an unexpired license.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall not issue more than one set of special plates for any licensed amateur radio station.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "In addition to the regular fees for an original registration or renewal of registration, the following special fees shall be paid:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Twenty dollars ($20) for the initial issuance of the special plate.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Twelve dollars ($12) for the transfer of the special plate to another motor vehicle.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1982, Ch. 1273, Sec. 5.)",
+    "action": "Amended",
+    "statutes_year": 1982,
+    "chapter": "1273",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "1273",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5005.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5005.html",
+  "content_sha256": "26f8ea9dbb95dcc0d3125f533803c98c5f8ad833b01af94b7f7f8d6d48591989",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

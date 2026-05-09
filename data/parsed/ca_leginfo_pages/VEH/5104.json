@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5104",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8.5",
+  "article_title": "Environmental License Plates",
+  "article_range": "5100 - 5112",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.13",
+  "text": "Environmental license plates shall be issued only to the registered owner or lessee of the vehicle on which they are to be displayed.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8.5. Environmental License Plates [5100 - 5112]\n##### § 5104\n\nEnvironmental license plates shall be issued only to the registered owner or lessee of the vehicle on which they are to be displayed.\n\n*(Amended by Stats. 1973, Ch. 265.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Environmental license plates shall be issued only to the registered owner or lessee of the vehicle on which they are to be displayed.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1973, Ch. 265.)",
+    "action": "Amended",
+    "statutes_year": 1973,
+    "chapter": "265",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1973",
+  "op_chapter": "265",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5104.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5104.html",
+  "content_sha256": "5e7652e7e965f8eabeb94a4767b31e527634fa4f2f0e6a532e24077ad990bbad",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

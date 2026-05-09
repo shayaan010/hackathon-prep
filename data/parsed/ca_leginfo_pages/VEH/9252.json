@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9252",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "2",
+  "article_title": "Registration Fees",
+  "article_range": "9250 - 9271",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.2",
+  "text": "(a) In addition to the registration fee specified in Section 9250 and any weight fee, there shall be paid a service fee of fifteen dollars ($15) for the registration within this state of every vehicle purchased new outside this state or previously registered outside this state. If the vehicle has been registered and operated in this state during the same registration year in which application for registration is made, a fee of fifteen dollars ($15) shall be paid.\n\n(b) This section does not apply to vehicles registered as fleet vehicles under Article 4 (commencing with Section 8050) of Chapter 4, except upon application for a certificate of ownership.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 2. Registration Fees [9250 - 9271]\n##### § 9252\n\n(a) In addition to the registration fee specified in Section 9250 and any weight fee, there shall be paid a service fee of fifteen dollars ($15) for the registration within this state of every vehicle purchased new outside this state or previously registered outside this state. If the vehicle has been registered and operated in this state during the same registration year in which application for registration is made, a fee of fifteen dollars ($15) shall be paid.\n\n(b) This section does not apply to vehicles registered as fleet vehicles under Article 4 (commencing with Section 8050) of Chapter 4, except upon application for a certificate of ownership.\n\n*(Amended by Stats. 2003, Ch. 719, Sec. 13. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In addition to the registration fee specified in Section 9250 and any weight fee, there shall be paid a service fee of fifteen dollars ($15) for the registration within this state of every vehicle purchased new outside this state or previously registered outside this state. If the vehicle has been registered and operated in this state during the same registration year in which application for registration is made, a fee of fifteen dollars ($15) shall be paid.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to vehicles registered as fleet vehicles under Article 4 (commencing with Section 8050) of Chapter 4, except upon application for a certificate of ownership.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 719, Sec. 13. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "719",
+    "section": "13",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "719",
+  "op_section": "13",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9252.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9252.html",
+  "content_sha256": "94bbed50476fface9f2cd20aa8d58eb830e4226aaeffa972e754142a098b1e9e",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

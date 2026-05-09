@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21466.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "3",
+  "article_title": "Offenses Relating to Traffic Devices",
+  "article_range": "21450 - 21468",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.3",
+  "text": "No person shall place or maintain or display, upon or in view of any highway, any light of any color of such brilliance as to impair the vision of drivers upon the highway. A light source shall be considered vision impairing when its brilliance exceeds the values listed below.\n\nThe brightness reading of an objectionable light source shall be measured with a 11/2-degree photoelectric brightness meter placed at the driver’s point of view. The maximum measured brightness of the light source within 10 degrees from the driver’s normal line of sight shall not be more than 1,000 times the minimum measured brightness in the driver’s field of view, except that when the minimum measured brightness in the field of view is 10 foot-lamberts or less, the measured brightness of the light source in foot-lambert shall not exceed 500 plus 100 times the angle, in degrees, between the driver’s line of sight and the light source.\n\nThe provisions of this section shall not apply to railroads as defined in Section 229 of the Public Utilities Code.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 3. Offenses Relating to Traffic Devices [21450 - 21468]\n##### § 21466.5\n\nNo person shall place or maintain or display, upon or in view of any highway, any light of any color of such brilliance as to impair the vision of drivers upon the highway. A light source shall be considered vision impairing when its brilliance exceeds the values listed below.\n\nThe brightness reading of an objectionable light source shall be measured with a 11/2-degree photoelectric brightness meter placed at the driver’s point of view. The maximum measured brightness of the light source within 10 degrees from the driver’s normal line of sight shall not be more than 1,000 times the minimum measured brightness in the driver’s field of view, except that when the minimum measured brightness in the field of view is 10 foot-lamberts or less, the measured brightness of the light source in foot-lambert shall not exceed 500 plus 100 times the angle, in degrees, between the driver’s line of sight and the light source.\n\nThe provisions of this section shall not apply to railroads as defined in Section 229 of the Public Utilities Code.\n\n*(Added by Stats. 1970, Ch. 968.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall place or maintain or display, upon or in view of any highway, any light of any color of such brilliance as to impair the vision of drivers upon the highway. A light source shall be considered vision impairing when its brilliance exceeds the values listed below.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The brightness reading of an objectionable light source shall be measured with a 11/2-degree photoelectric brightness meter placed at the driver’s point of view. The maximum measured brightness of the light source within 10 degrees from the driver’s normal line of sight shall not be more than 1,000 times the minimum measured brightness in the driver’s field of view, except that when the minimum measured brightness in the field of view is 10 foot-lamberts or less, the measured brightness of the light source in foot-lambert shall not exceed 500 plus 100 times the angle, in degrees, between the driver’s line of sight and the light source.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The provisions of this section shall not apply to railroads as defined in Section 229 of the Public Utilities Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1970, Ch. 968.)",
+    "action": "Added",
+    "statutes_year": 1970,
+    "chapter": "968",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1970",
+  "op_chapter": "968",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21466.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21466.5.html",
+  "content_sha256": "02f73975cad2e152fb22883fe581e4ae448c904da98d49e2dd431a7eb6b581a1",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

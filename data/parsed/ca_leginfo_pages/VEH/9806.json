@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9806",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "6",
+  "article_title": "Enforcement of Liens",
+  "article_range": "9800 - 9808",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.6",
+  "text": "The clerk of the court, immediately upon the filing of the certificate specified in Section 9805, shall enter a judgment for the people of the State of California against the individual, company, or corporation in the amount of any fee, tax, penalty, and collection cost set forth in the certificate. The clerk may file the judgment in a looseleaf book entitled “Department of Motor Vehicles Registration Judgments.”",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 6. Enforcement of Liens [9800 - 9808]\n##### § 9806\n\nThe clerk of the court, immediately upon the filing of the certificate specified in Section 9805, shall enter a judgment for the people of the State of California against the individual, company, or corporation in the amount of any fee, tax, penalty, and collection cost set forth in the certificate. The clerk may file the judgment in a looseleaf book entitled “Department of Motor Vehicles Registration Judgments.”\n\n*(Amended by Stats. 2002, Ch. 784, Sec. 594. Effective January 1, 2003.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The clerk of the court, immediately upon the filing of the certificate specified in Section 9805, shall enter a judgment for the people of the State of California against the individual, company, or corporation in the amount of any fee, tax, penalty, and collection cost set forth in the certificate. The clerk may file the judgment in a looseleaf book entitled “Department of Motor Vehicles Registration Judgments.”",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2002, Ch. 784, Sec. 594. Effective January 1, 2003.)",
+    "action": "Amended",
+    "statutes_year": 2002,
+    "chapter": "784",
+    "section": "594",
+    "bill_number": null,
+    "effective_date": "2003-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2002",
+  "op_chapter": "784",
+  "op_section": "594",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9806.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9806.html",
+  "content_sha256": "6688135d40ced8a2683b2842442c4886d40fb8a53a2c25a0eae000f20ebef031",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

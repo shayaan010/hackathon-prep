@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "10501",
+  "division": "4",
+  "division_title": "SPECIAL ANTITHEFT LAWS",
+  "division_range": "10500 - 10904",
+  "chapter": "1",
+  "chapter_title": "Reports of Stolen Vehicles",
+  "chapter_range": "10500 - 10505",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "7.1",
+  "text": "(a) It is unlawful for any person to make or file a false or fraudulent report of theft of a vehicle required to be registered under this code with any law enforcement agency with intent to deceive.\n\n(b) If a person has been previously convicted of a violation of subdivision (a), he or she is punishable by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code for 16 months, or two or three years, or in a county jail for not to exceed one year.",
+  "markdown": "# Vehicle Code\n## Division 4. SPECIAL ANTITHEFT LAWS [10500 - 10904]\n### Chapter 1. Reports of Stolen Vehicles [10500 - 10505]\n##### § 10501\n\n(a) It is unlawful for any person to make or file a false or fraudulent report of theft of a vehicle required to be registered under this code with any law enforcement agency with intent to deceive.\n\n(b) If a person has been previously convicted of a violation of subdivision (a), he or she is punishable by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code for 16 months, or two or three years, or in a county jail for not to exceed one year.\n\n*(Amended by Stats. 2011, Ch. 15, Sec. 601. (AB 109) Effective April 4, 2011. Operative October 1, 2011, by Sec. 636 of Ch. 15, as amended by Stats. 2011, Ch. 39, Sec. 68.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is unlawful for any person to make or file a false or fraudulent report of theft of a vehicle required to be registered under this code with any law enforcement agency with intent to deceive.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If a person has been previously convicted of a violation of subdivision (a), he or she is punishable by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code for 16 months, or two or three years, or in a county jail for not to exceed one year.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2011, Ch. 15, Sec. 601. (AB 109) Effective April 4, 2011. Operative October 1, 2011, by Sec. 636 of Ch. 15, as amended by Stats. 2011, Ch. 39, Sec. 68.)",
+    "action": "Amended",
+    "statutes_year": 2011,
+    "chapter": "15",
+    "section": "601",
+    "bill_number": "AB 109",
+    "effective_date": "2011-04-04",
+    "operative_date": "2011-10-01"
+  },
+  "op_statues": "2011",
+  "op_chapter": "15",
+  "op_section": "601",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=10501.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/10501.html",
+  "content_sha256": "22882ff649f9e184ddd509443eee64cc8bfa9c481285276cd650348a1d92e416",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

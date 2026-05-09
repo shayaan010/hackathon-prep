@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21201.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "4",
+  "article_title": "Operation of Bicycles",
+  "article_range": "21200 - 21214.7",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.4",
+  "text": "(a) No person shall sell, or offer for sale, a reflex reflector or reflectorized tire of a type required on a bicycle unless it meets requirements established by the department. If there exists a federal Consumer Product Safety Commission regulation applicable to bicycle reflectors, the provisions of that regulation shall prevail over provisions of this code or requirements established by the department pursuant to this code relative to bicycle reflectors.\n\n(b) No person shall sell, or offer for sale, a new bicycle that is not equipped with a red reflector on the rear, a white or yellow reflector on each pedal visible from the front and rear of the bicycle, a white or yellow reflector on each side forward of the center of the bicycle, and a white or red reflector on each side to the rear of the center of the bicycle, except that bicycles which are equipped with reflectorized tires on the front and rear need not be equipped with these side reflectors.\n\n(c) Area reflectorizing material meeting the requirements of Section 25500 may be used on a bicycle.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 4. Operation of Bicycles [21200 - 21214.7]\n##### § 21201.5\n\n(a) No person shall sell, or offer for sale, a reflex reflector or reflectorized tire of a type required on a bicycle unless it meets requirements established by the department. If there exists a federal Consumer Product Safety Commission regulation applicable to bicycle reflectors, the provisions of that regulation shall prevail over provisions of this code or requirements established by the department pursuant to this code relative to bicycle reflectors.\n\n(b) No person shall sell, or offer for sale, a new bicycle that is not equipped with a red reflector on the rear, a white or yellow reflector on each pedal visible from the front and rear of the bicycle, a white or yellow reflector on each side forward of the center of the bicycle, and a white or red reflector on each side to the rear of the center of the bicycle, except that bicycles which are equipped with reflectorized tires on the front and rear need not be equipped with these side reflectors.\n\n(c) Area reflectorizing material meeting the requirements of Section 25500 may be used on a bicycle.\n\n*(Amended by Stats. 1980, Ch. 399, Sec. 2. Effective July 11, 1980.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall sell, or offer for sale, a reflex reflector or reflectorized tire of a type required on a bicycle unless it meets requirements established by the department. If there exists a federal Consumer Product Safety Commission regulation applicable to bicycle reflectors, the provisions of that regulation shall prevail over provisions of this code or requirements established by the department pursuant to this code relative to bicycle reflectors.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No person shall sell, or offer for sale, a new bicycle that is not equipped with a red reflector on the rear, a white or yellow reflector on each pedal visible from the front and rear of the bicycle, a white or yellow reflector on each side forward of the center of the bicycle, and a white or red reflector on each side to the rear of the center of the bicycle, except that bicycles which are equipped with reflectorized tires on the front and rear need not be equipped with these side reflectors.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Area reflectorizing material meeting the requirements of Section 25500 may be used on a bicycle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1980, Ch. 399, Sec. 2. Effective July 11, 1980.)",
+    "action": "Amended",
+    "statutes_year": 1980,
+    "chapter": "399",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "1980-07-11",
+    "operative_date": null
+  },
+  "op_statues": "1980",
+  "op_chapter": "399",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21201.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21201.5.html",
+  "content_sha256": "828da9105d033d749a166c4defb96c9b67ef139493841e71130c5ba6880a39c3",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

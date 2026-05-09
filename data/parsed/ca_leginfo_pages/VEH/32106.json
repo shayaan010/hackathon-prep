@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "32106",
+  "division": "14.3",
+  "division_title": "TRANSPORTATION OF INHALATION HAZARDS",
+  "division_range": "32100 - 32109",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "22",
+  "text": "Every vehicle used in the transportation of an inhalation hazard, in addition to any other equipment required by law, shall be equipped and maintained as required by this section.\n\n(a) Brakes and the brake system shall be maintained in good and safe operating condition.\n\n(b) Steering, connection devices, and lighting systems shall be maintained in good operating condition.\n\n(c) All tires shall be in good condition, properly matched and inflated. Except as may be necessary to cause immediate replacement, no vehicle shall be driven unless all tires in actual use on the vehicle are properly inflated.\n\n(d) Fire extinguishers and other safety equipment prescribed by regulations adopted by the department pursuant to Section 34501 shall be carried in each vehicle or combination of vehicles.",
+  "markdown": "# Vehicle Code\n## Division 14.3. TRANSPORTATION OF INHALATION HAZARDS [32100 - 32109]\n##### § 32106\n\nEvery vehicle used in the transportation of an inhalation hazard, in addition to any other equipment required by law, shall be equipped and maintained as required by this section.\n\n(a) Brakes and the brake system shall be maintained in good and safe operating condition.\n\n(b) Steering, connection devices, and lighting systems shall be maintained in good operating condition.\n\n(c) All tires shall be in good condition, properly matched and inflated. Except as may be necessary to cause immediate replacement, no vehicle shall be driven unless all tires in actual use on the vehicle are properly inflated.\n\n(d) Fire extinguishers and other safety equipment prescribed by regulations adopted by the department pursuant to Section 34501 shall be carried in each vehicle or combination of vehicles.\n\n*(Added by Stats. 1988, Ch. 1384, Sec. 5.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every vehicle used in the transportation of an inhalation hazard, in addition to any other equipment required by law, shall be equipped and maintained as required by this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Brakes and the brake system shall be maintained in good and safe operating condition.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Steering, connection devices, and lighting systems shall be maintained in good operating condition.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "All tires shall be in good condition, properly matched and inflated. Except as may be necessary to cause immediate replacement, no vehicle shall be driven unless all tires in actual use on the vehicle are properly inflated.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Fire extinguishers and other safety equipment prescribed by regulations adopted by the department pursuant to Section 34501 shall be carried in each vehicle or combination of vehicles.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 1384, Sec. 5.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "1384",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1384",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=32106.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/32106.html",
+  "content_sha256": "e7d607ab27c8cc45d5e9e4801d91b7e03ab138c63089a69c28c06201abb34fce",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

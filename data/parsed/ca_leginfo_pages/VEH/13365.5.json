@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13365.5",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "2",
+  "chapter_title": "Suspension or Revocation of Licenses",
+  "chapter_range": "13100 - 13559",
+  "article": "3",
+  "article_title": "Suspension and Revocation by Department",
+  "article_range": "13350 - 13392",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.2.3",
+  "text": "(a) Upon receipt of a notification issued pursuant to Section 40509.1, the department shall suspend the person’s privilege to operate a motor vehicle until compliance with the court order is shown or as prescribed in subdivision (c) of Section 12808. The suspension under this section shall not be effective until 45 days after the giving of written notice by the department.\n\n(b) This section does not apply to a notification of failure to comply with a court order issued for a violation enumerated in paragraph (1), (2), (3), (6), or (7) of subdivision (b) of Section 1803.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 2. Suspension or Revocation of Licenses [13100 - 13559]\n#### Article 3. Suspension and Revocation by Department [13350 - 13392]\n##### § 13365.5\n\n(a) Upon receipt of a notification issued pursuant to Section 40509.1, the department shall suspend the person’s privilege to operate a motor vehicle until compliance with the court order is shown or as prescribed in subdivision (c) of Section 12808. The suspension under this section shall not be effective until 45 days after the giving of written notice by the department.\n\n(b) This section does not apply to a notification of failure to comply with a court order issued for a violation enumerated in paragraph (1), (2), (3), (6), or (7) of subdivision (b) of Section 1803.\n\n*(Added by Stats. 1993, Ch. 158, Sec. 21.7. Effective July 21, 1993.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Upon receipt of a notification issued pursuant to Section 40509.1, the department shall suspend the person’s privilege to operate a motor vehicle until compliance with the court order is shown or as prescribed in subdivision (c) of Section 12808. The suspension under this section shall not be effective until 45 days after the giving of written notice by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to a notification of failure to comply with a court order issued for a violation enumerated in paragraph (1), (2), (3), (6), or (7) of subdivision (b) of Section 1803.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1993, Ch. 158, Sec. 21.7. Effective July 21, 1993.)",
+    "action": "Added",
+    "statutes_year": 1993,
+    "chapter": "158",
+    "section": "21.7",
+    "bill_number": null,
+    "effective_date": "1993-07-21",
+    "operative_date": null
+  },
+  "op_statues": "1993",
+  "op_chapter": "158",
+  "op_section": "21.7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13365.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13365.5.html",
+  "content_sha256": "07902040c1ec55d071e101631b843124af42a498b0c99cf7a3e51303a6351476",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

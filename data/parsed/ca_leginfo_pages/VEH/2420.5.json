@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2420.5",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "(a) The department may enter into a contract to conduct an inspection of vehicles that are subject to Section 500.100 of Title 29 of the Code of Federal Regulations and issue the vehicle inspection sticker authorized under subdivision (b) of that section to qualified vehicles.\n\n(b) Any contract entered into under subdivision (a) shall provide that the amount to be paid to the department shall be equal to the costs incurred by the department for services provided under the contract.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2420.5\n\n(a) The department may enter into a contract to conduct an inspection of vehicles that are subject to Section 500.100 of Title 29 of the Code of Federal Regulations and issue the vehicle inspection sticker authorized under subdivision (b) of that section to qualified vehicles.\n\n(b) Any contract entered into under subdivision (a) shall provide that the amount to be paid to the department shall be equal to the costs incurred by the department for services provided under the contract.\n\n*(Added by Stats. 1998, Ch. 877, Sec. 36. Effective January 1, 1999.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may enter into a contract to conduct an inspection of vehicles that are subject to Section 500.100 of Title 29 of the Code of Federal Regulations and issue the vehicle inspection sticker authorized under subdivision (b) of that section to qualified vehicles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any contract entered into under subdivision (a) shall provide that the amount to be paid to the department shall be equal to the costs incurred by the department for services provided under the contract.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1998, Ch. 877, Sec. 36. Effective January 1, 1999.)",
+    "action": "Added",
+    "statutes_year": 1998,
+    "chapter": "877",
+    "section": "36",
+    "bill_number": null,
+    "effective_date": "1999-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1998",
+  "op_chapter": "877",
+  "op_section": "36",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2420.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2420.5.html",
+  "content_sha256": "9bf0c80abd2d550a8c6bb52dfa655a06c7a9c2f6dcc9fe93d2a71c2a393b06e3",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

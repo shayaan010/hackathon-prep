@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12515",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "1",
+  "article_title": "Persons Required to Be Licensed, Exemptions, and Age Limits",
+  "article_range": "12500 - 12527",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.1",
+  "text": "(a) No person under the age of 18 years shall be employed for compensation by another for the purpose of driving a motor vehicle on the highways.\n\n(b) No person under the age of 21 years shall be employed for compensation by another to drive, and no person under the age of 21 years may drive a motor vehicle, as defined in Section 34500 or subdivision (b) of Section 15210, that is engaged in interstate commerce, or any motor vehicle that is engaged in the interstate or intrastate transportation of hazardous material, as defined in Section 353.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 1. Persons Required to Be Licensed, Exemptions, and Age Limits [12500 - 12527]\n##### § 12515\n\n(a) No person under the age of 18 years shall be employed for compensation by another for the purpose of driving a motor vehicle on the highways.\n\n(b) No person under the age of 21 years shall be employed for compensation by another to drive, and no person under the age of 21 years may drive a motor vehicle, as defined in Section 34500 or subdivision (b) of Section 15210, that is engaged in interstate commerce, or any motor vehicle that is engaged in the interstate or intrastate transportation of hazardous material, as defined in Section 353.\n\n*(Amended by Stats. 1988, Ch. 1509, Sec. 5.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person under the age of 18 years shall be employed for compensation by another for the purpose of driving a motor vehicle on the highways.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No person under the age of 21 years shall be employed for compensation by another to drive, and no person under the age of 21 years may drive a motor vehicle, as defined in Section 34500 or subdivision (b) of Section 15210, that is engaged in interstate commerce, or any motor vehicle that is engaged in the interstate or intrastate transportation of hazardous material, as defined in Section 353.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1988, Ch. 1509, Sec. 5.)",
+    "action": "Amended",
+    "statutes_year": 1988,
+    "chapter": "1509",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1509",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12515.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12515.html",
+  "content_sha256": "2946580527e86b7c8f972460a9e2815abed2ca80647bd693510583099c107d73",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}
