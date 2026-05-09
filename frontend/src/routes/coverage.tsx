@@ -1,6 +1,9 @@
 import { createFileRoute } from "@tanstack/react-router";
+import { useQuery } from "@tanstack/react-query";
+import { useMemo } from "react";
 import { AppHeader } from "@/components/AppHeader";
 import { STATUTES, FACTOR_CATEGORIES } from "@/lib/statutes";
+import { api } from "@/lib/api";
 import { Network, AlertTriangle, CheckCircle2 } from "lucide-react";
 
 export const Route = createFileRoute("/coverage")({
@@ -13,20 +16,33 @@ export const Route = createFileRoute("/coverage")({
   component: CoveragePage,
 });
 
-const ALL_JURISDICTIONS = ["California", "New York", "Texas", "Florida", "Illinois", "Washington", "Arizona", "Georgia"];
-
 function CoveragePage() {
-  const matrix = ALL_JURISDICTIONS.map((j) => ({
+  const { data: statutes = STATUTES } = useQuery({
+    queryKey: ["statutes"],
+    queryFn: api.statutes,
+    staleTime: 60_000,
+    placeholderData: STATUTES,
+  });
+
+  // Drive the jurisdiction list from the actual corpus; no hardcoded list.
+  const jurisdictions = useMemo(
+    () => Array.from(new Set(statutes.map((s) => s.jurisdictionLabel))).sort(),
+    [statutes],
+  );
+
+  const matrix = jurisdictions.map((j) => ({
     j,
     cells: FACTOR_CATEGORIES.map((f) => ({
       f,
-      count: STATUTES.filter((s) => s.jurisdictionLabel === j && s.factors.includes(f)).length,
+      count: statutes.filter(
+        (s) => s.jurisdictionLabel === j && s.factors.includes(f),
+      ).length,
     })),
   }));
 
-  const total = ALL_JURISDICTIONS.length * FACTOR_CATEGORIES.length;
+  const total = jurisdictions.length * FACTOR_CATEGORIES.length;
   const covered = matrix.flatMap((r) => r.cells).filter((c) => c.count > 0).length;
-  const pct = Math.round((covered / total) * 100);
+  const pct = total ? Math.round((covered / total) * 100) : 0;
 
   return (
     <div className="h-screen flex flex-col bg-background">
@@ -117,21 +133,33 @@ function CoveragePage() {
             icon={<AlertTriangle className="h-4 w-4" />}
             title="Highest-leverage gaps"
             tone="destructive"
-            items={[
-              "Florida · DUI — 0 statutes",
-              "Illinois · Pedestrian Right-of-Way — 0 statutes",
-              "Washington · Improper Passing — 0 statutes",
-            ]}
+            items={(() => {
+              const gaps: string[] = [];
+              for (const row of matrix) {
+                for (const cell of row.cells) {
+                  if (cell.count === 0) gaps.push(`${row.j} · ${cell.f} — 0 statutes`);
+                }
+              }
+              return gaps.slice(0, 3).length
+                ? gaps.slice(0, 3)
+                : ["No gaps detected — every cell has coverage."];
+            })()}
           />
           <GapCard
             icon={<CheckCircle2 className="h-4 w-4" />}
             title="Strongest coverage"
             tone="primary"
-            items={[
-              "California · Following Too Closely — 1 statute, 1 case",
-              "California · DUI — 1 statute, 1 case",
-              "Multi-state · Following Too Closely — 3 jurisdictions",
-            ]}
+            items={(() => {
+              const cells = matrix.flatMap((r) =>
+                r.cells.map((c) => ({ j: r.j, f: c.f, count: c.count })),
+              );
+              return cells
+                .filter((c) => c.count > 0)
+                .sort((a, b) => b.count - a.count)
+                .slice(0, 3)
+                .map((c) => `${c.j} · ${c.f} — ${c.count} statute${c.count === 1 ? "" : "s"}`)
+                .concat(cells.every((c) => c.count === 0) ? ["No coverage yet."] : []);
+            })()}
           />
         </div>
       </div>

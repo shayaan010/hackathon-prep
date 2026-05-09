@@ -72,6 +72,12 @@ export function ChatWidget() {
     }
   }, [messages, open]);
 
+  useEffect(() => {
+    const handler = () => setOpen(true);
+    window.addEventListener("open-chat", handler);
+    return () => window.removeEventListener("open-chat", handler);
+  }, []);
+
   const send = async () => {
     const text = input.trim();
     if (!text) return;

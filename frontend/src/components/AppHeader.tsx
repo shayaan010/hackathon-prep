@@ -1,5 +1,7 @@
 import { Link, useRouterState } from "@tanstack/react-router";
+import { useQuery } from "@tanstack/react-query";
 import { Scale, BookOpen, FolderKanban, Network } from "lucide-react";
+import { api } from "@/lib/api";
 
 const nav = [
   { to: "/", label: "Harvester", icon: BookOpen },
@@ -9,6 +11,24 @@ const nav = [
 
 export function AppHeader() {
   const path = useRouterState({ select: (s) => s.location.pathname });
+  const { data: stats } = useQuery({
+    queryKey: ["stats"],
+    queryFn: api.stats,
+    staleTime: 30_000,
+    refetchOnWindowFocus: false,
+  });
+  const { data: statutes } = useQuery({
+    queryKey: ["statutes"],
+    queryFn: api.statutes,
+    staleTime: 60_000,
+  });
+  const jurisdictionCount = statutes
+    ? new Set(statutes.map((s) => s.jurisdictionLabel)).size
+    : 0;
+  const docCount = stats?.documents ?? statutes?.length ?? 0;
+  const headerText = docCount
+    ? `${docCount} statute${docCount === 1 ? "" : "s"} · ${jurisdictionCount} jurisdiction${jurisdictionCount === 1 ? "" : "s"}`
+    : "loading…";
   return (
     <header className="border-b border-border/70 bg-card/80 backdrop-blur-md sticky top-0 z-30">
       <div className="flex items-center h-14 px-5 gap-8">
@@ -45,7 +65,7 @@ export function AppHeader() {
         <div className="ml-auto flex items-center gap-3">
           <div className="hidden md:flex items-center gap-2 text-xs text-muted-foreground">
             <span className="h-1.5 w-1.5 rounded-full bg-primary animate-pulse" />
-            <span className="font-mono">12 statutes · 3 jurisdictions</span>
+            <span className="font-mono">{headerText}</span>
           </div>
           <div className="h-8 w-8 rounded-full bg-gradient-to-br from-primary to-gold grid place-items-center text-primary-foreground text-xs font-semibold">
             JM

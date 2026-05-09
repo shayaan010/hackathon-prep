@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { AppHeader } from "@/components/AppHeader";
 import { StatuteListItem } from "@/components/StatuteListItem";
 import { StatuteDetail } from "@/components/StatuteDetail";
@@ -40,14 +40,52 @@ function HarvesterPage() {
   );
 
   const [query, setQuery] = useState("");
+  const [debouncedQuery, setDebouncedQuery] = useState("");
   const [activeFactors, setActiveFactors] = useState<string[]>([]);
   const [activeJurisdictions, setActiveJurisdictions] = useState<string[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [bookmarks, setBookmarks] = useState<Set<string>>(new Set());
 
+  // Debounce typing → semantic search (avoid hitting /api/search every keystroke).
+  useEffect(() => {
+    const t = setTimeout(() => setDebouncedQuery(query.trim()), 350);
+    return () => clearTimeout(t);
+  }, [query]);
+
+  const useSemantic = debouncedQuery.length >= 2;
+  const { data: searchHits, isFetching: searching } = useQuery({
+    queryKey: ["search", debouncedQuery],
+    queryFn: () => api.search(debouncedQuery, 20),
+    enabled: useSemantic,
+    staleTime: 30_000,
+  });
+
+  const semanticOrdered = useMemo(() => {
+    if (!useSemantic || !searchHits) return null;
+    const bestByDoc = new Map<number, number>();
+    for (const h of searchHits) {
+      const prev = bestByDoc.get(h.doc_id);
+      if (prev === undefined || h.score > prev) bestByDoc.set(h.doc_id, h.score);
+    }
+    const byId = new Map(statutes.map((s) => [s.id, s]));
+    const ranked: typeof statutes = [];
+    for (const [docId] of [...bestByDoc.entries()].sort((a, b) => b[1] - a[1])) {
+      // Real DB statutes have id "ca-vc-<section-slug>"; SearchHit only carries doc_id.
+      // Match by URL/section using the seed/list mapping built below.
+      const stat = statutes.find((s) =>
+        searchHits.find(
+          (h) => h.doc_id === docId && h.source_url === s.source.url,
+        ),
+      );
+      if (stat && !ranked.find((r) => r.id === stat.id)) ranked.push(stat);
+    }
+    return ranked;
+  }, [searchHits, statutes, useSemantic]);
+
   const filtered = useMemo(() => {
-    return statutes.filter((s) => {
-      const q = query.trim().toLowerCase();
+    const base = semanticOrdered ?? statutes;
+    return base.filter((s) => {
+      const q = useSemantic ? "" : query.trim().toLowerCase();
       const matchesQuery =
         !q ||
         s.title.toLowerCase().includes(q) ||
@@ -61,7 +99,7 @@ function HarvesterPage() {
         activeJurisdictions.length === 0 || activeJurisdictions.includes(s.jurisdictionLabel);
       return matchesQuery && matchesFactor && matchesJ;
     });
-  }, [statutes, query, activeFactors, activeJurisdictions]);
+  }, [semanticOrdered, statutes, query, activeFactors, activeJurisdictions, useSemantic]);
 
   const selected = filtered.find((s) => s.id === selectedId) ?? filtered[0] ?? null;
 
@@ -100,9 +138,18 @@ function HarvesterPage() {
             </div>
 
             <div className="mt-3 flex items-center gap-2">
-              <button className="text-xs font-medium text-primary flex items-center gap-1 px-2 py-1 rounded hover:bg-secondary">
+              <button
+                onClick={() => window.dispatchEvent(new Event("open-chat"))}
+                className="text-xs font-medium text-primary flex items-center gap-1 px-2 py-1 rounded hover:bg-secondary"
+              >
                 <Sparkles className="h-3 w-3" /> Ask the agent
               </button>
+              {useSemantic && (
+                <span className="text-[10px] font-mono uppercase tracking-widest text-gold flex items-center gap-1">
+                  <Sparkles className="h-2.5 w-2.5" />
+                  {searching ? "searching…" : "semantic"}
+                </span>
+              )}
               <button className="text-xs font-medium text-muted-foreground flex items-center gap-1 px-2 py-1 rounded hover:bg-secondary ml-auto">
                 <SlidersHorizontal className="h-3 w-3" /> Advanced
               </button>

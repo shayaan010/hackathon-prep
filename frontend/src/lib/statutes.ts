@@ -14,24 +14,26 @@ export type Statute = {
   lastVerified: string;
 };
 
+// The 17 contributing-factor categories used by the eval CSV gold labels and
+// by scripts/tag_statutes.py. Keep this in sync with both.
 export const FACTOR_CATEGORIES = [
-  "DUI",
-  "Distracted Driving",
-  "Failure to Yield",
-  "Following Too Closely",
+  "Improper Turning",
   "Improper Passing",
-  "Improper Turn",
-  "Lane Violation",
+  "Failure to Yield the Right-of-Way",
+  "Improper Lane of Travel",
+  "Improper Stopping",
+  "DUI/DWI",
+  "Fleeing the Scene of a Collision",
+  "Failure to Maintain Lane",
+  "Driving Too Fast For Conditions",
+  "Using a Wireless Telephone/Texting While Driving",
+  "Fleeing a Police Officer",
+  "Failure to Obey Traffic Control Device",
+  "Following Too Closely",
+  "Failure to Yield at a Yield Sign",
+  "Improper Starting",
   "Reckless Driving",
-  "Right-of-Way",
-  "Speeding",
-  "Stop Sign / Signal",
-  "Unsafe Lane Change",
-  "Pedestrian Right-of-Way",
-  "Cell Phone Use",
-  "Hit and Run",
-  "Unsafe Vehicle",
-  "Other",
+  "Failure to Use/Activate Horn",
 ] as const;
 
 export const STATUTES: Statute[] = [

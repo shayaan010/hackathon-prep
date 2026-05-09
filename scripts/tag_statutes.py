@@ -66,22 +66,46 @@ with db.conn() as c:
 print(f"Tagging {len(docs)} documents...")
 
 tagged = 0
+correct = 0
+graded = 0
+mismatches: list[tuple[str, str, str]] = []  # (citation, predicted, gold)
+
 for doc in docs:
     doc_id, raw_text, metadata_str = doc["id"], doc["raw_text"], doc["metadata"]
     metadata = json.loads(metadata_str) if metadata_str else {}
     citation = metadata.get("citation", str(doc_id))
+    section = metadata.get("section", "")
+    citation_with_section = f"{citation} § {section}" if section else citation
+    gold = metadata.get("category_gold", "").strip()
 
     with db.conn() as c:
         existing = c.execute(
-            "SELECT id FROM extractions WHERE doc_id = ? AND schema_name = ?",
+            "SELECT id, data FROM extractions WHERE doc_id = ? AND schema_name = ?",
             (doc_id, "ContributingFactor"),
         ).fetchone()
+
     if existing:
-        print(f"  Skipping {citation} (already tagged)")
+        # Use the prior prediction for accuracy tally so re-runs still report.
+        try:
+            prior = json.loads(existing["data"])
+            predicted = prior.get("primary_category", "")
+        except Exception:
+            predicted = ""
+        if gold and predicted:
+            graded += 1
+            mark = "✓" if predicted == gold else "✗"
+            if predicted == gold:
+                correct += 1
+            else:
+                mismatches.append((citation_with_section, predicted, gold))
+            print(f"  {mark} (cached) {citation_with_section} → {predicted}"
+                  + ("" if predicted == gold else f"  [gold: {gold}]"))
+        else:
+            print(f"  · (cached) {citation_with_section} → {predicted or '?'}")
         continue
 
     try:
-        result = tag_document(doc_id, raw_text or "", citation)
+        result = tag_document(doc_id, raw_text or "", citation_with_section)
         db.insert_extraction(
             doc_id=doc_id,
             schema_name="ContributingFactor",
@@ -91,9 +115,30 @@ for doc in docs:
             },
             source_quote=result.get("source_quote") or None,
         )
-        print(f"  ✓ {citation} → {result['primary_category']}")
+        predicted = result["primary_category"]
         tagged += 1
+        if gold:
+            graded += 1
+            if predicted == gold:
+                correct += 1
+                print(f"  ✓ {citation_with_section} → {predicted}")
+            else:
+                mismatches.append((citation_with_section, predicted, gold))
+                print(f"  ✗ {citation_with_section} → {predicted}  [gold: {gold}]")
+        else:
+            print(f"  · {citation_with_section} → {predicted}  [no gold label]")
     except Exception as e:
-        print(f"  ✗ {citation}: {e}")
+        print(f"  ! {citation_with_section}: {e}")
 
 print(f"\nDone. Tagged {tagged} new documents.")
+if graded:
+    pct = 100.0 * correct / graded
+    print(f"Accuracy on eval set: {correct}/{graded} ({pct:.1f}%)")
+    if mismatches:
+        print("\nMismatches:")
+        for cit, pred, g in mismatches:
+            print(f"  {cit}")
+            print(f"    predicted: {pred}")
+            print(f"    gold:      {g}")
+else:
+    print("No gold labels available — skipped accuracy tally.")
