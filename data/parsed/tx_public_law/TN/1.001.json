@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "1.001",
+  "section_name": "Purpose of Code",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "1",
+  "chapter_title": "Gen. Provisions",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "1",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) This code is enacted as a part of the state’s continuing statutory revision program, begun by the Texas Legislative Council in 1963 as directed by the legislature in the law codified as Section 323.007 (Statutory Revision Program) , Government Code. The program contemplates a topic-by-topic revision of the state’s general and permanent statute law without substantive change.\n\n(b) Consistent with the objectives of the statutory revision program, the purpose of this code is to make the law encompassed by this code more accessible and understandable by:\n\n(1) rearranging the statutes into a more logical order;\n\n(2) employing a format and numbering system designed to facilitate citation of the law and to accommodate future expansion of the law;\n\n(3) eliminating repealed, duplicative, unconstitutional, expired, executed, and other ineffective provisions; and\n\n(4) restating the law in modern American English to the greatest extent possible.",
+  "markdown": "# Transp. Code\n## Title 1\n### Chapter 1. Gen. Provisions\n##### § 1.001 — Purpose of Code\n\n(a) This code is enacted as a part of the state’s continuing statutory revision program, begun by the Texas Legislative Council in 1963 as directed by the legislature in the law codified as Section 323.007 (Statutory Revision Program) , Government Code. The program contemplates a topic-by-topic revision of the state’s general and permanent statute law without substantive change.\n\n(b) Consistent with the objectives of the statutory revision program, the purpose of this code is to make the law encompassed by this code more accessible and understandable by:\n\n    (1) rearranging the statutes into a more logical order;\n\n    (2) employing a format and numbering system designed to facilitate citation of the law and to accommodate future expansion of the law;\n\n    (3) eliminating repealed, duplicative, unconstitutional, expired, executed, and other ineffective provisions; and\n\n    (4) restating the law in modern American English to the greatest extent possible.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "This code is enacted as a part of the state’s continuing statutory revision program, begun by the Texas Legislative Council in 1963 as directed by the legislature in the law codified as Section 323.007 (Statutory Revision Program) , Government Code. The program contemplates a topic-by-topic revision of the state’s general and permanent statute law without substantive change.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Consistent with the objectives of the statutory revision program, the purpose of this code is to make the law encompassed by this code more accessible and understandable by:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "rearranging the statutes into a more logical order;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "employing a format and numbering system designed to facilitate citation of the law and to accommodate future expansion of the law;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "eliminating repealed, duplicative, unconstitutional, expired, executed, and other ineffective provisions; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "restating the law in modern American English to the greatest extent possible.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_1.001",
+  "source_path": "data/raw/tx_public_law/TN/1.001.html",
+  "content_sha256": "ac855193c7bdfa9631f48076601e2ceec725d187a96195c593efcda4af74a388",
+  "parsed_at": "2026-05-09T18:04:55+00:00",
+  "parser_version": "1"
+}

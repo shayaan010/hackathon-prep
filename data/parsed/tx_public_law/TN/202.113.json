@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "202.113",
+  "section_name": "Disposal of Surplus Property",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "202",
+  "chapter_title": "Control of Transp. Assets",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Except as provided by Subsection (b), the commission shall dispose of property acquired by advance acquisition that is not needed for a transportation facility in the manner provided by Subchapter B.\n\n(b) Notwithstanding any other law, the commission first shall offer property described by Subsection (a) for sale to the person from whom the commission acquired the property at a price that is equal to the lesser of:\n\n(1) the price the commission paid the person to acquire the property; or\n\n(2) the fair market value of the property at the time it is offered for sale under this subsection, taking into account any damage to the property.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 202. Control of Transp. Assets\n##### § 202.113 — Disposal of Surplus Property\n\n(a) Except as provided by Subsection (b), the commission shall dispose of property acquired by advance acquisition that is not needed for a transportation facility in the manner provided by Subchapter B.\n\n(b) Notwithstanding any other law, the commission first shall offer property described by Subsection (a) for sale to the person from whom the commission acquired the property at a price that is equal to the lesser of:\n\n    (1) the price the commission paid the person to acquire the property; or\n\n    (2) the fair market value of the property at the time it is offered for sale under this subsection, taking into account any damage to the property.\n\n*Acts 2017, 85th Leg., R.S., Ch. 862 (H.B.2646), Sec. 3, eff. June 15, 2017.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided by Subsection (b), the commission shall dispose of property acquired by advance acquisition that is not needed for a transportation facility in the manner provided by Subchapter B.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding any other law, the commission first shall offer property described by Subsection (a) for sale to the person from whom the commission acquired the property at a price that is equal to the lesser of:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the price the commission paid the person to acquire the property; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the fair market value of the property at the time it is offered for sale under this subsection, taking into account any damage to the property.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2017, 85th Leg., R.S., Ch. 862 (H.B.2646), Sec. 3, eff. June 15, 2017.",
+    "action": null,
+    "statutes_year": 2017,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2017-06-15",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_202.113",
+  "source_path": "data/raw/tx_public_law/TN/202.113.html",
+  "content_sha256": "14c75c08e5bb6adc48c63991a65a906fc7e9e0b7c77368b43ba679856f85548d",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

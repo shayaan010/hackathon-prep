@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "1280",
+  "section_name": "Effect of regulations",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "34",
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) The parent of any child and the guardian of any ward shall not authorize or knowingly permit any such child or ward to violate any of the provisions of this article.\n\n(2) These regulations applicable to electric scooters shall apply whenever an electric scooter is operated upon any highway, upon private roads open to public motor vehicle traffic and upon any path set aside for the exclusive use of bicycles, in-line skates, electric scooters, or all.",
+  "markdown": "# Vehicle & Traffic Law\n## Title 7\n#### Article 34\n##### § 1280 — Effect of regulations\n\n(1) The parent of any child and the guardian of any ward shall not authorize or knowingly permit any such child or ward to violate any of the provisions of this article.\n\n(2) These regulations applicable to electric scooters shall apply whenever an electric scooter is operated upon any highway, upon private roads open to public motor vehicle traffic and upon any path set aside for the exclusive use of bicycles, in-line skates, electric scooters, or all.\n\n*Last modified: Aug. 7, 2020*\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "The parent of any child and the guardian of any ward shall not authorize or knowingly permit any such child or ward to violate any of the provisions of this article.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "These regulations applicable to electric scooters shall apply whenever an electric scooter is operated upon any highway, upon private roads open to public motor vehicle traffic and upon any path set aside for the exclusive use of bicycles, in-line skates, electric scooters, or all.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Aug. 7, 2020",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2020-08-07",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_1280",
+  "source_path": "data/raw/ny_public_law/VAT/1280.html",
+  "content_sha256": "c2bcb08d2566ef2b53d222d268e9141483f0345e64f3dc7d5a0c4be208c47fc3",
+  "parsed_at": "2026-05-09T18:04:55+00:00",
+  "parser_version": "1"
+}

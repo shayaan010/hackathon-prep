@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "502.0021",
+  "section_name": "Rules and Forms",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "502",
+  "chapter_title": "Registration of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department may adopt rules to administer this chapter.\n\n(b) The department shall post forms on the Internet and provide each county assessor-collector with a sufficient supply of any necessary forms on request.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 502. Registration of Vehicles\n##### § 502.0021 — Rules and Forms\n\n(a) The department may adopt rules to administer this chapter.\n\n(b) The department shall post forms on the Internet and provide each county assessor-collector with a sufficient supply of any necessary forms on request.\n\n*Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 72, eff. January 1, 2012.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may adopt rules to administer this chapter.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall post forms on the Internet and provide each county assessor-collector with a sufficient supply of any necessary forms on request.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 72, eff. January 1, 2012.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_502.0021",
+  "source_path": "data/raw/tx_public_law/TN/502.0021.html",
+  "content_sha256": "318e53e0f6beb34f5ed75a84129d0fac0c37326dd428559fb89c647e9240337c",
+  "parsed_at": "2026-05-09T18:14:00+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,83 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "223.248",
+  "section_name": "Assumption of Risks and Costs",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "223",
+  "chapter_title": "Bids & Contracts for Highway Projects",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Except as provided by Subsection (b), the department shall assume:\n\n(1) all risks and costs associated with:\n\n(A) changes and modifications to the scope of the project requested by the department;\n\n(B) unknown or differing conditions at the site of the project;\n\n(C) applicable environmental clearance and other regulatory permitting necessary for the project; and\n\n(D) natural disasters and other force majeure events; and\n\n(2) all costs associated with property acquisition, other than costs associated with acquiring a temporary easement or work area used for staging or constructing the project.\n\n(b) A design-build contractor may assume some or all of the risks or costs described by Subsection (a) if the terms of the assumption are reflected in the final request for proposals, including all supplements to the request.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 223. Bids & Contracts for Highway Projects\n##### § 223.248 — Assumption of Risks and Costs\n\n(a) Except as provided by Subsection (b), the department shall assume:\n\n    (1) all risks and costs associated with:\n\n        (A) changes and modifications to the scope of the project requested by the department;\n\n        (B) unknown or differing conditions at the site of the project;\n\n        (C) applicable environmental clearance and other regulatory permitting necessary for the project; and\n\n        (D) natural disasters and other force majeure events; and\n\n    (2) all costs associated with property acquisition, other than costs associated with acquiring a temporary easement or work area used for staging or constructing the project.\n\n(b) A design-build contractor may assume some or all of the risks or costs described by Subsection (a) if the terms of the assumption are reflected in the final request for proposals, including all supplements to the request.\n\n*Added by Acts 2011, 82nd Leg., R.S., Ch. 1345 (S.B.1420), Sec. 34, eff. September 1, 2011.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided by Subsection (b), the department shall assume:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "all risks and costs associated with:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "changes and modifications to the scope of the project requested by the department;",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "unknown or differing conditions at the site of the project;",
+      "depth_em": 2.0
+    },
+    {
+      "label": "C",
+      "text": "applicable environmental clearance and other regulatory permitting necessary for the project; and",
+      "depth_em": 2.0
+    },
+    {
+      "label": "D",
+      "text": "natural disasters and other force majeure events; and",
+      "depth_em": 2.0
+    },
+    {
+      "label": "2",
+      "text": "all costs associated with property acquisition, other than costs associated with acquiring a temporary easement or work area used for staging or constructing the project.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A design-build contractor may assume some or all of the risks or costs described by Subsection (a) if the terms of the assumption are reflected in the final request for proposals, including all supplements to the request.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2011, 82nd Leg., R.S., Ch. 1345 (S.B.1420), Sec. 34, eff. September 1, 2011.",
+    "action": "Added",
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2011-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_223.248",
+  "source_path": "data/raw/tx_public_law/TN/223.248.html",
+  "content_sha256": "e48213ed6af151dfc39c68d656321c3251ad26fd9f1c643d6ecb3fd37eabba9d",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

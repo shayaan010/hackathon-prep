@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "1001.028",
+  "section_name": "Conflict of Interest",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "1001",
+  "chapter_title": "Org. of Dept.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A member of the board shall disclose in writing to the executive director if the member has an interest in a matter before the board or has a substantial financial interest in an entity that has a direct interest in the matter.\n\n(b) The member shall recuse himself or herself from the board’s deliberations and actions on the matter in Subsection (a) and may not participate in the board’s decision on the matter.\n\n(c) A person has a substantial financial interest in an entity if the person:\n\n(1) is an employee, member, director, or officer of the entity; or\n\n(2) owns or controls, directly or indirectly, more than a five percent interest in the entity.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 1001. Org. of Dept.\n##### § 1001.028 — Conflict of Interest\n\n(a) A member of the board shall disclose in writing to the executive director if the member has an interest in a matter before the board or has a substantial financial interest in an entity that has a direct interest in the matter.\n\n(b) The member shall recuse himself or herself from the board’s deliberations and actions on the matter in Subsection (a) and may not participate in the board’s decision on the matter.\n\n(c) A person has a substantial financial interest in an entity if the person:\n\n    (1) is an employee, member, director, or officer of the entity; or\n\n    (2) owns or controls, directly or indirectly, more than a five percent interest in the entity.\n\n*Added by Acts 2009, 81st Leg., R.S., Ch. 933 (H.B.3097), Sec. 1.01, eff. September 1, 2009.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A member of the board shall disclose in writing to the executive director if the member has an interest in a matter before the board or has a substantial financial interest in an entity that has a direct interest in the matter.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The member shall recuse himself or herself from the board’s deliberations and actions on the matter in Subsection (a) and may not participate in the board’s decision on the matter.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A person has a substantial financial interest in an entity if the person:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "is an employee, member, director, or officer of the entity; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "owns or controls, directly or indirectly, more than a five percent interest in the entity.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2009, 81st Leg., R.S., Ch. 933 (H.B.3097), Sec. 1.01, eff. September 1, 2009.",
+    "action": "Added",
+    "statutes_year": 2009,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2009-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_1001.028",
+  "source_path": "data/raw/tx_public_law/TN/1001.028.html",
+  "content_sha256": "73c794fce2bbe6df818d96a5c480648fb679728d9f895340f803c037652e9fd1",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

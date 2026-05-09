@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.328",
+  "section_name": "Fog Lamps Permitted",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A motor vehicle may be equipped with not more than two fog lamps.\n\n(b) A fog lamp shall be:\n\n(1) mounted on the front of the vehicle at a height from 12 to 30 inches; and\n\n(2) aimed so that no part of the high-intensity portion of the beam from a lamp mounted to the left of center on a vehicle projects a beam of light at a distance of 25 feet that is higher than four inches below the level of the center of the lamp.\n\n(c) Lighted fog lamps may be used with lower headlamp beams as specified by Section 547.333 (Multiple-beam Lighting Equipment Required) .",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.328 — Fog Lamps Permitted\n\n(a) A motor vehicle may be equipped with not more than two fog lamps.\n\n(b) A fog lamp shall be:\n\n    (1) mounted on the front of the vehicle at a height from 12 to 30 inches; and\n\n    (2) aimed so that no part of the high-intensity portion of the beam from a lamp mounted to the left of center on a vehicle projects a beam of light at a distance of 25 feet that is higher than four inches below the level of the center of the lamp.\n\n(c) Lighted fog lamps may be used with lower headlamp beams as specified by Section 547.333 (Multiple-beam Lighting Equipment Required) .\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A motor vehicle may be equipped with not more than two fog lamps.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A fog lamp shall be:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "mounted on the front of the vehicle at a height from 12 to 30 inches; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "aimed so that no part of the high-intensity portion of the beam from a lamp mounted to the left of center on a vehicle projects a beam of light at a distance of 25 feet that is higher than four inches below the level of the center of the lamp.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "Lighted fog lamps may be used with lower headlamp beams as specified by Section 547.333 (Multiple-beam Lighting Equipment Required) .",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.328",
+  "source_path": "data/raw/tx_public_law/TN/547.328.html",
+  "content_sha256": "893cbb4b10aa4048ea8258d69f97200977e6ee9ee9094dda202f707f301eb5c3",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

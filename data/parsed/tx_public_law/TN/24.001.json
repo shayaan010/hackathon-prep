@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "24.001",
+  "section_name": "Definitions",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "24",
+  "chapter_title": "Operation of Aircraft",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "3",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "In this subchapter:\n\n(1) “Aircraft” means a device that is invented, used, or designated for air navigation or flight, other than a parachute or other device used primarily as safety equipment.\n\n(2) “Airman” means:\n\n(A) a person, including the person in command of an aircraft or a pilot, mechanic, or member of the crew, who engages in the navigation of an aircraft while under way; or\n\n(B) the person who is in charge of the inspection, overhaul, or repair of an aircraft.\n\n(3) “Airman certificate” means a certificate issued to an airman under 49 U.S.C. Section 1422.",
+  "markdown": "# Transp. Code\n## Title 3\n### Chapter 24. Operation of Aircraft\n##### § 24.001 — Definitions\n\nIn this subchapter:\n\n    (1) “Aircraft” means a device that is invented, used, or designated for air navigation or flight, other than a parachute or other device used primarily as safety equipment.\n\n    (2) “Airman” means:\n\n        (A) a person, including the person in command of an aircraft or a pilot, mechanic, or member of the crew, who engages in the navigation of an aircraft while under way; or\n\n        (B) the person who is in charge of the inspection, overhaul, or repair of an aircraft.\n\n    (3) “Airman certificate” means a certificate issued to an airman under 49 U.S.C. Section 1422.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In this subchapter:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "“Aircraft” means a device that is invented, used, or designated for air navigation or flight, other than a parachute or other device used primarily as safety equipment.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "“Airman” means:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "a person, including the person in command of an aircraft or a pilot, mechanic, or member of the crew, who engages in the navigation of an aircraft while under way; or",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "the person who is in charge of the inspection, overhaul, or repair of an aircraft.",
+      "depth_em": 2.0
+    },
+    {
+      "label": "3",
+      "text": "“Airman certificate” means a certificate issued to an airman under 49 U.S.C. Section 1422.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_24.001",
+  "source_path": "data/raw/tx_public_law/TN/24.001.html",
+  "content_sha256": "72c871f95876204816c9d191d8aa380efc1d644addc6fa5111613ec9a25b934e",
+  "parsed_at": "2026-05-09T18:04:55+00:00",
+  "parser_version": "1"
+}

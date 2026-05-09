@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "222.051",
+  "section_name": "Local Financing and Reimbursement",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "222",
+  "chapter_title": "Funding & Fed. Aid",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A governmental unit that has the authority to build roads may finance the construction of an approved project for the state highway system.\n\n(b) If funds become available, the department may contract to reimburse the governmental unit that provided financing for the project.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 222. Funding & Fed. Aid\n##### § 222.051 — Local Financing and Reimbursement\n\n(a) A governmental unit that has the authority to build roads may finance the construction of an approved project for the state highway system.\n\n(b) If funds become available, the department may contract to reimburse the governmental unit that provided financing for the project.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A governmental unit that has the authority to build roads may finance the construction of an approved project for the state highway system.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If funds become available, the department may contract to reimburse the governmental unit that provided financing for the project.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_222.051",
+  "source_path": "data/raw/tx_public_law/TN/222.051.html",
+  "content_sha256": "6904c445552516e09309f17e46feb2d389d6690984a3eac478addff9a1f51b5e",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

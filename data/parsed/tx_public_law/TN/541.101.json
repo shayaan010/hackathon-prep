@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "541.101",
+  "section_name": "Metropolitan Area",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "541",
+  "chapter_title": "Definitions",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "In this subtitle, “metropolitan area” means an area that:\n\n(1) contains at least one municipality with a population of at least 100,000; and\n\n(2) includes the adjacent municipalities and unincorporated urban districts.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 541. Definitions\n##### § 541.101 — Metropolitan Area\n\nIn this subtitle, “metropolitan area” means an area that:\n\n    (1) contains at least one municipality with a population of at least 100,000; and\n\n    (2) includes the adjacent municipalities and unincorporated urban districts.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In this subtitle, “metropolitan area” means an area that:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "contains at least one municipality with a population of at least 100,000; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "includes the adjacent municipalities and unincorporated urban districts.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_541.101",
+  "source_path": "data/raw/tx_public_law/TN/541.101.html",
+  "content_sha256": "d1559bb64b7cb781c8d8aea3b8100e811b2fd9ad2a6d346b7de5b2d9cbe558c6",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

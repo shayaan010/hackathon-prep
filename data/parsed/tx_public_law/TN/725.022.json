@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "725.022",
+  "section_name": "Maintaining Non-load-carrying Vehicle Parts",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "725",
+  "chapter_title": "Transp. of Loose Materials",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Loose material that is spilled because of loading on a vehicle part that does not carry the load shall be removed before the vehicle is operated on a public highway.\n\n(b) After the vehicle is unloaded and before the vehicle is operated on a public highway, residue of transported loose material on a vehicle part that does not carry the load shall be removed from the vehicle part.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 725. Transp. of Loose Materials\n##### § 725.022 — Maintaining Non-load-carrying Vehicle Parts\n\n(a) Loose material that is spilled because of loading on a vehicle part that does not carry the load shall be removed before the vehicle is operated on a public highway.\n\n(b) After the vehicle is unloaded and before the vehicle is operated on a public highway, residue of transported loose material on a vehicle part that does not carry the load shall be removed from the vehicle part.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Loose material that is spilled because of loading on a vehicle part that does not carry the load shall be removed before the vehicle is operated on a public highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "After the vehicle is unloaded and before the vehicle is operated on a public highway, residue of transported loose material on a vehicle part that does not carry the load shall be removed from the vehicle part.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_725.022",
+  "source_path": "data/raw/tx_public_law/TN/725.022.html",
+  "content_sha256": "d834d160cc47647be9125685d0fcb1d84d959234932b9ebaf99672558f1d85b6",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

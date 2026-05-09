@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "622.061",
+  "section_name": "Length Limitation",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "622",
+  "chapter_title": "Spec. Provisions & Exceptions for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person may operate over a highway or road of this state a vehicle or combination of vehicles exclusively for the transportation of poles or pipe if the vehicle or combination of vehicles is not longer than 65 feet, including the load.\n\n(b) Subsection (a) does not apply to a truck-tractor or truck-tractor combination transporting poles or pipe.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 622. Spec. Provisions & Exceptions for Oversize or Overweight Vehicles\n##### § 622.061 — Length Limitation\n\n(a) A person may operate over a highway or road of this state a vehicle or combination of vehicles exclusively for the transportation of poles or pipe if the vehicle or combination of vehicles is not longer than 65 feet, including the load.\n\n(b) Subsection (a) does not apply to a truck-tractor or truck-tractor combination transporting poles or pipe.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 2001, 77th Leg., ch. 941, Sec. 38, eff. Sept. 1, 2001.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person may operate over a highway or road of this state a vehicle or combination of vehicles exclusively for the transportation of poles or pipe if the vehicle or combination of vehicles is not longer than 65 feet, including the load.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Subsection (a) does not apply to a truck-tractor or truck-tractor combination transporting poles or pipe.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 2001, 77th Leg., ch. 941, Sec. 38, eff. Sept. 1, 2001.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_622.061",
+  "source_path": "data/raw/tx_public_law/TN/622.061.html",
+  "content_sha256": "669bfcd4fa35f9a2ba96f73e1940485240fc906e0349dda8fb74a50096769a08",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

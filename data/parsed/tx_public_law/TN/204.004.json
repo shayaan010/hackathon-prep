@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "204.004",
+  "section_name": "Payment of Costs",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "204",
+  "chapter_title": "Travel Info.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "The department may pay from highway revenues the cost, including the administration and operation cost, of:\n\n(1) developing, publishing, and distributing material; and\n\n(2) maintaining and operating travel information centers.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 204. Travel Info.\n##### § 204.004 — Payment of Costs\n\nThe department may pay from highway revenues the cost, including the administration and operation cost, of:\n\n    (1) developing, publishing, and distributing material; and\n\n    (2) maintaining and operating travel information centers.\n\n*Added by Acts 2003, 78th Leg., ch. 1276, Sec. 16.001(a), eff. Sept. 1, 2003.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department may pay from highway revenues the cost, including the administration and operation cost, of:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "developing, publishing, and distributing material; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "maintaining and operating travel information centers.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2003, 78th Leg., ch. 1276, Sec. 16.001(a), eff. Sept. 1, 2003.",
+    "action": "Added",
+    "statutes_year": 2003,
+    "chapter": "1276",
+    "section": "16.001",
+    "bill_number": null,
+    "effective_date": "2003-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_204.004",
+  "source_path": "data/raw/tx_public_law/TN/204.004.html",
+  "content_sha256": "326c7499311a81bced8ca73b54f87afee67940dc0a7b9359f029666b491acf59",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

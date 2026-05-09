@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "503.092",
+  "section_name": "Action to Enforce Chapter",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "503",
+  "chapter_title": "Dealer's & Mfr.'s Vehicle License Plates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The attorney general or a district, county, or city attorney may enforce this chapter and bring an enforcement action in the county in which a violation of this chapter is alleged to have occurred.\n\n(b) A justice or municipal court has concurrent original jurisdiction with the county court or a county court at law over an action to enforce this chapter.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 503. Dealer's & Mfr.'s Vehicle License Plates\n##### § 503.092 — Action to Enforce Chapter\n\n(a) The attorney general or a district, county, or city attorney may enforce this chapter and bring an enforcement action in the county in which a violation of this chapter is alleged to have occurred.\n\n(b) A justice or municipal court has concurrent original jurisdiction with the county court or a county court at law over an action to enforce this chapter.\n\n*Acts 2005, 79th Leg., Ch. 1128 (H.B.2509), Sec. 1, eff. June 18, 2005.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The attorney general or a district, county, or city attorney may enforce this chapter and bring an enforcement action in the county in which a violation of this chapter is alleged to have occurred.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A justice or municipal court has concurrent original jurisdiction with the county court or a county court at law over an action to enforce this chapter.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2005, 79th Leg., Ch. 1128 (H.B.2509), Sec. 1, eff. June 18, 2005.",
+    "action": null,
+    "statutes_year": 2005,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2005-06-18",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_503.092",
+  "source_path": "data/raw/tx_public_law/TN/503.092.html",
+  "content_sha256": "2d9e10938a7c3c12ed44778d545fe7d0f854c285fd22acb1d1d34ac6b16ab913",
+  "parsed_at": "2026-05-09T18:14:00+00:00",
+  "parser_version": "1"
+}

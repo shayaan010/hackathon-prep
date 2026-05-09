@@ -1,0 +1,83 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.2475",
+  "section_name": "Ignition Interlock Device Evaluation",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) On January 1 of each year, the department shall issue an evaluation of each ignition interlock device approved under Section 521.247 (Approval of Ignition Interlock Devices by Department) using guidelines established by the National Highway Traffic Safety Administration, including:\n\n(1) whether the device provides accurate detection of alveolar air;\n\n(2) the moving retest abilities of the device;\n\n(3) the use of tamper-proof blood alcohol content level software by the device;\n\n(4) the anticircumvention design of the device;\n\n(5) the recalibration requirements of the device; and\n\n(6) the breath action required by the operator.\n\n(b) The department shall assess the cost of preparing the evaluation equally against each manufacturer of an approved device.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.2475 — Ignition Interlock Device Evaluation\n\n(a) On January 1 of each year, the department shall issue an evaluation of each ignition interlock device approved under Section 521.247 (Approval of Ignition Interlock Devices by Department) using guidelines established by the National Highway Traffic Safety Administration, including:\n\n    (1) whether the device provides accurate detection of alveolar air;\n\n    (2) the moving retest abilities of the device;\n\n    (3) the use of tamper-proof blood alcohol content level software by the device;\n\n    (4) the anticircumvention design of the device;\n\n    (5) the recalibration requirements of the device; and\n\n    (6) the breath action required by the operator.\n\n(b) The department shall assess the cost of preparing the evaluation equally against each manufacturer of an approved device.\n\n*Acts 2023, 88th Leg., R.S., Ch. 386 (H.B.291), Sec. 2, eff. September 1, 2023.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "On January 1 of each year, the department shall issue an evaluation of each ignition interlock device approved under Section 521.247 (Approval of Ignition Interlock Devices by Department) using guidelines established by the National Highway Traffic Safety Administration, including:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "whether the device provides accurate detection of alveolar air;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the moving retest abilities of the device;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "the use of tamper-proof blood alcohol content level software by the device;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "the anticircumvention design of the device;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "the recalibration requirements of the device; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "6",
+      "text": "the breath action required by the operator.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall assess the cost of preparing the evaluation equally against each manufacturer of an approved device.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2023, 88th Leg., R.S., Ch. 386 (H.B.291), Sec. 2, eff. September 1, 2023.",
+    "action": null,
+    "statutes_year": 2023,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2023-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.2475",
+  "source_path": "data/raw/tx_public_law/TN/521.2475.html",
+  "content_sha256": "f44859bcae262cb05cf4f6f16f2b3de7d452a4308306367c4fbc0d65581064cb",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

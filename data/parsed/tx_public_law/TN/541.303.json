@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "541.303",
+  "section_name": "Intersection",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "541",
+  "chapter_title": "Definitions",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) In this subtitle, “intersection” means the common area at the junction of two highways, other than the junction of an alley and a highway.\n\n(b) The dimensions of an intersection include only the common area:\n\n(1) within the connection of the lateral curb lines or, in the absence of curb lines, the lateral boundary lines of the roadways of intersecting highways that join at approximate right angles; or\n\n(2) at the place where vehicles could collide if traveling on roadways of intersecting highways that join at any angle other than an approximate right angle.\n\n(c) Each junction of each roadway of a highway that includes two roadways at least 30 feet apart with the roadway of an intersecting highway, including each roadway of an intersecting highway that includes two roadways at least 30 feet apart, is a separate intersection.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 541. Definitions\n##### § 541.303 — Intersection\n\n(a) In this subtitle, “intersection” means the common area at the junction of two highways, other than the junction of an alley and a highway.\n\n(b) The dimensions of an intersection include only the common area:\n\n    (1) within the connection of the lateral curb lines or, in the absence of curb lines, the lateral boundary lines of the roadways of intersecting highways that join at approximate right angles; or\n\n    (2) at the place where vehicles could collide if traveling on roadways of intersecting highways that join at any angle other than an approximate right angle.\n\n(c) Each junction of each roadway of a highway that includes two roadways at least 30 feet apart with the roadway of an intersecting highway, including each roadway of an intersecting highway that includes two roadways at least 30 feet apart, is a separate intersection.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In this subtitle, “intersection” means the common area at the junction of two highways, other than the junction of an alley and a highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The dimensions of an intersection include only the common area:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "within the connection of the lateral curb lines or, in the absence of curb lines, the lateral boundary lines of the roadways of intersecting highways that join at approximate right angles; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "at the place where vehicles could collide if traveling on roadways of intersecting highways that join at any angle other than an approximate right angle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "Each junction of each roadway of a highway that includes two roadways at least 30 feet apart with the roadway of an intersecting highway, including each roadway of an intersecting highway that includes two roadways at least 30 feet apart, is a separate intersection.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_541.303",
+  "source_path": "data/raw/tx_public_law/TN/541.303.html",
+  "content_sha256": "2b67af2ccbf2e13c1af9385ed1beb7029d44a49046102767a62ca5c4505d484c",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

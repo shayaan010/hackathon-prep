@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "281.004",
+  "section_name": "Adverse Possession",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "281",
+  "chapter_title": "Acquisition of Pub. Interest in Private Rd. by Certain Counties",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "For purposes of this chapter, adverse possession is not established by the:\n\n(1) use of a private road by the public with the permission of the owner; or\n\n(2) maintenance with public funds of a private road in which a public interest is not recorded.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 281. Acquisition of Pub. Interest in Private Rd. by Certain Counties\n##### § 281.004 — Adverse Possession\n\nFor purposes of this chapter, adverse possession is not established by the:\n\n    (1) use of a private road by the public with the permission of the owner; or\n\n    (2) maintenance with public funds of a private road in which a public interest is not recorded.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "For purposes of this chapter, adverse possession is not established by the:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "use of a private road by the public with the permission of the owner; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "maintenance with public funds of a private road in which a public interest is not recorded.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_281.004",
+  "source_path": "data/raw/tx_public_law/TN/281.004.html",
+  "content_sha256": "665d322dfc9d0b0d3078c7b21baf53660e0f5d3366fce6f3f1dc59bdffd5ed3d",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "622.031",
+  "section_name": "Length and Axle Weight Restrictions",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "622",
+  "chapter_title": "Spec. Provisions & Exceptions for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "A vehicle used exclusively to transport milk may be operated on a public highway of this state only if:\n\n(1) the distance between the front wheel of the forward tandem axle and the rear wheel of the rear tandem axle, measured longitudinally, is 28 feet or more; and\n\n(2) the weight carried on any group of axles is not heavier than 68,000 pounds.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 622. Spec. Provisions & Exceptions for Oversize or Overweight Vehicles\n##### § 622.031 — Length and Axle Weight Restrictions\n\nA vehicle used exclusively to transport milk may be operated on a public highway of this state only if:\n\n    (1) the distance between the front wheel of the forward tandem axle and the rear wheel of the rear tandem axle, measured longitudinally, is 28 feet or more; and\n\n    (2) the weight carried on any group of axles is not heavier than 68,000 pounds.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 2001, 77th Leg., ch. 941, Sec. 33, eff. Sept. 1, 2001.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A vehicle used exclusively to transport milk may be operated on a public highway of this state only if:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the distance between the front wheel of the forward tandem axle and the rear wheel of the rear tandem axle, measured longitudinally, is 28 feet or more; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the weight carried on any group of axles is not heavier than 68,000 pounds.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 2001, 77th Leg., ch. 941, Sec. 33, eff. Sept. 1, 2001.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_622.031",
+  "source_path": "data/raw/tx_public_law/TN/622.031.html",
+  "content_sha256": "87e45e13616a55b89fd9b67e211fccd8bc0fc235a1a4978f7fc1b21f8eff02b2",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

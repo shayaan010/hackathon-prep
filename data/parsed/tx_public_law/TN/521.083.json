@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.083",
+  "section_name": "Class C License",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "A Class C driver’s license authorizes the holder of the license to operate:\n\n(1) a vehicle or combination of vehicles not described by Section 521.081 (Class a License) or 521.082 (Class B License) ; and\n\n(2) a vehicle with a gross vehicle weight rating of less than 26,001 pounds towing a farm trailer with a gross vehicle weight rating that is not more than 20,000 pounds.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.083 — Class C License\n\nA Class C driver’s license authorizes the holder of the license to operate:\n\n    (1) a vehicle or combination of vehicles not described by Section 521.081 (Class a License) or 521.082 (Class B License) ; and\n\n    (2) a vehicle with a gross vehicle weight rating of less than 26,001 pounds towing a farm trailer with a gross vehicle weight rating that is not more than 20,000 pounds.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A Class C driver’s license authorizes the holder of the license to operate:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "a vehicle or combination of vehicles not described by Section 521.081 (Class a License) or 521.082 (Class B License) ; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a vehicle with a gross vehicle weight rating of less than 26,001 pounds towing a farm trailer with a gross vehicle weight rating that is not more than 20,000 pounds.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.083",
+  "source_path": "data/raw/tx_public_law/TN/521.083.html",
+  "content_sha256": "db309215e5b7da36e4061df97c4e57de13a6b65bf6d0934f346b789d7497cb40",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

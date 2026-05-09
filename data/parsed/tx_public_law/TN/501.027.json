@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "501.027",
+  "section_name": "Issuance of Title",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "501",
+  "chapter_title": "Certificate of Title Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) On the day that a county assessor-collector issues a title receipt, a copy of the title receipt and all evidence of title shall be submitted to the department in the period specified in Section 501.023 (Application for Title) (b).\n\n(b) Not later than the fifth day after the date the department receives an application for a title and the department determines the requirements of this chapter are met:\n\n(1) the title shall be issued to the first lienholder or to the applicant if a lien is not disclosed on the application; or\n\n(2) the department shall notify the applicant that the department’s titling system has established a record of title of the motor vehicle in the applicant’s name if a lien is not disclosed. If a lien is disclosed on the application, the department shall notify the lienholder that the lien has been recorded.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 501. Certificate of Title Act\n##### § 501.027 — Issuance of Title\n\n(a) On the day that a county assessor-collector issues a title receipt, a copy of the title receipt and all evidence of title shall be submitted to the department in the period specified in Section 501.023 (Application for Title) (b).\n\n(b) Not later than the fifth day after the date the department receives an application for a title and the department determines the requirements of this chapter are met:\n\n    (1) the title shall be issued to the first lienholder or to the applicant if a lien is not disclosed on the application; or\n\n    (2) the department shall notify the applicant that the department’s titling system has established a record of title of the motor vehicle in the applicant’s name if a lien is not disclosed. If a lien is disclosed on the application, the department shall notify the lienholder that the lien has been recorded.\n\n*Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 15, eff. January 1, 2012.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "On the day that a county assessor-collector issues a title receipt, a copy of the title receipt and all evidence of title shall be submitted to the department in the period specified in Section 501.023 (Application for Title) (b).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Not later than the fifth day after the date the department receives an application for a title and the department determines the requirements of this chapter are met:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the title shall be issued to the first lienholder or to the applicant if a lien is not disclosed on the application; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the department shall notify the applicant that the department’s titling system has established a record of title of the motor vehicle in the applicant’s name if a lien is not disclosed. If a lien is disclosed on the application, the department shall notify the lienholder that the lien has been recorded.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 15, eff. January 1, 2012.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_501.027",
+  "source_path": "data/raw/tx_public_law/TN/501.027.html",
+  "content_sha256": "551ed735035333b065f0b00bad9b6bfa54823d1ad08e0535c206e811ca31a922",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

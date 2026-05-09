@@ -1,0 +1,248 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.126",
+  "section_name": "Electronically Readable Information",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department may not include any information on a driver’s license, commercial driver’s license, or personal identification certificate in an electronically readable form other than the information printed on the license and a physical description of the licensee.\n\n(b) Except as provided by Subsections (d), (e), (e-1), (g), (i), (j), and (n), and Section 501.101 (Use of Consumer Driver’s License or Social Security Number by Merchant or Certain Third Party) , Business & Commerce Code, a person commits an offense if the person:\n\n(1) accesses or uses electronically readable information derived from a driver’s license, commercial driver’s license, or personal identification certificate; or\n\n(2) compiles or maintains a database of electronically readable information derived from driver’s licenses, commercial driver’s licenses, or personal identification certificates.\n\n(c) An offense under Subsection (b) is a Class A misdemeanor.\n\n(d) The prohibition provided by Subsection (b) does not apply to a person who accesses, uses, compiles, or maintains a database of the information for a law enforcement or governmental purpose, including:\n\n(1) an officer or employee of the department carrying out law enforcement or government purposes;\n\n(2) a peace officer, as defined by Article 2A.001 (Peace Officers Generally) , Code of Criminal Procedure, acting in the officer’s official capacity;\n\n(3) a license deputy, as defined by Section 12.702 (License Deputies; Fees) , Parks and Wildlife Code, issuing a license, stamp, tag, permit, or other similar item through use of a point-of-sale system under Section 12.703 (Point-of-sale System) , Parks and Wildlife Code;\n\n(4) a person acting as authorized by Section 109.61 (Use of Certain Electronically Readable Information) , Alcoholic Beverage Code;\n\n(5) a person establishing the identity of a voter under Chapter 63 (Accepting Voter) , Election Code;\n\n(6) a person acting as authorized by Section 161.0825 (Use of Certain Electronically Readable Information) , Health and Safety Code; or\n\n(7) a person screening an individual who will work with or have access to children if the person is an employee or an agent of an employee of a public school district or an organization exempt from federal income tax under Section 501(c)(3), Internal Revenue Code of 1986, as amended, that sponsors a program for youth.\n\n(e) The prohibition provided by Subsection (b)(1) does not apply to a financial institution or a business that:\n\n(1) accesses or uses electronically readable information for purposes of identification verification of an individual or check verification at the point of sale for a purchase of a good or service by check; or\n\n(2) accesses or uses as electronically readable information a driver’s license number or a name printed on a driver’s license as part of a transaction initiated by the license or certificate holder to provide information encrypted in a manner:\n\n(A) consistent with PCI DSS Standard 3.4 to a check services company or fraud prevention services company governed by the Fair Credit Reporting Act (15 U.S.C. Section 1681 et seq.) for the purpose of effecting, administering, or enforcing the transaction; and\n\n(B) that does not involve the sale, transfer, or other dissemination of a name or driver’s license number to a third party for any purpose, including any marketing, advertising, or promotional activities.\n\n(e-1) The prohibition provided by Subsection (b) does not apply to:\n\n(1) a check services company or a fraud prevention services company governed by the Fair Credit Reporting Act (15 U.S.C. Section 1681 et seq.) that, for the purpose of preventing fraud when effecting, administering, or enforcing the transaction:\n\n(A) accesses or uses as electronically readable information a driver’s license number or a name printed on a driver’s license; or\n\n(B) compiles or maintains a database of electronically readable driver’s license numbers or names printed on driver’s licenses and periodically removes the numbers or names from the database that are at least four years old; or\n\n(2) a financial institution that compiles or maintains a database of electronically readable information, if each license or certificate holder whose information is included in the compilation or database consents to the inclusion of the person’s information in the compilation or database on a separate document, signed by the license or certificate holder, that explains in at least 14-point bold type the information that will be included in the compilation or database.\n\n(f) A person may not use information derived from electronically readable information from a driver’s license, commercial driver’s license, or personal identification certificate to engage in telephone solicitation to encourage the purchase or rental of, or investment in, goods, other property, or services.\n\n(g) If authorized by the executive or administrative head of a maritime facility as defined in the Maritime Transportation Security Act of 2002 (46 U.S.C. Section 70101 et seq.), or of a port, port authority, or navigation district created or operating under Section 52 , Article III, or Section 59 , Article XVI, Texas Constitution, a person may access, use, compile, or maintain in a database electronically readable information derived from a driver’s license, commercial driver’s license, or personal identification certificate to secure the facility or port. The information may be used only to:\n\n(1) identify an individual;\n\n(2) provide official credentials for an individual;\n\n(3) track or limit the movement of an individual on facility property;\n\n(4) establish a secure database of visitors to the facility;\n\n(5) access the information at terminal and gate operations of the facility; or\n\n(6) conduct other security or operational activities as determined by the executive or administrative head.\n\n(h) Except as provided by Section 418.183 (Disclosure of Certain Confidential Information) , Government Code, the electronically readable information derived from a driver’s license, commercial driver’s license, or personal identification certificate for the purposes of Subsection (g) is confidential and not subject to disclosure, inspection, or copying under Chapter 552 (Public Information) , Government Code.\n\n(i) The prohibition provided by Subsection (b) does not apply to a health care provider or hospital that accesses, uses, compiles, or maintains a database of the information to provide health care services to the individual who holds the driver’s license, commercial driver’s license, or personal identification certificate. If an individual objects to the collection of information under this subsection, the health care provider or hospital must use an alternative method to collect the individual’s information.\n\n(j) Except as otherwise provided by this subsection, a health care provider or hospital may not sell, transfer, or otherwise disseminate the information described by Subsection (i) to a third party for any purpose, including any marketing, advertising, or promotional activities. A health care provider or hospital that obtains information described by Subsection (i) may transfer the information only in accordance with the rules implementing the federal Health Insurance Portability and Accountability Act of 1996 (Pub. L. No. 104-191). A business associate, and any subcontractor of the business associate who receives the transferred information, may use the information only to service or maintain the health care provider’s or hospital’s database of the information.\n\n(k) Repealed by Acts 2015, 84th Leg., R.S., Ch. 1261 , Sec. 8, eff. January 1, 2016.\n\n(l) For the purposes of this section, “financial institution” has the meaning assigned by 31 U.S.C. Section 5312(a)(2).\n\n(m) In this section, “health care provider” means an individual or facility licensed, certified, or otherwise authorized by the law of this state to provide or administer health care, for profit or otherwise, in the ordinary course of business or professional practice, including a physician, nurse, dentist, podiatrist, pharmacist, chiropractor, therapeutic optometrist, ambulatory surgical center, urgent care facility, nursing home, home and community support services agency, and emergency medical services personnel as defined by Section 773.003 (Definitions) , Health and Safety Code.\n\n(n) The prohibition provided by Subsection (b) does not apply to the nonprofit organization administering the Glenda Dawson Donate Life-Texas Registry under Section 692A.020 (Glenda Dawson Donate Life-texas Registry; Education Program) , Health and Safety Code, or an organ procurement organization, tissue bank, or eye bank, as those terms are defined by Section 692A.002 (Definitions) , Health and Safety Code, for the purpose of scanning the individual’s information on the individual’s driver’s license, commercial driver’s license, or personal identification certificate to register the individual as an anatomical gift donor. Before transmitting information scanned under this subsection, the nonprofit organization, organ procurement organization, tissue bank, or eye bank shall:\n\n(1) notify the individual of the registry’s purpose and the purposes for which the information will be used;\n\n(2) require the individual to verify the accuracy of the information; and\n\n(3) require the individual to affirm consent to make an anatomical gift through the individual’s use of the individual’s electronic signature.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.126 — Electronically Readable Information\n\n(a) The department may not include any information on a driver’s license, commercial driver’s license, or personal identification certificate in an electronically readable form other than the information printed on the license and a physical description of the licensee.\n\n(b) Except as provided by Subsections (d), (e), (e-1), (g), (i), (j), and (n), and Section 501.101 (Use of Consumer Driver’s License or Social Security Number by Merchant or Certain Third Party) , Business & Commerce Code, a person commits an offense if the person:\n\n    (1) accesses or uses electronically readable information derived from a driver’s license, commercial driver’s license, or personal identification certificate; or\n\n    (2) compiles or maintains a database of electronically readable information derived from driver’s licenses, commercial driver’s licenses, or personal identification certificates.\n\n(c) An offense under Subsection (b) is a Class A misdemeanor.\n\n(d) The prohibition provided by Subsection (b) does not apply to a person who accesses, uses, compiles, or maintains a database of the information for a law enforcement or governmental purpose, including:\n\n    (1) an officer or employee of the department carrying out law enforcement or government purposes;\n\n    (2) a peace officer, as defined by Article 2A.001 (Peace Officers Generally) , Code of Criminal Procedure, acting in the officer’s official capacity;\n\n    (3) a license deputy, as defined by Section 12.702 (License Deputies; Fees) , Parks and Wildlife Code, issuing a license, stamp, tag, permit, or other similar item through use of a point-of-sale system under Section 12.703 (Point-of-sale System) , Parks and Wildlife Code;\n\n    (4) a person acting as authorized by Section 109.61 (Use of Certain Electronically Readable Information) , Alcoholic Beverage Code;\n\n    (5) a person establishing the identity of a voter under Chapter 63 (Accepting Voter) , Election Code;\n\n    (6) a person acting as authorized by Section 161.0825 (Use of Certain Electronically Readable Information) , Health and Safety Code; or\n\n    (7) a person screening an individual who will work with or have access to children if the person is an employee or an agent of an employee of a public school district or an organization exempt from federal income tax under Section 501(c)(3), Internal Revenue Code of 1986, as amended, that sponsors a program for youth.\n\n(e) The prohibition provided by Subsection (b)(1) does not apply to a financial institution or a business that:\n\n    (1) accesses or uses electronically readable information for purposes of identification verification of an individual or check verification at the point of sale for a purchase of a good or service by check; or\n\n    (2) accesses or uses as electronically readable information a driver’s license number or a name printed on a driver’s license as part of a transaction initiated by the license or certificate holder to provide information encrypted in a manner:\n\n        (A) consistent with PCI DSS Standard 3.4 to a check services company or fraud prevention services company governed by the Fair Credit Reporting Act (15 U.S.C. Section 1681 et seq.) for the purpose of effecting, administering, or enforcing the transaction; and\n\n        (B) that does not involve the sale, transfer, or other dissemination of a name or driver’s license number to a third party for any purpose, including any marketing, advertising, or promotional activities.\n\n(e-1) The prohibition provided by Subsection (b) does not apply to:\n\n    (1) a check services company or a fraud prevention services company governed by the Fair Credit Reporting Act (15 U.S.C. Section 1681 et seq.) that, for the purpose of preventing fraud when effecting, administering, or enforcing the transaction:\n\n        (A) accesses or uses as electronically readable information a driver’s license number or a name printed on a driver’s license; or\n\n        (B) compiles or maintains a database of electronically readable driver’s license numbers or names printed on driver’s licenses and periodically removes the numbers or names from the database that are at least four years old; or\n\n    (2) a financial institution that compiles or maintains a database of electronically readable information, if each license or certificate holder whose information is included in the compilation or database consents to the inclusion of the person’s information in the compilation or database on a separate document, signed by the license or certificate holder, that explains in at least 14-point bold type the information that will be included in the compilation or database.\n\n(f) A person may not use information derived from electronically readable information from a driver’s license, commercial driver’s license, or personal identification certificate to engage in telephone solicitation to encourage the purchase or rental of, or investment in, goods, other property, or services.\n\n(g) If authorized by the executive or administrative head of a maritime facility as defined in the Maritime Transportation Security Act of 2002 (46 U.S.C. Section 70101 et seq.), or of a port, port authority, or navigation district created or operating under Section 52 , Article III, or Section 59 , Article XVI, Texas Constitution, a person may access, use, compile, or maintain in a database electronically readable information derived from a driver’s license, commercial driver’s license, or personal identification certificate to secure the facility or port. The information may be used only to:\n\n    (1) identify an individual;\n\n    (2) provide official credentials for an individual;\n\n    (3) track or limit the movement of an individual on facility property;\n\n    (4) establish a secure database of visitors to the facility;\n\n    (5) access the information at terminal and gate operations of the facility; or\n\n    (6) conduct other security or operational activities as determined by the executive or administrative head.\n\n(h) Except as provided by Section 418.183 (Disclosure of Certain Confidential Information) , Government Code, the electronically readable information derived from a driver’s license, commercial driver’s license, or personal identification certificate for the purposes of Subsection (g) is confidential and not subject to disclosure, inspection, or copying under Chapter 552 (Public Information) , Government Code.\n\n(i) The prohibition provided by Subsection (b) does not apply to a health care provider or hospital that accesses, uses, compiles, or maintains a database of the information to provide health care services to the individual who holds the driver’s license, commercial driver’s license, or personal identification certificate. If an individual objects to the collection of information under this subsection, the health care provider or hospital must use an alternative method to collect the individual’s information.\n\n(j) Except as otherwise provided by this subsection, a health care provider or hospital may not sell, transfer, or otherwise disseminate the information described by Subsection (i) to a third party for any purpose, including any marketing, advertising, or promotional activities. A health care provider or hospital that obtains information described by Subsection (i) may transfer the information only in accordance with the rules implementing the federal Health Insurance Portability and Accountability Act of 1996 (Pub. L. No. 104-191). A business associate, and any subcontractor of the business associate who receives the transferred information, may use the information only to service or maintain the health care provider’s or hospital’s database of the information.\n\n(k) Repealed by Acts 2015, 84th Leg., R.S., Ch. 1261 , Sec. 8, eff. January 1, 2016.\n\n(l) For the purposes of this section, “financial institution” has the meaning assigned by 31 U.S.C. Section 5312(a)(2).\n\n(m) In this section, “health care provider” means an individual or facility licensed, certified, or otherwise authorized by the law of this state to provide or administer health care, for profit or otherwise, in the ordinary course of business or professional practice, including a physician, nurse, dentist, podiatrist, pharmacist, chiropractor, therapeutic optometrist, ambulatory surgical center, urgent care facility, nursing home, home and community support services agency, and emergency medical services personnel as defined by Section 773.003 (Definitions) , Health and Safety Code.\n\n(n) The prohibition provided by Subsection (b) does not apply to the nonprofit organization administering the Glenda Dawson Donate Life-Texas Registry under Section 692A.020 (Glenda Dawson Donate Life-texas Registry; Education Program) , Health and Safety Code, or an organ procurement organization, tissue bank, or eye bank, as those terms are defined by Section 692A.002 (Definitions) , Health and Safety Code, for the purpose of scanning the individual’s information on the individual’s driver’s license, commercial driver’s license, or personal identification certificate to register the individual as an anatomical gift donor. Before transmitting information scanned under this subsection, the nonprofit organization, organ procurement organization, tissue bank, or eye bank shall:\n\n    (1) notify the individual of the registry’s purpose and the purposes for which the information will be used;\n\n    (2) require the individual to verify the accuracy of the information; and\n\n    (3) require the individual to affirm consent to make an anatomical gift through the individual’s use of the individual’s electronic signature.\n\n*Acts 2023, 88th Leg., R.S., Ch. 765 (H.B.4504), Sec. 2.168, eff. January 1, 2025.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may not include any information on a driver’s license, commercial driver’s license, or personal identification certificate in an electronically readable form other than the information printed on the license and a physical description of the licensee.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Except as provided by Subsections (d), (e), (e-1), (g), (i), (j), and (n), and Section 501.101 (Use of Consumer Driver’s License or Social Security Number by Merchant or Certain Third Party) , Business & Commerce Code, a person commits an offense if the person:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "accesses or uses electronically readable information derived from a driver’s license, commercial driver’s license, or personal identification certificate; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "compiles or maintains a database of electronically readable information derived from driver’s licenses, commercial driver’s licenses, or personal identification certificates.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "An offense under Subsection (b) is a Class A misdemeanor.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The prohibition provided by Subsection (b) does not apply to a person who accesses, uses, compiles, or maintains a database of the information for a law enforcement or governmental purpose, including:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "an officer or employee of the department carrying out law enforcement or government purposes;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a peace officer, as defined by Article 2A.001 (Peace Officers Generally) , Code of Criminal Procedure, acting in the officer’s official capacity;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "a license deputy, as defined by Section 12.702 (License Deputies; Fees) , Parks and Wildlife Code, issuing a license, stamp, tag, permit, or other similar item through use of a point-of-sale system under Section 12.703 (Point-of-sale System) , Parks and Wildlife Code;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "a person acting as authorized by Section 109.61 (Use of Certain Electronically Readable Information) , Alcoholic Beverage Code;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "a person establishing the identity of a voter under Chapter 63 (Accepting Voter) , Election Code;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "6",
+      "text": "a person acting as authorized by Section 161.0825 (Use of Certain Electronically Readable Information) , Health and Safety Code; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "7",
+      "text": "a person screening an individual who will work with or have access to children if the person is an employee or an agent of an employee of a public school district or an organization exempt from federal income tax under Section 501(c)(3), Internal Revenue Code of 1986, as amended, that sponsors a program for youth.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "e",
+      "text": "The prohibition provided by Subsection (b)(1) does not apply to a financial institution or a business that:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "accesses or uses electronically readable information for purposes of identification verification of an individual or check verification at the point of sale for a purchase of a good or service by check; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "accesses or uses as electronically readable information a driver’s license number or a name printed on a driver’s license as part of a transaction initiated by the license or certificate holder to provide information encrypted in a manner:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "consistent with PCI DSS Standard 3.4 to a check services company or fraud prevention services company governed by the Fair Credit Reporting Act (15 U.S.C. Section 1681 et seq.) for the purpose of effecting, administering, or enforcing the transaction; and",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "that does not involve the sale, transfer, or other dissemination of a name or driver’s license number to a third party for any purpose, including any marketing, advertising, or promotional activities.",
+      "depth_em": 2.0
+    },
+    {
+      "label": "e-1",
+      "text": "The prohibition provided by Subsection (b) does not apply to:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "a check services company or a fraud prevention services company governed by the Fair Credit Reporting Act (15 U.S.C. Section 1681 et seq.) that, for the purpose of preventing fraud when effecting, administering, or enforcing the transaction:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "accesses or uses as electronically readable information a driver’s license number or a name printed on a driver’s license; or",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "compiles or maintains a database of electronically readable driver’s license numbers or names printed on driver’s licenses and periodically removes the numbers or names from the database that are at least four years old; or",
+      "depth_em": 2.0
+    },
+    {
+      "label": "2",
+      "text": "a financial institution that compiles or maintains a database of electronically readable information, if each license or certificate holder whose information is included in the compilation or database consents to the inclusion of the person’s information in the compilation or database on a separate document, signed by the license or certificate holder, that explains in at least 14-point bold type the information that will be included in the compilation or database.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "f",
+      "text": "A person may not use information derived from electronically readable information from a driver’s license, commercial driver’s license, or personal identification certificate to engage in telephone solicitation to encourage the purchase or rental of, or investment in, goods, other property, or services.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "g",
+      "text": "If authorized by the executive or administrative head of a maritime facility as defined in the Maritime Transportation Security Act of 2002 (46 U.S.C. Section 70101 et seq.), or of a port, port authority, or navigation district created or operating under Section 52 , Article III, or Section 59 , Article XVI, Texas Constitution, a person may access, use, compile, or maintain in a database electronically readable information derived from a driver’s license, commercial driver’s license, or personal identification certificate to secure the facility or port. The information may be used only to:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "identify an individual;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "provide official credentials for an individual;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "track or limit the movement of an individual on facility property;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "establish a secure database of visitors to the facility;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "access the information at terminal and gate operations of the facility; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "6",
+      "text": "conduct other security or operational activities as determined by the executive or administrative head.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "h",
+      "text": "Except as provided by Section 418.183 (Disclosure of Certain Confidential Information) , Government Code, the electronically readable information derived from a driver’s license, commercial driver’s license, or personal identification certificate for the purposes of Subsection (g) is confidential and not subject to disclosure, inspection, or copying under Chapter 552 (Public Information) , Government Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "i",
+      "text": "The prohibition provided by Subsection (b) does not apply to a health care provider or hospital that accesses, uses, compiles, or maintains a database of the information to provide health care services to the individual who holds the driver’s license, commercial driver’s license, or personal identification certificate. If an individual objects to the collection of information under this subsection, the health care provider or hospital must use an alternative method to collect the individual’s information.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "j",
+      "text": "Except as otherwise provided by this subsection, a health care provider or hospital may not sell, transfer, or otherwise disseminate the information described by Subsection (i) to a third party for any purpose, including any marketing, advertising, or promotional activities. A health care provider or hospital that obtains information described by Subsection (i) may transfer the information only in accordance with the rules implementing the federal Health Insurance Portability and Accountability Act of 1996 (Pub. L. No. 104-191). A business associate, and any subcontractor of the business associate who receives the transferred information, may use the information only to service or maintain the health care provider’s or hospital’s database of the information.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "k",
+      "text": "Repealed by Acts 2015, 84th Leg., R.S., Ch. 1261 , Sec. 8, eff. January 1, 2016.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "l",
+      "text": "For the purposes of this section, “financial institution” has the meaning assigned by 31 U.S.C. Section 5312(a)(2).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "m",
+      "text": "In this section, “health care provider” means an individual or facility licensed, certified, or otherwise authorized by the law of this state to provide or administer health care, for profit or otherwise, in the ordinary course of business or professional practice, including a physician, nurse, dentist, podiatrist, pharmacist, chiropractor, therapeutic optometrist, ambulatory surgical center, urgent care facility, nursing home, home and community support services agency, and emergency medical services personnel as defined by Section 773.003 (Definitions) , Health and Safety Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "n",
+      "text": "The prohibition provided by Subsection (b) does not apply to the nonprofit organization administering the Glenda Dawson Donate Life-Texas Registry under Section 692A.020 (Glenda Dawson Donate Life-texas Registry; Education Program) , Health and Safety Code, or an organ procurement organization, tissue bank, or eye bank, as those terms are defined by Section 692A.002 (Definitions) , Health and Safety Code, for the purpose of scanning the individual’s information on the individual’s driver’s license, commercial driver’s license, or personal identification certificate to register the individual as an anatomical gift donor. Before transmitting information scanned under this subsection, the nonprofit organization, organ procurement organization, tissue bank, or eye bank shall:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "notify the individual of the registry’s purpose and the purposes for which the information will be used;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "require the individual to verify the accuracy of the information; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "require the individual to affirm consent to make an anatomical gift through the individual’s use of the individual’s electronic signature.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2023, 88th Leg., R.S., Ch. 765 (H.B.4504), Sec. 2.168, eff. January 1, 2025.",
+    "action": null,
+    "statutes_year": 2023,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2025-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.126",
+  "source_path": "data/raw/tx_public_law/TN/521.126.html",
+  "content_sha256": "653592bf8c8f808eb24e40e9d9721ec51b92b6dfde646b1d59e69f4b8861862c",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

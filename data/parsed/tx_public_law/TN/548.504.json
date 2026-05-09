@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "548.504",
+  "section_name": "Inspection of Commercial Motor Vehicle",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "548",
+  "chapter_title": "Inspection of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The fee for inspection of a commercial motor vehicle under the program established under Section 548.201 (Commercial Motor Vehicle Inspection Program) is $50.\n\n(b) Out of each fee for inspection of a commercial motor vehicle, $10 shall be remitted to the state under Section 548.509 (Collection of Fee During Registration) .",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 548. Inspection of Vehicles\n##### § 548.504 — Inspection of Commercial Motor Vehicle\n\n(a) The fee for inspection of a commercial motor vehicle under the program established under Section 548.201 (Commercial Motor Vehicle Inspection Program) is $50.\n\n(b) Out of each fee for inspection of a commercial motor vehicle, $10 shall be remitted to the state under Section 548.509 (Collection of Fee During Registration) .\n\n*Acts 2013, 83rd Leg., R.S., Ch. 1291 (H.B.2305), Sec. 39, eff. March 1, 2015.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The fee for inspection of a commercial motor vehicle under the program established under Section 548.201 (Commercial Motor Vehicle Inspection Program) is $50.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Out of each fee for inspection of a commercial motor vehicle, $10 shall be remitted to the state under Section 548.509 (Collection of Fee During Registration) .",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2013, 83rd Leg., R.S., Ch. 1291 (H.B.2305), Sec. 39, eff. March 1, 2015.",
+    "action": null,
+    "statutes_year": 2013,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2015-03-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_548.504",
+  "source_path": "data/raw/tx_public_law/TN/548.504.html",
+  "content_sha256": "86411d848b0c878a6d5a41d4c50dc2dd57032d6b024015946dd4f5c19ef1aca5",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

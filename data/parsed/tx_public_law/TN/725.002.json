@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "725.002",
+  "section_name": "Applicability",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "725",
+  "chapter_title": "Transp. of Loose Materials",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "This chapter applies to any motor vehicle, trailer, or semitrailer operated on a public highway except a vehicle or construction or mining equipment that is:\n\n(1) moving between construction barricades on a public works project; or\n\n(2) crossing a public highway.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 725. Transp. of Loose Materials\n##### § 725.002 — Applicability\n\nThis chapter applies to any motor vehicle, trailer, or semitrailer operated on a public highway except a vehicle or construction or mining equipment that is:\n\n    (1) moving between construction barricades on a public works project; or\n\n    (2) crossing a public highway.\n\n*Acts 2007, 80th Leg., R.S., Ch. 800 (S.B.387), Sec. 2, eff. September 1, 2007.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "This chapter applies to any motor vehicle, trailer, or semitrailer operated on a public highway except a vehicle or construction or mining equipment that is:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "moving between construction barricades on a public works project; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "crossing a public highway.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2007, 80th Leg., R.S., Ch. 800 (S.B.387), Sec. 2, eff. September 1, 2007.",
+    "action": null,
+    "statutes_year": 2007,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2007-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_725.002",
+  "source_path": "data/raw/tx_public_law/TN/725.002.html",
+  "content_sha256": "f1841f4b3a40bc1b7825c7bfde19cae10ea7f444d0603dc2c87b86278506d7b4",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

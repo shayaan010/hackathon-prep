@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "66.082",
+  "section_name": "Pilot Liability",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "66",
+  "chapter_title": "Houston Pilots Licensing & Regul. Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "4",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "A pilot is not liable directly or as a member of an organization of pilots for any claim that:\n\n(1) arises from an act or omission of another pilot or organization of pilots; and\n\n(2) relates directly or indirectly to pilot services.",
+  "markdown": "# Transp. Code\n## Title 4\n### Chapter 66. Houston Pilots Licensing & Regul. Act\n##### § 66.082 — Pilot Liability\n\nA pilot is not liable directly or as a member of an organization of pilots for any claim that:\n\n    (1) arises from an act or omission of another pilot or organization of pilots; and\n\n    (2) relates directly or indirectly to pilot services.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A pilot is not liable directly or as a member of an organization of pilots for any claim that:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "arises from an act or omission of another pilot or organization of pilots; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "relates directly or indirectly to pilot services.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_66.082",
+  "source_path": "data/raw/tx_public_law/TN/66.082.html",
+  "content_sha256": "cc1ed8a468d776cdf89aee31b3e931acff794054ca0362f44e552160e9415d0b",
+  "parsed_at": "2026-05-09T18:13:58+00:00",
+  "parser_version": "1"
+}

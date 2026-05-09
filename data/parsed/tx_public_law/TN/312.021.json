@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "312.021",
+  "section_name": "Payment for Improvement",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "312",
+  "chapter_title": "Control of Highway Assets",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Payment for an improvement under Subchapter A may be made either entirely by the municipality or partly by the municipality and partly by the owners of the abutting property.\n\n(b) The governing body of a municipality may use any available municipal money to pay the municipality’s share of the cost of the improvement.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 312. Control of Highway Assets\n##### § 312.021 — Payment for Improvement\n\n(a) Payment for an improvement under Subchapter A may be made either entirely by the municipality or partly by the municipality and partly by the owners of the abutting property.\n\n(b) The governing body of a municipality may use any available municipal money to pay the municipality’s share of the cost of the improvement.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Payment for an improvement under Subchapter A may be made either entirely by the municipality or partly by the municipality and partly by the owners of the abutting property.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The governing body of a municipality may use any available municipal money to pay the municipality’s share of the cost of the improvement.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_312.021",
+  "source_path": "data/raw/tx_public_law/TN/312.021.html",
+  "content_sha256": "4ea51c64001e8881de6a8ea33fc653ef67c694cc42ae032580f6b253a572cfd2",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

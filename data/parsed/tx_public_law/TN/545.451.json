@@ -1,0 +1,103 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "545.451",
+  "section_name": "Definitions",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "545",
+  "chapter_title": "Operation & Movement of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "In this subchapter:\n\n(1) “Automated driving system” means hardware and software that, when installed on a motor vehicle and engaged, are collectively capable of performing, without any intervention or supervision by a human operator:\n\n(A) all aspects of the entire dynamic driving task for the vehicle on a sustained basis; and\n\n(B) any fallback maneuvers necessary to respond to a failure of the system.\n\n(2) “Automated motor vehicle” means a motor vehicle on which an automated driving system is installed.\n\n(3) “Entire dynamic driving task” means the operational and tactical aspects of operating a vehicle. The term:\n\n(A) includes:\n\n(i) operational aspects, including steering, braking, accelerating, and monitoring the vehicle and the roadway; and\n\n(ii) tactical aspects, including responding to events, determining when to change lanes, turning, using signals, and other related actions; and\n\n(B) does not include strategic aspects, including determining destinations or waypoints.\n\n(4) “Human operator” means a natural person in an automated motor vehicle who controls the entire dynamic driving task.\n\n(5) “Owner” has the meaning assigned by Section 502.001 (Definitions) .",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 545. Operation & Movement of Vehicles\n##### § 545.451 — Definitions\n\nIn this subchapter:\n\n    (1) “Automated driving system” means hardware and software that, when installed on a motor vehicle and engaged, are collectively capable of performing, without any intervention or supervision by a human operator:\n\n        (A) all aspects of the entire dynamic driving task for the vehicle on a sustained basis; and\n\n        (B) any fallback maneuvers necessary to respond to a failure of the system.\n\n    (2) “Automated motor vehicle” means a motor vehicle on which an automated driving system is installed.\n\n    (3) “Entire dynamic driving task” means the operational and tactical aspects of operating a vehicle. The term:\n\n        (A) includes:\n\n            (i) operational aspects, including steering, braking, accelerating, and monitoring the vehicle and the roadway; and\n\n            (ii) tactical aspects, including responding to events, determining when to change lanes, turning, using signals, and other related actions; and\n\n        (B) does not include strategic aspects, including determining destinations or waypoints.\n\n    (4) “Human operator” means a natural person in an automated motor vehicle who controls the entire dynamic driving task.\n\n    (5) “Owner” has the meaning assigned by Section 502.001 (Definitions) .\n\n*Added by Acts 2017, 85th Leg., R.S., Ch. 973 (S.B.2205), Sec. 1, eff. September 1, 2017.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In this subchapter:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "“Automated driving system” means hardware and software that, when installed on a motor vehicle and engaged, are collectively capable of performing, without any intervention or supervision by a human operator:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "all aspects of the entire dynamic driving task for the vehicle on a sustained basis; and",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "any fallback maneuvers necessary to respond to a failure of the system.",
+      "depth_em": 2.0
+    },
+    {
+      "label": "2",
+      "text": "“Automated motor vehicle” means a motor vehicle on which an automated driving system is installed.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "“Entire dynamic driving task” means the operational and tactical aspects of operating a vehicle. The term:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "includes:",
+      "depth_em": 2.0
+    },
+    {
+      "label": "i",
+      "text": "operational aspects, including steering, braking, accelerating, and monitoring the vehicle and the roadway; and",
+      "depth_em": 3.0
+    },
+    {
+      "label": "ii",
+      "text": "tactical aspects, including responding to events, determining when to change lanes, turning, using signals, and other related actions; and",
+      "depth_em": 3.0
+    },
+    {
+      "label": "B",
+      "text": "does not include strategic aspects, including determining destinations or waypoints.",
+      "depth_em": 2.0
+    },
+    {
+      "label": "4",
+      "text": "“Human operator” means a natural person in an automated motor vehicle who controls the entire dynamic driving task.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "“Owner” has the meaning assigned by Section 502.001 (Definitions) .",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2017, 85th Leg., R.S., Ch. 973 (S.B.2205), Sec. 1, eff. September 1, 2017.",
+    "action": "Added",
+    "statutes_year": 2017,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2017-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_545.451",
+  "source_path": "data/raw/tx_public_law/TN/545.451.html",
+  "content_sha256": "f071df8b5c065fc771b4901328303dd062560478d241148b5719f4a53f165f00",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

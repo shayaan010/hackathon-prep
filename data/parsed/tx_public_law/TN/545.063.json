@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "545.063",
+  "section_name": "Driving on Divided Highway",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "545",
+  "chapter_title": "Operation & Movement of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) On a highway having two or more roadways separated by a space, physical barrier, or clearly indicated dividing section constructed to impede vehicular traffic, an operator shall drive on the right roadway unless directed or permitted to use another roadway by an official traffic-control device or police officer.\n\n(b) An operator may not drive over, across, or in a dividing space, physical barrier, or section constructed to impede vehicular traffic except:\n\n(1) through an opening in the physical barrier or dividing section or space; or\n\n(2) at a crossover or intersection established by a public authority.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 545. Operation & Movement of Vehicles\n##### § 545.063 — Driving on Divided Highway\n\n(a) On a highway having two or more roadways separated by a space, physical barrier, or clearly indicated dividing section constructed to impede vehicular traffic, an operator shall drive on the right roadway unless directed or permitted to use another roadway by an official traffic-control device or police officer.\n\n(b) An operator may not drive over, across, or in a dividing space, physical barrier, or section constructed to impede vehicular traffic except:\n\n    (1) through an opening in the physical barrier or dividing section or space; or\n\n    (2) at a crossover or intersection established by a public authority.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "On a highway having two or more roadways separated by a space, physical barrier, or clearly indicated dividing section constructed to impede vehicular traffic, an operator shall drive on the right roadway unless directed or permitted to use another roadway by an official traffic-control device or police officer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An operator may not drive over, across, or in a dividing space, physical barrier, or section constructed to impede vehicular traffic except:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "through an opening in the physical barrier or dividing section or space; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "at a crossover or intersection established by a public authority.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_545.063",
+  "source_path": "data/raw/tx_public_law/TN/545.063.html",
+  "content_sha256": "e5792a7af390aa1bcb6fc21e1c593b773d0e35f13a06fb7751493d5ff2675f43",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

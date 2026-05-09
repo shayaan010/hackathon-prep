@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "646.002",
+  "section_name": "Exception",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "646",
+  "chapter_title": "Motor Transp. Brokers",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "This chapter does not apply to a motor transportation broker who:\n\n(1) is registered as a motor carrier under Chapter 643 (Motor Carrier Registration) ; or\n\n(2) holds a permit issued under Subtitle IV, Title 49, United States Code.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 646. Motor Transp. Brokers\n##### § 646.002 — Exception\n\nThis chapter does not apply to a motor transportation broker who:\n\n    (1) is registered as a motor carrier under Chapter 643 (Motor Carrier Registration) ; or\n\n    (2) holds a permit issued under Subtitle IV, Title 49, United States Code.\n\n*Added by Acts 1997, 75th Leg., ch. 165, Sec. 30.153(a), eff. Sept. 1, 1997.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "This chapter does not apply to a motor transportation broker who:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "is registered as a motor carrier under Chapter 643 (Motor Carrier Registration) ; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "holds a permit issued under Subtitle IV, Title 49, United States Code.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 1997, 75th Leg., ch. 165, Sec. 30.153(a), eff. Sept. 1, 1997.",
+    "action": "Added",
+    "statutes_year": 1997,
+    "chapter": "165",
+    "section": "30.153",
+    "bill_number": null,
+    "effective_date": "1997-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_646.002",
+  "source_path": "data/raw/tx_public_law/TN/646.002.html",
+  "content_sha256": "33cc33dfa0a234ddc0309d79513cb20a1588867ee63bc6ca032b227bea829f9a",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

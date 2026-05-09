@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.401",
+  "section_name": "Brakes Required",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Except as provided by Subsection (b), a motor vehicle, trailer, semitrailer, pole trailer, or combination of those vehicles shall be equipped with brakes that comply with this chapter.\n\n(b) A trailer, semitrailer, or pole trailer is not required to have brakes if:\n\n(1) its gross weight is 4,500 pounds or less; or\n\n(2) its gross weight is heavier than 4,500 pounds but not heavier than 15,000 pounds, and it is drawn at a speed of not more than 30 miles per hour.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.401 — Brakes Required\n\n(a) Except as provided by Subsection (b), a motor vehicle, trailer, semitrailer, pole trailer, or combination of those vehicles shall be equipped with brakes that comply with this chapter.\n\n(b) A trailer, semitrailer, or pole trailer is not required to have brakes if:\n\n    (1) its gross weight is 4,500 pounds or less; or\n\n    (2) its gross weight is heavier than 4,500 pounds but not heavier than 15,000 pounds, and it is drawn at a speed of not more than 30 miles per hour.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided by Subsection (b), a motor vehicle, trailer, semitrailer, pole trailer, or combination of those vehicles shall be equipped with brakes that comply with this chapter.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A trailer, semitrailer, or pole trailer is not required to have brakes if:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "its gross weight is 4,500 pounds or less; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "its gross weight is heavier than 4,500 pounds but not heavier than 15,000 pounds, and it is drawn at a speed of not more than 30 miles per hour.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.401",
+  "source_path": "data/raw/tx_public_law/TN/547.401.html",
+  "content_sha256": "7139ea4abfaa2fe22fdf7a904e80116c05870446933af2af47bd03c36245f58d",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

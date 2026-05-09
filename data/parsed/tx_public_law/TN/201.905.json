@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "201.905",
+  "section_name": "Traffic Safety Signs",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "201",
+  "chapter_title": "Gen. Provisions & Admin.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department may implement a traffic safety program that includes posting signs along the roadside at the 500 sites with the highest number of traffic fatalities. The signs shall be designed by the department and may contain the following information:\n\n(1) the number of fatalities that occurred at that location in the last 10 years;\n\n(2) the importance of driving safely and wearing seat belts;\n\n(3) the importance of not drinking and driving; and\n\n(4) any other information the department determines is necessary to promote safe driving.\n\n(b) A program under this section may also include literature distributed to the public by the department.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 201. Gen. Provisions & Admin.\n##### § 201.905 — Traffic Safety Signs\n\n(a) The department may implement a traffic safety program that includes posting signs along the roadside at the 500 sites with the highest number of traffic fatalities. The signs shall be designed by the department and may contain the following information:\n\n    (1) the number of fatalities that occurred at that location in the last 10 years;\n\n    (2) the importance of driving safely and wearing seat belts;\n\n    (3) the importance of not drinking and driving; and\n\n    (4) any other information the department determines is necessary to promote safe driving.\n\n(b) A program under this section may also include literature distributed to the public by the department.\n\n*Added by Acts 1997, 75th Leg., ch. 1214, Sec. 1, eff. Sept. 1, 1997.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may implement a traffic safety program that includes posting signs along the roadside at the 500 sites with the highest number of traffic fatalities. The signs shall be designed by the department and may contain the following information:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the number of fatalities that occurred at that location in the last 10 years;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the importance of driving safely and wearing seat belts;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "the importance of not drinking and driving; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "any other information the department determines is necessary to promote safe driving.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A program under this section may also include literature distributed to the public by the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 1997, 75th Leg., ch. 1214, Sec. 1, eff. Sept. 1, 1997.",
+    "action": "Added",
+    "statutes_year": 1997,
+    "chapter": "1214",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1997-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_201.905",
+  "source_path": "data/raw/tx_public_law/TN/201.905.html",
+  "content_sha256": "571a2d27469fd5e444a9538a85b08135782c7f09dee6a84dfd82724a3d4c21eb",
+  "parsed_at": "2026-05-09T18:13:58+00:00",
+  "parser_version": "1"
+}

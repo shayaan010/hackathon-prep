@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "223.101",
+  "section_name": "Definitions",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "223",
+  "chapter_title": "Bids & Contracts for Highway Projects",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "In this subchapter:\n\n(1) “Highway emergency” means a situation or condition of a designated state highway that:\n\n(A) poses an imminent threat to life or property of travelers; or\n\n(B) substantially disrupts the orderly flow of traffic and commerce.\n\n(2) “Highway improvement contract” means a contract awarded by the department for the construction, repair, or maintenance of a designated state highway or any part of that highway.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 223. Bids & Contracts for Highway Projects\n##### § 223.101 — Definitions\n\nIn this subchapter:\n\n    (1) “Highway emergency” means a situation or condition of a designated state highway that:\n\n        (A) poses an imminent threat to life or property of travelers; or\n\n        (B) substantially disrupts the orderly flow of traffic and commerce.\n\n    (2) “Highway improvement contract” means a contract awarded by the department for the construction, repair, or maintenance of a designated state highway or any part of that highway.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In this subchapter:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "“Highway emergency” means a situation or condition of a designated state highway that:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "poses an imminent threat to life or property of travelers; or",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "substantially disrupts the orderly flow of traffic and commerce.",
+      "depth_em": 2.0
+    },
+    {
+      "label": "2",
+      "text": "“Highway improvement contract” means a contract awarded by the department for the construction, repair, or maintenance of a designated state highway or any part of that highway.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_223.101",
+  "source_path": "data/raw/tx_public_law/TN/223.101.html",
+  "content_sha256": "2061d42c87e0a618fec95ab2de72c1daf22e4f7d1da510c29dc7ef247396bdb6",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

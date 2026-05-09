@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "5.007",
+  "section_name": "Priority of Shipment of Stored Goods",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "5",
+  "chapter_title": "Duties & Liabilities of Common Carriers",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "2",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A common carrier that receives goods for transportation in its warehouse or depot shall transport the goods in the order received.\n\n(b) A common carrier that violates Subsection (a) is liable for any:\n\n(1) loss occurring while the goods are in the warehouse or depot; and\n\n(2) damage resulting from the delay in transporting the goods.",
+  "markdown": "# Transp. Code\n## Title 2\n### Chapter 5. Duties & Liabilities of Common Carriers\n##### § 5.007 — Priority of Shipment of Stored Goods\n\n(a) A common carrier that receives goods for transportation in its warehouse or depot shall transport the goods in the order received.\n\n(b) A common carrier that violates Subsection (a) is liable for any:\n\n    (1) loss occurring while the goods are in the warehouse or depot; and\n\n    (2) damage resulting from the delay in transporting the goods.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A common carrier that receives goods for transportation in its warehouse or depot shall transport the goods in the order received.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A common carrier that violates Subsection (a) is liable for any:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "loss occurring while the goods are in the warehouse or depot; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "damage resulting from the delay in transporting the goods.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_5.007",
+  "source_path": "data/raw/tx_public_law/TN/5.007.html",
+  "content_sha256": "685abe910b8b6a2ef756b7966f183c78ef4c13d28604a5a045c6f6c2ff75191d",
+  "parsed_at": "2026-05-09T18:04:55+00:00",
+  "parser_version": "1"
+}

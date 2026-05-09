@@ -1,0 +1,83 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "222.007",
+  "section_name": "Allocation of Money from Transportation Project Delays",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "222",
+  "chapter_title": "Funding & Fed. Aid",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department shall establish a system to track liquidated damages, including road user costs, retained by the department associated with delayed transportation project contracts.\n\n(b) The system must allow the department to correlate the liquidated damages with:\n\n(1) the project that was the subject of the damages; and\n\n(2) each department district in which the project that was the subject of the damages is located.\n\n(c) Each year, the department shall:\n\n(1) for each department district, determine the amount of money described by Subsection (a) retained in the previous year that is attributable to projects located in the district; and\n\n(2) in addition to other amounts, allocate to each department district an amount of money equal to the amount determined for the district under Subdivision (1) to be used for transportation projects located in that district.\n\n(d) If a transportation project that was the subject of liquidated damages is located in more than one department district, the department may reasonably allocate the amount of the liquidated damages from that project among the districts in which the project is located.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 222. Funding & Fed. Aid\n##### § 222.007 — Allocation of Money from Transportation Project Delays\n\n(a) The department shall establish a system to track liquidated damages, including road user costs, retained by the department associated with delayed transportation project contracts.\n\n(b) The system must allow the department to correlate the liquidated damages with:\n\n    (1) the project that was the subject of the damages; and\n\n    (2) each department district in which the project that was the subject of the damages is located.\n\n(c) Each year, the department shall:\n\n    (1) for each department district, determine the amount of money described by Subsection (a) retained in the previous year that is attributable to projects located in the district; and\n\n    (2) in addition to other amounts, allocate to each department district an amount of money equal to the amount determined for the district under Subdivision (1) to be used for transportation projects located in that district.\n\n(d) If a transportation project that was the subject of liquidated damages is located in more than one department district, the department may reasonably allocate the amount of the liquidated damages from that project among the districts in which the project is located.\n\n*Added by Acts 2019, 86th Leg., R.S., Ch. 419 (S.B.282), Sec. 1, eff. September 1, 2019.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall establish a system to track liquidated damages, including road user costs, retained by the department associated with delayed transportation project contracts.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The system must allow the department to correlate the liquidated damages with:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the project that was the subject of the damages; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "each department district in which the project that was the subject of the damages is located.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "Each year, the department shall:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "for each department district, determine the amount of money described by Subsection (a) retained in the previous year that is attributable to projects located in the district; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "in addition to other amounts, allocate to each department district an amount of money equal to the amount determined for the district under Subdivision (1) to be used for transportation projects located in that district.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "d",
+      "text": "If a transportation project that was the subject of liquidated damages is located in more than one department district, the department may reasonably allocate the amount of the liquidated damages from that project among the districts in which the project is located.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2019, 86th Leg., R.S., Ch. 419 (S.B.282), Sec. 1, eff. September 1, 2019.",
+    "action": "Added",
+    "statutes_year": 2019,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2019-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_222.007",
+  "source_path": "data/raw/tx_public_law/TN/222.007.html",
+  "content_sha256": "3f64a64fc632b980c5f17c88edf076e53a07a65f1c353779826654f7269b46e7",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

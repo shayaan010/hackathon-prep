@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "501.034",
+  "section_name": "Issuance of Title to Government Agency",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "501",
+  "chapter_title": "Certificate of Title Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "The department may issue a title to a government agency if a vehicle or part of a vehicle is:\n\n(1) forfeited to the government agency;\n\n(2) delivered by court order under the Code of Criminal Procedure to a government agency for official purposes; or\n\n(3) sold as abandoned or unclaimed property under the Code of Criminal Procedure.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 501. Certificate of Title Act\n##### § 501.034 — Issuance of Title to Government Agency\n\nThe department may issue a title to a government agency if a vehicle or part of a vehicle is:\n\n    (1) forfeited to the government agency;\n\n    (2) delivered by court order under the Code of Criminal Procedure to a government agency for official purposes; or\n\n    (3) sold as abandoned or unclaimed property under the Code of Criminal Procedure.\n\n*Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 25, eff. January 1, 2012.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department may issue a title to a government agency if a vehicle or part of a vehicle is:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "forfeited to the government agency;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "delivered by court order under the Code of Criminal Procedure to a government agency for official purposes; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "sold as abandoned or unclaimed property under the Code of Criminal Procedure.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 25, eff. January 1, 2012.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_501.034",
+  "source_path": "data/raw/tx_public_law/TN/501.034.html",
+  "content_sha256": "934a53d41f4aabd12a33486740e01cabc072605e4a3dcc4ed1e1981fc279854a",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

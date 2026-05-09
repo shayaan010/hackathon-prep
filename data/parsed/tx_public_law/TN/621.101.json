@@ -1,0 +1,138 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "621.101",
+  "section_name": "Maximum Weight of Vehicle or Combination",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "621",
+  "chapter_title": "Gen. Provisions Relating to Vehicle Size & Weight",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A vehicle or combination of vehicles may not be operated over or on a public highway or at a port-of-entry between Texas and the United Mexican States if the vehicle or combination has:\n\n(1) a single axle weight heavier than 20,000 pounds, including all enforcement tolerances;\n\n(2) a tandem axle weight heavier than 34,000 pounds, including all enforcement tolerances;\n\n(3) an overall gross weight on a group of two or more consecutive axles heavier than the weight computed using the following formula and rounding the result to the nearest 500 pounds:\n\nW = 500((LN/(N - 1)) + 12N + 36)\n\nwhere:\n\n“W” is maximum overall gross weight on the group;\n\n“L” is distance in feet between the axles of the group that are the farthest apart; and\n\n“N” is number of axles in the group; or\n\n(4) tires that carry a weight heavier than the weight specified and marked on the sidewall of the tire, unless the vehicle is being operated under the terms of a special permit.\n\n(b) Notwithstanding Subsection (a)(3), two consecutive sets of tandem axles may carry a gross load of not more than 34,000 pounds each if the overall distance between the first and last axles of the consecutive sets is 36 feet or more. The overall gross weight on a group of two or more consecutive axles may not be heavier than 80,000 pounds, including all enforcement tolerances, regardless of tire ratings, axle spacing (bridge), and number of axles.\n\n(b-1) Notwithstanding any other provision of this section, a vehicle that is powered by an engine fueled primarily by natural gas or powered primarily by means of electric battery power may exceed the gross weight limitation under this section for the vehicle by up to 2,000 pounds, provided that the maximum gross weight of the vehicle may not exceed 82,000 pounds.\n\n(c) This section does not:\n\n(1) authorize size or weight limits on the national system of interstate and defense highways in this state greater than those permitted under 23 U.S.C. Section 127, as amended;\n\n(2) prohibit the operation of a vehicle or combination of vehicles that could be lawfully operated on a highway or road of this state on December 16, 1974; or\n\n(3) apply to a vehicle or combination of vehicles that operates exclusively:\n\n(A) at a private port of entry;\n\n(B) on private roads associated with the port of entry; and\n\n(C) across a public highway between private roads associated with the port of entry under a contract under Section 623.052 (Contract Allowing Overweight Vehicle with Commodities or Products to Cross Highway; Surety Bond) .",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 621. Gen. Provisions Relating to Vehicle Size & Weight\n##### § 621.101 — Maximum Weight of Vehicle or Combination\n\n(a) A vehicle or combination of vehicles may not be operated over or on a public highway or at a port-of-entry between Texas and the United Mexican States if the vehicle or combination has:\n\n    (1) a single axle weight heavier than 20,000 pounds, including all enforcement tolerances;\n\n    (2) a tandem axle weight heavier than 34,000 pounds, including all enforcement tolerances;\n\n    (3) an overall gross weight on a group of two or more consecutive axles heavier than the weight computed using the following formula and rounding the result to the nearest 500 pounds:\n\nW = 500((LN/(N - 1)) + 12N + 36)\n\nwhere:\n\n“W” is maximum overall gross weight on the group;\n\n“L” is distance in feet between the axles of the group that are the farthest apart; and\n\n“N” is number of axles in the group; or\n\n    (4) tires that carry a weight heavier than the weight specified and marked on the sidewall of the tire, unless the vehicle is being operated under the terms of a special permit.\n\n(b) Notwithstanding Subsection (a)(3), two consecutive sets of tandem axles may carry a gross load of not more than 34,000 pounds each if the overall distance between the first and last axles of the consecutive sets is 36 feet or more. The overall gross weight on a group of two or more consecutive axles may not be heavier than 80,000 pounds, including all enforcement tolerances, regardless of tire ratings, axle spacing (bridge), and number of axles.\n\n(b-1) Notwithstanding any other provision of this section, a vehicle that is powered by an engine fueled primarily by natural gas or powered primarily by means of electric battery power may exceed the gross weight limitation under this section for the vehicle by up to 2,000 pounds, provided that the maximum gross weight of the vehicle may not exceed 82,000 pounds.\n\n(c) This section does not:\n\n    (1) authorize size or weight limits on the national system of interstate and defense highways in this state greater than those permitted under 23 U.S.C. Section 127, as amended;\n\n    (2) prohibit the operation of a vehicle or combination of vehicles that could be lawfully operated on a highway or road of this state on December 16, 1974; or\n\n    (3) apply to a vehicle or combination of vehicles that operates exclusively:\n\n        (A) at a private port of entry;\n\n        (B) on private roads associated with the port of entry; and\n\n        (C) across a public highway between private roads associated with the port of entry under a contract under Section 623.052 (Contract Allowing Overweight Vehicle with Commodities or Products to Cross Highway; Surety Bond) .\n\n*Acts 2023, 88th Leg., R.S., Ch. 356 (S.B.1364), Sec. 1, eff. June 2, 2023.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A vehicle or combination of vehicles may not be operated over or on a public highway or at a port-of-entry between Texas and the United Mexican States if the vehicle or combination has:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "a single axle weight heavier than 20,000 pounds, including all enforcement tolerances;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a tandem axle weight heavier than 34,000 pounds, including all enforcement tolerances;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "an overall gross weight on a group of two or more consecutive axles heavier than the weight computed using the following formula and rounding the result to the nearest 500 pounds:",
+      "depth_em": 1.0
+    },
+    {
+      "label": null,
+      "text": "W = 500((LN/(N - 1)) + 12N + 36)",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "where:",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "“W” is maximum overall gross weight on the group;",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "“L” is distance in feet between the axles of the group that are the farthest apart; and",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "“N” is number of axles in the group; or",
+      "depth_em": 0.0
+    },
+    {
+      "label": "4",
+      "text": "tires that carry a weight heavier than the weight specified and marked on the sidewall of the tire, unless the vehicle is being operated under the terms of a special permit.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding Subsection (a)(3), two consecutive sets of tandem axles may carry a gross load of not more than 34,000 pounds each if the overall distance between the first and last axles of the consecutive sets is 36 feet or more. The overall gross weight on a group of two or more consecutive axles may not be heavier than 80,000 pounds, including all enforcement tolerances, regardless of tire ratings, axle spacing (bridge), and number of axles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b-1",
+      "text": "Notwithstanding any other provision of this section, a vehicle that is powered by an engine fueled primarily by natural gas or powered primarily by means of electric battery power may exceed the gross weight limitation under this section for the vehicle by up to 2,000 pounds, provided that the maximum gross weight of the vehicle may not exceed 82,000 pounds.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section does not:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "authorize size or weight limits on the national system of interstate and defense highways in this state greater than those permitted under 23 U.S.C. Section 127, as amended;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "prohibit the operation of a vehicle or combination of vehicles that could be lawfully operated on a highway or road of this state on December 16, 1974; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "apply to a vehicle or combination of vehicles that operates exclusively:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "at a private port of entry;",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "on private roads associated with the port of entry; and",
+      "depth_em": 2.0
+    },
+    {
+      "label": "C",
+      "text": "across a public highway between private roads associated with the port of entry under a contract under Section 623.052 (Contract Allowing Overweight Vehicle with Commodities or Products to Cross Highway; Surety Bond) .",
+      "depth_em": 2.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2023, 88th Leg., R.S., Ch. 356 (S.B.1364), Sec. 1, eff. June 2, 2023.",
+    "action": null,
+    "statutes_year": 2023,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2023-06-02",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_621.101",
+  "source_path": "data/raw/tx_public_law/TN/621.101.html",
+  "content_sha256": "8177d7fea2e0f81e373028af8432a5450190cd5a1f8bd7b7102df16eeb9cbfa0",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

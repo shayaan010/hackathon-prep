@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.103",
+  "section_name": "Air-conditioning Equipment Standards",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "The department may adopt safety requirements, rules, and specifications that:\n\n(1) apply to air-conditioning equipment; and\n\n(2) correlate with and conform as closely as possible to recommended practices or standards approved by the Society of Automotive Engineers.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.103 — Air-conditioning Equipment Standards\n\nThe department may adopt safety requirements, rules, and specifications that:\n\n    (1) apply to air-conditioning equipment; and\n\n    (2) correlate with and conform as closely as possible to recommended practices or standards approved by the Society of Automotive Engineers.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department may adopt safety requirements, rules, and specifications that:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "apply to air-conditioning equipment; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "correlate with and conform as closely as possible to recommended practices or standards approved by the Society of Automotive Engineers.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.103",
+  "source_path": "data/raw/tx_public_law/TN/547.103.html",
+  "content_sha256": "16dd7892322462ad89c238d99d30a4238ff3f2d5695e02472a1e990935b23ba9",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

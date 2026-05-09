@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "7.006",
+  "section_name": "Recovery of Damages",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "7",
+  "chapter_title": "Connecting Carriers",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "2",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person who suffers damages because of injury to or loss of freight or delay in transporting freight may recover from the initial carrier or any connecting carrier that transported the freight.\n\n(b) A common carrier held liable under Subsection (a) may, in a subsequent action, recover the amount of damages it was required to pay and is entitled to all costs of suit from the common carrier whose negligence caused the damages.\n\n(c) To recover under Subsection (b), a common carrier must only:\n\n(1) establish which other carrier or carriers caused the damage; and\n\n(2) produce satisfactory evidence that the carrier seeking contribution has paid the judgment in the underlying suit.\n\n(d) A law allowing the apportionment of damages is not applicable in a suit brought under Subsection (a) unless requested by the plaintiff. The law is applicable in a suit brought under Subsection (c).",
+  "markdown": "# Transp. Code\n## Title 2\n### Chapter 7. Connecting Carriers\n##### § 7.006 — Recovery of Damages\n\n(a) A person who suffers damages because of injury to or loss of freight or delay in transporting freight may recover from the initial carrier or any connecting carrier that transported the freight.\n\n(b) A common carrier held liable under Subsection (a) may, in a subsequent action, recover the amount of damages it was required to pay and is entitled to all costs of suit from the common carrier whose negligence caused the damages.\n\n(c) To recover under Subsection (b), a common carrier must only:\n\n    (1) establish which other carrier or carriers caused the damage; and\n\n    (2) produce satisfactory evidence that the carrier seeking contribution has paid the judgment in the underlying suit.\n\n(d) A law allowing the apportionment of damages is not applicable in a suit brought under Subsection (a) unless requested by the plaintiff. The law is applicable in a suit brought under Subsection (c).\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person who suffers damages because of injury to or loss of freight or delay in transporting freight may recover from the initial carrier or any connecting carrier that transported the freight.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A common carrier held liable under Subsection (a) may, in a subsequent action, recover the amount of damages it was required to pay and is entitled to all costs of suit from the common carrier whose negligence caused the damages.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "To recover under Subsection (b), a common carrier must only:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "establish which other carrier or carriers caused the damage; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "produce satisfactory evidence that the carrier seeking contribution has paid the judgment in the underlying suit.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "d",
+      "text": "A law allowing the apportionment of damages is not applicable in a suit brought under Subsection (a) unless requested by the plaintiff. The law is applicable in a suit brought under Subsection (c).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_7.006",
+  "source_path": "data/raw/tx_public_law/TN/7.006.html",
+  "content_sha256": "a13b0b50336415c1773d22d8483e9c1217a4d35553d97ea57e3ab50384ee8738",
+  "parsed_at": "2026-05-09T18:04:55+00:00",
+  "parser_version": "1"
+}

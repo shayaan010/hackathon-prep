@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "503.093",
+  "section_name": "Action to Enforce Subchapter",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "503",
+  "chapter_title": "Dealer's & Mfr.'s Vehicle License Plates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department or any interested person may bring an action, including an action for an injunction, to:\n\n(1) enforce a provision of Subchapter B; or\n\n(2) prohibit a person from operating in violation of the person’s application for a general distinguishing number.\n\n(b) A plaintiff other than the department may recover the plaintiff’s attorney’s fees.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 503. Dealer's & Mfr.'s Vehicle License Plates\n##### § 503.093 — Action to Enforce Subchapter\n\n(a) The department or any interested person may bring an action, including an action for an injunction, to:\n\n    (1) enforce a provision of Subchapter B; or\n\n    (2) prohibit a person from operating in violation of the person’s application for a general distinguishing number.\n\n(b) A plaintiff other than the department may recover the plaintiff’s attorney’s fees.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 1997, 75th Leg., ch. 871, Sec. 9, eff. Sept. 1, 1997.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department or any interested person may bring an action, including an action for an injunction, to:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "enforce a provision of Subchapter B; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "prohibit a person from operating in violation of the person’s application for a general distinguishing number.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A plaintiff other than the department may recover the plaintiff’s attorney’s fees.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 1997, 75th Leg., ch. 871, Sec. 9, eff. Sept. 1, 1997.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_503.093",
+  "source_path": "data/raw/tx_public_law/TN/503.093.html",
+  "content_sha256": "4278cd2b12bd832fbcbeeeca85dcfaee0e9d72a67f9027f3de9f2120e18cdd54",
+  "parsed_at": "2026-05-09T18:14:00+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,78 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "681.012",
+  "section_name": "Seizure and Revocation of Placard",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "681",
+  "chapter_title": "Privileged Parking",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A law enforcement officer who believes that an offense under Section 681.011 (Offenses; Presumption) (a) or (d) has occurred in the officer’s presence shall seize any disabled parking placard involved in the offense. Not later than 48 hours after the seizure, the officer shall determine whether probable cause existed to believe that the offense was committed. If the officer does not find that probable cause existed, the officer shall promptly return each placard to the person from whom it was seized. If the officer finds that probable cause existed, the officer, not later than the fifth day after the date of the seizure, shall destroy the placard and notify the department.\n\n(a-1) A peace officer may seize a disabled parking placard from a person who operates a vehicle on which a disabled parking placard is displayed if the peace officer determines by inspecting the person’s driver’s license, personal identification certificate, or military identification that the disabled parking placard does not contain the first four digits of the driver’s license number, personal identification certificate number, or military identification number and the initials of:\n\n(1) the person operating the vehicle;\n\n(2) the applicant on behalf of a person being transported by the vehicle; or\n\n(3) a person being transported by the vehicle.\n\n(a-2) A peace officer shall destroy a seized placard and notify the department.\n\n(b) On seizure of a placard under Subsection (a) or (a-1), a placard is revoked. A person from whom the placard was seized may apply for a new placard by submitting an application under Section 681.003 (Parking Placard Application) .",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 681. Privileged Parking\n##### § 681.012 — Seizure and Revocation of Placard\n\n(a) A law enforcement officer who believes that an offense under Section 681.011 (Offenses; Presumption) (a) or (d) has occurred in the officer’s presence shall seize any disabled parking placard involved in the offense. Not later than 48 hours after the seizure, the officer shall determine whether probable cause existed to believe that the offense was committed. If the officer does not find that probable cause existed, the officer shall promptly return each placard to the person from whom it was seized. If the officer finds that probable cause existed, the officer, not later than the fifth day after the date of the seizure, shall destroy the placard and notify the department.\n\n(a-1) A peace officer may seize a disabled parking placard from a person who operates a vehicle on which a disabled parking placard is displayed if the peace officer determines by inspecting the person’s driver’s license, personal identification certificate, or military identification that the disabled parking placard does not contain the first four digits of the driver’s license number, personal identification certificate number, or military identification number and the initials of:\n\n    (1) the person operating the vehicle;\n\n    (2) the applicant on behalf of a person being transported by the vehicle; or\n\n    (3) a person being transported by the vehicle.\n\n(a-2) A peace officer shall destroy a seized placard and notify the department.\n\n(b) On seizure of a placard under Subsection (a) or (a-1), a placard is revoked. A person from whom the placard was seized may apply for a new placard by submitting an application under Section 681.003 (Parking Placard Application) .\n\n*Acts 2017, 85th Leg., R.S., Ch. 153 (H.B.1790), Sec. 1, eff. September 1, 2017.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A law enforcement officer who believes that an offense under Section 681.011 (Offenses; Presumption) (a) or (d) has occurred in the officer’s presence shall seize any disabled parking placard involved in the offense. Not later than 48 hours after the seizure, the officer shall determine whether probable cause existed to believe that the offense was committed. If the officer does not find that probable cause existed, the officer shall promptly return each placard to the person from whom it was seized. If the officer finds that probable cause existed, the officer, not later than the fifth day after the date of the seizure, shall destroy the placard and notify the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a-1",
+      "text": "A peace officer may seize a disabled parking placard from a person who operates a vehicle on which a disabled parking placard is displayed if the peace officer determines by inspecting the person’s driver’s license, personal identification certificate, or military identification that the disabled parking placard does not contain the first four digits of the driver’s license number, personal identification certificate number, or military identification number and the initials of:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the person operating the vehicle;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the applicant on behalf of a person being transported by the vehicle; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "a person being transported by the vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "a-2",
+      "text": "A peace officer shall destroy a seized placard and notify the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "On seizure of a placard under Subsection (a) or (a-1), a placard is revoked. A person from whom the placard was seized may apply for a new placard by submitting an application under Section 681.003 (Parking Placard Application) .",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2017, 85th Leg., R.S., Ch. 153 (H.B.1790), Sec. 1, eff. September 1, 2017.",
+    "action": null,
+    "statutes_year": 2017,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2017-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_681.012",
+  "source_path": "data/raw/tx_public_law/TN/681.012.html",
+  "content_sha256": "ee7b2a223d54e052321ad1a69c4ee58ef6e8944ecd495bb2bbae5a04b2444e9e",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

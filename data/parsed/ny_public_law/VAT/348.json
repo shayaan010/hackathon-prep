@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "348",
+  "section_name": "Article not to affect other policies",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "7",
+  "article_title": "Motor Vehicle Safety Responsibility Act",
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "3",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) This article shall not be held to apply to or affect policies of automobile insurance against liability which may now or hereafter be required by any other law of this state, and such policies, if endorsed to conform to the requirements of this article shall be accepted as proof of financial responsibility when required under this article.\n\n(b) This article shall not be held to apply to or affect policies insuring solely the insured named in the policy against liability resulting from the maintenance, or use by persons in the insured’s employ or in his behalf of motor vehicles not owned by the insured.",
+  "markdown": "# Vehicle & Traffic Law\n## Title 3\n#### Article 7. Motor Vehicle Safety Responsibility Act\n##### § 348 — Article not to affect other policies\n\n(a) This article shall not be held to apply to or affect policies of automobile insurance against liability which may now or hereafter be required by any other law of this state, and such policies, if endorsed to conform to the requirements of this article shall be accepted as proof of financial responsibility when required under this article.\n\n(b) This article shall not be held to apply to or affect policies insuring solely the insured named in the policy against liability resulting from the maintenance, or use by persons in the insured’s employ or in his behalf of motor vehicles not owned by the insured.\n\n*Last modified: Sep. 22, 2014*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "This article shall not be held to apply to or affect policies of automobile insurance against liability which may now or hereafter be required by any other law of this state, and such policies, if endorsed to conform to the requirements of this article shall be accepted as proof of financial responsibility when required under this article.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This article shall not be held to apply to or affect policies insuring solely the insured named in the policy against liability resulting from the maintenance, or use by persons in the insured’s employ or in his behalf of motor vehicles not owned by the insured.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Sep. 22, 2014",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2014-09-22",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_348",
+  "source_path": "data/raw/ny_public_law/VAT/348.html",
+  "content_sha256": "85d52fd2f0da17529b51ba02903c98f39675843f607b7c5292b27fdae03ca36f",
+  "parsed_at": "2026-05-09T18:04:54+00:00",
+  "parser_version": "1"
+}

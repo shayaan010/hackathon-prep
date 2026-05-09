@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "315.069",
+  "section_name": "Assessment Order",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "315",
+  "chapter_title": "Artificial Lighting",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) After the close of a hearing held under Section 315.066 (Hearing) , the governing body of the municipality by ordinance shall assess against each owner of abutting property the proportionate cost of the lighting improvements as decided by the governing body.\n\n(b) The ordinance shall:\n\n(1) impose a lien on the property;\n\n(2) declare the owner of the property personally liable for the amount assessed; and\n\n(3) prescribe the time and manner of payment of the assessed amount.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 315. Artificial Lighting\n##### § 315.069 — Assessment Order\n\n(a) After the close of a hearing held under Section 315.066 (Hearing) , the governing body of the municipality by ordinance shall assess against each owner of abutting property the proportionate cost of the lighting improvements as decided by the governing body.\n\n(b) The ordinance shall:\n\n    (1) impose a lien on the property;\n\n    (2) declare the owner of the property personally liable for the amount assessed; and\n\n    (3) prescribe the time and manner of payment of the assessed amount.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "After the close of a hearing held under Section 315.066 (Hearing) , the governing body of the municipality by ordinance shall assess against each owner of abutting property the proportionate cost of the lighting improvements as decided by the governing body.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The ordinance shall:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "impose a lien on the property;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "declare the owner of the property personally liable for the amount assessed; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "prescribe the time and manner of payment of the assessed amount.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_315.069",
+  "source_path": "data/raw/tx_public_law/TN/315.069.html",
+  "content_sha256": "5c9204f6779c68ff1c8c08a033f85f5400d52dda1c14bfe1f8bc5a6da78eb54f",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

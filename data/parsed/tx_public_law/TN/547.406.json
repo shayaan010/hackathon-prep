@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.406",
+  "section_name": "Brake Reservoir or Reserve Capacity Required",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A bus, truck, or truck-tractor equipped with air brakes shall be equipped with at least one reservoir that:\n\n(1) is sufficient to ensure that the service brakes can be fully applied without lowering the reservoir pressure, if fully charged to the maximum pressure as regulated by the air compressor governor cut-out setting, by more than 20 percent; and\n\n(2) has a means for readily draining accumulated oil or water.\n\n(b) A truck with at least three axles that is equipped with vacuum brakes or a truck-tractor or truck used to tow a vehicle equipped with vacuum brakes shall be equipped with a reserve capacity or a vacuum reservoir sufficient to ensure that, with the reserve capacity or vacuum reservoir fully charged and with the engine stopped, the service brakes can be fully applied without depleting the vacuum supply by more than 40 percent.\n\n(c) A motor vehicle, trailer, semitrailer, or pole trailer that is equipped with an air or vacuum reservoir or reserve capacity shall be equipped with a check valve or equivalent device to prevent depletion of the air or vacuum supply by failure or leakage.\n\n(d) An air brake system installed on a trailer shall be designed to prevent a backflow of air from the supply reservoir through the supply line.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.406 — Brake Reservoir or Reserve Capacity Required\n\n(a) A bus, truck, or truck-tractor equipped with air brakes shall be equipped with at least one reservoir that:\n\n    (1) is sufficient to ensure that the service brakes can be fully applied without lowering the reservoir pressure, if fully charged to the maximum pressure as regulated by the air compressor governor cut-out setting, by more than 20 percent; and\n\n    (2) has a means for readily draining accumulated oil or water.\n\n(b) A truck with at least three axles that is equipped with vacuum brakes or a truck-tractor or truck used to tow a vehicle equipped with vacuum brakes shall be equipped with a reserve capacity or a vacuum reservoir sufficient to ensure that, with the reserve capacity or vacuum reservoir fully charged and with the engine stopped, the service brakes can be fully applied without depleting the vacuum supply by more than 40 percent.\n\n(c) A motor vehicle, trailer, semitrailer, or pole trailer that is equipped with an air or vacuum reservoir or reserve capacity shall be equipped with a check valve or equivalent device to prevent depletion of the air or vacuum supply by failure or leakage.\n\n(d) An air brake system installed on a trailer shall be designed to prevent a backflow of air from the supply reservoir through the supply line.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A bus, truck, or truck-tractor equipped with air brakes shall be equipped with at least one reservoir that:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "is sufficient to ensure that the service brakes can be fully applied without lowering the reservoir pressure, if fully charged to the maximum pressure as regulated by the air compressor governor cut-out setting, by more than 20 percent; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "has a means for readily draining accumulated oil or water.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A truck with at least three axles that is equipped with vacuum brakes or a truck-tractor or truck used to tow a vehicle equipped with vacuum brakes shall be equipped with a reserve capacity or a vacuum reservoir sufficient to ensure that, with the reserve capacity or vacuum reservoir fully charged and with the engine stopped, the service brakes can be fully applied without depleting the vacuum supply by more than 40 percent.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A motor vehicle, trailer, semitrailer, or pole trailer that is equipped with an air or vacuum reservoir or reserve capacity shall be equipped with a check valve or equivalent device to prevent depletion of the air or vacuum supply by failure or leakage.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "An air brake system installed on a trailer shall be designed to prevent a backflow of air from the supply reservoir through the supply line.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.406",
+  "source_path": "data/raw/tx_public_law/TN/547.406.html",
+  "content_sha256": "5dd250e2f4de2a07746cefc6faa3b2a23433b819b610275c1ed6dcf4dd24215d",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.011",
+  "section_name": "Services Information for Veterans",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "The department and the Texas Veterans Commission shall jointly develop a one-page informational paper about veterans services provided by this state for veterans who receive:\n\n(1) a driver’s license with a designation under Section 521.1235 (Designator on License Issued to Veteran) ; or\n\n(2) a personal identification certificate with a designation under Section 521.102 (Designator on Personal Identification Certificate Issued to Veteran) .",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.011 — Services Information for Veterans\n\nThe department and the Texas Veterans Commission shall jointly develop a one-page informational paper about veterans services provided by this state for veterans who receive:\n\n    (1) a driver’s license with a designation under Section 521.1235 (Designator on License Issued to Veteran) ; or\n\n    (2) a personal identification certificate with a designation under Section 521.102 (Designator on Personal Identification Certificate Issued to Veteran) .\n\n*Acts 2017, 85th Leg., R.S., Ch. 1142 (H.B.377), Sec. 4, eff. September 1, 2017.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department and the Texas Veterans Commission shall jointly develop a one-page informational paper about veterans services provided by this state for veterans who receive:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "a driver’s license with a designation under Section 521.1235 (Designator on License Issued to Veteran) ; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a personal identification certificate with a designation under Section 521.102 (Designator on Personal Identification Certificate Issued to Veteran) .",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2017, 85th Leg., R.S., Ch. 1142 (H.B.377), Sec. 4, eff. September 1, 2017.",
+    "action": null,
+    "statutes_year": 2017,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2017-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.011",
+  "source_path": "data/raw/tx_public_law/TN/521.011.html",
+  "content_sha256": "a3dbf1e4c7d0c3e8dec75891e228c5a61561d3a2a8da79abda3708e74c70d9c9",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "646.001",
+  "section_name": "Definitions",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "646",
+  "chapter_title": "Motor Transp. Brokers",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "In this chapter:\n\n(1) “Department” means the Texas Department of Motor Vehicles.\n\n(2) “Motor transportation broker” means a person who:\n\n(A) sells, offers for sale, provides, or negotiates for the transportation of cargo by a motor carrier operated by another person; or\n\n(B) aids or abets a person in performing an act described by Paragraph (A).",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 646. Motor Transp. Brokers\n##### § 646.001 — Definitions\n\nIn this chapter:\n\n    (1) “Department” means the Texas Department of Motor Vehicles.\n\n    (2) “Motor transportation broker” means a person who:\n\n        (A) sells, offers for sale, provides, or negotiates for the transportation of cargo by a motor carrier operated by another person; or\n\n        (B) aids or abets a person in performing an act described by Paragraph (A).\n\n*Acts 2013, 83rd Leg., R.S., Ch. 1287 (H.B.2202), Sec. 64, eff. September 1, 2013.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In this chapter:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "“Department” means the Texas Department of Motor Vehicles.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "“Motor transportation broker” means a person who:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "sells, offers for sale, provides, or negotiates for the transportation of cargo by a motor carrier operated by another person; or",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "aids or abets a person in performing an act described by Paragraph (A).",
+      "depth_em": 2.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2013, 83rd Leg., R.S., Ch. 1287 (H.B.2202), Sec. 64, eff. September 1, 2013.",
+    "action": null,
+    "statutes_year": 2013,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2013-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_646.001",
+  "source_path": "data/raw/tx_public_law/TN/646.001.html",
+  "content_sha256": "8875ccab2b8649ffd097b105907790dc6f170d635cc2376c7d45039cec4bd6a1",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

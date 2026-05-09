@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "204.010",
+  "section_name": "Travel Magazine",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "204",
+  "chapter_title": "Travel Info.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department shall publish the official travel magazine of this state, “Texas Highways.”\n\n(b) The department shall set subscription rates and other charges for the magazine at a level that generates receipts approximately sufficient to cover the cost of producing and distributing the magazine.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 204. Travel Info.\n##### § 204.010 — Travel Magazine\n\n(a) The department shall publish the official travel magazine of this state, “Texas Highways.”\n\n(b) The department shall set subscription rates and other charges for the magazine at a level that generates receipts approximately sufficient to cover the cost of producing and distributing the magazine.\n\n*Added by Acts 2003, 78th Leg., ch. 1276, Sec. 16.001(a), eff. Sept. 1, 2003.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall publish the official travel magazine of this state, “Texas Highways.”",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall set subscription rates and other charges for the magazine at a level that generates receipts approximately sufficient to cover the cost of producing and distributing the magazine.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2003, 78th Leg., ch. 1276, Sec. 16.001(a), eff. Sept. 1, 2003.",
+    "action": "Added",
+    "statutes_year": 2003,
+    "chapter": "1276",
+    "section": "16.001",
+    "bill_number": null,
+    "effective_date": "2003-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_204.010",
+  "source_path": "data/raw/tx_public_law/TN/204.010.html",
+  "content_sha256": "92a8eb5cfc252e25d77fa63a1cb1658a9af9d28eae28893e9364630cc74550b5",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

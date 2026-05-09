@@ -98,8 +98,22 @@ def parse_public_law_html(
     canonical_url = _extract_canonical_url(tree) or source_url
     official_source_url = _extract_source_link(tree)
     subsections, history_raw = _extract_body(tree)
+    last_modified = _extract_last_modified(tree)
 
     history = _parse_history(history_raw, jurisdiction) if history_raw else None
+    # Fallback: synthesize a HistoryNote from the "Last modified" sidebar
+    # if no inline meta history was found (common for NY pages).
+    if history is None and last_modified is not None:
+        history = HistoryNote(
+            raw=f"Last modified: {last_modified}",
+            action=None,
+            statutes_year=None,
+            chapter=None,
+            section=None,
+            bill_number=None,
+            effective_date=_parse_date_str(last_modified),
+            operative_date=None,
+        )
 
     text = _render_text(subsections)
     markdown = _render_markdown(
@@ -118,6 +132,7 @@ def parse_public_law_html(
         law_code=law_code,
         code_name=code_name,
         section_num=section_num,
+        section_name=section_name,
         division=hierarchy.get("DIVISION", {}).get("ident"),
         division_title=hierarchy.get("DIVISION", {}).get("title"),
         division_range=hierarchy.get("DIVISION", {}).get("range"),
@@ -192,7 +207,7 @@ def _extract_section_name(tree: HTMLParser) -> Optional[str]:
 def _extract_code_name(tree: HTMLParser) -> Optional[str]:
     meta_tag = tree.css_first("span.meta-name-and-number")
     if meta_tag:
-        text = _normalize_ws(meta_tag.text(strip=True))
+        text = _normalize_ws(meta_tag.text(separator=" ", strip=True))
         m = re.match(r"^(?:N\.Y\.|Tex\.)\s+(.+?)\s+Section\s+", text)
         if m:
             return m.group(1).strip()
@@ -252,6 +267,18 @@ def _extract_source_link(tree: HTMLParser) -> Optional[str]:
         href = link.attributes.get("href", "")
         if href:
             return href
+    return None
+
+
+def _extract_last_modified(tree: HTMLParser) -> Optional[str]:
+    """Find 'Last modified: <Date>' in the right sidebar card."""
+    for p in tree.css("p.card-text"):
+        strong = p.css_first("strong")
+        if strong and "Last modified" in strong.text(strip=True):
+            text = _normalize_ws(p.text(separator=" ", strip=True))
+            m = re.search(r"([A-Za-z]+\.?\s+\d{1,2},?\s+\d{4})", text)
+            if m:
+                return m.group(1)
     return None
 
 
@@ -360,18 +387,24 @@ def _parse_history(raw: str, jurisdiction: str) -> HistoryNote:
     effective_date: Optional[str] = None
     operative_date: Optional[str] = None
 
+    # TX format: "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995."
+    #            "Amended by Acts 2003, 78th Leg., ch. 1325, § 19.014, eff. Jan. 1, 2004."
     m_tx = re.search(
-        r"Acts\s+(\d+)(?:st|nd|rd|th)?\s+Leg\.,\s*"
+        r"Acts\s+(\d{4})(?:,\s*\d+(?:st|nd|rd|th)?)?\s+Leg\.,\s*"
         r"(?:Ch\.|Chapter)\s*([\w.]+),\s*"
-        r"(?:Sec\.|§)\s*([\w.]+),\s*"
-        r"eff\.\s*([^,;.]+?)(?:[,;.]+|$)",
+        r"(?:Sec\.|§)\s*([\w.]+)",
         inner,
+        re.IGNORECASE,
     )
     if m_tx:
-        statutes_year = _extract_year_from_session(m_tx.group(1))
+        try:
+            statutes_year = int(m_tx.group(1))
+        except (TypeError, ValueError):
+            pass
         chapter = m_tx.group(2)
         section = m_tx.group(3)
-        effective_date = _parse_date_str(m_tx.group(4).strip())
+        if action is None:
+            action = "Enacted"
     else:
         m_year = re.search(r"(\d{4})", inner)
         if m_year:
@@ -380,13 +413,17 @@ def _parse_history(raw: str, jurisdiction: str) -> HistoryNote:
             except ValueError:
                 pass
 
+    # Effective date: "eff. Sept. 1, 1995" or "Effective January 1, 2023"
+    m_eff_short = re.search(
+        r"(?:eff\.|Effective)\s+([A-Za-z]+\.?\s+\d{1,2},?\s+\d{4})",
+        inner,
+    )
+    if m_eff_short:
+        effective_date = _parse_date_str(m_eff_short.group(1))
+
     m_bill = re.search(r"\(([A-Z]+\s+\d+[A-Z]*)\)", inner)
     if m_bill:
         bill_number = _normalize_ws(m_bill.group(1))
-
-    m_eff = re.search(r"Effective\s+([A-Z][a-z]+\.?\s+\d{1,2},?\s+\d{4})", inner)
-    if m_eff:
-        effective_date = _parse_date_str(m_eff.group(1))
 
     return HistoryNote(
         raw=raw,
@@ -398,16 +435,6 @@ def _parse_history(raw: str, jurisdiction: str) -> HistoryNote:
         effective_date=effective_date,
         operative_date=operative_date,
     )
-
-
-def _extract_year_from_session(session_str: str) -> Optional[int]:
-    m = re.search(r"(\d{4})", session_str)
-    if m:
-        return int(m.group(1))
-    try:
-        return int(session_str)
-    except ValueError:
-        return None
 
 
 def _render_text(subsections: list[Subsection]) -> str:

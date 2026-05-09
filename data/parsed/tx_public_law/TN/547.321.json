@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.321",
+  "section_name": "Headlamps Required",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A motor vehicle shall be equipped with at least two headlamps.\n\n(b) At least one headlamp shall be mounted on each side of the front of the vehicle.\n\n(c) Each headlamp shall be mounted at a height from 24 to 54 inches.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.321 — Headlamps Required\n\n(a) A motor vehicle shall be equipped with at least two headlamps.\n\n(b) At least one headlamp shall be mounted on each side of the front of the vehicle.\n\n(c) Each headlamp shall be mounted at a height from 24 to 54 inches.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A motor vehicle shall be equipped with at least two headlamps.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "At least one headlamp shall be mounted on each side of the front of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Each headlamp shall be mounted at a height from 24 to 54 inches.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.321",
+  "source_path": "data/raw/tx_public_law/TN/547.321.html",
+  "content_sha256": "5e2ba1e28eef559e5373f359e157e23a188556f29e39659c1f8678fbf4291e21",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

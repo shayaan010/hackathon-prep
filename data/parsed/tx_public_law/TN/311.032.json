@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "311.032",
+  "section_name": "Establishment of Freeway",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "311",
+  "chapter_title": "Gen. Provisions Relating to Mun. Streets",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The governing body of a municipality may establish, maintain, and operate a freeway.\n\n(b) To establish a freeway by using a street that exists at the time of the establishment, the municipality must have the consent of the owners of lands abutting the freeway or must purchase or condemn the right of access to the abutting lands. This subsection does not require consent to establish a freeway for the first time as a new way for vehicular and pedestrian traffic.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 311. Gen. Provisions Relating to Mun. Streets\n##### § 311.032 — Establishment of Freeway\n\n(a) The governing body of a municipality may establish, maintain, and operate a freeway.\n\n(b) To establish a freeway by using a street that exists at the time of the establishment, the municipality must have the consent of the owners of lands abutting the freeway or must purchase or condemn the right of access to the abutting lands. This subsection does not require consent to establish a freeway for the first time as a new way for vehicular and pedestrian traffic.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The governing body of a municipality may establish, maintain, and operate a freeway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "To establish a freeway by using a street that exists at the time of the establishment, the municipality must have the consent of the owners of lands abutting the freeway or must purchase or condemn the right of access to the abutting lands. This subsection does not require consent to establish a freeway for the first time as a new way for vehicular and pedestrian traffic.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_311.032",
+  "source_path": "data/raw/tx_public_law/TN/311.032.html",
+  "content_sha256": "239eb1a41ebd405b6b51c912c2e2ee51e3b5d193ce2ee3e8e63f2dca1665e7da",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

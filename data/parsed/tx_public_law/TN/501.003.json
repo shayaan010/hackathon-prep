@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "501.003",
+  "section_name": "Purpose",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "501",
+  "chapter_title": "Certificate of Title Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "This chapter shall be liberally construed to lessen and prevent:\n\n(1) the theft of motor vehicles;\n\n(2) the importation into this state of and traffic in motor vehicles that are stolen; and\n\n(3) the sale of an encumbered motor vehicle without the enforced disclosure to the purchaser of a lien secured by the vehicle.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 501. Certificate of Title Act\n##### § 501.003 — Purpose\n\nThis chapter shall be liberally construed to lessen and prevent:\n\n    (1) the theft of motor vehicles;\n\n    (2) the importation into this state of and traffic in motor vehicles that are stolen; and\n\n    (3) the sale of an encumbered motor vehicle without the enforced disclosure to the purchaser of a lien secured by the vehicle.\n\n*Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 2, eff. January 1, 2012.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "This chapter shall be liberally construed to lessen and prevent:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the theft of motor vehicles;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the importation into this state of and traffic in motor vehicles that are stolen; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "the sale of an encumbered motor vehicle without the enforced disclosure to the purchaser of a lien secured by the vehicle.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 2, eff. January 1, 2012.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_501.003",
+  "source_path": "data/raw/tx_public_law/TN/501.003.html",
+  "content_sha256": "12b82d88e9a5de383274136af93566671b2ac8baf6b7594423ffde0caa54ece0",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

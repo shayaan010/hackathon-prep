@@ -1,0 +1,78 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.041",
+  "section_name": "Application Records; Records of Denial, Suspension, Cancellation, or Revocation",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department shall record each driver’s license application received by the department.\n\n(b) The department shall maintain suitable indexes, in alphabetical or numerical order, that contain:\n\n(1) each denied application and the reasons for the denial;\n\n(2) each application that is granted;\n\n(3) the name of each license holder whose license has been suspended, canceled, or revoked and the reasons for that action; and\n\n(4) the citizenship status of each holder of a license or personal identification certificate.\n\n(c) The department shall maintain the application records for personal identification certificates in the manner required for license applications under this section.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.041 — Application Records; Records of Denial, Suspension, Cancellation, or Revocation\n\n(a) The department shall record each driver’s license application received by the department.\n\n(b) The department shall maintain suitable indexes, in alphabetical or numerical order, that contain:\n\n    (1) each denied application and the reasons for the denial;\n\n    (2) each application that is granted;\n\n    (3) the name of each license holder whose license has been suspended, canceled, or revoked and the reasons for that action; and\n\n    (4) the citizenship status of each holder of a license or personal identification certificate.\n\n(c) The department shall maintain the application records for personal identification certificates in the manner required for license applications under this section.\n\n*Acts 2011, 82nd Leg., 1st C.S., Ch. 4 (S.B.1), Sec. 72.02, eff. September 28, 2011.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall record each driver’s license application received by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall maintain suitable indexes, in alphabetical or numerical order, that contain:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "each denied application and the reasons for the denial;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "each application that is granted;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "the name of each license holder whose license has been suspended, canceled, or revoked and the reasons for that action; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "the citizenship status of each holder of a license or personal identification certificate.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "The department shall maintain the application records for personal identification certificates in the manner required for license applications under this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., 1st C.S., Ch. 4 (S.B.1), Sec. 72.02, eff. September 28, 2011.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2011-09-28",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.041",
+  "source_path": "data/raw/tx_public_law/TN/521.041.html",
+  "content_sha256": "28197b6dbaeeca5df87d6a93ec4efdbbc0c0dca057b7466f93206baaf19f9694",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

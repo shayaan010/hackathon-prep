@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "545.406",
+  "section_name": "Coasting",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "545",
+  "chapter_title": "Operation & Movement of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) An operator moving on a downgrade may not coast with the gears or transmission of the vehicle in neutral.\n\n(b) An operator of a truck, tractor, or bus moving on a downgrade may not coast with the clutch disengaged.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 545. Operation & Movement of Vehicles\n##### § 545.406 — Coasting\n\n(a) An operator moving on a downgrade may not coast with the gears or transmission of the vehicle in neutral.\n\n(b) An operator of a truck, tractor, or bus moving on a downgrade may not coast with the clutch disengaged.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "An operator moving on a downgrade may not coast with the gears or transmission of the vehicle in neutral.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An operator of a truck, tractor, or bus moving on a downgrade may not coast with the clutch disengaged.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_545.406",
+  "source_path": "data/raw/tx_public_law/TN/545.406.html",
+  "content_sha256": "76867dc16f184af4abdc0c2513f55b6044f5bb2dd776da94dd11fe78b176b932",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

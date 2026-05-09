@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "222.001",
+  "section_name": "Use of State Highway Fund",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "222",
+  "chapter_title": "Funding & Fed. Aid",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Money that is required to be used for public roadways by the Texas Constitution or federal law and that is deposited in the state treasury to the credit of the state highway fund, including money deposited to the credit of the state highway fund under Title 23, United States Code, may be used only:\n\n(1) to improve the state highway system; or\n\n(2) to mitigate adverse environmental effects that result directly from construction or maintenance of a state highway by the department.\n\n(b) Notwithstanding Section 222.103 (Cost Participation) , the department may not pledge or otherwise encumber money deposited in the state highway fund to:\n\n(1) guarantee a loan obtained by a public or private entity for costs associated with a toll facility of the public or private entity; or\n\n(2) insure bonds issued by a public or private entity for costs associated with a toll facility of the public or private entity.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 222. Funding & Fed. Aid\n##### § 222.001 — Use of State Highway Fund\n\n(a) Money that is required to be used for public roadways by the Texas Constitution or federal law and that is deposited in the state treasury to the credit of the state highway fund, including money deposited to the credit of the state highway fund under Title 23, United States Code, may be used only:\n\n    (1) to improve the state highway system; or\n\n    (2) to mitigate adverse environmental effects that result directly from construction or maintenance of a state highway by the department.\n\n(b) Notwithstanding Section 222.103 (Cost Participation) , the department may not pledge or otherwise encumber money deposited in the state highway fund to:\n\n    (1) guarantee a loan obtained by a public or private entity for costs associated with a toll facility of the public or private entity; or\n\n    (2) insure bonds issued by a public or private entity for costs associated with a toll facility of the public or private entity.\n\n*Acts 2015, 84th Leg., R.S., Ch. 314 (H.B.20), Sec. 5, eff. June 3, 2015.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Money that is required to be used for public roadways by the Texas Constitution or federal law and that is deposited in the state treasury to the credit of the state highway fund, including money deposited to the credit of the state highway fund under Title 23, United States Code, may be used only:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "to improve the state highway system; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "to mitigate adverse environmental effects that result directly from construction or maintenance of a state highway by the department.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding Section 222.103 (Cost Participation) , the department may not pledge or otherwise encumber money deposited in the state highway fund to:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "guarantee a loan obtained by a public or private entity for costs associated with a toll facility of the public or private entity; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "insure bonds issued by a public or private entity for costs associated with a toll facility of the public or private entity.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2015, 84th Leg., R.S., Ch. 314 (H.B.20), Sec. 5, eff. June 3, 2015.",
+    "action": null,
+    "statutes_year": 2015,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2015-06-03",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_222.001",
+  "source_path": "data/raw/tx_public_law/TN/222.001.html",
+  "content_sha256": "e428132540fc2ac60ed1cdd25c61f7d3277b470109b6859ce0e142baf30529f1",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

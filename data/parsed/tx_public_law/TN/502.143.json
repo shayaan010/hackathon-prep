@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "502.143",
+  "section_name": "Other Vehicles",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "502",
+  "chapter_title": "Registration of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "An owner may not register the following vehicles for operation on a public highway:\n\n(1) power sweepers;\n\n(2) motorized mobility devices;\n\n(3) electric personal assistive mobility devices; and\n\n(4) electric bicycles, as defined by Section 664.001 (Definitions) .\n\nTransferred, redesignated and amended from Transportation Code, Section 502.0073 by Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B. 2357 ), Sec. 102, eff. January 1, 2012.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 502. Registration of Vehicles\n##### § 502.143 — Other Vehicles\n\nAn owner may not register the following vehicles for operation on a public highway:\n\n    (1) power sweepers;\n\n    (2) motorized mobility devices;\n\n    (3) electric personal assistive mobility devices; and\n\n    (4) electric bicycles, as defined by Section 664.001 (Definitions) .\n\nTransferred, redesignated and amended from Transportation Code, Section 502.0073 by Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B. 2357 ), Sec. 102, eff. January 1, 2012.\n\n*Acts 2019, 86th Leg., R.S., Ch. 485 (H.B.2188), Sec. 1, eff. September 1, 2019.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "An owner may not register the following vehicles for operation on a public highway:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "power sweepers;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "motorized mobility devices;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "electric personal assistive mobility devices; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "electric bicycles, as defined by Section 664.001 (Definitions) .",
+      "depth_em": 1.0
+    },
+    {
+      "label": null,
+      "text": "Transferred, redesignated and amended from Transportation Code, Section 502.0073 by Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B. 2357 ), Sec. 102, eff. January 1, 2012.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2019, 86th Leg., R.S., Ch. 485 (H.B.2188), Sec. 1, eff. September 1, 2019.",
+    "action": null,
+    "statutes_year": 2019,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2019-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_502.143",
+  "source_path": "data/raw/tx_public_law/TN/502.143.html",
+  "content_sha256": "72a639e7f81f11f5da42121ff2e7bd27fd90a6050b2306dd800baaf4a02899af",
+  "parsed_at": "2026-05-09T18:14:00+00:00",
+  "parser_version": "1"
+}

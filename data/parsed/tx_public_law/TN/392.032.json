@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "392.032",
+  "section_name": "Offense",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "392",
+  "chapter_title": "Highway Beautification on State Highway Right-of-way",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person may not place or maintain a sign on a state highway right-of-way unless authorized by state law.\n\n(b) A person commits an offense if the person violates this section.\n\n(c) An offense under this section is a Class C misdemeanor.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 392. Highway Beautification on State Highway Right-of-way\n##### § 392.032 — Offense\n\n(a) A person may not place or maintain a sign on a state highway right-of-way unless authorized by state law.\n\n(b) A person commits an offense if the person violates this section.\n\n(c) An offense under this section is a Class C misdemeanor.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person may not place or maintain a sign on a state highway right-of-way unless authorized by state law.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person commits an offense if the person violates this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "An offense under this section is a Class C misdemeanor.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_392.032",
+  "source_path": "data/raw/tx_public_law/TN/392.032.html",
+  "content_sha256": "41b2ab4dce07693b1edd8250eab4cb03faf007e47903159c695925a4c20bda63",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

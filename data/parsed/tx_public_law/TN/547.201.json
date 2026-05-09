@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.201",
+  "section_name": "Offenses Relating to the Offer, Distribution, and Sale of Vehicle Equipment",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person may not offer or distribute for sale or sell an item of vehicle equipment for which a standard is prescribed by this chapter or the department and that does not comply with the standard. It is an affirmative defense to prosecution under this subsection that the person did not have reason to know in the exercise of due care that the item did not comply with the applicable standard.\n\n(b) A person may not offer or distribute for sale or sell an item of vehicle equipment for which a standard is prescribed by this chapter or the department, unless the item or its package:\n\n(1) bears the manufacturer’s trademark or brand name; or\n\n(2) complies with each applicable identification requirement established by an agency of the United States or the department.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.201 — Offenses Relating to the Offer, Distribution, and Sale of Vehicle Equipment\n\n(a) A person may not offer or distribute for sale or sell an item of vehicle equipment for which a standard is prescribed by this chapter or the department and that does not comply with the standard. It is an affirmative defense to prosecution under this subsection that the person did not have reason to know in the exercise of due care that the item did not comply with the applicable standard.\n\n(b) A person may not offer or distribute for sale or sell an item of vehicle equipment for which a standard is prescribed by this chapter or the department, unless the item or its package:\n\n    (1) bears the manufacturer’s trademark or brand name; or\n\n    (2) complies with each applicable identification requirement established by an agency of the United States or the department.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person may not offer or distribute for sale or sell an item of vehicle equipment for which a standard is prescribed by this chapter or the department and that does not comply with the standard. It is an affirmative defense to prosecution under this subsection that the person did not have reason to know in the exercise of due care that the item did not comply with the applicable standard.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person may not offer or distribute for sale or sell an item of vehicle equipment for which a standard is prescribed by this chapter or the department, unless the item or its package:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "bears the manufacturer’s trademark or brand name; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "complies with each applicable identification requirement established by an agency of the United States or the department.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.201",
+  "source_path": "data/raw/tx_public_law/TN/547.201.html",
+  "content_sha256": "9951a37b63a6d06981fba289ff575e9f2f83000b84b46b328ff611e56d8b4574",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

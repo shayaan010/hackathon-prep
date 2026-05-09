@@ -1,0 +1,88 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "545.101",
+  "section_name": "Turning at Intersection",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "545",
+  "chapter_title": "Operation & Movement of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) To make a right turn at an intersection, an operator shall make both the approach and the turn as closely as practicable to the right-hand curb or edge of the roadway.\n\n(b) To make a left turn at an intersection, an operator shall:\n\n(1) approach the intersection in the extreme left-hand lane lawfully available to a vehicle moving in the direction of the vehicle; and\n\n(2) after entering the intersection, turn left, leaving the intersection so as to arrive in a lane lawfully available to traffic moving in the direction of the vehicle on the roadway being entered.\n\n(c) On a street or roadway designated for two-way traffic, the operator turning left shall, to the extent practicable, turn in the portion of the intersection to the left of the center of the intersection.\n\n(d) To turn left, an operator who is approaching an intersection having a roadway designated for one-way traffic and for which signs are posted from a roadway designated for one-way traffic and for which signs are posted shall make the turn as closely as practicable to the left-hand curb or edge of the roadway.\n\n(e) The Texas Transportation Commission or a local authority, with respect to a highway in its jurisdiction, may:\n\n(1) authorize the placement of an official traffic-control device in or adjacent to an intersection; and\n\n(2) require a course different from that specified in this section for movement by vehicles turning at an intersection.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 545. Operation & Movement of Vehicles\n##### § 545.101 — Turning at Intersection\n\n(a) To make a right turn at an intersection, an operator shall make both the approach and the turn as closely as practicable to the right-hand curb or edge of the roadway.\n\n(b) To make a left turn at an intersection, an operator shall:\n\n    (1) approach the intersection in the extreme left-hand lane lawfully available to a vehicle moving in the direction of the vehicle; and\n\n    (2) after entering the intersection, turn left, leaving the intersection so as to arrive in a lane lawfully available to traffic moving in the direction of the vehicle on the roadway being entered.\n\n(c) On a street or roadway designated for two-way traffic, the operator turning left shall, to the extent practicable, turn in the portion of the intersection to the left of the center of the intersection.\n\n(d) To turn left, an operator who is approaching an intersection having a roadway designated for one-way traffic and for which signs are posted from a roadway designated for one-way traffic and for which signs are posted shall make the turn as closely as practicable to the left-hand curb or edge of the roadway.\n\n(e) The Texas Transportation Commission or a local authority, with respect to a highway in its jurisdiction, may:\n\n    (1) authorize the placement of an official traffic-control device in or adjacent to an intersection; and\n\n    (2) require a course different from that specified in this section for movement by vehicles turning at an intersection.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "To make a right turn at an intersection, an operator shall make both the approach and the turn as closely as practicable to the right-hand curb or edge of the roadway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "To make a left turn at an intersection, an operator shall:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "approach the intersection in the extreme left-hand lane lawfully available to a vehicle moving in the direction of the vehicle; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "after entering the intersection, turn left, leaving the intersection so as to arrive in a lane lawfully available to traffic moving in the direction of the vehicle on the roadway being entered.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "On a street or roadway designated for two-way traffic, the operator turning left shall, to the extent practicable, turn in the portion of the intersection to the left of the center of the intersection.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "To turn left, an operator who is approaching an intersection having a roadway designated for one-way traffic and for which signs are posted from a roadway designated for one-way traffic and for which signs are posted shall make the turn as closely as practicable to the left-hand curb or edge of the roadway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "The Texas Transportation Commission or a local authority, with respect to a highway in its jurisdiction, may:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "authorize the placement of an official traffic-control device in or adjacent to an intersection; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "require a course different from that specified in this section for movement by vehicles turning at an intersection.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_545.101",
+  "source_path": "data/raw/tx_public_law/TN/545.101.html",
+  "content_sha256": "2f0f95e45a924f15f06320313826285123234643932935eb7e7d1318896fdb1e",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

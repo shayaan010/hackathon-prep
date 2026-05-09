@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "501.158",
+  "section_name": "Seizure of Stolen Vehicle or Vehicle with Altered Vehicle Identification Number",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "501",
+  "chapter_title": "Certificate of Title Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A peace officer may seize a vehicle or part of a vehicle without a warrant if the officer has probable cause to believe that the vehicle or part:\n\n(1) is stolen; or\n\n(2) has had the serial number removed, altered, or obliterated.\n\n(b) A vehicle or part seized under this section may be treated as stolen property for purposes of custody and disposition of the vehicle or part.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 501. Certificate of Title Act\n##### § 501.158 — Seizure of Stolen Vehicle or Vehicle with Altered Vehicle Identification Number\n\n(a) A peace officer may seize a vehicle or part of a vehicle without a warrant if the officer has probable cause to believe that the vehicle or part:\n\n    (1) is stolen; or\n\n    (2) has had the serial number removed, altered, or obliterated.\n\n(b) A vehicle or part seized under this section may be treated as stolen property for purposes of custody and disposition of the vehicle or part.\n\n*Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 67, eff. January 1, 2012.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A peace officer may seize a vehicle or part of a vehicle without a warrant if the officer has probable cause to believe that the vehicle or part:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "is stolen; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "has had the serial number removed, altered, or obliterated.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A vehicle or part seized under this section may be treated as stolen property for purposes of custody and disposition of the vehicle or part.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 67, eff. January 1, 2012.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_501.158",
+  "source_path": "data/raw/tx_public_law/TN/501.158.html",
+  "content_sha256": "c861ec25d412fd466d4f872a34be696adb5de80be884ec138429e34792dd92fa",
+  "parsed_at": "2026-05-09T18:14:00+00:00",
+  "parser_version": "1"
+}

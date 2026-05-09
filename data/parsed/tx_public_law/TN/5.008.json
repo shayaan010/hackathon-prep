@@ -1,0 +1,78 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "5.008",
+  "section_name": "Care of Livestock",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "5",
+  "chapter_title": "Duties & Liabilities of Common Carriers",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "2",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Unless otherwise provided by special contract, a common carrier transporting livestock shall feed and water the animals until the animals are:\n\n(1) delivered to the consignee; or\n\n(2) disposed of as provided by this title or other law.\n\n(b) A common carrier that violates Subsection (a) is liable:\n\n(1) for damages to a person injured by the violation; and\n\n(2) to the owner of the livestock for a penalty of not less than $5 or more than $500.\n\n(c) An action by an owner under Subsection (b)(2) must be brought in any county in which the damages occur or the carrier resides.",
+  "markdown": "# Transp. Code\n## Title 2\n### Chapter 5. Duties & Liabilities of Common Carriers\n##### § 5.008 — Care of Livestock\n\n(a) Unless otherwise provided by special contract, a common carrier transporting livestock shall feed and water the animals until the animals are:\n\n    (1) delivered to the consignee; or\n\n    (2) disposed of as provided by this title or other law.\n\n(b) A common carrier that violates Subsection (a) is liable:\n\n    (1) for damages to a person injured by the violation; and\n\n    (2) to the owner of the livestock for a penalty of not less than $5 or more than $500.\n\n(c) An action by an owner under Subsection (b)(2) must be brought in any county in which the damages occur or the carrier resides.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Unless otherwise provided by special contract, a common carrier transporting livestock shall feed and water the animals until the animals are:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "delivered to the consignee; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "disposed of as provided by this title or other law.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A common carrier that violates Subsection (a) is liable:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "for damages to a person injured by the violation; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "to the owner of the livestock for a penalty of not less than $5 or more than $500.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "An action by an owner under Subsection (b)(2) must be brought in any county in which the damages occur or the carrier resides.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_5.008",
+  "source_path": "data/raw/tx_public_law/TN/5.008.html",
+  "content_sha256": "d4ad4bc92198bbcee88963de055a3d1396360b46548a4bd3ba84f9053771a407",
+  "parsed_at": "2026-05-09T18:04:55+00:00",
+  "parser_version": "1"
+}

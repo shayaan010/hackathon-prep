@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.426",
+  "section_name": "Disabled Veteran Exemption",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Except as provided by Subsection (c), a veteran of service in the armed forces of the United States is exempt from the payment of fees under this chapter for the issuance of a driver’s license or personal identification certificate if the veteran:\n\n(1) was honorably discharged;\n\n(2) has a service-related disability of at least 60 percent; and\n\n(3) receives compensation from the United States because of the disability.\n\n(b) The department shall adopt rules relating to the proof of entitlement to this exemption.\n\n(c) Subsection (a) does not apply to a person subject to the registration requirements of Chapter 62 (Sex Offender Registration Program) , Code of Criminal Procedure.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.426 — Disabled Veteran Exemption\n\n(a) Except as provided by Subsection (c), a veteran of service in the armed forces of the United States is exempt from the payment of fees under this chapter for the issuance of a driver’s license or personal identification certificate if the veteran:\n\n    (1) was honorably discharged;\n\n    (2) has a service-related disability of at least 60 percent; and\n\n    (3) receives compensation from the United States because of the disability.\n\n(b) The department shall adopt rules relating to the proof of entitlement to this exemption.\n\n(c) Subsection (a) does not apply to a person subject to the registration requirements of Chapter 62 (Sex Offender Registration Program) , Code of Criminal Procedure.\n\n*Acts 2011, 82nd Leg., R.S., Ch. 1133 (H.B.1148), Sec. 1, eff. September 1, 2011.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided by Subsection (c), a veteran of service in the armed forces of the United States is exempt from the payment of fees under this chapter for the issuance of a driver’s license or personal identification certificate if the veteran:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "was honorably discharged;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "has a service-related disability of at least 60 percent; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "receives compensation from the United States because of the disability.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall adopt rules relating to the proof of entitlement to this exemption.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Subsection (a) does not apply to a person subject to the registration requirements of Chapter 62 (Sex Offender Registration Program) , Code of Criminal Procedure.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., R.S., Ch. 1133 (H.B.1148), Sec. 1, eff. September 1, 2011.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2011-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.426",
+  "source_path": "data/raw/tx_public_law/TN/521.426.html",
+  "content_sha256": "b41f8565d80a3a451a4dfc67865ce6450d9d4bf139559631c0bfdeeed2d408b9",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

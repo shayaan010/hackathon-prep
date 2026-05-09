@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "643.051",
+  "section_name": "Registration Required",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "643",
+  "chapter_title": "Motor Carrier Registration",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A motor carrier may not operate a commercial motor vehicle, as defined by Section 548.001 (Definitions) , on a road or highway of this state unless the carrier registers with the department under this subchapter.\n\n(b) A motor carrier may not operate a vehicle, regardless of size of the vehicle, to transport household goods for compensation unless the carrier registers with the department under this subchapter.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 643. Motor Carrier Registration\n##### § 643.051 — Registration Required\n\n(a) A motor carrier may not operate a commercial motor vehicle, as defined by Section 548.001 (Definitions) , on a road or highway of this state unless the carrier registers with the department under this subchapter.\n\n(b) A motor carrier may not operate a vehicle, regardless of size of the vehicle, to transport household goods for compensation unless the carrier registers with the department under this subchapter.\n\n*Acts 2007, 80th Leg., R.S., Ch. 1046 (H.B.2094), Sec. 3.07, eff. September 1, 2007.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A motor carrier may not operate a commercial motor vehicle, as defined by Section 548.001 (Definitions) , on a road or highway of this state unless the carrier registers with the department under this subchapter.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A motor carrier may not operate a vehicle, regardless of size of the vehicle, to transport household goods for compensation unless the carrier registers with the department under this subchapter.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2007, 80th Leg., R.S., Ch. 1046 (H.B.2094), Sec. 3.07, eff. September 1, 2007.",
+    "action": null,
+    "statutes_year": 2007,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2007-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_643.051",
+  "source_path": "data/raw/tx_public_law/TN/643.051.html",
+  "content_sha256": "999462e7f86ad0ecfe3d4cfc92144accac66c7ce178110754d663a9b90d1d2a4",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "1001.003",
+  "section_name": "Composition of Department",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "1001",
+  "chapter_title": "Org. of Dept.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "The department is composed of an executive director appointed by the board and other employees required to efficiently implement:\n\n(1) this subtitle;\n\n(2) other applicable vehicle laws of this state; and\n\n(3) other laws that grant jurisdiction to or are applicable to the department.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 1001. Org. of Dept.\n##### § 1001.003 — Composition of Department\n\nThe department is composed of an executive director appointed by the board and other employees required to efficiently implement:\n\n    (1) this subtitle;\n\n    (2) other applicable vehicle laws of this state; and\n\n    (3) other laws that grant jurisdiction to or are applicable to the department.\n\n*Added by Acts 2009, 81st Leg., R.S., Ch. 933 (H.B.3097), Sec. 1.01, eff. September 1, 2009.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department is composed of an executive director appointed by the board and other employees required to efficiently implement:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "this subtitle;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "other applicable vehicle laws of this state; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "other laws that grant jurisdiction to or are applicable to the department.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2009, 81st Leg., R.S., Ch. 933 (H.B.3097), Sec. 1.01, eff. September 1, 2009.",
+    "action": "Added",
+    "statutes_year": 2009,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2009-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_1001.003",
+  "source_path": "data/raw/tx_public_law/TN/1001.003.html",
+  "content_sha256": "f4edff29295ffc6b6bc7bf3d36aee28291b8ba78b22a5b39f1d921d651308113",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

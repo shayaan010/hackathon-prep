@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "501.135",
+  "section_name": "Record of Stolen or Concealed Motor Vehicle",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "501",
+  "chapter_title": "Certificate of Title Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department shall:\n\n(1) make a record of each report to the department that a motor vehicle registered in this state has been stolen or concealed in violation of Section 32.33 (Hindering Secured Creditors) , Penal Code; and\n\n(2) note the fact of the report in the department’s records.\n\n(b) A person who reports a motor vehicle as stolen or concealed under Subsection (a) shall notify the department promptly if the vehicle is recovered, and the department shall change its records accordingly.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 501. Certificate of Title Act\n##### § 501.135 — Record of Stolen or Concealed Motor Vehicle\n\n(a) The department shall:\n\n    (1) make a record of each report to the department that a motor vehicle registered in this state has been stolen or concealed in violation of Section 32.33 (Hindering Secured Creditors) , Penal Code; and\n\n    (2) note the fact of the report in the department’s records.\n\n(b) A person who reports a motor vehicle as stolen or concealed under Subsection (a) shall notify the department promptly if the vehicle is recovered, and the department shall change its records accordingly.\n\n*Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 57, eff. January 1, 2012.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "make a record of each report to the department that a motor vehicle registered in this state has been stolen or concealed in violation of Section 32.33 (Hindering Secured Creditors) , Penal Code; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "note the fact of the report in the department’s records.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A person who reports a motor vehicle as stolen or concealed under Subsection (a) shall notify the department promptly if the vehicle is recovered, and the department shall change its records accordingly.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 57, eff. January 1, 2012.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_501.135",
+  "source_path": "data/raw/tx_public_law/TN/501.135.html",
+  "content_sha256": "8fa183b4794ebd4901099ffa843caf6e5c728bac84578db72acd8e4682835c7e",
+  "parsed_at": "2026-05-09T18:14:00+00:00",
+  "parser_version": "1"
+}

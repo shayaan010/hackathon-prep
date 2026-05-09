@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "545.407",
+  "section_name": "Following or Obstructing Fire Apparatus or Ambulance",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "545",
+  "chapter_title": "Operation & Movement of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) An operator, unless on official business, may not follow closer than 500 feet a fire apparatus responding to a fire alarm or drive into or park the vehicle in the block where the fire apparatus has stopped to answer a fire alarm.\n\n(b) An operator may not:\n\n(1) follow closer than 500 feet an ambulance that is flashing red lights unless the operator is on official business; or\n\n(2) drive or park the vehicle where an ambulance has been summoned for an emergency call in a manner intended to interfere with the arrival or departure of the ambulance.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 545. Operation & Movement of Vehicles\n##### § 545.407 — Following or Obstructing Fire Apparatus or Ambulance\n\n(a) An operator, unless on official business, may not follow closer than 500 feet a fire apparatus responding to a fire alarm or drive into or park the vehicle in the block where the fire apparatus has stopped to answer a fire alarm.\n\n(b) An operator may not:\n\n    (1) follow closer than 500 feet an ambulance that is flashing red lights unless the operator is on official business; or\n\n    (2) drive or park the vehicle where an ambulance has been summoned for an emergency call in a manner intended to interfere with the arrival or departure of the ambulance.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "An operator, unless on official business, may not follow closer than 500 feet a fire apparatus responding to a fire alarm or drive into or park the vehicle in the block where the fire apparatus has stopped to answer a fire alarm.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An operator may not:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "follow closer than 500 feet an ambulance that is flashing red lights unless the operator is on official business; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "drive or park the vehicle where an ambulance has been summoned for an emergency call in a manner intended to interfere with the arrival or departure of the ambulance.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_545.407",
+  "source_path": "data/raw/tx_public_law/TN/545.407.html",
+  "content_sha256": "149755da6ff7474ec2a2fcff2a95e47c6e92208a5157b123707b30afbf198ce8",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

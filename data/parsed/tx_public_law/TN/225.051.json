@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "225.051",
+  "section_name": "Cesar Chavez Border Highway",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "225",
+  "chapter_title": "State Highway Names",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Loop 375 between Interstate Highway 10 and Santa Fe Street in El Paso County is designated as the Cesar Chavez Border Highway.\n\n(b) The department shall design and construct markers indicating the highway number, the designation as the Cesar Chavez Border Highway, and any other appropriate information.\n\n(c) The department shall erect a marker at each end of the highway and at appropriate intermediate sites along the highway.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 225. State Highway Names\n##### § 225.051 — Cesar Chavez Border Highway\n\n(a) Loop 375 between Interstate Highway 10 and Santa Fe Street in El Paso County is designated as the Cesar Chavez Border Highway.\n\n(b) The department shall design and construct markers indicating the highway number, the designation as the Cesar Chavez Border Highway, and any other appropriate information.\n\n(c) The department shall erect a marker at each end of the highway and at appropriate intermediate sites along the highway.\n\n*Acts 2007, 80th Leg., R.S., Ch. 1160 (H.B.53), Sec. 3, eff. June 15, 2007.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Loop 375 between Interstate Highway 10 and Santa Fe Street in El Paso County is designated as the Cesar Chavez Border Highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall design and construct markers indicating the highway number, the designation as the Cesar Chavez Border Highway, and any other appropriate information.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The department shall erect a marker at each end of the highway and at appropriate intermediate sites along the highway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2007, 80th Leg., R.S., Ch. 1160 (H.B.53), Sec. 3, eff. June 15, 2007.",
+    "action": null,
+    "statutes_year": 2007,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2007-06-15",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_225.051",
+  "source_path": "data/raw/tx_public_law/TN/225.051.html",
+  "content_sha256": "efd1b115e0c23151455dbec13dfadd450e4854737f51a87cdc94c91d61dce6f8",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

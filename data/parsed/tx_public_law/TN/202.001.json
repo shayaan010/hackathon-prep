@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "202.001",
+  "section_name": "Administration",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "202",
+  "chapter_title": "Control of Transp. Assets",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The commission may maintain state highways.\n\n(b) A county is:\n\n(1) not liable for expenses associated with the maintenance of a state highway; and\n\n(2) not responsible for the supervision of a state highway.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 202. Control of Transp. Assets\n##### § 202.001 — Administration\n\n(a) The commission may maintain state highways.\n\n(b) A county is:\n\n    (1) not liable for expenses associated with the maintenance of a state highway; and\n\n    (2) not responsible for the supervision of a state highway.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The commission may maintain state highways.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A county is:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "not liable for expenses associated with the maintenance of a state highway; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "not responsible for the supervision of a state highway.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_202.001",
+  "source_path": "data/raw/tx_public_law/TN/202.001.html",
+  "content_sha256": "984c95d755b67220e2743acafcbc334bc90e850874cea30ff5dc85c1b52bbeac",
+  "parsed_at": "2026-05-09T18:13:58+00:00",
+  "parser_version": "1"
+}

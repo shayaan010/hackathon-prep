@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "731.053",
+  "section_name": "Certificate of Title Requirements",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "731",
+  "chapter_title": "Assembled Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The title for an assembled vehicle that has never been titled in this state or any other jurisdiction must:\n\n(1) list the owner of the assembled vehicle as the purchaser;\n\n(2) contain the notation “NONE” in the space for the seller’s name;\n\n(3) list the municipality and state in which the vehicle was completed in the space for the seller’s municipality and state; and\n\n(4) contain the odometer reading and the notation “NOT ACTUAL MILEAGE”.\n\n(b) Except as provided by Subsection (a), a title issued for an assembled vehicle must contain all of the information required under Section 501.021 (Title for Motor Vehicle) .",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 731. Assembled Vehicles\n##### § 731.053 — Certificate of Title Requirements\n\n(a) The title for an assembled vehicle that has never been titled in this state or any other jurisdiction must:\n\n    (1) list the owner of the assembled vehicle as the purchaser;\n\n    (2) contain the notation “NONE” in the space for the seller’s name;\n\n    (3) list the municipality and state in which the vehicle was completed in the space for the seller’s municipality and state; and\n\n    (4) contain the odometer reading and the notation “NOT ACTUAL MILEAGE”.\n\n(b) Except as provided by Subsection (a), a title issued for an assembled vehicle must contain all of the information required under Section 501.021 (Title for Motor Vehicle) .\n\n*Added by Acts 2019, 86th Leg., R.S., Ch. 1079 (H.B.1755), Sec. 3, eff. September 1, 2019.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The title for an assembled vehicle that has never been titled in this state or any other jurisdiction must:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "list the owner of the assembled vehicle as the purchaser;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "contain the notation “NONE” in the space for the seller’s name;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "list the municipality and state in which the vehicle was completed in the space for the seller’s municipality and state; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "contain the odometer reading and the notation “NOT ACTUAL MILEAGE”.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Except as provided by Subsection (a), a title issued for an assembled vehicle must contain all of the information required under Section 501.021 (Title for Motor Vehicle) .",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2019, 86th Leg., R.S., Ch. 1079 (H.B.1755), Sec. 3, eff. September 1, 2019.",
+    "action": "Added",
+    "statutes_year": 2019,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2019-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_731.053",
+  "source_path": "data/raw/tx_public_law/TN/731.053.html",
+  "content_sha256": "1b2da77432b69189f781c5fab4a1db616d8ce642ecb908bfd5f0b328a3acaca7",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

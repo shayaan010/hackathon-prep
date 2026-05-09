@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "1694",
+  "section_name": "Disclosures",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "44",
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "8",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "A TNC shall disclose in writing to TNC drivers the following before they are allowed to accept a request for a TNC prearranged trip on the TNC’s digital network:\n\n(1) The insurance coverage, including the types of coverage and the limits for each coverage, that the TNC provides while the TNC driver uses a TNC vehicle in connection with a TNC’s digital network;\n\n(2) That the TNC driver’s own automobile insurance policy might not provide any coverage while the TNC driver is logged on to the TNC’s digital network or is engaged in a TNC prearranged trip, depending on its terms; and\n\n(3) That, if a TNC vehicle has a lien against it, then the continued use of such TNC vehicle by its TNC driver without physical damage coverage may violate the terms of the contract with the lienholder.",
+  "markdown": "# Vehicle & Traffic Law\n## Title 8\n#### Article 44\n##### § 1694 — Disclosures\n\nA TNC shall disclose in writing to TNC drivers the following before they are allowed to accept a request for a TNC prearranged trip on the TNC’s digital network:\n\n(1) The insurance coverage, including the types of coverage and the limits for each coverage, that the TNC provides while the TNC driver uses a TNC vehicle in connection with a TNC’s digital network;\n\n(2) That the TNC driver’s own automobile insurance policy might not provide any coverage while the TNC driver is logged on to the TNC’s digital network or is engaged in a TNC prearranged trip, depending on its terms; and\n\n(3) That, if a TNC vehicle has a lien against it, then the continued use of such TNC vehicle by its TNC driver without physical damage coverage may violate the terms of the contract with the lienholder.\n\n*Last modified: Jun. 30, 2017*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A TNC shall disclose in writing to TNC drivers the following before they are allowed to accept a request for a TNC prearranged trip on the TNC’s digital network:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The insurance coverage, including the types of coverage and the limits for each coverage, that the TNC provides while the TNC driver uses a TNC vehicle in connection with a TNC’s digital network;",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "That the TNC driver’s own automobile insurance policy might not provide any coverage while the TNC driver is logged on to the TNC’s digital network or is engaged in a TNC prearranged trip, depending on its terms; and",
+      "depth_em": 0.0
+    },
+    {
+      "label": "3",
+      "text": "That, if a TNC vehicle has a lien against it, then the continued use of such TNC vehicle by its TNC driver without physical damage coverage may violate the terms of the contract with the lienholder.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Jun. 30, 2017",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2017-06-30",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_1694",
+  "source_path": "data/raw/ny_public_law/VAT/1694.html",
+  "content_sha256": "42031c4126eaae40b45bae8bcf9eb60b1272e7cf81634665afb7b3ff2a0bf953",
+  "parsed_at": "2026-05-09T18:04:55+00:00",
+  "parser_version": "1"
+}

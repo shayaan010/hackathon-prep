@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "21.105",
+  "section_name": "Requirements for Loan or Grant",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "21",
+  "chapter_title": "Admin. of Aeronautics",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "3",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The commission may not approve a loan that bears interest of less than three percent annually or that has a term that exceeds 20 years.\n\n(b) Before approving a loan or grant, the commission shall require that:\n\n(1) the airport or facility remain in the control of each political subdivision involved for at least 20 years;\n\n(2) the political subdivision disclose the source of all funds for the project and the political subdivision’s ability to finance and operate the project;\n\n(3) at least 10 percent of the total project cost be provided by sources other than the state; and\n\n(4) the project be adequately planned.",
+  "markdown": "# Transp. Code\n## Title 3\n### Chapter 21. Admin. of Aeronautics\n##### § 21.105 — Requirements for Loan or Grant\n\n(a) The commission may not approve a loan that bears interest of less than three percent annually or that has a term that exceeds 20 years.\n\n(b) Before approving a loan or grant, the commission shall require that:\n\n    (1) the airport or facility remain in the control of each political subdivision involved for at least 20 years;\n\n    (2) the political subdivision disclose the source of all funds for the project and the political subdivision’s ability to finance and operate the project;\n\n    (3) at least 10 percent of the total project cost be provided by sources other than the state; and\n\n    (4) the project be adequately planned.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The commission may not approve a loan that bears interest of less than three percent annually or that has a term that exceeds 20 years.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Before approving a loan or grant, the commission shall require that:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the airport or facility remain in the control of each political subdivision involved for at least 20 years;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the political subdivision disclose the source of all funds for the project and the political subdivision’s ability to finance and operate the project;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "at least 10 percent of the total project cost be provided by sources other than the state; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "the project be adequately planned.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_21.105",
+  "source_path": "data/raw/tx_public_law/TN/21.105.html",
+  "content_sha256": "2d84f7a32a2957410300b447f83b03c7a7acbf9adf82ebef5a4050e2e57d8e7f",
+  "parsed_at": "2026-05-09T18:04:55+00:00",
+  "parser_version": "1"
+}

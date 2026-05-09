@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "683.073",
+  "section_name": "Offense",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "683",
+  "chapter_title": "Abandoned Motor Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person commits an offense if the person maintains a public nuisance described by Section 683.072 (Junked Vehicle Declared to Be Public Nuisance) .\n\n(b) An offense under this section is a misdemeanor punishable by a fine not to exceed $200.\n\n(c) The court shall order abatement and removal of the nuisance on conviction.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 683. Abandoned Motor Vehicles\n##### § 683.073 — Offense\n\n(a) A person commits an offense if the person maintains a public nuisance described by Section 683.072 (Junked Vehicle Declared to Be Public Nuisance) .\n\n(b) An offense under this section is a misdemeanor punishable by a fine not to exceed $200.\n\n(c) The court shall order abatement and removal of the nuisance on conviction.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person commits an offense if the person maintains a public nuisance described by Section 683.072 (Junked Vehicle Declared to Be Public Nuisance) .",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An offense under this section is a misdemeanor punishable by a fine not to exceed $200.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The court shall order abatement and removal of the nuisance on conviction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_683.073",
+  "source_path": "data/raw/tx_public_law/TN/683.073.html",
+  "content_sha256": "87b0434539c8d7b4d24ff72d9e95a5b05ebd6505c4913776c69d9422f15bccf2",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

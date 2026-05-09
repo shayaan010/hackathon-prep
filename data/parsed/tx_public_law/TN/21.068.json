@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "21.068",
+  "section_name": "Engineering and Technical Services",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "21",
+  "chapter_title": "Admin. of Aeronautics",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "3",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department may provide engineering or technical services to any person in connection with aeronautical activities, including the planning, acquisition, construction, improvement, maintenance, or operation of an airport, air navigation facility, or other aeronautical activity, if providing the services is:\n\n(1) reasonably possible; and\n\n(2) in the interest of public safety and welfare.\n\n(b) The department may charge for a service under this section.",
+  "markdown": "# Transp. Code\n## Title 3\n### Chapter 21. Admin. of Aeronautics\n##### § 21.068 — Engineering and Technical Services\n\n(a) The department may provide engineering or technical services to any person in connection with aeronautical activities, including the planning, acquisition, construction, improvement, maintenance, or operation of an airport, air navigation facility, or other aeronautical activity, if providing the services is:\n\n    (1) reasonably possible; and\n\n    (2) in the interest of public safety and welfare.\n\n(b) The department may charge for a service under this section.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may provide engineering or technical services to any person in connection with aeronautical activities, including the planning, acquisition, construction, improvement, maintenance, or operation of an airport, air navigation facility, or other aeronautical activity, if providing the services is:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "reasonably possible; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "in the interest of public safety and welfare.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The department may charge for a service under this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_21.068",
+  "source_path": "data/raw/tx_public_law/TN/21.068.html",
+  "content_sha256": "41ddc43da95e94bc830846a55ba6def21257b99748a05c01e4f613a777d6b37b",
+  "parsed_at": "2026-05-09T18:04:55+00:00",
+  "parser_version": "1"
+}

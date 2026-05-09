@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "110",
+  "section_name": "Crosswalk",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "1",
+  "article_title": "Words & Phrases Defined",
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "1",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) That part of a roadway at an intersection included within the connections of the lateral lines of the sidewalks on opposite sides of the highway between the curbs or, in the absence of curbs, between the edges of the traversable roadway.\n\n(b) Any portion of a roadway at an intersection or elsewhere distinctly indicated for pedestrian crossing by lines or other markings on the surface.",
+  "markdown": "# Vehicle & Traffic Law\n## Title 1\n#### Article 1. Words & Phrases Defined\n##### § 110 — Crosswalk\n\n(a) That part of a roadway at an intersection included within the connections of the lateral lines of the sidewalks on opposite sides of the highway between the curbs or, in the absence of curbs, between the edges of the traversable roadway.\n\n(b) Any portion of a roadway at an intersection or elsewhere distinctly indicated for pedestrian crossing by lines or other markings on the surface.\n\n*Last modified: Sep. 22, 2014*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "That part of a roadway at an intersection included within the connections of the lateral lines of the sidewalks on opposite sides of the highway between the curbs or, in the absence of curbs, between the edges of the traversable roadway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any portion of a roadway at an intersection or elsewhere distinctly indicated for pedestrian crossing by lines or other markings on the surface.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Sep. 22, 2014",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2014-09-22",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_110",
+  "source_path": "data/raw/ny_public_law/VAT/110.html",
+  "content_sha256": "90a021b3a0b61008c54dacc4e1ed148fce81e320f1c97b984b76368f8a518827",
+  "parsed_at": "2026-05-09T18:04:54+00:00",
+  "parser_version": "1"
+}

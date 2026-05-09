@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "201.812",
+  "section_name": "Report on Completed Highway Construction Projects",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "201",
+  "chapter_title": "Gen. Provisions & Admin.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department shall semiannually publish on the department’s Internet website a report on all highway construction projects, listed by department district, that have been completed.\n\n(b) The report required by Subsection (a) must, for each project listed in the report:\n\n(1) specify whether the project was completed:\n\n(A) on schedule, ahead of schedule, or behind schedule; and\n\n(B) on budget, under budget, or over budget; and\n\n(2) include any change orders.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 201. Gen. Provisions & Admin.\n##### § 201.812 — Report on Completed Highway Construction Projects\n\n(a) The department shall semiannually publish on the department’s Internet website a report on all highway construction projects, listed by department district, that have been completed.\n\n(b) The report required by Subsection (a) must, for each project listed in the report:\n\n    (1) specify whether the project was completed:\n\n        (A) on schedule, ahead of schedule, or behind schedule; and\n\n        (B) on budget, under budget, or over budget; and\n\n    (2) include any change orders.\n\n*Added by Acts 2017, 85th Leg., R.S., Ch. 533 (S.B.312), Sec. 13, eff. September 1, 2017.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall semiannually publish on the department’s Internet website a report on all highway construction projects, listed by department district, that have been completed.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The report required by Subsection (a) must, for each project listed in the report:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "specify whether the project was completed:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "on schedule, ahead of schedule, or behind schedule; and",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "on budget, under budget, or over budget; and",
+      "depth_em": 2.0
+    },
+    {
+      "label": "2",
+      "text": "include any change orders.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2017, 85th Leg., R.S., Ch. 533 (S.B.312), Sec. 13, eff. September 1, 2017.",
+    "action": "Added",
+    "statutes_year": 2017,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2017-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_201.812",
+  "source_path": "data/raw/tx_public_law/TN/201.812.html",
+  "content_sha256": "91d7fe27750055954be7442f564ce94f5554aeca02806f5186546eb29f490ba5",
+  "parsed_at": "2026-05-09T18:13:58+00:00",
+  "parser_version": "1"
+}

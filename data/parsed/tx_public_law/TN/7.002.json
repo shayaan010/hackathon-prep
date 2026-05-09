@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "7.002",
+  "section_name": "Duties of Connecting Carrier",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "7",
+  "chapter_title": "Connecting Carriers",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "2",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "Each connecting carrier that transports freight is:\n\n(1) an agent of each other connecting carrier that transports the freight; and\n\n(2) considered to be under a contract with each other connecting carrier and the shipper to provide the safe and speedy transportation of the freight from its point of shipment to its destination.",
+  "markdown": "# Transp. Code\n## Title 2\n### Chapter 7. Connecting Carriers\n##### § 7.002 — Duties of Connecting Carrier\n\nEach connecting carrier that transports freight is:\n\n    (1) an agent of each other connecting carrier that transports the freight; and\n\n    (2) considered to be under a contract with each other connecting carrier and the shipper to provide the safe and speedy transportation of the freight from its point of shipment to its destination.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Each connecting carrier that transports freight is:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "an agent of each other connecting carrier that transports the freight; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "considered to be under a contract with each other connecting carrier and the shipper to provide the safe and speedy transportation of the freight from its point of shipment to its destination.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_7.002",
+  "source_path": "data/raw/tx_public_law/TN/7.002.html",
+  "content_sha256": "3235b1ad820507dba14146172f3e5a8492fde0c2ff81f56e2a8a0a955fa31a4b",
+  "parsed_at": "2026-05-09T18:04:55+00:00",
+  "parser_version": "1"
+}

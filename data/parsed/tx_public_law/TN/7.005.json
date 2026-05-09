@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "7.005",
+  "section_name": "Application of Chapter",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "7",
+  "chapter_title": "Connecting Carriers",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "2",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A provision in a contract that is contrary to this chapter is void.\n\n(b) This chapter applies regardless of whether the route of freight is chosen by the shipper or by the initial carrier.",
+  "markdown": "# Transp. Code\n## Title 2\n### Chapter 7. Connecting Carriers\n##### § 7.005 — Application of Chapter\n\n(a) A provision in a contract that is contrary to this chapter is void.\n\n(b) This chapter applies regardless of whether the route of freight is chosen by the shipper or by the initial carrier.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A provision in a contract that is contrary to this chapter is void.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This chapter applies regardless of whether the route of freight is chosen by the shipper or by the initial carrier.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_7.005",
+  "source_path": "data/raw/tx_public_law/TN/7.005.html",
+  "content_sha256": "a65ac7485e3158327a800c94f64f76d88def6e4d69381cc49ed30fd065f85884",
+  "parsed_at": "2026-05-09T18:04:55+00:00",
+  "parser_version": "1"
+}

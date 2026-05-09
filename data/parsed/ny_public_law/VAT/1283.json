@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "1283",
+  "section_name": "Clinging to vehicles",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "34",
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) No person operating an electric scooter shall attach such scooter, or himself or herself, to any vehicle being operated upon a roadway.\n\n(2) No vehicle operator shall knowingly permit any person to attach any electric scooter, or himself or herself, to such operator’s vehicle in violation of subdivision one of this section.",
+  "markdown": "# Vehicle & Traffic Law\n## Title 7\n#### Article 34\n##### § 1283 — Clinging to vehicles\n\n(1) No person operating an electric scooter shall attach such scooter, or himself or herself, to any vehicle being operated upon a roadway.\n\n(2) No vehicle operator shall knowingly permit any person to attach any electric scooter, or himself or herself, to such operator’s vehicle in violation of subdivision one of this section.\n\n*Last modified: Aug. 7, 2020*\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "No person operating an electric scooter shall attach such scooter, or himself or herself, to any vehicle being operated upon a roadway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "No vehicle operator shall knowingly permit any person to attach any electric scooter, or himself or herself, to such operator’s vehicle in violation of subdivision one of this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Aug. 7, 2020",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2020-08-07",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_1283",
+  "source_path": "data/raw/ny_public_law/VAT/1283.html",
+  "content_sha256": "6e93943b02faa09c2958abacd36da220de7a35ae534dfd9923200c783376b750",
+  "parsed_at": "2026-05-09T18:04:55+00:00",
+  "parser_version": "1"
+}

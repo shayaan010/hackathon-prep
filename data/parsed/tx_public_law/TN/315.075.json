@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "315.075",
+  "section_name": "Payment from Available Money",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "315",
+  "chapter_title": "Artificial Lighting",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The cost of lighting improvements made without a petition by property owners shall be paid by the municipality out of the municipality’s available money.\n\n(b) The amount paid by a municipality to a contractor under this section shall be reimbursed to the municipality by assessments against abutting property owners under this chapter.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 315. Artificial Lighting\n##### § 315.075 — Payment from Available Money\n\n(a) The cost of lighting improvements made without a petition by property owners shall be paid by the municipality out of the municipality’s available money.\n\n(b) The amount paid by a municipality to a contractor under this section shall be reimbursed to the municipality by assessments against abutting property owners under this chapter.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The cost of lighting improvements made without a petition by property owners shall be paid by the municipality out of the municipality’s available money.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The amount paid by a municipality to a contractor under this section shall be reimbursed to the municipality by assessments against abutting property owners under this chapter.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_315.075",
+  "source_path": "data/raw/tx_public_law/TN/315.075.html",
+  "content_sha256": "b23c543dc72d4aff50b215350bae7be61ed3dc138b26d0fc50fc63a5d7534ccf",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

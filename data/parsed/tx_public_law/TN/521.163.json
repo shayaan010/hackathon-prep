@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.163",
+  "section_name": "Reexamination",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The director may require the holder of a license to be reexamined if the director determines that the holder is incapable of safely operating a motor vehicle.\n\n(b) The reexamination shall be conducted in the license holder’s county of residence unless the holder and the director agree to a different location.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.163 — Reexamination\n\n(a) The director may require the holder of a license to be reexamined if the director determines that the holder is incapable of safely operating a motor vehicle.\n\n(b) The reexamination shall be conducted in the license holder’s county of residence unless the holder and the director agree to a different location.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The director may require the holder of a license to be reexamined if the director determines that the holder is incapable of safely operating a motor vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The reexamination shall be conducted in the license holder’s county of residence unless the holder and the director agree to a different location.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.163",
+  "source_path": "data/raw/tx_public_law/TN/521.163.html",
+  "content_sha256": "2795a8999b48ee7253c2545840c5c4c6a254de8a599f0b782ee2381b7c1c3279",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

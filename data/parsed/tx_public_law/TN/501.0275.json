@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "501.0275",
+  "section_name": "Issuance of Title for Unregistered Vehicle",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "501",
+  "chapter_title": "Certificate of Title Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department shall issue a title for a motor vehicle that complies with the other requirements under this chapter unless:\n\n(1) the vehicle is not registered for a reason other than a reason provided by Section 501.051 (Grounds for Refusal to Issue or for Revocation or Suspension of Title) (a)(6); and\n\n(2) the applicant does not provide evidence of financial responsibility that complies with Section 502.046 (Evidence of Financial Responsibility) .\n\n(b) On application for a title under this section, the applicant must surrender any license plates issued for the motor vehicle if the plates are not being transferred to another vehicle and any registration insignia for validation of those plates to the department.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 501. Certificate of Title Act\n##### § 501.0275 — Issuance of Title for Unregistered Vehicle\n\n(a) The department shall issue a title for a motor vehicle that complies with the other requirements under this chapter unless:\n\n    (1) the vehicle is not registered for a reason other than a reason provided by Section 501.051 (Grounds for Refusal to Issue or for Revocation or Suspension of Title) (a)(6); and\n\n    (2) the applicant does not provide evidence of financial responsibility that complies with Section 502.046 (Evidence of Financial Responsibility) .\n\n(b) On application for a title under this section, the applicant must surrender any license plates issued for the motor vehicle if the plates are not being transferred to another vehicle and any registration insignia for validation of those plates to the department.\n\n*Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 16, eff. January 1, 2012.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall issue a title for a motor vehicle that complies with the other requirements under this chapter unless:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the vehicle is not registered for a reason other than a reason provided by Section 501.051 (Grounds for Refusal to Issue or for Revocation or Suspension of Title) (a)(6); and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the applicant does not provide evidence of financial responsibility that complies with Section 502.046 (Evidence of Financial Responsibility) .",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "On application for a title under this section, the applicant must surrender any license plates issued for the motor vehicle if the plates are not being transferred to another vehicle and any registration insignia for validation of those plates to the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 16, eff. January 1, 2012.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_501.0275",
+  "source_path": "data/raw/tx_public_law/TN/501.0275.html",
+  "content_sha256": "50a828a70d3bbfeb1791689d1f75f1fa645c46ab4d22ddc8688b3dd7c3bed3ff",
+  "parsed_at": "2026-05-09T18:14:00+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "501.116",
+  "section_name": "Cancellation of Discharged Lien",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "501",
+  "chapter_title": "Certificate of Title Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "The department may cancel a discharged lien that has been recorded on a title for 10 years or more if the recorded lienholder:\n\n(1) does not exist; or\n\n(2) cannot be located for the owner to obtain a release of the lien.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 501. Certificate of Title Act\n##### § 501.116 — Cancellation of Discharged Lien\n\nThe department may cancel a discharged lien that has been recorded on a title for 10 years or more if the recorded lienholder:\n\n    (1) does not exist; or\n\n    (2) cannot be located for the owner to obtain a release of the lien.\n\n*Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 55, eff. January 1, 2012.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department may cancel a discharged lien that has been recorded on a title for 10 years or more if the recorded lienholder:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "does not exist; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "cannot be located for the owner to obtain a release of the lien.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 55, eff. January 1, 2012.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_501.116",
+  "source_path": "data/raw/tx_public_law/TN/501.116.html",
+  "content_sha256": "86c7d155357c28bd3565905b4b96807d9ea53aa63750d017e483afa7abd29f60",
+  "parsed_at": "2026-05-09T18:14:00+00:00",
+  "parser_version": "1"
+}

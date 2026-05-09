@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "544.004",
+  "section_name": "Compliance with Traffic-control Device",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "544",
+  "chapter_title": "Traffic Signs, Signals, & Markings",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The operator of a vehicle or streetcar shall comply with an applicable official traffic-control device placed as provided by this subtitle unless the person is:\n\n(1) otherwise directed by a traffic officer, police officer, or escort flagger; or\n\n(2) operating an authorized emergency vehicle and is subject to exceptions under this subtitle.\n\n(b) A provision of this subtitle requiring an official traffic-control device may not be enforced against an alleged violator if at the time and place of the alleged violation the device is not in proper position and sufficiently legible to an ordinarily observant person. A provision of this subtitle that does not require an official traffic-control device is effective regardless of whether a device is in place.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 544. Traffic Signs, Signals, & Markings\n##### § 544.004 — Compliance with Traffic-control Device\n\n(a) The operator of a vehicle or streetcar shall comply with an applicable official traffic-control device placed as provided by this subtitle unless the person is:\n\n    (1) otherwise directed by a traffic officer, police officer, or escort flagger; or\n\n    (2) operating an authorized emergency vehicle and is subject to exceptions under this subtitle.\n\n(b) A provision of this subtitle requiring an official traffic-control device may not be enforced against an alleged violator if at the time and place of the alleged violation the device is not in proper position and sufficiently legible to an ordinarily observant person. A provision of this subtitle that does not require an official traffic-control device is effective regardless of whether a device is in place.\n\n*Acts 2019, 86th Leg., R.S., Ch. 1129 (H.B.2620), Sec. 3, eff. September 1, 2019.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The operator of a vehicle or streetcar shall comply with an applicable official traffic-control device placed as provided by this subtitle unless the person is:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "otherwise directed by a traffic officer, police officer, or escort flagger; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "operating an authorized emergency vehicle and is subject to exceptions under this subtitle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A provision of this subtitle requiring an official traffic-control device may not be enforced against an alleged violator if at the time and place of the alleged violation the device is not in proper position and sufficiently legible to an ordinarily observant person. A provision of this subtitle that does not require an official traffic-control device is effective regardless of whether a device is in place.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2019, 86th Leg., R.S., Ch. 1129 (H.B.2620), Sec. 3, eff. September 1, 2019.",
+    "action": null,
+    "statutes_year": 2019,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2019-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_544.004",
+  "source_path": "data/raw/tx_public_law/TN/544.004.html",
+  "content_sha256": "6e0b4b7d5e88d9d992718de1d13308685b50b31e34b2de76d13ed43aad06f005",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

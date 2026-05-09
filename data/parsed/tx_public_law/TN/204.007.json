@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "204.007",
+  "section_name": "Private Contributions",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "204",
+  "chapter_title": "Travel Info.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department may accept a contribution from a private source for a purpose under Sections 204.001-204.006.\n\n(b) The department may deposit the contribution in one or more banks and use the contribution at its discretion according to the contributor’s wishes.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 204. Travel Info.\n##### § 204.007 — Private Contributions\n\n(a) The department may accept a contribution from a private source for a purpose under Sections 204.001-204.006.\n\n(b) The department may deposit the contribution in one or more banks and use the contribution at its discretion according to the contributor’s wishes.\n\n*Added by Acts 2003, 78th Leg., ch. 1276, Sec. 16.001(a), eff. Sept. 1, 2003.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may accept a contribution from a private source for a purpose under Sections 204.001-204.006.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department may deposit the contribution in one or more banks and use the contribution at its discretion according to the contributor’s wishes.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2003, 78th Leg., ch. 1276, Sec. 16.001(a), eff. Sept. 1, 2003.",
+    "action": "Added",
+    "statutes_year": 2003,
+    "chapter": "1276",
+    "section": "16.001",
+    "bill_number": null,
+    "effective_date": "2003-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_204.007",
+  "source_path": "data/raw/tx_public_law/TN/204.007.html",
+  "content_sha256": "829461c23e48941b6f659da456760c1ac6f872c060b1ddad094bdb75203bfd14",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

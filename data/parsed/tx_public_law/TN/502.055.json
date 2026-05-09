@@ -1,0 +1,103 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "502.055",
+  "section_name": "Determination of Weight and Seating Capacity",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "502",
+  "chapter_title": "Registration of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The weight, net weight, or gross weight of a vehicle, as determined by the department, is the correct weight for registration purposes, regardless of any other purported weight of the vehicle.\n\n(b) The department may require an applicant for registration under this chapter to provide the department with evidence of:\n\n(1) the manufacturer’s rated carrying capacity for the vehicle; or\n\n(2) the gross vehicle weight rating.\n\n(c) For the purposes of this section, the seating capacity of a bus is:\n\n(1) the manufacturer’s rated seating capacity, excluding the operator’s seat; or\n\n(2) if the manufacturer has not rated the vehicle for seating capacity, a number computed by allowing one passenger for each 16 inches of seating on the bus, excluding the operator’s seat.\n\n(d) For registration purposes:\n\n(1) the weight of a passenger car is the shipping weight of the car plus 100 pounds; and\n\n(2) the weight of a municipal bus or private bus is calculated by adding the following and rounding to the next highest 100 pounds:\n\n(A) the shipping weight of the bus; and\n\n(B) the seating capacity multiplied by 150 pounds.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 502. Registration of Vehicles\n##### § 502.055 — Determination of Weight and Seating Capacity\n\n(a) The weight, net weight, or gross weight of a vehicle, as determined by the department, is the correct weight for registration purposes, regardless of any other purported weight of the vehicle.\n\n(b) The department may require an applicant for registration under this chapter to provide the department with evidence of:\n\n    (1) the manufacturer’s rated carrying capacity for the vehicle; or\n\n    (2) the gross vehicle weight rating.\n\n(c) For the purposes of this section, the seating capacity of a bus is:\n\n    (1) the manufacturer’s rated seating capacity, excluding the operator’s seat; or\n\n    (2) if the manufacturer has not rated the vehicle for seating capacity, a number computed by allowing one passenger for each 16 inches of seating on the bus, excluding the operator’s seat.\n\n(d) For registration purposes:\n\n    (1) the weight of a passenger car is the shipping weight of the car plus 100 pounds; and\n\n    (2) the weight of a municipal bus or private bus is calculated by adding the following and rounding to the next highest 100 pounds:\n\n        (A) the shipping weight of the bus; and\n\n        (B) the seating capacity multiplied by 150 pounds.\n\n*Acts 2013, 83rd Leg., R.S., Ch. 1135 (H.B.2741), Sec. 67, eff. September 1, 2013.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The weight, net weight, or gross weight of a vehicle, as determined by the department, is the correct weight for registration purposes, regardless of any other purported weight of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department may require an applicant for registration under this chapter to provide the department with evidence of:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the manufacturer’s rated carrying capacity for the vehicle; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the gross vehicle weight rating.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "For the purposes of this section, the seating capacity of a bus is:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the manufacturer’s rated seating capacity, excluding the operator’s seat; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "if the manufacturer has not rated the vehicle for seating capacity, a number computed by allowing one passenger for each 16 inches of seating on the bus, excluding the operator’s seat.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "d",
+      "text": "For registration purposes:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the weight of a passenger car is the shipping weight of the car plus 100 pounds; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the weight of a municipal bus or private bus is calculated by adding the following and rounding to the next highest 100 pounds:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "the shipping weight of the bus; and",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "the seating capacity multiplied by 150 pounds.",
+      "depth_em": 2.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2013, 83rd Leg., R.S., Ch. 1135 (H.B.2741), Sec. 67, eff. September 1, 2013.",
+    "action": null,
+    "statutes_year": 2013,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2013-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_502.055",
+  "source_path": "data/raw/tx_public_law/TN/502.055.html",
+  "content_sha256": "6f14bc5e1d44b250cae1558581f62548e57da0fc122408f6d6fbe5947b6b7dfb",
+  "parsed_at": "2026-05-09T18:14:00+00:00",
+  "parser_version": "1"
+}

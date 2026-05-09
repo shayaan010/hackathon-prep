@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "541.202",
+  "section_name": "Rail Transportation",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "541",
+  "chapter_title": "Definitions",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "In this subtitle:\n\n(1) “Railroad” means a carrier that operates cars, other than streetcars, on stationary rails to transport persons or property.\n\n(2) “Railroad train” means a steam engine or electric or other motor with or without an attached car operated on rails, other than a streetcar.\n\n(3) “Streetcar” means a car, other than a railroad train, used to transport persons or property and operated on rails located primarily within a municipality.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 541. Definitions\n##### § 541.202 — Rail Transportation\n\nIn this subtitle:\n\n    (1) “Railroad” means a carrier that operates cars, other than streetcars, on stationary rails to transport persons or property.\n\n    (2) “Railroad train” means a steam engine or electric or other motor with or without an attached car operated on rails, other than a streetcar.\n\n    (3) “Streetcar” means a car, other than a railroad train, used to transport persons or property and operated on rails located primarily within a municipality.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In this subtitle:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "“Railroad” means a carrier that operates cars, other than streetcars, on stationary rails to transport persons or property.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "“Railroad train” means a steam engine or electric or other motor with or without an attached car operated on rails, other than a streetcar.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "“Streetcar” means a car, other than a railroad train, used to transport persons or property and operated on rails located primarily within a municipality.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_541.202",
+  "source_path": "data/raw/tx_public_law/TN/541.202.html",
+  "content_sha256": "61128d648d0b12ac203a934f8c80a215af460d00274f821d91abf2adbdd3db81",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

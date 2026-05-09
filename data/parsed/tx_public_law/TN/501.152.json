@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "501.152",
+  "section_name": "Sale or Offer Without Title Receipt or Title",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "501",
+  "chapter_title": "Certificate of Title Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Except as provided by this section, a person commits an offense if the person:\n\n(1) sells, offers to sell, or offers as security for an obligation a motor vehicle registered in this state; and\n\n(2) does not possess the title receipt or certificate of title for the vehicle.\n\n(b) It is not a violation of this section for the beneficial owner of a vehicle to sell or offer to sell a vehicle without having possession of the title to the vehicle if the sole reason he or she does not have possession of the title is that the title is in the possession of a lienholder who has not complied with the terms of Section 501.115 (Discharge of Lien) (a).",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 501. Certificate of Title Act\n##### § 501.152 — Sale or Offer Without Title Receipt or Title\n\n(a) Except as provided by this section, a person commits an offense if the person:\n\n    (1) sells, offers to sell, or offers as security for an obligation a motor vehicle registered in this state; and\n\n    (2) does not possess the title receipt or certificate of title for the vehicle.\n\n(b) It is not a violation of this section for the beneficial owner of a vehicle to sell or offer to sell a vehicle without having possession of the title to the vehicle if the sole reason he or she does not have possession of the title is that the title is in the possession of a lienholder who has not complied with the terms of Section 501.115 (Discharge of Lien) (a).\n\n*Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 63, eff. January 1, 2012.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided by this section, a person commits an offense if the person:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "sells, offers to sell, or offers as security for an obligation a motor vehicle registered in this state; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "does not possess the title receipt or certificate of title for the vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "It is not a violation of this section for the beneficial owner of a vehicle to sell or offer to sell a vehicle without having possession of the title to the vehicle if the sole reason he or she does not have possession of the title is that the title is in the possession of a lienholder who has not complied with the terms of Section 501.115 (Discharge of Lien) (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 63, eff. January 1, 2012.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_501.152",
+  "source_path": "data/raw/tx_public_law/TN/501.152.html",
+  "content_sha256": "ed3f440344f9490fc633efe58adefd1ea4ed6e2fd9dc02a79f0bc5d034a4f352",
+  "parsed_at": "2026-05-09T18:14:00+00:00",
+  "parser_version": "1"
+}

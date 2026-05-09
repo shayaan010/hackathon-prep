@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.1601",
+  "section_name": "Driver Education Required; Exception",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Subject to Subsection (b), the department may not issue a driver’s license to a person who is younger than 25 years of age unless the person submits to the department a driver education certificate issued under Chapter 1001 (Driver and Traffic Safety Education) , Education Code, that states that the person has completed and passed:\n\n(1) a driver education and traffic safety course conducted by an entity exempt from licensure under Section 1001.002 (Exemptions) , Education Code, or a driver education course approved by the Texas Department of Licensing and Regulation under Chapter 1001 (Driver and Traffic Safety Education) , Education Code; or\n\n(2) if the person is 18 years of age or older, a driver education course approved by the Texas Department of Licensing and Regulation under Section 1001.101 (Adult and Minor Driver Education Course Curriculum and Textbooks) or 1001.1015 (Adult Driver Education Course Curriculum and Educational Materials) , Education Code.\n\n(b) This section does not apply to a person who holds a valid driver’s license issued by another state.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.1601 — Driver Education Required; Exception\n\n(a) Subject to Subsection (b), the department may not issue a driver’s license to a person who is younger than 25 years of age unless the person submits to the department a driver education certificate issued under Chapter 1001 (Driver and Traffic Safety Education) , Education Code, that states that the person has completed and passed:\n\n    (1) a driver education and traffic safety course conducted by an entity exempt from licensure under Section 1001.002 (Exemptions) , Education Code, or a driver education course approved by the Texas Department of Licensing and Regulation under Chapter 1001 (Driver and Traffic Safety Education) , Education Code; or\n\n    (2) if the person is 18 years of age or older, a driver education course approved by the Texas Department of Licensing and Regulation under Section 1001.101 (Adult and Minor Driver Education Course Curriculum and Textbooks) or 1001.1015 (Adult Driver Education Course Curriculum and Educational Materials) , Education Code.\n\n(b) This section does not apply to a person who holds a valid driver’s license issued by another state.\n\n*Acts 2023, 88th Leg., R.S., Ch. 608 (H.B.3645), Sec. 2, eff. September 1, 2023.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Subject to Subsection (b), the department may not issue a driver’s license to a person who is younger than 25 years of age unless the person submits to the department a driver education certificate issued under Chapter 1001 (Driver and Traffic Safety Education) , Education Code, that states that the person has completed and passed:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "a driver education and traffic safety course conducted by an entity exempt from licensure under Section 1001.002 (Exemptions) , Education Code, or a driver education course approved by the Texas Department of Licensing and Regulation under Chapter 1001 (Driver and Traffic Safety Education) , Education Code; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "if the person is 18 years of age or older, a driver education course approved by the Texas Department of Licensing and Regulation under Section 1001.101 (Adult and Minor Driver Education Course Curriculum and Textbooks) or 1001.1015 (Adult Driver Education Course Curriculum and Educational Materials) , Education Code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to a person who holds a valid driver’s license issued by another state.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2023, 88th Leg., R.S., Ch. 608 (H.B.3645), Sec. 2, eff. September 1, 2023.",
+    "action": null,
+    "statutes_year": 2023,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2023-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.1601",
+  "source_path": "data/raw/tx_public_law/TN/521.1601.html",
+  "content_sha256": "69f04cb7b6c8df0f2650f79e524390b78304d2cdcac5476ffb67f652196c324d",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

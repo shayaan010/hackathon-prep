@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "664.002",
+  "section_name": "Labeling",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "664",
+  "chapter_title": "Standards for Elec. Bicycles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person who manufactures or sells an electric bicycle shall apply a permanent label to the electric bicycle in a prominent location that shows in Arial font in at least 9-point type:\n\n(1) whether the electric bicycle is a Class 1, Class 2, or Class 3 electric bicycle;\n\n(2) the top assisted speed of the electric bicycle; and\n\n(3) the motor wattage of the electric bicycle.\n\n(b) A person who changes the motor-powered speed capability or engagement of an electric bicycle shall replace the label required by Subsection (a) to show accurate information about the electric bicycle.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 664. Standards for Elec. Bicycles\n##### § 664.002 — Labeling\n\n(a) A person who manufactures or sells an electric bicycle shall apply a permanent label to the electric bicycle in a prominent location that shows in Arial font in at least 9-point type:\n\n    (1) whether the electric bicycle is a Class 1, Class 2, or Class 3 electric bicycle;\n\n    (2) the top assisted speed of the electric bicycle; and\n\n    (3) the motor wattage of the electric bicycle.\n\n(b) A person who changes the motor-powered speed capability or engagement of an electric bicycle shall replace the label required by Subsection (a) to show accurate information about the electric bicycle.\n\n*Added by Acts 2019, 86th Leg., R.S., Ch. 485 (H.B.2188), Sec. 8, eff. September 1, 2019.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person who manufactures or sells an electric bicycle shall apply a permanent label to the electric bicycle in a prominent location that shows in Arial font in at least 9-point type:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "whether the electric bicycle is a Class 1, Class 2, or Class 3 electric bicycle;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the top assisted speed of the electric bicycle; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "the motor wattage of the electric bicycle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A person who changes the motor-powered speed capability or engagement of an electric bicycle shall replace the label required by Subsection (a) to show accurate information about the electric bicycle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2019, 86th Leg., R.S., Ch. 485 (H.B.2188), Sec. 8, eff. September 1, 2019.",
+    "action": "Added",
+    "statutes_year": 2019,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2019-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_664.002",
+  "source_path": "data/raw/tx_public_law/TN/664.002.html",
+  "content_sha256": "5d6ae258f488f0598c922e2e440d2f99982716ca1a7d2992732f59ef8d9ce51f",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

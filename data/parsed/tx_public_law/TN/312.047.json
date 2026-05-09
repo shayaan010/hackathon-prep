@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "312.047",
+  "section_name": "Assessment Certificate",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "312",
+  "chapter_title": "Control of Highway Assets",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "6",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A municipality that makes an assessment under Section 312.022 (Assessment Ordinance) may:\n\n(1) issue in its name an assignable certificate that declares the liability of the owner and the assessed property; and\n\n(2) determine the terms and conditions of the certificate.\n\n(b) A recital in a certificate that states that the procedure for making the improvement was in compliance with law and that all prerequisites to creating the assessment lien on the property and to creating the personal liability of the property owner were performed is prima facie evidence that the procedure and prerequisites were performed as stated in the certificate.",
+  "markdown": "# Transp. Code\n## Title 6\n### Chapter 312. Control of Highway Assets\n##### § 312.047 — Assessment Certificate\n\n(a) A municipality that makes an assessment under Section 312.022 (Assessment Ordinance) may:\n\n    (1) issue in its name an assignable certificate that declares the liability of the owner and the assessed property; and\n\n    (2) determine the terms and conditions of the certificate.\n\n(b) A recital in a certificate that states that the procedure for making the improvement was in compliance with law and that all prerequisites to creating the assessment lien on the property and to creating the personal liability of the property owner were performed is prima facie evidence that the procedure and prerequisites were performed as stated in the certificate.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A municipality that makes an assessment under Section 312.022 (Assessment Ordinance) may:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "issue in its name an assignable certificate that declares the liability of the owner and the assessed property; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "determine the terms and conditions of the certificate.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A recital in a certificate that states that the procedure for making the improvement was in compliance with law and that all prerequisites to creating the assessment lien on the property and to creating the personal liability of the property owner were performed is prima facie evidence that the procedure and prerequisites were performed as stated in the certificate.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_312.047",
+  "source_path": "data/raw/tx_public_law/TN/312.047.html",
+  "content_sha256": "9af5529deb739b54837272d8dcb7ec79db828af0adc6c8e240522cea22e44426",
+  "parsed_at": "2026-05-09T18:13:59+00:00",
+  "parser_version": "1"
+}

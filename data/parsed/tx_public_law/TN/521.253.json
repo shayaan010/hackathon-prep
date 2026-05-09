@@ -1,0 +1,78 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.253",
+  "section_name": "Criminal Offense; Penalty",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person who holds an occupational driver’s license commits an offense if the person:\n\n(1) operates a motor vehicle in violation of a restriction imposed on the license; or\n\n(2) fails to have in the person’s possession a certified copy of the court order as required under Section 521.250 (Court Order in Operator’s Possession) .\n\n(b) An offense under this section is a Class B misdemeanor.\n\n(c) On conviction of an offense under this section, the convicting court shall:\n\n(1) issue an order revoking the occupational driver’s license; and\n\n(2) deliver the revocation order to the person, the court that issued the order granting the occupational driver’s license, and the department.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.253 — Criminal Offense; Penalty\n\n(a) A person who holds an occupational driver’s license commits an offense if the person:\n\n    (1) operates a motor vehicle in violation of a restriction imposed on the license; or\n\n    (2) fails to have in the person’s possession a certified copy of the court order as required under Section 521.250 (Court Order in Operator’s Possession) .\n\n(b) An offense under this section is a Class B misdemeanor.\n\n(c) On conviction of an offense under this section, the convicting court shall:\n\n    (1) issue an order revoking the occupational driver’s license; and\n\n    (2) deliver the revocation order to the person, the court that issued the order granting the occupational driver’s license, and the department.\n\n*Acts 2023, 88th Leg., R.S., Ch. 386 (H.B.291), Sec. 2, eff. September 1, 2023.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person who holds an occupational driver’s license commits an offense if the person:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "operates a motor vehicle in violation of a restriction imposed on the license; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "fails to have in the person’s possession a certified copy of the court order as required under Section 521.250 (Court Order in Operator’s Possession) .",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "An offense under this section is a Class B misdemeanor.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "On conviction of an offense under this section, the convicting court shall:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "issue an order revoking the occupational driver’s license; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "deliver the revocation order to the person, the court that issued the order granting the occupational driver’s license, and the department.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2023, 88th Leg., R.S., Ch. 386 (H.B.291), Sec. 2, eff. September 1, 2023.",
+    "action": null,
+    "statutes_year": 2023,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2023-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.253",
+  "source_path": "data/raw/tx_public_law/TN/521.253.html",
+  "content_sha256": "cf6a9e89b75417e536a16a0ff30ceb116b5bad1af75c5b2171e180b7b66e7c12",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

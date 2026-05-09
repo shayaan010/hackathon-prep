@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.045",
+  "section_name": "Disclosure of Certain Information Relating to Individual Operator",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "On receipt of a written request and payment of a $4 fee, the department may disclose information relating to an individual’s date of birth, current license status, and most recent address, as shown in the department’s records, to a person who:\n\n(1) is eligible to receive the information under Chapter 730 (Motor Vehicle Records Disclosure Act) ; and\n\n(2) submits to the department the individual’s driver’s license number or the individual’s full name and date of birth.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.045 — Disclosure of Certain Information Relating to Individual Operator\n\nOn receipt of a written request and payment of a $4 fee, the department may disclose information relating to an individual’s date of birth, current license status, and most recent address, as shown in the department’s records, to a person who:\n\n    (1) is eligible to receive the information under Chapter 730 (Motor Vehicle Records Disclosure Act) ; and\n\n    (2) submits to the department the individual’s driver’s license number or the individual’s full name and date of birth.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 1997, 75th Leg., ch. 1187, Sec. 7, eff. Sept. 1, 1997.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "On receipt of a written request and payment of a $4 fee, the department may disclose information relating to an individual’s date of birth, current license status, and most recent address, as shown in the department’s records, to a person who:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "is eligible to receive the information under Chapter 730 (Motor Vehicle Records Disclosure Act) ; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "submits to the department the individual’s driver’s license number or the individual’s full name and date of birth.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 1997, 75th Leg., ch. 1187, Sec. 7, eff. Sept. 1, 1997.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.045",
+  "source_path": "data/raw/tx_public_law/TN/521.045.html",
+  "content_sha256": "eb89e687456f73e6c22c8dfdeba23d9889d3f8a07c8b8eb7d05b5318d18c52e6",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "730.006",
+  "section_name": "Required Disclosure with Consent",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "730",
+  "chapter_title": "Motor Vehicle Records Disclosure Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "Personal information obtained by an agency in connection with a motor vehicle record shall be disclosed to a requestor who:\n\n(1) is the subject of the information; or\n\n(2) demonstrates, in such form and manner as the agency requires, that the requestor has obtained the written consent of the person who is the subject of the information.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 730. Motor Vehicle Records Disclosure Act\n##### § 730.006 — Required Disclosure with Consent\n\nPersonal information obtained by an agency in connection with a motor vehicle record shall be disclosed to a requestor who:\n\n    (1) is the subject of the information; or\n\n    (2) demonstrates, in such form and manner as the agency requires, that the requestor has obtained the written consent of the person who is the subject of the information.\n\n*Acts 2021, 87th Leg., R.S., Ch. 935 (S.B.15), Sec. 6, eff. June 18, 2021.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Personal information obtained by an agency in connection with a motor vehicle record shall be disclosed to a requestor who:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "is the subject of the information; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "demonstrates, in such form and manner as the agency requires, that the requestor has obtained the written consent of the person who is the subject of the information.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2021, 87th Leg., R.S., Ch. 935 (S.B.15), Sec. 6, eff. June 18, 2021.",
+    "action": null,
+    "statutes_year": 2021,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2021-06-18",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_730.006",
+  "source_path": "data/raw/tx_public_law/TN/730.006.html",
+  "content_sha256": "0439720678bcf89de45a9374f0893645482560c3ac4d64ef58722a4a38d75d76",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

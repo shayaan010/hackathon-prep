@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "622.014",
+  "section_name": "Local Regulation",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "622",
+  "chapter_title": "Spec. Provisions & Exceptions for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The governing body of a county or municipality that determines a public highway under its jurisdiction is insufficient to carry a load authorized by Section 622.012 (Axle Weight Restrictions) may prescribe, by order or ordinance, rules governing the operation of a ready-mixed concrete truck over a public highway maintained by the county or municipality.\n\n(b) The rules may include weight limitations on a truck with:\n\n(1) a tandem axle weight that is heavier than 36,000 pounds;\n\n(2) a single axle weight that is heavier than 12,000 pounds; or\n\n(3) a gross weight that is heavier than 48,000 pounds.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 622. Spec. Provisions & Exceptions for Oversize or Overweight Vehicles\n##### § 622.014 — Local Regulation\n\n(a) The governing body of a county or municipality that determines a public highway under its jurisdiction is insufficient to carry a load authorized by Section 622.012 (Axle Weight Restrictions) may prescribe, by order or ordinance, rules governing the operation of a ready-mixed concrete truck over a public highway maintained by the county or municipality.\n\n(b) The rules may include weight limitations on a truck with:\n\n    (1) a tandem axle weight that is heavier than 36,000 pounds;\n\n    (2) a single axle weight that is heavier than 12,000 pounds; or\n\n    (3) a gross weight that is heavier than 48,000 pounds.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 2001, 77th Leg., ch. 941, Sec. 31, eff. Sept. 1, 2001.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The governing body of a county or municipality that determines a public highway under its jurisdiction is insufficient to carry a load authorized by Section 622.012 (Axle Weight Restrictions) may prescribe, by order or ordinance, rules governing the operation of a ready-mixed concrete truck over a public highway maintained by the county or municipality.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The rules may include weight limitations on a truck with:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "a tandem axle weight that is heavier than 36,000 pounds;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a single axle weight that is heavier than 12,000 pounds; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "a gross weight that is heavier than 48,000 pounds.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 2001, 77th Leg., ch. 941, Sec. 31, eff. Sept. 1, 2001.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_622.014",
+  "source_path": "data/raw/tx_public_law/TN/622.014.html",
+  "content_sha256": "04713cb324efa9bbfcf45b17ad5d65bf763dc4fbc179d180945353b5dbbea3b5",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

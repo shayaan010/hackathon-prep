@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.314",
+  "section_name": "Cancellation Authority",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "The department may cancel a license or certificate if it determines that the holder:\n\n(1) is not entitled to the license or certificate;\n\n(2) failed to give required information in the application for the license or certificate; or\n\n(3) paid the required fee for the license or certificate by check or credit card that was returned to the department or not honored by the funding institution or credit card company due to insufficient funds, a closed account, or any other reason.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.314 — Cancellation Authority\n\nThe department may cancel a license or certificate if it determines that the holder:\n\n    (1) is not entitled to the license or certificate;\n\n    (2) failed to give required information in the application for the license or certificate; or\n\n    (3) paid the required fee for the license or certificate by check or credit card that was returned to the department or not honored by the funding institution or credit card company due to insufficient funds, a closed account, or any other reason.\n\n*Acts 2017, 85th Leg., R.S., Ch. 1071 (H.B.3272), Sec. 6, eff. September 1, 2017.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department may cancel a license or certificate if it determines that the holder:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "is not entitled to the license or certificate;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "failed to give required information in the application for the license or certificate; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "paid the required fee for the license or certificate by check or credit card that was returned to the department or not honored by the funding institution or credit card company due to insufficient funds, a closed account, or any other reason.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2017, 85th Leg., R.S., Ch. 1071 (H.B.3272), Sec. 6, eff. September 1, 2017.",
+    "action": null,
+    "statutes_year": 2017,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2017-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.314",
+  "source_path": "data/raw/tx_public_law/TN/521.314.html",
+  "content_sha256": "cdc7e0c532be0464e2e594e1022d58654f0a2474947c540ae29420ddb1b34a4a",
+  "parsed_at": "2026-05-09T18:04:56+00:00",
+  "parser_version": "1"
+}

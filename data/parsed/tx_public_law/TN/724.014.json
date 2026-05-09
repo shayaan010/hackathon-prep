@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "724.014",
+  "section_name": "Person Incapable of Refusal",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "724",
+  "chapter_title": "Implied Consent",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person who is dead, unconscious, or otherwise incapable of refusal is considered not to have withdrawn the consent provided by Section 724.011 (Consent to Taking of Specimen) .\n\n(b) If the person is dead, a specimen may be taken by:\n\n(1) the county medical examiner or the examiner’s designated agent; or\n\n(2) a licensed mortician or a person authorized under Section 724.016 (Breath Specimen) or 724.017 (Taking of Blood Specimen) if there is not a county medical examiner for the county.\n\n(c) If the person is alive but is incapable of refusal, a specimen may be taken by a person authorized under Section 724.016 (Breath Specimen) or 724.017 (Taking of Blood Specimen) .",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 724. Implied Consent\n##### § 724.014 — Person Incapable of Refusal\n\n(a) A person who is dead, unconscious, or otherwise incapable of refusal is considered not to have withdrawn the consent provided by Section 724.011 (Consent to Taking of Specimen) .\n\n(b) If the person is dead, a specimen may be taken by:\n\n    (1) the county medical examiner or the examiner’s designated agent; or\n\n    (2) a licensed mortician or a person authorized under Section 724.016 (Breath Specimen) or 724.017 (Taking of Blood Specimen) if there is not a county medical examiner for the county.\n\n(c) If the person is alive but is incapable of refusal, a specimen may be taken by a person authorized under Section 724.016 (Breath Specimen) or 724.017 (Taking of Blood Specimen) .\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person who is dead, unconscious, or otherwise incapable of refusal is considered not to have withdrawn the consent provided by Section 724.011 (Consent to Taking of Specimen) .",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If the person is dead, a specimen may be taken by:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the county medical examiner or the examiner’s designated agent; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a licensed mortician or a person authorized under Section 724.016 (Breath Specimen) or 724.017 (Taking of Blood Specimen) if there is not a county medical examiner for the county.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "If the person is alive but is incapable of refusal, a specimen may be taken by a person authorized under Section 724.016 (Breath Specimen) or 724.017 (Taking of Blood Specimen) .",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_724.014",
+  "source_path": "data/raw/tx_public_law/TN/724.014.html",
+  "content_sha256": "07a8a13ffb81c07f65de75d2dcc47ff5ba5f749f34d0314e7471ace95e5ef5b9",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

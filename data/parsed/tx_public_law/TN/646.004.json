@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "646.004",
+  "section_name": "Criminal Offense",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "646",
+  "chapter_title": "Motor Transp. Brokers",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person commits an offense if the person fails to provide the bond required by Section 646.003 (Bond Required) .\n\n(b) An offense under this section is a Class C misdemeanor.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 646. Motor Transp. Brokers\n##### § 646.004 — Criminal Offense\n\n(a) A person commits an offense if the person fails to provide the bond required by Section 646.003 (Bond Required) .\n\n(b) An offense under this section is a Class C misdemeanor.\n\n*Added by Acts 1997, 75th Leg., ch. 165, Sec. 30.153(a), eff. Sept. 1, 1997.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person commits an offense if the person fails to provide the bond required by Section 646.003 (Bond Required) .",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An offense under this section is a Class C misdemeanor.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 1997, 75th Leg., ch. 165, Sec. 30.153(a), eff. Sept. 1, 1997.",
+    "action": "Added",
+    "statutes_year": 1997,
+    "chapter": "165",
+    "section": "30.153",
+    "bill_number": null,
+    "effective_date": "1997-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_646.004",
+  "source_path": "data/raw/tx_public_law/TN/646.004.html",
+  "content_sha256": "85cda80a25ad45e1c6afbdd466e14ad556b4caea9f144a1c0b7cb7b4120856f6",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}

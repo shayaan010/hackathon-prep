@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "622.074",
+  "section_name": "Nonapplicability of Subchapter",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "622",
+  "chapter_title": "Spec. Provisions & Exceptions for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "This subchapter does not apply to:\n\n(1) farm equipment used for a purpose other than construction;\n\n(2) special mobile equipment owned by a dealer or distributor;\n\n(3) a vehicle used to propel special mobile equipment that is registered as a farm vehicle under Section 502.433 (Fee: Commercial Farm Motor Vehicle) ; or\n\n(4) equipment while being used by a commercial hauler to transport special mobile equipment under hire of a person who derives $500 in gross receipts annually from a farming or ranching enterprise.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 622. Spec. Provisions & Exceptions for Oversize or Overweight Vehicles\n##### § 622.074 — Nonapplicability of Subchapter\n\nThis subchapter does not apply to:\n\n    (1) farm equipment used for a purpose other than construction;\n\n    (2) special mobile equipment owned by a dealer or distributor;\n\n    (3) a vehicle used to propel special mobile equipment that is registered as a farm vehicle under Section 502.433 (Fee: Commercial Farm Motor Vehicle) ; or\n\n    (4) equipment while being used by a commercial hauler to transport special mobile equipment under hire of a person who derives $500 in gross receipts annually from a farming or ranching enterprise.\n\n*Acts 2013, 83rd Leg., R.S., Ch. 1135 (H.B.2741), Sec. 105, eff. September 1, 2013.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "This subchapter does not apply to:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "farm equipment used for a purpose other than construction;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "special mobile equipment owned by a dealer or distributor;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "a vehicle used to propel special mobile equipment that is registered as a farm vehicle under Section 502.433 (Fee: Commercial Farm Motor Vehicle) ; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "equipment while being used by a commercial hauler to transport special mobile equipment under hire of a person who derives $500 in gross receipts annually from a farming or ranching enterprise.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2013, 83rd Leg., R.S., Ch. 1135 (H.B.2741), Sec. 105, eff. September 1, 2013.",
+    "action": null,
+    "statutes_year": 2013,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2013-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_622.074",
+  "source_path": "data/raw/tx_public_law/TN/622.074.html",
+  "content_sha256": "aae3381ab4f5554fcb90e3007de4aca947a2b9d83b6a325e4420463f5db7bb77",
+  "parsed_at": "2026-05-09T18:04:57+00:00",
+  "parser_version": "1"
+}
