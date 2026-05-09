@@ -26,6 +26,7 @@ import re
 from pathlib import Path
 from typing import Optional
 
+from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
@@ -33,6 +34,8 @@ from pydantic import BaseModel, Field
 from store.db import Database
 from search.semantic import SemanticIndex
 
+
+load_dotenv()
 
 DB_PATH = os.environ.get("HACKATHON_DB", "hackathon.db")
 
@@ -110,6 +113,9 @@ class SearchHit(BaseModel):
 class SearchRequest(BaseModel):
     query: str
     top_k: int = 10
+    # Optional list of jurisdiction codes (e.g. ["CA", "TX"]) to scope the
+    # search to. When omitted/empty, all jurisdictions are searched.
+    jurisdictions: list[str] = Field(default_factory=list)
 
 
 class ChatMessage(BaseModel):
@@ -336,8 +342,23 @@ def _doc_to_statute(doc: dict) -> dict:
     }
 
 
+def _is_statute_doc(source_url: str, metadata: dict) -> bool:
+    """True iff this document represents an actual statute the UI should show
+    on its Statute panel. Excludes uploaded files and CourtListener verdict
+    opinions, both of which live in the same `documents` table."""
+    if (source_url or "").startswith("upload://"):
+        return False
+    if (metadata or {}).get("kind") == "verdict":
+        return False
+    if (metadata or {}).get("upload"):
+        return False
+    return True
+
+
 def _load_statutes_from_db() -> list[dict]:
-    """Pull every document from SQLite and shape it into Statute objects."""
+    """Pull statute documents from SQLite and shape them into Statute objects.
+    Uploads and verdict opinions live in the same table but are excluded —
+    they have their own surfaces (upload route + Comparables)."""
     db = get_db()
     with db.conn() as c:
         rows = c.execute(
@@ -353,6 +374,8 @@ def _load_statutes_from_db() -> list[dict]:
     for row in rows:
         d = dict(row)
         d["metadata"] = json.loads(d["metadata"]) if d["metadata"] else {}
+        if not _is_statute_doc(d["source_url"], d["metadata"]):
+            continue
         d["_extractions"] = db.get_extractions_for_doc(d["id"])
         out.append(_doc_to_statute(d))
     return out
@@ -453,14 +476,25 @@ def search(req: SearchRequest):
         return []
 
     db = get_db()
+    jur_filter = {j.upper() for j in (req.jurisdictions or []) if j}
+
+    def _passes_jurisdiction(meta: dict) -> bool:
+        if not jur_filter:
+            return True
+        return (meta or {}).get("jurisdiction", "").upper() in jur_filter
 
     # Section-number queries (e.g. "22107", "21451(a)") — short-circuit to a
     # direct lookup. Embeddings have no idea what those digits mean.
     if _is_section_query(req.query):
         direct = _section_lookup(db, req.query)
         if direct:
-            return [
-                {
+            out: list[dict] = []
+            for h in direct:
+                doc = db.get_document(h["doc_id"]) or {}
+                meta = doc.get("metadata") or {}
+                if not _passes_jurisdiction(meta):
+                    continue
+                out.append({
                     "id": f"chunk-{h['id']}",
                     "doc_id": h["doc_id"],
                     "chunk_idx": h["chunk_idx"],
@@ -468,14 +502,11 @@ def search(req: SearchRequest):
                     "text": h["text"],
                     "char_start": h["char_start"],
                     "char_end": h["char_end"],
-                    "source_url": (db.get_document(h["doc_id"]) or {}).get(
-                        "source_url", ""
-                    ),
-                    "metadata": (db.get_document(h["doc_id"]) or {}).get("metadata")
-                    or {},
-                }
-                for h in direct
-            ]
+                    "source_url": doc.get("source_url", ""),
+                    "metadata": meta,
+                })
+            if out:
+                return out
         # If section not in corpus, fall through to semantic so the user still
         # gets *something*.
 
@@ -483,8 +514,12 @@ def search(req: SearchRequest):
     # boost. With ~37 short docs, MiniLM scores cluster tightly and a literal-
     # keyword signal is what separates "DUI" from "Improper Passing" for the
     # query "driving under the influence".
+    # Widen the candidate pool when a jurisdiction filter is active so the
+    # filter has enough qualifying chunks to choose from after dropping
+    # off-state matches.
+    candidate_mult = 30 if jur_filter else 3
     idx = get_index()
-    semantic = idx.search(req.query, top_k=max(req.top_k * 3, 15))
+    semantic = idx.search(req.query, top_k=max(req.top_k * candidate_mult, 30))
 
     KW_WEIGHT = 0.6
     for h in semantic:
@@ -492,11 +527,17 @@ def search(req: SearchRequest):
         kw = _keyword_score(req.query, h["text"])
         h["score"] = h["score"] + KW_WEIGHT * kw
     semantic.sort(key=lambda h: -h["score"])
-    semantic = semantic[: req.top_k]
 
+    # Filter to statute-only chunks (no uploads/verdicts) AND to the requested
+    # jurisdictions, before truncating to top_k.
     out: list[dict] = []
     for h in semantic:
         doc = db.get_document(h["doc_id"]) or {}
+        meta = doc.get("metadata") or {}
+        if not _is_statute_doc(doc.get("source_url", ""), meta):
+            continue
+        if not _passes_jurisdiction(meta):
+            continue
         out.append({
             "id": f"chunk-{h['id']}",
             "doc_id": h["doc_id"],
@@ -506,8 +547,10 @@ def search(req: SearchRequest):
             "char_start": h["char_start"],
             "char_end": h["char_end"],
             "source_url": doc.get("source_url", ""),
-            "metadata": doc.get("metadata") or {},
+            "metadata": meta,
         })
+        if len(out) >= req.top_k:
+            break
     return out
 
 

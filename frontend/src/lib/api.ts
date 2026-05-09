@@ -69,10 +69,10 @@ export const api = {
     ),
   statutes: () => jsonFetch<Statute[]>("/api/statutes"),
   comparables: () => jsonFetch<Comparable[]>("/api/comparables"),
-  search: (query: string, top_k = 10) =>
+  search: (query: string, top_k = 10, jurisdictions: string[] = []) =>
     jsonFetch<SearchHit[]>("/api/search", {
       method: "POST",
-      body: JSON.stringify({ query, top_k }),
+      body: JSON.stringify({ query, top_k, jurisdictions }),
     }),
   chat: (params: {
     message: string;

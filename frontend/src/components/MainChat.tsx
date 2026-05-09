@@ -10,6 +10,105 @@ import {
 
 const uid = () => Math.random().toString(36).slice(2, 10);
 
+// Used to bias the Related Statutes panel toward the jurisdictions actually
+// being discussed. We scan both the user's message and Claude's reply because
+// the question may be jurisdiction-implicit ("DUI") while the answer cites a
+// specific code ("Cal. Veh. Code § 23152").
+type JurisdictionCode = "CA" | "NY" | "TX";
+
+const JURISDICTION_PATTERNS: Array<{ code: JurisdictionCode; re: RegExp }> = [
+  {
+    code: "CA",
+    re: /\b(california|calif\.|cal\.?\s+veh|cal\.?\s+vehicle\s+code)\b/i,
+  },
+  {
+    code: "NY",
+    re: /\b(new\s+york|n\.?\s*y\.?\s+(?:veh|vat)|new\s+york\s+vehicle|vehicle\s+and\s+traffic\s+law)\b/i,
+  },
+  {
+    code: "TX",
+    re: /\b(texas|tex\.?\s+transp|texas\s+transportation|transportation\s+code)\b/i,
+  },
+];
+
+function detectJurisdictions(...texts: string[]): Set<JurisdictionCode> {
+  const blob = texts.filter(Boolean).join(" ");
+  const out = new Set<JurisdictionCode>();
+  for (const { code, re } of JURISDICTION_PATTERNS) {
+    if (re.test(blob)) out.add(code);
+  }
+  return out;
+}
+
+// Pull every "§ <num>" / "§§ <num>, <num>" reference out of Claude's reply,
+// inferring jurisdiction from a small window before each match. Used to surface
+// the exact statute cards Claude cited rather than whatever ranks high on a
+// parallel semantic search.
+const CITATION_BLOCK_RE = /§§?\s*(\d+(?:\.\d+)?(?:\([a-z0-9]\))?(?:\s*,\s*\d+(?:\.\d+)?(?:\([a-z0-9]\))?)*)/gi;
+const PREFIX_PATTERNS: Array<{ code: JurisdictionCode; re: RegExp }> = [
+  { code: "CA", re: /\b(cal\.?\s+veh|california\s+vehicle|cal\.?\s+vehicle)\b/i },
+  { code: "NY", re: /\b(n\.?\s*y\.?\s*(?:veh|vat)|vehicle\s+and\s+traffic|new\s+york\s+(?:veh|vehicle))\b/i },
+  { code: "TX", re: /\b(tex\.?\s+transp|texas\s+transp|transportation\s+code)\b/i },
+];
+
+function extractCitedSections(text: string): Array<{ jurisdiction?: JurisdictionCode; section: string }> {
+  if (!text) return [];
+  const out: Array<{ jurisdiction?: JurisdictionCode; section: string }> = [];
+  const seen = new Set<string>();
+  let m: RegExpExecArray | null;
+  CITATION_BLOCK_RE.lastIndex = 0;
+  while ((m = CITATION_BLOCK_RE.exec(text))) {
+    const start = Math.max(0, m.index - 120);
+    const window = text.slice(start, m.index);
+    let jur: JurisdictionCode | undefined;
+    for (const { code, re } of PREFIX_PATTERNS) {
+      if (re.test(window)) {
+        jur = code;
+        break;
+      }
+    }
+    for (const raw of m[1].split(",")) {
+      const sec = raw.trim();
+      if (!sec) continue;
+      const key = `${jur ?? "?"}|${sec}`;
+      if (seen.has(key)) continue;
+      seen.add(key);
+      out.push({ jurisdiction: jur, section: sec });
+    }
+  }
+  return out;
+}
+
+function resolveCitedStatutes(
+  reply: string,
+  statutes: Statute[],
+  fallbackJurisdictions: Set<JurisdictionCode>,
+): Statute[] {
+  const cites = extractCitedSections(reply);
+  const out: Statute[] = [];
+  const seen = new Set<string>();
+  for (const c of cites) {
+    const baseSection = c.section.split("(")[0];
+    const candidates = statutes.filter((s) => {
+      const sBase = (s.section || "").split("(")[0];
+      if (sBase !== baseSection) return false;
+      if (c.jurisdiction) return s.jurisdiction === c.jurisdiction;
+      // No code prefix near the citation — fall back to the jurisdictions
+      // mentioned anywhere in the conversation. If none, match any state.
+      if (fallbackJurisdictions.size > 0) {
+        return fallbackJurisdictions.has(s.jurisdiction as JurisdictionCode);
+      }
+      return true;
+    });
+    for (const stat of candidates) {
+      if (seen.has(stat.id)) continue;
+      seen.add(stat.id);
+      out.push(stat);
+    }
+  }
+  return out;
+}
+
 const SUGGESTIONS = [
   "Fleeing a police officer",
   "Reckless driving statutes",
@@ -116,6 +215,11 @@ export function MainChat({ statutes, onSelectStatute }: Props) {
     setAttachments([]);
     setBusy(true);
 
+    // Detect jurisdictions from the user's message ONLY — not Claude's reply.
+    // A TX-focused question shouldn't drag in CA just because Claude mentioned
+    // it tangentially. Pass the result through to /api/search so the database
+    // does the filtering (otherwise off-state hits eat the top_k budget).
+    const jurisdictions = Array.from(detectJurisdictions(text));
     try {
       const [chatRes, hitsRes] = await Promise.allSettled([
         api.chat({
@@ -123,7 +227,7 @@ export function MainChat({ statutes, onSelectStatute }: Props) {
           history: priorHistory,
           attached_files: attachedNow,
         }),
-        api.search(text || filenames.join(" "), 6),
+        api.search(text || filenames.join(" "), 6, jurisdictions),
       ]);
 
       const answer =
@@ -133,17 +237,23 @@ export function MainChat({ statutes, onSelectStatute }: Props) {
               chatRes.reason instanceof Error ? chatRes.reason.message : "unknown error"
             })_`;
 
-      const matched: Statute[] = [];
-      if (hitsRes.status === "fulfilled") {
+      // Prefer the EXACT statutes Claude cited in its reply (parsed from
+      // citation patterns like "Cal. Veh. Code § 23152"). Only fall back to
+      // the parallel /api/search hits when Claude didn't cite anything specific.
+      const conversationJurisdictions = detectJurisdictions(text, answer);
+      const cited = resolveCitedStatutes(answer, statutes, conversationJurisdictions).slice(0, 4);
+      let matched: Statute[] = cited;
+      if (matched.length === 0 && hitsRes.status === "fulfilled") {
         const seen = new Set<string>();
+        const fallback: Statute[] = [];
         for (const h of hitsRes.value) {
           const stat = statutes.find((s) => s.source.url === h.source_url);
-          if (stat && !seen.has(stat.id)) {
-            seen.add(stat.id);
-            matched.push(stat);
-            if (matched.length >= 4) break;
-          }
+          if (!stat || seen.has(stat.id)) continue;
+          seen.add(stat.id);
+          fallback.push(stat);
+          if (fallback.length >= 4) break;
         }
+        matched = fallback;
       }
 
       updateMessages((m) =>
