@@ -216,6 +216,30 @@ class SemanticIndex:
         return results
 
 
+def index_documents(db: Optional["Database"] = None) -> int:
+    """Chunk + embed every document that isn't already indexed. Returns chunks added."""
+    from store.db import Database as _Database
+    db = db or _Database()
+    idx = SemanticIndex(db)
+
+    with db.conn() as c:
+        docs = c.execute("SELECT id, raw_text FROM documents").fetchall()
+
+    total_chunks = 0
+    indexed = 0
+    skipped = 0
+    for doc in docs:
+        doc_id, raw_text = doc["id"], doc["raw_text"]
+        if db.get_chunks_for_doc(doc_id):
+            skipped += 1
+            continue
+        total_chunks += idx.index_document(doc_id, raw_text or "")
+        indexed += 1
+
+    print(f"Indexed {indexed} docs ({total_chunks} chunks). Skipped {skipped} already-indexed.")
+    return total_chunks
+
+
 # Quick smoke test
 if __name__ == "__main__":
     from store.db import Database
