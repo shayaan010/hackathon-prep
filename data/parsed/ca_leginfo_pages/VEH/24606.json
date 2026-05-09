@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24606",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "3",
+  "article_title": "Rear Lighting Equipment",
+  "article_range": "24600 - 24617",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.3",
+  "text": "(a) Every motor vehicle, other than a motorcycle, of a type subject to registration and manufactured on and after January 1, 1969, shall be equipped with one or more backup lamps either separately or in combination with another lamp. Any vehicle may be equipped with backup lamps.\n\n(b) Backup lamps shall be so directed as to project a white light illuminating the highway to the rear of the vehicle for a distance not to exceed 75 feet. A backup lamp may project incidental red, amber, or white light through reflectors or lenses that are adjacent or close to, or a part of, the lamp assembly.\n\n(c) Backup lamps shall not be lighted except when the vehicle is about to be or is backing or except in conjunction with a lighting system which activates the lights for a temporary period after the ignition system is turned off.\n\n(d) Any motor vehicle may be equipped with a lamp emitting white light on each side near or on the rear of the vehicle which is designed to provide supplemental illumination in an area to the side and rear not lighted by the backup lamps. These lamps shall be lighted only with the backup lamps.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 3. Rear Lighting Equipment [24600 - 24617]\n##### § 24606\n\n(a) Every motor vehicle, other than a motorcycle, of a type subject to registration and manufactured on and after January 1, 1969, shall be equipped with one or more backup lamps either separately or in combination with another lamp. Any vehicle may be equipped with backup lamps.\n\n(b) Backup lamps shall be so directed as to project a white light illuminating the highway to the rear of the vehicle for a distance not to exceed 75 feet. A backup lamp may project incidental red, amber, or white light through reflectors or lenses that are adjacent or close to, or a part of, the lamp assembly.\n\n(c) Backup lamps shall not be lighted except when the vehicle is about to be or is backing or except in conjunction with a lighting system which activates the lights for a temporary period after the ignition system is turned off.\n\n(d) Any motor vehicle may be equipped with a lamp emitting white light on each side near or on the rear of the vehicle which is designed to provide supplemental illumination in an area to the side and rear not lighted by the backup lamps. These lamps shall be lighted only with the backup lamps.\n\n*(Amended by Stats. 1981, Ch. 813, Sec. 17.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every motor vehicle, other than a motorcycle, of a type subject to registration and manufactured on and after January 1, 1969, shall be equipped with one or more backup lamps either separately or in combination with another lamp. Any vehicle may be equipped with backup lamps.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Backup lamps shall be so directed as to project a white light illuminating the highway to the rear of the vehicle for a distance not to exceed 75 feet. A backup lamp may project incidental red, amber, or white light through reflectors or lenses that are adjacent or close to, or a part of, the lamp assembly.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Backup lamps shall not be lighted except when the vehicle is about to be or is backing or except in conjunction with a lighting system which activates the lights for a temporary period after the ignition system is turned off.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Any motor vehicle may be equipped with a lamp emitting white light on each side near or on the rear of the vehicle which is designed to provide supplemental illumination in an area to the side and rear not lighted by the backup lamps. These lamps shall be lighted only with the backup lamps.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1981, Ch. 813, Sec. 17.)",
+    "action": "Amended",
+    "statutes_year": 1981,
+    "chapter": "813",
+    "section": "17",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1981",
+  "op_chapter": "813",
+  "op_section": "17",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24606.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24606.html",
+  "content_sha256": "7490927be59fc1bdc9370283aa5ac6ce549b160475de14b6b9cee83d869d00de",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

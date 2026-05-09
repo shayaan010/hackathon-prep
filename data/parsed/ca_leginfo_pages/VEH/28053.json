@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28053",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "10",
+  "article_title": "Odometers",
+  "article_range": "28050 - 28053",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.15",
+  "text": "(a) Nothing in this article prevents the service, repair, or replacement of an odometer, if the mileage indicated thereon remains the same as before the service, repair, or replacement. If the odometer is incapable of registering the same mileage as before the service, repair, or replacement, the odometer shall be adjusted to read zero and a notice in writing shall be attached to the left doorframe of the vehicle by the person performing the service, repair, or replacement specifying the mileage prior to the service, repair or replacement of the odometer and the date on which it was serviced, repaired, or replaced.\n\n(b) No person shall fail to adjust an odometer or affix a notice regarding the adjustment as required by subdivision (a).\n\n(c) No person shall, with intent to defraud, remove or alter any notice affixed to a vehicle pursuant to subdivision (a).",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 10. Odometers [28050 - 28053]\n##### § 28053\n\n(a) Nothing in this article prevents the service, repair, or replacement of an odometer, if the mileage indicated thereon remains the same as before the service, repair, or replacement. If the odometer is incapable of registering the same mileage as before the service, repair, or replacement, the odometer shall be adjusted to read zero and a notice in writing shall be attached to the left doorframe of the vehicle by the person performing the service, repair, or replacement specifying the mileage prior to the service, repair or replacement of the odometer and the date on which it was serviced, repaired, or replaced.\n\n(b) No person shall fail to adjust an odometer or affix a notice regarding the adjustment as required by subdivision (a).\n\n(c) No person shall, with intent to defraud, remove or alter any notice affixed to a vehicle pursuant to subdivision (a).\n\n*(Repealed and added by Stats. 1987, Ch. 130, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Nothing in this article prevents the service, repair, or replacement of an odometer, if the mileage indicated thereon remains the same as before the service, repair, or replacement. If the odometer is incapable of registering the same mileage as before the service, repair, or replacement, the odometer shall be adjusted to read zero and a notice in writing shall be attached to the left doorframe of the vehicle by the person performing the service, repair, or replacement specifying the mileage prior to the service, repair or replacement of the odometer and the date on which it was serviced, repaired, or replaced.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No person shall fail to adjust an odometer or affix a notice regarding the adjustment as required by subdivision (a).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "No person shall, with intent to defraud, remove or alter any notice affixed to a vehicle pursuant to subdivision (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed and added by Stats. 1987, Ch. 130, Sec. 2.)",
+    "action": "Repealed",
+    "statutes_year": 1987,
+    "chapter": "130",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1987",
+  "op_chapter": "130",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28053.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28053.html",
+  "content_sha256": "64f5c09f9fd3f6bdc7c5d1e7396ba78d83436ce7a2168dabe55de7ac017393fc",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

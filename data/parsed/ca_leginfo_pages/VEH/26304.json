@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26304",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "1",
+  "article_title": "Brake Requirements",
+  "article_range": "26301 - 26311",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.1",
+  "text": "(a) Power brakes on any trailer or semitrailer manufactured after December 31, 1955, operated over public highways and required to be equipped with brakes shall be designed to be automatically applied upon breakaway from the towing vehicle and shall be capable of stopping and holding such vehicle stationary for not less than 15 minutes.\n\n(b) Every new truck or truck tractor manufactured after December 31, 1955, operated over public highways and used in towing a vehicle shall be equipped with service brakes capable of stopping the truck or truck tractor in the event of breakaway of the towed vehicle.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 1. Brake Requirements [26301 - 26311]\n##### § 26304\n\n(a) Power brakes on any trailer or semitrailer manufactured after December 31, 1955, operated over public highways and required to be equipped with brakes shall be designed to be automatically applied upon breakaway from the towing vehicle and shall be capable of stopping and holding such vehicle stationary for not less than 15 minutes.\n\n(b) Every new truck or truck tractor manufactured after December 31, 1955, operated over public highways and used in towing a vehicle shall be equipped with service brakes capable of stopping the truck or truck tractor in the event of breakaway of the towed vehicle.\n\n*(Amended by Stats. 1972, Ch. 733.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Power brakes on any trailer or semitrailer manufactured after December 31, 1955, operated over public highways and required to be equipped with brakes shall be designed to be automatically applied upon breakaway from the towing vehicle and shall be capable of stopping and holding such vehicle stationary for not less than 15 minutes.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Every new truck or truck tractor manufactured after December 31, 1955, operated over public highways and used in towing a vehicle shall be equipped with service brakes capable of stopping the truck or truck tractor in the event of breakaway of the towed vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1972, Ch. 733.)",
+    "action": "Amended",
+    "statutes_year": 1972,
+    "chapter": "733",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1972",
+  "op_chapter": "733",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26304.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26304.html",
+  "content_sha256": "c37be357648698f95a8087e8f1bcddad7c1725d814023a4c16c1660031edd077",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

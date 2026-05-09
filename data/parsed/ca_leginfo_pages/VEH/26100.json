@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26100",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "16",
+  "article_title": "Equipment Testing",
+  "article_range": "26100 - 26106",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.16",
+  "text": "(a) A person shall not sell or offer for sale for use upon or as part of the equipment of a vehicle any lighting equipment, safety glazing material, or other device that does not meet the provisions of Section 26104.\n\n(b) A person shall not use upon a vehicle, and a person shall not drive a vehicle upon a highway that is equipped with, any lighting equipment, safety glazing material, or other device that is not in compliance with Section 26104.\n\n(c) This section does not apply to a taillamp or stop lamp in use on or prior to December 1, 1935.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 16. Equipment Testing [26100 - 26106]\n##### § 26100\n\n(a) A person shall not sell or offer for sale for use upon or as part of the equipment of a vehicle any lighting equipment, safety glazing material, or other device that does not meet the provisions of Section 26104.\n\n(b) A person shall not use upon a vehicle, and a person shall not drive a vehicle upon a highway that is equipped with, any lighting equipment, safety glazing material, or other device that is not in compliance with Section 26104.\n\n(c) This section does not apply to a taillamp or stop lamp in use on or prior to December 1, 1935.\n\n*(Amended by Stats. 2010, Ch. 491, Sec. 44. (SB 1318) Effective January 1, 2011.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person shall not sell or offer for sale for use upon or as part of the equipment of a vehicle any lighting equipment, safety glazing material, or other device that does not meet the provisions of Section 26104.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person shall not use upon a vehicle, and a person shall not drive a vehicle upon a highway that is equipped with, any lighting equipment, safety glazing material, or other device that is not in compliance with Section 26104.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section does not apply to a taillamp or stop lamp in use on or prior to December 1, 1935.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2010, Ch. 491, Sec. 44. (SB 1318) Effective January 1, 2011.)",
+    "action": "Amended",
+    "statutes_year": 2010,
+    "chapter": "491",
+    "section": "44",
+    "bill_number": "SB 1318",
+    "effective_date": "2011-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2010",
+  "op_chapter": "491",
+  "op_section": "44",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26100.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26100.html",
+  "content_sha256": "7ab1e9ff80d391e03d9b81497254e457c737ee03755ca9b588f360b48147e76e",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

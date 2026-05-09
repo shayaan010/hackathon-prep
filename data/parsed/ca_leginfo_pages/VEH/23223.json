@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23223",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "12",
+  "chapter_title": "Public Offenses",
+  "chapter_range": "23100 - 23249.50",
+  "article": "2",
+  "article_title": "Offenses Involving Alcohol and Drugs",
+  "article_range": "23152 - 23229.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.12.4",
+  "text": "(a) A driver shall not have in the driver’s possession, while in a motor vehicle upon a highway or on lands, as described in subdivision (c) of Section 23220, any bottle, can, or other receptacle, containing any alcoholic beverage that has been opened, or a seal broken, or the contents of which have been partially removed.\n\n(b) A passenger shall not have in the passenger’s possession, while in a motor vehicle upon a highway or on lands, as described in subdivision (c) of Section 23220, any bottle, can, or other receptacle containing any alcoholic beverage that has been opened or a seal broken, or the contents of which have been partially removed.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 12. Public Offenses [23100 - 23249.50]\n#### Article 2. Offenses Involving Alcohol and Drugs [23152 - 23229.1]\n##### § 23223\n\n(a) A driver shall not have in the driver’s possession, while in a motor vehicle upon a highway or on lands, as described in subdivision (c) of Section 23220, any bottle, can, or other receptacle, containing any alcoholic beverage that has been opened, or a seal broken, or the contents of which have been partially removed.\n\n(b) A passenger shall not have in the passenger’s possession, while in a motor vehicle upon a highway or on lands, as described in subdivision (c) of Section 23220, any bottle, can, or other receptacle containing any alcoholic beverage that has been opened or a seal broken, or the contents of which have been partially removed.\n\n*(Amended by Stats. 2019, Ch. 497, Sec. 275. (AB 991) Effective January 1, 2020.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A driver shall not have in the driver’s possession, while in a motor vehicle upon a highway or on lands, as described in subdivision (c) of Section 23220, any bottle, can, or other receptacle, containing any alcoholic beverage that has been opened, or a seal broken, or the contents of which have been partially removed.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A passenger shall not have in the passenger’s possession, while in a motor vehicle upon a highway or on lands, as described in subdivision (c) of Section 23220, any bottle, can, or other receptacle containing any alcoholic beverage that has been opened or a seal broken, or the contents of which have been partially removed.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2019, Ch. 497, Sec. 275. (AB 991) Effective January 1, 2020.)",
+    "action": "Amended",
+    "statutes_year": 2019,
+    "chapter": "497",
+    "section": "275",
+    "bill_number": "AB 991",
+    "effective_date": "2020-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2019",
+  "op_chapter": "497",
+  "op_section": "275",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23223.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23223.html",
+  "content_sha256": "78f80e499b0bb8c81f9ba3ac37172f3ec7952598e2016f8afbc842707584f1d6",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

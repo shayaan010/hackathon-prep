@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26520",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "4",
+  "article_title": "Vacuum Brakes",
+  "article_range": "26520 - 26522",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.4",
+  "text": "Motor vehicles required to be equipped with power brakes and which are equipped with vacuum or vacuum-assisted brakes shall be equipped with a properly maintained vacuum gauge of reliable and satisfactory construction, accurate within 10 percent of the actual vacuum in the supply reservoir, and visible and legible to the driver at all times.\n\nThis section shall not apply to a two-axle motor truck operated singly.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 4. Vacuum Brakes [26520 - 26522]\n##### § 26520\n\nMotor vehicles required to be equipped with power brakes and which are equipped with vacuum or vacuum-assisted brakes shall be equipped with a properly maintained vacuum gauge of reliable and satisfactory construction, accurate within 10 percent of the actual vacuum in the supply reservoir, and visible and legible to the driver at all times.\n\nThis section shall not apply to a two-axle motor truck operated singly.\n\n*(Added by Stats. 1963, Ch. 386.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Motor vehicles required to be equipped with power brakes and which are equipped with vacuum or vacuum-assisted brakes shall be equipped with a properly maintained vacuum gauge of reliable and satisfactory construction, accurate within 10 percent of the actual vacuum in the supply reservoir, and visible and legible to the driver at all times.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "This section shall not apply to a two-axle motor truck operated singly.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1963, Ch. 386.)",
+    "action": "Added",
+    "statutes_year": 1963,
+    "chapter": "386",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1963",
+  "op_chapter": "386",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26520.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26520.html",
+  "content_sha256": "bfdeca69967373ff1e326708a4cdba97025fef8cb19d4485a7e0cebc1b43678e",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

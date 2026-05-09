@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22410",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "2",
+  "article_title": "Other Speed Laws",
+  "article_range": "22400 - 22413",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.2",
+  "text": "No person shall operate any vehicle equipped with any metal tire in contact with the surface of the highway at a speed in excess of six miles per hour.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 2. Other Speed Laws [22400 - 22413]\n##### § 22410\n\nNo person shall operate any vehicle equipped with any metal tire in contact with the surface of the highway at a speed in excess of six miles per hour.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall operate any vehicle equipped with any metal tire in contact with the surface of the highway at a speed in excess of six miles per hour.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22410.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22410.html",
+  "content_sha256": "249414cb06cfc6cd5db514ab5838bb6911a691a4934f2e80f5b7a9ffcee60c96",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

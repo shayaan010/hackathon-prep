@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25351",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "9",
+  "article_title": "Commercial and Common Carrier Vehicles",
+  "article_range": "25350 - 25353",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.9",
+  "text": "(a) A commercial vehicle and any other vehicle 80 or more inches in width may be equipped with identification lamps mounted on the front or rear.\n\n(b) Identification lamps on vehicles described in subdivision (a) manufactured prior to January 1, 1968, may exhibit either amber, green, or white light to the front and red light to the rear.\n\n(c) Identification lamps on vehicles described in subdivision (a) manufactured on or after January 1, 1968, may exhibit only amber light to the front and red light to the rear.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 9. Commercial and Common Carrier Vehicles [25350 - 25353]\n##### § 25351\n\n(a) A commercial vehicle and any other vehicle 80 or more inches in width may be equipped with identification lamps mounted on the front or rear.\n\n(b) Identification lamps on vehicles described in subdivision (a) manufactured prior to January 1, 1968, may exhibit either amber, green, or white light to the front and red light to the rear.\n\n(c) Identification lamps on vehicles described in subdivision (a) manufactured on or after January 1, 1968, may exhibit only amber light to the front and red light to the rear.\n\n*(Amended by Stats. 2021, Ch. 311, Sec. 6. (SB 814) Effective January 1, 2022.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A commercial vehicle and any other vehicle 80 or more inches in width may be equipped with identification lamps mounted on the front or rear.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Identification lamps on vehicles described in subdivision (a) manufactured prior to January 1, 1968, may exhibit either amber, green, or white light to the front and red light to the rear.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Identification lamps on vehicles described in subdivision (a) manufactured on or after January 1, 1968, may exhibit only amber light to the front and red light to the rear.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 311, Sec. 6. (SB 814) Effective January 1, 2022.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "311",
+    "section": "6",
+    "bill_number": "SB 814",
+    "effective_date": "2022-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "311",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25351.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25351.html",
+  "content_sha256": "8a8857577dd51d9acdc2641e1cee8d9560ff5a4a2f7ebadb4e8c2508c8a1c7a2",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

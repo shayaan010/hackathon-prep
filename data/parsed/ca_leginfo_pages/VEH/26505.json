@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26505",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "3",
+  "article_title": "Airbrakes",
+  "article_range": "26502 - 26508",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.3",
+  "text": "A motor vehicle equipped with airbrakes or equipped to operate airbrakes on towed vehicles shall be equipped with a pressure gauge of reliable and satisfactory construction and maintained in an efficient working condition, accurate within 10 percent of the actual air reservoir pressure, and visible and legible to a person when seated in the driving position.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 3. Airbrakes [26502 - 26508]\n##### § 26505\n\nA motor vehicle equipped with airbrakes or equipped to operate airbrakes on towed vehicles shall be equipped with a pressure gauge of reliable and satisfactory construction and maintained in an efficient working condition, accurate within 10 percent of the actual air reservoir pressure, and visible and legible to a person when seated in the driving position.\n\n*(Amended by Stats. 2010, Ch. 491, Sec. 46. (SB 1318) Effective January 1, 2011.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A motor vehicle equipped with airbrakes or equipped to operate airbrakes on towed vehicles shall be equipped with a pressure gauge of reliable and satisfactory construction and maintained in an efficient working condition, accurate within 10 percent of the actual air reservoir pressure, and visible and legible to a person when seated in the driving position.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2010, Ch. 491, Sec. 46. (SB 1318) Effective January 1, 2011.)",
+    "action": "Amended",
+    "statutes_year": 2010,
+    "chapter": "491",
+    "section": "46",
+    "bill_number": "SB 1318",
+    "effective_date": "2011-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2010",
+  "op_chapter": "491",
+  "op_section": "46",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26505.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26505.html",
+  "content_sha256": "d091355739b8faecc246f15ff31ceb99c78fc2d418209c5f34ed958e5ffda7ba",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

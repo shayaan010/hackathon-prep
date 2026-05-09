@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25253",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "7",
+  "article_title": "Flashing and Colored Lights",
+  "article_range": "25250 - 25282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.7",
+  "text": "(a) Tow trucks used to tow disabled vehicles shall be equipped with flashing amber warning lamps. This subdivision does not apply to a tractor-trailer combination.\n\n(b) Tow trucks may display flashing amber warning lamps while providing service to a disabled vehicle. A flashing amber warning lamp upon a tow truck may be displayed to the rear when the tow truck is towing a vehicle and moving at a speed slower than the normal flow of traffic.\n\n(c) A tow truck shall not display flashing amber warning lamps on a freeway except when an unusual traffic hazard or extreme hazard exists.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 7. Flashing and Colored Lights [25250 - 25282]\n##### § 25253\n\n(a) Tow trucks used to tow disabled vehicles shall be equipped with flashing amber warning lamps. This subdivision does not apply to a tractor-trailer combination.\n\n(b) Tow trucks may display flashing amber warning lamps while providing service to a disabled vehicle. A flashing amber warning lamp upon a tow truck may be displayed to the rear when the tow truck is towing a vehicle and moving at a speed slower than the normal flow of traffic.\n\n(c) A tow truck shall not display flashing amber warning lamps on a freeway except when an unusual traffic hazard or extreme hazard exists.\n\n*(Amended (as amended by Stats. 2006, Ch. 375, Sec. 3) by Stats. 2009, Ch. 33, Sec. 2. (SB 159) Effective January 1, 2010.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Tow trucks used to tow disabled vehicles shall be equipped with flashing amber warning lamps. This subdivision does not apply to a tractor-trailer combination.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Tow trucks may display flashing amber warning lamps while providing service to a disabled vehicle. A flashing amber warning lamp upon a tow truck may be displayed to the rear when the tow truck is towing a vehicle and moving at a speed slower than the normal flow of traffic.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A tow truck shall not display flashing amber warning lamps on a freeway except when an unusual traffic hazard or extreme hazard exists.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended (as amended by Stats. 2006, Ch. 375, Sec. 3) by Stats. 2009, Ch. 33, Sec. 2. (SB 159) Effective January 1, 2010.)",
+    "action": "Amended",
+    "statutes_year": 2009,
+    "chapter": "33",
+    "section": "2",
+    "bill_number": "SB 159",
+    "effective_date": "2010-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2009",
+  "op_chapter": "33",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25253.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25253.html",
+  "content_sha256": "9762538726089f456d6251e05c68fc2befc8f810952963a65d950054f1ccf0a8",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

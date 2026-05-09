@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26502",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "3",
+  "article_title": "Airbrakes",
+  "article_range": "26502 - 26508",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.3",
+  "text": "(a) Airbrakes of every motor vehicle and combination of vehicles shall be so adjusted and maintained as to be capable of providing full service brake application at all times except as provided in subdivision (b) of Section 26311. A full service brake application shall deliver to all brake chambers not less than 90 percent of the air reservoir pressure remaining with the brakes applied.\n\n(b) The department may by regulation authorize the use of special devices or systems to automatically reduce the maximum air pressure delivered to the brake chambers in order to compensate for load variation and to obtain balanced braking. Permitted systems shall be of the fail safe type and shall not increase the vehicle stopping distance.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 3. Airbrakes [26502 - 26508]\n##### § 26502\n\n(a) Airbrakes of every motor vehicle and combination of vehicles shall be so adjusted and maintained as to be capable of providing full service brake application at all times except as provided in subdivision (b) of Section 26311. A full service brake application shall deliver to all brake chambers not less than 90 percent of the air reservoir pressure remaining with the brakes applied.\n\n(b) The department may by regulation authorize the use of special devices or systems to automatically reduce the maximum air pressure delivered to the brake chambers in order to compensate for load variation and to obtain balanced braking. Permitted systems shall be of the fail safe type and shall not increase the vehicle stopping distance.\n\n*(Repealed and added by Stats. 1965, Ch. 1789.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Airbrakes of every motor vehicle and combination of vehicles shall be so adjusted and maintained as to be capable of providing full service brake application at all times except as provided in subdivision (b) of Section 26311. A full service brake application shall deliver to all brake chambers not less than 90 percent of the air reservoir pressure remaining with the brakes applied.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department may by regulation authorize the use of special devices or systems to automatically reduce the maximum air pressure delivered to the brake chambers in order to compensate for load variation and to obtain balanced braking. Permitted systems shall be of the fail safe type and shall not increase the vehicle stopping distance.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed and added by Stats. 1965, Ch. 1789.)",
+    "action": "Repealed",
+    "statutes_year": 1965,
+    "chapter": "1789",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1965",
+  "op_chapter": "1789",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26502.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26502.html",
+  "content_sha256": "87fd1a35c1c296e572b9f669b9e99cfd91900698e433d30cfb84d04200cf8739",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

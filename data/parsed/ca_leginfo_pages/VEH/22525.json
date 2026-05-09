@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22525",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "Local authorities may by ordinance or resolution authorize vanpool vehicles to utilize designated state highway bus stops.\n\nThe ordinance or resolution shall be submitted to the Department of Transportation for approval. No ordinance or resolution shall become effective until approved by the department. The department shall review the ordinance or resolution within 45 days after receipt.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22525\n\nLocal authorities may by ordinance or resolution authorize vanpool vehicles to utilize designated state highway bus stops.\n\nThe ordinance or resolution shall be submitted to the Department of Transportation for approval. No ordinance or resolution shall become effective until approved by the department. The department shall review the ordinance or resolution within 45 days after receipt.\n\n*(Added by Stats. 1987, Ch. 262, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Local authorities may by ordinance or resolution authorize vanpool vehicles to utilize designated state highway bus stops.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The ordinance or resolution shall be submitted to the Department of Transportation for approval. No ordinance or resolution shall become effective until approved by the department. The department shall review the ordinance or resolution within 45 days after receipt.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1987, Ch. 262, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1987,
+    "chapter": "262",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1987",
+  "op_chapter": "262",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22525.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22525.html",
+  "content_sha256": "3d72e636e245f3fb7bc5740d19e625f1b7f73b4652a67378097b2981033e2b38",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

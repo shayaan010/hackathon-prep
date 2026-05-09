@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26457",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "2",
+  "article_title": "Operation of Brakes",
+  "article_range": "26450 - 26458.5",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.2",
+  "text": "Special mobile equipment, logging vehicles, equipment operated under special permit, and any chassis without body or load are not subject to stopping distance requirements, but if any such vehicle or equipment cannot be stopped within 32 feet from an initial speed of 15 miles per hour, it shall not be operated at a speed in excess of that permitting a stop in 32 feet.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 2. Operation of Brakes [26450 - 26458.5]\n##### § 26457\n\nSpecial mobile equipment, logging vehicles, equipment operated under special permit, and any chassis without body or load are not subject to stopping distance requirements, but if any such vehicle or equipment cannot be stopped within 32 feet from an initial speed of 15 miles per hour, it shall not be operated at a speed in excess of that permitting a stop in 32 feet.\n\n*(Amended by Stats. 1975, Ch. 517.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Special mobile equipment, logging vehicles, equipment operated under special permit, and any chassis without body or load are not subject to stopping distance requirements, but if any such vehicle or equipment cannot be stopped within 32 feet from an initial speed of 15 miles per hour, it shall not be operated at a speed in excess of that permitting a stop in 32 feet.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1975, Ch. 517.)",
+    "action": "Amended",
+    "statutes_year": 1975,
+    "chapter": "517",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "517",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26457.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26457.html",
+  "content_sha256": "28c05bc9a7bff82b608a01ffd2e5a349703d1d0f5df7d48a99f6541a08cf533a",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

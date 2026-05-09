@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23128",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "12",
+  "chapter_title": "Public Offenses",
+  "chapter_range": "23100 - 23249.50",
+  "article": "1",
+  "article_title": "Driving Offenses",
+  "article_range": "23100 - 23135",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.12.1",
+  "text": "It is unlawful for any person to operate a snowmobile in the following manner:\n\n(a) On a highway except as provided in Section 38025.\n\n(b) In a careless or negligent manner so as to endanger a person or property.\n\n(c) For the purpose of pursuing deer or other game mammal with intent to harass such animals.\n\n(d) For the purpose of violating Section 602 of the Penal Code.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 12. Public Offenses [23100 - 23249.50]\n#### Article 1. Driving Offenses [23100 - 23135]\n##### § 23128\n\nIt is unlawful for any person to operate a snowmobile in the following manner:\n\n(a) On a highway except as provided in Section 38025.\n\n(b) In a careless or negligent manner so as to endanger a person or property.\n\n(c) For the purpose of pursuing deer or other game mammal with intent to harass such animals.\n\n(d) For the purpose of violating Section 602 of the Penal Code.\n\n*(Amended by Stats. 1972, Ch. 973.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "It is unlawful for any person to operate a snowmobile in the following manner:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "On a highway except as provided in Section 38025.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "In a careless or negligent manner so as to endanger a person or property.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "For the purpose of pursuing deer or other game mammal with intent to harass such animals.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "For the purpose of violating Section 602 of the Penal Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1972, Ch. 973.)",
+    "action": "Amended",
+    "statutes_year": 1972,
+    "chapter": "973",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1972",
+  "op_chapter": "973",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23128.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23128.html",
+  "content_sha256": "4ad3006c5684495169cf9f4d54df1596d6debabb32a93a0385d555382234a1b9",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

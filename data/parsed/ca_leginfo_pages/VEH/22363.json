@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22363",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "1",
+  "article_title": "Generally",
+  "article_range": "22348 - 22366",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.1",
+  "text": "Notwithstanding any speed limit that may be in effect upon the highway, the Department of Transportation in respect to state highways, or a local authority with respect to highways under its jurisdiction, may determine and declare a prima facie speed limit of 40, 35, 30, or 25 miles per hour, whichever is found most appropriate and is reasonable and safe based on the prevailing snow or ice conditions upon such highway or any portion thereof. Signs may be placed and removed as snow or ice conditions vary.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 1. Generally [22348 - 22366]\n##### § 22363\n\nNotwithstanding any speed limit that may be in effect upon the highway, the Department of Transportation in respect to state highways, or a local authority with respect to highways under its jurisdiction, may determine and declare a prima facie speed limit of 40, 35, 30, or 25 miles per hour, whichever is found most appropriate and is reasonable and safe based on the prevailing snow or ice conditions upon such highway or any portion thereof. Signs may be placed and removed as snow or ice conditions vary.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding any speed limit that may be in effect upon the highway, the Department of Transportation in respect to state highways, or a local authority with respect to highways under its jurisdiction, may determine and declare a prima facie speed limit of 40, 35, 30, or 25 miles per hour, whichever is found most appropriate and is reasonable and safe based on the prevailing snow or ice conditions upon such highway or any portion thereof. Signs may be placed and removed as snow or ice conditions vary.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22363.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22363.html",
+  "content_sha256": "dbe070ce7c4ff6ce48710cbf66f66e1dcfdc8311b9d9d32148aa9a580c4ef2dc",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

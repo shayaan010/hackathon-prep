@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27150",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "2",
+  "article_title": "Exhaust Systems",
+  "article_range": "27150 - 27159",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.2",
+  "text": "(a) Every motor vehicle equipped with an internal combustion engine and subject to registration shall at all times be equipped with an adequate muffler in constant operation and properly maintained to prevent any excessive or unusual noise, and no muffler or exhaust system shall be equipped with a cutout, bypass, or similar device.\n\n(b) Except as provided in Division 16.5 (commencing with Section 38000) with respect to off-highway motor vehicles subject to identification, every passenger vehicle operated off the highways shall at all times be equipped with an adequate muffler in constant operation and properly maintained so as to meet the requirements of Article 2.5 (commencing with Section 27200), and no muffler or exhaust system shall be equipped with a cutout, bypass, or similar device.\n\n(c) The provisions of subdivision (b) shall not be applicable to passenger vehicles being operated off the highways in an organized racing or competitive event conducted under the auspices of a recognized sanctioning body or by permit issued by the local governmental authority having jurisdiction, or to vehicles not equipped with an internal combustion engine.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 2. Exhaust Systems [27150 - 27159]\n##### § 27150\n\n(a) Every motor vehicle equipped with an internal combustion engine and subject to registration shall at all times be equipped with an adequate muffler in constant operation and properly maintained to prevent any excessive or unusual noise, and no muffler or exhaust system shall be equipped with a cutout, bypass, or similar device.\n\n(b) Except as provided in Division 16.5 (commencing with Section 38000) with respect to off-highway motor vehicles subject to identification, every passenger vehicle operated off the highways shall at all times be equipped with an adequate muffler in constant operation and properly maintained so as to meet the requirements of Article 2.5 (commencing with Section 27200), and no muffler or exhaust system shall be equipped with a cutout, bypass, or similar device.\n\n(c) The provisions of subdivision (b) shall not be applicable to passenger vehicles being operated off the highways in an organized racing or competitive event conducted under the auspices of a recognized sanctioning body or by permit issued by the local governmental authority having jurisdiction, or to vehicles not equipped with an internal combustion engine.\n\n*(Amended by Stats. 2021, Ch. 428, Sec. 9. (SB 570) Effective January 1, 2022.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every motor vehicle equipped with an internal combustion engine and subject to registration shall at all times be equipped with an adequate muffler in constant operation and properly maintained to prevent any excessive or unusual noise, and no muffler or exhaust system shall be equipped with a cutout, bypass, or similar device.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Except as provided in Division 16.5 (commencing with Section 38000) with respect to off-highway motor vehicles subject to identification, every passenger vehicle operated off the highways shall at all times be equipped with an adequate muffler in constant operation and properly maintained so as to meet the requirements of Article 2.5 (commencing with Section 27200), and no muffler or exhaust system shall be equipped with a cutout, bypass, or similar device.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The provisions of subdivision (b) shall not be applicable to passenger vehicles being operated off the highways in an organized racing or competitive event conducted under the auspices of a recognized sanctioning body or by permit issued by the local governmental authority having jurisdiction, or to vehicles not equipped with an internal combustion engine.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 428, Sec. 9. (SB 570) Effective January 1, 2022.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "428",
+    "section": "9",
+    "bill_number": "SB 570",
+    "effective_date": "2022-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "428",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27150.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27150.html",
+  "content_sha256": "99504c87ee0fb7f3f3190403019710a2b546a9de170ad0ce8daf82a1e1332263",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

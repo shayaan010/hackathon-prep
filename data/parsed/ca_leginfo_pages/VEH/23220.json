@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23220",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "12",
+  "chapter_title": "Public Offenses",
+  "chapter_range": "23100 - 23249.50",
+  "article": "2",
+  "article_title": "Offenses Involving Alcohol and Drugs",
+  "article_range": "23152 - 23229.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.12.4",
+  "text": "(a) A person shall not drink any alcoholic beverage or smoke or ingest marijuana or any marijuana product while driving a motor vehicle on any lands described in subdivision (c).\n\n(b) A person shall not drink any alcoholic beverage or smoke or ingest marijuana or any marijuana product while riding as a passenger in any motor vehicle being driven on any lands described in subdivision (c).\n\n(c) As used in this section, “lands” means those lands to which the Chappie-Z’berg Off-Highway Motor Vehicle Law of 1971 (Division 16.5 (commencing with Section 38000)) applies as to off-highway motor vehicles, as described in Section 38001.\n\n(d) A violation of subdivision (a) or (b) shall be punished as an infraction.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 12. Public Offenses [23100 - 23249.50]\n#### Article 2. Offenses Involving Alcohol and Drugs [23152 - 23229.1]\n##### § 23220\n\n(a) A person shall not drink any alcoholic beverage or smoke or ingest marijuana or any marijuana product while driving a motor vehicle on any lands described in subdivision (c).\n\n(b) A person shall not drink any alcoholic beverage or smoke or ingest marijuana or any marijuana product while riding as a passenger in any motor vehicle being driven on any lands described in subdivision (c).\n\n(c) As used in this section, “lands” means those lands to which the Chappie-Z’berg Off-Highway Motor Vehicle Law of 1971 (Division 16.5 (commencing with Section 38000)) applies as to off-highway motor vehicles, as described in Section 38001.\n\n(d) A violation of subdivision (a) or (b) shall be punished as an infraction.\n\n*(Amended by Stats. 2017, Ch. 232, Sec. 1. (SB 65) Effective January 1, 2018.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person shall not drink any alcoholic beverage or smoke or ingest marijuana or any marijuana product while driving a motor vehicle on any lands described in subdivision (c).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person shall not drink any alcoholic beverage or smoke or ingest marijuana or any marijuana product while riding as a passenger in any motor vehicle being driven on any lands described in subdivision (c).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "As used in this section, “lands” means those lands to which the Chappie-Z’berg Off-Highway Motor Vehicle Law of 1971 (Division 16.5 (commencing with Section 38000)) applies as to off-highway motor vehicles, as described in Section 38001.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "A violation of subdivision (a) or (b) shall be punished as an infraction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2017, Ch. 232, Sec. 1. (SB 65) Effective January 1, 2018.)",
+    "action": "Amended",
+    "statutes_year": 2017,
+    "chapter": "232",
+    "section": "1",
+    "bill_number": "SB 65",
+    "effective_date": "2018-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2017",
+  "op_chapter": "232",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23220.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23220.html",
+  "content_sha256": "73f85e1f2340c818bc4428db919ae624a0c013872411f05106b3f506d7511465",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

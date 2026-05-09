@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26709",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "4",
+  "chapter_title": "Windshields and Mirrors",
+  "chapter_range": "26700 - 26712",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.4",
+  "text": "(a) (1) Every motor vehicle registered in a foreign jurisdiction and every motorcycle subject to registration in this state shall be equipped with a mirror so located as to reflect to the driver a view of the highway for a distance of at least 200 feet to the rear of such vehicle.\n\n(2) Every motor vehicle subject to registration in this state, except a motorcycle, shall be equipped with not less than two mirrors, including one affixed to the left-hand side.\n\n(b) The following described types of motor vehicles, of a type subject to registration, shall be equipped with mirrors on both the left- and right-hand sides of the vehicle so located as to reflect to the driver a view of the highway through each mirror for a distance of at least 200 feet to the rear of such vehicle:\n\n(1) A motor vehicle so constructed or loaded as to obstruct the driver’s view to the rear.\n\n(2) A motor vehicle towing a vehicle and the towed vehicle or load thereon obstructs the driver’s view to the rear.\n\n(3) A bus or trolley coach.\n\n(c) The provisions of subdivision (b) shall not apply to a passenger vehicle when the load obstructing the driver’s view consists of passengers.\n\n(d) This section does not apply to an autonomous vehicle, as defined in Section 38750, that is not capable of operation by a human driver seated in the vehicle, provided that this exemption is consistent with, or authorized by, any applicable federal law, regulation, or exemption thereto.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 4. Windshields and Mirrors [26700 - 26712]\n##### § 26709\n\n(a) (1) Every motor vehicle registered in a foreign jurisdiction and every motorcycle subject to registration in this state shall be equipped with a mirror so located as to reflect to the driver a view of the highway for a distance of at least 200 feet to the rear of such vehicle.\n\n    (2) Every motor vehicle subject to registration in this state, except a motorcycle, shall be equipped with not less than two mirrors, including one affixed to the left-hand side.\n\n(b) The following described types of motor vehicles, of a type subject to registration, shall be equipped with mirrors on both the left- and right-hand sides of the vehicle so located as to reflect to the driver a view of the highway through each mirror for a distance of at least 200 feet to the rear of such vehicle:\n\n    (1) A motor vehicle so constructed or loaded as to obstruct the driver’s view to the rear.\n\n    (2) A motor vehicle towing a vehicle and the towed vehicle or load thereon obstructs the driver’s view to the rear.\n\n    (3) A bus or trolley coach.\n\n(c) The provisions of subdivision (b) shall not apply to a passenger vehicle when the load obstructing the driver’s view consists of passengers.\n\n(d) This section does not apply to an autonomous vehicle, as defined in Section 38750, that is not capable of operation by a human driver seated in the vehicle, provided that this exemption is consistent with, or authorized by, any applicable federal law, regulation, or exemption thereto.\n\n*(Amended by Stats. 2021, Ch. 428, Sec. 7. (SB 570) Effective January 1, 2022.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "(1) Every motor vehicle registered in a foreign jurisdiction and every motorcycle subject to registration in this state shall be equipped with a mirror so located as to reflect to the driver a view of the highway for a distance of at least 200 feet to the rear of such vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "Every motor vehicle subject to registration in this state, except a motorcycle, shall be equipped with not less than two mirrors, including one affixed to the left-hand side.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The following described types of motor vehicles, of a type subject to registration, shall be equipped with mirrors on both the left- and right-hand sides of the vehicle so located as to reflect to the driver a view of the highway through each mirror for a distance of at least 200 feet to the rear of such vehicle:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A motor vehicle so constructed or loaded as to obstruct the driver’s view to the rear.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "A motor vehicle towing a vehicle and the towed vehicle or load thereon obstructs the driver’s view to the rear.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "A bus or trolley coach.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "The provisions of subdivision (b) shall not apply to a passenger vehicle when the load obstructing the driver’s view consists of passengers.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "This section does not apply to an autonomous vehicle, as defined in Section 38750, that is not capable of operation by a human driver seated in the vehicle, provided that this exemption is consistent with, or authorized by, any applicable federal law, regulation, or exemption thereto.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 428, Sec. 7. (SB 570) Effective January 1, 2022.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "428",
+    "section": "7",
+    "bill_number": "SB 570",
+    "effective_date": "2022-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "428",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26709.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26709.html",
+  "content_sha256": "a8f72c8c980c2190bc45b4fad0fa2f29ac7562f32e7b3117c608ebb1e6af12b6",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

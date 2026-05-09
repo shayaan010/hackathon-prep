@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26102",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "16",
+  "article_title": "Equipment Testing",
+  "article_range": "26100 - 26106",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.16",
+  "text": "In the event any equipment in actual use meets the requirements of this code or a department regulation adopted pursuant to this code, a subsequent regulation shall not require the replacement of the equipment and shall be applicable only to equipment installed after the effective date of the regulation.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 16. Equipment Testing [26100 - 26106]\n##### § 26102\n\nIn the event any equipment in actual use meets the requirements of this code or a department regulation adopted pursuant to this code, a subsequent regulation shall not require the replacement of the equipment and shall be applicable only to equipment installed after the effective date of the regulation.\n\n*(Repealed and added by Stats. 1979, Ch. 723.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In the event any equipment in actual use meets the requirements of this code or a department regulation adopted pursuant to this code, a subsequent regulation shall not require the replacement of the equipment and shall be applicable only to equipment installed after the effective date of the regulation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed and added by Stats. 1979, Ch. 723.)",
+    "action": "Repealed",
+    "statutes_year": 1979,
+    "chapter": "723",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1979",
+  "op_chapter": "723",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26102.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26102.html",
+  "content_sha256": "49e5e6cb639d6c5a39f07b49ff21f057e344c962b69f9eb9254497ef3311d7f7",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

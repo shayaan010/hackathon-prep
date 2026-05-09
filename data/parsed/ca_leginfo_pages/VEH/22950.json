@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22950",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "11",
+  "chapter_title": "Parking Lots",
+  "chapter_range": "22950 - 22953",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.11",
+  "text": "Any city having a population of over 2,000,000 inhabitants shall regulate offstreet parking facilities within its jurisdiction in a manner not inconsistent with any provisions of this chapter.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 11. Parking Lots [22950 - 22953]\n##### § 22950\n\nAny city having a population of over 2,000,000 inhabitants shall regulate offstreet parking facilities within its jurisdiction in a manner not inconsistent with any provisions of this chapter.\n\n*(Repealed and added by Stats. 1976, Ch. 802.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any city having a population of over 2,000,000 inhabitants shall regulate offstreet parking facilities within its jurisdiction in a manner not inconsistent with any provisions of this chapter.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed and added by Stats. 1976, Ch. 802.)",
+    "action": "Repealed",
+    "statutes_year": 1976,
+    "chapter": "802",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "802",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22950.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22950.html",
+  "content_sha256": "ee821a6cce0b196e4fc145dfb06e0667f7c28a360a7ad1e0999d01b45ce56186",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

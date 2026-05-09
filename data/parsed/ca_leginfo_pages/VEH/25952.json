@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25952",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "15",
+  "article_title": "Light Restrictions and Mounting",
+  "article_range": "25950 - 25952",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.15",
+  "text": "(a) Lamps, reflectors, and area reflectorizing material of a type required or permitted on a vehicle may be mounted on a load carried by the vehicle in lieu of, or in addition to, such equipment on the vehicle. Such equipment shall be mounted on the load in a manner that would comply with the requirements of this code and regulations adopted pursuant to this code if the load were an integral part of the vehicle.\n\n(b) Lamps on vehicles carried as a load shall not be lighted unless such lamps are mounted in accordance with subdivision (a).",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 15. Light Restrictions and Mounting [25950 - 25952]\n##### § 25952\n\n(a) Lamps, reflectors, and area reflectorizing material of a type required or permitted on a vehicle may be mounted on a load carried by the vehicle in lieu of, or in addition to, such equipment on the vehicle. Such equipment shall be mounted on the load in a manner that would comply with the requirements of this code and regulations adopted pursuant to this code if the load were an integral part of the vehicle.\n\n(b) Lamps on vehicles carried as a load shall not be lighted unless such lamps are mounted in accordance with subdivision (a).\n\n*(Added by Stats. 1969, Ch. 341.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Lamps, reflectors, and area reflectorizing material of a type required or permitted on a vehicle may be mounted on a load carried by the vehicle in lieu of, or in addition to, such equipment on the vehicle. Such equipment shall be mounted on the load in a manner that would comply with the requirements of this code and regulations adopted pursuant to this code if the load were an integral part of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Lamps on vehicles carried as a load shall not be lighted unless such lamps are mounted in accordance with subdivision (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1969, Ch. 341.)",
+    "action": "Added",
+    "statutes_year": 1969,
+    "chapter": "341",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1969",
+  "op_chapter": "341",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25952.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25952.html",
+  "content_sha256": "c107c0bbd40dcefc6222ba49909a5fc5109a2351a2a904b654af9be3894b146d",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

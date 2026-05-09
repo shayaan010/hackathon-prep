@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22518",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "(a) Fringe and transportation corridor parking facilities constructed, maintained, or operated by the Department of Transportation pursuant to Section 146.5 of the Streets and Highways Code shall be used only by persons using a bicycle or public transit, or engaged in ridesharing, including, but not limited to, carpools or vanpools. A person shall not park a vehicle 30 feet or more in length, engage in loitering or camping, or engage in vending or any other commercial activity on any fringe or transportation corridor parking facility.\n\n(b) This section does not apply to alternatively fueled infrastructure programs in park-and-ride lots owned and operated by the Department of Transportation.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22518\n\n(a) Fringe and transportation corridor parking facilities constructed, maintained, or operated by the Department of Transportation pursuant to Section 146.5 of the Streets and Highways Code shall be used only by persons using a bicycle or public transit, or engaged in ridesharing, including, but not limited to, carpools or vanpools. A person shall not park a vehicle 30 feet or more in length, engage in loitering or camping, or engage in vending or any other commercial activity on any fringe or transportation corridor parking facility.\n\n(b) This section does not apply to alternatively fueled infrastructure programs in park-and-ride lots owned and operated by the Department of Transportation.\n\n*(Amended by Stats. 2012, Ch. 676, Sec. 3. (AB 2583) Effective January 1, 2013.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Fringe and transportation corridor parking facilities constructed, maintained, or operated by the Department of Transportation pursuant to Section 146.5 of the Streets and Highways Code shall be used only by persons using a bicycle or public transit, or engaged in ridesharing, including, but not limited to, carpools or vanpools. A person shall not park a vehicle 30 feet or more in length, engage in loitering or camping, or engage in vending or any other commercial activity on any fringe or transportation corridor parking facility.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to alternatively fueled infrastructure programs in park-and-ride lots owned and operated by the Department of Transportation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2012, Ch. 676, Sec. 3. (AB 2583) Effective January 1, 2013.)",
+    "action": "Amended",
+    "statutes_year": 2012,
+    "chapter": "676",
+    "section": "3",
+    "bill_number": "AB 2583",
+    "effective_date": "2013-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2012",
+  "op_chapter": "676",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22518.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22518.html",
+  "content_sha256": "600e9f926a5a7bd7c58d962218e9dc87f980a004719494a337020db71fa16ce4",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

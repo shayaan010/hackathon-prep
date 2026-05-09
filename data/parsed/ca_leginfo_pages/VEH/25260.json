@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25260",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "7",
+  "article_title": "Flashing and Colored Lights",
+  "article_range": "25250 - 25282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.7",
+  "text": "(a) Public utility vehicles, and vehicles of duly authorized representatives of a public utility, actually engaged in the construction, removal, maintenance, or inspection of public utility facilities, including the cutting or trimming of trees immediately adjacent thereto, may display flashing amber warning lights to the front, sides, or rear when necessarily parked on a highway or when moving at a speed slower than the normal flow of traffic.\n\n(b) Vehicles owned by public transit operators which provide assistance to a disabled district bus may display flashing amber warning lights to the front, sides, or rear when necessarily parked on a highway.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 7. Flashing and Colored Lights [25250 - 25282]\n##### § 25260\n\n(a) Public utility vehicles, and vehicles of duly authorized representatives of a public utility, actually engaged in the construction, removal, maintenance, or inspection of public utility facilities, including the cutting or trimming of trees immediately adjacent thereto, may display flashing amber warning lights to the front, sides, or rear when necessarily parked on a highway or when moving at a speed slower than the normal flow of traffic.\n\n(b) Vehicles owned by public transit operators which provide assistance to a disabled district bus may display flashing amber warning lights to the front, sides, or rear when necessarily parked on a highway.\n\n*(Amended by Stats. 1980, Ch. 399, Sec. 5. Effective July 11, 1980.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Public utility vehicles, and vehicles of duly authorized representatives of a public utility, actually engaged in the construction, removal, maintenance, or inspection of public utility facilities, including the cutting or trimming of trees immediately adjacent thereto, may display flashing amber warning lights to the front, sides, or rear when necessarily parked on a highway or when moving at a speed slower than the normal flow of traffic.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Vehicles owned by public transit operators which provide assistance to a disabled district bus may display flashing amber warning lights to the front, sides, or rear when necessarily parked on a highway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1980, Ch. 399, Sec. 5. Effective July 11, 1980.)",
+    "action": "Amended",
+    "statutes_year": 1980,
+    "chapter": "399",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "1980-07-11",
+    "operative_date": null
+  },
+  "op_statues": "1980",
+  "op_chapter": "399",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25260.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25260.html",
+  "content_sha256": "29ce2eeafc4ca63993bf50571f2cb5652c42f1877c6334f4bd0e91bca8a0fd1c",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

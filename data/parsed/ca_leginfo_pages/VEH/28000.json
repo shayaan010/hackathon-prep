@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28000",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "9",
+  "article_title": "Refrigeration Equipment",
+  "article_range": "28000- 28000.",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.14",
+  "text": "Every refrigerator van equipped with one or more doors designed to lock automatically upon closure shall have at least one door which can be opened from inside the van as an emergency means of exit.\n\nFor the purposes of this article, “refrigerator van” means any motor truck, semitrailer, or trailer, with a fully enclosed cargo body having an enclosed volume of 15 cubic feet or more, which utilizes a mechanical refrigeration system to reduce the temperature within the enclosed portion of the vehicle to 32 degrees Fahrenheit or less, or which provides refrigeration by the use of dry ice.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 9. Refrigeration Equipment [28000- 28000.]\n##### § 28000\n\nEvery refrigerator van equipped with one or more doors designed to lock automatically upon closure shall have at least one door which can be opened from inside the van as an emergency means of exit.\n\nFor the purposes of this article, “refrigerator van” means any motor truck, semitrailer, or trailer, with a fully enclosed cargo body having an enclosed volume of 15 cubic feet or more, which utilizes a mechanical refrigeration system to reduce the temperature within the enclosed portion of the vehicle to 32 degrees Fahrenheit or less, or which provides refrigeration by the use of dry ice.\n\n*(Added by Stats. 1961, Ch. 1335.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every refrigerator van equipped with one or more doors designed to lock automatically upon closure shall have at least one door which can be opened from inside the van as an emergency means of exit.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "For the purposes of this article, “refrigerator van” means any motor truck, semitrailer, or trailer, with a fully enclosed cargo body having an enclosed volume of 15 cubic feet or more, which utilizes a mechanical refrigeration system to reduce the temperature within the enclosed portion of the vehicle to 32 degrees Fahrenheit or less, or which provides refrigeration by the use of dry ice.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1961, Ch. 1335.)",
+    "action": "Added",
+    "statutes_year": 1961,
+    "chapter": "1335",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1961",
+  "op_chapter": "1335",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28000.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28000.html",
+  "content_sha256": "85a9473d5ee2a7a200dcea2a804e663fb3aa793adf43d7e50243ce34f3b42cf9",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

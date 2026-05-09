@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26703",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "4",
+  "chapter_title": "Windshields and Mirrors",
+  "chapter_range": "26700 - 26712",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.4",
+  "text": "(a) No person shall replace any glazing materials used in interior partitions, doors, windows, or openings in the roof in any motor vehicle, in the outside windows, doors, interior partitions, or openings in the roof of any camper, or in windows, doors, interior partitions, or openings in the roof of a trailer coach capable of being towed with a fifth-wheel device, with any glazing material other than safety glazing material.\n\n(b) No person shall replace any glazing material used in the windshield, rear window, auxiliary wind deflectors, or windows to the left and right of the driver with any material other than safety glazing material.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 4. Windshields and Mirrors [26700 - 26712]\n##### § 26703\n\n(a) No person shall replace any glazing materials used in interior partitions, doors, windows, or openings in the roof in any motor vehicle, in the outside windows, doors, interior partitions, or openings in the roof of any camper, or in windows, doors, interior partitions, or openings in the roof of a trailer coach capable of being towed with a fifth-wheel device, with any glazing material other than safety glazing material.\n\n(b) No person shall replace any glazing material used in the windshield, rear window, auxiliary wind deflectors, or windows to the left and right of the driver with any material other than safety glazing material.\n\n*(Amended by Stats. 1976, Ch. 900.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall replace any glazing materials used in interior partitions, doors, windows, or openings in the roof in any motor vehicle, in the outside windows, doors, interior partitions, or openings in the roof of any camper, or in windows, doors, interior partitions, or openings in the roof of a trailer coach capable of being towed with a fifth-wheel device, with any glazing material other than safety glazing material.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No person shall replace any glazing material used in the windshield, rear window, auxiliary wind deflectors, or windows to the left and right of the driver with any material other than safety glazing material.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1976, Ch. 900.)",
+    "action": "Amended",
+    "statutes_year": 1976,
+    "chapter": "900",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "900",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26703.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26703.html",
+  "content_sha256": "8b52ed7215362a5329221c697c3c68d1eacbf7c450f59186237010f255d82181",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

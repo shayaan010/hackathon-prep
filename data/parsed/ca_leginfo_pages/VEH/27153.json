@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27153",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "2",
+  "article_title": "Exhaust Systems",
+  "article_range": "27150 - 27159",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.2",
+  "text": "(a) A motor vehicle shall not be operated in a manner resulting in the escape of excessive smoke, flame, gas, oil, or fuel residue.\n\n(b) A nongasoline heavy-duty onroad motor vehicle with a gross vehicle weight rating of more than 14,000 pounds shall not be operated in a manner resulting in the escape of visible smoke, except during active regeneration.\n\n(c) (1) A violation of this section is a correctable violation pursuant to Article 4 (commencing with Section 40610) of Chapter 2 of Division 17. Except as provided in paragraph (2) and subdivision (d), an owner or operator of a vehicle found to be in violation of this section shall have 45 days to correct the violation and the vehicle shall not be prohibited from being used during this time.\n\n(2) Except as provided in subdivision (d), an owner or operator of a vehicle that is used exclusively in the conduct of agricultural operations and that is found to be in violation of this section shall have a time period determined by the State Air Resources Board that is not less than 75 days from the date of the citation to correct the violation and the vehicle shall not be prohibited from being used during that time.\n\n(d) Notwithstanding subdivision (c), a vehicle found to have willfully tampered emission controls, including the vehicle’s onboard diagnostics system, shall not be operated.\n\n(e) This section applies to motor vehicles of the United States or its agencies, to the extent authorized by federal law.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 2. Exhaust Systems [27150 - 27159]\n##### § 27153\n\n(a) A motor vehicle shall not be operated in a manner resulting in the escape of excessive smoke, flame, gas, oil, or fuel residue.\n\n(b) A nongasoline heavy-duty onroad motor vehicle with a gross vehicle weight rating of more than 14,000 pounds shall not be operated in a manner resulting in the escape of visible smoke, except during active regeneration.\n\n(c) (1) A violation of this section is a correctable violation pursuant to Article 4 (commencing with Section 40610) of Chapter 2 of Division 17. Except as provided in paragraph (2) and subdivision (d), an owner or operator of a vehicle found to be in violation of this section shall have 45 days to correct the violation and the vehicle shall not be prohibited from being used during this time.\n\n    (2) Except as provided in subdivision (d), an owner or operator of a vehicle that is used exclusively in the conduct of agricultural operations and that is found to be in violation of this section shall have a time period determined by the State Air Resources Board that is not less than 75 days from the date of the citation to correct the violation and the vehicle shall not be prohibited from being used during that time.\n\n(d) Notwithstanding subdivision (c), a vehicle found to have willfully tampered emission controls, including the vehicle’s onboard diagnostics system, shall not be operated.\n\n(e) This section applies to motor vehicles of the United States or its agencies, to the extent authorized by federal law.\n\n*(Amended by Stats. 2019, Ch. 298, Sec. 6. (SB 210) Effective January 1, 2020.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A motor vehicle shall not be operated in a manner resulting in the escape of excessive smoke, flame, gas, oil, or fuel residue.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A nongasoline heavy-duty onroad motor vehicle with a gross vehicle weight rating of more than 14,000 pounds shall not be operated in a manner resulting in the escape of visible smoke, except during active regeneration.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "(1) A violation of this section is a correctable violation pursuant to Article 4 (commencing with Section 40610) of Chapter 2 of Division 17. Except as provided in paragraph (2) and subdivision (d), an owner or operator of a vehicle found to be in violation of this section shall have 45 days to correct the violation and the vehicle shall not be prohibited from being used during this time.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "Except as provided in subdivision (d), an owner or operator of a vehicle that is used exclusively in the conduct of agricultural operations and that is found to be in violation of this section shall have a time period determined by the State Air Resources Board that is not less than 75 days from the date of the citation to correct the violation and the vehicle shall not be prohibited from being used during that time.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "d",
+      "text": "Notwithstanding subdivision (c), a vehicle found to have willfully tampered emission controls, including the vehicle’s onboard diagnostics system, shall not be operated.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "This section applies to motor vehicles of the United States or its agencies, to the extent authorized by federal law.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2019, Ch. 298, Sec. 6. (SB 210) Effective January 1, 2020.)",
+    "action": "Amended",
+    "statutes_year": 2019,
+    "chapter": "298",
+    "section": "6",
+    "bill_number": "SB 210",
+    "effective_date": "2020-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2019",
+  "op_chapter": "298",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27153.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27153.html",
+  "content_sha256": "480a4fbea89ccc63a384707155b12c95db3a00ab5854b04dc033091a4110cc21",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

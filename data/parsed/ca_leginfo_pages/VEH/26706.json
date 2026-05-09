@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26706",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "4",
+  "chapter_title": "Windshields and Mirrors",
+  "chapter_range": "26700 - 26712",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.4",
+  "text": "(a) Every motor vehicle, except motorcycles, equipped with a windshield shall also be equipped with a self-operating windshield wiper.\n\n(b) Every new motor vehicle first registered after December 31, 1949, except motorcycles, shall be equipped with two windshield wipers, one mounted on the right half and one on the left half of the windshield, except that any motor vehicle may be equipped with a single wiper so long as it meets the wiped area requirements in Federal Motor Vehicle Safety Standards Governing Windshield Wiping and Washing Systems.\n\n(c) This section does not apply to snow removal equipment equipped with adequate manually operated windshield wipers.\n\n(d) This section does not apply to an autonomous vehicle, as defined in Section 38750, that is not capable of operation by a human driver seated in the vehicle, provided that this exemption is consistent with, or authorized by, any applicable federal law, regulation, or exemption thereto.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 4. Windshields and Mirrors [26700 - 26712]\n##### § 26706\n\n(a) Every motor vehicle, except motorcycles, equipped with a windshield shall also be equipped with a self-operating windshield wiper.\n\n(b) Every new motor vehicle first registered after December 31, 1949, except motorcycles, shall be equipped with two windshield wipers, one mounted on the right half and one on the left half of the windshield, except that any motor vehicle may be equipped with a single wiper so long as it meets the wiped area requirements in Federal Motor Vehicle Safety Standards Governing Windshield Wiping and Washing Systems.\n\n(c) This section does not apply to snow removal equipment equipped with adequate manually operated windshield wipers.\n\n(d) This section does not apply to an autonomous vehicle, as defined in Section 38750, that is not capable of operation by a human driver seated in the vehicle, provided that this exemption is consistent with, or authorized by, any applicable federal law, regulation, or exemption thereto.\n\n*(Amended by Stats. 2021, Ch. 428, Sec. 6. (SB 570) Effective January 1, 2022.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every motor vehicle, except motorcycles, equipped with a windshield shall also be equipped with a self-operating windshield wiper.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Every new motor vehicle first registered after December 31, 1949, except motorcycles, shall be equipped with two windshield wipers, one mounted on the right half and one on the left half of the windshield, except that any motor vehicle may be equipped with a single wiper so long as it meets the wiped area requirements in Federal Motor Vehicle Safety Standards Governing Windshield Wiping and Washing Systems.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section does not apply to snow removal equipment equipped with adequate manually operated windshield wipers.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "This section does not apply to an autonomous vehicle, as defined in Section 38750, that is not capable of operation by a human driver seated in the vehicle, provided that this exemption is consistent with, or authorized by, any applicable federal law, regulation, or exemption thereto.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 428, Sec. 6. (SB 570) Effective January 1, 2022.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "428",
+    "section": "6",
+    "bill_number": "SB 570",
+    "effective_date": "2022-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "428",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26706.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26706.html",
+  "content_sha256": "26658cb01aec4c72fecdbc6ee02b20483574347db47723d264321c3835353777",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26522",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "4",
+  "article_title": "Vacuum Brakes",
+  "article_range": "26520 - 26522",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.4",
+  "text": "Vehicles required to be equipped with power brakes and equipped with vacuum or vacuum-assisted brakes shall have a check valve installed and properly maintained in the vacuum system between the source of vacuum and the vacuum reserve.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 4. Vacuum Brakes [26520 - 26522]\n##### § 26522\n\nVehicles required to be equipped with power brakes and equipped with vacuum or vacuum-assisted brakes shall have a check valve installed and properly maintained in the vacuum system between the source of vacuum and the vacuum reserve.\n\n*(Added by Stats. 1963, Ch. 386.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Vehicles required to be equipped with power brakes and equipped with vacuum or vacuum-assisted brakes shall have a check valve installed and properly maintained in the vacuum system between the source of vacuum and the vacuum reserve.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1963, Ch. 386.)",
+    "action": "Added",
+    "statutes_year": 1963,
+    "chapter": "386",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1963",
+  "op_chapter": "386",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26522.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26522.html",
+  "content_sha256": "b621ce37417c08a30f3cab360d084ffecc06e18b3f404800dd9c7b4b3149e65e",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26104",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "16",
+  "article_title": "Equipment Testing",
+  "article_range": "26100 - 26106",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.16",
+  "text": "(a) Every manufacturer who sells, offers for sale, or manufactures for use upon a vehicle devices subject to requirements established by the department shall, before the device is offered for sale, have laboratory test data showing compliance with such requirements. Tests may be conducted by the manufacturer.\n\n(b) The department may at any time request from the manufacturer a copy of the test data showing proof of compliance of any device with the requirements established by the department and additional evidence that due care was exercised in maintaining compliance during production. If the manufacturer fails to provide such proof of compliance within 30 days of notice from the department, the department may prohibit the sale of the device in this state until acceptable proof of compliance is received by the department.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 16. Equipment Testing [26100 - 26106]\n##### § 26104\n\n(a) Every manufacturer who sells, offers for sale, or manufactures for use upon a vehicle devices subject to requirements established by the department shall, before the device is offered for sale, have laboratory test data showing compliance with such requirements. Tests may be conducted by the manufacturer.\n\n(b) The department may at any time request from the manufacturer a copy of the test data showing proof of compliance of any device with the requirements established by the department and additional evidence that due care was exercised in maintaining compliance during production. If the manufacturer fails to provide such proof of compliance within 30 days of notice from the department, the department may prohibit the sale of the device in this state until acceptable proof of compliance is received by the department.\n\n*(Amended by Stats. 1980, Ch. 399, Sec. 8. Effective July 11, 1980.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every manufacturer who sells, offers for sale, or manufactures for use upon a vehicle devices subject to requirements established by the department shall, before the device is offered for sale, have laboratory test data showing compliance with such requirements. Tests may be conducted by the manufacturer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department may at any time request from the manufacturer a copy of the test data showing proof of compliance of any device with the requirements established by the department and additional evidence that due care was exercised in maintaining compliance during production. If the manufacturer fails to provide such proof of compliance within 30 days of notice from the department, the department may prohibit the sale of the device in this state until acceptable proof of compliance is received by the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1980, Ch. 399, Sec. 8. Effective July 11, 1980.)",
+    "action": "Amended",
+    "statutes_year": 1980,
+    "chapter": "399",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": "1980-07-11",
+    "operative_date": null
+  },
+  "op_statues": "1980",
+  "op_chapter": "399",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26104.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26104.html",
+  "content_sha256": "f1dc2020ea5db1081223fc50ae4c7aa36f15d1a0b77e4858850dc126f6d65f45",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

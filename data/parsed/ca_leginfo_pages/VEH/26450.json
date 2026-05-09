@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26450",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "2",
+  "article_title": "Operation of Brakes",
+  "article_range": "26450 - 26458.5",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.2",
+  "text": "Every motor vehicle shall be equipped with a service brake system and every motor vehicle, other than a motorcycle, shall be equipped with a parking brake system. Both the service brake and parking brake shall be separately applied.\n\nIf the two systems are connected in any way, they shall be so constructed that failure of any one part, except failure in the drums, brakeshoes, or other mechanical parts of the wheel brake assemblies, shall not leave the motor vehicle without operative brakes.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 2. Operation of Brakes [26450 - 26458.5]\n##### § 26450\n\nEvery motor vehicle shall be equipped with a service brake system and every motor vehicle, other than a motorcycle, shall be equipped with a parking brake system. Both the service brake and parking brake shall be separately applied.\n\nIf the two systems are connected in any way, they shall be so constructed that failure of any one part, except failure in the drums, brakeshoes, or other mechanical parts of the wheel brake assemblies, shall not leave the motor vehicle without operative brakes.\n\n*(Amended by Stats. 1967, Ch. 369.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every motor vehicle shall be equipped with a service brake system and every motor vehicle, other than a motorcycle, shall be equipped with a parking brake system. Both the service brake and parking brake shall be separately applied.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "If the two systems are connected in any way, they shall be so constructed that failure of any one part, except failure in the drums, brakeshoes, or other mechanical parts of the wheel brake assemblies, shall not leave the motor vehicle without operative brakes.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1967, Ch. 369.)",
+    "action": "Amended",
+    "statutes_year": 1967,
+    "chapter": "369",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1967",
+  "op_chapter": "369",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26450.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26450.html",
+  "content_sha256": "0b17369b5862c6cbf68c5d896cc58e9703aa878480ed348c77ac56c9c8504332",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

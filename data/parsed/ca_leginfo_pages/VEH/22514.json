@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22514",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "No person shall stop, park, or leave standing any vehicle within 15 feet of a fire hydrant except as follows:\n\n(a) If the vehicle is attended by a licensed driver who is seated in the front seat and who can immediately move such vehicle in case of necessity.\n\n(b) If the local authority adopts an ordinance or resolution reducing that distance. If the distance is less than 10 feet total length when measured along the curb or edge of the street, the distance shall be indicated by signs or markings.\n\n(c) If the vehicle is owned or operated by a fire department and is clearly marked as a fire department vehicle.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22514\n\nNo person shall stop, park, or leave standing any vehicle within 15 feet of a fire hydrant except as follows:\n\n(a) If the vehicle is attended by a licensed driver who is seated in the front seat and who can immediately move such vehicle in case of necessity.\n\n(b) If the local authority adopts an ordinance or resolution reducing that distance. If the distance is less than 10 feet total length when measured along the curb or edge of the street, the distance shall be indicated by signs or markings.\n\n(c) If the vehicle is owned or operated by a fire department and is clearly marked as a fire department vehicle.\n\n*(Amended by Stats. 1987, Ch. 488, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall stop, park, or leave standing any vehicle within 15 feet of a fire hydrant except as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "If the vehicle is attended by a licensed driver who is seated in the front seat and who can immediately move such vehicle in case of necessity.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If the local authority adopts an ordinance or resolution reducing that distance. If the distance is less than 10 feet total length when measured along the curb or edge of the street, the distance shall be indicated by signs or markings.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "If the vehicle is owned or operated by a fire department and is clearly marked as a fire department vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1987, Ch. 488, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1987,
+    "chapter": "488",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1987",
+  "op_chapter": "488",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22514.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22514.html",
+  "content_sha256": "2ed57df18b37eb4b89c8e3dc42eddd68d3210ee14f73d524fe979abfeaf88852",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

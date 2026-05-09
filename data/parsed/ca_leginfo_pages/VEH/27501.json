@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27501",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "4",
+  "article_title": "Tires",
+  "article_range": "27450 - 27503",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.9",
+  "text": "(a) No dealer or person holding a retail seller’s permit shall sell, offer for sale, expose for sale, or install on a vehicle for use on a highway, a pneumatic tire which is not in compliance with regulations adopted pursuant to Section 27500. This subdivision shall not apply to any person who installs on a vehicle, as part of an emergency service rendered to a vehicle upon a highway, a spare tire with which such disabled vehicle was equipped.\n\n(b) No person shall use on a highway a pneumatic tire which is not in conformance with such regulations.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 4. Tires [27450 - 27503]\n##### § 27501\n\n(a) No dealer or person holding a retail seller’s permit shall sell, offer for sale, expose for sale, or install on a vehicle for use on a highway, a pneumatic tire which is not in compliance with regulations adopted pursuant to Section 27500. This subdivision shall not apply to any person who installs on a vehicle, as part of an emergency service rendered to a vehicle upon a highway, a spare tire with which such disabled vehicle was equipped.\n\n(b) No person shall use on a highway a pneumatic tire which is not in conformance with such regulations.\n\n*(Amended by Stats. 1976, Ch. 70.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No dealer or person holding a retail seller’s permit shall sell, offer for sale, expose for sale, or install on a vehicle for use on a highway, a pneumatic tire which is not in compliance with regulations adopted pursuant to Section 27500. This subdivision shall not apply to any person who installs on a vehicle, as part of an emergency service rendered to a vehicle upon a highway, a spare tire with which such disabled vehicle was equipped.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No person shall use on a highway a pneumatic tire which is not in conformance with such regulations.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1976, Ch. 70.)",
+    "action": "Amended",
+    "statutes_year": 1976,
+    "chapter": "70",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "70",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27501.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27501.html",
+  "content_sha256": "7826eae35aae8f29ce171615b16eb57c44d9ad7772ca69355650f01cb06c260e",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

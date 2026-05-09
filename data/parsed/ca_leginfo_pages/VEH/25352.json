@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25352",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "9",
+  "article_title": "Commercial and Common Carrier Vehicles",
+  "article_range": "25350 - 25353",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.9",
+  "text": "Any bus operated by a publicly owned transit system on regularly scheduled service may be equipped with a device capable of sending a signal that interrupts or changes the sequence patterns of an official traffic control signal, under the following conditions:\n\n(a) If such a device is a flashing gaseous discharge lamp, such lamp shall not emit a visible light exceeding an average of 0.0003 candela per flash of any color measured at a distance of 10 feet.\n\n(b) Such device shall not be installed or used unless and until authorized on specific routes by either the Department of Transportation pursuant to Section 21350 or local authorities pursuant to Section 21351.\n\n(c) Any bus or system operating under the conditions specified herein shall allow emergency vehicles operating pursuant to Section 25258 or 21055 to have priority in changing the sequence patterns of an official traffic control signal.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 9. Commercial and Common Carrier Vehicles [25350 - 25353]\n##### § 25352\n\nAny bus operated by a publicly owned transit system on regularly scheduled service may be equipped with a device capable of sending a signal that interrupts or changes the sequence patterns of an official traffic control signal, under the following conditions:\n\n(a) If such a device is a flashing gaseous discharge lamp, such lamp shall not emit a visible light exceeding an average of 0.0003 candela per flash of any color measured at a distance of 10 feet.\n\n(b) Such device shall not be installed or used unless and until authorized on specific routes by either the Department of Transportation pursuant to Section 21350 or local authorities pursuant to Section 21351.\n\n(c) Any bus or system operating under the conditions specified herein shall allow emergency vehicles operating pursuant to Section 25258 or 21055 to have priority in changing the sequence patterns of an official traffic control signal.\n\n*(Amended by Stats. 1980, Ch. 399, Sec. 6. Effective July 11, 1980.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any bus operated by a publicly owned transit system on regularly scheduled service may be equipped with a device capable of sending a signal that interrupts or changes the sequence patterns of an official traffic control signal, under the following conditions:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "If such a device is a flashing gaseous discharge lamp, such lamp shall not emit a visible light exceeding an average of 0.0003 candela per flash of any color measured at a distance of 10 feet.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Such device shall not be installed or used unless and until authorized on specific routes by either the Department of Transportation pursuant to Section 21350 or local authorities pursuant to Section 21351.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any bus or system operating under the conditions specified herein shall allow emergency vehicles operating pursuant to Section 25258 or 21055 to have priority in changing the sequence patterns of an official traffic control signal.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1980, Ch. 399, Sec. 6. Effective July 11, 1980.)",
+    "action": "Amended",
+    "statutes_year": 1980,
+    "chapter": "399",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "1980-07-11",
+    "operative_date": null
+  },
+  "op_statues": "1980",
+  "op_chapter": "399",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25352.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25352.html",
+  "content_sha256": "5277a14b91dd03bc9259ebdd9b3b92719ab9560ef9eb5da811e6cc9e65042d7d",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

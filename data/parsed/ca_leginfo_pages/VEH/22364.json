@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22364",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "1",
+  "article_title": "Generally",
+  "article_range": "22348 - 22366",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.1",
+  "text": "Whenever the Department of Transportation determines, upon the basis of an engineering and traffic survey, that the safe and orderly movement of traffic upon any state highway will be facilitated by the establishment of different speed limits for the various lanes of traffic, the department may place signs upon the state highway, or any portion thereof. The signs shall designate the speed limits for each of the lanes of traffic.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 1. Generally [22348 - 22366]\n##### § 22364\n\nWhenever the Department of Transportation determines, upon the basis of an engineering and traffic survey, that the safe and orderly movement of traffic upon any state highway will be facilitated by the establishment of different speed limits for the various lanes of traffic, the department may place signs upon the state highway, or any portion thereof. The signs shall designate the speed limits for each of the lanes of traffic.\n\n*(Amended by Stats. 1982, Ch. 681, Sec. 84.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever the Department of Transportation determines, upon the basis of an engineering and traffic survey, that the safe and orderly movement of traffic upon any state highway will be facilitated by the establishment of different speed limits for the various lanes of traffic, the department may place signs upon the state highway, or any portion thereof. The signs shall designate the speed limits for each of the lanes of traffic.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1982, Ch. 681, Sec. 84.)",
+    "action": "Amended",
+    "statutes_year": 1982,
+    "chapter": "681",
+    "section": "84",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "681",
+  "op_section": "84",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22364.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22364.html",
+  "content_sha256": "0915848344905ad07e7e22f59c0e78c1651cbe0961dda9b836108491f9799146",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

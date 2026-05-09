@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26507",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "3",
+  "article_title": "Airbrakes",
+  "article_range": "26502 - 26508",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.3",
+  "text": "A check valve shall be installed and properly maintained in the air supply piping of every motor vehicle equipped with airbrakes, either between the air compressor and the first reservoir or tank immediately adjacent to the air intake of said reservoir, or between No. 1 reservoir (wet tank) and No. 2 reservoir (dry tank) immediately adjacent to the air intake of the No. 2 reservoir; provided, that the air supply for the brakes is not drawn from the No. 1 reservoir and that the No. 1 and No. 2 reservoirs are connected by only one pipeline.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 3. Airbrakes [26502 - 26508]\n##### § 26507\n\nA check valve shall be installed and properly maintained in the air supply piping of every motor vehicle equipped with airbrakes, either between the air compressor and the first reservoir or tank immediately adjacent to the air intake of said reservoir, or between No. 1 reservoir (wet tank) and No. 2 reservoir (dry tank) immediately adjacent to the air intake of the No. 2 reservoir; provided, that the air supply for the brakes is not drawn from the No. 1 reservoir and that the No. 1 and No. 2 reservoirs are connected by only one pipeline.\n\n*(Added by Stats. 1959, Ch. 510.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A check valve shall be installed and properly maintained in the air supply piping of every motor vehicle equipped with airbrakes, either between the air compressor and the first reservoir or tank immediately adjacent to the air intake of said reservoir, or between No. 1 reservoir (wet tank) and No. 2 reservoir (dry tank) immediately adjacent to the air intake of the No. 2 reservoir; provided, that the air supply for the brakes is not drawn from the No. 1 reservoir and that the No. 1 and No. 2 reservoirs are connected by only one pipeline.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1959, Ch. 510.)",
+    "action": "Added",
+    "statutes_year": 1959,
+    "chapter": "510",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "510",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26507.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26507.html",
+  "content_sha256": "24e8afa2dd0af4a36127a1a130c87befa6cb4f29a0223ee0c99d3f6bbd3cc1f4",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

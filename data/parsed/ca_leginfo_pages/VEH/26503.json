@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26503",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "3",
+  "article_title": "Airbrakes",
+  "article_range": "26502 - 26508",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.3",
+  "text": "Every motor vehicle equipped with airbrakes or equipped to operate airbrakes on towed vehicles shall be equipped with a standard type safety valve which shall be installed so as to have an uninterrupted connection with the air reservoir or tank. It shall be adjusted and maintained so that it will open and discharge the air system under any condition at a pressure of not to exceed 150 pounds per square inch and close and reseat itself at a point above the maximum air governor setting. The department may by regulation prescribe a higher maximum opening pressure for air pressure systems designed for, and capable of safely operating with, pressure safety valves with a higher opening pressure.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 3. Airbrakes [26502 - 26508]\n##### § 26503\n\nEvery motor vehicle equipped with airbrakes or equipped to operate airbrakes on towed vehicles shall be equipped with a standard type safety valve which shall be installed so as to have an uninterrupted connection with the air reservoir or tank. It shall be adjusted and maintained so that it will open and discharge the air system under any condition at a pressure of not to exceed 150 pounds per square inch and close and reseat itself at a point above the maximum air governor setting. The department may by regulation prescribe a higher maximum opening pressure for air pressure systems designed for, and capable of safely operating with, pressure safety valves with a higher opening pressure.\n\n*(Amended by Stats. 1967, Ch. 1578.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every motor vehicle equipped with airbrakes or equipped to operate airbrakes on towed vehicles shall be equipped with a standard type safety valve which shall be installed so as to have an uninterrupted connection with the air reservoir or tank. It shall be adjusted and maintained so that it will open and discharge the air system under any condition at a pressure of not to exceed 150 pounds per square inch and close and reseat itself at a point above the maximum air governor setting. The department may by regulation prescribe a higher maximum opening pressure for air pressure systems designed for, and capable of safely operating with, pressure safety valves with a higher opening pressure.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1967, Ch. 1578.)",
+    "action": "Amended",
+    "statutes_year": 1967,
+    "chapter": "1578",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1967",
+  "op_chapter": "1578",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26503.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26503.html",
+  "content_sha256": "4689e19c9f596104fbaafe2db902f267d2e5b31be5786ca79dfa81e5096f9b2c",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

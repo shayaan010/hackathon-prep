@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27902",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "8",
+  "article_title": "Signs",
+  "article_range": "27900 - 27910",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.13",
+  "text": "Section 27900 does not apply to any motor vehicle having an unladen weight of 6,000 pounds or less or to any vehicle towed by such motor vehicles, or to any motor vehicle operating under manufacturers, dealers, or transporters special plates, or to any motor vehicle operated by a passenger stage corporation subject to the jurisdiction of the Public Utilities Commission.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 8. Signs [27900 - 27910]\n##### § 27902\n\nSection 27900 does not apply to any motor vehicle having an unladen weight of 6,000 pounds or less or to any vehicle towed by such motor vehicles, or to any motor vehicle operating under manufacturers, dealers, or transporters special plates, or to any motor vehicle operated by a passenger stage corporation subject to the jurisdiction of the Public Utilities Commission.\n\n*(Amended by Stats. 1963, Ch. 1021.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Section 27900 does not apply to any motor vehicle having an unladen weight of 6,000 pounds or less or to any vehicle towed by such motor vehicles, or to any motor vehicle operating under manufacturers, dealers, or transporters special plates, or to any motor vehicle operated by a passenger stage corporation subject to the jurisdiction of the Public Utilities Commission.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1963, Ch. 1021.)",
+    "action": "Amended",
+    "statutes_year": 1963,
+    "chapter": "1021",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1963",
+  "op_chapter": "1021",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27902.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27902.html",
+  "content_sha256": "dd61c2437e960290afb23f50024e41c95f4fe04dfade401066691369ede14ee2",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

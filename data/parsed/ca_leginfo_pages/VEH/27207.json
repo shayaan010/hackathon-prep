@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27207",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "2.5",
+  "article_title": "Noise Limits",
+  "article_range": "27200 - 27207",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.3",
+  "text": "No motor vehicle with a gross vehicle weight rating of more than 10,000 pounds and equipped with an engine speed governor shall produce a sound level exceeding 88 dbA, measured on an open site at a distance of 50 feet from the longitudinal centerline of the vehicle, when its engine is accelerated from idle with wide open throttle to governed speed with the vehicle stationary, transmission in neutral, and clutch, if any, engaged. Test procedures for compliance with this section shall be established by the department, taking into consideration the procedures of the United States Department of Transportation. The procedures may provide for measuring at other distances, in which case the measurement shall be corrected so as to provide for measurements equivalent to the noise limit established by this section measured at 50 feet.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 2.5. Noise Limits [27200 - 27207]\n##### § 27207\n\nNo motor vehicle with a gross vehicle weight rating of more than 10,000 pounds and equipped with an engine speed governor shall produce a sound level exceeding 88 dbA, measured on an open site at a distance of 50 feet from the longitudinal centerline of the vehicle, when its engine is accelerated from idle with wide open throttle to governed speed with the vehicle stationary, transmission in neutral, and clutch, if any, engaged. Test procedures for compliance with this section shall be established by the department, taking into consideration the procedures of the United States Department of Transportation. The procedures may provide for measuring at other distances, in which case the measurement shall be corrected so as to provide for measurements equivalent to the noise limit established by this section measured at 50 feet.\n\n*(Amended by Stats. 1996, Ch. 124, Sec. 134. Effective January 1, 1997.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No motor vehicle with a gross vehicle weight rating of more than 10,000 pounds and equipped with an engine speed governor shall produce a sound level exceeding 88 dbA, measured on an open site at a distance of 50 feet from the longitudinal centerline of the vehicle, when its engine is accelerated from idle with wide open throttle to governed speed with the vehicle stationary, transmission in neutral, and clutch, if any, engaged. Test procedures for compliance with this section shall be established by the department, taking into consideration the procedures of the United States Department of Transportation. The procedures may provide for measuring at other distances, in which case the measurement shall be corrected so as to provide for measurements equivalent to the noise limit established by this section measured at 50 feet.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 124, Sec. 134. Effective January 1, 1997.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "124",
+    "section": "134",
+    "bill_number": null,
+    "effective_date": "1997-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "124",
+  "op_section": "134",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27207.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27207.html",
+  "content_sha256": "0429509fcd22ac8b760976bb21a251823019d9fc2514ea2260d71a8e3d2d7853",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

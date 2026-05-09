@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28100",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "15",
+  "article_title": "Pilot Cars",
+  "article_range": "28100 - 28103",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.21",
+  "text": "A pilot car shall display at least one red warning flag on each side of the vehicle. The flags shall be a minimum of 16 inches square, and shall be mounted so as to be visible from both the front and rear of the vehicle. The flags shall be removed or covered when the vehicle is not operating as a pilot car.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 15. Pilot Cars [28100 - 28103]\n##### § 28100\n\nA pilot car shall display at least one red warning flag on each side of the vehicle. The flags shall be a minimum of 16 inches square, and shall be mounted so as to be visible from both the front and rear of the vehicle. The flags shall be removed or covered when the vehicle is not operating as a pilot car.\n\n*(Added by Stats. 1988, Ch. 460, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A pilot car shall display at least one red warning flag on each side of the vehicle. The flags shall be a minimum of 16 inches square, and shall be mounted so as to be visible from both the front and rear of the vehicle. The flags shall be removed or covered when the vehicle is not operating as a pilot car.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 460, Sec. 4.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "460",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "460",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28100.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28100.html",
+  "content_sha256": "d13c48c77546ca8fc2148bd505cda3df93905e5aa540d850ffce834a57da0380",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

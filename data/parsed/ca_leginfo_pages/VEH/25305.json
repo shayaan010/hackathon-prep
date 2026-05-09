@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25305",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "8",
+  "article_title": "Warning Lights and Devices",
+  "article_range": "25300 - 25305",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.8",
+  "text": "(a) No person shall place, deposit, or display upon or adjacent to any highway any lighted fusee, except as a warning to approaching vehicular traffic or railroad trains, or both, of an existing hazard upon or adjacent to the highway or highway-railroad crossing.\n\n(b) It is unlawful to use any fusee which produces other than a red light. The provisions of this subdivision shall not apply to any railroad, as defined in Section 229 of the Public Utilities Code.\n\n(c) No person shall attach or permit any person to attach a lighted fusee to any part of a vehicle.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 8. Warning Lights and Devices [25300 - 25305]\n##### § 25305\n\n(a) No person shall place, deposit, or display upon or adjacent to any highway any lighted fusee, except as a warning to approaching vehicular traffic or railroad trains, or both, of an existing hazard upon or adjacent to the highway or highway-railroad crossing.\n\n(b) It is unlawful to use any fusee which produces other than a red light. The provisions of this subdivision shall not apply to any railroad, as defined in Section 229 of the Public Utilities Code.\n\n(c) No person shall attach or permit any person to attach a lighted fusee to any part of a vehicle.\n\n*(Amended by Stats. 2015, Ch. 451, Sec. 51. (SB 491) Effective January 1, 2016.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall place, deposit, or display upon or adjacent to any highway any lighted fusee, except as a warning to approaching vehicular traffic or railroad trains, or both, of an existing hazard upon or adjacent to the highway or highway-railroad crossing.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "It is unlawful to use any fusee which produces other than a red light. The provisions of this subdivision shall not apply to any railroad, as defined in Section 229 of the Public Utilities Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "No person shall attach or permit any person to attach a lighted fusee to any part of a vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2015, Ch. 451, Sec. 51. (SB 491) Effective January 1, 2016.)",
+    "action": "Amended",
+    "statutes_year": 2015,
+    "chapter": "451",
+    "section": "51",
+    "bill_number": "SB 491",
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2015",
+  "op_chapter": "451",
+  "op_section": "51",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25305.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25305.html",
+  "content_sha256": "92cabbb051bcbb032d816d261890dc47ae5924aebc4bf2e38232a5e7d68ce316",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

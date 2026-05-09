@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25276",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "7",
+  "article_title": "Flashing and Colored Lights",
+  "article_range": "25250 - 25282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.7",
+  "text": "(a) A motor vehicle designed for carrying more than eight persons, including the driver, owned by a private, nonprofit organization that provides training or other activities for persons who have intellectual or physical disabilities, or both, and that is certified by the Department of Rehabilitation or licensed by the State Department of Developmental Services, with respect to the providing of this training or other activities, may be equipped with a flashing amber light signal system.\n\n(b) A motor vehicle, described in subdivision (a), may, while actually engaged in the transportation of persons described in subdivision (a) to or from a training or activity center operated by the organization, display the flashing amber lights of the system when necessarily parked upon a highway and in the process of loading or unloading persons.\n\n(c) Subdivisions (a) and (b) apply to a motor vehicle that is rented, leased, or chartered by the organization.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 7. Flashing and Colored Lights [25250 - 25282]\n##### § 25276\n\n(a) A motor vehicle designed for carrying more than eight persons, including the driver, owned by a private, nonprofit organization that provides training or other activities for persons who have intellectual or physical disabilities, or both, and that is certified by the Department of Rehabilitation or licensed by the State Department of Developmental Services, with respect to the providing of this training or other activities, may be equipped with a flashing amber light signal system.\n\n(b) A motor vehicle, described in subdivision (a), may, while actually engaged in the transportation of persons described in subdivision (a) to or from a training or activity center operated by the organization, display the flashing amber lights of the system when necessarily parked upon a highway and in the process of loading or unloading persons.\n\n(c) Subdivisions (a) and (b) apply to a motor vehicle that is rented, leased, or chartered by the organization.\n\n*(Amended by Stats. 2012, Ch. 457, Sec. 45. (SB 1381) Effective January 1, 2013.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A motor vehicle designed for carrying more than eight persons, including the driver, owned by a private, nonprofit organization that provides training or other activities for persons who have intellectual or physical disabilities, or both, and that is certified by the Department of Rehabilitation or licensed by the State Department of Developmental Services, with respect to the providing of this training or other activities, may be equipped with a flashing amber light signal system.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A motor vehicle, described in subdivision (a), may, while actually engaged in the transportation of persons described in subdivision (a) to or from a training or activity center operated by the organization, display the flashing amber lights of the system when necessarily parked upon a highway and in the process of loading or unloading persons.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Subdivisions (a) and (b) apply to a motor vehicle that is rented, leased, or chartered by the organization.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2012, Ch. 457, Sec. 45. (SB 1381) Effective January 1, 2013.)",
+    "action": "Amended",
+    "statutes_year": 2012,
+    "chapter": "457",
+    "section": "45",
+    "bill_number": "SB 1381",
+    "effective_date": "2013-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2012",
+  "op_chapter": "457",
+  "op_section": "45",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25276.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25276.html",
+  "content_sha256": "7e63e2b4acdc16393f8576d6dfd45ba6f47ab10665d260a0c61f54e9b8429b86",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

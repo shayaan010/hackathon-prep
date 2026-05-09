@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27366",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "3.3",
+  "article_title": "Child Safety Belt and Passenger Restraint Requirements",
+  "article_range": "27360 - 27368",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.5",
+  "text": "(a) The department shall do the following:\n\n(1) Prepare and disseminate materials for the purpose of educating the public about the importance of using passenger restraints for infants and children under 15 years of age. These materials shall include, but are not limited to, audiovisual aids and written materials that explain the effects of motor vehicle accidents on infants and children and the reduction in risk of injury or death as a result of the utilization of passenger restraints for infants and children.\n\n(2) As funding is available, produce and administer a billboard campaign stressing the importance of utilizing child passenger restraint systems and instructing the public on where to obtain those systems.\n\n(b) The department, the Office of Traffic Safety, and the State Department of Health Services shall meet annually to coordinate, share information about, and outline the programs that each organization is pursuing in the area of child passenger restraint systems.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 3.3. Child Safety Belt and Passenger Restraint Requirements [27360 - 27368]\n##### § 27366\n\n(a) The department shall do the following:\n\n    (1) Prepare and disseminate materials for the purpose of educating the public about the importance of using passenger restraints for infants and children under 15 years of age. These materials shall include, but are not limited to, audiovisual aids and written materials that explain the effects of motor vehicle accidents on infants and children and the reduction in risk of injury or death as a result of the utilization of passenger restraints for infants and children.\n\n    (2) As funding is available, produce and administer a billboard campaign stressing the importance of utilizing child passenger restraint systems and instructing the public on where to obtain those systems.\n\n(b) The department, the Office of Traffic Safety, and the State Department of Health Services shall meet annually to coordinate, share information about, and outline the programs that each organization is pursuing in the area of child passenger restraint systems.\n\n*(Added by Stats. 1995, Ch. 512, Sec. 10. Effective January 1, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall do the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Prepare and disseminate materials for the purpose of educating the public about the importance of using passenger restraints for infants and children under 15 years of age. These materials shall include, but are not limited to, audiovisual aids and written materials that explain the effects of motor vehicle accidents on infants and children and the reduction in risk of injury or death as a result of the utilization of passenger restraints for infants and children.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "As funding is available, produce and administer a billboard campaign stressing the importance of utilizing child passenger restraint systems and instructing the public on where to obtain those systems.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The department, the Office of Traffic Safety, and the State Department of Health Services shall meet annually to coordinate, share information about, and outline the programs that each organization is pursuing in the area of child passenger restraint systems.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1995, Ch. 512, Sec. 10. Effective January 1, 1996.)",
+    "action": "Added",
+    "statutes_year": 1995,
+    "chapter": "512",
+    "section": "10",
+    "bill_number": null,
+    "effective_date": "1996-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1995",
+  "op_chapter": "512",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27366.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27366.html",
+  "content_sha256": "2fc64cac5f08970f9297561227d80b0051a930ab023fc32b5195a50c5778cd7f",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}
