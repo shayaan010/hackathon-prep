@@ -62,8 +62,10 @@ Base URL:
 
 ## Ingest VEH Statutes + pgvector Embeddings
 
-This script reads JSON statutes from:
-`data/parsed/ca_leginfo_pages/VEH`
+This script reads JSON statutes from all three folders by default:
+- `data/parsed/ca_leginfo_pages/VEH`
+- `data/parsed/ny_public_law`
+- `data/parsed/tx_public_law`
 
 It inserts into `new_api` Postgres as the source of truth and is idempotent:
 - skips statutes already stored (`jurisdiction_code + code_name + section_number`)
@@ -83,5 +85,7 @@ Optional arguments:
 ```bash
 python scripts/ingest_veh_statutes.py \
   --input-dir ../data/parsed/ca_leginfo_pages/VEH \
+  --input-dir ../data/parsed/ny_public_law \
+  --input-dir ../data/parsed/tx_public_law \
   --dsn postgresql://postgres:postgres@localhost:5433/new_api
 ```

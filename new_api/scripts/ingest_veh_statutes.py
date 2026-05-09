@@ -95,6 +95,9 @@ def _build_embedder(cache_dir: Path) -> TextEmbedding:
 
 
 def _section_title(payload: dict[str, Any]) -> str | None:
+    section_name = _norm(payload.get("section_name"))
+    if section_name:
+        return section_name
     if payload.get("title"):
         return _norm(payload["title"])
     chapter = _norm(payload.get("chapter_title"))
@@ -271,7 +274,7 @@ def _insert_embeddings(
     return inserted
 
 
-def ingest(input_dir: Path, dsn: str | None = None) -> None:
+def ingest(input_dirs: list[Path], dsn: str | None = None) -> None:
     store = PostgresStore(dsn)
     store.init_schema()
     target_dim = _vector_dim(store)
@@ -279,20 +282,30 @@ def ingest(input_dir: Path, dsn: str | None = None) -> None:
     cache_dir = Path(os.environ.get("FASTEMBED_CACHE_DIR", new_api_root / ".cache" / "fastembed"))
     model = _build_embedder(cache_dir)
 
-    files = sorted(input_dir.glob("*.json"))
+    files: list[Path] = []
+    for base in input_dirs:
+        if base.exists():
+            files.extend(base.rglob("*.json"))
+    files = sorted(files)
     if not files:
-        print(f"No JSON files found under: {input_dir}")
+        joined = ", ".join(str(p) for p in input_dirs)
+        print(f"No JSON files found under: {joined}")
         return
+
+    total_files = len(files)
+    print(f"Processing {total_files} JSON files...")
 
     created_statutes = 0
     skipped_existing = 0
     inserted_chunks = 0
+    processed = 0
 
     for p in files:
         try:
             payload = json.loads(p.read_text(encoding="utf-8"))
         except Exception as e:
             print(f"SKIP {p.name}: invalid JSON ({e})")
+            processed += 1
             continue
 
         jurisdiction_code = _norm(payload.get("jurisdiction")) or "CA"
@@ -300,6 +313,7 @@ def ingest(input_dir: Path, dsn: str | None = None) -> None:
         section_number = _norm(payload.get("section_num"))
         if not section_number:
             print(f"SKIP {p.name}: missing section_num")
+            processed += 1
             continue
 
         if _statute_exists(
@@ -309,6 +323,16 @@ def ingest(input_dir: Path, dsn: str | None = None) -> None:
             section_number=section_number,
         ):
             skipped_existing += 1
+            processed += 1
+            if processed % 100 == 0 or processed == total_files:
+                pct = (processed / total_files) * 100
+                print(
+                    f"\rProgress: {processed}/{total_files} ({pct:5.1f}%) | "
+                    f"created={created_statutes} skipped={skipped_existing} "
+                    f"chunks={inserted_chunks}",
+                    end="",
+                    flush=True,
+                )
             continue
 
         statute_id = _insert_statute(store, payload)
@@ -323,6 +347,18 @@ def ingest(input_dir: Path, dsn: str | None = None) -> None:
             source_file=p,
         )
         inserted_chunks += chunks
+        processed += 1
+        if processed % 100 == 0 or processed == total_files:
+            pct = (processed / total_files) * 100
+            print(
+                f"\rProgress: {processed}/{total_files} ({pct:5.1f}%) | "
+                f"created={created_statutes} skipped={skipped_existing} "
+                f"chunks={inserted_chunks}",
+                end="",
+                flush=True,
+            )
+
+    print()
 
     print(
         "Done. "
@@ -339,18 +375,30 @@ def main() -> None:
     _load_env_file(new_api_root / ".env")
     _ensure_hf_auth_env()
 
-    host_default_input = repo_root / "data" / "parsed" / "ca_leginfo_pages" / "VEH"
-    container_default_input = Path("/data/parsed/ca_leginfo_pages/VEH")
-    default_input = container_default_input if container_default_input.exists() else host_default_input
+    host_defaults = [
+        repo_root / "data" / "parsed" / "ca_leginfo_pages" / "VEH",
+        repo_root / "data" / "parsed" / "ny_public_law",
+        repo_root / "data" / "parsed" / "tx_public_law",
+    ]
+    container_defaults = [
+        Path("/data/parsed/ca_leginfo_pages/VEH"),
+        Path("/data/parsed/ny_public_law"),
+        Path("/data/parsed/tx_public_law"),
+    ]
+    defaults = container_defaults if container_defaults[0].exists() else host_defaults
 
     parser = argparse.ArgumentParser(
-        description="Ingest VEH parsed JSON statutes into new_api Postgres with MiniLM embeddings."
+        description="Ingest parsed statute JSON into new_api Postgres with MiniLM embeddings."
     )
     parser.add_argument(
         "--input-dir",
+        action="append",
         type=Path,
-        default=default_input,
-        help=f"Directory containing statute JSON files (default: {default_input})",
+        default=defaults,
+        help=(
+            "Directory containing statute JSON files. Repeat flag for multiple dirs. "
+            f"Default: {', '.join(str(p) for p in defaults)}"
+        ),
     )
     parser.add_argument(
         "--dsn",
