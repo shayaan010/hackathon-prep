@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22655",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "10",
+  "chapter_title": "Removal of Parked and Abandoned Vehicles",
+  "chapter_range": "22650 - 22856",
+  "article": "1",
+  "article_title": "Authority to Remove Vehicles",
+  "article_range": "22650 - 22711",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.10.1",
+  "text": "(a) When any peace officer, as that term is defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code or any regularly employed and salaried employee who is engaged in directing traffic or enforcing parking statutes and regulations, has reasonable cause to believe that a motor vehicle on a highway or on private property open to the general public onto which the public is explicitly or implicitly invited, located within the territorial limits in which the officer is empowered to act, has been involved in a hit-and-run accident, and the operator of the vehicle has failed to stop and comply with Sections 20002 to 20006, inclusive, the officer may remove the vehicle from the highway or from public or private property for the purpose of inspection.\n\n(b) Unless sooner released, the vehicle shall be released upon the expiration of 48 hours after the removal from the highway or private property upon demand of the owner. When determining the 48-hour period, weekends, and holidays shall not be included.\n\n(c) Notwithstanding subdivision (b), when a motor vehicle to be inspected pursuant to subdivision (a) is a commercial vehicle, any cargo within the vehicle may be removed or transferred to another vehicle.\n\nThis section shall not be construed to authorize the removal of any vehicle from an enclosed structure on private property that is not open to the general public.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 10. Removal of Parked and Abandoned Vehicles [22650 - 22856]\n#### Article 1. Authority to Remove Vehicles [22650 - 22711]\n##### § 22655\n\n(a) When any peace officer, as that term is defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code or any regularly employed and salaried employee who is engaged in directing traffic or enforcing parking statutes and regulations, has reasonable cause to believe that a motor vehicle on a highway or on private property open to the general public onto which the public is explicitly or implicitly invited, located within the territorial limits in which the officer is empowered to act, has been involved in a hit-and-run accident, and the operator of the vehicle has failed to stop and comply with Sections 20002 to 20006, inclusive, the officer may remove the vehicle from the highway or from public or private property for the purpose of inspection.\n\n(b) Unless sooner released, the vehicle shall be released upon the expiration of 48 hours after the removal from the highway or private property upon demand of the owner. When determining the 48-hour period, weekends, and holidays shall not be included.\n\n(c) Notwithstanding subdivision (b), when a motor vehicle to be inspected pursuant to subdivision (a) is a commercial vehicle, any cargo within the vehicle may be removed or transferred to another vehicle.\n\nThis section shall not be construed to authorize the removal of any vehicle from an enclosed structure on private property that is not open to the general public.\n\n*(Amended by Stats. 1997, Ch. 945, Sec. 21. Effective January 1, 1998.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "When any peace officer, as that term is defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code or any regularly employed and salaried employee who is engaged in directing traffic or enforcing parking statutes and regulations, has reasonable cause to believe that a motor vehicle on a highway or on private property open to the general public onto which the public is explicitly or implicitly invited, located within the territorial limits in which the officer is empowered to act, has been involved in a hit-and-run accident, and the operator of the vehicle has failed to stop and comply with Sections 20002 to 20006, inclusive, the officer may remove the vehicle from the highway or from public or private property for the purpose of inspection.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Unless sooner released, the vehicle shall be released upon the expiration of 48 hours after the removal from the highway or private property upon demand of the owner. When determining the 48-hour period, weekends, and holidays shall not be included.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Notwithstanding subdivision (b), when a motor vehicle to be inspected pursuant to subdivision (a) is a commercial vehicle, any cargo within the vehicle may be removed or transferred to another vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "This section shall not be construed to authorize the removal of any vehicle from an enclosed structure on private property that is not open to the general public.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1997, Ch. 945, Sec. 21. Effective January 1, 1998.)",
+    "action": "Amended",
+    "statutes_year": 1997,
+    "chapter": "945",
+    "section": "21",
+    "bill_number": null,
+    "effective_date": "1998-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1997",
+  "op_chapter": "945",
+  "op_section": "21",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22655.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22655.html",
+  "content_sha256": "a17d5ba89dfe4cb72f3a0941ea12623ef86b6e17b0e7064754fdd61f754bc164",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

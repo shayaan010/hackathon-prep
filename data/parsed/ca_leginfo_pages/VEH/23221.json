@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23221",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "12",
+  "chapter_title": "Public Offenses",
+  "chapter_range": "23100 - 23249.50",
+  "article": "2",
+  "article_title": "Offenses Involving Alcohol and Drugs",
+  "article_range": "23152 - 23229.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.12.4",
+  "text": "(a) A driver shall not drink any alcoholic beverage or smoke or ingest marijuana or any marijuana product while driving a motor vehicle upon a highway.\n\n(b) A passenger shall not drink any alcoholic beverage or smoke or ingest marijuana or any marijuana product while in a motor vehicle being driven upon a highway.\n\n(c) A violation of this section shall be punished as an infraction.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 12. Public Offenses [23100 - 23249.50]\n#### Article 2. Offenses Involving Alcohol and Drugs [23152 - 23229.1]\n##### § 23221\n\n(a) A driver shall not drink any alcoholic beverage or smoke or ingest marijuana or any marijuana product while driving a motor vehicle upon a highway.\n\n(b) A passenger shall not drink any alcoholic beverage or smoke or ingest marijuana or any marijuana product while in a motor vehicle being driven upon a highway.\n\n(c) A violation of this section shall be punished as an infraction.\n\n*(Amended by Stats. 2017, Ch. 232, Sec. 2. (SB 65) Effective January 1, 2018.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A driver shall not drink any alcoholic beverage or smoke or ingest marijuana or any marijuana product while driving a motor vehicle upon a highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A passenger shall not drink any alcoholic beverage or smoke or ingest marijuana or any marijuana product while in a motor vehicle being driven upon a highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A violation of this section shall be punished as an infraction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2017, Ch. 232, Sec. 2. (SB 65) Effective January 1, 2018.)",
+    "action": "Amended",
+    "statutes_year": 2017,
+    "chapter": "232",
+    "section": "2",
+    "bill_number": "SB 65",
+    "effective_date": "2018-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2017",
+  "op_chapter": "232",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23221.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23221.html",
+  "content_sha256": "9cf8ed9bb9406a2a8b0a3161c5d704440d42d7534e43b1b3bb0123ba5501cf72",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

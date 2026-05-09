@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25264",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "7",
+  "article_title": "Flashing and Colored Lights",
+  "article_range": "25250 - 25282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.7",
+  "text": "Any motor vehicle operated by a coroner, or by a deputy coroner, and which is at the scene of any violent highway death, may display flashing amber warning lights to the front or rear.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 7. Flashing and Colored Lights [25250 - 25282]\n##### § 25264\n\nAny motor vehicle operated by a coroner, or by a deputy coroner, and which is at the scene of any violent highway death, may display flashing amber warning lights to the front or rear.\n\n*(Repealed and added by Stats. 1961, Ch. 653.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any motor vehicle operated by a coroner, or by a deputy coroner, and which is at the scene of any violent highway death, may display flashing amber warning lights to the front or rear.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed and added by Stats. 1961, Ch. 653.)",
+    "action": "Repealed",
+    "statutes_year": 1961,
+    "chapter": "653",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1961",
+  "op_chapter": "653",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25264.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25264.html",
+  "content_sha256": "cf2d819e44988b2ee971b4c583551277e500b261612adf590f9b9024c4b129d8",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27461",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "4",
+  "article_title": "Tires",
+  "article_range": "27450 - 27503",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.9",
+  "text": "No person shall cause or permit the operation of and no driver shall knowingly operate any motor vehicle except a commercial vehicle, on any street or highway, which is equipped with one or more recut or regrooved tires. For purposes of this section a recut or regrooved tire is an unretreaded or unrecapped tire into which new grooves have been cut or burned.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 4. Tires [27450 - 27503]\n##### § 27461\n\nNo person shall cause or permit the operation of and no driver shall knowingly operate any motor vehicle except a commercial vehicle, on any street or highway, which is equipped with one or more recut or regrooved tires. For purposes of this section a recut or regrooved tire is an unretreaded or unrecapped tire into which new grooves have been cut or burned.\n\n*(Added by Stats. 1965, Ch. 1518.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall cause or permit the operation of and no driver shall knowingly operate any motor vehicle except a commercial vehicle, on any street or highway, which is equipped with one or more recut or regrooved tires. For purposes of this section a recut or regrooved tire is an unretreaded or unrecapped tire into which new grooves have been cut or burned.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1965, Ch. 1518.)",
+    "action": "Added",
+    "statutes_year": 1965,
+    "chapter": "1518",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1965",
+  "op_chapter": "1518",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27461.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27461.html",
+  "content_sha256": "f8ce20841b6168b1cac50d671c89ab17f4a9d966bf93ac0ce51d8e1c49de2839",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26303",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "1",
+  "article_title": "Brake Requirements",
+  "article_range": "26301 - 26311",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.1",
+  "text": "Every trailer coach and every camp trailer having a gross weight of 1,500 pounds or more, but exclusive of passengers, shall be equipped with brakes on at least two wheels which are adequate, supplemental to the brakes on the towing vehicle, to enable the combination of vehicles to comply with the stopping distance requirements of Section 26454.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 1. Brake Requirements [26301 - 26311]\n##### § 26303\n\nEvery trailer coach and every camp trailer having a gross weight of 1,500 pounds or more, but exclusive of passengers, shall be equipped with brakes on at least two wheels which are adequate, supplemental to the brakes on the towing vehicle, to enable the combination of vehicles to comply with the stopping distance requirements of Section 26454.\n\n*(Amended by Stats. 1971, Ch. 1536.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every trailer coach and every camp trailer having a gross weight of 1,500 pounds or more, but exclusive of passengers, shall be equipped with brakes on at least two wheels which are adequate, supplemental to the brakes on the towing vehicle, to enable the combination of vehicles to comply with the stopping distance requirements of Section 26454.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1971, Ch. 1536.)",
+    "action": "Amended",
+    "statutes_year": 1971,
+    "chapter": "1536",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1971",
+  "op_chapter": "1536",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26303.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26303.html",
+  "content_sha256": "2e663b1aff10e40f112bcad554d2d16f08a9e1124c1f2514526e4f900be8671e",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

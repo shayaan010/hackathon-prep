@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23112",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "12",
+  "chapter_title": "Public Offenses",
+  "chapter_range": "23100 - 23249.50",
+  "article": "1",
+  "article_title": "Driving Offenses",
+  "article_range": "23100 - 23135",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.12.1",
+  "text": "(a) No person shall throw or deposit, nor shall the registered owner or the driver, if such owner is not then present in the vehicle, aid or abet in the throwing or depositing upon any highway any bottle, can, garbage, glass, nail, offal, paper, wire, any substance likely to injure or damage traffic using the highway, or any noisome, nauseous, or offensive matter of any kind.\n\n(b) No person shall place, deposit, or dump, or cause to be placed, deposited, or dumped, any rocks, refuse, garbage, or dirt in or upon any highway, including any portion of the right-of-way thereof, without the consent of the state or local agency having jurisdiction over the highway.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 12. Public Offenses [23100 - 23249.50]\n#### Article 1. Driving Offenses [23100 - 23135]\n##### § 23112\n\n(a) No person shall throw or deposit, nor shall the registered owner or the driver, if such owner is not then present in the vehicle, aid or abet in the throwing or depositing upon any highway any bottle, can, garbage, glass, nail, offal, paper, wire, any substance likely to injure or damage traffic using the highway, or any noisome, nauseous, or offensive matter of any kind.\n\n(b) No person shall place, deposit, or dump, or cause to be placed, deposited, or dumped, any rocks, refuse, garbage, or dirt in or upon any highway, including any portion of the right-of-way thereof, without the consent of the state or local agency having jurisdiction over the highway.\n\n*(Amended by Stats. 1980, Ch. 74, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall throw or deposit, nor shall the registered owner or the driver, if such owner is not then present in the vehicle, aid or abet in the throwing or depositing upon any highway any bottle, can, garbage, glass, nail, offal, paper, wire, any substance likely to injure or damage traffic using the highway, or any noisome, nauseous, or offensive matter of any kind.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No person shall place, deposit, or dump, or cause to be placed, deposited, or dumped, any rocks, refuse, garbage, or dirt in or upon any highway, including any portion of the right-of-way thereof, without the consent of the state or local agency having jurisdiction over the highway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1980, Ch. 74, Sec. 4.)",
+    "action": "Amended",
+    "statutes_year": 1980,
+    "chapter": "74",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1980",
+  "op_chapter": "74",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23112.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23112.html",
+  "content_sha256": "0fd4bd7c2d5bd1e4c844ab841993ce39d7d098e7ff6d4834cbc6ce1e8c6c1c9e",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

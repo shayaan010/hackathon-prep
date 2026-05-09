@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22405",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "2",
+  "article_title": "Other Speed Laws",
+  "article_range": "22400 - 22413",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.2",
+  "text": "(a) No person shall drive a vehicle on any bridge, elevated structure, tube, or tunnel constituting a part of a highway, at a speed which is greater than the maximum speed which can be maintained with safety to such structure.\n\n(b) Upon the trial of any person charged with a violation of this section with respect to a sign erected under Section 22404, proof of the determination of the maximum speed by the Department of Transportation or local authority and the erection and maintenance of the speed signs shall constitute prima facie evidence of the maximum speed which can be maintained with safety to the bridge, elevated structure, tube, or tunnel.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 2. Other Speed Laws [22400 - 22413]\n##### § 22405\n\n(a) No person shall drive a vehicle on any bridge, elevated structure, tube, or tunnel constituting a part of a highway, at a speed which is greater than the maximum speed which can be maintained with safety to such structure.\n\n(b) Upon the trial of any person charged with a violation of this section with respect to a sign erected under Section 22404, proof of the determination of the maximum speed by the Department of Transportation or local authority and the erection and maintenance of the speed signs shall constitute prima facie evidence of the maximum speed which can be maintained with safety to the bridge, elevated structure, tube, or tunnel.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall drive a vehicle on any bridge, elevated structure, tube, or tunnel constituting a part of a highway, at a speed which is greater than the maximum speed which can be maintained with safety to such structure.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Upon the trial of any person charged with a violation of this section with respect to a sign erected under Section 22404, proof of the determination of the maximum speed by the Department of Transportation or local authority and the erection and maintenance of the speed signs shall constitute prima facie evidence of the maximum speed which can be maintained with safety to the bridge, elevated structure, tube, or tunnel.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22405.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22405.html",
+  "content_sha256": "6b2ee6bd32a351863a2a9a4ee3b0d97e7abe7ef9ed25744bbd469cb307567c26",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

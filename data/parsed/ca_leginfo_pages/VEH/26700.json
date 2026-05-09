@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26700",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "4",
+  "chapter_title": "Windshields and Mirrors",
+  "chapter_range": "26700 - 26712",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.4",
+  "text": "(a) Except as provided in subdivision (b) or (c), a passenger vehicle, other than a motorcycle, and every bus, motortruck or truck tractor, and every firetruck, fire engine or other fire apparatus, whether publicly or privately owned, shall be equipped with an adequate windshield.\n\n(b) Subdivision (a) does not apply to any vehicle issued identification plates pursuant to Section 5004 which was not required to be equipped with a windshield at the time it was first sold or registered under the laws of this state, another state, or foreign jurisdiction.\n\n(c) This section does not apply to an autonomous vehicle, as defined in Section 38750, that is not capable of operation with a human occupant in the vehicle, provided that this exemption is consistent with, or authorized by, any applicable federal law, regulation, or exemption thereto.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 4. Windshields and Mirrors [26700 - 26712]\n##### § 26700\n\n(a) Except as provided in subdivision (b) or (c), a passenger vehicle, other than a motorcycle, and every bus, motortruck or truck tractor, and every firetruck, fire engine or other fire apparatus, whether publicly or privately owned, shall be equipped with an adequate windshield.\n\n(b) Subdivision (a) does not apply to any vehicle issued identification plates pursuant to Section 5004 which was not required to be equipped with a windshield at the time it was first sold or registered under the laws of this state, another state, or foreign jurisdiction.\n\n(c) This section does not apply to an autonomous vehicle, as defined in Section 38750, that is not capable of operation with a human occupant in the vehicle, provided that this exemption is consistent with, or authorized by, any applicable federal law, regulation, or exemption thereto.\n\n*(Amended by Stats. 2021, Ch. 428, Sec. 5. (SB 570) Effective January 1, 2022.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in subdivision (b) or (c), a passenger vehicle, other than a motorcycle, and every bus, motortruck or truck tractor, and every firetruck, fire engine or other fire apparatus, whether publicly or privately owned, shall be equipped with an adequate windshield.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Subdivision (a) does not apply to any vehicle issued identification plates pursuant to Section 5004 which was not required to be equipped with a windshield at the time it was first sold or registered under the laws of this state, another state, or foreign jurisdiction.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section does not apply to an autonomous vehicle, as defined in Section 38750, that is not capable of operation with a human occupant in the vehicle, provided that this exemption is consistent with, or authorized by, any applicable federal law, regulation, or exemption thereto.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 428, Sec. 5. (SB 570) Effective January 1, 2022.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "428",
+    "section": "5",
+    "bill_number": "SB 570",
+    "effective_date": "2022-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "428",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26700.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26700.html",
+  "content_sha256": "5b19047bd665e69dd54029a0d89747cbbea1bcde965d2eeaa2d3ab3c4fcd3613",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27305",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "3",
+  "article_title": "Safety Belts and Inflatable Restraint Systems",
+  "article_range": "27302 - 27319",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.4",
+  "text": "All publicly owned firefighting vehicles designed for and used in responding to emergency fire calls and in combating fires shall be equipped with seatbelts for each seat utilized by personnel when such vehicles are being operated. Such seatbelts shall comply with requirements established by the department.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 3. Safety Belts and Inflatable Restraint Systems [27302 - 27319]\n##### § 27305\n\nAll publicly owned firefighting vehicles designed for and used in responding to emergency fire calls and in combating fires shall be equipped with seatbelts for each seat utilized by personnel when such vehicles are being operated. Such seatbelts shall comply with requirements established by the department.\n\n*(Amended by Stats. 1979, Ch. 723.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "All publicly owned firefighting vehicles designed for and used in responding to emergency fire calls and in combating fires shall be equipped with seatbelts for each seat utilized by personnel when such vehicles are being operated. Such seatbelts shall comply with requirements established by the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1979, Ch. 723.)",
+    "action": "Amended",
+    "statutes_year": 1979,
+    "chapter": "723",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1979",
+  "op_chapter": "723",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27305.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27305.html",
+  "content_sha256": "b54d82e675c2696f804cd409c7dacad71af290236aed1d681143a206bcf2213b",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25804",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "14",
+  "article_title": "Vehicles Exempted",
+  "article_range": "25800 - 25806",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.14",
+  "text": "Notwithstanding any other provision of this code, original lighting equipment installed on a vehicle manufactured prior to January 1, 1946, need not meet the requirements established by the department when the vehicle is used primarily for the purpose of historical exhibition.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 14. Vehicles Exempted [25800 - 25806]\n##### § 25804\n\nNotwithstanding any other provision of this code, original lighting equipment installed on a vehicle manufactured prior to January 1, 1946, need not meet the requirements established by the department when the vehicle is used primarily for the purpose of historical exhibition.\n\n*(Amended by Stats. 1979, Ch. 723.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding any other provision of this code, original lighting equipment installed on a vehicle manufactured prior to January 1, 1946, need not meet the requirements established by the department when the vehicle is used primarily for the purpose of historical exhibition.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1979, Ch. 723.)",
+    "action": "Amended",
+    "statutes_year": 1979,
+    "chapter": "723",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1979",
+  "op_chapter": "723",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25804.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25804.html",
+  "content_sha256": "35f93d551118e3904829899c5a1fe8a5c4790b1501970e88598b26f142ca3f3b",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

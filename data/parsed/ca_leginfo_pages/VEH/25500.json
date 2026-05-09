@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25500",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "12",
+  "article_title": "Reflectorizing Material",
+  "article_range": "25500- 25500.",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.12",
+  "text": "(a) Area reflectorizing material may be displayed on any vehicle, provided: the color red is not displayed on the front; designs do not tend to distort the length or width of the vehicle; and designs do not resemble official traffic control devices, except that alternate striping resembling a barricade pattern may be used.\n\nNo vehicle shall be equipped with area reflectorizing material contrary to these provisions.\n\n(b) The provisions of this section shall not apply to license plate stickers or tabs affixed to license plates as authorized by the Department of Motor Vehicles.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 12. Reflectorizing Material [25500- 25500.]\n##### § 25500\n\n(a) Area reflectorizing material may be displayed on any vehicle, provided: the color red is not displayed on the front; designs do not tend to distort the length or width of the vehicle; and designs do not resemble official traffic control devices, except that alternate striping resembling a barricade pattern may be used.\n\nNo vehicle shall be equipped with area reflectorizing material contrary to these provisions.\n\n(b) The provisions of this section shall not apply to license plate stickers or tabs affixed to license plates as authorized by the Department of Motor Vehicles.\n\n*(Amended by Stats. 1971, Ch. 1536.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Area reflectorizing material may be displayed on any vehicle, provided: the color red is not displayed on the front; designs do not tend to distort the length or width of the vehicle; and designs do not resemble official traffic control devices, except that alternate striping resembling a barricade pattern may be used.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "No vehicle shall be equipped with area reflectorizing material contrary to these provisions.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The provisions of this section shall not apply to license plate stickers or tabs affixed to license plates as authorized by the Department of Motor Vehicles.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1971, Ch. 1536.)",
+    "action": "Amended",
+    "statutes_year": 1971,
+    "chapter": "1536",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1971",
+  "op_chapter": "1536",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25500.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25500.html",
+  "content_sha256": "8c95242fdb511ce3336186a5b1f3a4609d4848e5fc9541ec1c019d29a0f3e81a",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

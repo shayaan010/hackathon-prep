@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23129",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "12",
+  "chapter_title": "Public Offenses",
+  "chapter_range": "23100 - 23249.50",
+  "article": "1",
+  "article_title": "Driving Offenses",
+  "article_range": "23100 - 23135",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.12.1",
+  "text": "No person shall drive a motor vehicle upon which is mounted a camper containing any passengers unless there is at least one unobstructed exit capable of being opened from both the interior and exterior of such camper.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 12. Public Offenses [23100 - 23249.50]\n#### Article 1. Driving Offenses [23100 - 23135]\n##### § 23129\n\nNo person shall drive a motor vehicle upon which is mounted a camper containing any passengers unless there is at least one unobstructed exit capable of being opened from both the interior and exterior of such camper.\n\n*(Added by Stats. 1972, Ch. 432.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall drive a motor vehicle upon which is mounted a camper containing any passengers unless there is at least one unobstructed exit capable of being opened from both the interior and exterior of such camper.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1972, Ch. 432.)",
+    "action": "Added",
+    "statutes_year": 1972,
+    "chapter": "432",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1972",
+  "op_chapter": "432",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23129.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23129.html",
+  "content_sha256": "be924eb9fe567d49acae56e09ce2675be45ff8f43aced97e426a22ef53729d67",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

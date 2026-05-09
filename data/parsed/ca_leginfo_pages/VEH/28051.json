@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28051",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "10",
+  "article_title": "Odometers",
+  "article_range": "28050 - 28053",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.15",
+  "text": "It is unlawful for any person to disconnect, turn back, advance, or reset the odometer of any motor vehicle with the intent to alter the number of miles indicated on the odometer gauge.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 10. Odometers [28050 - 28053]\n##### § 28051\n\nIt is unlawful for any person to disconnect, turn back, advance, or reset the odometer of any motor vehicle with the intent to alter the number of miles indicated on the odometer gauge.\n\n*(Amended by Stats. 1973, Ch. 774.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "It is unlawful for any person to disconnect, turn back, advance, or reset the odometer of any motor vehicle with the intent to alter the number of miles indicated on the odometer gauge.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1973, Ch. 774.)",
+    "action": "Amended",
+    "statutes_year": 1973,
+    "chapter": "774",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1973",
+  "op_chapter": "774",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28051.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28051.html",
+  "content_sha256": "8d5f29c68c230cbaef24180bfef01bb9933452be02e83ac91d13ed9a0f745ff1",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

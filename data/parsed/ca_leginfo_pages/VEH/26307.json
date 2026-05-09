@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26307",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "1",
+  "article_title": "Brake Requirements",
+  "article_range": "26301 - 26311",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.1",
+  "text": "No forklift truck manufactured after January 1, 1970, shall be towed behind another vehicle unless it is equipped with brakes on the wheels of the rearmost axle when the forklift truck is in the towing position, which brakes shall be adequate, supplemental to the brakes on the towing vehicle, to enable the combination of vehicles to comply with the stopping distance requirements of Section 26454.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 1. Brake Requirements [26301 - 26311]\n##### § 26307\n\nNo forklift truck manufactured after January 1, 1970, shall be towed behind another vehicle unless it is equipped with brakes on the wheels of the rearmost axle when the forklift truck is in the towing position, which brakes shall be adequate, supplemental to the brakes on the towing vehicle, to enable the combination of vehicles to comply with the stopping distance requirements of Section 26454.\n\n*(Added by Stats. 1969, Ch. 132.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No forklift truck manufactured after January 1, 1970, shall be towed behind another vehicle unless it is equipped with brakes on the wheels of the rearmost axle when the forklift truck is in the towing position, which brakes shall be adequate, supplemental to the brakes on the towing vehicle, to enable the combination of vehicles to comply with the stopping distance requirements of Section 26454.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1969, Ch. 132.)",
+    "action": "Added",
+    "statutes_year": 1969,
+    "chapter": "132",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1969",
+  "op_chapter": "132",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26307.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26307.html",
+  "content_sha256": "c3a235538ff021e498b274810e041679979faad420e38be3a43f3406b7c59b4a",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

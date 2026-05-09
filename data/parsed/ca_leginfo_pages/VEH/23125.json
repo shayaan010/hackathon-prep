@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23125",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "12",
+  "chapter_title": "Public Offenses",
+  "chapter_range": "23100 - 23249.50",
+  "article": "1",
+  "article_title": "Driving Offenses",
+  "article_range": "23100 - 23135",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.12.1",
+  "text": "(a) A person may not drive a schoolbus or transit vehicle, as defined in subdivision (g) of Section 99247 of the Public Utilities Code, while using a wireless telephone.\n\n(b) This section does not apply to a driver using a wireless telephone for work-related purposes, or for emergency purposes, including, but not limited to, an emergency call to a law enforcement agency, health care provider, fire department, or other emergency service agency or entity.\n\n(c) Notwithstanding any other provision of law, a violation of subdivision (a) does not constitute a serious traffic violation within the meaning of subdivision (i) of Section 15210.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 12. Public Offenses [23100 - 23249.50]\n#### Article 1. Driving Offenses [23100 - 23135]\n##### § 23125\n\n(a) A person may not drive a schoolbus or transit vehicle, as defined in subdivision (g) of Section 99247 of the Public Utilities Code, while using a wireless telephone.\n\n(b) This section does not apply to a driver using a wireless telephone for work-related purposes, or for emergency purposes, including, but not limited to, an emergency call to a law enforcement agency, health care provider, fire department, or other emergency service agency or entity.\n\n(c) Notwithstanding any other provision of law, a violation of subdivision (a) does not constitute a serious traffic violation within the meaning of subdivision (i) of Section 15210.\n\n*(Added by Stats. 2004, Ch. 505, Sec. 1. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person may not drive a schoolbus or transit vehicle, as defined in subdivision (g) of Section 99247 of the Public Utilities Code, while using a wireless telephone.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to a driver using a wireless telephone for work-related purposes, or for emergency purposes, including, but not limited to, an emergency call to a law enforcement agency, health care provider, fire department, or other emergency service agency or entity.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Notwithstanding any other provision of law, a violation of subdivision (a) does not constitute a serious traffic violation within the meaning of subdivision (i) of Section 15210.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2004, Ch. 505, Sec. 1. Effective January 1, 2005.)",
+    "action": "Added",
+    "statutes_year": 2004,
+    "chapter": "505",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "505",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23125.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23125.html",
+  "content_sha256": "d0ad575ca1b1b7734064d3853d7e017626515df516ba6026a2793d028a73b455",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

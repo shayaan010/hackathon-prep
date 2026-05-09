@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22351",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "1",
+  "article_title": "Generally",
+  "article_range": "22348 - 22366",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.1",
+  "text": "(a) The speed of any vehicle upon a highway not in excess of the limits specified in Section 22352 or established as authorized in this code is lawful unless clearly proved to be in violation of the basic speed law.\n\n(b) The speed of any vehicle upon a highway in excess of the prima facie speed limits in Section 22352 or established as authorized in this code is prima facie unlawful unless the defendant establishes by competent evidence that the speed in excess of said limits did not constitute a violation of the basic speed law at the time, place and under the conditions then existing.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 1. Generally [22348 - 22366]\n##### § 22351\n\n(a) The speed of any vehicle upon a highway not in excess of the limits specified in Section 22352 or established as authorized in this code is lawful unless clearly proved to be in violation of the basic speed law.\n\n(b) The speed of any vehicle upon a highway in excess of the prima facie speed limits in Section 22352 or established as authorized in this code is prima facie unlawful unless the defendant establishes by competent evidence that the speed in excess of said limits did not constitute a violation of the basic speed law at the time, place and under the conditions then existing.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The speed of any vehicle upon a highway not in excess of the limits specified in Section 22352 or established as authorized in this code is lawful unless clearly proved to be in violation of the basic speed law.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The speed of any vehicle upon a highway in excess of the prima facie speed limits in Section 22352 or established as authorized in this code is prima facie unlawful unless the defendant establishes by competent evidence that the speed in excess of said limits did not constitute a violation of the basic speed law at the time, place and under the conditions then existing.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22351.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22351.html",
+  "content_sha256": "9af0a5ebbe765eaaf35959001a864c96ff0b0f148064505a9c30d950a168062e",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

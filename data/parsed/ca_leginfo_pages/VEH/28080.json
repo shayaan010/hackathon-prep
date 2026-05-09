@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28080",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "12",
+  "article_title": "Camper Signaling Devices",
+  "article_range": "28080 - 28081",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.18",
+  "text": "(a) Every motor vehicle upon which a camper is mounted shall be equipped with an audible or visual signaling device which can be activated from inside the camper and which is constructed so as to allow any person inside the camper to gain the attention of the driver of the motor vehicle. In no event shall a horn, as required by Section 27000, be used to comply with this subdivision.\n\n(b) No person shall drive a motor vehicle upon which is mounted a camper containing any passenger unless the motor vehicle is equipped as required by subdivision (a).",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 12. Camper Signaling Devices [28080 - 28081]\n##### § 28080\n\n(a) Every motor vehicle upon which a camper is mounted shall be equipped with an audible or visual signaling device which can be activated from inside the camper and which is constructed so as to allow any person inside the camper to gain the attention of the driver of the motor vehicle. In no event shall a horn, as required by Section 27000, be used to comply with this subdivision.\n\n(b) No person shall drive a motor vehicle upon which is mounted a camper containing any passenger unless the motor vehicle is equipped as required by subdivision (a).\n\n*(Added by Stats. 1973, Ch. 292.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every motor vehicle upon which a camper is mounted shall be equipped with an audible or visual signaling device which can be activated from inside the camper and which is constructed so as to allow any person inside the camper to gain the attention of the driver of the motor vehicle. In no event shall a horn, as required by Section 27000, be used to comply with this subdivision.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No person shall drive a motor vehicle upon which is mounted a camper containing any passenger unless the motor vehicle is equipped as required by subdivision (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1973, Ch. 292.)",
+    "action": "Added",
+    "statutes_year": 1973,
+    "chapter": "292",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1973",
+  "op_chapter": "292",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28080.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28080.html",
+  "content_sha256": "ae67e29a1b9119a161dbbb18e6034f0fb5b8dc0c86a55473198765ca81afa1c5",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

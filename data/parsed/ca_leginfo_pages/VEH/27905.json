@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27905",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "8",
+  "article_title": "Signs",
+  "article_range": "27900 - 27910",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.13",
+  "text": "It is unlawful to display on a vehicle any sign with the words “fire” or “fire department” thereon, except on vehicles owned and operated by a regularly organized fire department, fire district, forestry service, or the State Fire Marshal’s Office, and on the privately owned vehicles of any regular member of any such fire departments.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 8. Signs [27900 - 27910]\n##### § 27905\n\nIt is unlawful to display on a vehicle any sign with the words “fire” or “fire department” thereon, except on vehicles owned and operated by a regularly organized fire department, fire district, forestry service, or the State Fire Marshal’s Office, and on the privately owned vehicles of any regular member of any such fire departments.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "It is unlawful to display on a vehicle any sign with the words “fire” or “fire department” thereon, except on vehicles owned and operated by a regularly organized fire department, fire district, forestry service, or the State Fire Marshal’s Office, and on the privately owned vehicles of any regular member of any such fire departments.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27905.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27905.html",
+  "content_sha256": "d47d698e455fe37bec65165e05eca37cd8b1bcc67102bbff8a6f1a16c551578d",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

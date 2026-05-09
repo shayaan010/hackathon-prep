@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26301",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "1",
+  "article_title": "Brake Requirements",
+  "article_range": "26301 - 26311",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.1",
+  "text": "Any motor vehicle first registered in this state after January 1, 1940, shall be equipped with power brakes if its gross weight exceeds 14,000 pounds, except that any such vehicle having a gross weight of less than 18,000 pounds may, in lieu of power brakes, be equipped with two-stage hydraulic actuators of a type designed to increase braking effect of its brakes.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 1. Brake Requirements [26301 - 26311]\n##### § 26301\n\nAny motor vehicle first registered in this state after January 1, 1940, shall be equipped with power brakes if its gross weight exceeds 14,000 pounds, except that any such vehicle having a gross weight of less than 18,000 pounds may, in lieu of power brakes, be equipped with two-stage hydraulic actuators of a type designed to increase braking effect of its brakes.\n\n*(Amended by Stats. 1982, Ch. 789, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any motor vehicle first registered in this state after January 1, 1940, shall be equipped with power brakes if its gross weight exceeds 14,000 pounds, except that any such vehicle having a gross weight of less than 18,000 pounds may, in lieu of power brakes, be equipped with two-stage hydraulic actuators of a type designed to increase braking effect of its brakes.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1982, Ch. 789, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1982,
+    "chapter": "789",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "789",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26301.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26301.html",
+  "content_sha256": "d18909e32076e82f164d55bcbcc16a45b0a433d17ea581bda0834642423cc34f",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

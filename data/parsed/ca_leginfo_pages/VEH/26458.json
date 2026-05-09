@@ -1,0 +1,87 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26458",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "2",
+  "article_title": "Operation of Brakes",
+  "article_range": "26450 - 26458.5",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.2",
+  "text": "(a) The braking system on every motor vehicle used to tow another vehicle shall be so arranged that one control on the towing vehicle shall, when applied, operate all the service brakes on the power unit and combination of vehicles when either or both of the following conditions exist:\n\n(1) The towing vehicle is required to be equipped with power brakes.\n\n(2) The towed vehicle is required to be equipped with brakes and is equipped with power brakes.\n\n(b) Subdivision (a) shall not be construed to prohibit motor vehicles from being equipped with an additional control to be used to operate the brakes on the trailer or trailers.\n\n(c) Subdivision (a) does not apply to any of the following combinations of vehicles, if the combination of vehicles meets the stopping distance requirements of Section 26454:\n\n(1) Vehicles engaged in driveaway-towaway operations.\n\n(2) Disabled vehicles, while being towed.\n\n(3) Towed motor vehicles.\n\n(4) Trailers equipped with inertially controlled brakes which are designed to be applied automatically upon breakaway from the towing vehicle and which are capable of stopping and holding the trailer stationary for not less than 15 minutes.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 2. Operation of Brakes [26450 - 26458.5]\n##### § 26458\n\n(a) The braking system on every motor vehicle used to tow another vehicle shall be so arranged that one control on the towing vehicle shall, when applied, operate all the service brakes on the power unit and combination of vehicles when either or both of the following conditions exist:\n\n    (1) The towing vehicle is required to be equipped with power brakes.\n\n    (2) The towed vehicle is required to be equipped with brakes and is equipped with power brakes.\n\n(b) Subdivision (a) shall not be construed to prohibit motor vehicles from being equipped with an additional control to be used to operate the brakes on the trailer or trailers.\n\n(c) Subdivision (a) does not apply to any of the following combinations of vehicles, if the combination of vehicles meets the stopping distance requirements of Section 26454:\n\n    (1) Vehicles engaged in driveaway-towaway operations.\n\n    (2) Disabled vehicles, while being towed.\n\n    (3) Towed motor vehicles.\n\n    (4) Trailers equipped with inertially controlled brakes which are designed to be applied automatically upon breakaway from the towing vehicle and which are capable of stopping and holding the trailer stationary for not less than 15 minutes.\n\n*(Amended by Stats. 1991, Ch. 121, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The braking system on every motor vehicle used to tow another vehicle shall be so arranged that one control on the towing vehicle shall, when applied, operate all the service brakes on the power unit and combination of vehicles when either or both of the following conditions exist:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The towing vehicle is required to be equipped with power brakes.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The towed vehicle is required to be equipped with brakes and is equipped with power brakes.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Subdivision (a) shall not be construed to prohibit motor vehicles from being equipped with an additional control to be used to operate the brakes on the trailer or trailers.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Subdivision (a) does not apply to any of the following combinations of vehicles, if the combination of vehicles meets the stopping distance requirements of Section 26454:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Vehicles engaged in driveaway-towaway operations.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Disabled vehicles, while being towed.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Towed motor vehicles.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Trailers equipped with inertially controlled brakes which are designed to be applied automatically upon breakaway from the towing vehicle and which are capable of stopping and holding the trailer stationary for not less than 15 minutes.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1991, Ch. 121, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1991,
+    "chapter": "121",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "121",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26458.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26458.html",
+  "content_sha256": "90b9a9d4e576032a3ff15971f1d739cdf47e7f59240cb56989e45846d05456b4",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27502",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "4",
+  "article_title": "Tires",
+  "article_range": "27450 - 27503",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.9",
+  "text": "No dealer or person holding a retail seller’s permit shall sell, offer for sale, expose for sale, or install on a vehicle for use on a highway, a tire which is not in compliance with regulations adopted pursuant to Section 27503.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 4. Tires [27450 - 27503]\n##### § 27502\n\nNo dealer or person holding a retail seller’s permit shall sell, offer for sale, expose for sale, or install on a vehicle for use on a highway, a tire which is not in compliance with regulations adopted pursuant to Section 27503.\n\n*(Added by Stats. 1971, Ch. 1197. Operative, by Sec. 3 of Ch. 1197, on operative date of regulations adopted pursuant to Section 27503.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No dealer or person holding a retail seller’s permit shall sell, offer for sale, expose for sale, or install on a vehicle for use on a highway, a tire which is not in compliance with regulations adopted pursuant to Section 27503.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1971, Ch. 1197. Operative, by Sec. 3 of Ch. 1197, on operative date of regulations adopted pursuant to Section 27503.)",
+    "action": "Added",
+    "statutes_year": 1971,
+    "chapter": "1197",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1971",
+  "op_chapter": "1197",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27502.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27502.html",
+  "content_sha256": "ed0e404578a0012828d0fb5e85a162b429098ba891a98f24c7848cfb60db6ada",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

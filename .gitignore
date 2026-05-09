@@ -11,8 +11,8 @@ wheels/
 .env
 
 # Data
-data/raw
-data/logs
+data/raw/
+data/logs/
 
 # Frontend
 frontend/node_modules/

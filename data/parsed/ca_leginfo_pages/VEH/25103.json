@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25103",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "6",
+  "article_title": "Side and Fender Lighting Equipment",
+  "article_range": "25100 - 25110",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.6",
+  "text": "Whenever the load upon any vehicle extends from the left side of the vehicle one foot or more, there shall be displayed at the extreme left side of the load during darkness:\n\n(a) An amber lamp plainly visible for 300 feet to the front and rear of the vehicle.\n\n(b) An amber lamp at the front visible for 300 feet to the front and a red lamp at the rear plainly visible for 300 feet to the rear of the vehicle if the projecting load exceeds 120 inches in length.\n\nThe lamp shall not contain a bulb rated in excess of six candlepower.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 6. Side and Fender Lighting Equipment [25100 - 25110]\n##### § 25103\n\nWhenever the load upon any vehicle extends from the left side of the vehicle one foot or more, there shall be displayed at the extreme left side of the load during darkness:\n\n(a) An amber lamp plainly visible for 300 feet to the front and rear of the vehicle.\n\n(b) An amber lamp at the front visible for 300 feet to the front and a red lamp at the rear plainly visible for 300 feet to the rear of the vehicle if the projecting load exceeds 120 inches in length.\n\nThe lamp shall not contain a bulb rated in excess of six candlepower.\n\n*(Amended by Stats. 1981, Ch. 774, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever the load upon any vehicle extends from the left side of the vehicle one foot or more, there shall be displayed at the extreme left side of the load during darkness:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "An amber lamp plainly visible for 300 feet to the front and rear of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An amber lamp at the front visible for 300 feet to the front and a red lamp at the rear plainly visible for 300 feet to the rear of the vehicle if the projecting load exceeds 120 inches in length.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The lamp shall not contain a bulb rated in excess of six candlepower.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1981, Ch. 774, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1981,
+    "chapter": "774",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1981",
+  "op_chapter": "774",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25103.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25103.html",
+  "content_sha256": "65035d6817a2863f3f13a8840d0ead90a9b1b2590c8beee68abceee661607abc",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

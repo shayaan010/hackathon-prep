@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25257",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "7",
+  "article_title": "Flashing and Colored Lights",
+  "article_range": "25250 - 25282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.7",
+  "text": "(a) Every schoolbus, when operated for the transportation of schoolchildren, shall be equipped with a flashing red light signal system.\n\n(b) (1) Every schoolbus manufactured on or after September 1, 1992, shall also be equipped with a stop signal arm. Any schoolbus manufactured before September 1, 1992, may be equipped with a stop signal arm.\n\n(2) Any schoolbus manufactured on or after July 1, 1993, shall also be equipped with an amber warning light system, in addition to the flashing red light signal system. Any schoolbus manufactured before July 1, 1993, may be equipped with an amber warning light system.\n\n(3) On or before September 1, 1992, the department shall adopt regulations governing the specifications, installation, and use of stop signal arms, to comply with federal standards.\n\n(4) A “stop signal arm” is a device that can be extended outward from the side of a schoolbus to provide a signal to other motorists not to pass the bus because it has stopped to load or unload passengers, that is manufactured pursuant to the specifications of Federal Motor Vehicle Safety Standard No. 131, issued on April 25, 1991.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 7. Flashing and Colored Lights [25250 - 25282]\n##### § 25257\n\n(a) Every schoolbus, when operated for the transportation of schoolchildren, shall be equipped with a flashing red light signal system.\n\n(b) (1) Every schoolbus manufactured on or after September 1, 1992, shall also be equipped with a stop signal arm. Any schoolbus manufactured before September 1, 1992, may be equipped with a stop signal arm.\n\n    (2) Any schoolbus manufactured on or after July 1, 1993, shall also be equipped with an amber warning light system, in addition to the flashing red light signal system. Any schoolbus manufactured before July 1, 1993, may be equipped with an amber warning light system.\n\n    (3) On or before September 1, 1992, the department shall adopt regulations governing the specifications, installation, and use of stop signal arms, to comply with federal standards.\n\n    (4) A “stop signal arm” is a device that can be extended outward from the side of a schoolbus to provide a signal to other motorists not to pass the bus because it has stopped to load or unload passengers, that is manufactured pursuant to the specifications of Federal Motor Vehicle Safety Standard No. 131, issued on April 25, 1991.\n\n*(Amended by Stats. 1992, Ch. 624, Sec. 7. Effective September 14, 1992.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every schoolbus, when operated for the transportation of schoolchildren, shall be equipped with a flashing red light signal system.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "(1) Every schoolbus manufactured on or after September 1, 1992, shall also be equipped with a stop signal arm. Any schoolbus manufactured before September 1, 1992, may be equipped with a stop signal arm.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "Any schoolbus manufactured on or after July 1, 1993, shall also be equipped with an amber warning light system, in addition to the flashing red light signal system. Any schoolbus manufactured before July 1, 1993, may be equipped with an amber warning light system.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "On or before September 1, 1992, the department shall adopt regulations governing the specifications, installation, and use of stop signal arms, to comply with federal standards.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "A “stop signal arm” is a device that can be extended outward from the side of a schoolbus to provide a signal to other motorists not to pass the bus because it has stopped to load or unload passengers, that is manufactured pursuant to the specifications of Federal Motor Vehicle Safety Standard No. 131, issued on April 25, 1991.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1992, Ch. 624, Sec. 7. Effective September 14, 1992.)",
+    "action": "Amended",
+    "statutes_year": 1992,
+    "chapter": "624",
+    "section": "7",
+    "bill_number": null,
+    "effective_date": "1992-09-14",
+    "operative_date": null
+  },
+  "op_statues": "1992",
+  "op_chapter": "624",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25257.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25257.html",
+  "content_sha256": "98605844476bbb4ab6ce0bf6e448b28f7130715d2daa09f6e0807bafa853bbaa",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

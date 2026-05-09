@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27425",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "3.6",
+  "article_title": "Charter-Party Carrier Safety Equipment",
+  "article_range": "27425 - 27427",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.8",
+  "text": "(a) A vehicle described in paragraph (1) of subdivision (b) of Section 5363 of the Public Utilities Code that is designed to carry 39 or more passengers and that is manufactured on or after July 1, 2020, shall be equipped with emergency lighting fixtures that will turn on in the event of an impact or collision.\n\n(b) A vehicle as specified in subdivision (a) shall at all times meet applicable federal motor vehicle safety standards (FMVSS) issued by the United States Department of Transportation. This section shall not be construed to conflict with those standards.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 3.6. Charter-Party Carrier Safety Equipment [27425 - 27427]\n##### § 27425\n\n(a) A vehicle described in paragraph (1) of subdivision (b) of Section 5363 of the Public Utilities Code that is designed to carry 39 or more passengers and that is manufactured on or after July 1, 2020, shall be equipped with emergency lighting fixtures that will turn on in the event of an impact or collision.\n\n(b) A vehicle as specified in subdivision (a) shall at all times meet applicable federal motor vehicle safety standards (FMVSS) issued by the United States Department of Transportation. This section shall not be construed to conflict with those standards.\n\n*(Added by Stats. 2016, Ch. 705, Sec. 2. (SB 247) Effective January 1, 2017.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A vehicle described in paragraph (1) of subdivision (b) of Section 5363 of the Public Utilities Code that is designed to carry 39 or more passengers and that is manufactured on or after July 1, 2020, shall be equipped with emergency lighting fixtures that will turn on in the event of an impact or collision.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A vehicle as specified in subdivision (a) shall at all times meet applicable federal motor vehicle safety standards (FMVSS) issued by the United States Department of Transportation. This section shall not be construed to conflict with those standards.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2016, Ch. 705, Sec. 2. (SB 247) Effective January 1, 2017.)",
+    "action": "Added",
+    "statutes_year": 2016,
+    "chapter": "705",
+    "section": "2",
+    "bill_number": "SB 247",
+    "effective_date": "2017-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2016",
+  "op_chapter": "705",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27425.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27425.html",
+  "content_sha256": "7b10aeb982063838810c24bc4f0744c6721ef0cecc2c4dea82a15fe1c30a186d",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

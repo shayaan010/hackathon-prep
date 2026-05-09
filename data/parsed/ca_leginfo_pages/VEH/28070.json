@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28070",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "11.5",
+  "article_title": "Bumpers",
+  "article_range": "28070 - 28071",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.17",
+  "text": "As used in this article, “passenger vehicle” means “passenger vehicle” as defined in Section 34710.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 11.5. Bumpers [28070 - 28071]\n##### § 28070\n\nAs used in this article, “passenger vehicle” means “passenger vehicle” as defined in Section 34710.\n\n*(Added by Stats. 1972, Ch. 272.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "As used in this article, “passenger vehicle” means “passenger vehicle” as defined in Section 34710.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1972, Ch. 272.)",
+    "action": "Added",
+    "statutes_year": 1972,
+    "chapter": "272",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1972",
+  "op_chapter": "272",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28070.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28070.html",
+  "content_sha256": "59cb9b7bc34a01ac936c2c5342676329aa66ce49c4d294878fd68833c2bb194e",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

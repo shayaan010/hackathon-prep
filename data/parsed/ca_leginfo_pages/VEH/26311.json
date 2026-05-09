@@ -1,0 +1,87 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26311",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "1",
+  "article_title": "Brake Requirements",
+  "article_range": "26301 - 26311",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.1",
+  "text": "(a) Every motor vehicle shall be equipped with service brakes on all wheels in contact with the roadway, except as follows:\n\n(1) Trucks and truck tractors manufactured before July 25, 1980, having three or more axles need not have brakes on the front wheels, except when such vehicles are equipped with at least two steerable axles, the wheels of one such axle need not be equipped with brakes.\n\n(2) The final towed vehicle in a triple saddle-mount driveaway-towaway operation.\n\n(3) Any vehicle manufactured prior to 1930.\n\n(4) Any two-axle truck tractor manufactured prior to 1964.\n\n(5) Any sidecar attached to a motorcycle.\n\n(6) Any motorcycle manufactured prior to 1966. Such motorcycle shall be equipped with brakes on at least one wheel.\n\n(b) Any bus, truck, or truck tractor may be equipped with a manual or automatic means for reducing the braking effort on the front wheels. The manual means shall be used only when operating under adverse road conditions, such as wet, snowy, or icy roads.\n\n(c) Vehicles and combinations of vehicles exempted in subdivisions (a) and (b) from the requirements of brakes on all wheels shall comply with the stopping distance requirements of Section 26454.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 1. Brake Requirements [26301 - 26311]\n##### § 26311\n\n(a) Every motor vehicle shall be equipped with service brakes on all wheels in contact with the roadway, except as follows:\n\n    (1) Trucks and truck tractors manufactured before July 25, 1980, having three or more axles need not have brakes on the front wheels, except when such vehicles are equipped with at least two steerable axles, the wheels of one such axle need not be equipped with brakes.\n\n    (2) The final towed vehicle in a triple saddle-mount driveaway-towaway operation.\n\n    (3) Any vehicle manufactured prior to 1930.\n\n    (4) Any two-axle truck tractor manufactured prior to 1964.\n\n    (5) Any sidecar attached to a motorcycle.\n\n    (6) Any motorcycle manufactured prior to 1966. Such motorcycle shall be equipped with brakes on at least one wheel.\n\n(b) Any bus, truck, or truck tractor may be equipped with a manual or automatic means for reducing the braking effort on the front wheels. The manual means shall be used only when operating under adverse road conditions, such as wet, snowy, or icy roads.\n\n(c) Vehicles and combinations of vehicles exempted in subdivisions (a) and (b) from the requirements of brakes on all wheels shall comply with the stopping distance requirements of Section 26454.\n\n*(Amended by Stats. 2015, Ch. 451, Sec. 53. (SB 491) Effective January 1, 2016.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every motor vehicle shall be equipped with service brakes on all wheels in contact with the roadway, except as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Trucks and truck tractors manufactured before July 25, 1980, having three or more axles need not have brakes on the front wheels, except when such vehicles are equipped with at least two steerable axles, the wheels of one such axle need not be equipped with brakes.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The final towed vehicle in a triple saddle-mount driveaway-towaway operation.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Any vehicle manufactured prior to 1930.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Any two-axle truck tractor manufactured prior to 1964.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "Any sidecar attached to a motorcycle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "6",
+      "text": "Any motorcycle manufactured prior to 1966. Such motorcycle shall be equipped with brakes on at least one wheel.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Any bus, truck, or truck tractor may be equipped with a manual or automatic means for reducing the braking effort on the front wheels. The manual means shall be used only when operating under adverse road conditions, such as wet, snowy, or icy roads.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Vehicles and combinations of vehicles exempted in subdivisions (a) and (b) from the requirements of brakes on all wheels shall comply with the stopping distance requirements of Section 26454.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2015, Ch. 451, Sec. 53. (SB 491) Effective January 1, 2016.)",
+    "action": "Amended",
+    "statutes_year": 2015,
+    "chapter": "451",
+    "section": "53",
+    "bill_number": "SB 491",
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2015",
+  "op_chapter": "451",
+  "op_section": "53",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26311.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26311.html",
+  "content_sha256": "23824c8fc628273aae4c0475040a3e8f1e9d32c89d908e12142653d518a99a39",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

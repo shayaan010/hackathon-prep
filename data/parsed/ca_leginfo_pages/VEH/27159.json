@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27159",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "2",
+  "article_title": "Exhaust Systems",
+  "article_range": "27150 - 27159",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.2",
+  "text": "Any uniformed member of the California Highway Patrol may order a vehicle stored when it is located within the territorial limits in which the member may act if requested by a representative of the State Air Resources Board to remove the vehicle from service pursuant to subdivision (f) of Section 44011.6 of the Health and Safety Code. All towing and storage fees for a vehicle removed under this section shall be paid by the owner.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 2. Exhaust Systems [27150 - 27159]\n##### § 27159\n\nAny uniformed member of the California Highway Patrol may order a vehicle stored when it is located within the territorial limits in which the member may act if requested by a representative of the State Air Resources Board to remove the vehicle from service pursuant to subdivision (f) of Section 44011.6 of the Health and Safety Code. All towing and storage fees for a vehicle removed under this section shall be paid by the owner.\n\n*(Added by Stats. 1990, Ch. 1433, Sec. 24.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any uniformed member of the California Highway Patrol may order a vehicle stored when it is located within the territorial limits in which the member may act if requested by a representative of the State Air Resources Board to remove the vehicle from service pursuant to subdivision (f) of Section 44011.6 of the Health and Safety Code. All towing and storage fees for a vehicle removed under this section shall be paid by the owner.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1990, Ch. 1433, Sec. 24.)",
+    "action": "Added",
+    "statutes_year": 1990,
+    "chapter": "1433",
+    "section": "24",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1990",
+  "op_chapter": "1433",
+  "op_section": "24",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27159.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27159.html",
+  "content_sha256": "15faeb8408da53a9e2c1e362eb0e7ba07593f7e28dea4a91219222168361c5e9",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

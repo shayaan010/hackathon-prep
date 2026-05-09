@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26305",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "1",
+  "article_title": "Brake Requirements",
+  "article_range": "26301 - 26311",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.1",
+  "text": "Any auxiliary dolly or tow dolly may be equipped with brakes.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 1. Brake Requirements [26301 - 26311]\n##### § 26305\n\nAny auxiliary dolly or tow dolly may be equipped with brakes.\n\n*(Amended by Stats. 1983, Ch. 708, Sec. 9.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any auxiliary dolly or tow dolly may be equipped with brakes.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 708, Sec. 9.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "708",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "708",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26305.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26305.html",
+  "content_sha256": "b018937ceb781a1890987e388748a60ba040364d2e408ea0559050bb2b6ce5b7",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

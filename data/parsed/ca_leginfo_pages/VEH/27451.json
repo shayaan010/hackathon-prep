@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27451",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "4",
+  "article_title": "Tires",
+  "article_range": "27450 - 27503",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.9",
+  "text": "The rubber of a solid tire shall be measured between the surface of the roadway and the nearest metal part of the base flange to which the tire is attached at the point where the concentrated weight of the vehicle bears upon the surface of the roadway.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 4. Tires [27450 - 27503]\n##### § 27451\n\nThe rubber of a solid tire shall be measured between the surface of the roadway and the nearest metal part of the base flange to which the tire is attached at the point where the concentrated weight of the vehicle bears upon the surface of the roadway.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The rubber of a solid tire shall be measured between the surface of the roadway and the nearest metal part of the base flange to which the tire is attached at the point where the concentrated weight of the vehicle bears upon the surface of the roadway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27451.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27451.html",
+  "content_sha256": "28e1f4db40690f309ae6415f3fc59d1455db539b15bb9192d2f6d15a59f5ebd4",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

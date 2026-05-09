@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22403",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "2",
+  "article_title": "Other Speed Laws",
+  "article_range": "22400 - 22413",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.2",
+  "text": "Any local authority may, in the manner provided in Section 22404, determine the maximum speed, not less than five miles per hour, which can be maintained with safety to any bridge, elevated structure, tube, or tunnel under its jurisdiction, or may request the Department of Transportation to make such determination.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 2. Other Speed Laws [22400 - 22413]\n##### § 22403\n\nAny local authority may, in the manner provided in Section 22404, determine the maximum speed, not less than five miles per hour, which can be maintained with safety to any bridge, elevated structure, tube, or tunnel under its jurisdiction, or may request the Department of Transportation to make such determination.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any local authority may, in the manner provided in Section 22404, determine the maximum speed, not less than five miles per hour, which can be maintained with safety to any bridge, elevated structure, tube, or tunnel under its jurisdiction, or may request the Department of Transportation to make such determination.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22403.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22403.html",
+  "content_sha256": "d3c00db1b9e6086cd85f7440d31567ddea52b8e8d0a8f7468621edabb5b6fde7",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27206",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "2.5",
+  "article_title": "Noise Limits",
+  "article_range": "27200 - 27207",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.3",
+  "text": "For the purposes of Section 27200, the following noise limits shall apply to any other motor vehicle, not specified in this article, manufactured:\n\n(1) After 1967, and before 1973 ........................\n\n86 dbA\n\n(2) After 1972, and before 1975 ........................\n\n84 dbA\n\n(3) After 1974 ........................\n\n80 dbA",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 2.5. Noise Limits [27200 - 27207]\n##### § 27206\n\nFor the purposes of Section 27200, the following noise limits shall apply to any other motor vehicle, not specified in this article, manufactured:\n\n(1) After 1967, and before 1973 ........................\n\n86 dbA\n\n(2) After 1972, and before 1975 ........................\n\n84 dbA\n\n(3) After 1974 ........................\n\n80 dbA\n\n*(Added by renumbering Section 27205 by Stats. 1977, Ch. 558.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "For the purposes of Section 27200, the following noise limits shall apply to any other motor vehicle, not specified in this article, manufactured:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "After 1967, and before 1973 ........................",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "86 dbA",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "After 1972, and before 1975 ........................",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "84 dbA",
+      "depth_em": 0.0
+    },
+    {
+      "label": "3",
+      "text": "After 1974 ........................",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "80 dbA",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by renumbering Section 27205 by Stats. 1977, Ch. 558.)",
+    "action": "Added",
+    "statutes_year": 1977,
+    "chapter": "558",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1977",
+  "op_chapter": "558",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27206.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27206.html",
+  "content_sha256": "63125f207bf7c8a65a7da64de88b7735a6f555f58477e9dde017d32a6a264fba",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

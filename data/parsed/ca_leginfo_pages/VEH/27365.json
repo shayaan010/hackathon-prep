@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27365",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "3.3",
+  "article_title": "Child Safety Belt and Passenger Restraint Requirements",
+  "article_range": "27360 - 27368",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.5",
+  "text": "(a) (1) A car rental agency in California shall inform each of its customers of Section 27360 by posting, in a place conspicuous to the public in each established place of business of the agency, a notice not smaller than 15 by 20 inches which states the following:\n\n“CALIFORNIA LAW REQUIRES ALL CHILDREN UNDER 8 YEARS OF AGE TO BE TRANSPORTED IN THE REAR SEAT OF THE VEHICLE IN A CHILD RESTRAINT SYSTEM. THIS AGENCY IS REQUIRED TO PROVIDE FOR RENTAL OF A CHILD RESTRAINT SYSTEM IF YOU DO NOT HAVE A CHILD RESTRAINT SYSTEM YOURSELF.”\n\n(2) The posted notice specified in paragraph (1) is not required if the car rental agency’s place of business is located in a hotel that has a business policy prohibiting the posting of signs or notices in any area of the hotel. In that case, a car rental agency shall furnish a written notice to each customer that contains the same information as required for the posted notice.\n\n(b) Every car rental agency in California shall have available for, and shall, upon request, provide for rental to, adults traveling with children under eight years of age, child passenger restraint systems that are certified by the manufacturer to meet applicable federal motor vehicle safety standards for use by children, are in good and safe condition, with no missing original parts, and are not older than five years.\n\n(c) A violation of this section is an infraction punishable by a fine of one hundred dollars ($100).",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 3.3. Child Safety Belt and Passenger Restraint Requirements [27360 - 27368]\n##### § 27365\n\n(a) (1) A car rental agency in California shall inform each of its customers of Section 27360 by posting, in a place conspicuous to the public in each established place of business of the agency, a notice not smaller than 15 by 20 inches which states the following:\n\n“CALIFORNIA LAW REQUIRES ALL CHILDREN UNDER 8 YEARS OF AGE TO BE TRANSPORTED IN THE REAR SEAT OF THE VEHICLE IN A CHILD RESTRAINT SYSTEM. THIS AGENCY IS REQUIRED TO PROVIDE FOR RENTAL OF A CHILD RESTRAINT SYSTEM IF YOU DO NOT HAVE A CHILD RESTRAINT SYSTEM YOURSELF.”\n\n    (2) The posted notice specified in paragraph (1) is not required if the car rental agency’s place of business is located in a hotel that has a business policy prohibiting the posting of signs or notices in any area of the hotel. In that case, a car rental agency shall furnish a written notice to each customer that contains the same information as required for the posted notice.\n\n(b) Every car rental agency in California shall have available for, and shall, upon request, provide for rental to, adults traveling with children under eight years of age, child passenger restraint systems that are certified by the manufacturer to meet applicable federal motor vehicle safety standards for use by children, are in good and safe condition, with no missing original parts, and are not older than five years.\n\n(c) A violation of this section is an infraction punishable by a fine of one hundred dollars ($100).\n\n*(Amended by Stats. 2011, Ch. 474, Sec. 11. (SB 929) Effective January 1, 2012.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "(1) A car rental agency in California shall inform each of its customers of Section 27360 by posting, in a place conspicuous to the public in each established place of business of the agency, a notice not smaller than 15 by 20 inches which states the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "“CALIFORNIA LAW REQUIRES ALL CHILDREN UNDER 8 YEARS OF AGE TO BE TRANSPORTED IN THE REAR SEAT OF THE VEHICLE IN A CHILD RESTRAINT SYSTEM. THIS AGENCY IS REQUIRED TO PROVIDE FOR RENTAL OF A CHILD RESTRAINT SYSTEM IF YOU DO NOT HAVE A CHILD RESTRAINT SYSTEM YOURSELF.”",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The posted notice specified in paragraph (1) is not required if the car rental agency’s place of business is located in a hotel that has a business policy prohibiting the posting of signs or notices in any area of the hotel. In that case, a car rental agency shall furnish a written notice to each customer that contains the same information as required for the posted notice.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Every car rental agency in California shall have available for, and shall, upon request, provide for rental to, adults traveling with children under eight years of age, child passenger restraint systems that are certified by the manufacturer to meet applicable federal motor vehicle safety standards for use by children, are in good and safe condition, with no missing original parts, and are not older than five years.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A violation of this section is an infraction punishable by a fine of one hundred dollars ($100).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2011, Ch. 474, Sec. 11. (SB 929) Effective January 1, 2012.)",
+    "action": "Amended",
+    "statutes_year": 2011,
+    "chapter": "474",
+    "section": "11",
+    "bill_number": "SB 929",
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2011",
+  "op_chapter": "474",
+  "op_section": "11",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27365.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27365.html",
+  "content_sha256": "7d1b7ee80485052cfce68ceb712e64496bd9c2b1df60ed3757ff2c7655fa32ea",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

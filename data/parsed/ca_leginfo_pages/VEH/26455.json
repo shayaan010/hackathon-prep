@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26455",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "2",
+  "article_title": "Operation of Brakes",
+  "article_range": "26450 - 26458.5",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.2",
+  "text": "In respect to any motor vehicle designed, used or maintained primarily for the transportation of property which is not equipped with a plate or marker showing the manufacturer’s gross vehicle weight rating, for purposes of stopping distance requirements, the weight of a vehicle shall be determined as follows:\n\n(a) Any motor vehicle having less than six wheels is the equivalent of a vehicle having a manufacturer’s gross vehicle weight rating of less than 10,000 pounds.\n\n(b) Any motor vehicle having six wheels or more is the equivalent of a vehicle having a manufacturer’s gross vehicle weight rating of 10,000 pounds or more.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 2. Operation of Brakes [26450 - 26458.5]\n##### § 26455\n\nIn respect to any motor vehicle designed, used or maintained primarily for the transportation of property which is not equipped with a plate or marker showing the manufacturer’s gross vehicle weight rating, for purposes of stopping distance requirements, the weight of a vehicle shall be determined as follows:\n\n(a) Any motor vehicle having less than six wheels is the equivalent of a vehicle having a manufacturer’s gross vehicle weight rating of less than 10,000 pounds.\n\n(b) Any motor vehicle having six wheels or more is the equivalent of a vehicle having a manufacturer’s gross vehicle weight rating of 10,000 pounds or more.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In respect to any motor vehicle designed, used or maintained primarily for the transportation of property which is not equipped with a plate or marker showing the manufacturer’s gross vehicle weight rating, for purposes of stopping distance requirements, the weight of a vehicle shall be determined as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Any motor vehicle having less than six wheels is the equivalent of a vehicle having a manufacturer’s gross vehicle weight rating of less than 10,000 pounds.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any motor vehicle having six wheels or more is the equivalent of a vehicle having a manufacturer’s gross vehicle weight rating of 10,000 pounds or more.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26455.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26455.html",
+  "content_sha256": "854037d0380febdb8c7d6bcbcf2ffd1eaaec8ead0ac932a739fef47e22d3eeb2",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

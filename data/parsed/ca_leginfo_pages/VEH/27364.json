@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27364",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "3.3",
+  "article_title": "Child Safety Belt and Passenger Restraint Requirements",
+  "article_range": "27360 - 27368",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.5",
+  "text": "(a) It is the intent of the Legislature, in enacting this article, to insure that children, who are, because of their tender years, helpless dependent passengers, are provided with the safest transportation possible.\n\n(b) It is the further intent of the Legislature to stress and communicate to all drivers in this state the importance of using child passenger restraint systems.\n\n(c) Nothing in this article shall be construed to extend application of these provisions to a class of children other than the class of children herein specified.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 3.3. Child Safety Belt and Passenger Restraint Requirements [27360 - 27368]\n##### § 27364\n\n(a) It is the intent of the Legislature, in enacting this article, to insure that children, who are, because of their tender years, helpless dependent passengers, are provided with the safest transportation possible.\n\n(b) It is the further intent of the Legislature to stress and communicate to all drivers in this state the importance of using child passenger restraint systems.\n\n(c) Nothing in this article shall be construed to extend application of these provisions to a class of children other than the class of children herein specified.\n\n*(Amended by Stats. 1995, Ch. 512, Sec. 9. Effective January 1, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is the intent of the Legislature, in enacting this article, to insure that children, who are, because of their tender years, helpless dependent passengers, are provided with the safest transportation possible.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "It is the further intent of the Legislature to stress and communicate to all drivers in this state the importance of using child passenger restraint systems.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Nothing in this article shall be construed to extend application of these provisions to a class of children other than the class of children herein specified.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1995, Ch. 512, Sec. 9. Effective January 1, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1995,
+    "chapter": "512",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": "1996-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1995",
+  "op_chapter": "512",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27364.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27364.html",
+  "content_sha256": "23d605189901e9082eee7885128249da86fd220751ba523c436f32ecf423f3e5",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

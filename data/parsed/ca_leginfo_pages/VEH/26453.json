@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26453",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "2",
+  "article_title": "Operation of Brakes",
+  "article_range": "26450 - 26458.5",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.2",
+  "text": "All brakes and component parts thereof shall be maintained in good condition and in good working order. The brakes shall be so adjusted as to operate as equally as practicable with respect to the wheels on opposite sides of the vehicle.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 2. Operation of Brakes [26450 - 26458.5]\n##### § 26453\n\nAll brakes and component parts thereof shall be maintained in good condition and in good working order. The brakes shall be so adjusted as to operate as equally as practicable with respect to the wheels on opposite sides of the vehicle.\n\n*(Amended by Stats. 1959, Ch. 2183.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "All brakes and component parts thereof shall be maintained in good condition and in good working order. The brakes shall be so adjusted as to operate as equally as practicable with respect to the wheels on opposite sides of the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1959, Ch. 2183.)",
+    "action": "Amended",
+    "statutes_year": 1959,
+    "chapter": "2183",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "2183",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26453.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26453.html",
+  "content_sha256": "d560598ba3d1d66b00968123deae4dc0d9a5a283c8eee4751f87aa48561998e8",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}
