@@ -41,12 +41,34 @@ export type UploadResponse = {
   chunks: number;
 };
 
+export type Comparable = {
+  id: string;
+  case_name: string;
+  citation: string;
+  jurisdiction: string;
+  jurisdictionLabel: string;
+  year: number | null;
+  kind: "verdict" | "settlement";
+  plaintiff: string | null;
+  defendant: string | null;
+  factors: string[];
+  injuries: string[];
+  fact_pattern: string;
+  award_total_usd: number;
+  economic_usd: number;
+  non_economic_usd: number;
+  punitive_usd: number;
+  source_url: string;
+  source_quote: string;
+};
+
 export const api = {
   stats: () =>
     jsonFetch<{ documents: number; chunks: number; extractions: number }>(
       "/api/stats",
     ),
   statutes: () => jsonFetch<Statute[]>("/api/statutes"),
+  comparables: () => jsonFetch<Comparable[]>("/api/comparables"),
   search: (query: string, top_k = 10) =>
     jsonFetch<SearchHit[]>("/api/search", {
       method: "POST",

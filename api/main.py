@@ -144,16 +144,119 @@ class UploadResponse(BaseModel):
     chunks: int = 0
 
 
+class Comparable(BaseModel):
+    """A damages comparable — a past PI verdict/settlement an attorney can sort against."""
+    id: str
+    case_name: str
+    citation: str
+    jurisdiction: str
+    jurisdictionLabel: str
+    year: Optional[int] = None
+    kind: str = "verdict"  # "verdict" | "settlement"
+    plaintiff: Optional[str] = None
+    defendant: Optional[str] = None
+    factors: list[str] = Field(default_factory=list)
+    injuries: list[str] = Field(default_factory=list)
+    fact_pattern: str = ""
+    award_total_usd: float = 0
+    economic_usd: float = 0
+    non_economic_usd: float = 0
+    punitive_usd: float = 0
+    source_url: str = ""
+    source_quote: str = ""
+
+
 # ---------- Statute sourcing (real DB, with seed fallback) ----------
 # Lives server-side so the UI hits a real API, even before any docs are ingested.
 
 _STATUTE_SEED_PATH = Path(__file__).parent / "statutes_seed.json"
+_COMPARABLES_SEED_PATH = Path(__file__).parent / "comparables_seed.json"
 
 
 def _load_seed_statutes() -> list[dict]:
     if _STATUTE_SEED_PATH.exists():
         return json.loads(_STATUTE_SEED_PATH.read_text(encoding="utf-8"))
     return []
+
+
+def _load_seed_comparables() -> list[dict]:
+    if _COMPARABLES_SEED_PATH.exists():
+        return json.loads(_COMPARABLES_SEED_PATH.read_text(encoding="utf-8"))
+    return []
+
+
+def _verdict_extraction_to_comparable(ext: dict, doc: dict) -> Optional[dict]:
+    """Map a stored Verdict extraction + its parent opinion doc into the
+    Comparable shape. Returns None if the extraction lacks a damages amount."""
+    data = ext.get("data") or {}
+    total = data.get("total_amount_usd") or 0
+    if not total:
+        return None
+
+    meta = doc.get("metadata") or {}
+    state_raw = (meta.get("jurisdiction") or "").upper().strip()
+    state_label = (meta.get("jurisdictionLabel") or meta.get("court") or "").strip()
+    case_name = (meta.get("case_name") or "").strip() or "Unknown case"
+    citation = (meta.get("citation") or "").strip()
+    date_filed = (meta.get("date_filed") or "")[:10]
+    year = None
+    if len(date_filed) >= 4 and date_filed[:4].isdigit():
+        year = int(date_filed[:4])
+    elif data.get("decision_date"):
+        try:
+            year = int(str(data["decision_date"])[:4])
+        except (TypeError, ValueError):
+            pass
+
+    award_type = (data.get("award_type") or "").lower().strip()
+    kind = "settlement" if "settle" in award_type else "verdict"
+
+    return {
+        "id": f"opinion-{doc.get('id')}-ext-{ext.get('id')}",
+        "case_name": case_name,
+        "citation": citation or f"({date_filed})" if date_filed else case_name,
+        "jurisdiction": state_raw or "??",
+        "jurisdictionLabel": state_label or state_raw or "Unknown",
+        "year": year,
+        "kind": kind,
+        "plaintiff": data.get("plaintiff"),
+        "defendant": data.get("defendant"),
+        "factors": [],
+        "injuries": [],
+        "fact_pattern": "",
+        "award_total_usd": float(total),
+        "economic_usd": float(data.get("compensatory_amount_usd") or 0),
+        "non_economic_usd": 0,
+        "punitive_usd": float(data.get("punitive_amount_usd") or 0),
+        "source_url": doc.get("source_url", ""),
+        "source_quote": ext.get("source_quote") or "",
+    }
+
+
+def _load_comparables_from_db() -> list[dict]:
+    """Pull stored Verdict extractions and shape them into Comparables."""
+    db = get_db()
+    extractions = db.get_extractions_by_schema("Verdict")
+    if not extractions:
+        return []
+
+    out: list[dict] = []
+    for ext in extractions:
+        doc = db.get_document(ext.get("doc_id"))
+        if not doc:
+            continue
+        comp = _verdict_extraction_to_comparable(ext, doc)
+        if comp:
+            out.append(comp)
+    return out
+
+
+def _load_comparables() -> list[dict]:
+    """Real DB-extracted comparables first, seed JSON as supplemental."""
+    db_items = _load_comparables_from_db()
+    seed_items = _load_seed_comparables()
+    # Stable order: real first, then seed (they have unrelated id namespaces).
+    return db_items + seed_items
 
 
 _JURISDICTION_CODES = {
@@ -281,6 +384,17 @@ def stats():
 def list_statutes():
     real = _load_statutes_from_db()
     return real if real else _load_seed_statutes()
+
+
+@app.get("/api/comparables", response_model=list[Comparable])
+def list_comparables():
+    """Damages comparables — past PI verdicts/settlements an attorney can sort against.
+
+    Filtering and sorting are intentionally client-side: the corpus is small,
+    the UI wants snappy interactions, and TanStack Query caches the whole list
+    on first load.
+    """
+    return _load_comparables()
 
 
 _SECTION_QUERY_RE = re.compile(r"^\s*\d+(\.\d+)?(\([a-z0-9]\))?\s*$", re.I)
