@@ -1,0 +1,54 @@
+{
+  "jurisdiction": "CO",
+  "law_code": "CRS42",
+  "code_name": null,
+  "section_num": "42-4-103",
+  "section_name": "Scope and effect of article",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "4",
+  "article_title": "Regul. of Vehicles & Traffic",
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "42",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) This article constitutes the uniform traffic code throughout the state and in all political subdivisions and municipalities therein.\n\n(2) The provisions of this article relating to the operation of vehicles and the movement of pedestrians refer exclusively to the use of streets and highways except:\n\n(a) Where a different place is specifically referred to in a given section;\n\n(b) For provisions of sections 42-2-128 , 42-4-1301 to 42-4-1303 , 42-4-1401 , 42-4-1402 , and 42-4-1413 and part 16 of this article which shall apply upon streets and highways and elsewhere throughout the state.",
+  "markdown": "## Title 42\n#### Article 4. Regul. of Vehicles & Traffic\n##### § 42-4-103 — Scope and effect of article\n\n(1) This article constitutes the uniform traffic code throughout the state and in all political subdivisions and municipalities therein.\n\n(2) The provisions of this article relating to the operation of vehicles and the movement of pedestrians refer exclusively to the use of streets and highways except:\n\n    (a) Where a different place is specifically referred to in a given section;\n\n    (b) For provisions of sections 42-2-128 , 42-4-1301 to 42-4-1303 , 42-4-1401 , 42-4-1402 , and 42-4-1413 and part 16 of this article which shall apply upon streets and highways and elsewhere throughout the state.\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "This article constitutes the uniform traffic code throughout the state and in all political subdivisions and municipalities therein.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The provisions of this article relating to the operation of vehicles and the movement of pedestrians refer exclusively to the use of streets and highways except:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Where a different place is specifically referred to in a given section;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "For provisions of sections 42-2-128 , 42-4-1301 to 42-4-1303 , 42-4-1401 , 42-4-1402 , and 42-4-1413 and part 16 of this article which shall apply upon streets and highways and elsewhere throughout the state.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": null,
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://colorado.public.law/statutes/crs_42-4-103",
+  "source_path": "data/raw/co_public_law/CRS42/42-4-103.html",
+  "content_sha256": "ba853fd4e35b0b7b29fb2e5d29a6ec4ffe668037c0a76ecf05a58f32097e5e85",
+  "parsed_at": "2026-05-09T19:13:59+00:00",
+  "parser_version": "1"
+}

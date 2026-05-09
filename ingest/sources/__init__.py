@@ -38,6 +38,7 @@ def load_all_sources() -> dict:
         "fl_public_law",
         "or_public_law",
         "nv_public_law",
+        "co_public_law",
     ):
         importlib.import_module(f"ingest.sources.{slug}")
     return dict(SOURCE_REGISTRY)

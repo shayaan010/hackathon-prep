@@ -1,0 +1,49 @@
+{
+  "jurisdiction": "CO",
+  "law_code": "CRS42",
+  "code_name": null,
+  "section_num": "42-4-701",
+  "section_name": "Vehicles approaching or entering intersection",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "4",
+  "article_title": "Regul. of Vehicles & Traffic",
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "42",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) When two vehicles approach or enter an intersection from different highways at approximately the same time, the driver of the vehicle on the left shall yield the right-of-way to the vehicle on the right.\n\n(2) The foregoing rule is modified at through highways and otherwise as stated in sections 42-4-702 to 42-4-704 .\n\n(3) Any person who violates any provision of this section commits a class A traffic infraction.",
+  "markdown": "## Title 42\n#### Article 4. Regul. of Vehicles & Traffic\n##### § 42-4-701 — Vehicles approaching or entering intersection\n\n(1) When two vehicles approach or enter an intersection from different highways at approximately the same time, the driver of the vehicle on the left shall yield the right-of-way to the vehicle on the right.\n\n(2) The foregoing rule is modified at through highways and otherwise as stated in sections 42-4-702 to 42-4-704 .\n\n(3) Any person who violates any provision of this section commits a class A traffic infraction.\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "When two vehicles approach or enter an intersection from different highways at approximately the same time, the driver of the vehicle on the left shall yield the right-of-way to the vehicle on the right.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The foregoing rule is modified at through highways and otherwise as stated in sections 42-4-702 to 42-4-704 .",
+      "depth_em": 0.0
+    },
+    {
+      "label": "3",
+      "text": "Any person who violates any provision of this section commits a class A traffic infraction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": null,
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://colorado.public.law/statutes/crs_42-4-701",
+  "source_path": "data/raw/co_public_law/CRS42/42-4-701.html",
+  "content_sha256": "78753c89fc12895da5843a8b9388fb2daacad57a3f5a9b3ecedc1d6b90953e47",
+  "parsed_at": "2026-05-09T19:14:00+00:00",
+  "parser_version": "1"
+}

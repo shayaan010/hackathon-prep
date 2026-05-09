@@ -40,6 +40,7 @@ SOURCE_SLUG_BY_JURISDICTION = {
     "FL": "fl_public_law",
     "OR": "or_public_law",
     "NV": "nv_public_law",
+    "CO": "co_public_law",
 }
 DEFAULT_CODE_BY_JURISDICTION = {
     "NY": "VAT",
@@ -47,6 +48,7 @@ DEFAULT_CODE_BY_JURISDICTION = {
     "FL": "TXX",
     "OR": "ORS59",
     "NV": "NRS43",
+    "CO": "CRS42",
 }
 DEFAULT_DATA_ROOT = Path("data")
 

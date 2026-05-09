@@ -1,0 +1,64 @@
+{
+  "jurisdiction": "CO",
+  "law_code": "CRS42",
+  "code_name": null,
+  "section_num": "42-4-2001",
+  "section_name": "Maximum hours of service",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "4",
+  "article_title": "Regul. of Vehicles & Traffic",
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "42",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) Any person who operates a commercial motor vehicle solely in intrastate commerce for the purpose of transporting wet, ready-mix concrete need not comply with 49 CFR 395.3 (b). No such person shall drive for any period after:\n\n(a) Having been on duty seventy hours in any seven consecutive days if the employing motor carrier does not operate every day in the week; or\n\n(b) Having been on duty eighty hours in any period of eight consecutive days if the employing motor carrier operates motor vehicles every day of the week.\n\n(2) Within a seven-day workweek all hours of service after sixty hours are voluntary starting the next scheduled workday.\n\n(3) Twenty-four consecutive hours off duty shall constitute the end of any seven or eight consecutive-day period.\n\n(4) Any commercial motor vehicle that transports hazardous materials shall be exempt from this section and shall be subject to the federal hours-of-service limitations in 49 CFR 395 and 350.",
+  "markdown": "## Title 42\n#### Article 4. Regul. of Vehicles & Traffic\n##### § 42-4-2001 — Maximum hours of service\n\n(1) Any person who operates a commercial motor vehicle solely in intrastate commerce for the purpose of transporting wet, ready-mix concrete need not comply with 49 CFR 395.3 (b). No such person shall drive for any period after:\n\n    (a) Having been on duty seventy hours in any seven consecutive days if the employing motor carrier does not operate every day in the week; or\n\n    (b) Having been on duty eighty hours in any period of eight consecutive days if the employing motor carrier operates motor vehicles every day of the week.\n\n(2) Within a seven-day workweek all hours of service after sixty hours are voluntary starting the next scheduled workday.\n\n(3) Twenty-four consecutive hours off duty shall constitute the end of any seven or eight consecutive-day period.\n\n(4) Any commercial motor vehicle that transports hazardous materials shall be exempt from this section and shall be subject to the federal hours-of-service limitations in 49 CFR 395 and 350.\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "Any person who operates a commercial motor vehicle solely in intrastate commerce for the purpose of transporting wet, ready-mix concrete need not comply with 49 CFR 395.3 (b). No such person shall drive for any period after:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Having been on duty seventy hours in any seven consecutive days if the employing motor carrier does not operate every day in the week; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Having been on duty eighty hours in any period of eight consecutive days if the employing motor carrier operates motor vehicles every day of the week.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Within a seven-day workweek all hours of service after sixty hours are voluntary starting the next scheduled workday.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "3",
+      "text": "Twenty-four consecutive hours off duty shall constitute the end of any seven or eight consecutive-day period.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "4",
+      "text": "Any commercial motor vehicle that transports hazardous materials shall be exempt from this section and shall be subject to the federal hours-of-service limitations in 49 CFR 395 and 350.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": null,
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://colorado.public.law/statutes/crs_42-4-2001",
+  "source_path": "data/raw/co_public_law/CRS42/42-4-2001.html",
+  "content_sha256": "5349efff7850a07ff610420af9f25022e2930a410a63fc660d8782b8d9d607e2",
+  "parsed_at": "2026-05-09T19:14:00+00:00",
+  "parser_version": "1"
+}
