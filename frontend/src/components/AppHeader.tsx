@@ -6,9 +6,9 @@ import { api } from "@/lib/api";
 const nav = [
   { to: "/", label: "Harvester", icon: BookOpen },
   { to: "/projects", label: "Projects", icon: FolderOpen },
-  { to: "/comparables", label: "Comparables", icon: DollarSign },
   { to: "/organizer", label: "Organizer", icon: FolderKanban },
   { to: "/coverage", label: "Coverage", icon: Network },
+  { to: "/comparables", label: "Comparables", icon: DollarSign },
   { to: "/upload", label: "Upload", icon: Upload },
 ] as const;
 

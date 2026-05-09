@@ -170,18 +170,9 @@ class Comparable(BaseModel):
 # Lives server-side so the UI hits a real API, even before any docs are ingested.
 
 _STATUTE_SEED_PATH = Path(__file__).parent / "statutes_seed.json"
-_COMPARABLES_SEED_PATH = Path(__file__).parent / "comparables_seed.json"
-
-
 def _load_seed_statutes() -> list[dict]:
     if _STATUTE_SEED_PATH.exists():
         return json.loads(_STATUTE_SEED_PATH.read_text(encoding="utf-8"))
-    return []
-
-
-def _load_seed_comparables() -> list[dict]:
-    if _COMPARABLES_SEED_PATH.exists():
-        return json.loads(_COMPARABLES_SEED_PATH.read_text(encoding="utf-8"))
     return []
 
 
@@ -252,11 +243,11 @@ def _load_comparables_from_db() -> list[dict]:
 
 
 def _load_comparables() -> list[dict]:
-    """Real DB-extracted comparables first, seed JSON as supplemental."""
-    db_items = _load_comparables_from_db()
-    seed_items = _load_seed_comparables()
-    # Stable order: real first, then seed (they have unrelated id namespaces).
-    return db_items + seed_items
+    """Comparables come exclusively from real Verdict extractions in the DB
+    (populated by scripts/ingest_comparables.py over CourtListener opinions).
+    No hand-curated seed.
+    """
+    return _load_comparables_from_db()
 
 
 _JURISDICTION_CODES = {

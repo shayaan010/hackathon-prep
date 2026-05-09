@@ -52,12 +52,46 @@ class CaseMetadata(SourceTracked):
 
 
 class Verdict(SourceTracked):
-    """A single verdict, settlement, or damages award."""
+    """A single verdict, settlement, or damages award.
+
+    Designed for the comparables table — every field a paralegal would sort
+    or filter by must be its own column, not buried in case metadata.
+    """
+    case_name: Optional[str] = Field(
+        None,
+        description="Case caption, e.g. 'Reyes v. Western Logistics'"
+    )
+    citation: Optional[str] = Field(
+        None,
+        description="Reporter or jury-verdict-reporter citation if shown"
+    )
+    jurisdiction: Optional[str] = Field(
+        None,
+        description="State or jurisdiction (e.g. 'California', 'Texas', 'New York')"
+    )
+    court: Optional[str] = Field(
+        None,
+        description="Court name, e.g. 'Alameda County Superior Court'"
+    )
     plaintiff: Optional[str] = Field(None, description="Plaintiff's name as it appears")
     defendant: Optional[str] = Field(None, description="Primary defendant's name")
     award_type: Optional[str] = Field(
         None,
         description="One of: verdict, settlement, judgment, dismissal"
+    )
+    claim_type: Optional[str] = Field(
+        None,
+        description=(
+            "Primary claim type, e.g. 'motor vehicle negligence', 'product liability', "
+            "'premises liability', 'medical malpractice'"
+        ),
+    )
+    injury_type: Optional[str] = Field(
+        None,
+        description=(
+            "Primary injury, e.g. 'traumatic brain injury', 'soft tissue', "
+            "'spinal cord injury', 'wrongful death', 'fracture'"
+        ),
     )
     total_amount_usd: Optional[float] = Field(
         None,

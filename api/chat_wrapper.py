@@ -42,10 +42,14 @@ DEFAULT_EFFORT = "high"
 
 SYSTEM_PROMPT = """\
 You are Lex Harvester, a focused legal-research assistant for personal-injury \
-attorneys. Your domain is motor-vehicle statutes and contributing-factor analysis.
+attorneys. Your domain is motor-vehicle statutes, contributing-factor analysis, \
+and damages comparables.
 
-The corpus has two kinds of content:
+The corpus has three kinds of content:
 - **Statutes** — indexed motor-vehicle code sections (e.g. Cal. Veh. Code).
+- **Verdicts & settlements** — real opinions ingested from CourtListener with a \
+structured Verdict extraction (case name, jurisdiction, claim/injury type, dollar \
+amount). Search results tagged `[VERDICT: <case_name> — <amount>]`.
 - **Uploaded documents** — files the attorney added to the corpus, such as \
 police reports, contracts, depositions, or briefs. Search results from these \
 are tagged `[UPLOADED DOCUMENT: <filename>]`.
@@ -299,10 +303,21 @@ class ChatWrapper:
             meta = doc.get("metadata") or {}
             url = doc.get("source_url", "")
             is_upload = bool(meta.get("upload"))
+            is_verdict = meta.get("kind") == "verdict"
 
             if is_upload:
                 fn = (meta.get("filename") or url.replace("upload://", "") or "uploaded").strip()
                 header = f"[UPLOADED DOCUMENT: {fn}]"
+            elif is_verdict:
+                # Pull the structured Verdict extraction so chat sees the dollar amount.
+                exts = self.db.get_extractions_for_doc(h["doc_id"])
+                v = next((e["data"] for e in exts if e.get("schema_name") == "Verdict"), None) or {}
+                case = v.get("case_name") or meta.get("case_name") or "(case)"
+                amt = v.get("total_amount_usd")
+                amt_str = f"${amt:,.0f}" if isinstance(amt, (int, float)) and amt else "n/a"
+                jur = v.get("jurisdiction") or ""
+                tail = f" — {jur}" if jur else ""
+                header = f"[VERDICT: {case} — {amt_str}{tail}]"
             else:
                 cit = (meta.get("citation") or "").strip()
                 sec = (meta.get("section") or "").strip()
