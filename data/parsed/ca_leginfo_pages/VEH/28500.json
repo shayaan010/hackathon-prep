@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28500",
+  "division": "12.5",
+  "division_title": "Zero-Emission Vehicles",
+  "division_range": "28500- 28500.",
+  "chapter": "1",
+  "chapter_title": "Public Agency Utility Medium- and Heavy-Duty Vehicles",
+  "chapter_range": "28500- 28500.",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "18.1",
+  "text": "(a) “Public agency utility” means a local publicly owned electric utility, as defined in Section 224.3 of the Public Utilities Code, a community water system, as defined in Section 116275 of the Health and Safety Code, a water district, as defined in Section 20200 of the Water Code, and a wastewater treatment provider, as defined in Section 116773.2 of the Health and Safety Code.\n\n(b) Any state regulation that seeks to require, or otherwise compel, the procurement of medium- and heavy-duty zero-emission vehicles shall authorize public agency utilities to purchase replacements for traditional utility-specialized vehicles that are at the end of life, as determined by the State Air Resources Board in consultation with public agency utilities, when needed to maintain reliable service and respond to major foreseeable events, including, but not limited to, severe weather, wildfires, natural disasters, and physical attacks, without regard to the model year of the vehicle being replaced. For the purposes of determining the daily usage of a medium- or heavy-duty vehicle, a public agency utility may provide comprehensive usage data for a class of vehicles that does not exclusively rely on the lowest mileage reading and does not exclude the highest usage days.",
+  "markdown": "# Vehicle Code\n## Division 12.5. Zero-Emission Vehicles [28500- 28500.]\n### Chapter 1. Public Agency Utility Medium- and Heavy-Duty Vehicles [28500- 28500.]\n##### § 28500\n\n(a) “Public agency utility” means a local publicly owned electric utility, as defined in Section 224.3 of the Public Utilities Code, a community water system, as defined in Section 116275 of the Health and Safety Code, a water district, as defined in Section 20200 of the Water Code, and a wastewater treatment provider, as defined in Section 116773.2 of the Health and Safety Code.\n\n(b) Any state regulation that seeks to require, or otherwise compel, the procurement of medium- and heavy-duty zero-emission vehicles shall authorize public agency utilities to purchase replacements for traditional utility-specialized vehicles that are at the end of life, as determined by the State Air Resources Board in consultation with public agency utilities, when needed to maintain reliable service and respond to major foreseeable events, including, but not limited to, severe weather, wildfires, natural disasters, and physical attacks, without regard to the model year of the vehicle being replaced. For the purposes of determining the daily usage of a medium- or heavy-duty vehicle, a public agency utility may provide comprehensive usage data for a class of vehicles that does not exclusively rely on the lowest mileage reading and does not exclude the highest usage days.\n\n*(Added by Stats. 2023, Ch. 585, Sec. 3. (AB 1594) Effective January 1, 2024.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "“Public agency utility” means a local publicly owned electric utility, as defined in Section 224.3 of the Public Utilities Code, a community water system, as defined in Section 116275 of the Health and Safety Code, a water district, as defined in Section 20200 of the Water Code, and a wastewater treatment provider, as defined in Section 116773.2 of the Health and Safety Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any state regulation that seeks to require, or otherwise compel, the procurement of medium- and heavy-duty zero-emission vehicles shall authorize public agency utilities to purchase replacements for traditional utility-specialized vehicles that are at the end of life, as determined by the State Air Resources Board in consultation with public agency utilities, when needed to maintain reliable service and respond to major foreseeable events, including, but not limited to, severe weather, wildfires, natural disasters, and physical attacks, without regard to the model year of the vehicle being replaced. For the purposes of determining the daily usage of a medium- or heavy-duty vehicle, a public agency utility may provide comprehensive usage data for a class of vehicles that does not exclusively rely on the lowest mileage reading and does not exclude the highest usage days.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2023, Ch. 585, Sec. 3. (AB 1594) Effective January 1, 2024.)",
+    "action": "Added",
+    "statutes_year": 2023,
+    "chapter": "585",
+    "section": "3",
+    "bill_number": "AB 1594",
+    "effective_date": "2024-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2023",
+  "op_chapter": "585",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28500.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28500.html",
+  "content_sha256": "758f4aeeb6fbfdf20fbfa35bc3112c11e0f7bfd6870697b62c1357c88920c419",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4010",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "1",
+  "article_title": "Vehicles Subject to Registration",
+  "article_range": "4000 - 4023",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.1",
+  "text": "Special construction equipment and special mobile equipment are exempt from registration.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 1. Vehicles Subject to Registration [4000 - 4023]\n##### § 4010\n\nSpecial construction equipment and special mobile equipment are exempt from registration.\n\n*(Amended by Stats. 1961, Ch. 1659.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Special construction equipment and special mobile equipment are exempt from registration.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1961, Ch. 1659.)",
+    "action": "Amended",
+    "statutes_year": 1961,
+    "chapter": "1659",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1961",
+  "op_chapter": "1659",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4010.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4010.html",
+  "content_sha256": "4bdeb372b4d48aaf84d34f457c294f9f121d6ec4c5540b8635066b136b2bce0f",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

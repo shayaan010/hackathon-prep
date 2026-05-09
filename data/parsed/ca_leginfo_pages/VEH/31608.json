@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "31608",
+  "division": "14",
+  "division_title": "TRANSPORTATION OF EXPLOSIVES",
+  "division_range": "31600 - 31620",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "20",
+  "text": "The inspection of a vehicle required under subdivision (b) of Section 31607 shall include inspection of the following:\n\n(a) Brakes and the brake system.\n\n(b) The ignition and lighting systems.\n\n(c) All tires on the equipment.\n\n(d) All supplemental equipment as required by Section 31610.",
+  "markdown": "# Vehicle Code\n## Division 14. TRANSPORTATION OF EXPLOSIVES [31600 - 31620]\n##### § 31608\n\nThe inspection of a vehicle required under subdivision (b) of Section 31607 shall include inspection of the following:\n\n(a) Brakes and the brake system.\n\n(b) The ignition and lighting systems.\n\n(c) All tires on the equipment.\n\n(d) All supplemental equipment as required by Section 31610.\n\n*(Amended by Stats. 1959, Ch. 1996.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The inspection of a vehicle required under subdivision (b) of Section 31607 shall include inspection of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Brakes and the brake system.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The ignition and lighting systems.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "All tires on the equipment.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "All supplemental equipment as required by Section 31610.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1959, Ch. 1996.)",
+    "action": "Amended",
+    "statutes_year": 1959,
+    "chapter": "1996",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "1996",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=31608.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/31608.html",
+  "content_sha256": "2cec9fdeef80f583f76437b36e1ef87aaaaf03e00afedc5f2508b391893f5ed2",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

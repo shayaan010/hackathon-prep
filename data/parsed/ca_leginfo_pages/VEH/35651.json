@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35651",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "3",
+  "article_title": "Limit Changes on State Highways",
+  "article_range": "35650 - 35655.6",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.4",
+  "text": "Whenever in the judgment of the Department of Transportation any state highway will not with safety to itself sustain the maximum weights permitted under this code for the highway, the department shall determine, after a public hearing, the maximum weight which the highway will sustain.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 3. Limit Changes on State Highways [35650 - 35655.6]\n##### § 35651\n\nWhenever in the judgment of the Department of Transportation any state highway will not with safety to itself sustain the maximum weights permitted under this code for the highway, the department shall determine, after a public hearing, the maximum weight which the highway will sustain.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever in the judgment of the Department of Transportation any state highway will not with safety to itself sustain the maximum weights permitted under this code for the highway, the department shall determine, after a public hearing, the maximum weight which the highway will sustain.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35651.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35651.html",
+  "content_sha256": "0560faf09790a033e11dd8202a42c7d9c0b2b8b7bd6c85e68f5701fbf0dbf894",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "436.1",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "An “off-highway electric motorcycle,” commonly referred to as an eMoto, is an off-highway motorcycle subject to identification under this code that meets all of the following requirements:\n\n(a) Is designed by the manufacturer for operation primarily off the highway.\n\n(b) Is powered by an electric motor for which a motor number is not required.\n\n(c) Has handlebars for steering control.\n\n(d) Has a straddle seat provided by the manufacturer.\n\n(e) Has two wheels.\n\n(f) Is not equipped with pedals from the manufacturer.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 436.1\n\nAn “off-highway electric motorcycle,” commonly referred to as an eMoto, is an off-highway motorcycle subject to identification under this code that meets all of the following requirements:\n\n(a) Is designed by the manufacturer for operation primarily off the highway.\n\n(b) Is powered by an electric motor for which a motor number is not required.\n\n(c) Has handlebars for steering control.\n\n(d) Has a straddle seat provided by the manufacturer.\n\n(e) Has two wheels.\n\n(f) Is not equipped with pedals from the manufacturer.\n\n*(Added by Stats. 2025, Ch. 588, Sec. 1. (SB 586) Effective January 1, 2026.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "An “off-highway electric motorcycle,” commonly referred to as an eMoto, is an off-highway motorcycle subject to identification under this code that meets all of the following requirements:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Is designed by the manufacturer for operation primarily off the highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Is powered by an electric motor for which a motor number is not required.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Has handlebars for steering control.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Has a straddle seat provided by the manufacturer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "Has two wheels.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "f",
+      "text": "Is not equipped with pedals from the manufacturer.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2025, Ch. 588, Sec. 1. (SB 586) Effective January 1, 2026.)",
+    "action": "Added",
+    "statutes_year": 2025,
+    "chapter": "588",
+    "section": "1",
+    "bill_number": "SB 586",
+    "effective_date": "2026-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2025",
+  "op_chapter": "588",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=436.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/436.1.html",
+  "content_sha256": "6fb1cf7d3859fd68a9d2b6c707dda03f69e42790a366931ef159e7e7df5e7d6e",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

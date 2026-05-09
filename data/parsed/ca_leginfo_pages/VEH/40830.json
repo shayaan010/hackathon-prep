@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40830",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "3",
+  "chapter_title": "Illegal Evidence",
+  "chapter_range": "40800 - 40834",
+  "article": "2",
+  "article_title": "Civil Actions",
+  "article_range": "40830 - 40834",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.3.2",
+  "text": "In either of the following circumstances a violation of any provision of this code does not establish negligence as a matter of law, but in any civil action under either of the circumstances negligence must be proved as a fact without regard to the violation. The circumstances under which this section applies are either:\n\n(a) Where violation of the provision was required by a law of the federal government or by any rule, regulation, directive or order of any agency of the federal government, the violation of which is subject to penalty under an act of Congress or by any valid order of military authority.\n\n(b) Where violation of the provision was required in order to comply with any regulation, directive, or order of the Governor promulgated under the California Emergency Services Act.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 3. Illegal Evidence [40800 - 40834]\n#### Article 2. Civil Actions [40830 - 40834]\n##### § 40830\n\nIn either of the following circumstances a violation of any provision of this code does not establish negligence as a matter of law, but in any civil action under either of the circumstances negligence must be proved as a fact without regard to the violation. The circumstances under which this section applies are either:\n\n(a) Where violation of the provision was required by a law of the federal government or by any rule, regulation, directive or order of any agency of the federal government, the violation of which is subject to penalty under an act of Congress or by any valid order of military authority.\n\n(b) Where violation of the provision was required in order to comply with any regulation, directive, or order of the Governor promulgated under the California Emergency Services Act.\n\n*(Amended by Stats. 1971, Ch. 438.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In either of the following circumstances a violation of any provision of this code does not establish negligence as a matter of law, but in any civil action under either of the circumstances negligence must be proved as a fact without regard to the violation. The circumstances under which this section applies are either:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Where violation of the provision was required by a law of the federal government or by any rule, regulation, directive or order of any agency of the federal government, the violation of which is subject to penalty under an act of Congress or by any valid order of military authority.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Where violation of the provision was required in order to comply with any regulation, directive, or order of the Governor promulgated under the California Emergency Services Act.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1971, Ch. 438.)",
+    "action": "Amended",
+    "statutes_year": 1971,
+    "chapter": "438",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1971",
+  "op_chapter": "438",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40830.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40830.html",
+  "content_sha256": "d370c8296d049ee3989cd61ce2b1aec3ede47dac2c471830561ab41c92d14659",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13365",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "2",
+  "chapter_title": "Suspension or Revocation of Licenses",
+  "chapter_range": "13100 - 13559",
+  "article": "3",
+  "article_title": "Suspension and Revocation by Department",
+  "article_range": "13350 - 13392",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.2.3",
+  "text": "(a) Upon receipt of notification of a violation of subdivision (a) of Section 40508, the department shall take the following action:\n\n(1) If the notice is given pursuant to subdivision (a) of former Section 40509, if the driving record of the person who is the subject of the notice contains one or more prior notifications of a violation issued pursuant to former Section 40509 or former Section 40509.5, and if the person’s driving privilege is not currently suspended under this section, the department shall suspend the driving privilege of the person.\n\n(2) If the notice is given pursuant to subdivision (a) of Section 40509.5, and if the driving privilege of the person who is the subject of the notice is not currently suspended under this section, the department shall suspend the driving privilege of the person.\n\n(b) (1) A suspension under this section shall not be effective before a date 60 days after the date of receipt, by the department, of the notice given specified in subdivision (a), and the notice of suspension shall not be mailed by the department before a date 30 days after receipt of the notice given specified in subdivision (a).\n\n(2) The suspension shall continue until the suspended person’s driving record does not contain any notification of a violation of subdivision (a) of Section 40508.\n\n(c) This section shall remain in effect only until January 1, 2027, and as of that date is repealed.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 2. Suspension or Revocation of Licenses [13100 - 13559]\n#### Article 3. Suspension and Revocation by Department [13350 - 13392]\n##### § 13365\n\n(a) Upon receipt of notification of a violation of subdivision (a) of Section 40508, the department shall take the following action:\n\n    (1) If the notice is given pursuant to subdivision (a) of former Section 40509, if the driving record of the person who is the subject of the notice contains one or more prior notifications of a violation issued pursuant to former Section 40509 or former Section 40509.5, and if the person’s driving privilege is not currently suspended under this section, the department shall suspend the driving privilege of the person.\n\n    (2) If the notice is given pursuant to subdivision (a) of Section 40509.5, and if the driving privilege of the person who is the subject of the notice is not currently suspended under this section, the department shall suspend the driving privilege of the person.\n\n(b) (1) A suspension under this section shall not be effective before a date 60 days after the date of receipt, by the department, of the notice given specified in subdivision (a), and the notice of suspension shall not be mailed by the department before a date 30 days after receipt of the notice given specified in subdivision (a).\n\n    (2) The suspension shall continue until the suspended person’s driving record does not contain any notification of a violation of subdivision (a) of Section 40508.\n\n(c) This section shall remain in effect only until January 1, 2027, and as of that date is repealed.\n\n*(Amended by Stats. 2022, Ch. 800, Sec. 16. (AB 2746) Effective January 1, 2023. Repealed as of January 1, 2027, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Upon receipt of notification of a violation of subdivision (a) of Section 40508, the department shall take the following action:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "If the notice is given pursuant to subdivision (a) of former Section 40509, if the driving record of the person who is the subject of the notice contains one or more prior notifications of a violation issued pursuant to former Section 40509 or former Section 40509.5, and if the person’s driving privilege is not currently suspended under this section, the department shall suspend the driving privilege of the person.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "If the notice is given pursuant to subdivision (a) of Section 40509.5, and if the driving privilege of the person who is the subject of the notice is not currently suspended under this section, the department shall suspend the driving privilege of the person.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "(1) A suspension under this section shall not be effective before a date 60 days after the date of receipt, by the department, of the notice given specified in subdivision (a), and the notice of suspension shall not be mailed by the department before a date 30 days after receipt of the notice given specified in subdivision (a).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The suspension shall continue until the suspended person’s driving record does not contain any notification of a violation of subdivision (a) of Section 40508.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "This section shall remain in effect only until January 1, 2027, and as of that date is repealed.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 800, Sec. 16. (AB 2746) Effective January 1, 2023. Repealed as of January 1, 2027, by its own provisions.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "800",
+    "section": "16",
+    "bill_number": "AB 2746",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "800",
+  "op_section": "16",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13365.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13365.html",
+  "content_sha256": "de18fb5d5e309e9c58b3b94d882a9b89a8accf3b25e09e9f9ce79f2441527c5d",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

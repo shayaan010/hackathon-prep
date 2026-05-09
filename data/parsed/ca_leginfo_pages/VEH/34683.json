@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34683",
+  "division": "14.86",
+  "division_title": "Private Carriers of Passengers Registration Act",
+  "division_range": "34680 - 34693",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "27",
+  "text": "(a) Except as provided in Section 34686, a private carrier of passengers shall not operate a motor vehicle on any public highway in this state unless its operation is currently registered with the department. The department shall grant registration upon the filing of the application and the payment of the fee as required by this division, subject to the private carrier of passengers’ compliance with this division. A private carrier of passengers who is exempt from registration need not file a notice of exemption.\n\n(b) To satisfy the registration requirement described in subdivision (a), a private carrier of passengers shall submit required fees and all of the following information and documents to the department:\n\n(1) The carrier identification number issued to the applicant by the Department of the California Highway Patrol.\n\n(2) Identification information, including business name, form of business, addresses, including mailing address, contact person’s name, and phone number.\n\n(3) Whether the registrant provides transportation services incidental to operation of an organized camp, as defined in Section 18897 of the Health and Safety Code, or as a nonprofit that qualifies for a tax exemption under Section 501(c)(3) of the Internal Revenue Code, or neither.\n\n(4) Proof of insurance or financial responsibility as required under Section 34687.\n\n(5) The dated signature of the person completing the form that declares under penalty of perjury that the information provided is true and correct.",
+  "markdown": "# Vehicle Code\n## Division 14.86. Private Carriers of Passengers Registration Act [34680 - 34693]\n##### § 34683\n\n(a) Except as provided in Section 34686, a private carrier of passengers shall not operate a motor vehicle on any public highway in this state unless its operation is currently registered with the department. The department shall grant registration upon the filing of the application and the payment of the fee as required by this division, subject to the private carrier of passengers’ compliance with this division. A private carrier of passengers who is exempt from registration need not file a notice of exemption.\n\n(b) To satisfy the registration requirement described in subdivision (a), a private carrier of passengers shall submit required fees and all of the following information and documents to the department:\n\n    (1) The carrier identification number issued to the applicant by the Department of the California Highway Patrol.\n\n    (2) Identification information, including business name, form of business, addresses, including mailing address, contact person’s name, and phone number.\n\n    (3) Whether the registrant provides transportation services incidental to operation of an organized camp, as defined in Section 18897 of the Health and Safety Code, or as a nonprofit that qualifies for a tax exemption under Section 501(c)(3) of the Internal Revenue Code, or neither.\n\n    (4) Proof of insurance or financial responsibility as required under Section 34687.\n\n    (5) The dated signature of the person completing the form that declares under penalty of perjury that the information provided is true and correct.\n\n*(Added by Stats. 2017, Ch. 421, Sec. 40. (SB 19) Effective January 1, 2018. Operative July 1, 2018, pursuant to Section 34693.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in Section 34686, a private carrier of passengers shall not operate a motor vehicle on any public highway in this state unless its operation is currently registered with the department. The department shall grant registration upon the filing of the application and the payment of the fee as required by this division, subject to the private carrier of passengers’ compliance with this division. A private carrier of passengers who is exempt from registration need not file a notice of exemption.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "To satisfy the registration requirement described in subdivision (a), a private carrier of passengers shall submit required fees and all of the following information and documents to the department:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The carrier identification number issued to the applicant by the Department of the California Highway Patrol.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Identification information, including business name, form of business, addresses, including mailing address, contact person’s name, and phone number.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Whether the registrant provides transportation services incidental to operation of an organized camp, as defined in Section 18897 of the Health and Safety Code, or as a nonprofit that qualifies for a tax exemption under Section 501(c)(3) of the Internal Revenue Code, or neither.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Proof of insurance or financial responsibility as required under Section 34687.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "The dated signature of the person completing the form that declares under penalty of perjury that the information provided is true and correct.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2017, Ch. 421, Sec. 40. (SB 19) Effective January 1, 2018. Operative July 1, 2018, pursuant to Section 34693.)",
+    "action": "Added",
+    "statutes_year": 2017,
+    "chapter": "421",
+    "section": "40",
+    "bill_number": "SB 19",
+    "effective_date": "2018-01-01",
+    "operative_date": "2018-07-01"
+  },
+  "op_statues": "2017",
+  "op_chapter": "421",
+  "op_section": "40",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34683.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34683.html",
+  "content_sha256": "cc52c430a4b2bdd689b73c3b368f4f446a1752803ead877ded39054708246183",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

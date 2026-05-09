@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27459.5",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "4",
+  "article_title": "Tires",
+  "article_range": "27450 - 27503",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.9",
+  "text": "(a) No person shall sell, offer for sale, lease, install, or replace on a vehicle for use on a highway, any tire traction devices which are not in compliance with requirements specified in Section 605.\n\n(b) Every manufacturer who sells, offers for sale, or manufactures for use upon a vehicle, tire traction devices subject to the requirements of Section 605 shall, before the device is offered for sale, have laboratory test data showing compliance with those requirements. Tests may be conducted by the manufacturer.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 4. Tires [27450 - 27503]\n##### § 27459.5\n\n(a) No person shall sell, offer for sale, lease, install, or replace on a vehicle for use on a highway, any tire traction devices which are not in compliance with requirements specified in Section 605.\n\n(b) Every manufacturer who sells, offers for sale, or manufactures for use upon a vehicle, tire traction devices subject to the requirements of Section 605 shall, before the device is offered for sale, have laboratory test data showing compliance with those requirements. Tests may be conducted by the manufacturer.\n\n*(Added by Stats. 1990, Ch. 71, Sec. 5. Effective May 1, 1990.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall sell, offer for sale, lease, install, or replace on a vehicle for use on a highway, any tire traction devices which are not in compliance with requirements specified in Section 605.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Every manufacturer who sells, offers for sale, or manufactures for use upon a vehicle, tire traction devices subject to the requirements of Section 605 shall, before the device is offered for sale, have laboratory test data showing compliance with those requirements. Tests may be conducted by the manufacturer.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1990, Ch. 71, Sec. 5. Effective May 1, 1990.)",
+    "action": "Added",
+    "statutes_year": 1990,
+    "chapter": "71",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "1990-05-01",
+    "operative_date": null
+  },
+  "op_statues": "1990",
+  "op_chapter": "71",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27459.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27459.5.html",
+  "content_sha256": "6b57212979fdee50876e9eb315757f485ccb725b3843f1d672956ff1aad0c5d2",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

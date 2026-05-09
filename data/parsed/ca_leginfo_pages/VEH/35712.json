@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35712",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "4",
+  "article_title": "Local Authorities",
+  "article_range": "35700 - 35722",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.5",
+  "text": "(a) Any county may, by ordinance, prohibit the use of any highway located in an unincorporated residential or subdivision area by any commercial vehicle exceeding a gross weight of 14,000 pounds.\n\n(b) Any county of the third class, as defined by Section 28024 of the Government Code, or of the ninth class, as defined by Section 28030 of the Government Code, may, by ordinance, prohibit the use of any highway located in an unincorporated residential or subdivision area by any commercial vehicle exceeding a gross weight of 5,000 pounds.\n\n(c) This section does not apply to a vehicle operated by, or on behalf of, a public utility in connection with the installation, operation, maintenance, or repair of its facilities.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 4. Local Authorities [35700 - 35722]\n##### § 35712\n\n(a) Any county may, by ordinance, prohibit the use of any highway located in an unincorporated residential or subdivision area by any commercial vehicle exceeding a gross weight of 14,000 pounds.\n\n(b) Any county of the third class, as defined by Section 28024 of the Government Code, or of the ninth class, as defined by Section 28030 of the Government Code, may, by ordinance, prohibit the use of any highway located in an unincorporated residential or subdivision area by any commercial vehicle exceeding a gross weight of 5,000 pounds.\n\n(c) This section does not apply to a vehicle operated by, or on behalf of, a public utility in connection with the installation, operation, maintenance, or repair of its facilities.\n\n*(Amended by Stats. 1998, Ch. 877, Sec. 72. Effective January 1, 1999.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any county may, by ordinance, prohibit the use of any highway located in an unincorporated residential or subdivision area by any commercial vehicle exceeding a gross weight of 14,000 pounds.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any county of the third class, as defined by Section 28024 of the Government Code, or of the ninth class, as defined by Section 28030 of the Government Code, may, by ordinance, prohibit the use of any highway located in an unincorporated residential or subdivision area by any commercial vehicle exceeding a gross weight of 5,000 pounds.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section does not apply to a vehicle operated by, or on behalf of, a public utility in connection with the installation, operation, maintenance, or repair of its facilities.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1998, Ch. 877, Sec. 72. Effective January 1, 1999.)",
+    "action": "Amended",
+    "statutes_year": 1998,
+    "chapter": "877",
+    "section": "72",
+    "bill_number": null,
+    "effective_date": "1999-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1998",
+  "op_chapter": "877",
+  "op_section": "72",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35712.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35712.html",
+  "content_sha256": "90bb8855ee9e9437e1a077a61f3dc1486c5971eea7ca8cbbcc8a9be0d4ec6ac6",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

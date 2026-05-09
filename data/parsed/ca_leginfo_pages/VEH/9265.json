@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9265",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "2",
+  "article_title": "Registration Fees",
+  "article_range": "9250 - 9271",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.2",
+  "text": "Upon application for duplicates or substitutes as permitted under this code, the following fees shall be paid:\n\n(a) For a duplicate certificate of ownership or registration card\n\nor equipment identification card ........................\n\n$15\n\n(b) For any duplicate license plates, except environmental\n\nlicense plates, or substitute plates, or equipment\n\nidentification plate for the same vehicle ........................\n\n$15",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 2. Registration Fees [9250 - 9271]\n##### § 9265\n\nUpon application for duplicates or substitutes as permitted under this code, the following fees shall be paid:\n\n(a) For a duplicate certificate of ownership or registration card\n\nor equipment identification card ........................\n\n$15\n\n(b) For any duplicate license plates, except environmental\n\nlicense plates, or substitute plates, or equipment\n\nidentification plate for the same vehicle ........................\n\n$15\n\n*(Amended by Stats. 2003, Ch. 719, Sec. 17. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Upon application for duplicates or substitutes as permitted under this code, the following fees shall be paid:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "For a duplicate certificate of ownership or registration card",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "or equipment identification card ........................",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "$15",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For any duplicate license plates, except environmental",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "license plates, or substitute plates, or equipment",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "identification plate for the same vehicle ........................",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "$15",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 719, Sec. 17. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "719",
+    "section": "17",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "719",
+  "op_section": "17",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9265.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9265.html",
+  "content_sha256": "97bc54069d2f5b9247b375c254f1c1a44951224c918360a9fd3031ca2618966f",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

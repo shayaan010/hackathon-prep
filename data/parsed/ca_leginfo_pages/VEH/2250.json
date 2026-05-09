@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2250",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "2",
+  "article_title": "The California Highway Patrol",
+  "article_range": "2250 - 2269",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.2",
+  "text": "The California Highway Patrol in the Department of the California Highway Patrol consists of the following members: the commissioner, the deputy commissioner, assistant commissioners, chiefs, assistant chiefs, captains, lieutenants, sergeants, and officers.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 2. The California Highway Patrol [2250 - 2269]\n##### § 2250\n\nThe California Highway Patrol in the Department of the California Highway Patrol consists of the following members: the commissioner, the deputy commissioner, assistant commissioners, chiefs, assistant chiefs, captains, lieutenants, sergeants, and officers.\n\n*(Amended by Stats. 2005, Ch. 270, Sec. 9. Effective January 1, 2006.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The California Highway Patrol in the Department of the California Highway Patrol consists of the following members: the commissioner, the deputy commissioner, assistant commissioners, chiefs, assistant chiefs, captains, lieutenants, sergeants, and officers.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2005, Ch. 270, Sec. 9. Effective January 1, 2006.)",
+    "action": "Amended",
+    "statutes_year": 2005,
+    "chapter": "270",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": "2006-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2005",
+  "op_chapter": "270",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2250.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2250.html",
+  "content_sha256": "43cdbdeafb5322e386be7bbe77ab04f29e634678b35f0df4b9c30e4d310eca87",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

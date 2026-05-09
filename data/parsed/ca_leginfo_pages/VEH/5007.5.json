@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5007.5",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8",
+  "article_title": "Special Plates",
+  "article_range": "5000 - 5024",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.9",
+  "text": "(a) Upon a receipt of request for information by a local law enforcement agency or local or state agency responsible for the administration or enforcement of parking regulations, the department shall make available to the requesting agency any information contained in a physician’s certificate submitted to the department to substantiate the disability of a person applying for or who has been issued special license plates pursuant to Section 5007. The department shall not provide the information specified in this subdivision to any private entity or third-party parking citation processing agency.\n\n(b) A local authority may establish a review board or panel, for the purposes of reviewing information contained in applications for special license plates and the certification of qualifying disabilities for persons residing within the jurisdiction of the local authority. The review board shall include a physician or other medical authority. Any findings or determinations by a review board or panel under this section indicating that an application or certification is fraudulent or lacks proper certification shall be transmitted to the department or other appropriate authorities for further review and investigation.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8. Special Plates [5000 - 5024]\n##### § 5007.5\n\n(a) Upon a receipt of request for information by a local law enforcement agency or local or state agency responsible for the administration or enforcement of parking regulations, the department shall make available to the requesting agency any information contained in a physician’s certificate submitted to the department to substantiate the disability of a person applying for or who has been issued special license plates pursuant to Section 5007. The department shall not provide the information specified in this subdivision to any private entity or third-party parking citation processing agency.\n\n(b) A local authority may establish a review board or panel, for the purposes of reviewing information contained in applications for special license plates and the certification of qualifying disabilities for persons residing within the jurisdiction of the local authority. The review board shall include a physician or other medical authority. Any findings or determinations by a review board or panel under this section indicating that an application or certification is fraudulent or lacks proper certification shall be transmitted to the department or other appropriate authorities for further review and investigation.\n\n*(Added by Stats. 2004, Ch. 404, Sec. 9. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Upon a receipt of request for information by a local law enforcement agency or local or state agency responsible for the administration or enforcement of parking regulations, the department shall make available to the requesting agency any information contained in a physician’s certificate submitted to the department to substantiate the disability of a person applying for or who has been issued special license plates pursuant to Section 5007. The department shall not provide the information specified in this subdivision to any private entity or third-party parking citation processing agency.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A local authority may establish a review board or panel, for the purposes of reviewing information contained in applications for special license plates and the certification of qualifying disabilities for persons residing within the jurisdiction of the local authority. The review board shall include a physician or other medical authority. Any findings or determinations by a review board or panel under this section indicating that an application or certification is fraudulent or lacks proper certification shall be transmitted to the department or other appropriate authorities for further review and investigation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2004, Ch. 404, Sec. 9. Effective January 1, 2005.)",
+    "action": "Added",
+    "statutes_year": 2004,
+    "chapter": "404",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "404",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5007.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5007.5.html",
+  "content_sha256": "c7ae396efe5a1c784a082f14734ea95b63a6ddf5f92c565f28a80f33a72f09e5",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

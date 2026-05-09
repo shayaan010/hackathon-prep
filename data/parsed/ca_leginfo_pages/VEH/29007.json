@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "29007",
+  "division": "13",
+  "division_title": "TOWING AND LOADING EQUIPMENT",
+  "division_range": "29000 - 31560",
+  "chapter": "1",
+  "chapter_title": "Towing Equipment",
+  "chapter_range": "29000 - 29009",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "19.1",
+  "text": "The requirements of Section 29004 shall not apply to vehicles engaged in driveaway-towaway operations if all the following conditions are met:\n\n(a) The towed vehicle has one end supported by the towing vehicle.\n\n(b) The towed vehicle is secured to the towing vehicle by a device designed and constructed as to be readily demountable and to perform the functions of a fifth-wheel-type connection.\n\n(c) The fifth-wheel-type connection device is securely affixed to the vehicles to prevent shifting of the device on the vehicles to which it is attached.\n\n(d) The fifth-wheel-type connection device provides a means of variation of inclination between the towing and towed vehicle due to vertical curvatures of the highway. Such means shall not depend upon either the looseness or deformation of the connection or the vehicles to provide for such variation.\n\n(e) No more than three saddle-mounts may be used in any combination.\n\n(f) No more than one tow-bar or ball-and-socket type coupling device may be used in any combination.\n\n(g) Driveaway-towaway combinations shall comply with all provisions specified in Section 393.71 of Title 49 of the Code of Federal Regulations.",
+  "markdown": "# Vehicle Code\n## Division 13. TOWING AND LOADING EQUIPMENT [29000 - 31560]\n### Chapter 1. Towing Equipment [29000 - 29009]\n##### § 29007\n\nThe requirements of Section 29004 shall not apply to vehicles engaged in driveaway-towaway operations if all the following conditions are met:\n\n(a) The towed vehicle has one end supported by the towing vehicle.\n\n(b) The towed vehicle is secured to the towing vehicle by a device designed and constructed as to be readily demountable and to perform the functions of a fifth-wheel-type connection.\n\n(c) The fifth-wheel-type connection device is securely affixed to the vehicles to prevent shifting of the device on the vehicles to which it is attached.\n\n(d) The fifth-wheel-type connection device provides a means of variation of inclination between the towing and towed vehicle due to vertical curvatures of the highway. Such means shall not depend upon either the looseness or deformation of the connection or the vehicles to provide for such variation.\n\n(e) No more than three saddle-mounts may be used in any combination.\n\n(f) No more than one tow-bar or ball-and-socket type coupling device may be used in any combination.\n\n(g) Driveaway-towaway combinations shall comply with all provisions specified in Section 393.71 of Title 49 of the Code of Federal Regulations.\n\n*(Amended by Stats. 2015, Ch. 451, Sec. 56. (SB 491) Effective January 1, 2016.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The requirements of Section 29004 shall not apply to vehicles engaged in driveaway-towaway operations if all the following conditions are met:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The towed vehicle has one end supported by the towing vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The towed vehicle is secured to the towing vehicle by a device designed and constructed as to be readily demountable and to perform the functions of a fifth-wheel-type connection.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The fifth-wheel-type connection device is securely affixed to the vehicles to prevent shifting of the device on the vehicles to which it is attached.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The fifth-wheel-type connection device provides a means of variation of inclination between the towing and towed vehicle due to vertical curvatures of the highway. Such means shall not depend upon either the looseness or deformation of the connection or the vehicles to provide for such variation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "No more than three saddle-mounts may be used in any combination.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "f",
+      "text": "No more than one tow-bar or ball-and-socket type coupling device may be used in any combination.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "g",
+      "text": "Driveaway-towaway combinations shall comply with all provisions specified in Section 393.71 of Title 49 of the Code of Federal Regulations.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2015, Ch. 451, Sec. 56. (SB 491) Effective January 1, 2016.)",
+    "action": "Amended",
+    "statutes_year": 2015,
+    "chapter": "451",
+    "section": "56",
+    "bill_number": "SB 491",
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2015",
+  "op_chapter": "451",
+  "op_section": "56",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=29007.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/29007.html",
+  "content_sha256": "904571c067ef5d91de1b62246c1a16b0f6d109812e69462e5cbb1de0e833f1df",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24002.5",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "1",
+  "chapter_title": "General Provisions",
+  "chapter_range": "24000 - 24020",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.1",
+  "text": "(a) No person may operate a farm labor vehicle that is in a condition that presents an immediate safety hazard or in violation of Section 24004 or 31402.\n\n(b) A violation of this section is a misdemeanor punishable by a fine of not less than one thousand dollars ($1,000) and not more than five thousand dollars ($5,000), or both that fine and a sentence of confinement for not more than six months in the county jail. No part of any fine imposed under this section may be suspended.\n\n(c) As used in this section, an “immediate safety hazard” is any equipment violation described in subdivision (a) of Section 31401 or Section 31405, including any violation of a regulation adopted pursuant to those provisions.\n\n(d) Any member of the Department of the California Highway Patrol may impound a farm labor vehicle operated in violation of this section pursuant to Section 34506.4.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 1. General Provisions [24000 - 24020]\n##### § 24002.5\n\n(a) No person may operate a farm labor vehicle that is in a condition that presents an immediate safety hazard or in violation of Section 24004 or 31402.\n\n(b) A violation of this section is a misdemeanor punishable by a fine of not less than one thousand dollars ($1,000) and not more than five thousand dollars ($5,000), or both that fine and a sentence of confinement for not more than six months in the county jail. No part of any fine imposed under this section may be suspended.\n\n(c) As used in this section, an “immediate safety hazard” is any equipment violation described in subdivision (a) of Section 31401 or Section 31405, including any violation of a regulation adopted pursuant to those provisions.\n\n(d) Any member of the Department of the California Highway Patrol may impound a farm labor vehicle operated in violation of this section pursuant to Section 34506.4.\n\n*(Added by Stats. 2000, Ch. 873, Sec. 2. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person may operate a farm labor vehicle that is in a condition that presents an immediate safety hazard or in violation of Section 24004 or 31402.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A violation of this section is a misdemeanor punishable by a fine of not less than one thousand dollars ($1,000) and not more than five thousand dollars ($5,000), or both that fine and a sentence of confinement for not more than six months in the county jail. No part of any fine imposed under this section may be suspended.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "As used in this section, an “immediate safety hazard” is any equipment violation described in subdivision (a) of Section 31401 or Section 31405, including any violation of a regulation adopted pursuant to those provisions.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Any member of the Department of the California Highway Patrol may impound a farm labor vehicle operated in violation of this section pursuant to Section 34506.4.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2000, Ch. 873, Sec. 2. Effective January 1, 2001.)",
+    "action": "Added",
+    "statutes_year": 2000,
+    "chapter": "873",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "873",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24002.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24002.5.html",
+  "content_sha256": "c61000d270f9a3a13e91f2c89ae6f0c9cb8da6d77ea4a617f29de3019e58e6d6",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

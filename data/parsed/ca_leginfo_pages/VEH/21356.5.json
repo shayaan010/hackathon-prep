@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21356.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "1",
+  "article_title": "Erection and Maintenance",
+  "article_range": "21350 - 21376",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.1",
+  "text": "Local authorities may place signs, mirrors, or other visual or audible devices at exits from alleys that are under their jurisdiction to warn drivers to watch for pedestrians and bicyclists on the sidewalk prior to exiting the alley.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 1. Erection and Maintenance [21350 - 21376]\n##### § 21356.5\n\nLocal authorities may place signs, mirrors, or other visual or audible devices at exits from alleys that are under their jurisdiction to warn drivers to watch for pedestrians and bicyclists on the sidewalk prior to exiting the alley.\n\n*(Added by Stats. 1997, Ch. 150, Sec. 2. Effective January 1, 1998.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Local authorities may place signs, mirrors, or other visual or audible devices at exits from alleys that are under their jurisdiction to warn drivers to watch for pedestrians and bicyclists on the sidewalk prior to exiting the alley.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1997, Ch. 150, Sec. 2. Effective January 1, 1998.)",
+    "action": "Added",
+    "statutes_year": 1997,
+    "chapter": "150",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "1998-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1997",
+  "op_chapter": "150",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21356.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21356.5.html",
+  "content_sha256": "416700f0030c373569b58a56f8813a74962d1a7b1572f0bf220aa755450c6a4f",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

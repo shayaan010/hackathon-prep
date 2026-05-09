@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5500",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "12",
+  "article_title": "Surrender of Registration Documents and License Plates",
+  "article_range": "5500 - 5506",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.18",
+  "text": "(a) Any person, other than a licensed dismantler, desiring to disassemble a vehicle of a type required to be registered under this code, either partially or totally, with the intent to use as parts only, to reduce to scrap, or to construct another vehicle shall deliver to the department the certificate of ownership, the registration card, and the license plates last issued to the vehicle before dismantling may begin.\n\n(b) Any person who is convicted of violating subdivision (a) shall be punished upon a first conviction by imprisonment in the county jail for not less than five days or more than six months, or by a fine of not less than fifty dollars ($50) or more than five hundred dollars ($500), or by both that fine and imprisonment; and, upon a second or any subsequent conviction, by imprisonment in the county jail for not less than 30 days or more than one year, or by a fine of not less than two hundred fifty dollars ($250) or more than one thousand dollars ($1,000), or by both that fine and imprisonment.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 12. Surrender of Registration Documents and License Plates [5500 - 5506]\n##### § 5500\n\n(a) Any person, other than a licensed dismantler, desiring to disassemble a vehicle of a type required to be registered under this code, either partially or totally, with the intent to use as parts only, to reduce to scrap, or to construct another vehicle shall deliver to the department the certificate of ownership, the registration card, and the license plates last issued to the vehicle before dismantling may begin.\n\n(b) Any person who is convicted of violating subdivision (a) shall be punished upon a first conviction by imprisonment in the county jail for not less than five days or more than six months, or by a fine of not less than fifty dollars ($50) or more than five hundred dollars ($500), or by both that fine and imprisonment; and, upon a second or any subsequent conviction, by imprisonment in the county jail for not less than 30 days or more than one year, or by a fine of not less than two hundred fifty dollars ($250) or more than one thousand dollars ($1,000), or by both that fine and imprisonment.\n\n*(Amended by Stats. 1985, Ch. 1022, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any person, other than a licensed dismantler, desiring to disassemble a vehicle of a type required to be registered under this code, either partially or totally, with the intent to use as parts only, to reduce to scrap, or to construct another vehicle shall deliver to the department the certificate of ownership, the registration card, and the license plates last issued to the vehicle before dismantling may begin.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any person who is convicted of violating subdivision (a) shall be punished upon a first conviction by imprisonment in the county jail for not less than five days or more than six months, or by a fine of not less than fifty dollars ($50) or more than five hundred dollars ($500), or by both that fine and imprisonment; and, upon a second or any subsequent conviction, by imprisonment in the county jail for not less than 30 days or more than one year, or by a fine of not less than two hundred fifty dollars ($250) or more than one thousand dollars ($1,000), or by both that fine and imprisonment.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1985, Ch. 1022, Sec. 4.)",
+    "action": "Amended",
+    "statutes_year": 1985,
+    "chapter": "1022",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1985",
+  "op_chapter": "1022",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5500.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5500.html",
+  "content_sha256": "ab8e55c1ea93329e097029364f6b3f174c342621172c7a6c2a69441c583cafe1",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

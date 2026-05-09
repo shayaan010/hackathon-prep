@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "17150",
+  "division": "9",
+  "division_title": "CIVIL LIABILITY",
+  "division_range": "17000 - 17714",
+  "chapter": "1",
+  "chapter_title": "Civil Liability of Owners and Operators of Vehicles",
+  "chapter_range": "17000 - 17463",
+  "article": "2",
+  "article_title": "Private Owners",
+  "article_range": "17150 - 17159",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "13.1.2",
+  "text": "Every owner of a motor vehicle is liable and responsible for death or injury to person or property resulting from a negligent or wrongful act or omission in the operation of the motor vehicle, in the business of the owner or otherwise, by any person using or operating the same with the permission, express or implied, of the owner.",
+  "markdown": "# Vehicle Code\n## Division 9. CIVIL LIABILITY [17000 - 17714]\n### Chapter 1. Civil Liability of Owners and Operators of Vehicles [17000 - 17463]\n#### Article 2. Private Owners [17150 - 17159]\n##### § 17150\n\nEvery owner of a motor vehicle is liable and responsible for death or injury to person or property resulting from a negligent or wrongful act or omission in the operation of the motor vehicle, in the business of the owner or otherwise, by any person using or operating the same with the permission, express or implied, of the owner.\n\n*(Amended by Stats. 1967, Ch. 702.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every owner of a motor vehicle is liable and responsible for death or injury to person or property resulting from a negligent or wrongful act or omission in the operation of the motor vehicle, in the business of the owner or otherwise, by any person using or operating the same with the permission, express or implied, of the owner.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1967, Ch. 702.)",
+    "action": "Amended",
+    "statutes_year": 1967,
+    "chapter": "702",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1967",
+  "op_chapter": "702",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17150.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/17150.html",
+  "content_sha256": "2d798cee7f7d49f61c3717c739a9ab959355b38583db2b1455062531fd879bbd",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

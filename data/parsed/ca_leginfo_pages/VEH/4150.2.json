@@ -1,0 +1,87 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4150.2",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "2",
+  "article_title": "Original Registration",
+  "article_range": "4150 - 4166",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.2",
+  "text": "Application for the original registration or renewal of the registration of a motorcycle shall be made by the owner to the department upon the appropriate form furnished by it, and shall contain all of the following:\n\n(a) The true, full name, business or residence and mailing address, and driver’s license or identification card number, if any, of the owner, and the true, full name and business or residence or mailing address of the legal owner, if any.\n\n(b) The name of the county in which the owner resides.\n\n(c) A description of the motorcycle, including the following data insofar as they may exist:\n\n(1) The make and type of body.\n\n(2) The motor and vehicle identification numbers recorded exactly as they appear on the engine and frame, respectively, by the manufacturer, and any other identifying number of the motorcycle as may be required by the department.\n\n(3) The date first sold by a manufacturer, remanufacturer, or dealer to a consumer.\n\n(d) Any other information that is reasonably required by the department to enable it to determine whether the vehicle is lawfully entitled to registration.\n\n(e) The department shall maintain a cross-index file of motor and vehicle identification numbers registered with it.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 2. Original Registration [4150 - 4166]\n##### § 4150.2\n\nApplication for the original registration or renewal of the registration of a motorcycle shall be made by the owner to the department upon the appropriate form furnished by it, and shall contain all of the following:\n\n(a) The true, full name, business or residence and mailing address, and driver’s license or identification card number, if any, of the owner, and the true, full name and business or residence or mailing address of the legal owner, if any.\n\n(b) The name of the county in which the owner resides.\n\n(c) A description of the motorcycle, including the following data insofar as they may exist:\n\n    (1) The make and type of body.\n\n    (2) The motor and vehicle identification numbers recorded exactly as they appear on the engine and frame, respectively, by the manufacturer, and any other identifying number of the motorcycle as may be required by the department.\n\n    (3) The date first sold by a manufacturer, remanufacturer, or dealer to a consumer.\n\n(d) Any other information that is reasonably required by the department to enable it to determine whether the vehicle is lawfully entitled to registration.\n\n(e) The department shall maintain a cross-index file of motor and vehicle identification numbers registered with it.\n\n*(Amended by Stats. 1994, Ch. 1221, Sec. 3. Effective January 1, 1995.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Application for the original registration or renewal of the registration of a motorcycle shall be made by the owner to the department upon the appropriate form furnished by it, and shall contain all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The true, full name, business or residence and mailing address, and driver’s license or identification card number, if any, of the owner, and the true, full name and business or residence or mailing address of the legal owner, if any.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The name of the county in which the owner resides.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A description of the motorcycle, including the following data insofar as they may exist:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The make and type of body.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The motor and vehicle identification numbers recorded exactly as they appear on the engine and frame, respectively, by the manufacturer, and any other identifying number of the motorcycle as may be required by the department.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The date first sold by a manufacturer, remanufacturer, or dealer to a consumer.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "d",
+      "text": "Any other information that is reasonably required by the department to enable it to determine whether the vehicle is lawfully entitled to registration.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "The department shall maintain a cross-index file of motor and vehicle identification numbers registered with it.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 1221, Sec. 3. Effective January 1, 1995.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "1221",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "1221",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4150.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4150.2.html",
+  "content_sha256": "df9b93d251ebf56096402ae3cb8352570f6f417c8aa19699dab3ba54ef82bfee",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

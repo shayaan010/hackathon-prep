@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38150",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "2",
+  "chapter_title": "Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership",
+  "chapter_range": "38010 - 38265",
+  "article": "5",
+  "article_title": "Refusal of Identification",
+  "article_range": "38145 - 38150",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.2.5",
+  "text": "The department may refuse the identification or renewal or transfer of identification of an off-highway motor vehicle subject to identification in any of the following circumstances:\n\n(a) If the department is satisfied that the applicant is not entitled thereto under this code.\n\n(b) If the applicant has failed to furnish the department with information required in the application or reasonable additional information required by the department.\n\n(c) If the department determines that the applicant has made or permitted unlawful use of any identification certificate, certificate of ownership, identification plates, or other identifying indicia.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 2. Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership [38010 - 38265]\n#### Article 5. Refusal of Identification [38145 - 38150]\n##### § 38150\n\nThe department may refuse the identification or renewal or transfer of identification of an off-highway motor vehicle subject to identification in any of the following circumstances:\n\n(a) If the department is satisfied that the applicant is not entitled thereto under this code.\n\n(b) If the applicant has failed to furnish the department with information required in the application or reasonable additional information required by the department.\n\n(c) If the department determines that the applicant has made or permitted unlawful use of any identification certificate, certificate of ownership, identification plates, or other identifying indicia.\n\n*(Amended by Stats. 1976, Ch. 1093.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department may refuse the identification or renewal or transfer of identification of an off-highway motor vehicle subject to identification in any of the following circumstances:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "If the department is satisfied that the applicant is not entitled thereto under this code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If the applicant has failed to furnish the department with information required in the application or reasonable additional information required by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "If the department determines that the applicant has made or permitted unlawful use of any identification certificate, certificate of ownership, identification plates, or other identifying indicia.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1976, Ch. 1093.)",
+    "action": "Amended",
+    "statutes_year": 1976,
+    "chapter": "1093",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "1093",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38150.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38150.html",
+  "content_sha256": "c64c0cab29f550cada116c67792fddb232e2a3801b6832799d9ecb08692c6c93",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

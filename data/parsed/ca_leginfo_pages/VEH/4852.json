@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4852",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "7",
+  "article_title": "License Plates",
+  "article_range": "4850 - 4854",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.8",
+  "text": "(a) License plates issued for motor vehicles, other than motorcycles, shall be rectangular in shape, 12 inches in length and six inches in width. The number and letter characters on the plates shall have a minimum height of two and three-quarter inches, a minimum width of one and one-quarter inches, and a minimum spacing between characters of five-sixteenths of an inch.\n\n(b) Motorcycle license plates shall measure seven inches in length and four inches in width, and the characters on the plates shall have a minimum height of one and one-half inches and a minimum width of nine-sixteenths inches, and shall have a minimum spacing between characters of three-sixteenths of an inch.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 7. License Plates [4850 - 4854]\n##### § 4852\n\n(a) License plates issued for motor vehicles, other than motorcycles, shall be rectangular in shape, 12 inches in length and six inches in width. The number and letter characters on the plates shall have a minimum height of two and three-quarter inches, a minimum width of one and one-quarter inches, and a minimum spacing between characters of five-sixteenths of an inch.\n\n(b) Motorcycle license plates shall measure seven inches in length and four inches in width, and the characters on the plates shall have a minimum height of one and one-half inches and a minimum width of nine-sixteenths inches, and shall have a minimum spacing between characters of three-sixteenths of an inch.\n\n*(Amended by Stats. 2000, Ch. 859, Sec. 1. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "License plates issued for motor vehicles, other than motorcycles, shall be rectangular in shape, 12 inches in length and six inches in width. The number and letter characters on the plates shall have a minimum height of two and three-quarter inches, a minimum width of one and one-quarter inches, and a minimum spacing between characters of five-sixteenths of an inch.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Motorcycle license plates shall measure seven inches in length and four inches in width, and the characters on the plates shall have a minimum height of one and one-half inches and a minimum width of nine-sixteenths inches, and shall have a minimum spacing between characters of three-sixteenths of an inch.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2000, Ch. 859, Sec. 1. Effective January 1, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2000,
+    "chapter": "859",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "859",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4852.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4852.html",
+  "content_sha256": "42b31934e5227112c871b30a542217198f027231014ed36159a017b61a3f1eb4",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

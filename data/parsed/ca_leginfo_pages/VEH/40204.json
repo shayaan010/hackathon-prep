@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40204",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "3",
+  "article_title": "Procedure on Parking Violations",
+  "article_range": "40200 - 40230",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.3",
+  "text": "(a) If the parking penalty is received by the person authorized to receive the deposit of the parking penalty and there is no contest as to that parking violation, the proceedings under this article shall terminate.\n\n(b) The issuing agency may, consistent with the written guidelines established by the agency, allow payment of the parking penalty in installments if the violator provides evidence satisfactory to the issuing agency of an inability to pay the parking penalty in full.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 3. Procedure on Parking Violations [40200 - 40230]\n##### § 40204\n\n(a) If the parking penalty is received by the person authorized to receive the deposit of the parking penalty and there is no contest as to that parking violation, the proceedings under this article shall terminate.\n\n(b) The issuing agency may, consistent with the written guidelines established by the agency, allow payment of the parking penalty in installments if the violator provides evidence satisfactory to the issuing agency of an inability to pay the parking penalty in full.\n\n*(Amended by Stats. 2015, Ch. 112, Sec. 1. (AB 1151) Effective January 1, 2016.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If the parking penalty is received by the person authorized to receive the deposit of the parking penalty and there is no contest as to that parking violation, the proceedings under this article shall terminate.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The issuing agency may, consistent with the written guidelines established by the agency, allow payment of the parking penalty in installments if the violator provides evidence satisfactory to the issuing agency of an inability to pay the parking penalty in full.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2015, Ch. 112, Sec. 1. (AB 1151) Effective January 1, 2016.)",
+    "action": "Amended",
+    "statutes_year": 2015,
+    "chapter": "112",
+    "section": "1",
+    "bill_number": "AB 1151",
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2015",
+  "op_chapter": "112",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40204.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40204.html",
+  "content_sha256": "4bb4e95b3e770a7995ac95fb7f79c1e6349d315ff89c9a88fe0534d968bee8fc",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

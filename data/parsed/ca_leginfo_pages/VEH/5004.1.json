@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5004.1",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8",
+  "article_title": "Special Plates",
+  "article_range": "5000 - 5024",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.9",
+  "text": "(a) (1) An owner of a vehicle that is a 1980 or older model-year vehicle may, after the requirements for the registration of the vehicle are complied with and with the approval of the department, utilize license plates of this state with the date of year corresponding to the model-year date when the vehicle was manufactured, if the model-year date license plate is legible and serviceable, as determined by the department, in lieu of the license plates otherwise required by this code.\n\n(2) The department may consult with an organization of old car hobbyists in determining whether the date of year of the license plate corresponds to the model-year date when the vehicle was manufactured.\n\n(b) A fee of forty-five dollars ($45) shall be charged for the application for the use of the special plates.\n\n(c) In addition to the regular renewal fee for the vehicle for which the plates are authorized, the applicant for a renewal of the plates shall be charged an additional fee of ten dollars ($10). If payment of a regular vehicle renewal fee is not required by this code, the holder of license plates with a date corresponding to the model-year may retain the plates upon payment of an annual fee of twenty dollars ($20) that shall be due at the expiration of the registration year of the vehicle to which the plates were last assigned under this section.\n\n(d) If a person who is authorized to utilize the special license plates applies to the department for transfer of the plates to another vehicle, a transfer fee of twelve dollars ($12) shall be charged in addition to all other appropriate fees.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8. Special Plates [5000 - 5024]\n##### § 5004.1\n\n(a) (1) An owner of a vehicle that is a 1980 or older model-year vehicle may, after the requirements for the registration of the vehicle are complied with and with the approval of the department, utilize license plates of this state with the date of year corresponding to the model-year date when the vehicle was manufactured, if the model-year date license plate is legible and serviceable, as determined by the department, in lieu of the license plates otherwise required by this code.\n\n    (2) The department may consult with an organization of old car hobbyists in determining whether the date of year of the license plate corresponds to the model-year date when the vehicle was manufactured.\n\n(b) A fee of forty-five dollars ($45) shall be charged for the application for the use of the special plates.\n\n(c) In addition to the regular renewal fee for the vehicle for which the plates are authorized, the applicant for a renewal of the plates shall be charged an additional fee of ten dollars ($10). If payment of a regular vehicle renewal fee is not required by this code, the holder of license plates with a date corresponding to the model-year may retain the plates upon payment of an annual fee of twenty dollars ($20) that shall be due at the expiration of the registration year of the vehicle to which the plates were last assigned under this section.\n\n(d) If a person who is authorized to utilize the special license plates applies to the department for transfer of the plates to another vehicle, a transfer fee of twelve dollars ($12) shall be charged in addition to all other appropriate fees.\n\n*(Amended by Stats. 2016, Ch. 157, Sec. 1. (SB 1429) Effective January 1, 2017.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "(1) An owner of a vehicle that is a 1980 or older model-year vehicle may, after the requirements for the registration of the vehicle are complied with and with the approval of the department, utilize license plates of this state with the date of year corresponding to the model-year date when the vehicle was manufactured, if the model-year date license plate is legible and serviceable, as determined by the department, in lieu of the license plates otherwise required by this code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The department may consult with an organization of old car hobbyists in determining whether the date of year of the license plate corresponds to the model-year date when the vehicle was manufactured.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A fee of forty-five dollars ($45) shall be charged for the application for the use of the special plates.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "In addition to the regular renewal fee for the vehicle for which the plates are authorized, the applicant for a renewal of the plates shall be charged an additional fee of ten dollars ($10). If payment of a regular vehicle renewal fee is not required by this code, the holder of license plates with a date corresponding to the model-year may retain the plates upon payment of an annual fee of twenty dollars ($20) that shall be due at the expiration of the registration year of the vehicle to which the plates were last assigned under this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "If a person who is authorized to utilize the special license plates applies to the department for transfer of the plates to another vehicle, a transfer fee of twelve dollars ($12) shall be charged in addition to all other appropriate fees.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2016, Ch. 157, Sec. 1. (SB 1429) Effective January 1, 2017.)",
+    "action": "Amended",
+    "statutes_year": 2016,
+    "chapter": "157",
+    "section": "1",
+    "bill_number": "SB 1429",
+    "effective_date": "2017-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2016",
+  "op_chapter": "157",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5004.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5004.1.html",
+  "content_sha256": "9cb7fbcf91d7c8cfafcea525ab699be903fcd868266caeabae73b898e3041f0a",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

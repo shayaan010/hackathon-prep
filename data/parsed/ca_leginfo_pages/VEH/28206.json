@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28206",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "6",
+  "chapter_title": "Connected Vehicle Service",
+  "chapter_range": "28200 - 28244",
+  "article": "1",
+  "article_title": "General Provisions",
+  "article_range": "28200 - 28210",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.6.1",
+  "text": "(a) This article, except Section 28202, and Article 2 (commencing with Section 28220) shall become operative on July 1, 2025, and apply to vehicles that have connected vehicle service.\n\n(b) Article 3 (commencing with Section 28240) shall become operative as follows:\n\n(1) On January 1, 2028, for vehicles manufactured on or after January 1, 2028, that have connected vehicle location access.\n\n(2) On July 1, 2026, for vehicles manufactured prior to January 1, 2028, that have connected vehicle location access, and have the capability to receive software updates that provide for the functionality required by Article 3 (commencing with Section 28240).\n\n(c) This chapter does not apply to vehicles owned or operated by a rental company, as defined in Section 1939.01 of the Civil Code.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 6. Connected Vehicle Service [28200 - 28244]\n#### Article 1. General Provisions [28200 - 28210]\n##### § 28206\n\n(a) This article, except Section 28202, and Article 2 (commencing with Section 28220) shall become operative on July 1, 2025, and apply to vehicles that have connected vehicle service.\n\n(b) Article 3 (commencing with Section 28240) shall become operative as follows:\n\n    (1) On January 1, 2028, for vehicles manufactured on or after January 1, 2028, that have connected vehicle location access.\n\n    (2) On July 1, 2026, for vehicles manufactured prior to January 1, 2028, that have connected vehicle location access, and have the capability to receive software updates that provide for the functionality required by Article 3 (commencing with Section 28240).\n\n(c) This chapter does not apply to vehicles owned or operated by a rental company, as defined in Section 1939.01 of the Civil Code.\n\n*(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "This article, except Section 28202, and Article 2 (commencing with Section 28220) shall become operative on July 1, 2025, and apply to vehicles that have connected vehicle service.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Article 3 (commencing with Section 28240) shall become operative as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "On January 1, 2028, for vehicles manufactured on or after January 1, 2028, that have connected vehicle location access.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "On July 1, 2026, for vehicles manufactured prior to January 1, 2028, that have connected vehicle location access, and have the capability to receive software updates that provide for the functionality required by Article 3 (commencing with Section 28240).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "This chapter does not apply to vehicles owned or operated by a rental company, as defined in Section 1939.01 of the Civil Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025.)",
+    "action": "Added",
+    "statutes_year": 2024,
+    "chapter": "655",
+    "section": "2",
+    "bill_number": "SB 1394",
+    "effective_date": "2025-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2024",
+  "op_chapter": "655",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28206.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28206.html",
+  "content_sha256": "1b4f89ff6e75ee43b4b889509acacd1a4e031ca8f286c5308f001ca0244710a5",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

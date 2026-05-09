@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1818",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "Any record of, or information from any record concerning, an abstract of conviction kept by the department shall contain an appropriate notation indicating the commercial or noncommercial nature or the license plate number of the vehicle involved in the offense.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1818\n\nAny record of, or information from any record concerning, an abstract of conviction kept by the department shall contain an appropriate notation indicating the commercial or noncommercial nature or the license plate number of the vehicle involved in the offense.\n\n*(Added by Stats. 1967, Ch. 683.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any record of, or information from any record concerning, an abstract of conviction kept by the department shall contain an appropriate notation indicating the commercial or noncommercial nature or the license plate number of the vehicle involved in the offense.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1967, Ch. 683.)",
+    "action": "Added",
+    "statutes_year": 1967,
+    "chapter": "683",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1967",
+  "op_chapter": "683",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1818.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1818.html",
+  "content_sha256": "8dc2235e4e4dbcab57dc0f43b354013c3be8d06c0e42f617c411f38183c6a0dc",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "31540",
+  "division": "13",
+  "division_title": "TOWING AND LOADING EQUIPMENT",
+  "division_range": "29000 - 31560",
+  "chapter": "5",
+  "chapter_title": "Transporting Other Loads",
+  "chapter_range": "31301 - 31560",
+  "article": "7",
+  "article_title": "Tank Containers",
+  "article_range": "31540- 31540.",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "19.2.3",
+  "text": "(a) The department shall adopt and enforce such regulations as it determines are necessary for public safety regarding the transportation of:\n\n(1) Freight van or tank containers which can be removed from the running gear or chassis of a truck or trailer, and\n\n(2) Collapsible containers used to transport liquids on flatbed vehicles.\n\n(b) It is unlawful to fail to comply with any provision of the regulations adopted by the department.",
+  "markdown": "# Vehicle Code\n## Division 13. TOWING AND LOADING EQUIPMENT [29000 - 31560]\n### Chapter 5. Transporting Other Loads [31301 - 31560]\n#### Article 7. Tank Containers [31540- 31540.]\n##### § 31540\n\n(a) The department shall adopt and enforce such regulations as it determines are necessary for public safety regarding the transportation of:\n\n    (1) Freight van or tank containers which can be removed from the running gear or chassis of a truck or trailer, and\n\n    (2) Collapsible containers used to transport liquids on flatbed vehicles.\n\n(b) It is unlawful to fail to comply with any provision of the regulations adopted by the department.\n\n*(Amended by Stats. 1968, Ch. 1192.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall adopt and enforce such regulations as it determines are necessary for public safety regarding the transportation of:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Freight van or tank containers which can be removed from the running gear or chassis of a truck or trailer, and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Collapsible containers used to transport liquids on flatbed vehicles.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "It is unlawful to fail to comply with any provision of the regulations adopted by the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1968, Ch. 1192.)",
+    "action": "Amended",
+    "statutes_year": 1968,
+    "chapter": "1192",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1968",
+  "op_chapter": "1192",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=31540.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/31540.html",
+  "content_sha256": "0c3827dfe544754636a19bdf4b4876f245643deab4c7008d893093d07bdcf750",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

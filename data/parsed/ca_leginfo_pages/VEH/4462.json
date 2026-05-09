@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4462",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "4",
+  "article_title": "Evidences of Registration",
+  "article_range": "4450 - 4467",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.4",
+  "text": "(a) The driver of a motor vehicle shall present the registration or identification card or other evidence of registration of any or all vehicles under his or her immediate control for examination upon demand of any peace officer.\n\n(b) A person shall not display upon a vehicle, nor present to any peace officer, any registration card, identification card, temporary receipt, license plate, temporary license plate, device issued pursuant to Section 4853, or permit not issued for that vehicle or not otherwise lawfully used thereon under this code.\n\n(c) This section shall become operative January 1, 2019.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 4. Evidences of Registration [4450 - 4467]\n##### § 4462\n\n(a) The driver of a motor vehicle shall present the registration or identification card or other evidence of registration of any or all vehicles under his or her immediate control for examination upon demand of any peace officer.\n\n(b) A person shall not display upon a vehicle, nor present to any peace officer, any registration card, identification card, temporary receipt, license plate, temporary license plate, device issued pursuant to Section 4853, or permit not issued for that vehicle or not otherwise lawfully used thereon under this code.\n\n(c) This section shall become operative January 1, 2019.\n\n*(Repealed (in Sec. 7) and added by Stats. 2016, Ch. 90, Sec. 8. (AB 516) Effective January 1, 2017. Section operative January 1, 2019, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The driver of a motor vehicle shall present the registration or identification card or other evidence of registration of any or all vehicles under his or her immediate control for examination upon demand of any peace officer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person shall not display upon a vehicle, nor present to any peace officer, any registration card, identification card, temporary receipt, license plate, temporary license plate, device issued pursuant to Section 4853, or permit not issued for that vehicle or not otherwise lawfully used thereon under this code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section shall become operative January 1, 2019.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed (in Sec. 7) and added by Stats. 2016, Ch. 90, Sec. 8. (AB 516) Effective January 1, 2017. Section operative January 1, 2019, by its own provisions.)",
+    "action": "Repealed",
+    "statutes_year": 2016,
+    "chapter": "90",
+    "section": "8",
+    "bill_number": "AB 516",
+    "effective_date": "2017-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2016",
+  "op_chapter": "90",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4462.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4462.html",
+  "content_sha256": "114d4ff508cae25c014bcc7e98515dcfa3f2d7685d8441daafdd0f2c80053769",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

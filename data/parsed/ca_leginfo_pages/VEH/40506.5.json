@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40506.5",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "2",
+  "article_title": "Release Upon Promise to Appear",
+  "article_range": "40500 - 40522",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.2",
+  "text": "Prior to the date upon which the defendant promised to appear and without depositing bail, the defendant may request a continuance of the written promise to appear. A judge of the superior court may authorize the clerk to grant the continuance.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 2. Release Upon Promise to Appear [40500 - 40522]\n##### § 40506.5\n\nPrior to the date upon which the defendant promised to appear and without depositing bail, the defendant may request a continuance of the written promise to appear. A judge of the superior court may authorize the clerk to grant the continuance.\n\n*(Amended by Stats. 2002, Ch. 784, Sec. 604. Effective January 1, 2003.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Prior to the date upon which the defendant promised to appear and without depositing bail, the defendant may request a continuance of the written promise to appear. A judge of the superior court may authorize the clerk to grant the continuance.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2002, Ch. 784, Sec. 604. Effective January 1, 2003.)",
+    "action": "Amended",
+    "statutes_year": 2002,
+    "chapter": "784",
+    "section": "604",
+    "bill_number": null,
+    "effective_date": "2003-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2002",
+  "op_chapter": "784",
+  "op_section": "604",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40506.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40506.5.html",
+  "content_sha256": "1e2efe001bb62f85f6e85d2f155763ee091885f199ec693c77aa6ab41ea3a467",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

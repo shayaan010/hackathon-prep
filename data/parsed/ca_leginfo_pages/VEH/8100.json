@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "8100",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "4",
+  "chapter_title": "Permits to Nonresident Owners",
+  "chapter_range": "6700 - 8204",
+  "article": "5",
+  "article_title": "Federal Motor Vehicle Safety Program",
+  "article_range": "8100 - 8104",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.5.5",
+  "text": "An application for apportioned registration received on and after January 1, 2008, and filed pursuant to Article 4 (commencing with Section 8050) shall contain the following information:\n\n(a) The United States Department of Transportation Number issued to the person responsible for the safe operation of each vehicle being registered.\n\n(b) The taxpayer identification number corresponding to the United States Department of Transportation number provided in the apportioned registration application. The taxpayer identification number may consist of the federal employer identification number or the social security number, as applicable.\n\n(c) Notwithstanding any other provision of law, the taxpayer identification number provided pursuant to this section is confidential and shall not be disclosed by the department except to law enforcement or a federal agency, or as required by law.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 4. Permits to Nonresident Owners [6700 - 8204]\n#### Article 5. Federal Motor Vehicle Safety Program [8100 - 8104]\n##### § 8100\n\nAn application for apportioned registration received on and after January 1, 2008, and filed pursuant to Article 4 (commencing with Section 8050) shall contain the following information:\n\n(a) The United States Department of Transportation Number issued to the person responsible for the safe operation of each vehicle being registered.\n\n(b) The taxpayer identification number corresponding to the United States Department of Transportation number provided in the apportioned registration application. The taxpayer identification number may consist of the federal employer identification number or the social security number, as applicable.\n\n(c) Notwithstanding any other provision of law, the taxpayer identification number provided pursuant to this section is confidential and shall not be disclosed by the department except to law enforcement or a federal agency, or as required by law.\n\n*(Added by Stats. 2006, Ch. 169, Sec. 3. Effective January 1, 2007.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "An application for apportioned registration received on and after January 1, 2008, and filed pursuant to Article 4 (commencing with Section 8050) shall contain the following information:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The United States Department of Transportation Number issued to the person responsible for the safe operation of each vehicle being registered.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The taxpayer identification number corresponding to the United States Department of Transportation number provided in the apportioned registration application. The taxpayer identification number may consist of the federal employer identification number or the social security number, as applicable.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Notwithstanding any other provision of law, the taxpayer identification number provided pursuant to this section is confidential and shall not be disclosed by the department except to law enforcement or a federal agency, or as required by law.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2006, Ch. 169, Sec. 3. Effective January 1, 2007.)",
+    "action": "Added",
+    "statutes_year": 2006,
+    "chapter": "169",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2007-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2006",
+  "op_chapter": "169",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=8100.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/8100.html",
+  "content_sha256": "87b3f4a396328350783e1d119c2c7feb211a6ffb07fd88d3a03d2d475c7efd89",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

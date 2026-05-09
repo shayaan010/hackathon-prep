@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2255",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "2",
+  "article_title": "The California Highway Patrol",
+  "article_range": "2250 - 2269",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.2",
+  "text": "No member of the California Highway Patrol, appointed to serve in any county, shall be assigned by the commissioner for service outside the county for a longer period than one week, except:\n\n(a) Pursuant to a request by the employee for a transfer.\n\n(b) As may be necessitated by temporary traffic emergencies requiring an increase in the number of patrol members in one locality or seasonal changes making expedient a decrease in the number of patrol members in one locality, but in such latter events no assignment shall be made for disciplinary purposes.\n\nAn assignment under this section shall be made by the commissioner.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 2. The California Highway Patrol [2250 - 2269]\n##### § 2255\n\nNo member of the California Highway Patrol, appointed to serve in any county, shall be assigned by the commissioner for service outside the county for a longer period than one week, except:\n\n(a) Pursuant to a request by the employee for a transfer.\n\n(b) As may be necessitated by temporary traffic emergencies requiring an increase in the number of patrol members in one locality or seasonal changes making expedient a decrease in the number of patrol members in one locality, but in such latter events no assignment shall be made for disciplinary purposes.\n\nAn assignment under this section shall be made by the commissioner.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No member of the California Highway Patrol, appointed to serve in any county, shall be assigned by the commissioner for service outside the county for a longer period than one week, except:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Pursuant to a request by the employee for a transfer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "As may be necessitated by temporary traffic emergencies requiring an increase in the number of patrol members in one locality or seasonal changes making expedient a decrease in the number of patrol members in one locality, but in such latter events no assignment shall be made for disciplinary purposes.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "An assignment under this section shall be made by the commissioner.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2255.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2255.html",
+  "content_sha256": "ba1408a3939028d9065e411547afef87c7751ce8b69c76e9a274e8aaacb36e64",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

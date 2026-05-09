@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35106",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "2",
+  "chapter_title": "Width",
+  "chapter_range": "35100 - 35111",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.2",
+  "text": "(a) Motor coaches or buses may have a maximum width not exceeding 102 inches.\n\n(b) Notwithstanding subdivision (a), motor coaches or buses operated under the jurisdiction of the Public Utilities Commission in urban or suburban service may have a maximum outside width not exceeding 104 inches, when approved by order of the Public Utilities Commission for use on routes designated by it. Motor coaches or buses operated by common carriers of passengers for hire in urban or suburban service and not under the jurisdiction of the Public Utilities Commission may have a maximum outside width not exceeding 104 inches.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 2. Width [35100 - 35111]\n##### § 35106\n\n(a) Motor coaches or buses may have a maximum width not exceeding 102 inches.\n\n(b) Notwithstanding subdivision (a), motor coaches or buses operated under the jurisdiction of the Public Utilities Commission in urban or suburban service may have a maximum outside width not exceeding 104 inches, when approved by order of the Public Utilities Commission for use on routes designated by it. Motor coaches or buses operated by common carriers of passengers for hire in urban or suburban service and not under the jurisdiction of the Public Utilities Commission may have a maximum outside width not exceeding 104 inches.\n\n*(Amended by Stats. 2006, Ch. 538, Sec. 665. Effective January 1, 2007.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Motor coaches or buses may have a maximum width not exceeding 102 inches.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding subdivision (a), motor coaches or buses operated under the jurisdiction of the Public Utilities Commission in urban or suburban service may have a maximum outside width not exceeding 104 inches, when approved by order of the Public Utilities Commission for use on routes designated by it. Motor coaches or buses operated by common carriers of passengers for hire in urban or suburban service and not under the jurisdiction of the Public Utilities Commission may have a maximum outside width not exceeding 104 inches.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2006, Ch. 538, Sec. 665. Effective January 1, 2007.)",
+    "action": "Amended",
+    "statutes_year": 2006,
+    "chapter": "538",
+    "section": "665",
+    "bill_number": null,
+    "effective_date": "2007-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2006",
+  "op_chapter": "538",
+  "op_section": "665",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35106.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35106.html",
+  "content_sha256": "8b380ed9b75fc1f7e1ab2e5052f4a23571772ca52d091103f1d8944517751f2c",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

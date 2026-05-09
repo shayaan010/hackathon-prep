@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15022",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "6",
+  "chapter_title": "Driver License Compact",
+  "chapter_range": "15000 - 15028",
+  "article": "2",
+  "article_title": "Compact Terms",
+  "article_range": "15020 - 15028",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.6.2",
+  "text": "The licensing authority of a party state shall report each conviction of a person from another party state occurring within its jurisdiction to the licensing authority of the home state of the licensee. Such report shall clearly identify the person convicted; describe the violation specifying the section of the statute, code, or ordinance violated; identify the court in which action was taken; indicate whether a plea of guilty or not guilty was entered, or the conviction was a result of the forfeiture of bail, bond or other security; and shall include any special findings made in connection therewith.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 6. Driver License Compact [15000 - 15028]\n#### Article 2. Compact Terms [15020 - 15028]\n##### § 15022\n\nThe licensing authority of a party state shall report each conviction of a person from another party state occurring within its jurisdiction to the licensing authority of the home state of the licensee. Such report shall clearly identify the person convicted; describe the violation specifying the section of the statute, code, or ordinance violated; identify the court in which action was taken; indicate whether a plea of guilty or not guilty was entered, or the conviction was a result of the forfeiture of bail, bond or other security; and shall include any special findings made in connection therewith.\n\n*(Added by Stats. 1963, Ch. 237.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The licensing authority of a party state shall report each conviction of a person from another party state occurring within its jurisdiction to the licensing authority of the home state of the licensee. Such report shall clearly identify the person convicted; describe the violation specifying the section of the statute, code, or ordinance violated; identify the court in which action was taken; indicate whether a plea of guilty or not guilty was entered, or the conviction was a result of the forfeiture of bail, bond or other security; and shall include any special findings made in connection therewith.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1963, Ch. 237.)",
+    "action": "Added",
+    "statutes_year": 1963,
+    "chapter": "237",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1963",
+  "op_chapter": "237",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15022.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15022.html",
+  "content_sha256": "0a67c59e23b3e2183c3f6fd1fedaedcf523550212a3a9c80721956a31880fa4d",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

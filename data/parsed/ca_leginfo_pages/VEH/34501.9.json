@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34501.9",
+  "division": "14.8",
+  "division_title": "SAFETY REGULATIONS",
+  "division_range": "34500 - 34520.5",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "25",
+  "text": "(a) Nothing in this division or the regulations adopted under this division is intended to, or shall, affect the rate of payment of wages, including, but not limited to, regular, premium, or overtime rates, paid to any person whether for on-duty hours or driving hours or otherwise.\n\n(b) Nothing in this division or the regulations adopted under this division is intended to, or shall, affect the regulations adopted pursuant to other provisions of law concerning the rate or rates of payment of wages by any other public agency, including, but not limited to, the Industrial Welfare Commission or the Division of Labor Standards Enforcement of the Department of Industrial Relations.",
+  "markdown": "# Vehicle Code\n## Division 14.8. SAFETY REGULATIONS [34500 - 34520.5]\n##### § 34501.9\n\n(a) Nothing in this division or the regulations adopted under this division is intended to, or shall, affect the rate of payment of wages, including, but not limited to, regular, premium, or overtime rates, paid to any person whether for on-duty hours or driving hours or otherwise.\n\n(b) Nothing in this division or the regulations adopted under this division is intended to, or shall, affect the regulations adopted pursuant to other provisions of law concerning the rate or rates of payment of wages by any other public agency, including, but not limited to, the Industrial Welfare Commission or the Division of Labor Standards Enforcement of the Department of Industrial Relations.\n\n*(Amended by Stats. 1987, Ch. 747, Sec. 2.5.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Nothing in this division or the regulations adopted under this division is intended to, or shall, affect the rate of payment of wages, including, but not limited to, regular, premium, or overtime rates, paid to any person whether for on-duty hours or driving hours or otherwise.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Nothing in this division or the regulations adopted under this division is intended to, or shall, affect the regulations adopted pursuant to other provisions of law concerning the rate or rates of payment of wages by any other public agency, including, but not limited to, the Industrial Welfare Commission or the Division of Labor Standards Enforcement of the Department of Industrial Relations.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1987, Ch. 747, Sec. 2.5.)",
+    "action": "Amended",
+    "statutes_year": 1987,
+    "chapter": "747",
+    "section": "2.5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1987",
+  "op_chapter": "747",
+  "op_section": "2.5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34501.9.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34501.9.html",
+  "content_sha256": "69eb571ecf6790f6fd435ecd8e63ebb001aee6a65fca6c6b47a1d7936de46a74",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

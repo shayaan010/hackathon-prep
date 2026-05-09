@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11206",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "1.5",
+  "chapter_title": "Traffic Violator Schools",
+  "chapter_range": "11200 - 11223",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.2",
+  "text": "(a) The department shall license traffic violator school instructors. Except as exempted by this section, no person shall act as a traffic violator school instructor without a currently valid instructor’s license issued by the department. Every person, in order to qualify as a traffic violator school instructor, shall meet all of the following requirements before an instructor’s license may be issued:\n\n(1) Have a high school education.\n\n(2) Within three attempts, pass an examination, as required by the department, on traffic laws, safe driving practices, operation of motor vehicles, and teaching methods and techniques.\n\n(3) Hold a currently valid California driver’s license that is not subject to probation pursuant to Section 14250 due to the applicant being a negligent operator within the meaning of Section 12810 or 12810.5. The applicant’s driving record shall not have any outstanding notice for violating a written promise to appear in court or for willfully failing to pay a lawfully imposed fine, as provided in former Section 40509.\n\n(4) Be 18 years of age or older.\n\n(b) All the qualifying requirements specified by this section shall be met within one year from the date of application for a license or the application shall lapse. However, the applicant may thereafter submit a new application upon payment of the requisite fee.\n\n(c) A license issued pursuant to this section is not required to provide instruction to traffic violators in a public school or other public educational institution by a person holding a valid teaching credential with satisfactory training or experience in the subject area, as determined by the department. Persons exempt from licensure under this section are not required to obtain a license certificate pursuant to Section 11207.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 1.5. Traffic Violator Schools [11200 - 11223]\n##### § 11206\n\n(a) The department shall license traffic violator school instructors. Except as exempted by this section, no person shall act as a traffic violator school instructor without a currently valid instructor’s license issued by the department. Every person, in order to qualify as a traffic violator school instructor, shall meet all of the following requirements before an instructor’s license may be issued:\n\n    (1) Have a high school education.\n\n    (2) Within three attempts, pass an examination, as required by the department, on traffic laws, safe driving practices, operation of motor vehicles, and teaching methods and techniques.\n\n    (3) Hold a currently valid California driver’s license that is not subject to probation pursuant to Section 14250 due to the applicant being a negligent operator within the meaning of Section 12810 or 12810.5. The applicant’s driving record shall not have any outstanding notice for violating a written promise to appear in court or for willfully failing to pay a lawfully imposed fine, as provided in former Section 40509.\n\n    (4) Be 18 years of age or older.\n\n(b) All the qualifying requirements specified by this section shall be met within one year from the date of application for a license or the application shall lapse. However, the applicant may thereafter submit a new application upon payment of the requisite fee.\n\n(c) A license issued pursuant to this section is not required to provide instruction to traffic violators in a public school or other public educational institution by a person holding a valid teaching credential with satisfactory training or experience in the subject area, as determined by the department. Persons exempt from licensure under this section are not required to obtain a license certificate pursuant to Section 11207.\n\n*(Amended by Stats. 2022, Ch. 800, Sec. 7. (AB 2746) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall license traffic violator school instructors. Except as exempted by this section, no person shall act as a traffic violator school instructor without a currently valid instructor’s license issued by the department. Every person, in order to qualify as a traffic violator school instructor, shall meet all of the following requirements before an instructor’s license may be issued:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Have a high school education.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Within three attempts, pass an examination, as required by the department, on traffic laws, safe driving practices, operation of motor vehicles, and teaching methods and techniques.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Hold a currently valid California driver’s license that is not subject to probation pursuant to Section 14250 due to the applicant being a negligent operator within the meaning of Section 12810 or 12810.5. The applicant’s driving record shall not have any outstanding notice for violating a written promise to appear in court or for willfully failing to pay a lawfully imposed fine, as provided in former Section 40509.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Be 18 years of age or older.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "All the qualifying requirements specified by this section shall be met within one year from the date of application for a license or the application shall lapse. However, the applicant may thereafter submit a new application upon payment of the requisite fee.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A license issued pursuant to this section is not required to provide instruction to traffic violators in a public school or other public educational institution by a person holding a valid teaching credential with satisfactory training or experience in the subject area, as determined by the department. Persons exempt from licensure under this section are not required to obtain a license certificate pursuant to Section 11207.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 800, Sec. 7. (AB 2746) Effective January 1, 2023.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "800",
+    "section": "7",
+    "bill_number": "AB 2746",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "800",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11206.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11206.html",
+  "content_sha256": "35db9dc11653d2e09590b3e1f202b7317c2f14055f5549e87b0980675ec7595b",
+  "parsed_at": "2026-05-09T17:53:44+00:00",
+  "parser_version": "1"
+}

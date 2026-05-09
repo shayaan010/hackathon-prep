@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38012",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "2",
+  "chapter_title": "Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership",
+  "chapter_range": "38010 - 38265",
+  "article": "1",
+  "article_title": "Motor Vehicles Subject to Identification",
+  "article_range": "38010 - 38030",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.2.1",
+  "text": "(a) As used in this division, “off-highway motor vehicle subject to identification” means a motor vehicle subject to subdivision (a) of Section 38010.\n\n(b) As used in this division, “off-highway motor vehicle” includes, but is not limited to, the following:\n\n(1) A motorcycle or motor-driven cycle, except for any motorcycle that is eligible for a special transportation identification device issued pursuant to Section 38088.\n\n(2) A snowmobile or other vehicle designed to travel over snow or ice, as defined in Section 557.\n\n(3) A motor vehicle commonly referred to as a sand buggy, dune buggy, or all-terrain vehicle.\n\n(4) A motor vehicle commonly referred to as a jeep.\n\n(5) A recreational off-highway vehicle as defined in Section 500.\n\n(6) An off-highway electric motorcycle as defined in Section 436.1.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 2. Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership [38010 - 38265]\n#### Article 1. Motor Vehicles Subject to Identification [38010 - 38030]\n##### § 38012\n\n(a) As used in this division, “off-highway motor vehicle subject to identification” means a motor vehicle subject to subdivision (a) of Section 38010.\n\n(b) As used in this division, “off-highway motor vehicle” includes, but is not limited to, the following:\n\n    (1) A motorcycle or motor-driven cycle, except for any motorcycle that is eligible for a special transportation identification device issued pursuant to Section 38088.\n\n    (2) A snowmobile or other vehicle designed to travel over snow or ice, as defined in Section 557.\n\n    (3) A motor vehicle commonly referred to as a sand buggy, dune buggy, or all-terrain vehicle.\n\n    (4) A motor vehicle commonly referred to as a jeep.\n\n    (5) A recreational off-highway vehicle as defined in Section 500.\n\n    (6) An off-highway electric motorcycle as defined in Section 436.1.\n\n*(Amended by Stats. 2025, Ch. 588, Sec. 3. (SB 586) Effective January 1, 2026.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "As used in this division, “off-highway motor vehicle subject to identification” means a motor vehicle subject to subdivision (a) of Section 38010.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "As used in this division, “off-highway motor vehicle” includes, but is not limited to, the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A motorcycle or motor-driven cycle, except for any motorcycle that is eligible for a special transportation identification device issued pursuant to Section 38088.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "A snowmobile or other vehicle designed to travel over snow or ice, as defined in Section 557.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "A motor vehicle commonly referred to as a sand buggy, dune buggy, or all-terrain vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "A motor vehicle commonly referred to as a jeep.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "A recreational off-highway vehicle as defined in Section 500.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "6",
+      "text": "An off-highway electric motorcycle as defined in Section 436.1.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2025, Ch. 588, Sec. 3. (SB 586) Effective January 1, 2026.)",
+    "action": "Amended",
+    "statutes_year": 2025,
+    "chapter": "588",
+    "section": "3",
+    "bill_number": "SB 586",
+    "effective_date": "2026-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2025",
+  "op_chapter": "588",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38012.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38012.html",
+  "content_sha256": "ba56b5fe0a5748dacf1dc3d3a5856a816e2a3aeda30592d5a018359ca741b707",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "New York Consolidated Laws, Vehicle and Traffic Law",
+  "section_num": "1140",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The driver of a vehicle approaching an intersection shall yield the right of way to a vehicle which has entered the intersection from a different highway.\n\n(b) When two vehicles enter an intersection from different highways at approximately the same time the driver of the vehicle on the left shall yield the right of way to the vehicle on the right.\n\n(c) The right of way rules declared in subsections (a) and (b) are modified at through highways and otherwise as stated in this title.",
+  "markdown": "# New York Consolidated Laws, Vehicle and Traffic Law\n## § 1140. Vehicle approaching or entering intersection\n\n(a) The driver of a vehicle approaching an intersection shall yield the right of way to a vehicle which has entered the intersection from a different highway.\n\n(b) When two vehicles enter an intersection from different highways at approximately the same time the driver of the vehicle on the left shall yield the right of way to the vehicle on the right.\n\n(c) The right of way rules declared in subsections (a) and (b) are modified at through highways and otherwise as stated in this title.\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The driver of a vehicle approaching an intersection shall yield the right of way to a vehicle which has entered the intersection from a different highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When two vehicles enter an intersection from different highways at approximately the same time the driver of the vehicle on the left shall yield the right of way to the vehicle on the right.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The right of way rules declared in subsections (a) and (b) are modified at through highways and otherwise as stated in this title.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": null,
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": null,
+  "source_path": "data/raw/findlaw_pages/NY_VAT/1140.html",
+  "content_sha256": "4aa5d262d5929be2485241fa80b26e5ab6317bcf85aee86796b7dfdf52254dcf",
+  "parsed_at": "2026-05-09T17:52:03+00:00",
+  "parser_version": "1"
+}

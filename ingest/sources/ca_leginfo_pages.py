@@ -569,7 +569,19 @@ async def run(
 
         async def _bounded(section: str) -> FetchRecord:
             async with sem:
-                await _rate_limit()
+                # Cache short-circuit: if the HTML is already on disk we don't
+                # make an HTTP call, so skip the global rate limiter entirely.
+                # Otherwise we'd needlessly stretch a fully-cached run from
+                # seconds to ~rate-limited minutes.
+                safe_name = section.replace("/", "_") + ".html"
+                cached_path = out_dir / law_code / safe_name
+                cache_hit = (
+                    not force
+                    and cached_path.exists()
+                    and cached_path.stat().st_size > 0
+                )
+                if not cache_hit:
+                    await _rate_limit()
                 rec = await fetch_section(
                     client, section, law_code, out_dir, force=force
                 )
@@ -674,6 +686,12 @@ Examples:
         help="Explicit list of section numbers to fetch.",
     )
     p.add_argument(
+        "--sections-file",
+        type=Path,
+        help="Path to a file with one section number per line "
+             "(e.g. data/raw/ca_leginfo_toc/VEH_missing.txt).",
+    )
+    p.add_argument(
         "--out",
         type=Path,
         default=DEFAULT_OUT_DIR,
@@ -742,6 +760,14 @@ def _build_section_list(args: dict) -> list[str]:
     code = args["code"]
     if args["sections"]:
         return list(args["sections"])
+    if args.get("sections_file"):
+        path: Path = args["sections_file"]
+        if not path.exists():
+            raise SystemExit(f"sections file not found at {path}")
+        with path.open() as f:
+            secs = [ln.strip() for ln in f if ln.strip() and not ln.startswith("#")]
+        # Sort + dedupe so logs and progress are predictable.
+        return sorted(set(secs), key=_section_sort_key)
     if args["range"]:
         lo, hi = args["range"]
         return [str(n) for n in range(lo, hi + 1)]

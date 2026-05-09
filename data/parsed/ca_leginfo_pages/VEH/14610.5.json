@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "14610.5",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "4",
+  "chapter_title": "Violation of License Provisions",
+  "chapter_range": "14600 - 14611",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.4",
+  "text": "(a) It is unlawful for any person to do any of the following:\n\n(1) Sell, offer for sale, distribute, or use any crib sheet or cribbing device that contains the answers to any examination administered by the department for any class of driver’s license, permit, or certificate.\n\n(2) Impersonate or allow the impersonation of an applicant for any class of driver’s license, permit, or certificate for the purpose of fraudulently qualifying the applicant for any class of driver’s license, permit, or certificate.\n\n(b) A first conviction under this section is punishable as either an infraction or a misdemeanor ; a second or subsequent conviction is punishable as a misdemeanor.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 4. Violation of License Provisions [14600 - 14611]\n##### § 14610.5\n\n(a) It is unlawful for any person to do any of the following:\n\n    (1) Sell, offer for sale, distribute, or use any crib sheet or cribbing device that contains the answers to any examination administered by the department for any class of driver’s license, permit, or certificate.\n\n    (2) Impersonate or allow the impersonation of an applicant for any class of driver’s license, permit, or certificate for the purpose of fraudulently qualifying the applicant for any class of driver’s license, permit, or certificate.\n\n(b) A first conviction under this section is punishable as either an infraction or a misdemeanor ; a second or subsequent conviction is punishable as a misdemeanor.\n\n*(Amended by Stats. 1995, Ch. 243, Sec. 1. Effective January 1, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is unlawful for any person to do any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Sell, offer for sale, distribute, or use any crib sheet or cribbing device that contains the answers to any examination administered by the department for any class of driver’s license, permit, or certificate.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Impersonate or allow the impersonation of an applicant for any class of driver’s license, permit, or certificate for the purpose of fraudulently qualifying the applicant for any class of driver’s license, permit, or certificate.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A first conviction under this section is punishable as either an infraction or a misdemeanor ; a second or subsequent conviction is punishable as a misdemeanor.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1995, Ch. 243, Sec. 1. Effective January 1, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1995,
+    "chapter": "243",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1996-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1995",
+  "op_chapter": "243",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=14610.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/14610.5.html",
+  "content_sha256": "2e9c1660c18cd652ceaba4e2317e1b4b185c70073a3286fb21bdcdf93842cae7",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

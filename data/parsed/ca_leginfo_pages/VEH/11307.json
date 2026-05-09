@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11307",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "2",
+  "chapter_title": "Vehicle Verifiers",
+  "chapter_range": "11300 - 11312",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.3",
+  "text": "(a) A vehicle verifier shall maintain a record of each verification made. The record shall contain all of the following:\n\n(1) The name and address of the person requesting the verification and the fee charged for such verification.\n\n(2) The year model, vehicle identification number, license plate number of the vehicle verified and the state in which the vehicle was last registered.\n\n(b) All records maintained by a vehicle verifier shall be open to inspection by any peace officer.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 2. Vehicle Verifiers [11300 - 11312]\n##### § 11307\n\n(a) A vehicle verifier shall maintain a record of each verification made. The record shall contain all of the following:\n\n    (1) The name and address of the person requesting the verification and the fee charged for such verification.\n\n    (2) The year model, vehicle identification number, license plate number of the vehicle verified and the state in which the vehicle was last registered.\n\n(b) All records maintained by a vehicle verifier shall be open to inspection by any peace officer.\n\n*(Added by Stats. 1975, Ch. 700.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A vehicle verifier shall maintain a record of each verification made. The record shall contain all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The name and address of the person requesting the verification and the fee charged for such verification.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The year model, vehicle identification number, license plate number of the vehicle verified and the state in which the vehicle was last registered.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "All records maintained by a vehicle verifier shall be open to inspection by any peace officer.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1975, Ch. 700.)",
+    "action": "Added",
+    "statutes_year": 1975,
+    "chapter": "700",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "700",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11307.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11307.html",
+  "content_sha256": "b2c44e58a153ba08b4fd944da147a2400aff64cc1e757e2207c5c940f4632017",
+  "parsed_at": "2026-05-09T17:53:44+00:00",
+  "parser_version": "1"
+}

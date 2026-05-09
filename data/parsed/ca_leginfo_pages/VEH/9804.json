@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9804",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "6",
+  "article_title": "Enforcement of Liens",
+  "article_range": "9800 - 9808",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.6",
+  "text": "(a) Any action brought in a court of competent jurisdiction to review any order of the department to seize and sell a vehicle shall be commenced within 90 days from the date notice is given of the order.\n\n(b) Upon final completion of all administrative appeals, the department shall give written notice to the owner of a vehicle ordered for seizure and sale of his or her right to a review of the order by a court pursuant to subdivision (a).",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 6. Enforcement of Liens [9800 - 9808]\n##### § 9804\n\n(a) Any action brought in a court of competent jurisdiction to review any order of the department to seize and sell a vehicle shall be commenced within 90 days from the date notice is given of the order.\n\n(b) Upon final completion of all administrative appeals, the department shall give written notice to the owner of a vehicle ordered for seizure and sale of his or her right to a review of the order by a court pursuant to subdivision (a).\n\n*(Added by Stats. 1986, Ch. 1212, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any action brought in a court of competent jurisdiction to review any order of the department to seize and sell a vehicle shall be commenced within 90 days from the date notice is given of the order.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Upon final completion of all administrative appeals, the department shall give written notice to the owner of a vehicle ordered for seizure and sale of his or her right to a review of the order by a court pursuant to subdivision (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1986, Ch. 1212, Sec. 3.)",
+    "action": "Added",
+    "statutes_year": 1986,
+    "chapter": "1212",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1986",
+  "op_chapter": "1212",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9804.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9804.html",
+  "content_sha256": "c2be6464c032972872efd5f5b555068795d8c8ff7483fcaac706e5e1a9893298",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2262",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "2",
+  "article_title": "The California Highway Patrol",
+  "article_range": "2250 - 2269",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.2",
+  "text": "The commissioner shall establish a school for the training and education of the members of the California Highway Patrol, and for other employees of the department deemed necessary, in traffic regulation, in the performance of their duties, and in the proper enforcement of this code and laws respecting use of the highways. The commissioner may contract with any county, city, district, or other subdivision of the state for the use of school facilities in the training of enforcement officers.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 2. The California Highway Patrol [2250 - 2269]\n##### § 2262\n\nThe commissioner shall establish a school for the training and education of the members of the California Highway Patrol, and for other employees of the department deemed necessary, in traffic regulation, in the performance of their duties, and in the proper enforcement of this code and laws respecting use of the highways. The commissioner may contract with any county, city, district, or other subdivision of the state for the use of school facilities in the training of enforcement officers.\n\n*(Amended by Stats. 2021, Ch. 133, Sec. 105. (SB 272) Effective July 23, 2021.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The commissioner shall establish a school for the training and education of the members of the California Highway Patrol, and for other employees of the department deemed necessary, in traffic regulation, in the performance of their duties, and in the proper enforcement of this code and laws respecting use of the highways. The commissioner may contract with any county, city, district, or other subdivision of the state for the use of school facilities in the training of enforcement officers.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 133, Sec. 105. (SB 272) Effective July 23, 2021.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "133",
+    "section": "105",
+    "bill_number": "SB 272",
+    "effective_date": "2021-07-23",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "133",
+  "op_section": "105",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2262.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2262.html",
+  "content_sha256": "18e4c59ab48545e6d59acec0e518b4c37e28c39d48552432570c5cc8c72726c0",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9871",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "2",
+  "chapter_title": "Registration",
+  "chapter_range": "9850 - 9880",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.2",
+  "text": "Upon application for original registration or transfer of registration of an undocumented vessel, the department may assign an appropriate hull identification number to such vessel whenever there is no hull identification number thereon, or when a hull identification number thereon has been destroyed or obliterated; and such hull identification number shall be permanently marked in an integral part of the hull which is accessible for inspection.",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 2. Registration [9850 - 9880]\n##### § 9871\n\nUpon application for original registration or transfer of registration of an undocumented vessel, the department may assign an appropriate hull identification number to such vessel whenever there is no hull identification number thereon, or when a hull identification number thereon has been destroyed or obliterated; and such hull identification number shall be permanently marked in an integral part of the hull which is accessible for inspection.\n\n*(Amended by Stats. 1980, Ch. 617, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Upon application for original registration or transfer of registration of an undocumented vessel, the department may assign an appropriate hull identification number to such vessel whenever there is no hull identification number thereon, or when a hull identification number thereon has been destroyed or obliterated; and such hull identification number shall be permanently marked in an integral part of the hull which is accessible for inspection.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1980, Ch. 617, Sec. 2.)",
+    "action": "Amended",
+    "statutes_year": 1980,
+    "chapter": "617",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1980",
+  "op_chapter": "617",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9871.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9871.html",
+  "content_sha256": "6042c484434429c28232675b9d031b26da06df5f312c7a2fdb9038255bb0ebad",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

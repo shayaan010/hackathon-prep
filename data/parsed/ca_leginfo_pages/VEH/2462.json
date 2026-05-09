@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2462",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "5",
+  "article_title": "Renderers and Transporters of Inedible Kitchen Grease",
+  "article_range": "2460 - 2482",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.7",
+  "text": "(a) In addition to any other records required to be maintained and retained pursuant to Chapter 5 (commencing with Section 19200) of Part 3 of Division 9 of the Food and Agricultural Code, each licensed renderer and collection center shall record and maintain for two years, in connection with the receipt of kitchen grease that is not intended for human food, all of the information required by Section 1180.24 of Article 42 of Subchapter 2 of Chapter 4 of Division 2 of Title 3 of the California Code of Regulations, including, but not limited to, the following:\n\n(1) The name of each registered transporter of inedible kitchen grease who has delivered that material to the licensed renderer or collection center.\n\n(2) The total amount of inedible kitchen grease purchased in each transaction.\n\n(3) The date of delivery for each transaction.\n\n(b) Each registered transporter shall record and maintain for two years a manifest that includes, but is not limited to, all of the following:\n\n(1) The name and address of each location from which the registered transporter obtained the inedible kitchen grease.\n\n(2) The quantity of inedible kitchen grease received from each location.\n\n(3) The date on which the inedible kitchen grease was obtained from each location.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 5. Renderers and Transporters of Inedible Kitchen Grease [2460 - 2482]\n##### § 2462\n\n(a) In addition to any other records required to be maintained and retained pursuant to Chapter 5 (commencing with Section 19200) of Part 3 of Division 9 of the Food and Agricultural Code, each licensed renderer and collection center shall record and maintain for two years, in connection with the receipt of kitchen grease that is not intended for human food, all of the information required by Section 1180.24 of Article 42 of Subchapter 2 of Chapter 4 of Division 2 of Title 3 of the California Code of Regulations, including, but not limited to, the following:\n\n    (1) The name of each registered transporter of inedible kitchen grease who has delivered that material to the licensed renderer or collection center.\n\n    (2) The total amount of inedible kitchen grease purchased in each transaction.\n\n    (3) The date of delivery for each transaction.\n\n(b) Each registered transporter shall record and maintain for two years a manifest that includes, but is not limited to, all of the following:\n\n    (1) The name and address of each location from which the registered transporter obtained the inedible kitchen grease.\n\n    (2) The quantity of inedible kitchen grease received from each location.\n\n    (3) The date on which the inedible kitchen grease was obtained from each location.\n\n*(Amended by Stats. 2014, Ch. 595, Sec. 11. (AB 1566) Effective January 1, 2015.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In addition to any other records required to be maintained and retained pursuant to Chapter 5 (commencing with Section 19200) of Part 3 of Division 9 of the Food and Agricultural Code, each licensed renderer and collection center shall record and maintain for two years, in connection with the receipt of kitchen grease that is not intended for human food, all of the information required by Section 1180.24 of Article 42 of Subchapter 2 of Chapter 4 of Division 2 of Title 3 of the California Code of Regulations, including, but not limited to, the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The name of each registered transporter of inedible kitchen grease who has delivered that material to the licensed renderer or collection center.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The total amount of inedible kitchen grease purchased in each transaction.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The date of delivery for each transaction.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Each registered transporter shall record and maintain for two years a manifest that includes, but is not limited to, all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The name and address of each location from which the registered transporter obtained the inedible kitchen grease.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The quantity of inedible kitchen grease received from each location.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The date on which the inedible kitchen grease was obtained from each location.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2014, Ch. 595, Sec. 11. (AB 1566) Effective January 1, 2015.)",
+    "action": "Amended",
+    "statutes_year": 2014,
+    "chapter": "595",
+    "section": "11",
+    "bill_number": "AB 1566",
+    "effective_date": "2015-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2014",
+  "op_chapter": "595",
+  "op_section": "11",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2462.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2462.html",
+  "content_sha256": "a9aaa47e4695b4384e554fe9af7f91a83c15ea86aa79886b9d34976405a815e5",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

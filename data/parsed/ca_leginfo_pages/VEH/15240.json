@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15240",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "7",
+  "chapter_title": "Commercial Motor Vehicle Safety Program",
+  "chapter_range": "15200 - 15326",
+  "article": "4",
+  "article_title": "Employer Responsibilities",
+  "article_range": "15240 - 15242",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.7.4",
+  "text": "No employer shall knowingly allow, permit, require, or authorize a driver to drive a commercial motor vehicle under any of the following conditions:\n\n(a) The driver has a driver’s license or privilege suspended, revoked, or canceled by any state or has been disqualified from operating a commercial motor vehicle.\n\n(b) The driver has more than one driver’s license.\n\n(c) The driver or the commercial motor vehicle or motor carrier operation is subject to an out-of-service order as described in subdivision (b) of Section 2800.\n\n(d) In violation of any law or regulation pertaining to a railroad-highway grade crossing.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 7. Commercial Motor Vehicle Safety Program [15200 - 15326]\n#### Article 4. Employer Responsibilities [15240 - 15242]\n##### § 15240\n\nNo employer shall knowingly allow, permit, require, or authorize a driver to drive a commercial motor vehicle under any of the following conditions:\n\n(a) The driver has a driver’s license or privilege suspended, revoked, or canceled by any state or has been disqualified from operating a commercial motor vehicle.\n\n(b) The driver has more than one driver’s license.\n\n(c) The driver or the commercial motor vehicle or motor carrier operation is subject to an out-of-service order as described in subdivision (b) of Section 2800.\n\n(d) In violation of any law or regulation pertaining to a railroad-highway grade crossing.\n\n*(Amended by Stats. 2001, Ch. 504, Sec. 2. Effective January 1, 2002.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No employer shall knowingly allow, permit, require, or authorize a driver to drive a commercial motor vehicle under any of the following conditions:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The driver has a driver’s license or privilege suspended, revoked, or canceled by any state or has been disqualified from operating a commercial motor vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The driver has more than one driver’s license.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The driver or the commercial motor vehicle or motor carrier operation is subject to an out-of-service order as described in subdivision (b) of Section 2800.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "In violation of any law or regulation pertaining to a railroad-highway grade crossing.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2001, Ch. 504, Sec. 2. Effective January 1, 2002.)",
+    "action": "Amended",
+    "statutes_year": 2001,
+    "chapter": "504",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2002-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "504",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15240.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15240.html",
+  "content_sha256": "237c70d97ffb0d0c05bec84c03f2a1e9c5cad31cb3ec363e1b71fd0973344e70",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

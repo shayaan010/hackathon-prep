@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "6050",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "2",
+  "chapter_title": "Transfers of Title or Interest",
+  "chapter_range": "5600 - 6105",
+  "article": "4",
+  "article_title": "Transfer by Department",
+  "article_range": "6050 - 6052",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.2.4",
+  "text": "(a) The department upon receipt of a properly endorsed certificate of ownership and the required fee shall reregister the vehicle under its registration number in the name of the new owner and new legal owner, if any, and shall issue a new registration card and certificate of ownership as provided upon an original registration.\n\n(b) The department shall not issue a new registration card and certificate of ownership pursuant to subdivision (a) on a vehicle that has been issued a nonrepairable vehicle certificate pursuant to Section 11515.2.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 2. Transfers of Title or Interest [5600 - 6105]\n#### Article 4. Transfer by Department [6050 - 6052]\n##### § 6050\n\n(a) The department upon receipt of a properly endorsed certificate of ownership and the required fee shall reregister the vehicle under its registration number in the name of the new owner and new legal owner, if any, and shall issue a new registration card and certificate of ownership as provided upon an original registration.\n\n(b) The department shall not issue a new registration card and certificate of ownership pursuant to subdivision (a) on a vehicle that has been issued a nonrepairable vehicle certificate pursuant to Section 11515.2.\n\n*(Amended by Stats. 1994, Ch. 1008, Sec. 10. Effective January 1, 1995. Operative July 1, 1995, by Sec. 19 of Ch. 1008.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department upon receipt of a properly endorsed certificate of ownership and the required fee shall reregister the vehicle under its registration number in the name of the new owner and new legal owner, if any, and shall issue a new registration card and certificate of ownership as provided upon an original registration.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall not issue a new registration card and certificate of ownership pursuant to subdivision (a) on a vehicle that has been issued a nonrepairable vehicle certificate pursuant to Section 11515.2.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 1008, Sec. 10. Effective January 1, 1995. Operative July 1, 1995, by Sec. 19 of Ch. 1008.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "1008",
+    "section": "10",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": "1995-07-01"
+  },
+  "op_statues": "1994",
+  "op_chapter": "1008",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6050.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/6050.html",
+  "content_sha256": "f504199fbd7af25fe3fa737d9b0b38ca63444734b96933b0164817587199554a",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

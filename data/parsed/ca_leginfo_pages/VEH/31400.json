@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "31400",
+  "division": "13",
+  "division_title": "TOWING AND LOADING EQUIPMENT",
+  "division_range": "29000 - 31560",
+  "chapter": "5",
+  "chapter_title": "Transporting Other Loads",
+  "chapter_range": "31301 - 31560",
+  "article": "2",
+  "article_title": "Vehicles Transporting Workmen",
+  "article_range": "31400 - 31409",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "19.2.2",
+  "text": "Trucks used primarily or regularly for the transportation of workmen shall be:\n\n(a) Equipped with seats securely fastened to the vehicle.\n\n(b) Equipped, if a motortruck, with a railing or other suitable enclosure on the sides and end of the vehicle not less than 46 inches above the floor of the vehicle.\n\n(c) Equipped with steps, stirrups, or other equivalent devices so placed and arranged that the vehicle may be safely mounted and dismounted.",
+  "markdown": "# Vehicle Code\n## Division 13. TOWING AND LOADING EQUIPMENT [29000 - 31560]\n### Chapter 5. Transporting Other Loads [31301 - 31560]\n#### Article 2. Vehicles Transporting Workmen [31400 - 31409]\n##### § 31400\n\nTrucks used primarily or regularly for the transportation of workmen shall be:\n\n(a) Equipped with seats securely fastened to the vehicle.\n\n(b) Equipped, if a motortruck, with a railing or other suitable enclosure on the sides and end of the vehicle not less than 46 inches above the floor of the vehicle.\n\n(c) Equipped with steps, stirrups, or other equivalent devices so placed and arranged that the vehicle may be safely mounted and dismounted.\n\n*(Added by Stats. 1968, Ch. 1019.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Trucks used primarily or regularly for the transportation of workmen shall be:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Equipped with seats securely fastened to the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Equipped, if a motortruck, with a railing or other suitable enclosure on the sides and end of the vehicle not less than 46 inches above the floor of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Equipped with steps, stirrups, or other equivalent devices so placed and arranged that the vehicle may be safely mounted and dismounted.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1968, Ch. 1019.)",
+    "action": "Added",
+    "statutes_year": 1968,
+    "chapter": "1019",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1968",
+  "op_chapter": "1019",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=31400.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/31400.html",
+  "content_sha256": "2721fa0bc2561196c0142d2089719d3da297c187f2fe5c536e949ee8520a5e3e",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

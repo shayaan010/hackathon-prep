@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40000.19",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "A violation of any of the following provisions is a misdemeanor, and not an infraction:\n\n(a) Section 31303, relating to transportation of hazardous waste.\n\n(b) Division 14 (commencing with Section 31600), relating to transportation of explosives.\n\n(c) Division 14.1 (commencing with Section 32000), relating to the transportation of hazardous material.\n\n(d) Division 14.3 (commencing with Section 32100), relating to transportation of inhalation hazards.\n\n(e) Division 14.5 (commencing with Section 33000), relating to transportation of radioactive materials.\n\n(f) Division 14.7 (commencing with Section 34001), relating to flammable liquids.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40000.19\n\nA violation of any of the following provisions is a misdemeanor, and not an infraction:\n\n(a) Section 31303, relating to transportation of hazardous waste.\n\n(b) Division 14 (commencing with Section 31600), relating to transportation of explosives.\n\n(c) Division 14.1 (commencing with Section 32000), relating to the transportation of hazardous material.\n\n(d) Division 14.3 (commencing with Section 32100), relating to transportation of inhalation hazards.\n\n(e) Division 14.5 (commencing with Section 33000), relating to transportation of radioactive materials.\n\n(f) Division 14.7 (commencing with Section 34001), relating to flammable liquids.\n\n*(Amended by Stats. 1988, Ch. 1384, Sec. 6.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A violation of any of the following provisions is a misdemeanor, and not an infraction:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Section 31303, relating to transportation of hazardous waste.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Division 14 (commencing with Section 31600), relating to transportation of explosives.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Division 14.1 (commencing with Section 32000), relating to the transportation of hazardous material.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Division 14.3 (commencing with Section 32100), relating to transportation of inhalation hazards.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "Division 14.5 (commencing with Section 33000), relating to transportation of radioactive materials.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "f",
+      "text": "Division 14.7 (commencing with Section 34001), relating to flammable liquids.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1988, Ch. 1384, Sec. 6.)",
+    "action": "Amended",
+    "statutes_year": 1988,
+    "chapter": "1384",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1384",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40000.19.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40000.19.html",
+  "content_sha256": "c981e0822ada8c1069f5e343b541c8a178006140079e1254fa89c2db5ed57dc2",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

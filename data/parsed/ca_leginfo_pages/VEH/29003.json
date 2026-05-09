@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "29003",
+  "division": "13",
+  "division_title": "TOWING AND LOADING EQUIPMENT",
+  "division_range": "29000 - 31560",
+  "chapter": "1",
+  "chapter_title": "Towing Equipment",
+  "chapter_range": "29000 - 29009",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "19.1",
+  "text": "(a) Every hitch or coupling device used as a means of attaching the towed and towing vehicles shall be properly and securely mounted and be structurally adequate for the weight drawn. The mounting of the hitch or coupling device on the towing and towed vehicle shall include sufficient reinforcement or bracing of the frame to provide sufficient strength and rigidity to prevent undue distortion of the frame.\n\n(b) The drawbar, tongue, or other connection between the towing and towed vehicles shall be securely attached and structurally adequate for the weight drawn.\n\n(c) The raised end of any motor vehicle being transported by another motor vehicle using a tow dolly shall be secured to the tow dolly by two separate chains, cables, or equivalent devices adequate to prevent shifting or separation of the towed vehicle and the tow dolly.",
+  "markdown": "# Vehicle Code\n## Division 13. TOWING AND LOADING EQUIPMENT [29000 - 31560]\n### Chapter 1. Towing Equipment [29000 - 29009]\n##### § 29003\n\n(a) Every hitch or coupling device used as a means of attaching the towed and towing vehicles shall be properly and securely mounted and be structurally adequate for the weight drawn. The mounting of the hitch or coupling device on the towing and towed vehicle shall include sufficient reinforcement or bracing of the frame to provide sufficient strength and rigidity to prevent undue distortion of the frame.\n\n(b) The drawbar, tongue, or other connection between the towing and towed vehicles shall be securely attached and structurally adequate for the weight drawn.\n\n(c) The raised end of any motor vehicle being transported by another motor vehicle using a tow dolly shall be secured to the tow dolly by two separate chains, cables, or equivalent devices adequate to prevent shifting or separation of the towed vehicle and the tow dolly.\n\n*(Amended by Stats. 1983, Ch. 708, Sec. 10.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every hitch or coupling device used as a means of attaching the towed and towing vehicles shall be properly and securely mounted and be structurally adequate for the weight drawn. The mounting of the hitch or coupling device on the towing and towed vehicle shall include sufficient reinforcement or bracing of the frame to provide sufficient strength and rigidity to prevent undue distortion of the frame.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The drawbar, tongue, or other connection between the towing and towed vehicles shall be securely attached and structurally adequate for the weight drawn.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The raised end of any motor vehicle being transported by another motor vehicle using a tow dolly shall be secured to the tow dolly by two separate chains, cables, or equivalent devices adequate to prevent shifting or separation of the towed vehicle and the tow dolly.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 708, Sec. 10.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "708",
+    "section": "10",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "708",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=29003.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/29003.html",
+  "content_sha256": "250b57726d03f38d21f74c9e0dfd60b647a3f794d9f96f44bdc0978a7fa8dc2d",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

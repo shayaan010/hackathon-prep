@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1656.4",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "2",
+  "article_title": "Powers and Duties",
+  "article_range": "1650 - 1685.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.2",
+  "text": "(a) The department, in consultation with the Department of Consumer Affairs, shall make available on its Internet web site, on or before July 1, 1997, information to assist consumers who plan to purchase a vehicle or who have purchased a vehicle. The information shall, at a minimum, contain the names, addresses, electronic addresses, and telephone numbers of all of the following:\n\n(1) State and federal government agencies that deal with consumer affairs and vehicles.\n\n(2) Vehicle arbitration services.\n\n(3) Consumer organizations that provide information and direct assistance to consumers with vehicle concerns.\n\n(b) Money deposited in the Consumer Fraud Protection Program Fund shall be available, upon appropriation by the Legislature, for the consumer protection activities of the department, including, but not limited to, expenditures by the department to comply with the requirements specified in subdivision (a).",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 2. Powers and Duties [1650 - 1685.1]\n##### § 1656.4\n\n(a) The department, in consultation with the Department of Consumer Affairs, shall make available on its Internet web site, on or before July 1, 1997, information to assist consumers who plan to purchase a vehicle or who have purchased a vehicle. The information shall, at a minimum, contain the names, addresses, electronic addresses, and telephone numbers of all of the following:\n\n    (1) State and federal government agencies that deal with consumer affairs and vehicles.\n\n    (2) Vehicle arbitration services.\n\n    (3) Consumer organizations that provide information and direct assistance to consumers with vehicle concerns.\n\n(b) Money deposited in the Consumer Fraud Protection Program Fund shall be available, upon appropriation by the Legislature, for the consumer protection activities of the department, including, but not limited to, expenditures by the department to comply with the requirements specified in subdivision (a).\n\n*(Added by Stats. 1996, Ch. 722, Sec. 1. Effective January 1, 1997.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department, in consultation with the Department of Consumer Affairs, shall make available on its Internet web site, on or before July 1, 1997, information to assist consumers who plan to purchase a vehicle or who have purchased a vehicle. The information shall, at a minimum, contain the names, addresses, electronic addresses, and telephone numbers of all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "State and federal government agencies that deal with consumer affairs and vehicles.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Vehicle arbitration services.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Consumer organizations that provide information and direct assistance to consumers with vehicle concerns.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Money deposited in the Consumer Fraud Protection Program Fund shall be available, upon appropriation by the Legislature, for the consumer protection activities of the department, including, but not limited to, expenditures by the department to comply with the requirements specified in subdivision (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1996, Ch. 722, Sec. 1. Effective January 1, 1997.)",
+    "action": "Added",
+    "statutes_year": 1996,
+    "chapter": "722",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1997-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "722",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1656.4.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1656.4.html",
+  "content_sha256": "3e2ac4490bf444b0cf111fcb8bc8d1c4d51a2728e5961a488bce6e7e8acadd28",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

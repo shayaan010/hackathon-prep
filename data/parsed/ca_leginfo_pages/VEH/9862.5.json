@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9862.5",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "2",
+  "chapter_title": "Registration",
+  "chapter_range": "9850 - 9880",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.2",
+  "text": "In computing any penalty imposed under this chapter, a fraction of a dollar shall be disregarded unless it equals or exceeds fifty cents ($0.50), in which case it shall be treated as one dollar ($1).",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 2. Registration [9850 - 9880]\n##### § 9862.5\n\nIn computing any penalty imposed under this chapter, a fraction of a dollar shall be disregarded unless it equals or exceeds fifty cents ($0.50), in which case it shall be treated as one dollar ($1).\n\n*(Amended by Stats. 2001, Ch. 825, Sec. 12. Effective January 1, 2002.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In computing any penalty imposed under this chapter, a fraction of a dollar shall be disregarded unless it equals or exceeds fifty cents ($0.50), in which case it shall be treated as one dollar ($1).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2001, Ch. 825, Sec. 12. Effective January 1, 2002.)",
+    "action": "Amended",
+    "statutes_year": 2001,
+    "chapter": "825",
+    "section": "12",
+    "bill_number": null,
+    "effective_date": "2002-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "825",
+  "op_section": "12",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9862.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9862.5.html",
+  "content_sha256": "a15b29dd68590599836e5100f297b17f9f7891e5736ae58563aa474bf1cb387e",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

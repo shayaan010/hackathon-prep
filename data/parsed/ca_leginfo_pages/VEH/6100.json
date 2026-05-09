@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "6100",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "2",
+  "chapter_title": "Transfers of Title or Interest",
+  "chapter_range": "5600 - 6105",
+  "article": "5",
+  "article_title": "Transfers Through Wholesale Auctions",
+  "article_range": "6100 - 6105",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.2.5",
+  "text": "(a) A dealer who conducts a wholesale motor vehicle auction and reports the sale of the vehicle in the manner prescribed in subdivision (b) of Section 4456 shall include the phrase “SOLD THROUGH [name of dealer conducting the auction]” and the date of the auction on the certificate of title of every vehicle sold, in a manner prescribed by the department.\n\n(b) This section shall become operative January 1, 2019.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 2. Transfers of Title or Interest [5600 - 6105]\n#### Article 5. Transfers Through Wholesale Auctions [6100 - 6105]\n##### § 6100\n\n(a) A dealer who conducts a wholesale motor vehicle auction and reports the sale of the vehicle in the manner prescribed in subdivision (b) of Section 4456 shall include the phrase “SOLD THROUGH [name of dealer conducting the auction]” and the date of the auction on the certificate of title of every vehicle sold, in a manner prescribed by the department.\n\n(b) This section shall become operative January 1, 2019.\n\n*(Repealed (in Sec. 21) and added by Stats. 2016, Ch. 90, Sec. 22. (AB 516) Effective January 1, 2017. Section operative January 1, 2019, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A dealer who conducts a wholesale motor vehicle auction and reports the sale of the vehicle in the manner prescribed in subdivision (b) of Section 4456 shall include the phrase “SOLD THROUGH [name of dealer conducting the auction]” and the date of the auction on the certificate of title of every vehicle sold, in a manner prescribed by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section shall become operative January 1, 2019.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed (in Sec. 21) and added by Stats. 2016, Ch. 90, Sec. 22. (AB 516) Effective January 1, 2017. Section operative January 1, 2019, by its own provisions.)",
+    "action": "Repealed",
+    "statutes_year": 2016,
+    "chapter": "90",
+    "section": "22",
+    "bill_number": "AB 516",
+    "effective_date": "2017-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2016",
+  "op_chapter": "90",
+  "op_section": "22",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6100.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/6100.html",
+  "content_sha256": "92fd98ea1728aa0580fe6e00d7e781607b7e1c848c66a00092676a35210cc9dd",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

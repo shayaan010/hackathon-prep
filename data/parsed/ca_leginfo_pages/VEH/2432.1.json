@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2432.1",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3.3",
+  "article_title": "Tow Truck Drivers",
+  "article_range": "2430.1 - 2432.3",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.4",
+  "text": "(a) If the commissioner determines that an employer has failed to comply with the requirements of this article or Article 3.5 (commencing with Section 2435), the commissioner may, after a hearing, suspend the highway safety carrier’s identification number issued pursuant to Section 2436.3 for a period not to exceed two years.\n\n(b) If the commissioner determines that an employer has failed to comply with the requirements of this article or Article 3.5 (commencing with Section 2435) twice within a period of 24 consecutive months, the commissioner may, after a hearing, prohibit the employer from participating in any freeway service patrol operation for two years.\n\n(c) Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to the hearing specified in subdivision (a) or (b).",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3.3. Tow Truck Drivers [2430.1 - 2432.3]\n##### § 2432.1\n\n(a) If the commissioner determines that an employer has failed to comply with the requirements of this article or Article 3.5 (commencing with Section 2435), the commissioner may, after a hearing, suspend the highway safety carrier’s identification number issued pursuant to Section 2436.3 for a period not to exceed two years.\n\n(b) If the commissioner determines that an employer has failed to comply with the requirements of this article or Article 3.5 (commencing with Section 2435) twice within a period of 24 consecutive months, the commissioner may, after a hearing, prohibit the employer from participating in any freeway service patrol operation for two years.\n\n(c) Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to the hearing specified in subdivision (a) or (b).\n\n*(Added by Stats. 1991, Ch. 488, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If the commissioner determines that an employer has failed to comply with the requirements of this article or Article 3.5 (commencing with Section 2435), the commissioner may, after a hearing, suspend the highway safety carrier’s identification number issued pursuant to Section 2436.3 for a period not to exceed two years.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If the commissioner determines that an employer has failed to comply with the requirements of this article or Article 3.5 (commencing with Section 2435) twice within a period of 24 consecutive months, the commissioner may, after a hearing, prohibit the employer from participating in any freeway service patrol operation for two years.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code does not apply to the hearing specified in subdivision (a) or (b).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1991, Ch. 488, Sec. 3.)",
+    "action": "Added",
+    "statutes_year": 1991,
+    "chapter": "488",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "488",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2432.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2432.1.html",
+  "content_sha256": "9d85ecaf825b57e87200e1b96195664c10ebaaf696f12675749849efd8165671",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9250.5",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "2",
+  "article_title": "Registration Fees",
+  "article_range": "9250 - 9271",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.2",
+  "text": "(a) The department shall, if requested by the City/County Association of Governments of San Mateo County, collect the fee imposed pursuant to Section 65089.11 of the Government Code upon the registration or renewal of registration of any motor vehicle registered in the county, except those vehicles that are expressly exempted under this code from the payment of registration fees.\n\n(b) The City/County Association of Governments of San Mateo County shall pay for the initial setup and programming costs identified by the Department of Motor Vehicles through a direct contract with the department. Any direct contract payment by the City/County Association of Governments of San Mateo County shall be repaid, with no restriction on the funds, to the City/County Association of Governments of San Mateo County as part of the initial revenues distributed. Regular Department of Motor Vehicles collection costs shall be in accordance with subdivision (c). These costs shall not be counted against the 5-percent administration cost limit specified in subdivision (e) of Section 65089.12.\n\n(c) After deducting all costs incurred pursuant to this section, the department shall distribute the revenues to the City/County Association of Governments of San Mateo County.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 2. Registration Fees [9250 - 9271]\n##### § 9250.5\n\n(a) The department shall, if requested by the City/County Association of Governments of San Mateo County, collect the fee imposed pursuant to Section 65089.11 of the Government Code upon the registration or renewal of registration of any motor vehicle registered in the county, except those vehicles that are expressly exempted under this code from the payment of registration fees.\n\n(b) The City/County Association of Governments of San Mateo County shall pay for the initial setup and programming costs identified by the Department of Motor Vehicles through a direct contract with the department. Any direct contract payment by the City/County Association of Governments of San Mateo County shall be repaid, with no restriction on the funds, to the City/County Association of Governments of San Mateo County as part of the initial revenues distributed. Regular Department of Motor Vehicles collection costs shall be in accordance with subdivision (c). These costs shall not be counted against the 5-percent administration cost limit specified in subdivision (e) of Section 65089.12.\n\n(c) After deducting all costs incurred pursuant to this section, the department shall distribute the revenues to the City/County Association of Governments of San Mateo County.\n\n*(Added by Stats. 2004, Ch. 931, Sec. 2. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall, if requested by the City/County Association of Governments of San Mateo County, collect the fee imposed pursuant to Section 65089.11 of the Government Code upon the registration or renewal of registration of any motor vehicle registered in the county, except those vehicles that are expressly exempted under this code from the payment of registration fees.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The City/County Association of Governments of San Mateo County shall pay for the initial setup and programming costs identified by the Department of Motor Vehicles through a direct contract with the department. Any direct contract payment by the City/County Association of Governments of San Mateo County shall be repaid, with no restriction on the funds, to the City/County Association of Governments of San Mateo County as part of the initial revenues distributed. Regular Department of Motor Vehicles collection costs shall be in accordance with subdivision (c). These costs shall not be counted against the 5-percent administration cost limit specified in subdivision (e) of Section 65089.12.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "After deducting all costs incurred pursuant to this section, the department shall distribute the revenues to the City/County Association of Governments of San Mateo County.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2004, Ch. 931, Sec. 2. Effective January 1, 2005.)",
+    "action": "Added",
+    "statutes_year": 2004,
+    "chapter": "931",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "931",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9250.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9250.5.html",
+  "content_sha256": "8e59628a1f8921e0cae1aa6611bc408dd94e02273d7d1f765219ab90df7a2f1a",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38355",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "6",
+  "chapter_title": "Equipment of Off-Highway Vehicles",
+  "chapter_range": "38325 - 38397",
+  "article": "3",
+  "article_title": "Brakes",
+  "article_range": "38355- 38355.",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.4.3",
+  "text": "(a) Except as provided in subdivision (b), every motor vehicle shall be equipped with a service brake system which is in good working order and adequate to control the movement of, and to stop and hold to the limit of traction of, such vehicle or combination of vehicles under all conditions of loading and upon any grade on which it is operated.\n\n(b) Any motor vehicle, such as an air-cushioned vehicle, which is unable to comply with the requirements of this section due to the method of operation, is exempt, if the operator is able to exercise safe control over the movement of such vehicle.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 6. Equipment of Off-Highway Vehicles [38325 - 38397]\n#### Article 3. Brakes [38355- 38355.]\n##### § 38355\n\n(a) Except as provided in subdivision (b), every motor vehicle shall be equipped with a service brake system which is in good working order and adequate to control the movement of, and to stop and hold to the limit of traction of, such vehicle or combination of vehicles under all conditions of loading and upon any grade on which it is operated.\n\n(b) Any motor vehicle, such as an air-cushioned vehicle, which is unable to comply with the requirements of this section due to the method of operation, is exempt, if the operator is able to exercise safe control over the movement of such vehicle.\n\n*(Added by Stats. 1976, Ch. 1093.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in subdivision (b), every motor vehicle shall be equipped with a service brake system which is in good working order and adequate to control the movement of, and to stop and hold to the limit of traction of, such vehicle or combination of vehicles under all conditions of loading and upon any grade on which it is operated.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any motor vehicle, such as an air-cushioned vehicle, which is unable to comply with the requirements of this section due to the method of operation, is exempt, if the operator is able to exercise safe control over the movement of such vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1976, Ch. 1093.)",
+    "action": "Added",
+    "statutes_year": 1976,
+    "chapter": "1093",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "1093",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38355.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38355.html",
+  "content_sha256": "0543b09a4074959a8b324ebca3fd22348d399fab5a218ca7ad4c63fe2beaf4c4",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

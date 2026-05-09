@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4000.4",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "1",
+  "article_title": "Vehicles Subject to Registration",
+  "article_range": "4000 - 4023",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.1",
+  "text": "(a) Except as provided in Sections 6700, 6702, and 6703, any vehicle which is registered to a nonresident owner, and which is based in California or primarily used on California highways, shall be registered in California.\n\n(b) For purposes of this section, a vehicle is deemed to be primarily or regularly used on the highways of this state if the vehicle is located or operated in this state for a greater amount of time than it is located or operated in any other individual state during the registration period in question.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 1. Vehicles Subject to Registration [4000 - 4023]\n##### § 4000.4\n\n(a) Except as provided in Sections 6700, 6702, and 6703, any vehicle which is registered to a nonresident owner, and which is based in California or primarily used on California highways, shall be registered in California.\n\n(b) For purposes of this section, a vehicle is deemed to be primarily or regularly used on the highways of this state if the vehicle is located or operated in this state for a greater amount of time than it is located or operated in any other individual state during the registration period in question.\n\n*(Amended by Stats. 1988, Ch. 1008, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in Sections 6700, 6702, and 6703, any vehicle which is registered to a nonresident owner, and which is based in California or primarily used on California highways, shall be registered in California.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For purposes of this section, a vehicle is deemed to be primarily or regularly used on the highways of this state if the vehicle is located or operated in this state for a greater amount of time than it is located or operated in any other individual state during the registration period in question.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1988, Ch. 1008, Sec. 2.)",
+    "action": "Amended",
+    "statutes_year": 1988,
+    "chapter": "1008",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1008",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4000.4.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4000.4.html",
+  "content_sha256": "5c5622a437e4d28a1762bb8c78079a83b7a89f07cda714b62231bbff03193ff2",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

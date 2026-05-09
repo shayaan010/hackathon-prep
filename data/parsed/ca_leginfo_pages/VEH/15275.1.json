@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15275.1",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "7",
+  "chapter_title": "Commercial Motor Vehicle Safety Program",
+  "chapter_range": "15200 - 15326",
+  "article": "6",
+  "article_title": "Endorsements",
+  "article_range": "15275 - 15278",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.7.6",
+  "text": "(a) Except as provided in subdivision (b), a schoolbus endorsement is valid only when the operator possesses or qualifies for a valid commercial driver’s license with a passenger endorsement and possesses a schoolbus driver’s certificate issued pursuant to Section 12517.\n\n(b) A schoolbus endorsement is valid without a schoolbus driver’s certificate for an operator who is employed as a mechanic or a schoolbus driver-trainee if the schoolbus endorsement is restricted to operating a schoolbus when there is no pupil being transported.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 7. Commercial Motor Vehicle Safety Program [15200 - 15326]\n#### Article 6. Endorsements [15275 - 15278]\n##### § 15275.1\n\n(a) Except as provided in subdivision (b), a schoolbus endorsement is valid only when the operator possesses or qualifies for a valid commercial driver’s license with a passenger endorsement and possesses a schoolbus driver’s certificate issued pursuant to Section 12517.\n\n(b) A schoolbus endorsement is valid without a schoolbus driver’s certificate for an operator who is employed as a mechanic or a schoolbus driver-trainee if the schoolbus endorsement is restricted to operating a schoolbus when there is no pupil being transported.\n\n*(Amended by Stats. 2005, Ch. 199, Sec. 4. Effective January 1, 2006.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in subdivision (b), a schoolbus endorsement is valid only when the operator possesses or qualifies for a valid commercial driver’s license with a passenger endorsement and possesses a schoolbus driver’s certificate issued pursuant to Section 12517.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A schoolbus endorsement is valid without a schoolbus driver’s certificate for an operator who is employed as a mechanic or a schoolbus driver-trainee if the schoolbus endorsement is restricted to operating a schoolbus when there is no pupil being transported.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2005, Ch. 199, Sec. 4. Effective January 1, 2006.)",
+    "action": "Amended",
+    "statutes_year": 2005,
+    "chapter": "199",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "2006-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2005",
+  "op_chapter": "199",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15275.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15275.1.html",
+  "content_sha256": "174d227314f14bf5700038b5323340508186370fb7726c72b26e1e167e767259",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

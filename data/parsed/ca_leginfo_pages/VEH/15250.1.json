@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15250.1",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "7",
+  "chapter_title": "Commercial Motor Vehicle Safety Program",
+  "chapter_range": "15200 - 15326",
+  "article": "5",
+  "article_title": "Commercial Driver’s License",
+  "article_range": "15250 - 15263",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.7.5",
+  "text": "(a) The department shall, no later than June 5, 2020, adopt regulations related to entry-level driver training requirements for drivers of commercial motor vehicles in compliance with the requirements of Parts 380, 383, and 384 of Title 49 of the Code of Federal Regulations.\n\n(b) The department shall require the course of instruction for entry-level drivers to require an applicant for a class A or B commercial driver’s license to complete a minimum of 15 hours of behind-the-wheel training, at least 10 hours of which shall be on a public road. For the purpose of meeting this requirement, every 50 minutes of driving time is deemed to be an hour of training.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 7. Commercial Motor Vehicle Safety Program [15200 - 15326]\n#### Article 5. Commercial Driver’s License [15250 - 15263]\n##### § 15250.1\n\n(a) The department shall, no later than June 5, 2020, adopt regulations related to entry-level driver training requirements for drivers of commercial motor vehicles in compliance with the requirements of Parts 380, 383, and 384 of Title 49 of the Code of Federal Regulations.\n\n(b) The department shall require the course of instruction for entry-level drivers to require an applicant for a class A or B commercial driver’s license to complete a minimum of 15 hours of behind-the-wheel training, at least 10 hours of which shall be on a public road. For the purpose of meeting this requirement, every 50 minutes of driving time is deemed to be an hour of training.\n\n*(Added by Stats. 2018, Ch. 984, Sec. 1. (SB 1236) Effective January 1, 2019.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall, no later than June 5, 2020, adopt regulations related to entry-level driver training requirements for drivers of commercial motor vehicles in compliance with the requirements of Parts 380, 383, and 384 of Title 49 of the Code of Federal Regulations.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall require the course of instruction for entry-level drivers to require an applicant for a class A or B commercial driver’s license to complete a minimum of 15 hours of behind-the-wheel training, at least 10 hours of which shall be on a public road. For the purpose of meeting this requirement, every 50 minutes of driving time is deemed to be an hour of training.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2018, Ch. 984, Sec. 1. (SB 1236) Effective January 1, 2019.)",
+    "action": "Added",
+    "statutes_year": 2018,
+    "chapter": "984",
+    "section": "1",
+    "bill_number": "SB 1236",
+    "effective_date": "2019-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2018",
+  "op_chapter": "984",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15250.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15250.1.html",
+  "content_sha256": "376050f28a7ff380a2e81fb0f42a2922b14a1ddbb39a0f1c0a01ecc69b2e6cc2",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38505",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "7",
+  "chapter_title": "All-Terrain Vehicles",
+  "chapter_range": "38500 - 38506",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.5",
+  "text": "A person, on and after January 1, 1989, shall not operate, ride, or be otherwise propelled on an all-terrain vehicle on public lands, as described in Section 38001, unless the person wears a safety helmet meeting requirements established for motorcycles and motorized bicycles, pursuant to Section 27802.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 7. All-Terrain Vehicles [38500 - 38506]\n##### § 38505\n\nA person, on and after January 1, 1989, shall not operate, ride, or be otherwise propelled on an all-terrain vehicle on public lands, as described in Section 38001, unless the person wears a safety helmet meeting requirements established for motorcycles and motorized bicycles, pursuant to Section 27802.\n\n*(Amended by Stats. 2019, Ch. 469, Sec. 10. (SB 785) Effective January 1, 2020.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A person, on and after January 1, 1989, shall not operate, ride, or be otherwise propelled on an all-terrain vehicle on public lands, as described in Section 38001, unless the person wears a safety helmet meeting requirements established for motorcycles and motorized bicycles, pursuant to Section 27802.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2019, Ch. 469, Sec. 10. (SB 785) Effective January 1, 2020.)",
+    "action": "Amended",
+    "statutes_year": 2019,
+    "chapter": "469",
+    "section": "10",
+    "bill_number": "SB 785",
+    "effective_date": "2020-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2019",
+  "op_chapter": "469",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38505.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38505.html",
+  "content_sha256": "587fcd93547cbf5c599a233bb2acbcb9012f83191cd57dadc7462bd3a86663e4",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

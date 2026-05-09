@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35784.5",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "6",
+  "article_title": "Permits and Agreements",
+  "article_range": "35780 - 35796",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.7",
+  "text": "(a) Any person convicted of transporting an extralegal load on a highway, or causing or directing the operation of or driving on a highway any vehicle or combination of vehicles for which a permit is required pursuant to this article, without having obtained a permit issued in accordance with this article, shall be punished by a fine not exceeding five hundred dollars ($500) or by imprisonment in the county jail for a period not exceeding six months, or by both that fine and imprisonment.\n\n(b) If the violation involves excess weight, an additional fine shall be levied as specified in Section 42030 on the amount of weight in excess of that authorized pursuant to this chapter.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 6. Permits and Agreements [35780 - 35796]\n##### § 35784.5\n\n(a) Any person convicted of transporting an extralegal load on a highway, or causing or directing the operation of or driving on a highway any vehicle or combination of vehicles for which a permit is required pursuant to this article, without having obtained a permit issued in accordance with this article, shall be punished by a fine not exceeding five hundred dollars ($500) or by imprisonment in the county jail for a period not exceeding six months, or by both that fine and imprisonment.\n\n(b) If the violation involves excess weight, an additional fine shall be levied as specified in Section 42030 on the amount of weight in excess of that authorized pursuant to this chapter.\n\n*(Added by Stats. 1984, Ch. 542, Sec. 8.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any person convicted of transporting an extralegal load on a highway, or causing or directing the operation of or driving on a highway any vehicle or combination of vehicles for which a permit is required pursuant to this article, without having obtained a permit issued in accordance with this article, shall be punished by a fine not exceeding five hundred dollars ($500) or by imprisonment in the county jail for a period not exceeding six months, or by both that fine and imprisonment.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If the violation involves excess weight, an additional fine shall be levied as specified in Section 42030 on the amount of weight in excess of that authorized pursuant to this chapter.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1984, Ch. 542, Sec. 8.)",
+    "action": "Added",
+    "statutes_year": 1984,
+    "chapter": "542",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "542",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35784.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35784.5.html",
+  "content_sha256": "019dd824f7d86e8d6bbbc883cf3e66c3f371507f27670cc89ecf680689eafcd3",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

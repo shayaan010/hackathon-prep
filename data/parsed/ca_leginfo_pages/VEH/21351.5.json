@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21351.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "1",
+  "article_title": "Erection and Maintenance",
+  "article_range": "21350 - 21376",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.1",
+  "text": "The Department of Transportation or local authorities, with respect to highways under their respective jurisdictions, may erect stop signs to require the traffic on a highway to stop before crossing any railroad grade crossing designated by the agency having jurisdiction of the highway as a major crossing with a demonstrated need for stop signs, except a railroad grade crossing which is controlled by automatic signals, gates, or other train-actuated control devices.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 1. Erection and Maintenance [21350 - 21376]\n##### § 21351.5\n\nThe Department of Transportation or local authorities, with respect to highways under their respective jurisdictions, may erect stop signs to require the traffic on a highway to stop before crossing any railroad grade crossing designated by the agency having jurisdiction of the highway as a major crossing with a demonstrated need for stop signs, except a railroad grade crossing which is controlled by automatic signals, gates, or other train-actuated control devices.\n\n*(Added by Stats. 1974, Ch. 58.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The Department of Transportation or local authorities, with respect to highways under their respective jurisdictions, may erect stop signs to require the traffic on a highway to stop before crossing any railroad grade crossing designated by the agency having jurisdiction of the highway as a major crossing with a demonstrated need for stop signs, except a railroad grade crossing which is controlled by automatic signals, gates, or other train-actuated control devices.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1974, Ch. 58.)",
+    "action": "Added",
+    "statutes_year": 1974,
+    "chapter": "58",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "58",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21351.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21351.5.html",
+  "content_sha256": "9523442b6bb554dd528f2dedc56423bbff4a2238dc6e39e505fb97b4ce0ddabd",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

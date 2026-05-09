@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35553",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "1",
+  "article_title": "Axle Limits",
+  "article_range": "35550 - 35559",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.1",
+  "text": "The provisions of this article shall not apply to any vehicle in the immediate vicinity of an unloading or loading area while actually preparing for or in the process of unloading or loading, provided any overload is incidental to and necessitated by such action; and provided that such action does not occur on a bridge or highway structure.\n\nThis section shall have no application to highways which are a part of the national system of interstate and defense highways (as referred to in subdivision (a) of Section 108 of the Federal-aid Highway Act of 1956).",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 1. Axle Limits [35550 - 35559]\n##### § 35553\n\nThe provisions of this article shall not apply to any vehicle in the immediate vicinity of an unloading or loading area while actually preparing for or in the process of unloading or loading, provided any overload is incidental to and necessitated by such action; and provided that such action does not occur on a bridge or highway structure.\n\nThis section shall have no application to highways which are a part of the national system of interstate and defense highways (as referred to in subdivision (a) of Section 108 of the Federal-aid Highway Act of 1956).\n\n*(Amended by Stats. 1972, Ch. 733.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The provisions of this article shall not apply to any vehicle in the immediate vicinity of an unloading or loading area while actually preparing for or in the process of unloading or loading, provided any overload is incidental to and necessitated by such action; and provided that such action does not occur on a bridge or highway structure.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "This section shall have no application to highways which are a part of the national system of interstate and defense highways (as referred to in subdivision (a) of Section 108 of the Federal-aid Highway Act of 1956).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1972, Ch. 733.)",
+    "action": "Amended",
+    "statutes_year": 1972,
+    "chapter": "733",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1972",
+  "op_chapter": "733",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35553.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35553.html",
+  "content_sha256": "71e1ff1320b4b0a56993e1b67bbcafe31c6188193c9fe31c6f4677d33d35637c",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1806",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "(a) The department shall file all accident reports and abstracts of court records of convictions received under this code, and in connection therewith, shall maintain convenient records or make suitable notations in order that an individual record of each license showing the convictions of the licensee and all traffic accidents in which the individual was involved, except those where, in the opinion of a reporting officer, another individual was at fault, are readily ascertainable. At its discretion the department may file and maintain these accident reports and abstracts by electronic recording and storage media and after transcribing electronically all available data from the accident reports and abstracts of conviction may destroy the original documents. Notwithstanding any other provisions of law, the recorded facts from any electronic recording and storage device maintained by the department shall constitute evidence of the facts in any administrative actions instituted by the department.\n\n(b) When the department receives notification pursuant to subdivision (c) of Section 1872.45 of the Insurance Code, the department shall remove from the license record of each victim any record of his or her involvement in the accident which is the subject of the criminal complaint.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1806\n\n(a) The department shall file all accident reports and abstracts of court records of convictions received under this code, and in connection therewith, shall maintain convenient records or make suitable notations in order that an individual record of each license showing the convictions of the licensee and all traffic accidents in which the individual was involved, except those where, in the opinion of a reporting officer, another individual was at fault, are readily ascertainable. At its discretion the department may file and maintain these accident reports and abstracts by electronic recording and storage media and after transcribing electronically all available data from the accident reports and abstracts of conviction may destroy the original documents. Notwithstanding any other provisions of law, the recorded facts from any electronic recording and storage device maintained by the department shall constitute evidence of the facts in any administrative actions instituted by the department.\n\n(b) When the department receives notification pursuant to subdivision (c) of Section 1872.45 of the Insurance Code, the department shall remove from the license record of each victim any record of his or her involvement in the accident which is the subject of the criminal complaint.\n\n*(Amended by Stats. 1999, Ch. 885, Sec. 9. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall file all accident reports and abstracts of court records of convictions received under this code, and in connection therewith, shall maintain convenient records or make suitable notations in order that an individual record of each license showing the convictions of the licensee and all traffic accidents in which the individual was involved, except those where, in the opinion of a reporting officer, another individual was at fault, are readily ascertainable. At its discretion the department may file and maintain these accident reports and abstracts by electronic recording and storage media and after transcribing electronically all available data from the accident reports and abstracts of conviction may destroy the original documents. Notwithstanding any other provisions of law, the recorded facts from any electronic recording and storage device maintained by the department shall constitute evidence of the facts in any administrative actions instituted by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When the department receives notification pursuant to subdivision (c) of Section 1872.45 of the Insurance Code, the department shall remove from the license record of each victim any record of his or her involvement in the accident which is the subject of the criminal complaint.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 885, Sec. 9. Effective January 1, 2000.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "885",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "885",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1806.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1806.html",
+  "content_sha256": "647ac98cc1c7daf3407d1981e819d1062f48ce432f0ca8e9f424f39a5906822c",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

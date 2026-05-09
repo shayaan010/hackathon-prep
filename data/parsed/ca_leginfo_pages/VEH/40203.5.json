@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40203.5",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "3",
+  "article_title": "Procedure on Parking Violations",
+  "article_range": "40200 - 40230",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.3",
+  "text": "(a) The schedule of parking penalties for parking violations and late payment penalties shall be established by the governing body of the jurisdiction where the notice of violation is issued. To the extent possible, issuing agencies within the same county shall standardize parking penalties.\n\n(b) Parking penalties under this article shall be collected as civil penalties.\n\n(c) (1) Notwithstanding subdivision (a) the penalty for a violation of Section 22507.8 or an ordinance or resolution adopted pursuant to Section 22511.57 shall be not less than two hundred fifty dollars ($250) and not more than one thousand dollars ($1,000).\n\n(2) The issuing agency may suspend the imposition of the penalty in paragraph (1), if the violator, at the time of the offense, possesses but failed to display a valid special identification license plate issued pursuant to Section 5007 or a distinguishing placard issued pursuant to Section 22511.55 or 22511.59.\n\n(3) A penalty imposed pursuant to this subdivision may be paid in installments if the issuing agency determines that the violator is unable to pay the entire amount in one payment.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 3. Procedure on Parking Violations [40200 - 40230]\n##### § 40203.5\n\n(a) The schedule of parking penalties for parking violations and late payment penalties shall be established by the governing body of the jurisdiction where the notice of violation is issued. To the extent possible, issuing agencies within the same county shall standardize parking penalties.\n\n(b) Parking penalties under this article shall be collected as civil penalties.\n\n(c) (1) Notwithstanding subdivision (a) the penalty for a violation of Section 22507.8 or an ordinance or resolution adopted pursuant to Section 22511.57 shall be not less than two hundred fifty dollars ($250) and not more than one thousand dollars ($1,000).\n\n    (2) The issuing agency may suspend the imposition of the penalty in paragraph (1), if the violator, at the time of the offense, possesses but failed to display a valid special identification license plate issued pursuant to Section 5007 or a distinguishing placard issued pursuant to Section 22511.55 or 22511.59.\n\n    (3) A penalty imposed pursuant to this subdivision may be paid in installments if the issuing agency determines that the violator is unable to pay the entire amount in one payment.\n\n*(Amended by Stats. 2009, Ch. 415, Sec. 6. (AB 144) Effective January 1, 2010.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The schedule of parking penalties for parking violations and late payment penalties shall be established by the governing body of the jurisdiction where the notice of violation is issued. To the extent possible, issuing agencies within the same county shall standardize parking penalties.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Parking penalties under this article shall be collected as civil penalties.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "(1) Notwithstanding subdivision (a) the penalty for a violation of Section 22507.8 or an ordinance or resolution adopted pursuant to Section 22511.57 shall be not less than two hundred fifty dollars ($250) and not more than one thousand dollars ($1,000).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The issuing agency may suspend the imposition of the penalty in paragraph (1), if the violator, at the time of the offense, possesses but failed to display a valid special identification license plate issued pursuant to Section 5007 or a distinguishing placard issued pursuant to Section 22511.55 or 22511.59.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "A penalty imposed pursuant to this subdivision may be paid in installments if the issuing agency determines that the violator is unable to pay the entire amount in one payment.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2009, Ch. 415, Sec. 6. (AB 144) Effective January 1, 2010.)",
+    "action": "Amended",
+    "statutes_year": 2009,
+    "chapter": "415",
+    "section": "6",
+    "bill_number": "AB 144",
+    "effective_date": "2010-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2009",
+  "op_chapter": "415",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40203.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40203.5.html",
+  "content_sha256": "5f4af2d88613c1cf7e8479670f249363257a0c5cf1748e122b4a27b272d5e2f7",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

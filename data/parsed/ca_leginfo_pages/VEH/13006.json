@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13006",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "5",
+  "article_title": "Identification Cards",
+  "article_range": "13000 - 13008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.5",
+  "text": "No public entity or employee shall be liable for any loss or injury resulting directly or indirectly from false or inaccurate information contained in identification cards provided for in this article.\n\nNo public entity or employee shall be liable for any loss, detriment, or injury resulting directly or indirectly from false or inaccurate information contained in the sticker provided pursuant to subdivision (b) of Section 13005.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 5. Identification Cards [13000 - 13008]\n##### § 13006\n\nNo public entity or employee shall be liable for any loss or injury resulting directly or indirectly from false or inaccurate information contained in identification cards provided for in this article.\n\nNo public entity or employee shall be liable for any loss, detriment, or injury resulting directly or indirectly from false or inaccurate information contained in the sticker provided pursuant to subdivision (b) of Section 13005.\n\n*(Amended by Stats. 1975, Ch. 325.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No public entity or employee shall be liable for any loss or injury resulting directly or indirectly from false or inaccurate information contained in identification cards provided for in this article.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "No public entity or employee shall be liable for any loss, detriment, or injury resulting directly or indirectly from false or inaccurate information contained in the sticker provided pursuant to subdivision (b) of Section 13005.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1975, Ch. 325.)",
+    "action": "Amended",
+    "statutes_year": 1975,
+    "chapter": "325",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "325",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13006.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13006.html",
+  "content_sha256": "77339f9addb8197c729d71bb3f97c2b89b06dc29dfb58332c110ab408725aaf8",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

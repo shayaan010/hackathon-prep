@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "17000",
+  "division": "9",
+  "division_title": "CIVIL LIABILITY",
+  "division_range": "17000 - 17714",
+  "chapter": "1",
+  "chapter_title": "Civil Liability of Owners and Operators of Vehicles",
+  "chapter_range": "17000 - 17463",
+  "article": "1",
+  "article_title": "Public Agencies",
+  "article_range": "17000 - 17004.7",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "13.1.1",
+  "text": "As used in this chapter:\n\n(a) “Employee” includes an officer, employee, or servant, whether or not compensated, but does not include an independent contractor.\n\n(b) “Employment” includes office or employment.\n\n(c) “Public entity” includes the state, the Regents of the University of California, a county, city, district, public authority, public agency, and any other political subdivision or public corporation in the state.",
+  "markdown": "# Vehicle Code\n## Division 9. CIVIL LIABILITY [17000 - 17714]\n### Chapter 1. Civil Liability of Owners and Operators of Vehicles [17000 - 17463]\n#### Article 1. Public Agencies [17000 - 17004.7]\n##### § 17000\n\nAs used in this chapter:\n\n(a) “Employee” includes an officer, employee, or servant, whether or not compensated, but does not include an independent contractor.\n\n(b) “Employment” includes office or employment.\n\n(c) “Public entity” includes the state, the Regents of the University of California, a county, city, district, public authority, public agency, and any other political subdivision or public corporation in the state.\n\n*(Amended by Stats. 1965, Ch. 1527.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "As used in this chapter:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "“Employee” includes an officer, employee, or servant, whether or not compensated, but does not include an independent contractor.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "“Employment” includes office or employment.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "“Public entity” includes the state, the Regents of the University of California, a county, city, district, public authority, public agency, and any other political subdivision or public corporation in the state.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1965, Ch. 1527.)",
+    "action": "Amended",
+    "statutes_year": 1965,
+    "chapter": "1527",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1965",
+  "op_chapter": "1527",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17000.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/17000.html",
+  "content_sha256": "f40ec63fc70725222316291526adb09765e925802e3fc85384d96082845ce74a",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

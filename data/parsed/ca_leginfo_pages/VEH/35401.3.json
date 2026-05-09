@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35401.3",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "4",
+  "chapter_title": "Length",
+  "chapter_range": "35400 - 35414",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.4",
+  "text": "(a) Notwithstanding subdivisions (a) and (b) of Section 35401, a combination of vehicles designed and used to transport motor vehicles, camper units, or boats, which consists of a motortruck and stinger-steered semitrailer, shall be allowed a length of up to 70 feet if the kingpin is at least 3 feet behind the rear drive axle of the motortruck. This combination shall not be subject to subdivision (a) of Section 35411, but the load upon the rear vehicle of the combination shall not extend more than 6 feet 6 inches beyond the allowable length of the vehicle.\n\n(b) A combination of vehicles designed and used to transport motor vehicles, camper units, or boats, which consists of a motortruck and stinger-steered semitrailer, shall be allowed a length of up to 75 feet if all of the following conditions are maintained:\n\n(1) The distance from the steering axle to the rear drive axle of the motortruck does not exceed 24 feet.\n\n(2) The kingpin is at least 5 feet behind the rear drive axle of the motortruck.\n\n(3) The distance from the kingpin to the rear axle of the semitrailer does not exceed 34 feet except that the distance from the kingpin to the rear axle of a triple axle semitrailer does not exceed 36 feet.\n\nThis combination shall not be subject to subdivision (a) of Section 35411, but the load upon the rear vehicle of the combination shall not extend more than 6 feet 6 inches beyond the allowable length of the vehicle.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 4. Length [35400 - 35414]\n##### § 35401.3\n\n(a) Notwithstanding subdivisions (a) and (b) of Section 35401, a combination of vehicles designed and used to transport motor vehicles, camper units, or boats, which consists of a motortruck and stinger-steered semitrailer, shall be allowed a length of up to 70 feet if the kingpin is at least 3 feet behind the rear drive axle of the motortruck. This combination shall not be subject to subdivision (a) of Section 35411, but the load upon the rear vehicle of the combination shall not extend more than 6 feet 6 inches beyond the allowable length of the vehicle.\n\n(b) A combination of vehicles designed and used to transport motor vehicles, camper units, or boats, which consists of a motortruck and stinger-steered semitrailer, shall be allowed a length of up to 75 feet if all of the following conditions are maintained:\n\n    (1) The distance from the steering axle to the rear drive axle of the motortruck does not exceed 24 feet.\n\n    (2) The kingpin is at least 5 feet behind the rear drive axle of the motortruck.\n\n    (3) The distance from the kingpin to the rear axle of the semitrailer does not exceed 34 feet except that the distance from the kingpin to the rear axle of a triple axle semitrailer does not exceed 36 feet.\n\nThis combination shall not be subject to subdivision (a) of Section 35411, but the load upon the rear vehicle of the combination shall not extend more than 6 feet 6 inches beyond the allowable length of the vehicle.\n\n*(Amended by Stats. 2000, Ch. 860, Sec. 11. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Notwithstanding subdivisions (a) and (b) of Section 35401, a combination of vehicles designed and used to transport motor vehicles, camper units, or boats, which consists of a motortruck and stinger-steered semitrailer, shall be allowed a length of up to 70 feet if the kingpin is at least 3 feet behind the rear drive axle of the motortruck. This combination shall not be subject to subdivision (a) of Section 35411, but the load upon the rear vehicle of the combination shall not extend more than 6 feet 6 inches beyond the allowable length of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A combination of vehicles designed and used to transport motor vehicles, camper units, or boats, which consists of a motortruck and stinger-steered semitrailer, shall be allowed a length of up to 75 feet if all of the following conditions are maintained:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The distance from the steering axle to the rear drive axle of the motortruck does not exceed 24 feet.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The kingpin is at least 5 feet behind the rear drive axle of the motortruck.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The distance from the kingpin to the rear axle of the semitrailer does not exceed 34 feet except that the distance from the kingpin to the rear axle of a triple axle semitrailer does not exceed 36 feet.",
+      "depth_em": 1.0
+    },
+    {
+      "label": null,
+      "text": "This combination shall not be subject to subdivision (a) of Section 35411, but the load upon the rear vehicle of the combination shall not extend more than 6 feet 6 inches beyond the allowable length of the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2000, Ch. 860, Sec. 11. Effective January 1, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2000,
+    "chapter": "860",
+    "section": "11",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "860",
+  "op_section": "11",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35401.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35401.3.html",
+  "content_sha256": "c5d8a268749ed09ecf437970fdfb609c7f1507ee3e19aa8aff11b570bcadccfc",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

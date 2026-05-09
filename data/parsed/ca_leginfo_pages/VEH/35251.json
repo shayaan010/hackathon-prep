@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35251",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "3",
+  "chapter_title": "Height",
+  "chapter_range": "35250 - 35252",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.3",
+  "text": "(a) A boom or mast which is designed to be raised and lowered by hydraulic mechanisms and which is a constituent part of or an attachment to a vehicle or machine, shall be securely chained or otherwise restrained to ensure compliance with Section 35250 while the vehicle or machine is being transported as a load or driven upon any highway.\n\n(b) Subdivision (a) does not apply when the configuration and design of the hydraulic boom effectively restrain the movement of the boom during transit.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 3. Height [35250 - 35252]\n##### § 35251\n\n(a) A boom or mast which is designed to be raised and lowered by hydraulic mechanisms and which is a constituent part of or an attachment to a vehicle or machine, shall be securely chained or otherwise restrained to ensure compliance with Section 35250 while the vehicle or machine is being transported as a load or driven upon any highway.\n\n(b) Subdivision (a) does not apply when the configuration and design of the hydraulic boom effectively restrain the movement of the boom during transit.\n\n*(Amended by Stats. 1994, Ch. 704, Sec. 21. Effective January 1, 1995.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A boom or mast which is designed to be raised and lowered by hydraulic mechanisms and which is a constituent part of or an attachment to a vehicle or machine, shall be securely chained or otherwise restrained to ensure compliance with Section 35250 while the vehicle or machine is being transported as a load or driven upon any highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Subdivision (a) does not apply when the configuration and design of the hydraulic boom effectively restrain the movement of the boom during transit.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 704, Sec. 21. Effective January 1, 1995.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "704",
+    "section": "21",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "704",
+  "op_section": "21",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35251.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35251.html",
+  "content_sha256": "d5cb904110a9a8db9a995958de47cb919d0b8166d9a6cc382069bb595b7dd7c7",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

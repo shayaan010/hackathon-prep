@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9564",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "4",
+  "article_title": "Payment of Fees",
+  "article_range": "9550 - 9564",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.4",
+  "text": "(a) A scrap metal processor, as described in paragraph (3) of subdivision (a) of Section 221, who acquires a vehicle of a type subject to registration under this code, and who complies with all the provisions of this section, is not required to submit a certificate of nonoperation in lieu of fees or to pay fees that would otherwise be required if the vehicle were to be currently registered.\n\n(b) A scrap metal processor who acquires a vehicle as provided in subdivision (a) shall submit either of the following to the department before reducing the vehicle to its component materials:\n\n(1) Documentation that the vehicle was acquired pursuant to Section 22669 and disposed of in compliance with Article 2 (commencing with Section 22850) of Chapter 10 of Division 11.\n\n(2) The properly endorsed certificate of title transferring title to the scrap iron processor and any available license plates or registration documents.\n\n(c) A vehicle delivered to a scrap metal processor under subdivision (a) shall not be reconstructed or made operable, unless it is a vehicle which qualifies for either horseless carriage license plates or historical vehicle license plates pursuant to Section 5004, in which case the vehicle may be reconstructed or made operable.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 4. Payment of Fees [9550 - 9564]\n##### § 9564\n\n(a) A scrap metal processor, as described in paragraph (3) of subdivision (a) of Section 221, who acquires a vehicle of a type subject to registration under this code, and who complies with all the provisions of this section, is not required to submit a certificate of nonoperation in lieu of fees or to pay fees that would otherwise be required if the vehicle were to be currently registered.\n\n(b) A scrap metal processor who acquires a vehicle as provided in subdivision (a) shall submit either of the following to the department before reducing the vehicle to its component materials:\n\n    (1) Documentation that the vehicle was acquired pursuant to Section 22669 and disposed of in compliance with Article 2 (commencing with Section 22850) of Chapter 10 of Division 11.\n\n    (2) The properly endorsed certificate of title transferring title to the scrap iron processor and any available license plates or registration documents.\n\n(c) A vehicle delivered to a scrap metal processor under subdivision (a) shall not be reconstructed or made operable, unless it is a vehicle which qualifies for either horseless carriage license plates or historical vehicle license plates pursuant to Section 5004, in which case the vehicle may be reconstructed or made operable.\n\n*(Amended by Stats. 1999, Ch. 316, Sec. 2. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A scrap metal processor, as described in paragraph (3) of subdivision (a) of Section 221, who acquires a vehicle of a type subject to registration under this code, and who complies with all the provisions of this section, is not required to submit a certificate of nonoperation in lieu of fees or to pay fees that would otherwise be required if the vehicle were to be currently registered.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A scrap metal processor who acquires a vehicle as provided in subdivision (a) shall submit either of the following to the department before reducing the vehicle to its component materials:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Documentation that the vehicle was acquired pursuant to Section 22669 and disposed of in compliance with Article 2 (commencing with Section 22850) of Chapter 10 of Division 11.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The properly endorsed certificate of title transferring title to the scrap iron processor and any available license plates or registration documents.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "A vehicle delivered to a scrap metal processor under subdivision (a) shall not be reconstructed or made operable, unless it is a vehicle which qualifies for either horseless carriage license plates or historical vehicle license plates pursuant to Section 5004, in which case the vehicle may be reconstructed or made operable.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 316, Sec. 2. Effective January 1, 2000.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "316",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "316",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9564.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9564.html",
+  "content_sha256": "5ab763dd3fe6d0370a63348f3342adea4bd92334ae855722635778a9435b3050",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

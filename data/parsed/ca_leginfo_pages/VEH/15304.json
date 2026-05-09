@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15304",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "7",
+  "chapter_title": "Commercial Motor Vehicle Safety Program",
+  "chapter_range": "15200 - 15326",
+  "article": "7",
+  "article_title": "Sanctions",
+  "article_range": "15300 - 15326",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.7.7",
+  "text": "(a) A driver may not operate a commercial motor vehicle for the rest of his or her life who uses a motor vehicle in the commission of a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.\n\n(b) This section shall become operative on September 20, 2005.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 7. Commercial Motor Vehicle Safety Program [15200 - 15326]\n#### Article 7. Sanctions [15300 - 15326]\n##### § 15304\n\n(a) A driver may not operate a commercial motor vehicle for the rest of his or her life who uses a motor vehicle in the commission of a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.\n\n(b) This section shall become operative on September 20, 2005.\n\n*(Amended by Stats. 2004, Ch. 952, Sec. 19. Effective January 1, 2005. Amended version operative September 20, 2005, pursuant to earlier operation of new subdivision (b).)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A driver may not operate a commercial motor vehicle for the rest of his or her life who uses a motor vehicle in the commission of a felony involving manufacturing, distributing, or dispensing a controlled substance, or possession with intent to manufacture, distribute, or dispense a controlled substance.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section shall become operative on September 20, 2005.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 952, Sec. 19. Effective January 1, 2005. Amended version operative September 20, 2005, pursuant to earlier operation of new subdivision (b).)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "952",
+    "section": "19",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "952",
+  "op_section": "19",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15304.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15304.html",
+  "content_sha256": "d2d28f45ffe0d3023fba434109f01e3ac2ad10a08d514bf95c9e8f02cc5503fb",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

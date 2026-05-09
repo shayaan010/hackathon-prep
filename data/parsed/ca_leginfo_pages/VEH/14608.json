@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "14608",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "4",
+  "chapter_title": "Violation of License Provisions",
+  "chapter_range": "14600 - 14611",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.4",
+  "text": "(a) A person shall not rent a motor vehicle to another person unless both of the following requirements have been met:\n\n(1) The person to whom the vehicle is rented is licensed under this code or is a nonresident who is licensed under the laws of the state or country of his or her residence.\n\n(2) The person renting to another person has inspected the driver’s license of the person to whom the vehicle is to be rented and compared either the signature thereon with that of the person to whom the vehicle is to be rented or the photograph thereon with the person to whom the vehicle is to be rented.\n\n(b) This section does not prohibit a blind or disabled person who is a nondriver from renting a motor vehicle if both of the following conditions exist at the time of rental:\n\n(1) The blind or disabled person either holds an identification card issued pursuant to this code or is not a resident of this state.\n\n(2) The blind or disabled person has a driver present who is either licensed to drive a vehicle pursuant to this code or is a nonresident licensed to drive a vehicle pursuant to the laws of the state or country of the driver’s residence.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 4. Violation of License Provisions [14600 - 14611]\n##### § 14608\n\n(a) A person shall not rent a motor vehicle to another person unless both of the following requirements have been met:\n\n    (1) The person to whom the vehicle is rented is licensed under this code or is a nonresident who is licensed under the laws of the state or country of his or her residence.\n\n    (2) The person renting to another person has inspected the driver’s license of the person to whom the vehicle is to be rented and compared either the signature thereon with that of the person to whom the vehicle is to be rented or the photograph thereon with the person to whom the vehicle is to be rented.\n\n(b) This section does not prohibit a blind or disabled person who is a nondriver from renting a motor vehicle if both of the following conditions exist at the time of rental:\n\n    (1) The blind or disabled person either holds an identification card issued pursuant to this code or is not a resident of this state.\n\n    (2) The blind or disabled person has a driver present who is either licensed to drive a vehicle pursuant to this code or is a nonresident licensed to drive a vehicle pursuant to the laws of the state or country of the driver’s residence.\n\n*(Amended by Stats. 2012, Ch. 862, Sec. 4. (AB 2189) Effective January 1, 2013.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person shall not rent a motor vehicle to another person unless both of the following requirements have been met:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The person to whom the vehicle is rented is licensed under this code or is a nonresident who is licensed under the laws of the state or country of his or her residence.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The person renting to another person has inspected the driver’s license of the person to whom the vehicle is to be rented and compared either the signature thereon with that of the person to whom the vehicle is to be rented or the photograph thereon with the person to whom the vehicle is to be rented.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not prohibit a blind or disabled person who is a nondriver from renting a motor vehicle if both of the following conditions exist at the time of rental:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The blind or disabled person either holds an identification card issued pursuant to this code or is not a resident of this state.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The blind or disabled person has a driver present who is either licensed to drive a vehicle pursuant to this code or is a nonresident licensed to drive a vehicle pursuant to the laws of the state or country of the driver’s residence.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2012, Ch. 862, Sec. 4. (AB 2189) Effective January 1, 2013.)",
+    "action": "Amended",
+    "statutes_year": 2012,
+    "chapter": "862",
+    "section": "4",
+    "bill_number": "AB 2189",
+    "effective_date": "2013-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2012",
+  "op_chapter": "862",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=14608.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/14608.html",
+  "content_sha256": "cbd4acfe61588e9386f213a4a4465f7aac7fe06cc236f86337deb4139c744119",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

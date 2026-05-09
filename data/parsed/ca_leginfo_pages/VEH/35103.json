@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35103",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "2",
+  "chapter_title": "Width",
+  "chapter_range": "35100 - 35111",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.2",
+  "text": "(a) A vehicle used for recreational purposes may exceed the maximum width established under Section 35100 if the excess width is attributable to an appurtenance, excluding a safety device, that does not exceed six inches beyond either sidewall of the vehicle.\n\n(b) For the purposes of subdivision (a), an appurtenance is an integral part of a vehicle and includes, but is not limited to, awnings, grab handles, lighting equipment, cameras, and vents. An appurtenance may not be used as a load carrying device.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 2. Width [35100 - 35111]\n##### § 35103\n\n(a) A vehicle used for recreational purposes may exceed the maximum width established under Section 35100 if the excess width is attributable to an appurtenance, excluding a safety device, that does not exceed six inches beyond either sidewall of the vehicle.\n\n(b) For the purposes of subdivision (a), an appurtenance is an integral part of a vehicle and includes, but is not limited to, awnings, grab handles, lighting equipment, cameras, and vents. An appurtenance may not be used as a load carrying device.\n\n*(Added by Stats. 2003, Ch. 222, Sec. 3. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A vehicle used for recreational purposes may exceed the maximum width established under Section 35100 if the excess width is attributable to an appurtenance, excluding a safety device, that does not exceed six inches beyond either sidewall of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For the purposes of subdivision (a), an appurtenance is an integral part of a vehicle and includes, but is not limited to, awnings, grab handles, lighting equipment, cameras, and vents. An appurtenance may not be used as a load carrying device.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2003, Ch. 222, Sec. 3. Effective January 1, 2004.)",
+    "action": "Added",
+    "statutes_year": 2003,
+    "chapter": "222",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "222",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35103.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35103.html",
+  "content_sha256": "57b0e45061051b596b15868e8ce19d24253440f783117fb1fc0bbc9f086e2d69",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

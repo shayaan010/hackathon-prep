@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11703.2",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "4",
+  "chapter_title": "Manufacturers, Transporters, Dealers, and Salesmen",
+  "chapter_range": "11700 - 11909",
+  "article": "1",
+  "article_title": "Issuance of Licenses and Certificates to Manufacturers, Transporters, and Dealers",
+  "article_range": "11700 - 11740",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.7.1",
+  "text": "The department may refuse to issue a license to a manufacturer, manufacturer branch, remanufacturer, remanufacturer branch, distributor, distributor branch, transporter, or dealer, when the department determines that either of the following apply to the applicant:\n\n(a) An outstanding and unsatisfied final judgment rendered against the applicant exists in connection with the purchase, sale, or lease of any vehicle.\n\n(b) An outstanding and unsatisfied restitution order issued against the applicant under subdivision (a) of Section 11519.1 of the Government Code exists.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 4. Manufacturers, Transporters, Dealers, and Salesmen [11700 - 11909]\n#### Article 1. Issuance of Licenses and Certificates to Manufacturers, Transporters, and Dealers [11700 - 11740]\n##### § 11703.2\n\nThe department may refuse to issue a license to a manufacturer, manufacturer branch, remanufacturer, remanufacturer branch, distributor, distributor branch, transporter, or dealer, when the department determines that either of the following apply to the applicant:\n\n(a) An outstanding and unsatisfied final judgment rendered against the applicant exists in connection with the purchase, sale, or lease of any vehicle.\n\n(b) An outstanding and unsatisfied restitution order issued against the applicant under subdivision (a) of Section 11519.1 of the Government Code exists.\n\n*(Amended by Stats. 2007, Ch. 93, Sec. 2. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department may refuse to issue a license to a manufacturer, manufacturer branch, remanufacturer, remanufacturer branch, distributor, distributor branch, transporter, or dealer, when the department determines that either of the following apply to the applicant:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "An outstanding and unsatisfied final judgment rendered against the applicant exists in connection with the purchase, sale, or lease of any vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An outstanding and unsatisfied restitution order issued against the applicant under subdivision (a) of Section 11519.1 of the Government Code exists.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2007, Ch. 93, Sec. 2. Effective January 1, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2007,
+    "chapter": "93",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "93",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11703.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11703.2.html",
+  "content_sha256": "f908ba91773ed77806b1acd9d4e9b1a7ccc74d87c993b64939ca2fae69383587",
+  "parsed_at": "2026-05-09T17:53:44+00:00",
+  "parser_version": "1"
+}

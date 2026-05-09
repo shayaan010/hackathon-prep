@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12501",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "1",
+  "article_title": "Persons Required to Be Licensed, Exemptions, and Age Limits",
+  "article_range": "12500 - 12527",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.1",
+  "text": "The following persons are not required to obtain a driver’s license:\n\n(a) An officer or employee of the United States, while operating a motor vehicle owned or controlled by the United States on the business of the United States, except when the motor vehicle being operated is a commercial motor vehicle, as defined in Section 15210.\n\n(b) Any person while driving or operating implements of husbandry incidentally operated or moved over a highway, except as provided in Section 36300 or 36305.\n\n(c) Any person driving or operating an off-highway motor vehicle subject to identification, as defined in Section 38012, while driving or operating such motor vehicle as provided in Section 38025. Nothing in this subdivision authorizes operation of a motor vehicle by a person without a valid driver’s license upon any offstreet parking facility, as defined in subdivision (c) of Section 12500.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 1. Persons Required to Be Licensed, Exemptions, and Age Limits [12500 - 12527]\n##### § 12501\n\nThe following persons are not required to obtain a driver’s license:\n\n(a) An officer or employee of the United States, while operating a motor vehicle owned or controlled by the United States on the business of the United States, except when the motor vehicle being operated is a commercial motor vehicle, as defined in Section 15210.\n\n(b) Any person while driving or operating implements of husbandry incidentally operated or moved over a highway, except as provided in Section 36300 or 36305.\n\n(c) Any person driving or operating an off-highway motor vehicle subject to identification, as defined in Section 38012, while driving or operating such motor vehicle as provided in Section 38025. Nothing in this subdivision authorizes operation of a motor vehicle by a person without a valid driver’s license upon any offstreet parking facility, as defined in subdivision (c) of Section 12500.\n\n*(Amended by Stats. 1990, Ch. 1360, Sec. 10.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The following persons are not required to obtain a driver’s license:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "An officer or employee of the United States, while operating a motor vehicle owned or controlled by the United States on the business of the United States, except when the motor vehicle being operated is a commercial motor vehicle, as defined in Section 15210.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any person while driving or operating implements of husbandry incidentally operated or moved over a highway, except as provided in Section 36300 or 36305.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any person driving or operating an off-highway motor vehicle subject to identification, as defined in Section 38012, while driving or operating such motor vehicle as provided in Section 38025. Nothing in this subdivision authorizes operation of a motor vehicle by a person without a valid driver’s license upon any offstreet parking facility, as defined in subdivision (c) of Section 12500.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1990, Ch. 1360, Sec. 10.)",
+    "action": "Amended",
+    "statutes_year": 1990,
+    "chapter": "1360",
+    "section": "10",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1990",
+  "op_chapter": "1360",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12501.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12501.html",
+  "content_sha256": "a5271fc3fdb8a1493e8e38749aaa91559faa165a543fce756ce6f0d8a30ef585",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

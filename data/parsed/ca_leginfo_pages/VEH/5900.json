@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5900",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "2",
+  "chapter_title": "Transfers of Title or Interest",
+  "chapter_range": "5600 - 6105",
+  "article": "3",
+  "article_title": "Notice and Application",
+  "article_range": "5900 - 5912",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.2.3",
+  "text": "(a) Whenever the owner of a vehicle registered under this code sells or transfers his or her title or interest in, and delivers the possession of, the vehicle to another, the owner shall, within five calendar days, notify the department of the sale or transfer giving the date thereof, the name and address of the owner and of the transferee, and the description of the vehicle that is required in the appropriate form provided for that purpose by the department.\n\n(b) Except as otherwise provided in subdivision (c), pursuant to subsection (a) of Section 32705 of Title 49 of the United States Code, the owner shall also notify the department of the actual mileage of the vehicle as indicated by the vehicle’s odometer at the time of sale or transfer. However, if the vehicle owner has knowledge that the mileage displayed on the odometer is incorrect, the owner shall indicate on the appropriate form the true mileage, if known, of the vehicle at the time of sale or transfer.\n\nProviding false or inaccurate mileage is not a violation of this subdivision unless it is done with the intent to defraud.\n\n(c) If the registered owner is not in possession of the vehicle that is sold or transferred, the person in physical possession of that vehicle shall give the notice required by subdivisions (a) and (b). If the registered owner sells or transfers the vehicle through a dealer conducting a wholesale motor vehicle auction, the owner shall furnish the information required by subdivisions (a) and (b) to that dealer.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 2. Transfers of Title or Interest [5600 - 6105]\n#### Article 3. Notice and Application [5900 - 5912]\n##### § 5900\n\n(a) Whenever the owner of a vehicle registered under this code sells or transfers his or her title or interest in, and delivers the possession of, the vehicle to another, the owner shall, within five calendar days, notify the department of the sale or transfer giving the date thereof, the name and address of the owner and of the transferee, and the description of the vehicle that is required in the appropriate form provided for that purpose by the department.\n\n(b) Except as otherwise provided in subdivision (c), pursuant to subsection (a) of Section 32705 of Title 49 of the United States Code, the owner shall also notify the department of the actual mileage of the vehicle as indicated by the vehicle’s odometer at the time of sale or transfer. However, if the vehicle owner has knowledge that the mileage displayed on the odometer is incorrect, the owner shall indicate on the appropriate form the true mileage, if known, of the vehicle at the time of sale or transfer.\n\nProviding false or inaccurate mileage is not a violation of this subdivision unless it is done with the intent to defraud.\n\n(c) If the registered owner is not in possession of the vehicle that is sold or transferred, the person in physical possession of that vehicle shall give the notice required by subdivisions (a) and (b). If the registered owner sells or transfers the vehicle through a dealer conducting a wholesale motor vehicle auction, the owner shall furnish the information required by subdivisions (a) and (b) to that dealer.\n\n*(Amended by Stats. 2000, Ch. 1035, Sec. 11. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever the owner of a vehicle registered under this code sells or transfers his or her title or interest in, and delivers the possession of, the vehicle to another, the owner shall, within five calendar days, notify the department of the sale or transfer giving the date thereof, the name and address of the owner and of the transferee, and the description of the vehicle that is required in the appropriate form provided for that purpose by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Except as otherwise provided in subdivision (c), pursuant to subsection (a) of Section 32705 of Title 49 of the United States Code, the owner shall also notify the department of the actual mileage of the vehicle as indicated by the vehicle’s odometer at the time of sale or transfer. However, if the vehicle owner has knowledge that the mileage displayed on the odometer is incorrect, the owner shall indicate on the appropriate form the true mileage, if known, of the vehicle at the time of sale or transfer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Providing false or inaccurate mileage is not a violation of this subdivision unless it is done with the intent to defraud.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "If the registered owner is not in possession of the vehicle that is sold or transferred, the person in physical possession of that vehicle shall give the notice required by subdivisions (a) and (b). If the registered owner sells or transfers the vehicle through a dealer conducting a wholesale motor vehicle auction, the owner shall furnish the information required by subdivisions (a) and (b) to that dealer.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2000, Ch. 1035, Sec. 11. Effective January 1, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2000,
+    "chapter": "1035",
+    "section": "11",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "1035",
+  "op_section": "11",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5900.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5900.html",
+  "content_sha256": "a3d4844921a7034f5b1c1c7c016499e55bbe3167632925f3fe4d49cda4dc5ab3",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

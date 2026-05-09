@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24007.1",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "1",
+  "chapter_title": "General Provisions",
+  "chapter_range": "24000 - 24020",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.1",
+  "text": "(a) The manufacturer of equipment used in the assembly of an authorized emergency vehicle, as defined in Section 165, used by a local public fire service agency shall, upon request of the fire department, reimburse the agency for the cost of repairs to the vehicle if (1) the repair was made to correct a manufacturer’s defect, and (2) the vehicle is placed on a safety-related recall to correct that defect.\n\n(b) A final stage equipment manufacturer is deemed to be an original equipment manufacturer in the event of a warranty dispute with a local public fire service agency regarding the failure of component parts used in the assembly of the agency’s authorized emergency vehicle. As used in this section, “final stage equipment manufacturer” means the manufacturer who assembles the authorized emergency vehicle from one or more components supplied by other manufacturers.\n\n(c) The Legislature finds and declares that local public fire service agencies of this state are entitled to safe and efficient use of their equipment, and that defects in emergency equipment, especially emergency vehicles, endanger the firefighters of California and the public they serve. It is the intent of the Legislature to ensure that these defects are repaired as expeditiously as possible and with no expense to the local public fire service agencies.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 1. General Provisions [24000 - 24020]\n##### § 24007.1\n\n(a) The manufacturer of equipment used in the assembly of an authorized emergency vehicle, as defined in Section 165, used by a local public fire service agency shall, upon request of the fire department, reimburse the agency for the cost of repairs to the vehicle if (1) the repair was made to correct a manufacturer’s defect, and (2) the vehicle is placed on a safety-related recall to correct that defect.\n\n(b) A final stage equipment manufacturer is deemed to be an original equipment manufacturer in the event of a warranty dispute with a local public fire service agency regarding the failure of component parts used in the assembly of the agency’s authorized emergency vehicle. As used in this section, “final stage equipment manufacturer” means the manufacturer who assembles the authorized emergency vehicle from one or more components supplied by other manufacturers.\n\n(c) The Legislature finds and declares that local public fire service agencies of this state are entitled to safe and efficient use of their equipment, and that defects in emergency equipment, especially emergency vehicles, endanger the firefighters of California and the public they serve. It is the intent of the Legislature to ensure that these defects are repaired as expeditiously as possible and with no expense to the local public fire service agencies.\n\n*(Added by Stats. 1994, Ch. 1220, Sec. 65. Effective September 30, 1994.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The manufacturer of equipment used in the assembly of an authorized emergency vehicle, as defined in Section 165, used by a local public fire service agency shall, upon request of the fire department, reimburse the agency for the cost of repairs to the vehicle if (1) the repair was made to correct a manufacturer’s defect, and (2) the vehicle is placed on a safety-related recall to correct that defect.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A final stage equipment manufacturer is deemed to be an original equipment manufacturer in the event of a warranty dispute with a local public fire service agency regarding the failure of component parts used in the assembly of the agency’s authorized emergency vehicle. As used in this section, “final stage equipment manufacturer” means the manufacturer who assembles the authorized emergency vehicle from one or more components supplied by other manufacturers.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The Legislature finds and declares that local public fire service agencies of this state are entitled to safe and efficient use of their equipment, and that defects in emergency equipment, especially emergency vehicles, endanger the firefighters of California and the public they serve. It is the intent of the Legislature to ensure that these defects are repaired as expeditiously as possible and with no expense to the local public fire service agencies.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1994, Ch. 1220, Sec. 65. Effective September 30, 1994.)",
+    "action": "Added",
+    "statutes_year": 1994,
+    "chapter": "1220",
+    "section": "65",
+    "bill_number": null,
+    "effective_date": "1994-09-30",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "1220",
+  "op_section": "65",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24007.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24007.1.html",
+  "content_sha256": "99921e78f3f9df3014ed846c2afb90fca14e5e0d715682f1bd680bf2ae7b43e8",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

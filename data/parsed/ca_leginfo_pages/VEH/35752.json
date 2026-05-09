@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35752",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "5",
+  "article_title": "Bridges and Other Structures",
+  "article_range": "35750 - 35755",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.6",
+  "text": "Thereupon, the authority having jurisdiction over the bridge or other structure shall erect and maintain suitable signs specifying the maximum weight so determined, at a distance of not more than 500 feet from each end of the bridge or other structure or any approach thereto.\n\nThe standards and specifications for such signs shall be established in accordance with Section 21400 of this code.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 5. Bridges and Other Structures [35750 - 35755]\n##### § 35752\n\nThereupon, the authority having jurisdiction over the bridge or other structure shall erect and maintain suitable signs specifying the maximum weight so determined, at a distance of not more than 500 feet from each end of the bridge or other structure or any approach thereto.\n\nThe standards and specifications for such signs shall be established in accordance with Section 21400 of this code.\n\n*(Amended by Stats. 1969, Ch. 1033.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Thereupon, the authority having jurisdiction over the bridge or other structure shall erect and maintain suitable signs specifying the maximum weight so determined, at a distance of not more than 500 feet from each end of the bridge or other structure or any approach thereto.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The standards and specifications for such signs shall be established in accordance with Section 21400 of this code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1969, Ch. 1033.)",
+    "action": "Amended",
+    "statutes_year": 1969,
+    "chapter": "1033",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1969",
+  "op_chapter": "1033",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35752.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35752.html",
+  "content_sha256": "0df90413e67d44cd93b6c144d182ad00e73b514e81faefd477f8bf6950ff26b8",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,87 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22851.2",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "10",
+  "chapter_title": "Removal of Parked and Abandoned Vehicles",
+  "chapter_range": "22650 - 22856",
+  "article": "2",
+  "article_title": "Vehicle Disposition",
+  "article_range": "22850 - 22856",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.10.2",
+  "text": "(a) Excepting a vehicle removed pursuant to Section 22669, if the vehicle is determined to have a value not exceeding five hundred dollars ($500) pursuant to Section 22670, the public agency that removed the vehicle shall do all of the following:\n\n(1) Within 48 hours after removal of the vehicle, notify the Stolen Vehicle System of the Department of Justice in Sacramento of the removal.\n\n(2) Prepare and give to the lienholder a report that includes all of the following:\n\n(A) The value of the vehicle estimated pursuant to Section 22670.\n\n(B) The identification of the estimator.\n\n(C) The location of the vehicle.\n\n(D) A description of the vehicle, including the make, year model, identification number, license number, state of registration, and, if a motorcycle, an engine number.\n\n(E) The statutory authority for storage.\n\n(b) If the vehicle is in a condition that there is no means of determining ownership, the public agency that removed the vehicle may give authorization to dispose of the vehicle. If authorization for disposal is not issued, a vehicle identification number shall be assigned prior to commencing the lien sale proceedings.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 10. Removal of Parked and Abandoned Vehicles [22650 - 22856]\n#### Article 2. Vehicle Disposition [22850 - 22856]\n##### § 22851.2\n\n(a) Excepting a vehicle removed pursuant to Section 22669, if the vehicle is determined to have a value not exceeding five hundred dollars ($500) pursuant to Section 22670, the public agency that removed the vehicle shall do all of the following:\n\n    (1) Within 48 hours after removal of the vehicle, notify the Stolen Vehicle System of the Department of Justice in Sacramento of the removal.\n\n    (2) Prepare and give to the lienholder a report that includes all of the following:\n\n        (A) The value of the vehicle estimated pursuant to Section 22670.\n\n        (B) The identification of the estimator.\n\n        (C) The location of the vehicle.\n\n        (D) A description of the vehicle, including the make, year model, identification number, license number, state of registration, and, if a motorcycle, an engine number.\n\n        (E) The statutory authority for storage.\n\n(b) If the vehicle is in a condition that there is no means of determining ownership, the public agency that removed the vehicle may give authorization to dispose of the vehicle. If authorization for disposal is not issued, a vehicle identification number shall be assigned prior to commencing the lien sale proceedings.\n\n*(Amended by Stats. 2004, Ch. 650, Sec. 12. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Excepting a vehicle removed pursuant to Section 22669, if the vehicle is determined to have a value not exceeding five hundred dollars ($500) pursuant to Section 22670, the public agency that removed the vehicle shall do all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Within 48 hours after removal of the vehicle, notify the Stolen Vehicle System of the Department of Justice in Sacramento of the removal.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Prepare and give to the lienholder a report that includes all of the following:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "The value of the vehicle estimated pursuant to Section 22670.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "B",
+      "text": "The identification of the estimator.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "C",
+      "text": "The location of the vehicle.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "D",
+      "text": "A description of the vehicle, including the make, year model, identification number, license number, state of registration, and, if a motorcycle, an engine number.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "E",
+      "text": "The statutory authority for storage.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "b",
+      "text": "If the vehicle is in a condition that there is no means of determining ownership, the public agency that removed the vehicle may give authorization to dispose of the vehicle. If authorization for disposal is not issued, a vehicle identification number shall be assigned prior to commencing the lien sale proceedings.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 650, Sec. 12. Effective January 1, 2005.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "650",
+    "section": "12",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "650",
+  "op_section": "12",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22851.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22851.2.html",
+  "content_sha256": "b61e95261826e86de750149cae88a1898cd87e5a4db3d8af572feea48d587c31",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

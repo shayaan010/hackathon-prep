@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34715",
+  "division": "14.9",
+  "division_title": "MOTOR VEHICLE DAMAGE CONTROL",
+  "division_range": "34700 - 34725",
+  "chapter": "2",
+  "chapter_title": "General Provisions and Definitions",
+  "chapter_range": "34710 - 34715",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "28.2",
+  "text": "No new passenger vehicle, except a passenger vehicle certified by its manufacturer as having been manufactured prior to September 1, 1973, shall be sold or registered on and after September 1, 1973, unless it has a manufacturer’s warranty that it is equipped with an appropriate energy-absorption system that meets the requirement for energy absorption systems set by the National Highway Traffic Safety Administration.",
+  "markdown": "# Vehicle Code\n## Division 14.9. MOTOR VEHICLE DAMAGE CONTROL [34700 - 34725]\n### Chapter 2. General Provisions and Definitions [34710 - 34715]\n##### § 34715\n\nNo new passenger vehicle, except a passenger vehicle certified by its manufacturer as having been manufactured prior to September 1, 1973, shall be sold or registered on and after September 1, 1973, unless it has a manufacturer’s warranty that it is equipped with an appropriate energy-absorption system that meets the requirement for energy absorption systems set by the National Highway Traffic Safety Administration.\n\n*(Amended by Stats. 1977, Ch. 880.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No new passenger vehicle, except a passenger vehicle certified by its manufacturer as having been manufactured prior to September 1, 1973, shall be sold or registered on and after September 1, 1973, unless it has a manufacturer’s warranty that it is equipped with an appropriate energy-absorption system that meets the requirement for energy absorption systems set by the National Highway Traffic Safety Administration.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1977, Ch. 880.)",
+    "action": "Amended",
+    "statutes_year": 1977,
+    "chapter": "880",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1977",
+  "op_chapter": "880",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34715.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34715.html",
+  "content_sha256": "5f0ec30f5d926f1aa396c75ecc807a399b4933ffd98fbf3f97d2b8d81aadced6",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

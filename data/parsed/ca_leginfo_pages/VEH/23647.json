@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23647",
+  "division": "11.5",
+  "division_title": "SENTENCING FOR DRIVING WHILE UNDER THE INFLUENCE",
+  "division_range": "23500 - 23675",
+  "chapter": "4",
+  "chapter_title": "Procedures",
+  "chapter_range": "23610 - 23675",
+  "article": "6",
+  "article_title": "Alcohol Assessment",
+  "article_range": "23645 - 23650",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "16.4.6",
+  "text": "(a) Any person convicted of a violation of Section 23152 or 23153 who is required to participate in a county alcohol and drug problem assessment program shall participate in that program.\n\n(b) Any person convicted of a violation of Section 23103, as specified in Section 23103.5, in a judicial district that participates in a county alcohol and drug problem assessment program pursuant to this article, may be ordered to participate in the program.",
+  "markdown": "# Vehicle Code\n## Division 11.5. SENTENCING FOR DRIVING WHILE UNDER THE INFLUENCE [23500 - 23675]\n### Chapter 4. Procedures [23610 - 23675]\n#### Article 6. Alcohol Assessment [23645 - 23650]\n##### § 23647\n\n(a) Any person convicted of a violation of Section 23152 or 23153 who is required to participate in a county alcohol and drug problem assessment program shall participate in that program.\n\n(b) Any person convicted of a violation of Section 23103, as specified in Section 23103.5, in a judicial district that participates in a county alcohol and drug problem assessment program pursuant to this article, may be ordered to participate in the program.\n\n*(Added by renumbering Section 23249.53 by Stats. 1999, Ch. 22, Sec. 30. Effective May 26, 1999. Operative July 1, 1999, by Sec. 46 of Ch. 22.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any person convicted of a violation of Section 23152 or 23153 who is required to participate in a county alcohol and drug problem assessment program shall participate in that program.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any person convicted of a violation of Section 23103, as specified in Section 23103.5, in a judicial district that participates in a county alcohol and drug problem assessment program pursuant to this article, may be ordered to participate in the program.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by renumbering Section 23249.53 by Stats. 1999, Ch. 22, Sec. 30. Effective May 26, 1999. Operative July 1, 1999, by Sec. 46 of Ch. 22.)",
+    "action": "Added",
+    "statutes_year": 1999,
+    "chapter": "22",
+    "section": "30",
+    "bill_number": null,
+    "effective_date": "1999-05-26",
+    "operative_date": "1999-07-01"
+  },
+  "op_statues": "1999",
+  "op_chapter": "22",
+  "op_section": "30",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23647.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23647.html",
+  "content_sha256": "f9712ea08547dc1bbc2ef973e9bfe4103ed212baf91e7287be17d01ce6696361",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

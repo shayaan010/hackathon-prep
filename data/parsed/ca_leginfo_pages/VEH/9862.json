@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9862",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "2",
+  "chapter_title": "Registration",
+  "chapter_range": "9850 - 9880",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.2",
+  "text": "(a) If the initial application for a number is not received by the department on or before the date set by the department, a penalty of one-half of the fee shall be assessed. If a certificate of number is not renewed on or before midnight of the expiration date, a penalty of one-half of the fee shall be assessed.\n\n(b) If any person has received as the transferee of a vessel a properly endorsed certificate of ownership and certificate of number describing that vessel and the transfer fee has not been paid as required by this code within 30 days, a penalty of one-half of the transfer fee specified in Section 9855 shall be assessed.",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 2. Registration [9850 - 9880]\n##### § 9862\n\n(a) If the initial application for a number is not received by the department on or before the date set by the department, a penalty of one-half of the fee shall be assessed. If a certificate of number is not renewed on or before midnight of the expiration date, a penalty of one-half of the fee shall be assessed.\n\n(b) If any person has received as the transferee of a vessel a properly endorsed certificate of ownership and certificate of number describing that vessel and the transfer fee has not been paid as required by this code within 30 days, a penalty of one-half of the transfer fee specified in Section 9855 shall be assessed.\n\n*(Amended by Stats. 1990, Ch. 1352, Sec. 14. Effective September 27, 1990. Applicable from July 1, 1990, pursuant to Sec. 21 of Ch. 1352.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If the initial application for a number is not received by the department on or before the date set by the department, a penalty of one-half of the fee shall be assessed. If a certificate of number is not renewed on or before midnight of the expiration date, a penalty of one-half of the fee shall be assessed.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If any person has received as the transferee of a vessel a properly endorsed certificate of ownership and certificate of number describing that vessel and the transfer fee has not been paid as required by this code within 30 days, a penalty of one-half of the transfer fee specified in Section 9855 shall be assessed.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1990, Ch. 1352, Sec. 14. Effective September 27, 1990. Applicable from July 1, 1990, pursuant to Sec. 21 of Ch. 1352.)",
+    "action": "Amended",
+    "statutes_year": 1990,
+    "chapter": "1352",
+    "section": "14",
+    "bill_number": null,
+    "effective_date": "1990-09-27",
+    "operative_date": null
+  },
+  "op_statues": "1990",
+  "op_chapter": "1352",
+  "op_section": "14",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9862.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9862.html",
+  "content_sha256": "bb3056a4aae312d1333f23e53d0026c10b84f0bf969eabeee1f400be0b32390e",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

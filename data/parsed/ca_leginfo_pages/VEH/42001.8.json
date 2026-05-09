@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "42001.8",
+  "division": "18",
+  "division_title": "PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+  "division_range": "42000 - 42277",
+  "chapter": "1",
+  "chapter_title": "Penalties",
+  "chapter_range": "42000 - 42032",
+  "article": "1",
+  "article_title": "Public Offenses",
+  "article_range": "42000 - 42010",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "35.1.1",
+  "text": "Every person convicted of an infraction for a violation of Section 4000 shall be punished by a fine of not less than fifty dollars ($50) and not more than two hundred fifty dollars ($250).",
+  "markdown": "# Vehicle Code\n## Division 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES [42000 - 42277]\n### Chapter 1. Penalties [42000 - 42032]\n#### Article 1. Public Offenses [42000 - 42010]\n##### § 42001.8\n\nEvery person convicted of an infraction for a violation of Section 4000 shall be punished by a fine of not less than fifty dollars ($50) and not more than two hundred fifty dollars ($250).\n\n*(Added by Stats. 1985, Ch. 1126, Sec. 8. Effective September 28, 1985. Operative April 1, 1986, by Sec. 12 of Ch. 1126.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every person convicted of an infraction for a violation of Section 4000 shall be punished by a fine of not less than fifty dollars ($50) and not more than two hundred fifty dollars ($250).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1985, Ch. 1126, Sec. 8. Effective September 28, 1985. Operative April 1, 1986, by Sec. 12 of Ch. 1126.)",
+    "action": "Added",
+    "statutes_year": 1985,
+    "chapter": "1126",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": "1985-09-28",
+    "operative_date": "1986-04-01"
+  },
+  "op_statues": "1985",
+  "op_chapter": "1126",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42001.8.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/42001.8.html",
+  "content_sha256": "1036c50bbc37b8fc2ed6769a8b1594eb798d56518dd2e39634822ea9aee5017f",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

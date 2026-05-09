@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40611",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "4",
+  "article_title": "Notice to Correct Violation",
+  "article_range": "40610 - 40618",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.4",
+  "text": "(a) Upon proof of correction of an alleged violation of Section 12500 or 12951, or any violation cited pursuant to Section 40610, or upon submission of evidence of financial responsibility pursuant to subdivision (e) of Section 16028, the clerk shall collect a twenty-five-dollar ($25) transaction fee for each violation. The fees shall be deposited by the clerk in accordance with Section 68084 of the Government Code.\n\n(b) (1) For each citation, ten dollars ($10) shall be allocated monthly as follows:\n\n(A) Thirty-three percent shall be transferred to the local governmental entity in whose jurisdiction the citation was issued for deposit in the general fund of the entity.\n\n(B) Thirty-four percent shall be transferred to the State Treasury for deposit in the State Penalty Fund established by Section 1464 of the Penal Code.\n\n(C) Thirty-three percent shall be deposited in the county general fund.\n\n(2) The remainder of the fees collected on each citation shall be deposited in the State Court Facilities Construction Fund, established in Section 70371 of the Government Code.\n\n(c) No fee shall be imposed pursuant to this section if the violation notice is processed only by the issuing agency and no record of the action is transmitted to the court.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 4. Notice to Correct Violation [40610 - 40618]\n##### § 40611\n\n(a) Upon proof of correction of an alleged violation of Section 12500 or 12951, or any violation cited pursuant to Section 40610, or upon submission of evidence of financial responsibility pursuant to subdivision (e) of Section 16028, the clerk shall collect a twenty-five-dollar ($25) transaction fee for each violation. The fees shall be deposited by the clerk in accordance with Section 68084 of the Government Code.\n\n(b) (1) For each citation, ten dollars ($10) shall be allocated monthly as follows:\n\n        (A) Thirty-three percent shall be transferred to the local governmental entity in whose jurisdiction the citation was issued for deposit in the general fund of the entity.\n\n        (B) Thirty-four percent shall be transferred to the State Treasury for deposit in the State Penalty Fund established by Section 1464 of the Penal Code.\n\n        (C) Thirty-three percent shall be deposited in the county general fund.\n\n    (2) The remainder of the fees collected on each citation shall be deposited in the State Court Facilities Construction Fund, established in Section 70371 of the Government Code.\n\n(c) No fee shall be imposed pursuant to this section if the violation notice is processed only by the issuing agency and no record of the action is transmitted to the court.\n\n*(Amended by Stats. 2021, Ch. 79, Sec. 37. (AB 143) Effective July 16, 2021.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Upon proof of correction of an alleged violation of Section 12500 or 12951, or any violation cited pursuant to Section 40610, or upon submission of evidence of financial responsibility pursuant to subdivision (e) of Section 16028, the clerk shall collect a twenty-five-dollar ($25) transaction fee for each violation. The fees shall be deposited by the clerk in accordance with Section 68084 of the Government Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "(1) For each citation, ten dollars ($10) shall be allocated monthly as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "A",
+      "text": "Thirty-three percent shall be transferred to the local governmental entity in whose jurisdiction the citation was issued for deposit in the general fund of the entity.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "B",
+      "text": "Thirty-four percent shall be transferred to the State Treasury for deposit in the State Penalty Fund established by Section 1464 of the Penal Code.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "C",
+      "text": "Thirty-three percent shall be deposited in the county general fund.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "2",
+      "text": "The remainder of the fees collected on each citation shall be deposited in the State Court Facilities Construction Fund, established in Section 70371 of the Government Code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "No fee shall be imposed pursuant to this section if the violation notice is processed only by the issuing agency and no record of the action is transmitted to the court.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 79, Sec. 37. (AB 143) Effective July 16, 2021.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "79",
+    "section": "37",
+    "bill_number": "AB 143",
+    "effective_date": "2021-07-16",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "79",
+  "op_section": "37",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40611.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40611.html",
+  "content_sha256": "38a8ecea203d18c45c95dd61d7c84ad7f276b35a45e23430df1f358ce535a030",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

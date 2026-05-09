@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2436.5",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3.5",
+  "article_title": "Emergency Roadside Assistance",
+  "article_range": "2435 - 2436.7",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.5",
+  "text": "(a) The department, in cooperation with the Department of Transportation, shall provide training, pursuant to a reimbursable agreement or contract with a regional or local entity, for all employers and tow truck drivers who are involved in freeway service patrol operations pursuant to an agreement or contract with the regional or local entity. Dispatchers for freeway service patrol operations shall be employees of the department or the Department of Transportation.\n\n(b) The training shall include, but not be limited to, all of the following:\n\n(1) Tow truck driver and motorist safety.\n\n(2) Patrol responsibility.\n\n(3) Vehicle operation.\n\n(4) Traffic control and scene management.\n\n(5) Communication procedures.\n\n(6) Demeanor and courtesy.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3.5. Emergency Roadside Assistance [2435 - 2436.7]\n##### § 2436.5\n\n(a) The department, in cooperation with the Department of Transportation, shall provide training, pursuant to a reimbursable agreement or contract with a regional or local entity, for all employers and tow truck drivers who are involved in freeway service patrol operations pursuant to an agreement or contract with the regional or local entity. Dispatchers for freeway service patrol operations shall be employees of the department or the Department of Transportation.\n\n(b) The training shall include, but not be limited to, all of the following:\n\n    (1) Tow truck driver and motorist safety.\n\n    (2) Patrol responsibility.\n\n    (3) Vehicle operation.\n\n    (4) Traffic control and scene management.\n\n    (5) Communication procedures.\n\n    (6) Demeanor and courtesy.\n\n*(Added by Stats. 1991, Ch. 488, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department, in cooperation with the Department of Transportation, shall provide training, pursuant to a reimbursable agreement or contract with a regional or local entity, for all employers and tow truck drivers who are involved in freeway service patrol operations pursuant to an agreement or contract with the regional or local entity. Dispatchers for freeway service patrol operations shall be employees of the department or the Department of Transportation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The training shall include, but not be limited to, all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Tow truck driver and motorist safety.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Patrol responsibility.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Vehicle operation.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Traffic control and scene management.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "Communication procedures.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "6",
+      "text": "Demeanor and courtesy.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1991, Ch. 488, Sec. 4.)",
+    "action": "Added",
+    "statutes_year": 1991,
+    "chapter": "488",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "488",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2436.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2436.5.html",
+  "content_sha256": "f93f64b9424de2f6928a14509b1cbaa094084b1b91a69444df2f7b25cdf1e6c8",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

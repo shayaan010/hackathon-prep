@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4464",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "4",
+  "article_title": "Evidences of Registration",
+  "article_range": "4450 - 4467",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.4",
+  "text": "A person shall not display upon a vehicle a license plate that is altered from its original markings.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 4. Evidences of Registration [4450 - 4467]\n##### § 4464\n\nA person shall not display upon a vehicle a license plate that is altered from its original markings.\n\n*(Amended by Stats. 2012, Ch. 702, Sec. 2. (AB 2489) Effective January 1, 2013.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A person shall not display upon a vehicle a license plate that is altered from its original markings.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2012, Ch. 702, Sec. 2. (AB 2489) Effective January 1, 2013.)",
+    "action": "Amended",
+    "statutes_year": 2012,
+    "chapter": "702",
+    "section": "2",
+    "bill_number": "AB 2489",
+    "effective_date": "2013-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2012",
+  "op_chapter": "702",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4464.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4464.html",
+  "content_sha256": "96c8e89de0ab91578826672e3aaecfa3d0433e151b9762882a687e786b953b35",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

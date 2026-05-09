@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35600",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "2",
+  "article_title": "Tire Limits",
+  "article_range": "35600 - 35601",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.3",
+  "text": "The gross weight upon a solid tire upon a vehicle shall not exceed 600 pounds upon any inch of the channel base width of such tire.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 2. Tire Limits [35600 - 35601]\n##### § 35600\n\nThe gross weight upon a solid tire upon a vehicle shall not exceed 600 pounds upon any inch of the channel base width of such tire.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The gross weight upon a solid tire upon a vehicle shall not exceed 600 pounds upon any inch of the channel base width of such tire.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35600.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35600.html",
+  "content_sha256": "ed818c333454f411135cc7e06ac2fad02e05ec4bb31555610d5ed6750db2b6fa",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

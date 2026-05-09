@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28102",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "15",
+  "article_title": "Pilot Cars",
+  "article_range": "28100 - 28103",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.21",
+  "text": "Pilot cars equipped with vertical clearance measuring devices shall comply with Section 35252.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 15. Pilot Cars [28100 - 28103]\n##### § 28102\n\nPilot cars equipped with vertical clearance measuring devices shall comply with Section 35252.\n\n*(Added by Stats. 1988, Ch. 460, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Pilot cars equipped with vertical clearance measuring devices shall comply with Section 35252.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 460, Sec. 4.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "460",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "460",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28102.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28102.html",
+  "content_sha256": "2356e7936a08bbb8202d44c9832a7a939074bba954422d00f6f794dbf89e4c33",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

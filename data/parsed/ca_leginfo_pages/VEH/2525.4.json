@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2525.4",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2.5",
+  "chapter_title": "Licenses Issued by California Highway Patrol",
+  "chapter_range": "2500 - 2574",
+  "article": "3.5",
+  "article_title": "Inspection and Maintenance Stations",
+  "article_range": "2525 - 2525.12",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.3.3",
+  "text": "(a) Fleet owners licensed as inspection and maintenance stations shall do all of the following:\n\n(1) Conduct all installations, adjustments, inspections, and maintenance under the supervision of, and subject to the regulations of, the department, and subject to Division 12 (commencing with Section 24000).\n\n(2) If engaged in interstate transportation, also conduct inspections and maintenance in accordance with the requirements of the United States Department of Transportation.\n\n(3) If operating or maintaining vehicles described in subdivisions (a), (b), (d), (e), (f), or (g), of Section 34500, enroll each licensed inspection and maintenance station for inspection by the Department of the California Highway Patrol pursuant to subdivision (d) of Section 34501.12 and pay the fees required by subdivision (e) of that section.\n\n(b) Fleet owners may not certify vehicle safety systems, as described in Section 9888.5 of the Business and Professions Code, or the installation, inspection, repair, or servicing of motor vehicle pollution control devices or systems, except for vehicles in the owner’s fleet.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2.5. Licenses Issued by California Highway Patrol [2500 - 2574]\n#### Article 3.5. Inspection and Maintenance Stations [2525 - 2525.12]\n##### § 2525.4\n\n(a) Fleet owners licensed as inspection and maintenance stations shall do all of the following:\n\n    (1) Conduct all installations, adjustments, inspections, and maintenance under the supervision of, and subject to the regulations of, the department, and subject to Division 12 (commencing with Section 24000).\n\n    (2) If engaged in interstate transportation, also conduct inspections and maintenance in accordance with the requirements of the United States Department of Transportation.\n\n    (3) If operating or maintaining vehicles described in subdivisions (a), (b), (d), (e), (f), or (g), of Section 34500, enroll each licensed inspection and maintenance station for inspection by the Department of the California Highway Patrol pursuant to subdivision (d) of Section 34501.12 and pay the fees required by subdivision (e) of that section.\n\n(b) Fleet owners may not certify vehicle safety systems, as described in Section 9888.5 of the Business and Professions Code, or the installation, inspection, repair, or servicing of motor vehicle pollution control devices or systems, except for vehicles in the owner’s fleet.\n\n*(Amended by Stats. 2023, Ch. 681, Sec. 23. (AB 1263) Effective January 1, 2024.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Fleet owners licensed as inspection and maintenance stations shall do all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Conduct all installations, adjustments, inspections, and maintenance under the supervision of, and subject to the regulations of, the department, and subject to Division 12 (commencing with Section 24000).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "If engaged in interstate transportation, also conduct inspections and maintenance in accordance with the requirements of the United States Department of Transportation.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "If operating or maintaining vehicles described in subdivisions (a), (b), (d), (e), (f), or (g), of Section 34500, enroll each licensed inspection and maintenance station for inspection by the Department of the California Highway Patrol pursuant to subdivision (d) of Section 34501.12 and pay the fees required by subdivision (e) of that section.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Fleet owners may not certify vehicle safety systems, as described in Section 9888.5 of the Business and Professions Code, or the installation, inspection, repair, or servicing of motor vehicle pollution control devices or systems, except for vehicles in the owner’s fleet.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2023, Ch. 681, Sec. 23. (AB 1263) Effective January 1, 2024.)",
+    "action": "Amended",
+    "statutes_year": 2023,
+    "chapter": "681",
+    "section": "23",
+    "bill_number": "AB 1263",
+    "effective_date": "2024-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2023",
+  "op_chapter": "681",
+  "op_section": "23",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2525.4.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2525.4.html",
+  "content_sha256": "7d7501ed97e3297223f2b9cfebaf2170ec07b13fafbdc108028a9bed1a71ece8",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

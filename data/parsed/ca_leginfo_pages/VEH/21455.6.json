@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21455.6",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "3",
+  "article_title": "Offenses Relating to Traffic Devices",
+  "article_range": "21450 - 21468",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.3",
+  "text": "(a) A city council or county board of supervisors shall conduct a public hearing on the proposed use of an automated enforcement system authorized under Section 21455.5 prior to authorizing the city or county to enter into a contract for the use of the system.\n\n(b) (1) The activities listed in subdivision (c) of Section 21455.5 that relate to the operation of an automated enforcement system may be contracted out by the city or county, except that the activities listed in paragraph (1) of, and subparagraphs (A), (D), (E), or (F) of paragraph (2) of, subdivision (c) of Section 21455.5 may not be contracted out to the manufacturer or supplier of the automated enforcement system.\n\n(2) Paragraph (1) does not apply to a contract that was entered into by a city or county and a manufacturer or supplier of automated enforcement equipment before January 1, 2004, unless that contract is renewed, extended, or amended on or after January 1, 2004.\n\n(c) The authorization in Section 21455.5 to use automated enforcement systems does not authorize the use of photo radar for speed enforcement purposes by any jurisdiction.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 3. Offenses Relating to Traffic Devices [21450 - 21468]\n##### § 21455.6\n\n(a) A city council or county board of supervisors shall conduct a public hearing on the proposed use of an automated enforcement system authorized under Section 21455.5 prior to authorizing the city or county to enter into a contract for the use of the system.\n\n(b) (1) The activities listed in subdivision (c) of Section 21455.5 that relate to the operation of an automated enforcement system may be contracted out by the city or county, except that the activities listed in paragraph (1) of, and subparagraphs (A), (D), (E), or (F) of paragraph (2) of, subdivision (c) of Section 21455.5 may not be contracted out to the manufacturer or supplier of the automated enforcement system.\n\n    (2) Paragraph (1) does not apply to a contract that was entered into by a city or county and a manufacturer or supplier of automated enforcement equipment before January 1, 2004, unless that contract is renewed, extended, or amended on or after January 1, 2004.\n\n(c) The authorization in Section 21455.5 to use automated enforcement systems does not authorize the use of photo radar for speed enforcement purposes by any jurisdiction.\n\n*(Amended by Stats. 2003, Ch. 511, Sec. 2. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A city council or county board of supervisors shall conduct a public hearing on the proposed use of an automated enforcement system authorized under Section 21455.5 prior to authorizing the city or county to enter into a contract for the use of the system.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "(1) The activities listed in subdivision (c) of Section 21455.5 that relate to the operation of an automated enforcement system may be contracted out by the city or county, except that the activities listed in paragraph (1) of, and subparagraphs (A), (D), (E), or (F) of paragraph (2) of, subdivision (c) of Section 21455.5 may not be contracted out to the manufacturer or supplier of the automated enforcement system.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "Paragraph (1) does not apply to a contract that was entered into by a city or county and a manufacturer or supplier of automated enforcement equipment before January 1, 2004, unless that contract is renewed, extended, or amended on or after January 1, 2004.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "The authorization in Section 21455.5 to use automated enforcement systems does not authorize the use of photo radar for speed enforcement purposes by any jurisdiction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 511, Sec. 2. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "511",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "511",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21455.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21455.6.html",
+  "content_sha256": "6664d3ebaf22adc28ce085feaca851c0cbe62f9d0f996daf8478dc43d601ea47",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

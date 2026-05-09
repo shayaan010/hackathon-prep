@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4161",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "2",
+  "article_title": "Original Registration",
+  "article_range": "4150 - 4166",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.2",
+  "text": "(a) Whenever a motor vehicle engine or motor is installed, except temporarily, in a motor vehicle which is identified on the ownership and registration certificates by motor or engine number or by both the motor and frame numbers and subject to registration under this code, the owner of the motor vehicle shall, within 10 days thereafter, give notice to the department upon a form furnished by it containing a description of the motor vehicle engine or motor installed, including any identifying number thereon and the date of the installation. The owner of the motor vehicle shall also submit to the department with the notice the certificate of ownership and registration card covering the motor vehicle in which the motor vehicle engine or motor is installed and evidence of ownership covering the new or used motor vehicle engine or motor installed and such other documents as may be required by the department.\n\n(b) Upon receipt of motor vehicle engine or motor change notification and other required documents, the department shall assign a distinguishing vehicle identification number to motor vehicles, other than motorcycles or motor-driven cycles registered under a motor number or motor and frame numbers. When the distinguishing vehicle identification number is placed on the vehicle as authorized, the vehicle shall thereafter be identified by the distinguishing identification number assigned.\n\n(c) Notwithstanding any other provision of this section or any other provision of law, whenever an application is made to the department to register a replacement engine case for any motorcycle, the department shall request the Department of the California Highway Patrol to inspect the motorcycle to determine its proper identity. If the replacement engine case bears the same identifying numbers as the engine case being replaced, the original engine case shall be destroyed. A determination verifying proof of destruction shall be made by the Department of the California Highway Patrol.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 2. Original Registration [4150 - 4166]\n##### § 4161\n\n(a) Whenever a motor vehicle engine or motor is installed, except temporarily, in a motor vehicle which is identified on the ownership and registration certificates by motor or engine number or by both the motor and frame numbers and subject to registration under this code, the owner of the motor vehicle shall, within 10 days thereafter, give notice to the department upon a form furnished by it containing a description of the motor vehicle engine or motor installed, including any identifying number thereon and the date of the installation. The owner of the motor vehicle shall also submit to the department with the notice the certificate of ownership and registration card covering the motor vehicle in which the motor vehicle engine or motor is installed and evidence of ownership covering the new or used motor vehicle engine or motor installed and such other documents as may be required by the department.\n\n(b) Upon receipt of motor vehicle engine or motor change notification and other required documents, the department shall assign a distinguishing vehicle identification number to motor vehicles, other than motorcycles or motor-driven cycles registered under a motor number or motor and frame numbers. When the distinguishing vehicle identification number is placed on the vehicle as authorized, the vehicle shall thereafter be identified by the distinguishing identification number assigned.\n\n(c) Notwithstanding any other provision of this section or any other provision of law, whenever an application is made to the department to register a replacement engine case for any motorcycle, the department shall request the Department of the California Highway Patrol to inspect the motorcycle to determine its proper identity. If the replacement engine case bears the same identifying numbers as the engine case being replaced, the original engine case shall be destroyed. A determination verifying proof of destruction shall be made by the Department of the California Highway Patrol.\n\n*(Amended by Stats. 2001, Ch. 94, Sec. 1. Effective January 1, 2002.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever a motor vehicle engine or motor is installed, except temporarily, in a motor vehicle which is identified on the ownership and registration certificates by motor or engine number or by both the motor and frame numbers and subject to registration under this code, the owner of the motor vehicle shall, within 10 days thereafter, give notice to the department upon a form furnished by it containing a description of the motor vehicle engine or motor installed, including any identifying number thereon and the date of the installation. The owner of the motor vehicle shall also submit to the department with the notice the certificate of ownership and registration card covering the motor vehicle in which the motor vehicle engine or motor is installed and evidence of ownership covering the new or used motor vehicle engine or motor installed and such other documents as may be required by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Upon receipt of motor vehicle engine or motor change notification and other required documents, the department shall assign a distinguishing vehicle identification number to motor vehicles, other than motorcycles or motor-driven cycles registered under a motor number or motor and frame numbers. When the distinguishing vehicle identification number is placed on the vehicle as authorized, the vehicle shall thereafter be identified by the distinguishing identification number assigned.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Notwithstanding any other provision of this section or any other provision of law, whenever an application is made to the department to register a replacement engine case for any motorcycle, the department shall request the Department of the California Highway Patrol to inspect the motorcycle to determine its proper identity. If the replacement engine case bears the same identifying numbers as the engine case being replaced, the original engine case shall be destroyed. A determination verifying proof of destruction shall be made by the Department of the California Highway Patrol.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2001, Ch. 94, Sec. 1. Effective January 1, 2002.)",
+    "action": "Amended",
+    "statutes_year": 2001,
+    "chapter": "94",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2002-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "94",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4161.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4161.html",
+  "content_sha256": "bd8720b0bb5edff8ca8569e2e50f243bd9db6b369e1e46a36db2a80cebbf7b5a",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

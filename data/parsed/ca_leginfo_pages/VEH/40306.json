@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40306",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "1",
+  "article_title": "Arrests",
+  "article_range": "40300 - 40313",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.1",
+  "text": "(a) Whenever a person is arrested for a misdemeanor or an infraction and is taken before a magistrate, the arresting officer shall file with the magistrate a complaint stating the offense with which the person is charged.\n\n(b) The person taken before a magistrate shall be entitled to at least five days continuance of his case in which to plead and prepare for trial and the person shall not be required to plead or be tried within the five days unless he waives such time in writing or in open court.\n\n(c) The person taken before a magistrate shall thereupon be released from custody upon his own recognizance or upon such bail as the magistrate may fix.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 1. Arrests [40300 - 40313]\n##### § 40306\n\n(a) Whenever a person is arrested for a misdemeanor or an infraction and is taken before a magistrate, the arresting officer shall file with the magistrate a complaint stating the offense with which the person is charged.\n\n(b) The person taken before a magistrate shall be entitled to at least five days continuance of his case in which to plead and prepare for trial and the person shall not be required to plead or be tried within the five days unless he waives such time in writing or in open court.\n\n(c) The person taken before a magistrate shall thereupon be released from custody upon his own recognizance or upon such bail as the magistrate may fix.\n\n*(Amended by Stats. 1968, Ch. 1192.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever a person is arrested for a misdemeanor or an infraction and is taken before a magistrate, the arresting officer shall file with the magistrate a complaint stating the offense with which the person is charged.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The person taken before a magistrate shall be entitled to at least five days continuance of his case in which to plead and prepare for trial and the person shall not be required to plead or be tried within the five days unless he waives such time in writing or in open court.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The person taken before a magistrate shall thereupon be released from custody upon his own recognizance or upon such bail as the magistrate may fix.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1968, Ch. 1192.)",
+    "action": "Amended",
+    "statutes_year": 1968,
+    "chapter": "1192",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1968",
+  "op_chapter": "1192",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40306.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40306.html",
+  "content_sha256": "4e9d60903870d3c0692c903c3f4ca65b839c7d59b49b06e2961dca20dc4658b6",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

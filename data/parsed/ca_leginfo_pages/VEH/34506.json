@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34506",
+  "division": "14.8",
+  "division_title": "SAFETY REGULATIONS",
+  "division_range": "34500 - 34520.5",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "25",
+  "text": "It is a misdemeanor to fail to comply with any rule or regulation adopted by the Department of the California Highway Patrol pursuant to Section 34501, 34501.5, 34508, or 34513 regarding any of the following:\n\n(a) Hours of service of drivers.\n\n(b) Hazardous material transportation.\n\n(c) Schoolbus construction, design, color, equipment, maintenance, or operation.\n\n(d) Youth bus equipment, maintenance, or operation.\n\n(e) Tour bus equipment, maintenance, or operation.\n\n(f) Equipment, maintenance, or operation of any vehicle described in subdivision (a), (b), (c), (d), (e), (f), or (g) of Section 34500.\n\n(g) Equipment, maintenance, or operation of any school pupil activity bus.",
+  "markdown": "# Vehicle Code\n## Division 14.8. SAFETY REGULATIONS [34500 - 34520.5]\n##### § 34506\n\nIt is a misdemeanor to fail to comply with any rule or regulation adopted by the Department of the California Highway Patrol pursuant to Section 34501, 34501.5, 34508, or 34513 regarding any of the following:\n\n(a) Hours of service of drivers.\n\n(b) Hazardous material transportation.\n\n(c) Schoolbus construction, design, color, equipment, maintenance, or operation.\n\n(d) Youth bus equipment, maintenance, or operation.\n\n(e) Tour bus equipment, maintenance, or operation.\n\n(f) Equipment, maintenance, or operation of any vehicle described in subdivision (a), (b), (c), (d), (e), (f), or (g) of Section 34500.\n\n(g) Equipment, maintenance, or operation of any school pupil activity bus.\n\n*(Amended by Stats. 1991, Ch. 928, Sec. 36. Effective October 14, 1991.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "It is a misdemeanor to fail to comply with any rule or regulation adopted by the Department of the California Highway Patrol pursuant to Section 34501, 34501.5, 34508, or 34513 regarding any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Hours of service of drivers.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Hazardous material transportation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Schoolbus construction, design, color, equipment, maintenance, or operation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Youth bus equipment, maintenance, or operation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "Tour bus equipment, maintenance, or operation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "f",
+      "text": "Equipment, maintenance, or operation of any vehicle described in subdivision (a), (b), (c), (d), (e), (f), or (g) of Section 34500.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "g",
+      "text": "Equipment, maintenance, or operation of any school pupil activity bus.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1991, Ch. 928, Sec. 36. Effective October 14, 1991.)",
+    "action": "Amended",
+    "statutes_year": 1991,
+    "chapter": "928",
+    "section": "36",
+    "bill_number": null,
+    "effective_date": "1991-10-14",
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "928",
+  "op_section": "36",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34506.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34506.html",
+  "content_sha256": "aede85b848c0f9148a16c4ccb5d6d0d6b13829d089f9290f42f7b85741bfce0d",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

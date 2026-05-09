@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38375",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "6",
+  "chapter_title": "Equipment of Off-Highway Vehicles",
+  "chapter_range": "38325 - 38397",
+  "article": "4",
+  "article_title": "Equipment",
+  "article_range": "38365 - 38380",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.4.4",
+  "text": "(a) An off-highway motor vehicle, except an authorized emergency vehicle, shall not be equipped with a siren.\n\n(b) A person driving an off-highway motor vehicle, except the driver of an authorized emergency vehicle as permitted by Section 21055, shall not use a siren.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 6. Equipment of Off-Highway Vehicles [38325 - 38397]\n#### Article 4. Equipment [38365 - 38380]\n##### § 38375\n\n(a) An off-highway motor vehicle, except an authorized emergency vehicle, shall not be equipped with a siren.\n\n(b) A person driving an off-highway motor vehicle, except the driver of an authorized emergency vehicle as permitted by Section 21055, shall not use a siren.\n\n*(Added by Stats. 2004, Ch. 908, Sec. 26. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "An off-highway motor vehicle, except an authorized emergency vehicle, shall not be equipped with a siren.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person driving an off-highway motor vehicle, except the driver of an authorized emergency vehicle as permitted by Section 21055, shall not use a siren.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2004, Ch. 908, Sec. 26. Effective January 1, 2005.)",
+    "action": "Added",
+    "statutes_year": 2004,
+    "chapter": "908",
+    "section": "26",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "908",
+  "op_section": "26",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38375.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38375.html",
+  "content_sha256": "3ef4868ce69bb3f04eb70817bfcb62f7fd8024b4c0ef1eeaa63b7dceb641ef07",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

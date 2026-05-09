@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4764",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "6",
+  "article_title": "Refusal of Registration",
+  "article_range": "4750 - 4767",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.6",
+  "text": "(a) If a vehicle is transferred or the registration is not renewed for two renewal periods and the former registered owner or lessee of the vehicle owes a parking penalty for a notice of delinquent parking violation filed with the department pursuant to Section 40220, the department shall notify each jurisdiction of that fact and is not required thereafter to attempt collection of the undeposited parking penalty and administrative fees.\n\n(b) This section does not apply if the transfer of a vehicle is one described in Section 6285 of the Revenue and Taxation Code.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 6. Refusal of Registration [4750 - 4767]\n##### § 4764\n\n(a) If a vehicle is transferred or the registration is not renewed for two renewal periods and the former registered owner or lessee of the vehicle owes a parking penalty for a notice of delinquent parking violation filed with the department pursuant to Section 40220, the department shall notify each jurisdiction of that fact and is not required thereafter to attempt collection of the undeposited parking penalty and administrative fees.\n\n(b) This section does not apply if the transfer of a vehicle is one described in Section 6285 of the Revenue and Taxation Code.\n\n*(Amended by Stats. 2013, Ch. 101, Sec. 1. (AB 443) Effective January 1, 2014.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If a vehicle is transferred or the registration is not renewed for two renewal periods and the former registered owner or lessee of the vehicle owes a parking penalty for a notice of delinquent parking violation filed with the department pursuant to Section 40220, the department shall notify each jurisdiction of that fact and is not required thereafter to attempt collection of the undeposited parking penalty and administrative fees.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply if the transfer of a vehicle is one described in Section 6285 of the Revenue and Taxation Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2013, Ch. 101, Sec. 1. (AB 443) Effective January 1, 2014.)",
+    "action": "Amended",
+    "statutes_year": 2013,
+    "chapter": "101",
+    "section": "1",
+    "bill_number": "AB 443",
+    "effective_date": "2014-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2013",
+  "op_chapter": "101",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4764.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4764.html",
+  "content_sha256": "150c3476422fc9f2e36ab3e74322a59125b44f60da06ee84ea9eebcd000aba23",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

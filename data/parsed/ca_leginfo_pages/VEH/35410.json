@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35410",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "4",
+  "chapter_title": "Length",
+  "chapter_range": "35400 - 35414",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.4",
+  "text": "The load upon any motor vehicle alone or an independent load only upon a trailer or semitrailer shall not extend to the rear beyond the last point of support for a greater distance than that equal to two-thirds of the length of the wheelbase of the vehicle carrying such load, except that the wheelbase of a semitrailer shall be considered as the distance between the rearmost axle of the towing vehicle and the rearmost axle of the semitrailer.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 4. Length [35400 - 35414]\n##### § 35410\n\nThe load upon any motor vehicle alone or an independent load only upon a trailer or semitrailer shall not extend to the rear beyond the last point of support for a greater distance than that equal to two-thirds of the length of the wheelbase of the vehicle carrying such load, except that the wheelbase of a semitrailer shall be considered as the distance between the rearmost axle of the towing vehicle and the rearmost axle of the semitrailer.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The load upon any motor vehicle alone or an independent load only upon a trailer or semitrailer shall not extend to the rear beyond the last point of support for a greater distance than that equal to two-thirds of the length of the wheelbase of the vehicle carrying such load, except that the wheelbase of a semitrailer shall be considered as the distance between the rearmost axle of the towing vehicle and the rearmost axle of the semitrailer.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35410.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35410.html",
+  "content_sha256": "dfe71a2af5d12fb5ef727e0d60331f30ca9371cc722c600acb05dbce6a084e66",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

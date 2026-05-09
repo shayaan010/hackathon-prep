@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38752",
+  "division": "16.6",
+  "division_title": "Autonomous Vehicles",
+  "division_range": "38750 - 38755",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "32",
+  "text": "(a) A “notice of autonomous vehicle noncompliance” means a notice issued by a peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, that identifies, at minimum, an alleged violation of this code or an alleged violation of a local traffic ordinance adopted pursuant to this code by an autonomous vehicle while the autonomous technology is engaged, the date, time, and location of the alleged violation, and the license plate number of the vehicle.\n\n(b) A peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, may issue a notice of autonomous vehicle noncompliance upon observing an alleged violation of this code or an alleged violation of a local traffic ordinance adopted pursuant to this code.\n\n(c) A manufacturer of an autonomous vehicle shall provide any issued notice of autonomous vehicle noncompliance to the department within 72 hours of issuance, or within a timeframe otherwise determined by the department. The department shall make available a means by which the manufacturer can provide the notice.\n\n(d) The issuance of a notice of autonomous vehicle noncompliance shall not create a presumption that the autonomous vehicle is unsafe and shall not limit the manufacturer’s ability to contest the nature or occurrence of an alleged violation identified in the notice.\n\n(e) This section shall not become operative until the department issues regulations addressing notices of autonomous vehicle noncompliance, as required by Section 38750.",
+  "markdown": "# Vehicle Code\n## Division 16.6. Autonomous Vehicles [38750 - 38755]\n##### § 38752\n\n(a) A “notice of autonomous vehicle noncompliance” means a notice issued by a peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, that identifies, at minimum, an alleged violation of this code or an alleged violation of a local traffic ordinance adopted pursuant to this code by an autonomous vehicle while the autonomous technology is engaged, the date, time, and location of the alleged violation, and the license plate number of the vehicle.\n\n(b) A peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, may issue a notice of autonomous vehicle noncompliance upon observing an alleged violation of this code or an alleged violation of a local traffic ordinance adopted pursuant to this code.\n\n(c) A manufacturer of an autonomous vehicle shall provide any issued notice of autonomous vehicle noncompliance to the department within 72 hours of issuance, or within a timeframe otherwise determined by the department. The department shall make available a means by which the manufacturer can provide the notice.\n\n(d) The issuance of a notice of autonomous vehicle noncompliance shall not create a presumption that the autonomous vehicle is unsafe and shall not limit the manufacturer’s ability to contest the nature or occurrence of an alleged violation identified in the notice.\n\n(e) This section shall not become operative until the department issues regulations addressing notices of autonomous vehicle noncompliance, as required by Section 38750.\n\n*(Added by Stats. 2024, Ch. 682, Sec. 3. (AB 1777) Effective January 1, 2025. Conditionally operative by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A “notice of autonomous vehicle noncompliance” means a notice issued by a peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, that identifies, at minimum, an alleged violation of this code or an alleged violation of a local traffic ordinance adopted pursuant to this code by an autonomous vehicle while the autonomous technology is engaged, the date, time, and location of the alleged violation, and the license plate number of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, may issue a notice of autonomous vehicle noncompliance upon observing an alleged violation of this code or an alleged violation of a local traffic ordinance adopted pursuant to this code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A manufacturer of an autonomous vehicle shall provide any issued notice of autonomous vehicle noncompliance to the department within 72 hours of issuance, or within a timeframe otherwise determined by the department. The department shall make available a means by which the manufacturer can provide the notice.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The issuance of a notice of autonomous vehicle noncompliance shall not create a presumption that the autonomous vehicle is unsafe and shall not limit the manufacturer’s ability to contest the nature or occurrence of an alleged violation identified in the notice.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "This section shall not become operative until the department issues regulations addressing notices of autonomous vehicle noncompliance, as required by Section 38750.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2024, Ch. 682, Sec. 3. (AB 1777) Effective January 1, 2025. Conditionally operative by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 2024,
+    "chapter": "682",
+    "section": "3",
+    "bill_number": "AB 1777",
+    "effective_date": "2025-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2024",
+  "op_chapter": "682",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38752.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38752.html",
+  "content_sha256": "2eb2f52b5d58e59c3b92106646b2a293a555e019078e64ffd1c984460c608cac",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

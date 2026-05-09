@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "241.1",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "The term “buy-here-pay-here” dealer does not include any of the following:\n\n(a) A lessor who primarily leases vehicles that are two model years old or newer.\n\n(b) A dealer that does both of the following:\n\n(1) Certifies 100 percent of used vehicle inventory offered for sale at retail price pursuant to Section 11713.18.\n\n(2) Maintains an onsite service and repair facility that is licensed by the Bureau of Automotive Repair and employs a minimum of five master automobile technicians that are certified by the National Institute for Automotive Service Excellence.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 241.1\n\nThe term “buy-here-pay-here” dealer does not include any of the following:\n\n(a) A lessor who primarily leases vehicles that are two model years old or newer.\n\n(b) A dealer that does both of the following:\n\n    (1) Certifies 100 percent of used vehicle inventory offered for sale at retail price pursuant to Section 11713.18.\n\n    (2) Maintains an onsite service and repair facility that is licensed by the Bureau of Automotive Repair and employs a minimum of five master automobile technicians that are certified by the National Institute for Automotive Service Excellence.\n\n*(Added by Stats. 2012, Ch. 741, Sec. 3. (AB 1534) Effective January 1, 2013.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The term “buy-here-pay-here” dealer does not include any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A lessor who primarily leases vehicles that are two model years old or newer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A dealer that does both of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Certifies 100 percent of used vehicle inventory offered for sale at retail price pursuant to Section 11713.18.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Maintains an onsite service and repair facility that is licensed by the Bureau of Automotive Repair and employs a minimum of five master automobile technicians that are certified by the National Institute for Automotive Service Excellence.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2012, Ch. 741, Sec. 3. (AB 1534) Effective January 1, 2013.)",
+    "action": "Added",
+    "statutes_year": 2012,
+    "chapter": "741",
+    "section": "3",
+    "bill_number": "AB 1534",
+    "effective_date": "2013-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2012",
+  "op_chapter": "741",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=241.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/241.1.html",
+  "content_sha256": "a77864851117e71cb4c5762d9e3260c71ca726532228d00ffcf40eeae1fdffd3",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

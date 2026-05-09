@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38001",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "1",
+  "chapter_title": "General Provisions",
+  "chapter_range": "38000 - 38007",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.1",
+  "text": "(a) Except as otherwise provided, this division applies to off-highway motor vehicles, as defined in Section 38006, on lands, other than a highway, that are open and accessible to the public, including any land acquired, developed, operated, or maintained, in whole or in part, with money from the Off-Highway Vehicle Trust Fund, except private lands under the immediate control of the owner or his or her agent where permission is required and has been granted to operate a motor vehicle. For purposes of this division, the term “highway” does not include fire trails, logging roads, service roads regardless of surface composition, or other roughly graded trails and roads upon which vehicular travel by the public is permitted.\n\n(b) Privately owned and maintained parking facilities that are generally open to the public are exempt from this division, unless the facilities are specifically declared subject to this division by the procedure specified in Section 21107.8.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 1. General Provisions [38000 - 38007]\n##### § 38001\n\n(a) Except as otherwise provided, this division applies to off-highway motor vehicles, as defined in Section 38006, on lands, other than a highway, that are open and accessible to the public, including any land acquired, developed, operated, or maintained, in whole or in part, with money from the Off-Highway Vehicle Trust Fund, except private lands under the immediate control of the owner or his or her agent where permission is required and has been granted to operate a motor vehicle. For purposes of this division, the term “highway” does not include fire trails, logging roads, service roads regardless of surface composition, or other roughly graded trails and roads upon which vehicular travel by the public is permitted.\n\n(b) Privately owned and maintained parking facilities that are generally open to the public are exempt from this division, unless the facilities are specifically declared subject to this division by the procedure specified in Section 21107.8.\n\n*(Amended by Stats. 2002, Ch. 563, Sec. 37. Effective January 1, 2003.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as otherwise provided, this division applies to off-highway motor vehicles, as defined in Section 38006, on lands, other than a highway, that are open and accessible to the public, including any land acquired, developed, operated, or maintained, in whole or in part, with money from the Off-Highway Vehicle Trust Fund, except private lands under the immediate control of the owner or his or her agent where permission is required and has been granted to operate a motor vehicle. For purposes of this division, the term “highway” does not include fire trails, logging roads, service roads regardless of surface composition, or other roughly graded trails and roads upon which vehicular travel by the public is permitted.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Privately owned and maintained parking facilities that are generally open to the public are exempt from this division, unless the facilities are specifically declared subject to this division by the procedure specified in Section 21107.8.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2002, Ch. 563, Sec. 37. Effective January 1, 2003.)",
+    "action": "Amended",
+    "statutes_year": 2002,
+    "chapter": "563",
+    "section": "37",
+    "bill_number": null,
+    "effective_date": "2003-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2002",
+  "op_chapter": "563",
+  "op_section": "37",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38001.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38001.html",
+  "content_sha256": "826c3db4f632dc0f7bd29820ec577fe4252eb99807e2bff74f0c83fc7bf683f6",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

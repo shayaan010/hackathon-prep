@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40000.23",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "A violation of any of the following provisions is a misdemeanor, and not an infraction:\n\n(a) Paragraph (1) of subdivision (c) of Section 35784, relating to special permit violations.\n\n(b) Subdivision (a) of Section 35784.5 relating to extralegal loads and operation of vehicles without a special permit.\n\n(c) Other provisions of Chapter 5 (commencing with Section 35550) of Division 15, which relate to weight restrictions, except in cases of weight violations where the amount of excess weight is less than 4,501 pounds.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40000.23\n\nA violation of any of the following provisions is a misdemeanor, and not an infraction:\n\n(a) Paragraph (1) of subdivision (c) of Section 35784, relating to special permit violations.\n\n(b) Subdivision (a) of Section 35784.5 relating to extralegal loads and operation of vehicles without a special permit.\n\n(c) Other provisions of Chapter 5 (commencing with Section 35550) of Division 15, which relate to weight restrictions, except in cases of weight violations where the amount of excess weight is less than 4,501 pounds.\n\n*(Amended by Stats. 1984, Ch. 542, Sec. 9.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A violation of any of the following provisions is a misdemeanor, and not an infraction:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Paragraph (1) of subdivision (c) of Section 35784, relating to special permit violations.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Subdivision (a) of Section 35784.5 relating to extralegal loads and operation of vehicles without a special permit.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Other provisions of Chapter 5 (commencing with Section 35550) of Division 15, which relate to weight restrictions, except in cases of weight violations where the amount of excess weight is less than 4,501 pounds.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1984, Ch. 542, Sec. 9.)",
+    "action": "Amended",
+    "statutes_year": 1984,
+    "chapter": "542",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "542",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40000.23.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40000.23.html",
+  "content_sha256": "a5d347313d060c853e1de3fbbddc3db04bcc4a28144b67702a34d104fd5c2d82",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

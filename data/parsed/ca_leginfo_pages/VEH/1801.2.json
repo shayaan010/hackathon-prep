@@ -1,0 +1,87 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1801.2",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "(a) For a provision of this code or of Title 13 of the California Code of Regulations that requires the department to mail, notify, deliver via certified or first class mail, provide information in written form, or otherwise references the use of paper, a writing, or the mail to convey information to a person, including to notify a person of any departmental actions related to a permit, license, identification card, endorsement, certificate, or vehicle registration, that requirement may be satisfied by electronic notification, including, but not limited to, email, if the all of the following are established by the department:\n\n(1) The department identified the person prior to accepting their consent to receive the type of document or information that is electronically delivered.\n\n(2) The person consented to the electronic receipt of the type of document or information delivered.\n\n(3) The department permits a person to withdraw their consent to electronically receive the type of document or information.\n\n(4) The department records do not indicate the person withdrew their consent to electronically receive this type of document or information as of the date the document or information was electronically sent.\n\n(b) For a provision of this code that refers to an address for any kind of notice or mailing, and mailing is effected pursuant to this section, an email or electronic delivery address provided to the department by the recipient may be used.\n\n(c) A person who provides an electronic delivery address to the department shall notify the department of any change to that address.\n\n(d) The consent to accept electronic notification may be made electronically.\n\n(e) The department may adopt regulations to implement this section.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1801.2\n\n(a) For a provision of this code or of Title 13 of the California Code of Regulations that requires the department to mail, notify, deliver via certified or first class mail, provide information in written form, or otherwise references the use of paper, a writing, or the mail to convey information to a person, including to notify a person of any departmental actions related to a permit, license, identification card, endorsement, certificate, or vehicle registration, that requirement may be satisfied by electronic notification, including, but not limited to, email, if the all of the following are established by the department:\n\n    (1) The department identified the person prior to accepting their consent to receive the type of document or information that is electronically delivered.\n\n    (2) The person consented to the electronic receipt of the type of document or information delivered.\n\n    (3) The department permits a person to withdraw their consent to electronically receive the type of document or information.\n\n    (4) The department records do not indicate the person withdrew their consent to electronically receive this type of document or information as of the date the document or information was electronically sent.\n\n(b) For a provision of this code that refers to an address for any kind of notice or mailing, and mailing is effected pursuant to this section, an email or electronic delivery address provided to the department by the recipient may be used.\n\n(c) A person who provides an electronic delivery address to the department shall notify the department of any change to that address.\n\n(d) The consent to accept electronic notification may be made electronically.\n\n(e) The department may adopt regulations to implement this section.\n\n*(Added by Stats. 2022, Ch. 838, Sec. 4. (SB 1193) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "For a provision of this code or of Title 13 of the California Code of Regulations that requires the department to mail, notify, deliver via certified or first class mail, provide information in written form, or otherwise references the use of paper, a writing, or the mail to convey information to a person, including to notify a person of any departmental actions related to a permit, license, identification card, endorsement, certificate, or vehicle registration, that requirement may be satisfied by electronic notification, including, but not limited to, email, if the all of the following are established by the department:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The department identified the person prior to accepting their consent to receive the type of document or information that is electronically delivered.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The person consented to the electronic receipt of the type of document or information delivered.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The department permits a person to withdraw their consent to electronically receive the type of document or information.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "The department records do not indicate the person withdrew their consent to electronically receive this type of document or information as of the date the document or information was electronically sent.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "For a provision of this code that refers to an address for any kind of notice or mailing, and mailing is effected pursuant to this section, an email or electronic delivery address provided to the department by the recipient may be used.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A person who provides an electronic delivery address to the department shall notify the department of any change to that address.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The consent to accept electronic notification may be made electronically.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "The department may adopt regulations to implement this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2022, Ch. 838, Sec. 4. (SB 1193) Effective January 1, 2023.)",
+    "action": "Added",
+    "statutes_year": 2022,
+    "chapter": "838",
+    "section": "4",
+    "bill_number": "SB 1193",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "838",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1801.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1801.2.html",
+  "content_sha256": "78f52328e300ef154da96eb81a407c3fdd53dcecc390d0c8e845e8c18b1c14bf",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

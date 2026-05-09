@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38365",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "6",
+  "chapter_title": "Equipment of Off-Highway Vehicles",
+  "chapter_range": "38325 - 38397",
+  "article": "4",
+  "article_title": "Equipment",
+  "article_range": "38365 - 38380",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.4.4",
+  "text": "(a) Every off-highway motor vehicle, as defined in Section 38006, shall at all times be equipped with an adequate muffler in constant operation and properly maintained so as to meet the requirements of Section 38370, and no muffler or exhaust system shall be equipped with a cutout, bypass, or similar device.\n\n(b) The provisions of subdivision (a) shall not be applicable to vehicles being operated off the highways in an organized racing or competitive event upon a closed course or in a hill climb or drag race, which is conducted under the auspices of a recognized sanctioning body or by permit issued by the local governmental authority having jurisdiction.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 6. Equipment of Off-Highway Vehicles [38325 - 38397]\n#### Article 4. Equipment [38365 - 38380]\n##### § 38365\n\n(a) Every off-highway motor vehicle, as defined in Section 38006, shall at all times be equipped with an adequate muffler in constant operation and properly maintained so as to meet the requirements of Section 38370, and no muffler or exhaust system shall be equipped with a cutout, bypass, or similar device.\n\n(b) The provisions of subdivision (a) shall not be applicable to vehicles being operated off the highways in an organized racing or competitive event upon a closed course or in a hill climb or drag race, which is conducted under the auspices of a recognized sanctioning body or by permit issued by the local governmental authority having jurisdiction.\n\n*(Added by Stats. 1976, Ch. 1093.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every off-highway motor vehicle, as defined in Section 38006, shall at all times be equipped with an adequate muffler in constant operation and properly maintained so as to meet the requirements of Section 38370, and no muffler or exhaust system shall be equipped with a cutout, bypass, or similar device.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The provisions of subdivision (a) shall not be applicable to vehicles being operated off the highways in an organized racing or competitive event upon a closed course or in a hill climb or drag race, which is conducted under the auspices of a recognized sanctioning body or by permit issued by the local governmental authority having jurisdiction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1976, Ch. 1093.)",
+    "action": "Added",
+    "statutes_year": 1976,
+    "chapter": "1093",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "1093",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38365.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38365.html",
+  "content_sha256": "4f42d056efeaa25889ad6e4c8cbb149c2717049014e02f254b925ce5be5acfc6",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

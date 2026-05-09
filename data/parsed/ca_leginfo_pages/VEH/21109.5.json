@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21109.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "3",
+  "article_title": "Local Regulation",
+  "article_range": "21100 - 21118",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.3",
+  "text": "(a) No restriction or prohibition shall be effective pursuant to subdivision (b) of Section 21109 or Section 34020.5 except upon notice and hearing in the manner prescribed in this section.\n\n(b) Notice of hearing shall be published pursuant to Section 6064 of the Government Code. The notice shall advise all interested parties that they may submit written or oral objections to the proposed action and shall designate a time and place for presentation of the objections. The time for submission of objections shall not expire, and the hearings shall not be held, less than 60 days after the first publication of notice. The hearing shall be conducted by the Department of Transportation and interested parties shall be accorded an adequate opportunity to be heard with respect to their objections.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 3. Local Regulation [21100 - 21118]\n##### § 21109.5\n\n(a) No restriction or prohibition shall be effective pursuant to subdivision (b) of Section 21109 or Section 34020.5 except upon notice and hearing in the manner prescribed in this section.\n\n(b) Notice of hearing shall be published pursuant to Section 6064 of the Government Code. The notice shall advise all interested parties that they may submit written or oral objections to the proposed action and shall designate a time and place for presentation of the objections. The time for submission of objections shall not expire, and the hearings shall not be held, less than 60 days after the first publication of notice. The hearing shall be conducted by the Department of Transportation and interested parties shall be accorded an adequate opportunity to be heard with respect to their objections.\n\n*(Added by Stats. 1982, Ch. 1255, Sec. 5.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No restriction or prohibition shall be effective pursuant to subdivision (b) of Section 21109 or Section 34020.5 except upon notice and hearing in the manner prescribed in this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notice of hearing shall be published pursuant to Section 6064 of the Government Code. The notice shall advise all interested parties that they may submit written or oral objections to the proposed action and shall designate a time and place for presentation of the objections. The time for submission of objections shall not expire, and the hearings shall not be held, less than 60 days after the first publication of notice. The hearing shall be conducted by the Department of Transportation and interested parties shall be accorded an adequate opportunity to be heard with respect to their objections.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1982, Ch. 1255, Sec. 5.)",
+    "action": "Added",
+    "statutes_year": 1982,
+    "chapter": "1255",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "1255",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21109.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21109.5.html",
+  "content_sha256": "53573b89b13b83387c1ff46eb3d07525934eead88e530a5829c4c10c8cf34723",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

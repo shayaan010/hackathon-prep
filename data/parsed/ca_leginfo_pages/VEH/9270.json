@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9270",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "2",
+  "article_title": "Registration Fees",
+  "article_range": "9250 - 9271",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.2",
+  "text": "(a) The department may charge a service fee of not more than fifteen dollars ($15), in addition to other fees payable under this code, for the expedited completion of any of the following services within 72 hours after receipt of a complete and proper application for the service:\n\n(1) Initial registration of a vehicle.\n\n(2) Transfer of registration of a vehicle.\n\n(3) Issuance of a duplicate certificate of ownership.\n\n(b) The services in subdivision (a) shall be available only at the department’s headquarters office in Sacramento.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 2. Registration Fees [9250 - 9271]\n##### § 9270\n\n(a) The department may charge a service fee of not more than fifteen dollars ($15), in addition to other fees payable under this code, for the expedited completion of any of the following services within 72 hours after receipt of a complete and proper application for the service:\n\n    (1) Initial registration of a vehicle.\n\n    (2) Transfer of registration of a vehicle.\n\n    (3) Issuance of a duplicate certificate of ownership.\n\n(b) The services in subdivision (a) shall be available only at the department’s headquarters office in Sacramento.\n\n*(Amended by Stats. 2004, Ch. 430, Sec. 2. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may charge a service fee of not more than fifteen dollars ($15), in addition to other fees payable under this code, for the expedited completion of any of the following services within 72 hours after receipt of a complete and proper application for the service:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Initial registration of a vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Transfer of registration of a vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Issuance of a duplicate certificate of ownership.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The services in subdivision (a) shall be available only at the department’s headquarters office in Sacramento.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 430, Sec. 2. Effective January 1, 2005.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "430",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "430",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9270.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9270.html",
+  "content_sha256": "3a75a6d8b981fce50e7038f7857a857d7ac2eeef8f5abec7c37d997ee43b12fb",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

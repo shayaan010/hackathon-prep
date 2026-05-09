@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9410",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "3",
+  "article_title": "Weight Fees",
+  "article_range": "9400 - 9410",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.3",
+  "text": "(a) One commercial vehicle weighing less than 8,001 pounds unladen, which displays the distinguishing license plate designated in, and is registered to a person who qualifies for the exemption provided by, Section 22511.5, is exempt from the weight fees provided for in Section 9400.\n\n(b) A commercial vehicle displaying a distinguishing placard pursuant to Section 22511.5 is not exempt from weight fees.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 3. Weight Fees [9400 - 9410]\n##### § 9410\n\n(a) One commercial vehicle weighing less than 8,001 pounds unladen, which displays the distinguishing license plate designated in, and is registered to a person who qualifies for the exemption provided by, Section 22511.5, is exempt from the weight fees provided for in Section 9400.\n\n(b) A commercial vehicle displaying a distinguishing placard pursuant to Section 22511.5 is not exempt from weight fees.\n\n*(Amended by Stats. 2004, Ch. 404, Sec. 10. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "One commercial vehicle weighing less than 8,001 pounds unladen, which displays the distinguishing license plate designated in, and is registered to a person who qualifies for the exemption provided by, Section 22511.5, is exempt from the weight fees provided for in Section 9400.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A commercial vehicle displaying a distinguishing placard pursuant to Section 22511.5 is not exempt from weight fees.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 404, Sec. 10. Effective January 1, 2005.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "404",
+    "section": "10",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "404",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9410.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9410.html",
+  "content_sha256": "51143677ca0ce1cba83381fceb1897b3d1908e874c603d2cc369581998ece412",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

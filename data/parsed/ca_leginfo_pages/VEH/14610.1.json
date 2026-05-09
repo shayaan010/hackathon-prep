@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "14610.1",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "4",
+  "chapter_title": "Violation of License Provisions",
+  "chapter_range": "14600 - 14611",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.4",
+  "text": "(a) A person shall not manufacture or sell an identification document of a size and form substantially similar to, or that purports to confer the same privileges as, the drivers’ licenses issued by the department.\n\n(b) A violation of this section is a misdemeanor punishable as follows:\n\n(1) The court shall impose a fine of not less than two hundred fifty dollars ($250) and not more than one thousand dollars ($1,000), and 24 hours of community service, to be served when the person is not employed or is not attending school. No part of the fine or community service shall be suspended or waived.\n\n(2) In lieu of the penalties imposed under paragraph (1), the court, in its discretion, may impose a jail term of up to one year and a fine of up to one thousand dollars ($1,000). In exercising its discretion the court shall consider the extent of the defendant’s commercial motivation for the offense.\n\n(c) Prosecution under this section shall not preclude prosecution under any other applicable provision of law.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 4. Violation of License Provisions [14600 - 14611]\n##### § 14610.1\n\n(a) A person shall not manufacture or sell an identification document of a size and form substantially similar to, or that purports to confer the same privileges as, the drivers’ licenses issued by the department.\n\n(b) A violation of this section is a misdemeanor punishable as follows:\n\n    (1) The court shall impose a fine of not less than two hundred fifty dollars ($250) and not more than one thousand dollars ($1,000), and 24 hours of community service, to be served when the person is not employed or is not attending school. No part of the fine or community service shall be suspended or waived.\n\n    (2) In lieu of the penalties imposed under paragraph (1), the court, in its discretion, may impose a jail term of up to one year and a fine of up to one thousand dollars ($1,000). In exercising its discretion the court shall consider the extent of the defendant’s commercial motivation for the offense.\n\n(c) Prosecution under this section shall not preclude prosecution under any other applicable provision of law.\n\n*(Amended by Stats. 2010, Ch. 684, Sec. 2. (AB 2471) Effective January 1, 2011.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person shall not manufacture or sell an identification document of a size and form substantially similar to, or that purports to confer the same privileges as, the drivers’ licenses issued by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A violation of this section is a misdemeanor punishable as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The court shall impose a fine of not less than two hundred fifty dollars ($250) and not more than one thousand dollars ($1,000), and 24 hours of community service, to be served when the person is not employed or is not attending school. No part of the fine or community service shall be suspended or waived.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "In lieu of the penalties imposed under paragraph (1), the court, in its discretion, may impose a jail term of up to one year and a fine of up to one thousand dollars ($1,000). In exercising its discretion the court shall consider the extent of the defendant’s commercial motivation for the offense.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "Prosecution under this section shall not preclude prosecution under any other applicable provision of law.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2010, Ch. 684, Sec. 2. (AB 2471) Effective January 1, 2011.)",
+    "action": "Amended",
+    "statutes_year": 2010,
+    "chapter": "684",
+    "section": "2",
+    "bill_number": "AB 2471",
+    "effective_date": "2011-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2010",
+  "op_chapter": "684",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=14610.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/14610.1.html",
+  "content_sha256": "4ce790f85c1559d9334e3e5d1d2e210a366834b468332c153d8ed5a2c9c13288",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

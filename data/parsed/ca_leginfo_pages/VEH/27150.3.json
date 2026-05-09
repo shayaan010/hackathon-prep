@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27150.3",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "2",
+  "article_title": "Exhaust Systems",
+  "article_range": "27150 - 27159",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.2",
+  "text": "(a) A person may not modify the exhaust system of a motor vehicle with a whistle-tip.\n\n(b) A person may not operate a motor vehicle if that vehicle’s exhaust system is modified in violation of subdivision (a).\n\n(c) A person may not engage in the business of installing a whistle-tip onto a motor vehicle’s exhaust system.\n\n(d) For purposes of subdivisions (a) and (c), a “whistle-tip” is a device that is applied to, or is a modification of, a motor vehicle’s exhaust pipe for the sole purpose of creating a high-pitched or shrieking noise when the motor vehicle is operated.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 2. Exhaust Systems [27150 - 27159]\n##### § 27150.3\n\n(a) A person may not modify the exhaust system of a motor vehicle with a whistle-tip.\n\n(b) A person may not operate a motor vehicle if that vehicle’s exhaust system is modified in violation of subdivision (a).\n\n(c) A person may not engage in the business of installing a whistle-tip onto a motor vehicle’s exhaust system.\n\n(d) For purposes of subdivisions (a) and (c), a “whistle-tip” is a device that is applied to, or is a modification of, a motor vehicle’s exhaust pipe for the sole purpose of creating a high-pitched or shrieking noise when the motor vehicle is operated.\n\n*(Added by Stats. 2003, Ch. 432, Sec. 1. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person may not modify the exhaust system of a motor vehicle with a whistle-tip.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person may not operate a motor vehicle if that vehicle’s exhaust system is modified in violation of subdivision (a).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A person may not engage in the business of installing a whistle-tip onto a motor vehicle’s exhaust system.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "For purposes of subdivisions (a) and (c), a “whistle-tip” is a device that is applied to, or is a modification of, a motor vehicle’s exhaust pipe for the sole purpose of creating a high-pitched or shrieking noise when the motor vehicle is operated.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2003, Ch. 432, Sec. 1. Effective January 1, 2004.)",
+    "action": "Added",
+    "statutes_year": 2003,
+    "chapter": "432",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "432",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27150.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27150.3.html",
+  "content_sha256": "af3d7eb00f56e787ccd0b6ff9cef8d616ee060b10871d07d2e71cb9e38b22434",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

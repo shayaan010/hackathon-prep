@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2422",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "The department shall determine and implement the basic level of emergency medical dispatcher training for dispatchers employed by the department based on guidelines developed by the Emergency Medical Services Authority with the concurrence of the department. The commissioner may adopt a higher level of training for department dispatchers where appropriate.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2422\n\nThe department shall determine and implement the basic level of emergency medical dispatcher training for dispatchers employed by the department based on guidelines developed by the Emergency Medical Services Authority with the concurrence of the department. The commissioner may adopt a higher level of training for department dispatchers where appropriate.\n\n*(Amended by Stats. 2020, Ch. 70, Sec. 3. (AB 2038) Effective January 1, 2021.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department shall determine and implement the basic level of emergency medical dispatcher training for dispatchers employed by the department based on guidelines developed by the Emergency Medical Services Authority with the concurrence of the department. The commissioner may adopt a higher level of training for department dispatchers where appropriate.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2020, Ch. 70, Sec. 3. (AB 2038) Effective January 1, 2021.)",
+    "action": "Amended",
+    "statutes_year": 2020,
+    "chapter": "70",
+    "section": "3",
+    "bill_number": "AB 2038",
+    "effective_date": "2021-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2020",
+  "op_chapter": "70",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2422.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2422.html",
+  "content_sha256": "334ffe89a22f2c5ecafd37ed83a6e3a07bccaa9c534804c9849fbd791db4113f",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

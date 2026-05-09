@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13350.5",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "2",
+  "chapter_title": "Suspension or Revocation of Licenses",
+  "chapter_range": "13100 - 13559",
+  "article": "3",
+  "article_title": "Suspension and Revocation by Department",
+  "article_range": "13350 - 13392",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.2.3",
+  "text": "Notwithstanding Section 13350, for the purposes of this article, conviction of a violation of subdivision (b) of Section 191.5 of the Penal Code is a conviction of a violation of Section 23153.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 2. Suspension or Revocation of Licenses [13100 - 13559]\n#### Article 3. Suspension and Revocation by Department [13350 - 13392]\n##### § 13350.5\n\nNotwithstanding Section 13350, for the purposes of this article, conviction of a violation of subdivision (b) of Section 191.5 of the Penal Code is a conviction of a violation of Section 23153.\n\n*(Amended by Stats. 2007, Ch. 747, Sec. 19. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding Section 13350, for the purposes of this article, conviction of a violation of subdivision (b) of Section 191.5 of the Penal Code is a conviction of a violation of Section 23153.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2007, Ch. 747, Sec. 19. Effective January 1, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2007,
+    "chapter": "747",
+    "section": "19",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "747",
+  "op_section": "19",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13350.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13350.5.html",
+  "content_sha256": "b3c37beac80e714333a0319c993e9f104e0cf1a0eb719715ca5b033aec919504",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

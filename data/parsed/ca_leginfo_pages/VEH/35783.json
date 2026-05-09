@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35783",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "6",
+  "article_title": "Permits and Agreements",
+  "article_range": "35780 - 35796",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.7",
+  "text": "Every permit shall be carried in the vehicle or combination of vehicles to which it refers and shall be open to inspection of any peace officer, traffic officer, authorized agent of the Department of Transportation, or any other officer or employee charged with the care or protection of such highways.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 6. Permits and Agreements [35780 - 35796]\n##### § 35783\n\nEvery permit shall be carried in the vehicle or combination of vehicles to which it refers and shall be open to inspection of any peace officer, traffic officer, authorized agent of the Department of Transportation, or any other officer or employee charged with the care or protection of such highways.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every permit shall be carried in the vehicle or combination of vehicles to which it refers and shall be open to inspection of any peace officer, traffic officer, authorized agent of the Department of Transportation, or any other officer or employee charged with the care or protection of such highways.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35783.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35783.html",
+  "content_sha256": "3a58d32d1a575bce23810b47b60d3102dace7d064b3d43cb83ad5b0d4fa67ff5",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

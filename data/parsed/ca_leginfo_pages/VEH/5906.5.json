@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5906.5",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "2",
+  "chapter_title": "Transfers of Title or Interest",
+  "chapter_range": "5600 - 6105",
+  "article": "3",
+  "article_title": "Notice and Application",
+  "article_range": "5900 - 5912",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.2.3",
+  "text": "(a) Except as otherwise provided in subdivision (b), in the case of any transfer, including, but not limited to, a transfer resulting from a sale, lease, gift, or auction, of a vehicle under 6,001 pounds, manufacturer’s maximum gross weight rating, where no application for transfer is required, the person making such transfer, or his authorized representative, shall sign and shall record on the document evidencing the transfer of the vehicle the actual mileage of the vehicle as indicated by the vehicle’s odometer at the time of the transfer. However, if the person making the transfer, or his authorized representative, has knowledge that the mileage displayed on the odometer is incorrect, such person shall record on the document the true mileage, if known, of the vehicle at the time of transfer.\n\n(b) Whenever the person making such transfer is not in possession of the vehicle that is transferred, the person in physical possession of such vehicle shall provide the information required by subdivision (a).",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 2. Transfers of Title or Interest [5600 - 6105]\n#### Article 3. Notice and Application [5900 - 5912]\n##### § 5906.5\n\n(a) Except as otherwise provided in subdivision (b), in the case of any transfer, including, but not limited to, a transfer resulting from a sale, lease, gift, or auction, of a vehicle under 6,001 pounds, manufacturer’s maximum gross weight rating, where no application for transfer is required, the person making such transfer, or his authorized representative, shall sign and shall record on the document evidencing the transfer of the vehicle the actual mileage of the vehicle as indicated by the vehicle’s odometer at the time of the transfer. However, if the person making the transfer, or his authorized representative, has knowledge that the mileage displayed on the odometer is incorrect, such person shall record on the document the true mileage, if known, of the vehicle at the time of transfer.\n\n(b) Whenever the person making such transfer is not in possession of the vehicle that is transferred, the person in physical possession of such vehicle shall provide the information required by subdivision (a).\n\n*(Amended by Stats. 1978, Ch. 797.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as otherwise provided in subdivision (b), in the case of any transfer, including, but not limited to, a transfer resulting from a sale, lease, gift, or auction, of a vehicle under 6,001 pounds, manufacturer’s maximum gross weight rating, where no application for transfer is required, the person making such transfer, or his authorized representative, shall sign and shall record on the document evidencing the transfer of the vehicle the actual mileage of the vehicle as indicated by the vehicle’s odometer at the time of the transfer. However, if the person making the transfer, or his authorized representative, has knowledge that the mileage displayed on the odometer is incorrect, such person shall record on the document the true mileage, if known, of the vehicle at the time of transfer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Whenever the person making such transfer is not in possession of the vehicle that is transferred, the person in physical possession of such vehicle shall provide the information required by subdivision (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1978, Ch. 797.)",
+    "action": "Amended",
+    "statutes_year": 1978,
+    "chapter": "797",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1978",
+  "op_chapter": "797",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5906.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5906.5.html",
+  "content_sha256": "ef841f744b5909f230ddfc08576278af26682f8511b99171eb6937e458be4ad7",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

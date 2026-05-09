@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35709",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "4",
+  "article_title": "Local Authorities",
+  "article_range": "35700 - 35722",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.5",
+  "text": "The hearing shall be held in the county in which the highway is located within 25 days after a request therefor, and shall be conducted by one or more engineers of the Department of Transportation to be designated by the Director of Transportation. The engineers shall hear all evidence presented and report their findings in writing to the director. Such director shall, upon the basis of the findings, declare in writing the approval or disapproval of the reduction.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 4. Local Authorities [35700 - 35722]\n##### § 35709\n\nThe hearing shall be held in the county in which the highway is located within 25 days after a request therefor, and shall be conducted by one or more engineers of the Department of Transportation to be designated by the Director of Transportation. The engineers shall hear all evidence presented and report their findings in writing to the director. Such director shall, upon the basis of the findings, declare in writing the approval or disapproval of the reduction.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The hearing shall be held in the county in which the highway is located within 25 days after a request therefor, and shall be conducted by one or more engineers of the Department of Transportation to be designated by the Director of Transportation. The engineers shall hear all evidence presented and report their findings in writing to the director. Such director shall, upon the basis of the findings, declare in writing the approval or disapproval of the reduction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35709.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35709.html",
+  "content_sha256": "032d5b5af0299a37dcd39a31fe52568f7ef1587c35e9f26cbf1929ebfcdb0263",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

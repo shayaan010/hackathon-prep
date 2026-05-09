@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35252",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "3",
+  "chapter_title": "Height",
+  "chapter_range": "35250 - 35252",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.3",
+  "text": "(a) A pilot car may operate a vertical clearance measuring device with a height in excess of 14 feet when escorting a permitted overheight load. The pilot car may also operate the vertical clearance measuring device when surveying a route for a permitted overheight load.\n\n(b) Any vertical measuring device used by a pilot car shall be designed and operated so as to avoid any damages to overhead structures. The measuring device shall be securely affixed to the pilot car, and shall be operated in a manner that does not create a hazard to surrounding traffic.\n\n(c) The operator of the pilot car shall not reduce the vehicle’s speed more than 20 miles per hour below the posted speed limit on the roadway to measure overhead clearance, nor exit the vehicle to measure the clearance of overhead structures from a vantage point on or above the roadway.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 3. Height [35250 - 35252]\n##### § 35252\n\n(a) A pilot car may operate a vertical clearance measuring device with a height in excess of 14 feet when escorting a permitted overheight load. The pilot car may also operate the vertical clearance measuring device when surveying a route for a permitted overheight load.\n\n(b) Any vertical measuring device used by a pilot car shall be designed and operated so as to avoid any damages to overhead structures. The measuring device shall be securely affixed to the pilot car, and shall be operated in a manner that does not create a hazard to surrounding traffic.\n\n(c) The operator of the pilot car shall not reduce the vehicle’s speed more than 20 miles per hour below the posted speed limit on the roadway to measure overhead clearance, nor exit the vehicle to measure the clearance of overhead structures from a vantage point on or above the roadway.\n\n*(Added by Stats. 1988, Ch. 460, Sec. 5.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A pilot car may operate a vertical clearance measuring device with a height in excess of 14 feet when escorting a permitted overheight load. The pilot car may also operate the vertical clearance measuring device when surveying a route for a permitted overheight load.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any vertical measuring device used by a pilot car shall be designed and operated so as to avoid any damages to overhead structures. The measuring device shall be securely affixed to the pilot car, and shall be operated in a manner that does not create a hazard to surrounding traffic.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The operator of the pilot car shall not reduce the vehicle’s speed more than 20 miles per hour below the posted speed limit on the roadway to measure overhead clearance, nor exit the vehicle to measure the clearance of overhead structures from a vantage point on or above the roadway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 460, Sec. 5.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "460",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "460",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35252.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35252.html",
+  "content_sha256": "b83222ae113eaec490d24f9572e133e3357332cb79b7b5515fe5dea4a7c40680",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

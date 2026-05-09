@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "32002",
+  "division": "14.1",
+  "division_title": "TRANSPORTATION OF HAZARDOUS MATERIAL",
+  "division_range": "32000 - 32053",
+  "chapter": "1",
+  "chapter_title": "Licensing",
+  "chapter_range": "32000 - 32004",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "21.1",
+  "text": "(a) The commissioner may adopt any regulations that are necessary to administer this division. It is a misdemeanor for any motor carrier to violate this division or regulations adopted pursuant to this division.\n\n(b) Notwithstanding subdivision (a), it is unlawful for the motor carrier or the person who directs the driver to operate a vehicle transporting hazardous material, when that transportation requires a license pursuant to this division, to cause the operation of the vehicle unless the motor carrier holds a valid license for the transportation of hazardous materials. A violation of this subdivision shall be punished as follows:\n\n(1) For a first violation, by a fine of not less than two thousand dollars ($2,000).\n\n(2) For a second or subsequent violation, by a fine of not less than four thousand dollars ($4,000).",
+  "markdown": "# Vehicle Code\n## Division 14.1. TRANSPORTATION OF HAZARDOUS MATERIAL [32000 - 32053]\n### Chapter 1. Licensing [32000 - 32004]\n##### § 32002\n\n(a) The commissioner may adopt any regulations that are necessary to administer this division. It is a misdemeanor for any motor carrier to violate this division or regulations adopted pursuant to this division.\n\n(b) Notwithstanding subdivision (a), it is unlawful for the motor carrier or the person who directs the driver to operate a vehicle transporting hazardous material, when that transportation requires a license pursuant to this division, to cause the operation of the vehicle unless the motor carrier holds a valid license for the transportation of hazardous materials. A violation of this subdivision shall be punished as follows:\n\n    (1) For a first violation, by a fine of not less than two thousand dollars ($2,000).\n\n    (2) For a second or subsequent violation, by a fine of not less than four thousand dollars ($4,000).\n\n*(Amended by Stats. 1988, Ch. 1384, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The commissioner may adopt any regulations that are necessary to administer this division. It is a misdemeanor for any motor carrier to violate this division or regulations adopted pursuant to this division.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding subdivision (a), it is unlawful for the motor carrier or the person who directs the driver to operate a vehicle transporting hazardous material, when that transportation requires a license pursuant to this division, to cause the operation of the vehicle unless the motor carrier holds a valid license for the transportation of hazardous materials. A violation of this subdivision shall be punished as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "For a first violation, by a fine of not less than two thousand dollars ($2,000).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "For a second or subsequent violation, by a fine of not less than four thousand dollars ($4,000).",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1988, Ch. 1384, Sec. 4.)",
+    "action": "Amended",
+    "statutes_year": 1988,
+    "chapter": "1384",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1384",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=32002.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/32002.html",
+  "content_sha256": "68475df2eede3098c8b8e5e68da330a44e8e3c1fd29968ff492be444390ae466",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

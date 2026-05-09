@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38040",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "2",
+  "chapter_title": "Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership",
+  "chapter_range": "38010 - 38265",
+  "article": "2",
+  "article_title": "Original Identification",
+  "article_range": "38040 - 38060",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.2.2",
+  "text": "Application for the original identification of a motor vehicle, other than a motorcycle, required to be identified pursuant to this division shall be made by the owner to the department upon the appropriate form furnished by it and shall contain all of the following:\n\n(a) The true, full name, business or residence and mailing address, and the driver’s license or identification card number, if any, of the owner and the legal owner, if any.\n\n(b) The name of the county in which the owner resides.\n\n(c) A description of the vehicle, including the following, insofar as it may exist:\n\n(1) The make, model, and type of body.\n\n(2) The vehicle identification number or any other number as may be required by the department.\n\n(d) Information as may reasonably be required by the department to enable it to determine whether the vehicle is lawfully entitled to identification.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 2. Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership [38010 - 38265]\n#### Article 2. Original Identification [38040 - 38060]\n##### § 38040\n\nApplication for the original identification of a motor vehicle, other than a motorcycle, required to be identified pursuant to this division shall be made by the owner to the department upon the appropriate form furnished by it and shall contain all of the following:\n\n(a) The true, full name, business or residence and mailing address, and the driver’s license or identification card number, if any, of the owner and the legal owner, if any.\n\n(b) The name of the county in which the owner resides.\n\n(c) A description of the vehicle, including the following, insofar as it may exist:\n\n    (1) The make, model, and type of body.\n\n    (2) The vehicle identification number or any other number as may be required by the department.\n\n(d) Information as may reasonably be required by the department to enable it to determine whether the vehicle is lawfully entitled to identification.\n\n*(Amended by Stats. 1994, Ch. 1221, Sec. 18. Effective January 1, 1995.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Application for the original identification of a motor vehicle, other than a motorcycle, required to be identified pursuant to this division shall be made by the owner to the department upon the appropriate form furnished by it and shall contain all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The true, full name, business or residence and mailing address, and the driver’s license or identification card number, if any, of the owner and the legal owner, if any.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The name of the county in which the owner resides.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A description of the vehicle, including the following, insofar as it may exist:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The make, model, and type of body.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The vehicle identification number or any other number as may be required by the department.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "d",
+      "text": "Information as may reasonably be required by the department to enable it to determine whether the vehicle is lawfully entitled to identification.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 1221, Sec. 18. Effective January 1, 1995.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "1221",
+    "section": "18",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "1221",
+  "op_section": "18",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38040.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38040.html",
+  "content_sha256": "b8933a88cff915d22194f6c21da980c7af62806619fe82d5d854805b0ba57e53",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

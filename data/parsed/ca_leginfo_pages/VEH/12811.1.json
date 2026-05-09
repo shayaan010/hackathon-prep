@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12811.1",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "3",
+  "article_title": "Issuance and Renewal of Licenses",
+  "article_range": "12800 - 12819",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.3",
+  "text": "(a) Upon the applicant’s request, the department shall issue an adhesive backed medical information card which contains a format permitting the licensee to specify blood type, allergies, past or present medical problems, any medication being taken, the name of the licensee’s doctor, the person to notify in case of an emergency, and whether the licensee is under a doctor’s care.\n\n(b) The medical information card, which shall be a different color than the anatomical gift Donor Dot authorized by Section 12811.3, shall be the same size as a driver’s license.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 3. Issuance and Renewal of Licenses [12800 - 12819]\n##### § 12811.1\n\n(a) Upon the applicant’s request, the department shall issue an adhesive backed medical information card which contains a format permitting the licensee to specify blood type, allergies, past or present medical problems, any medication being taken, the name of the licensee’s doctor, the person to notify in case of an emergency, and whether the licensee is under a doctor’s care.\n\n(b) The medical information card, which shall be a different color than the anatomical gift Donor Dot authorized by Section 12811.3, shall be the same size as a driver’s license.\n\n*(Amended by Stats. 2021, Ch. 211, Sec. 4. (AB 1374) Effective January 1, 2022.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Upon the applicant’s request, the department shall issue an adhesive backed medical information card which contains a format permitting the licensee to specify blood type, allergies, past or present medical problems, any medication being taken, the name of the licensee’s doctor, the person to notify in case of an emergency, and whether the licensee is under a doctor’s care.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The medical information card, which shall be a different color than the anatomical gift Donor Dot authorized by Section 12811.3, shall be the same size as a driver’s license.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 211, Sec. 4. (AB 1374) Effective January 1, 2022.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "211",
+    "section": "4",
+    "bill_number": "AB 1374",
+    "effective_date": "2022-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "211",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12811.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12811.1.html",
+  "content_sha256": "0569dc050b791c49a2612fcd79062c7043348ae692d7d9e4567c1bc341288e2f",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

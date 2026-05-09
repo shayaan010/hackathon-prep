@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38600",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "8",
+  "chapter_title": "Recreational Off-Highway Vehicles",
+  "chapter_range": "38600 - 38604",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.6",
+  "text": "A person operating a recreational off-highway vehicle on lands, as described in Section 38001, shall be at least 16 years of age, or be directly supervised in the vehicle by a parent or guardian or by an adult authorized by the parent or guardian.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 8. Recreational Off-Highway Vehicles [38600 - 38604]\n##### § 38600\n\nA person operating a recreational off-highway vehicle on lands, as described in Section 38001, shall be at least 16 years of age, or be directly supervised in the vehicle by a parent or guardian or by an adult authorized by the parent or guardian.\n\n*(Amended by Stats. 2019, Ch. 469, Sec. 12. (SB 785) Effective January 1, 2020.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A person operating a recreational off-highway vehicle on lands, as described in Section 38001, shall be at least 16 years of age, or be directly supervised in the vehicle by a parent or guardian or by an adult authorized by the parent or guardian.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2019, Ch. 469, Sec. 12. (SB 785) Effective January 1, 2020.)",
+    "action": "Amended",
+    "statutes_year": 2019,
+    "chapter": "469",
+    "section": "12",
+    "bill_number": "SB 785",
+    "effective_date": "2020-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2019",
+  "op_chapter": "469",
+  "op_section": "12",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38600.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38600.html",
+  "content_sha256": "d5ba428e31b45f8242ec6d21a71f30f42f3123dc16dd97fe44aec0a92e0a6446",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

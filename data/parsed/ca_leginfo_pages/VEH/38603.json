@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38603",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "8",
+  "chapter_title": "Recreational Off-Highway Vehicles",
+  "chapter_range": "38600 - 38604",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.6",
+  "text": "(a) A person operating a recreational off-highway vehicle with a model year of 2014 or later on lands, as described in Section 38001, shall not allow a passenger to occupy a separate seat location not designed and provided by the manufacturer for a passenger.\n\n(b) Seats that are installed in a separate seat location not designed and provided by the manufacturer for a passenger in a vehicle with a model year of 2013 or earlier on lands, as described in Section 38001, may be occupied by a passenger if the occupant of the seat is fully contained inside of the vehicle’s rollover protection structure at all times while the vehicle is being operated.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 8. Recreational Off-Highway Vehicles [38600 - 38604]\n##### § 38603\n\n(a) A person operating a recreational off-highway vehicle with a model year of 2014 or later on lands, as described in Section 38001, shall not allow a passenger to occupy a separate seat location not designed and provided by the manufacturer for a passenger.\n\n(b) Seats that are installed in a separate seat location not designed and provided by the manufacturer for a passenger in a vehicle with a model year of 2013 or earlier on lands, as described in Section 38001, may be occupied by a passenger if the occupant of the seat is fully contained inside of the vehicle’s rollover protection structure at all times while the vehicle is being operated.\n\n*(Amended by Stats. 2019, Ch. 469, Sec. 15. (SB 785) Effective January 1, 2020.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person operating a recreational off-highway vehicle with a model year of 2014 or later on lands, as described in Section 38001, shall not allow a passenger to occupy a separate seat location not designed and provided by the manufacturer for a passenger.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Seats that are installed in a separate seat location not designed and provided by the manufacturer for a passenger in a vehicle with a model year of 2013 or earlier on lands, as described in Section 38001, may be occupied by a passenger if the occupant of the seat is fully contained inside of the vehicle’s rollover protection structure at all times while the vehicle is being operated.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2019, Ch. 469, Sec. 15. (SB 785) Effective January 1, 2020.)",
+    "action": "Amended",
+    "statutes_year": 2019,
+    "chapter": "469",
+    "section": "15",
+    "bill_number": "SB 785",
+    "effective_date": "2020-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2019",
+  "op_chapter": "469",
+  "op_section": "15",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38603.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38603.html",
+  "content_sha256": "0f8b212a77674560bcb6d9fa2d0ac4d043e2ce0bc8e8f40b1e41f1fe2fe26319",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

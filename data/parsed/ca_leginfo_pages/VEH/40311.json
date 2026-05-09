@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40311",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "1",
+  "article_title": "Arrests",
+  "article_range": "40300 - 40313",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.1",
+  "text": "Whenever a person is arrested under authority of a warrant, the court to which such person is taken shall, with his consent, have jurisdiction to arraign him at that time for any other alleged violation of this code or an ordinance relating to traffic offenses for which he has been issued a written notice to appear in court, notwithstanding the fact that the time for appearance specified in such notice has not yet arrived.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 1. Arrests [40300 - 40313]\n##### § 40311\n\nWhenever a person is arrested under authority of a warrant, the court to which such person is taken shall, with his consent, have jurisdiction to arraign him at that time for any other alleged violation of this code or an ordinance relating to traffic offenses for which he has been issued a written notice to appear in court, notwithstanding the fact that the time for appearance specified in such notice has not yet arrived.\n\n*(Added by Stats. 1959, Ch. 977.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever a person is arrested under authority of a warrant, the court to which such person is taken shall, with his consent, have jurisdiction to arraign him at that time for any other alleged violation of this code or an ordinance relating to traffic offenses for which he has been issued a written notice to appear in court, notwithstanding the fact that the time for appearance specified in such notice has not yet arrived.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1959, Ch. 977.)",
+    "action": "Added",
+    "statutes_year": 1959,
+    "chapter": "977",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "977",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40311.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40311.html",
+  "content_sha256": "f5b180fbb1532df8f89609609f67ab3bf19c60307d56a4c6861945b60a9bdb15",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27153.5",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "2",
+  "article_title": "Exhaust Systems",
+  "article_range": "27150 - 27159",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.2",
+  "text": "(a) No motor vehicle first sold or registered as a new motor vehicle on or after January 1, 1971, shall discharge into the atmosphere at elevation of less than 4,000 feet any air contaminant for a period of more than 10 seconds which is:\n\n(1) As dark or darker in shade as that designated as No. 1 on the Ringelmann Chart, as published by the United States Bureau of Mines, or\n\n(2) Of such opacity as to obscure an observer’s view to a degree equal to or greater than does smoke described in paragraph (1) of this subdivision.\n\n(b) No motor vehicle first sold or registered prior to January 1, 1971, shall discharge into the atmosphere at elevation of less than 4,000 feet any air contaminant for a period of more than 10 seconds which is:\n\n(1) As dark or darker in shade than that designated as No. 2 on the Ringelmann Chart, as published by the United States Bureau of Mines, or\n\n(2) Of such opacity as to obscure an observer’s view to a degree equal to or greater than does smoke described in paragraph (1) of this subdivision.\n\n(c) The provisions of this section apply to motor vehicles of the United States or its agencies, to the extent authorized by federal law.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 2. Exhaust Systems [27150 - 27159]\n##### § 27153.5\n\n(a) No motor vehicle first sold or registered as a new motor vehicle on or after January 1, 1971, shall discharge into the atmosphere at elevation of less than 4,000 feet any air contaminant for a period of more than 10 seconds which is:\n\n    (1) As dark or darker in shade as that designated as No. 1 on the Ringelmann Chart, as published by the United States Bureau of Mines, or\n\n    (2) Of such opacity as to obscure an observer’s view to a degree equal to or greater than does smoke described in paragraph (1) of this subdivision.\n\n(b) No motor vehicle first sold or registered prior to January 1, 1971, shall discharge into the atmosphere at elevation of less than 4,000 feet any air contaminant for a period of more than 10 seconds which is:\n\n    (1) As dark or darker in shade than that designated as No. 2 on the Ringelmann Chart, as published by the United States Bureau of Mines, or\n\n    (2) Of such opacity as to obscure an observer’s view to a degree equal to or greater than does smoke described in paragraph (1) of this subdivision.\n\n(c) The provisions of this section apply to motor vehicles of the United States or its agencies, to the extent authorized by federal law.\n\n*(Amended by Stats. 1973, Ch. 216.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No motor vehicle first sold or registered as a new motor vehicle on or after January 1, 1971, shall discharge into the atmosphere at elevation of less than 4,000 feet any air contaminant for a period of more than 10 seconds which is:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "As dark or darker in shade as that designated as No. 1 on the Ringelmann Chart, as published by the United States Bureau of Mines, or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Of such opacity as to obscure an observer’s view to a degree equal to or greater than does smoke described in paragraph (1) of this subdivision.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "No motor vehicle first sold or registered prior to January 1, 1971, shall discharge into the atmosphere at elevation of less than 4,000 feet any air contaminant for a period of more than 10 seconds which is:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "As dark or darker in shade than that designated as No. 2 on the Ringelmann Chart, as published by the United States Bureau of Mines, or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Of such opacity as to obscure an observer’s view to a degree equal to or greater than does smoke described in paragraph (1) of this subdivision.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "The provisions of this section apply to motor vehicles of the United States or its agencies, to the extent authorized by federal law.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1973, Ch. 216.)",
+    "action": "Amended",
+    "statutes_year": 1973,
+    "chapter": "216",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1973",
+  "op_chapter": "216",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27153.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27153.5.html",
+  "content_sha256": "2fb69336301461980db338fe7faf758d5bb56566db255a7d3e5df301214cffab",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

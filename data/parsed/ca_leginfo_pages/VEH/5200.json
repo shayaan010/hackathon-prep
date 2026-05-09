@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5200",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "9",
+  "article_title": "Display of Plates, Tabs, and Stickers",
+  "article_range": "5200 - 5206",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.15",
+  "text": "(a) When two license plates are issued by the department for use upon a vehicle, they shall be attached to the vehicle for which they were issued, one in the front and the other in the rear.\n\n(b) When only one license plate is issued for use upon a vehicle, it shall be attached to the rear thereof, unless the license plate is issued for use upon a truck tractor, in which case the license plate shall be displayed in accordance with Section 4850.5.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 9. Display of Plates, Tabs, and Stickers [5200 - 5206]\n##### § 5200\n\n(a) When two license plates are issued by the department for use upon a vehicle, they shall be attached to the vehicle for which they were issued, one in the front and the other in the rear.\n\n(b) When only one license plate is issued for use upon a vehicle, it shall be attached to the rear thereof, unless the license plate is issued for use upon a truck tractor, in which case the license plate shall be displayed in accordance with Section 4850.5.\n\n*(Amended by Stats. 2003, Ch. 594, Sec. 27. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "When two license plates are issued by the department for use upon a vehicle, they shall be attached to the vehicle for which they were issued, one in the front and the other in the rear.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When only one license plate is issued for use upon a vehicle, it shall be attached to the rear thereof, unless the license plate is issued for use upon a truck tractor, in which case the license plate shall be displayed in accordance with Section 4850.5.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 594, Sec. 27. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "594",
+    "section": "27",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "594",
+  "op_section": "27",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5200.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5200.html",
+  "content_sha256": "458cca8536a14a711c555f8f5a942d18dc4f1a0d943b6756598a9ccb67323d60",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

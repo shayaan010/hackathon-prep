@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12206",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "11",
+  "chapter_title": "Consumer Recovery Fund",
+  "chapter_range": "12200 - 12217",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.14",
+  "text": "(a) Within 30 days of receiving an application, the recovery corporation shall notify the applicant, in writing, that the application is complete or, if the application is incomplete, what additional information is required.\n\n(b) (1) Within 60 days of the recovery corporation providing notice to the applicant of a complete application, the recovery corporation shall either pay the eligible claim from the fund as prescribed in this chapter or deny the claim. A claim shall be deemed granted unless the directors affirmatively vote to deny the claim.\n\n(2) The recovery corporation, for good cause, may extend the 60-day period not more than an additional 90 days to investigate the accuracy of the application or evidence submitted by a dealer or lessor-retailer.\n\n(c) A director shall not be involved in the decision of a claim if the director has a financial interest in the outcome of the decision; has a financial interest in or is employed by the participant that is the subject of the claim; or has a familial or close personal relationship with the claimant or an owner, officer, director, or manager of the participant.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 11. Consumer Recovery Fund [12200 - 12217]\n##### § 12206\n\n(a) Within 30 days of receiving an application, the recovery corporation shall notify the applicant, in writing, that the application is complete or, if the application is incomplete, what additional information is required.\n\n(b) (1) Within 60 days of the recovery corporation providing notice to the applicant of a complete application, the recovery corporation shall either pay the eligible claim from the fund as prescribed in this chapter or deny the claim. A claim shall be deemed granted unless the directors affirmatively vote to deny the claim.\n\n    (2) The recovery corporation, for good cause, may extend the 60-day period not more than an additional 90 days to investigate the accuracy of the application or evidence submitted by a dealer or lessor-retailer.\n\n(c) A director shall not be involved in the decision of a claim if the director has a financial interest in the outcome of the decision; has a financial interest in or is employed by the participant that is the subject of the claim; or has a familial or close personal relationship with the claimant or an owner, officer, director, or manager of the participant.\n\n*(Added by Stats. 2007, Ch. 437, Sec. 6. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Within 30 days of receiving an application, the recovery corporation shall notify the applicant, in writing, that the application is complete or, if the application is incomplete, what additional information is required.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "(1) Within 60 days of the recovery corporation providing notice to the applicant of a complete application, the recovery corporation shall either pay the eligible claim from the fund as prescribed in this chapter or deny the claim. A claim shall be deemed granted unless the directors affirmatively vote to deny the claim.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The recovery corporation, for good cause, may extend the 60-day period not more than an additional 90 days to investigate the accuracy of the application or evidence submitted by a dealer or lessor-retailer.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "A director shall not be involved in the decision of a claim if the director has a financial interest in the outcome of the decision; has a financial interest in or is employed by the participant that is the subject of the claim; or has a familial or close personal relationship with the claimant or an owner, officer, director, or manager of the participant.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2007, Ch. 437, Sec. 6. Effective January 1, 2008.)",
+    "action": "Added",
+    "statutes_year": 2007,
+    "chapter": "437",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "437",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12206.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12206.html",
+  "content_sha256": "8d807f12ed2575b02bfdec444a292aa3802dd7e18a77f75c2e9de301aef37ebe",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12003",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "7",
+  "chapter_title": "Sale of Automobile Parts",
+  "chapter_range": "12000 - 12003",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.10",
+  "text": "Any violation of this chapter shall be a misdemeanor.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 7. Sale of Automobile Parts [12000 - 12003]\n##### § 12003\n\nAny violation of this chapter shall be a misdemeanor.\n\n*(Added by Stats. 1975, Ch. 678.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any violation of this chapter shall be a misdemeanor.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1975, Ch. 678.)",
+    "action": "Added",
+    "statutes_year": 1975,
+    "chapter": "678",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "678",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12003.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12003.html",
+  "content_sha256": "c4c76ab2c7891cefe18c258c32ee47d500d7746c115ae0adf4a62c63d8db9261",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

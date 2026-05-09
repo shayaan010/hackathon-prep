@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15275",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "7",
+  "chapter_title": "Commercial Motor Vehicle Safety Program",
+  "chapter_range": "15200 - 15326",
+  "article": "6",
+  "article_title": "Endorsements",
+  "article_range": "15275 - 15278",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.7.6",
+  "text": "(a) A person may not operate a commercial motor vehicle described in this chapter unless that person has in his or her possession a valid commercial driver’s license for the appropriate class, and an endorsement issued by the department to permit the operation of the vehicle unless exempt from the requirement to obtain an endorsement pursuant to subdivision (b) of Section 15278.\n\n(b) (1) An endorsement to drive vehicles specified in this article shall be issued only to applicants who are qualified by examinations prescribed by the department and who meet the minimum standards established in Part 383 of Title 49 of the Code of Federal Regulations.\n\n(2) A hazardous materials endorsement shall be issued only to applicants who comply with paragraph (1) and the requirements set forth in Part 1572 of Title 49 of the Code of Federal Regulations.\n\n(c) The department may deny, suspend, revoke, or cancel an endorsement to drive vehicles specified in this article when the applicant does not meet the qualifications for the issuance or retention of the endorsement.\n\n(d) If the department denies, suspends, revokes, or cancels a hazardous materials endorsement because the department received notification that the applicant poses a security threat pursuant to Part 1572 of Title 49 of the Code of Federal Regulations, and, upon appeal by the United States Transportation Security Administration, that endorsement is ordered reinstated, the department shall issue or restore the hazardous materials endorsement to the applicant within the period specified under those federal regulations.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 7. Commercial Motor Vehicle Safety Program [15200 - 15326]\n#### Article 6. Endorsements [15275 - 15278]\n##### § 15275\n\n(a) A person may not operate a commercial motor vehicle described in this chapter unless that person has in his or her possession a valid commercial driver’s license for the appropriate class, and an endorsement issued by the department to permit the operation of the vehicle unless exempt from the requirement to obtain an endorsement pursuant to subdivision (b) of Section 15278.\n\n(b) (1) An endorsement to drive vehicles specified in this article shall be issued only to applicants who are qualified by examinations prescribed by the department and who meet the minimum standards established in Part 383 of Title 49 of the Code of Federal Regulations.\n\n    (2) A hazardous materials endorsement shall be issued only to applicants who comply with paragraph (1) and the requirements set forth in Part 1572 of Title 49 of the Code of Federal Regulations.\n\n(c) The department may deny, suspend, revoke, or cancel an endorsement to drive vehicles specified in this article when the applicant does not meet the qualifications for the issuance or retention of the endorsement.\n\n(d) If the department denies, suspends, revokes, or cancels a hazardous materials endorsement because the department received notification that the applicant poses a security threat pursuant to Part 1572 of Title 49 of the Code of Federal Regulations, and, upon appeal by the United States Transportation Security Administration, that endorsement is ordered reinstated, the department shall issue or restore the hazardous materials endorsement to the applicant within the period specified under those federal regulations.\n\n*(Amended by Stats. 2005, Ch. 22, Sec. 201. Effective January 1, 2006.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person may not operate a commercial motor vehicle described in this chapter unless that person has in his or her possession a valid commercial driver’s license for the appropriate class, and an endorsement issued by the department to permit the operation of the vehicle unless exempt from the requirement to obtain an endorsement pursuant to subdivision (b) of Section 15278.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "(1) An endorsement to drive vehicles specified in this article shall be issued only to applicants who are qualified by examinations prescribed by the department and who meet the minimum standards established in Part 383 of Title 49 of the Code of Federal Regulations.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "A hazardous materials endorsement shall be issued only to applicants who comply with paragraph (1) and the requirements set forth in Part 1572 of Title 49 of the Code of Federal Regulations.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "The department may deny, suspend, revoke, or cancel an endorsement to drive vehicles specified in this article when the applicant does not meet the qualifications for the issuance or retention of the endorsement.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "If the department denies, suspends, revokes, or cancels a hazardous materials endorsement because the department received notification that the applicant poses a security threat pursuant to Part 1572 of Title 49 of the Code of Federal Regulations, and, upon appeal by the United States Transportation Security Administration, that endorsement is ordered reinstated, the department shall issue or restore the hazardous materials endorsement to the applicant within the period specified under those federal regulations.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2005, Ch. 22, Sec. 201. Effective January 1, 2006.)",
+    "action": "Amended",
+    "statutes_year": 2005,
+    "chapter": "22",
+    "section": "201",
+    "bill_number": null,
+    "effective_date": "2006-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2005",
+  "op_chapter": "22",
+  "op_section": "201",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15275.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15275.html",
+  "content_sha256": "9ac8435fcf56f71c180e6ac6be08ef913885fa1c96d671e2a833e30a6267de6b",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

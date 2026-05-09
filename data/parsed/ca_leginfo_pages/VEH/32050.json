@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "32050",
+  "division": "14.1",
+  "division_title": "TRANSPORTATION OF HAZARDOUS MATERIAL",
+  "division_range": "32000 - 32053",
+  "chapter": "2",
+  "chapter_title": "Notification of Routes",
+  "chapter_range": "32050 - 32053",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "21.2",
+  "text": "(a) Prior to the transport of anhydrous hydrazine, methylhydrazine, dimethylhydrazine, Aerozine 50, fuming nitric acid, liquid fluorine, or nitrogen tetroxide in bulk packaging, except when that packaging contains only residue, outside the confines of a facility where that material was used or stored, or prior to the delivery of that bulk material to a carrier for transport, each carrier shall provide advance notification, in writing, of the shipment, to the department, which, in turn, shall notify the sheriff of each county and police chief of each city in which is located the proposed route. Notification shall be made through the Department of Justice’s California Law Enforcement Telecommunications System. The sheriffs and police chiefs shall, in turn, make timely notification to the fire chiefs within their respective jurisdictions through a mutually agreed upon communications system.\n\n(b) Subdivision (a) applies only to the extent that it does not conflict with federal law.\n\n(c) For the purposes of this section, the following definitions apply:\n\n(1) “Bulk packaging” has the same meaning as defined in Section 171.8 of Title 49 of the Code of Federal Regulations.\n\n(2) “Fire chief” means the fire chief of each county and city fire department and the fire chief of each fire protection district serving a population greater than 15,000 in which is located the proposed route. This paragraph does not apply to any fire chief of a fire department or fire protection district that is composed of 50 percent or more volunteer firefighters.\n\n(3) “Residue” has the same meaning as defined in Section 171.8 of Title 49 of the Code of Federal Regulations.",
+  "markdown": "# Vehicle Code\n## Division 14.1. TRANSPORTATION OF HAZARDOUS MATERIAL [32000 - 32053]\n### Chapter 2. Notification of Routes [32050 - 32053]\n##### § 32050\n\n(a) Prior to the transport of anhydrous hydrazine, methylhydrazine, dimethylhydrazine, Aerozine 50, fuming nitric acid, liquid fluorine, or nitrogen tetroxide in bulk packaging, except when that packaging contains only residue, outside the confines of a facility where that material was used or stored, or prior to the delivery of that bulk material to a carrier for transport, each carrier shall provide advance notification, in writing, of the shipment, to the department, which, in turn, shall notify the sheriff of each county and police chief of each city in which is located the proposed route. Notification shall be made through the Department of Justice’s California Law Enforcement Telecommunications System. The sheriffs and police chiefs shall, in turn, make timely notification to the fire chiefs within their respective jurisdictions through a mutually agreed upon communications system.\n\n(b) Subdivision (a) applies only to the extent that it does not conflict with federal law.\n\n(c) For the purposes of this section, the following definitions apply:\n\n    (1) “Bulk packaging” has the same meaning as defined in Section 171.8 of Title 49 of the Code of Federal Regulations.\n\n    (2) “Fire chief” means the fire chief of each county and city fire department and the fire chief of each fire protection district serving a population greater than 15,000 in which is located the proposed route. This paragraph does not apply to any fire chief of a fire department or fire protection district that is composed of 50 percent or more volunteer firefighters.\n\n    (3) “Residue” has the same meaning as defined in Section 171.8 of Title 49 of the Code of Federal Regulations.\n\n*(Amended by Stats. 1996, Ch. 124, Sec. 135. Effective January 1, 1997.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Prior to the transport of anhydrous hydrazine, methylhydrazine, dimethylhydrazine, Aerozine 50, fuming nitric acid, liquid fluorine, or nitrogen tetroxide in bulk packaging, except when that packaging contains only residue, outside the confines of a facility where that material was used or stored, or prior to the delivery of that bulk material to a carrier for transport, each carrier shall provide advance notification, in writing, of the shipment, to the department, which, in turn, shall notify the sheriff of each county and police chief of each city in which is located the proposed route. Notification shall be made through the Department of Justice’s California Law Enforcement Telecommunications System. The sheriffs and police chiefs shall, in turn, make timely notification to the fire chiefs within their respective jurisdictions through a mutually agreed upon communications system.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Subdivision (a) applies only to the extent that it does not conflict with federal law.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "For the purposes of this section, the following definitions apply:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "“Bulk packaging” has the same meaning as defined in Section 171.8 of Title 49 of the Code of Federal Regulations.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "“Fire chief” means the fire chief of each county and city fire department and the fire chief of each fire protection district serving a population greater than 15,000 in which is located the proposed route. This paragraph does not apply to any fire chief of a fire department or fire protection district that is composed of 50 percent or more volunteer firefighters.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "“Residue” has the same meaning as defined in Section 171.8 of Title 49 of the Code of Federal Regulations.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 124, Sec. 135. Effective January 1, 1997.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "124",
+    "section": "135",
+    "bill_number": null,
+    "effective_date": "1997-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "124",
+  "op_section": "135",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=32050.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/32050.html",
+  "content_sha256": "b064e82960fc981e144e970bd487f390472da0bffa2d895f000a1977ff818fd0",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

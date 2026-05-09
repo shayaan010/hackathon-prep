@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4774",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "6.5",
+  "article_title": "Refusal of Registration for Nonpayment of Toll Evasion Penalties",
+  "article_range": "4770 - 4775",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.7",
+  "text": "(a) If a vehicle is transferred or the registration is not renewed for two renewal periods and the former registered owner or lessee of the vehicle owes a toll evasion penalty for a notice of delinquent toll evasion violation filed with the department pursuant to Section 40267, the department shall notify each jurisdiction of that fact and is not required thereafter to attempt collection of the undeposited toll evasion penalty and administrative fees.\n\n(b) This section does not apply if the transfer of a vehicle is one described in Section 6285 of the Revenue and Taxation Code.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 6.5. Refusal of Registration for Nonpayment of Toll Evasion Penalties [4770 - 4775]\n##### § 4774\n\n(a) If a vehicle is transferred or the registration is not renewed for two renewal periods and the former registered owner or lessee of the vehicle owes a toll evasion penalty for a notice of delinquent toll evasion violation filed with the department pursuant to Section 40267, the department shall notify each jurisdiction of that fact and is not required thereafter to attempt collection of the undeposited toll evasion penalty and administrative fees.\n\n(b) This section does not apply if the transfer of a vehicle is one described in Section 6285 of the Revenue and Taxation Code.\n\n*(Amended by Stats. 2013, Ch. 101, Sec. 3. (AB 443) Effective January 1, 2014.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If a vehicle is transferred or the registration is not renewed for two renewal periods and the former registered owner or lessee of the vehicle owes a toll evasion penalty for a notice of delinquent toll evasion violation filed with the department pursuant to Section 40267, the department shall notify each jurisdiction of that fact and is not required thereafter to attempt collection of the undeposited toll evasion penalty and administrative fees.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply if the transfer of a vehicle is one described in Section 6285 of the Revenue and Taxation Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2013, Ch. 101, Sec. 3. (AB 443) Effective January 1, 2014.)",
+    "action": "Amended",
+    "statutes_year": 2013,
+    "chapter": "101",
+    "section": "3",
+    "bill_number": "AB 443",
+    "effective_date": "2014-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2013",
+  "op_chapter": "101",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4774.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4774.html",
+  "content_sha256": "5fc7f5eb0c7e6b44ef597f4307180f09d322076d1b2568b58b087fa5aa8a22d9",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

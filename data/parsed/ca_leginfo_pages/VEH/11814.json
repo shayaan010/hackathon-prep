@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11814",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "4",
+  "chapter_title": "Manufacturers, Transporters, Dealers, and Salesmen",
+  "chapter_range": "11700 - 11909",
+  "article": "2",
+  "article_title": "Vehicle Salespersons",
+  "article_range": "11800 - 11824",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.7.3",
+  "text": "(a) Every original vehicle salesperson’s license issued, and every vehicle salesperson’s license renewed, pursuant to subdivision (b) shall be valid for a period of three years from the date of issuance unless canceled, suspended, or revoked by the department.\n\n(b) Renewal of a vehicle salesperson’s license may be made prior to the expiration date. A vehicle salesperson may not renew their license after the date of expiration.\n\n(c) A salesperson shall obtain a duplicate license when the original is either lost or mutilated.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 4. Manufacturers, Transporters, Dealers, and Salesmen [11700 - 11909]\n#### Article 2. Vehicle Salespersons [11800 - 11824]\n##### § 11814\n\n(a) Every original vehicle salesperson’s license issued, and every vehicle salesperson’s license renewed, pursuant to subdivision (b) shall be valid for a period of three years from the date of issuance unless canceled, suspended, or revoked by the department.\n\n(b) Renewal of a vehicle salesperson’s license may be made prior to the expiration date. A vehicle salesperson may not renew their license after the date of expiration.\n\n(c) A salesperson shall obtain a duplicate license when the original is either lost or mutilated.\n\n*(Amended by Stats. 2022, Ch. 838, Sec. 6. (SB 1193) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every original vehicle salesperson’s license issued, and every vehicle salesperson’s license renewed, pursuant to subdivision (b) shall be valid for a period of three years from the date of issuance unless canceled, suspended, or revoked by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Renewal of a vehicle salesperson’s license may be made prior to the expiration date. A vehicle salesperson may not renew their license after the date of expiration.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A salesperson shall obtain a duplicate license when the original is either lost or mutilated.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 838, Sec. 6. (SB 1193) Effective January 1, 2023.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "838",
+    "section": "6",
+    "bill_number": "SB 1193",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "838",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11814.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11814.html",
+  "content_sha256": "dcd43a5af8c36c637823df6a886e9c5e31098d13b43d9dc99c8a3c8cdf9904b3",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

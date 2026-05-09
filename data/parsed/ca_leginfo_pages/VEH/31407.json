@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "31407",
+  "division": "13",
+  "division_title": "TOWING AND LOADING EQUIPMENT",
+  "division_range": "29000 - 31560",
+  "chapter": "5",
+  "chapter_title": "Transporting Other Loads",
+  "chapter_range": "31301 - 31560",
+  "article": "2",
+  "article_title": "Vehicles Transporting Workmen",
+  "article_range": "31400 - 31409",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "19.2.2",
+  "text": "All cutting tools or tools with sharp edges carried in the passenger compartment of a farm labor vehicle shall be placed in securely latched containers that are firmly attached to the vehicle. All other tools, equipment, or materials carried in the passenger compartment shall be secured to the body of the vehicle to prevent their movement while the vehicle is in motion. Under no circumstances shall those tools, equipment, or materials obstruct an aisle or an emergency exit.",
+  "markdown": "# Vehicle Code\n## Division 13. TOWING AND LOADING EQUIPMENT [29000 - 31560]\n### Chapter 5. Transporting Other Loads [31301 - 31560]\n#### Article 2. Vehicles Transporting Workmen [31400 - 31409]\n##### § 31407\n\nAll cutting tools or tools with sharp edges carried in the passenger compartment of a farm labor vehicle shall be placed in securely latched containers that are firmly attached to the vehicle. All other tools, equipment, or materials carried in the passenger compartment shall be secured to the body of the vehicle to prevent their movement while the vehicle is in motion. Under no circumstances shall those tools, equipment, or materials obstruct an aisle or an emergency exit.\n\n*(Added by Stats. 2000, Ch. 308, Sec. 5. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "All cutting tools or tools with sharp edges carried in the passenger compartment of a farm labor vehicle shall be placed in securely latched containers that are firmly attached to the vehicle. All other tools, equipment, or materials carried in the passenger compartment shall be secured to the body of the vehicle to prevent their movement while the vehicle is in motion. Under no circumstances shall those tools, equipment, or materials obstruct an aisle or an emergency exit.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2000, Ch. 308, Sec. 5. Effective January 1, 2001.)",
+    "action": "Added",
+    "statutes_year": 2000,
+    "chapter": "308",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "308",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=31407.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/31407.html",
+  "content_sha256": "873ee771ff007ac880707cc522cf85e9adfda8e61dd756c67052bf3c238400a1",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

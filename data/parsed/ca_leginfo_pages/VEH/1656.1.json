@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1656.1",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "2",
+  "article_title": "Powers and Duties",
+  "article_range": "1650 - 1685.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.2",
+  "text": "The Department of Justice shall, in conjunction with the department and the Commission on Peace Officer Standards and Training, develop and create a video demonstrating the proper conduct by a peace officer and an individual during a traffic stop. The department shall post this video on its internet website.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 2. Powers and Duties [1650 - 1685.1]\n##### § 1656.1\n\nThe Department of Justice shall, in conjunction with the department and the Commission on Peace Officer Standards and Training, develop and create a video demonstrating the proper conduct by a peace officer and an individual during a traffic stop. The department shall post this video on its internet website.\n\n*(Added by Stats. 2022, Ch. 332, Sec. 2. (AB 2537) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The Department of Justice shall, in conjunction with the department and the Commission on Peace Officer Standards and Training, develop and create a video demonstrating the proper conduct by a peace officer and an individual during a traffic stop. The department shall post this video on its internet website.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2022, Ch. 332, Sec. 2. (AB 2537) Effective January 1, 2023.)",
+    "action": "Added",
+    "statutes_year": 2022,
+    "chapter": "332",
+    "section": "2",
+    "bill_number": "AB 2537",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "332",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1656.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1656.1.html",
+  "content_sha256": "0c057a44cb78b031f51a2e7e167580976dfe2306ec2889b2c96397a3baa0e253",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

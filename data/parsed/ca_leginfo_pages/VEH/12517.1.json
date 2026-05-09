@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12517.1",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "1",
+  "article_title": "Persons Required to Be Licensed, Exemptions, and Age Limits",
+  "article_range": "12500 - 12527",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.1",
+  "text": "(a) A “schoolbus accident” means any of the following:\n\n(1) A motor vehicle accident resulting in property damage in excess of one thousand dollars ($1,000), or personal injury, on public or private property, and involving a schoolbus, youth bus, school pupil activity bus, or general public paratransit vehicle transporting a pupil.\n\n(2) A collision between a vehicle and a pupil or a schoolbus driver while the pupil or driver is crossing the highway when the schoolbus flashing red signal lamps are required to be operated pursuant to Section 22112 or when the schoolbus is stopped for the purpose of loading or unloading pupils.\n\n(3) Injury of a pupil inside a vehicle described in paragraph (1) as a result of acceleration, deceleration, or other movement of the vehicle.\n\n(b) The Department of the California Highway Patrol shall investigate all schoolbus accidents, except that accidents involving only property damage and occurring entirely on private property shall be investigated only if they involve a violation of this code.\n\n(c) This section shall become operative on January 1, 2017.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 1. Persons Required to Be Licensed, Exemptions, and Age Limits [12500 - 12527]\n##### § 12517.1\n\n(a) A “schoolbus accident” means any of the following:\n\n    (1) A motor vehicle accident resulting in property damage in excess of one thousand dollars ($1,000), or personal injury, on public or private property, and involving a schoolbus, youth bus, school pupil activity bus, or general public paratransit vehicle transporting a pupil.\n\n    (2) A collision between a vehicle and a pupil or a schoolbus driver while the pupil or driver is crossing the highway when the schoolbus flashing red signal lamps are required to be operated pursuant to Section 22112 or when the schoolbus is stopped for the purpose of loading or unloading pupils.\n\n    (3) Injury of a pupil inside a vehicle described in paragraph (1) as a result of acceleration, deceleration, or other movement of the vehicle.\n\n(b) The Department of the California Highway Patrol shall investigate all schoolbus accidents, except that accidents involving only property damage and occurring entirely on private property shall be investigated only if they involve a violation of this code.\n\n(c) This section shall become operative on January 1, 2017.\n\n*(Repealed (in Sec. 23) and added by Stats. 2015, Ch. 451, Sec. 24. (SB 491) Effective January 1, 2016. Section operative January 1, 2017, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A “schoolbus accident” means any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A motor vehicle accident resulting in property damage in excess of one thousand dollars ($1,000), or personal injury, on public or private property, and involving a schoolbus, youth bus, school pupil activity bus, or general public paratransit vehicle transporting a pupil.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "A collision between a vehicle and a pupil or a schoolbus driver while the pupil or driver is crossing the highway when the schoolbus flashing red signal lamps are required to be operated pursuant to Section 22112 or when the schoolbus is stopped for the purpose of loading or unloading pupils.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Injury of a pupil inside a vehicle described in paragraph (1) as a result of acceleration, deceleration, or other movement of the vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The Department of the California Highway Patrol shall investigate all schoolbus accidents, except that accidents involving only property damage and occurring entirely on private property shall be investigated only if they involve a violation of this code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section shall become operative on January 1, 2017.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed (in Sec. 23) and added by Stats. 2015, Ch. 451, Sec. 24. (SB 491) Effective January 1, 2016. Section operative January 1, 2017, by its own provisions.)",
+    "action": "Repealed",
+    "statutes_year": 2015,
+    "chapter": "451",
+    "section": "24",
+    "bill_number": "SB 491",
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2015",
+  "op_chapter": "451",
+  "op_section": "24",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12517.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12517.1.html",
+  "content_sha256": "5ba70c24e5c2a7ca6a535f134cc983a57a50a62b95a27a636a589490e437b2ec",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

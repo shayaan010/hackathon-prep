@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22511.9",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "Every new or replacement sign installed on or after January 1, 1992, relating to parking privileges for disabled persons shall refer to “disabled persons” rather than “physically handicapped persons” or any other similar term, whenever such a reference is required on a sign.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22511.9\n\nEvery new or replacement sign installed on or after January 1, 1992, relating to parking privileges for disabled persons shall refer to “disabled persons” rather than “physically handicapped persons” or any other similar term, whenever such a reference is required on a sign.\n\n*(Added by Stats. 1991, Ch. 928, Sec. 28. Effective October 14, 1991.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every new or replacement sign installed on or after January 1, 1992, relating to parking privileges for disabled persons shall refer to “disabled persons” rather than “physically handicapped persons” or any other similar term, whenever such a reference is required on a sign.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1991, Ch. 928, Sec. 28. Effective October 14, 1991.)",
+    "action": "Added",
+    "statutes_year": 1991,
+    "chapter": "928",
+    "section": "28",
+    "bill_number": null,
+    "effective_date": "1991-10-14",
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "928",
+  "op_section": "28",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22511.9.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22511.9.html",
+  "content_sha256": "18175a58d25dd20b55e7fbef69452be3fd96adf1b53b1bf240de6630fd8c2e1d",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

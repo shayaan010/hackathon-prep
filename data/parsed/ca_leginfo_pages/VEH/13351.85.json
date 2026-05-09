@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13351.85",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "2",
+  "chapter_title": "Suspension or Revocation of Licenses",
+  "chapter_range": "13100 - 13559",
+  "article": "3",
+  "article_title": "Suspension and Revocation by Department",
+  "article_range": "13350 - 13392",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.2.3",
+  "text": "Upon receipt of a duly certified abstract of any court showing that a person has been convicted of a violation of Section 12110, the department shall suspend that person’s driving privilege for four months if the conviction was a first conviction, and for one year, if the conviction was a second or subsequent conviction of a violation of that section that occurred within seven years of the current conviction.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 2. Suspension or Revocation of Licenses [13100 - 13559]\n#### Article 3. Suspension and Revocation by Department [13350 - 13392]\n##### § 13351.85\n\nUpon receipt of a duly certified abstract of any court showing that a person has been convicted of a violation of Section 12110, the department shall suspend that person’s driving privilege for four months if the conviction was a first conviction, and for one year, if the conviction was a second or subsequent conviction of a violation of that section that occurred within seven years of the current conviction.\n\n*(Added by Stats. 2000, Ch. 641, Sec. 2. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Upon receipt of a duly certified abstract of any court showing that a person has been convicted of a violation of Section 12110, the department shall suspend that person’s driving privilege for four months if the conviction was a first conviction, and for one year, if the conviction was a second or subsequent conviction of a violation of that section that occurred within seven years of the current conviction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2000, Ch. 641, Sec. 2. Effective January 1, 2001.)",
+    "action": "Added",
+    "statutes_year": 2000,
+    "chapter": "641",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "641",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13351.85.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13351.85.html",
+  "content_sha256": "f620ade1b48965dba11bfa208865e33836f0c9a85f31c9270098e6e0945bb5b6",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

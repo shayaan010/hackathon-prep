@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5000",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8",
+  "article_title": "Special Plates",
+  "article_range": "5000 - 5024",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.9",
+  "text": "(a) Identification plates issued for trailers, semitrailers, motor-driven cycles, and pole and pipe dollies, and such vehicles as are exempt from the payment of registration fees under this code shall display suitable distinguishing marks or symbols, and the registration numbers assigned to each class of vehicles shall run in a separate numerical series, except that registration numbers assigned to vehicles exempt from the payment of registration fees may run in several separate numerical series.\n\n(b) Vehicles subject to Sections 9400 and 9400.1 shall be issued license plates with suitable distinguishing marks or symbols distinguishing them from other license plates issued.\n\n(c) Vehicles subject to Section 5014.1 shall be issued permanent identification plates with suitable distinguishing marks or symbols that distinguish them from other license plates.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8. Special Plates [5000 - 5024]\n##### § 5000\n\n(a) Identification plates issued for trailers, semitrailers, motor-driven cycles, and pole and pipe dollies, and such vehicles as are exempt from the payment of registration fees under this code shall display suitable distinguishing marks or symbols, and the registration numbers assigned to each class of vehicles shall run in a separate numerical series, except that registration numbers assigned to vehicles exempt from the payment of registration fees may run in several separate numerical series.\n\n(b) Vehicles subject to Sections 9400 and 9400.1 shall be issued license plates with suitable distinguishing marks or symbols distinguishing them from other license plates issued.\n\n(c) Vehicles subject to Section 5014.1 shall be issued permanent identification plates with suitable distinguishing marks or symbols that distinguish them from other license plates.\n\n*(Amended by Stats. 2000, Ch. 861, Sec. 21. Effective September 29, 2000. Operative December 31, 2001, pursuant to Sec. 67 of Ch. 861.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Identification plates issued for trailers, semitrailers, motor-driven cycles, and pole and pipe dollies, and such vehicles as are exempt from the payment of registration fees under this code shall display suitable distinguishing marks or symbols, and the registration numbers assigned to each class of vehicles shall run in a separate numerical series, except that registration numbers assigned to vehicles exempt from the payment of registration fees may run in several separate numerical series.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Vehicles subject to Sections 9400 and 9400.1 shall be issued license plates with suitable distinguishing marks or symbols distinguishing them from other license plates issued.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Vehicles subject to Section 5014.1 shall be issued permanent identification plates with suitable distinguishing marks or symbols that distinguish them from other license plates.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2000, Ch. 861, Sec. 21. Effective September 29, 2000. Operative December 31, 2001, pursuant to Sec. 67 of Ch. 861.)",
+    "action": "Amended",
+    "statutes_year": 2000,
+    "chapter": "861",
+    "section": "21",
+    "bill_number": null,
+    "effective_date": "2000-09-29",
+    "operative_date": "2001-12-31"
+  },
+  "op_statues": "2000",
+  "op_chapter": "861",
+  "op_section": "21",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5000.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5000.html",
+  "content_sha256": "eb9b73f47f6a96b0aa5cdebae1d7fd68ebeb385263c4751a4be9b22169c14f65",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

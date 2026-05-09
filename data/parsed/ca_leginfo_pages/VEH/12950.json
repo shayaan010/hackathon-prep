@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12950",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "4",
+  "article_title": "Signature and Display of Licenses",
+  "article_range": "12950 - 12953",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.4",
+  "text": "(a) Every person licensed under this code shall write his or her usual signature with pen and ink in the space provided for that purpose on the license issued to him or her, immediately on receipt thereof, and the license is not valid until so signed, except that if the department issues a form of license which bears the facsimile signature of the applicant as shown upon the application, the license is valid even though not so signed.\n\n(b) For purposes of subdivision (a), signature includes a digitized signature.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 4. Signature and Display of Licenses [12950 - 12953]\n##### § 12950\n\n(a) Every person licensed under this code shall write his or her usual signature with pen and ink in the space provided for that purpose on the license issued to him or her, immediately on receipt thereof, and the license is not valid until so signed, except that if the department issues a form of license which bears the facsimile signature of the applicant as shown upon the application, the license is valid even though not so signed.\n\n(b) For purposes of subdivision (a), signature includes a digitized signature.\n\n*(Amended by Stats. 2003, Ch. 819, Sec. 3. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every person licensed under this code shall write his or her usual signature with pen and ink in the space provided for that purpose on the license issued to him or her, immediately on receipt thereof, and the license is not valid until so signed, except that if the department issues a form of license which bears the facsimile signature of the applicant as shown upon the application, the license is valid even though not so signed.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For purposes of subdivision (a), signature includes a digitized signature.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 819, Sec. 3. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "819",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "819",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12950.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12950.html",
+  "content_sha256": "09614b9051ee1cf6c48a0cc320f2447da6b884353e54bab8f9481cbed20cd953",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

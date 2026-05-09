@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40834",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "3",
+  "chapter_title": "Illegal Evidence",
+  "chapter_range": "40800 - 40834",
+  "article": "2",
+  "article_title": "Civil Actions",
+  "article_range": "40830 - 40834",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.3.2",
+  "text": "A judgment of conviction for any violation of this code or of any local ordinance relating to the operation of a motor vehicle or a finding reported under Section 1816 shall not be res judicata or constitute a collateral estoppel of any issue determined therein in any subsequent civil action.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 3. Illegal Evidence [40800 - 40834]\n#### Article 2. Civil Actions [40830 - 40834]\n##### § 40834\n\nA judgment of conviction for any violation of this code or of any local ordinance relating to the operation of a motor vehicle or a finding reported under Section 1816 shall not be res judicata or constitute a collateral estoppel of any issue determined therein in any subsequent civil action.\n\n*(Added by Stats. 1963, Ch. 1530.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A judgment of conviction for any violation of this code or of any local ordinance relating to the operation of a motor vehicle or a finding reported under Section 1816 shall not be res judicata or constitute a collateral estoppel of any issue determined therein in any subsequent civil action.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1963, Ch. 1530.)",
+    "action": "Added",
+    "statutes_year": 1963,
+    "chapter": "1530",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1963",
+  "op_chapter": "1530",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40834.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40834.html",
+  "content_sha256": "cba399bb9841a47ec4ab773ae3ca0c6a21c3d43db6bb24c8a6a28b2da7a54bbd",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

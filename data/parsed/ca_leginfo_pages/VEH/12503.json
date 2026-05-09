@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12503",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "1",
+  "article_title": "Persons Required to Be Licensed, Exemptions, and Age Limits",
+  "article_range": "12500 - 12527",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.1",
+  "text": "A nonresident over the age of 18 years whose home state or country does not require the licensing of drivers may operate a foreign vehicle owned by him for not to exceed 30 days without obtaining a license under this code.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 1. Persons Required to Be Licensed, Exemptions, and Age Limits [12500 - 12527]\n##### § 12503\n\nA nonresident over the age of 18 years whose home state or country does not require the licensing of drivers may operate a foreign vehicle owned by him for not to exceed 30 days without obtaining a license under this code.\n\n*(Amended by Stats. 1971, Ch. 1748.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A nonresident over the age of 18 years whose home state or country does not require the licensing of drivers may operate a foreign vehicle owned by him for not to exceed 30 days without obtaining a license under this code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1971, Ch. 1748.)",
+    "action": "Amended",
+    "statutes_year": 1971,
+    "chapter": "1748",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1971",
+  "op_chapter": "1748",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12503.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12503.html",
+  "content_sha256": "25f5f54125a6ceefb7308b1d9360e7957f6b989db26b298e8bf2709156380950",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21950.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "5",
+  "chapter_title": "Pedestrians’ Rights and Duties",
+  "chapter_range": "21949 - 21971",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.5",
+  "text": "(a) An existing marked crosswalk may not be removed unless notice and opportunity to be heard is provided to the public not less than 30 days prior to the scheduled date of removal. In addition to any other public notice requirements, the notice of proposed removal shall be posted at the crosswalk identified for removal.\n\n(b) The notice required by subdivision (a) shall include, but is not limited to, notification to the public of both of the following:\n\n(1) That the public may provide input relating to the scheduled removal.\n\n(2) The form and method of providing the input authorized by paragraph (1).",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 5. Pedestrians’ Rights and Duties [21949 - 21971]\n##### § 21950.5\n\n(a) An existing marked crosswalk may not be removed unless notice and opportunity to be heard is provided to the public not less than 30 days prior to the scheduled date of removal. In addition to any other public notice requirements, the notice of proposed removal shall be posted at the crosswalk identified for removal.\n\n(b) The notice required by subdivision (a) shall include, but is not limited to, notification to the public of both of the following:\n\n    (1) That the public may provide input relating to the scheduled removal.\n\n    (2) The form and method of providing the input authorized by paragraph (1).\n\n*(Added by Stats. 2000, Ch. 833, Sec. 9. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "An existing marked crosswalk may not be removed unless notice and opportunity to be heard is provided to the public not less than 30 days prior to the scheduled date of removal. In addition to any other public notice requirements, the notice of proposed removal shall be posted at the crosswalk identified for removal.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The notice required by subdivision (a) shall include, but is not limited to, notification to the public of both of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "That the public may provide input relating to the scheduled removal.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The form and method of providing the input authorized by paragraph (1).",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2000, Ch. 833, Sec. 9. Effective January 1, 2001.)",
+    "action": "Added",
+    "statutes_year": 2000,
+    "chapter": "833",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "833",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21950.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21950.5.html",
+  "content_sha256": "e3b70a9c1d5defb6280bc58aee9ffb0fe204caf8e017aa3d1cad715aba7f5604",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

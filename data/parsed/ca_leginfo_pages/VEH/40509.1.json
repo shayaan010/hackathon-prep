@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40509.1",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "2",
+  "article_title": "Release Upon Promise to Appear",
+  "article_range": "40500 - 40522",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.2",
+  "text": "If any person has willfully failed to comply with a court order, except a failure to appear, to pay a fine, or to attend traffic violator school, which was issued for a violation of this code, the magistrate or clerk of the court may give notice of the fact to the department.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 2. Release Upon Promise to Appear [40500 - 40522]\n##### § 40509.1\n\nIf any person has willfully failed to comply with a court order, except a failure to appear, to pay a fine, or to attend traffic violator school, which was issued for a violation of this code, the magistrate or clerk of the court may give notice of the fact to the department.\n\n*(Amended by Stats. 1998, Ch. 877, Sec. 77. Effective January 1, 1999.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "If any person has willfully failed to comply with a court order, except a failure to appear, to pay a fine, or to attend traffic violator school, which was issued for a violation of this code, the magistrate or clerk of the court may give notice of the fact to the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1998, Ch. 877, Sec. 77. Effective January 1, 1999.)",
+    "action": "Amended",
+    "statutes_year": 1998,
+    "chapter": "877",
+    "section": "77",
+    "bill_number": null,
+    "effective_date": "1999-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1998",
+  "op_chapter": "877",
+  "op_section": "77",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40509.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40509.1.html",
+  "content_sha256": "928e48afab6e0183a09065b9cd5d1625802862f2034180c9226988698e180875",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

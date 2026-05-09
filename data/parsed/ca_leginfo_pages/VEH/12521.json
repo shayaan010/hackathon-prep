@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12521",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "1",
+  "article_title": "Persons Required to Be Licensed, Exemptions, and Age Limits",
+  "article_range": "12500 - 12527",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.1",
+  "text": "An operator of a tour bus shall, at all times when operating the tour bus, do all the following:\n\n(a) Use a safety belt.\n\n(b) Report any accidents involving the tour bus to the Department of the California Highway Patrol.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 1. Persons Required to Be Licensed, Exemptions, and Age Limits [12500 - 12527]\n##### § 12521\n\nAn operator of a tour bus shall, at all times when operating the tour bus, do all the following:\n\n(a) Use a safety belt.\n\n(b) Report any accidents involving the tour bus to the Department of the California Highway Patrol.\n\n*(Repealed and added by Stats. 1990, Ch. 1360, Sec. 22.5.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "An operator of a tour bus shall, at all times when operating the tour bus, do all the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Use a safety belt.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Report any accidents involving the tour bus to the Department of the California Highway Patrol.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed and added by Stats. 1990, Ch. 1360, Sec. 22.5.)",
+    "action": "Repealed",
+    "statutes_year": 1990,
+    "chapter": "1360",
+    "section": "22.5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1990",
+  "op_chapter": "1360",
+  "op_section": "22.5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12521.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12521.html",
+  "content_sha256": "06edb30c71ac5bb3e5276c22dbc8677827e47ca5fbce3155b5cc569daa143873",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11725",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "4",
+  "chapter_title": "Manufacturers, Transporters, Dealers, and Salesmen",
+  "chapter_range": "11700 - 11909",
+  "article": "1",
+  "article_title": "Issuance of Licenses and Certificates to Manufacturers, Transporters, and Dealers",
+  "article_range": "11700 - 11740",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.7.1",
+  "text": "(a) No person shall transport or drive any motor vehicle from this state outside of the United States with the intent to register or sell such vehicle in a foreign jurisdiction, without first removing the license plates and delivering them to the department. Such person may obtain a permit from the department authorizing the operation of the unlicensed motor vehicle on the public highways of this state in order to reach such foreign jurisdiction. Failure to deliver the license plates as required by this subdivision shall be a misdemeanor.\n\n(b) No holder of any license, or any temporary permit for such license issued under this division, shall deliver any vehicle following sale without first removing all license plates from such vehicle when it is known by the licensee that the vehicle is to be exported to a foreign jurisdiction outside of the United States.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 4. Manufacturers, Transporters, Dealers, and Salesmen [11700 - 11909]\n#### Article 1. Issuance of Licenses and Certificates to Manufacturers, Transporters, and Dealers [11700 - 11740]\n##### § 11725\n\n(a) No person shall transport or drive any motor vehicle from this state outside of the United States with the intent to register or sell such vehicle in a foreign jurisdiction, without first removing the license plates and delivering them to the department. Such person may obtain a permit from the department authorizing the operation of the unlicensed motor vehicle on the public highways of this state in order to reach such foreign jurisdiction. Failure to deliver the license plates as required by this subdivision shall be a misdemeanor.\n\n(b) No holder of any license, or any temporary permit for such license issued under this division, shall deliver any vehicle following sale without first removing all license plates from such vehicle when it is known by the licensee that the vehicle is to be exported to a foreign jurisdiction outside of the United States.\n\n*(Amended by Stats. 1976, Ch. 934.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall transport or drive any motor vehicle from this state outside of the United States with the intent to register or sell such vehicle in a foreign jurisdiction, without first removing the license plates and delivering them to the department. Such person may obtain a permit from the department authorizing the operation of the unlicensed motor vehicle on the public highways of this state in order to reach such foreign jurisdiction. Failure to deliver the license plates as required by this subdivision shall be a misdemeanor.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No holder of any license, or any temporary permit for such license issued under this division, shall deliver any vehicle following sale without first removing all license plates from such vehicle when it is known by the licensee that the vehicle is to be exported to a foreign jurisdiction outside of the United States.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1976, Ch. 934.)",
+    "action": "Amended",
+    "statutes_year": 1976,
+    "chapter": "934",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "934",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11725.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11725.html",
+  "content_sha256": "514c96e79f0524cbc06563274e97927e138eb7dc80f180a70918d57abb22c2e8",
+  "parsed_at": "2026-05-09T17:53:44+00:00",
+  "parser_version": "1"
+}

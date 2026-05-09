@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2430.3",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3.3",
+  "article_title": "Tow Truck Drivers",
+  "article_range": "2430.1 - 2432.3",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.4",
+  "text": "(a) Every freeway service patrol tow truck driver and any California Highway Patrol rotation tow truck operator shall notify each of his or her employers and prospective employers and the Department of the California Highway Patrol of an arrest or conviction of any crime specified in paragraph (1), (2), (3), or (4) of subdivision (a) of Section 13377 prior to beginning the next workshift for that employer.\n\n(b) For the purpose of conducting criminal history and driver history checks of any California Highway Patrol rotation tow truck operator, the commissioner may utilize the California Law Enforcement Telecommunications System (CLETS).",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3.3. Tow Truck Drivers [2430.1 - 2432.3]\n##### § 2430.3\n\n(a) Every freeway service patrol tow truck driver and any California Highway Patrol rotation tow truck operator shall notify each of his or her employers and prospective employers and the Department of the California Highway Patrol of an arrest or conviction of any crime specified in paragraph (1), (2), (3), or (4) of subdivision (a) of Section 13377 prior to beginning the next workshift for that employer.\n\n(b) For the purpose of conducting criminal history and driver history checks of any California Highway Patrol rotation tow truck operator, the commissioner may utilize the California Law Enforcement Telecommunications System (CLETS).\n\n*(Amended by Stats. 2001, Ch. 127, Sec. 5. Effective July 30, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every freeway service patrol tow truck driver and any California Highway Patrol rotation tow truck operator shall notify each of his or her employers and prospective employers and the Department of the California Highway Patrol of an arrest or conviction of any crime specified in paragraph (1), (2), (3), or (4) of subdivision (a) of Section 13377 prior to beginning the next workshift for that employer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For the purpose of conducting criminal history and driver history checks of any California Highway Patrol rotation tow truck operator, the commissioner may utilize the California Law Enforcement Telecommunications System (CLETS).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2001, Ch. 127, Sec. 5. Effective July 30, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2001,
+    "chapter": "127",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "2001-07-30",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "127",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2430.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2430.3.html",
+  "content_sha256": "7f202a43b220b256a81c8ccb589e834572fe69467884420f211e36c2bf0878fe",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

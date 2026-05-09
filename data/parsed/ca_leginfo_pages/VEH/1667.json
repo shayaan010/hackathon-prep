@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1667",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "2",
+  "article_title": "Powers and Duties",
+  "article_range": "1650 - 1685.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.2",
+  "text": "(a) As part of its motor vehicle registration and registration renewal process, other than upon the initial registration of a new motor vehicle, the department shall inform motor vehicle owners of the vehicle smog indexing program. That notice shall be in the form developed by the State Air Resources Board in consultation with the department pursuant to subdivision (c) of Section 44254 of the Health and Safety Code.\n\n(b) This section shall become inoperative five years from the date determined pursuant to Section 32 of the act adding this section, and on the January 1 following that date is repealed.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 2. Powers and Duties [1650 - 1685.1]\n##### § 1667\n\n(a) As part of its motor vehicle registration and registration renewal process, other than upon the initial registration of a new motor vehicle, the department shall inform motor vehicle owners of the vehicle smog indexing program. That notice shall be in the form developed by the State Air Resources Board in consultation with the department pursuant to subdivision (c) of Section 44254 of the Health and Safety Code.\n\n(b) This section shall become inoperative five years from the date determined pursuant to Section 32 of the act adding this section, and on the January 1 following that date is repealed.\n\n*(Added by Stats. 1994, Ch. 1192, Sec. 31.1. Effective January 1, 1995. Operative on date prescribed by Sec. 32 of Ch. 1192. Inoperative five years after operative date. Repealed on January 1 after inoperative date, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "As part of its motor vehicle registration and registration renewal process, other than upon the initial registration of a new motor vehicle, the department shall inform motor vehicle owners of the vehicle smog indexing program. That notice shall be in the form developed by the State Air Resources Board in consultation with the department pursuant to subdivision (c) of Section 44254 of the Health and Safety Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section shall become inoperative five years from the date determined pursuant to Section 32 of the act adding this section, and on the January 1 following that date is repealed.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1994, Ch. 1192, Sec. 31.1. Effective January 1, 1995. Operative on date prescribed by Sec. 32 of Ch. 1192. Inoperative five years after operative date. Repealed on January 1 after inoperative date, by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 1994,
+    "chapter": "1192",
+    "section": "31.1",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "1192",
+  "op_section": "31.1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1667.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1667.html",
+  "content_sha256": "8dbd9ef7d77d6397d87814559cc9fa1a61ad4b526e0b31550308e29a973c4aac",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

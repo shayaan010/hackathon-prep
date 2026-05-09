@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34501.3",
+  "division": "14.8",
+  "division_title": "SAFETY REGULATIONS",
+  "division_range": "34500 - 34520.5",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "25",
+  "text": "(a) No motor carrier shall schedule a run or permit or require the operation of any motor vehicle subject to this division between points within a period of time which would do either of the following:\n\n(1) Necessitate the vehicle being operated at speeds greater than those prescribed by this code.\n\n(2) Require the driver of the vehicle to exceed the applicable maximum hours of service.\n\n(b) A logbook of a driver, which reflects a trip or trips between points within a period of time which would have necessitated excessive speed to complete, shall give rise to a rebuttable presumption that the driver exceeded the lawful speed limit.\n\n(c) For a violation of paragraph (2) of subdivision (a), a first offense is punishable by a fine of not more than one thousand dollars ($1,000), a second offense by a fine of not more than two thousand five hundred dollars ($2,500), and a third or subsequent offense by a fine of not more than five thousand dollars ($5,000).",
+  "markdown": "# Vehicle Code\n## Division 14.8. SAFETY REGULATIONS [34500 - 34520.5]\n##### § 34501.3\n\n(a) No motor carrier shall schedule a run or permit or require the operation of any motor vehicle subject to this division between points within a period of time which would do either of the following:\n\n    (1) Necessitate the vehicle being operated at speeds greater than those prescribed by this code.\n\n    (2) Require the driver of the vehicle to exceed the applicable maximum hours of service.\n\n(b) A logbook of a driver, which reflects a trip or trips between points within a period of time which would have necessitated excessive speed to complete, shall give rise to a rebuttable presumption that the driver exceeded the lawful speed limit.\n\n(c) For a violation of paragraph (2) of subdivision (a), a first offense is punishable by a fine of not more than one thousand dollars ($1,000), a second offense by a fine of not more than two thousand five hundred dollars ($2,500), and a third or subsequent offense by a fine of not more than five thousand dollars ($5,000).\n\n*(Amended by Stats. 1991, Ch. 392, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No motor carrier shall schedule a run or permit or require the operation of any motor vehicle subject to this division between points within a period of time which would do either of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Necessitate the vehicle being operated at speeds greater than those prescribed by this code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Require the driver of the vehicle to exceed the applicable maximum hours of service.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A logbook of a driver, which reflects a trip or trips between points within a period of time which would have necessitated excessive speed to complete, shall give rise to a rebuttable presumption that the driver exceeded the lawful speed limit.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "For a violation of paragraph (2) of subdivision (a), a first offense is punishable by a fine of not more than one thousand dollars ($1,000), a second offense by a fine of not more than two thousand five hundred dollars ($2,500), and a third or subsequent offense by a fine of not more than five thousand dollars ($5,000).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1991, Ch. 392, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1991,
+    "chapter": "392",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "392",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34501.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34501.3.html",
+  "content_sha256": "8bc8d1834cc7b0351edb59638dc6584c840e2373ab40e1048f417c8ea0ee0fc8",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

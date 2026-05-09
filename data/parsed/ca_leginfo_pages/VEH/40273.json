@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40273",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "4",
+  "article_title": "Procedure on Toll Evasion Violations",
+  "article_range": "40250 - 40273",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.6",
+  "text": "Any information obtained pursuant to this article through the use of automated devices shall not be used for any purpose other than to identify, and obtain the mailing address information of, either of the following:\n\n(a) Toll evasion violators, to facilitate the serving of notices of toll evasion violations and notices of delinquent toll evasion violations.\n\n(b) Persons entering a vehicular crossing and toll highway where pay-by-plate toll payment, as defined in Section 23302, is permitted by the toll operator to facilitate the collection of tolls.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 4. Procedure on Toll Evasion Violations [40250 - 40273]\n##### § 40273\n\nAny information obtained pursuant to this article through the use of automated devices shall not be used for any purpose other than to identify, and obtain the mailing address information of, either of the following:\n\n(a) Toll evasion violators, to facilitate the serving of notices of toll evasion violations and notices of delinquent toll evasion violations.\n\n(b) Persons entering a vehicular crossing and toll highway where pay-by-plate toll payment, as defined in Section 23302, is permitted by the toll operator to facilitate the collection of tolls.\n\n*(Amended by Stats. 2009, Ch. 459, Sec. 4. (AB 628) Effective January 1, 2010.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any information obtained pursuant to this article through the use of automated devices shall not be used for any purpose other than to identify, and obtain the mailing address information of, either of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Toll evasion violators, to facilitate the serving of notices of toll evasion violations and notices of delinquent toll evasion violations.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Persons entering a vehicular crossing and toll highway where pay-by-plate toll payment, as defined in Section 23302, is permitted by the toll operator to facilitate the collection of tolls.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2009, Ch. 459, Sec. 4. (AB 628) Effective January 1, 2010.)",
+    "action": "Amended",
+    "statutes_year": 2009,
+    "chapter": "459",
+    "section": "4",
+    "bill_number": "AB 628",
+    "effective_date": "2010-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2009",
+  "op_chapter": "459",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40273.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40273.html",
+  "content_sha256": "4bc9e2b84a7d97b200c904146a8e2a024bc8b1bc691f7c84d859a77ef0b66645",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

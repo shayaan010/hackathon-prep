@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12103",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "8",
+  "chapter_title": "Private Party Vehicle Markets",
+  "chapter_range": "12101 - 12104",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.11",
+  "text": "(a) Every private party vehicle market operator shall maintain a record, for not less than one year, of all of the following information:\n\n(1) The name of each vendor selling, exchanging, or offering for sale or exchange, any vehicle at a private party vehicle market.\n\n(2) The vendor’s driver’s license number.\n\n(3) The registration number assigned to the vehicle and the vehicle identification number.\n\n(4) The number of the vehicle’s current and valid certificate of compliance.\n\n(5) The make, model, and color of the vehicle.\n\n(b) That information shall be made available, upon request, to any peace officer and to any employee of the department designated by the director.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 8. Private Party Vehicle Markets [12101 - 12104]\n##### § 12103\n\n(a) Every private party vehicle market operator shall maintain a record, for not less than one year, of all of the following information:\n\n    (1) The name of each vendor selling, exchanging, or offering for sale or exchange, any vehicle at a private party vehicle market.\n\n    (2) The vendor’s driver’s license number.\n\n    (3) The registration number assigned to the vehicle and the vehicle identification number.\n\n    (4) The number of the vehicle’s current and valid certificate of compliance.\n\n    (5) The make, model, and color of the vehicle.\n\n(b) That information shall be made available, upon request, to any peace officer and to any employee of the department designated by the director.\n\n*(Amended by Stats. 1991, Ch. 1054, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every private party vehicle market operator shall maintain a record, for not less than one year, of all of the following information:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The name of each vendor selling, exchanging, or offering for sale or exchange, any vehicle at a private party vehicle market.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The vendor’s driver’s license number.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The registration number assigned to the vehicle and the vehicle identification number.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "The number of the vehicle’s current and valid certificate of compliance.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "The make, model, and color of the vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "That information shall be made available, upon request, to any peace officer and to any employee of the department designated by the director.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1991, Ch. 1054, Sec. 4.)",
+    "action": "Amended",
+    "statutes_year": 1991,
+    "chapter": "1054",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "1054",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12103.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12103.html",
+  "content_sha256": "bd9a7f4ae1e9bb2f35a06ab79ce6799356cd8ac1665ed80da6c015099ebc1d0f",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35655.5",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "3",
+  "article_title": "Limit Changes on State Highways",
+  "article_range": "35650 - 35655.6",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.4",
+  "text": "(a) Notwithstanding this article or any other provision of law, no vehicle, as described in Sections 410 and 655, with a gross weight of 9,000 pounds or more, shall be operated on the segment of Interstate Route 580 (I-580) that is located between Grand Avenue in the City of Oakland and the city limits of the City of San Leandro. This subdivision does not apply to passenger buses or paratransit vehicles.\n\n(b) The Department of Transportation shall erect suitable signs at each end of the portion of highway described in subdivision (a) and at any other points that the department deems necessary to give adequate notice of the weight limit imposed under this section.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 3. Limit Changes on State Highways [35650 - 35655.6]\n##### § 35655.5\n\n(a) Notwithstanding this article or any other provision of law, no vehicle, as described in Sections 410 and 655, with a gross weight of 9,000 pounds or more, shall be operated on the segment of Interstate Route 580 (I-580) that is located between Grand Avenue in the City of Oakland and the city limits of the City of San Leandro. This subdivision does not apply to passenger buses or paratransit vehicles.\n\n(b) The Department of Transportation shall erect suitable signs at each end of the portion of highway described in subdivision (a) and at any other points that the department deems necessary to give adequate notice of the weight limit imposed under this section.\n\n*(Added by Stats. 2000, Ch. 212, Sec. 1. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Notwithstanding this article or any other provision of law, no vehicle, as described in Sections 410 and 655, with a gross weight of 9,000 pounds or more, shall be operated on the segment of Interstate Route 580 (I-580) that is located between Grand Avenue in the City of Oakland and the city limits of the City of San Leandro. This subdivision does not apply to passenger buses or paratransit vehicles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The Department of Transportation shall erect suitable signs at each end of the portion of highway described in subdivision (a) and at any other points that the department deems necessary to give adequate notice of the weight limit imposed under this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2000, Ch. 212, Sec. 1. Effective January 1, 2001.)",
+    "action": "Added",
+    "statutes_year": 2000,
+    "chapter": "212",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "212",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35655.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35655.5.html",
+  "content_sha256": "7b410343b411c91f4d4e3675e8ad101ee7a73cabff5d4385a3f53766d7511dfe",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1803.4",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "Any record regarding the providing of information pursuant to Section 13106, or record of persons personally given notice by the department or a court, by a peace officer pursuant to Section 13382 or 13388, or otherwise pursuant to this code regarding the suspension or revocation of a person’s privilege to operate a motor vehicle shall, upon request, be provided as follows:\n\n(a) Immediately to any peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, acting within the scope of his or her duties.\n\n(b) Clearly stated on the record provided to any court of this state.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1803.4\n\nAny record regarding the providing of information pursuant to Section 13106, or record of persons personally given notice by the department or a court, by a peace officer pursuant to Section 13382 or 13388, or otherwise pursuant to this code regarding the suspension or revocation of a person’s privilege to operate a motor vehicle shall, upon request, be provided as follows:\n\n(a) Immediately to any peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, acting within the scope of his or her duties.\n\n(b) Clearly stated on the record provided to any court of this state.\n\n*(Amended by Stats. 1999, Ch. 22, Sec. 6. Effective May 26, 1999.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any record regarding the providing of information pursuant to Section 13106, or record of persons personally given notice by the department or a court, by a peace officer pursuant to Section 13382 or 13388, or otherwise pursuant to this code regarding the suspension or revocation of a person’s privilege to operate a motor vehicle shall, upon request, be provided as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Immediately to any peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2 of the Penal Code, acting within the scope of his or her duties.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Clearly stated on the record provided to any court of this state.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 22, Sec. 6. Effective May 26, 1999.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "22",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "1999-05-26",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "22",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1803.4.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1803.4.html",
+  "content_sha256": "e30590ec962d0451ebb909709b30e7535b54dfc34d80446af8709d36158d8767",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

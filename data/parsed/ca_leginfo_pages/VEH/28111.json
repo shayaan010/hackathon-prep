@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28111",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "16",
+  "article_title": "Methanol or Ethanol Fueled Vehicles",
+  "article_range": "28110 - 28114",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.22",
+  "text": "Except as otherwise provided in Section 28112, any 1993 and later model-year vehicle which is capable of operating on methanol or ethanol and is imported into the state, or sold, purchased, leased, rented, or acquired in the state, shall be equipped with an antisiphoning device.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 16. Methanol or Ethanol Fueled Vehicles [28110 - 28114]\n##### § 28111\n\nExcept as otherwise provided in Section 28112, any 1993 and later model-year vehicle which is capable of operating on methanol or ethanol and is imported into the state, or sold, purchased, leased, rented, or acquired in the state, shall be equipped with an antisiphoning device.\n\n*(Added by Stats. 1989, Ch. 1301, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Except as otherwise provided in Section 28112, any 1993 and later model-year vehicle which is capable of operating on methanol or ethanol and is imported into the state, or sold, purchased, leased, rented, or acquired in the state, shall be equipped with an antisiphoning device.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1989, Ch. 1301, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1989,
+    "chapter": "1301",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1989",
+  "op_chapter": "1301",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28111.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28111.html",
+  "content_sha256": "fad72e95dc250f31239f8bf2b0d2dd9b201e7825f24744a303f13d1340cd559c",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

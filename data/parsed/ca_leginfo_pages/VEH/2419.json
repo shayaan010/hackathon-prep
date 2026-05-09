@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2419",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "(a) Any member of the California Highway Patrol may give flares to any person as replacement for flares used by such person to warn traffic of an accident or other hazardous condition on a highway, provided such person was not required by law to give such warning, or was not involved in the accident or the creation of the hazardous condition. The officer shall not replace such flares unless he is reasonably satisfied that such person in fact placed the flares for which replacement is requested.\n\n(b) Notwithstanding any other provision of law, the person requesting replacement of flares shall not be required to file any claim for such flares.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2419\n\n(a) Any member of the California Highway Patrol may give flares to any person as replacement for flares used by such person to warn traffic of an accident or other hazardous condition on a highway, provided such person was not required by law to give such warning, or was not involved in the accident or the creation of the hazardous condition. The officer shall not replace such flares unless he is reasonably satisfied that such person in fact placed the flares for which replacement is requested.\n\n(b) Notwithstanding any other provision of law, the person requesting replacement of flares shall not be required to file any claim for such flares.\n\n*(Amended by Stats. 1969, Ch. 167.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any member of the California Highway Patrol may give flares to any person as replacement for flares used by such person to warn traffic of an accident or other hazardous condition on a highway, provided such person was not required by law to give such warning, or was not involved in the accident or the creation of the hazardous condition. The officer shall not replace such flares unless he is reasonably satisfied that such person in fact placed the flares for which replacement is requested.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding any other provision of law, the person requesting replacement of flares shall not be required to file any claim for such flares.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1969, Ch. 167.)",
+    "action": "Amended",
+    "statutes_year": 1969,
+    "chapter": "167",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1969",
+  "op_chapter": "167",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2419.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2419.html",
+  "content_sha256": "7866f168beac1790c4a9bb3ed2a91048fb7a0a1d4cac2a93e30367fd180fb88f",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

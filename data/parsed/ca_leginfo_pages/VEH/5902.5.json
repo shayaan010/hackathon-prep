@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5902.5",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "2",
+  "chapter_title": "Transfers of Title or Interest",
+  "chapter_range": "5600 - 6105",
+  "article": "3",
+  "article_title": "Notice and Application",
+  "article_range": "5900 - 5912",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.2.3",
+  "text": "(a) If an application for a registration transaction is filed with the department during the 30 days immediately preceding the date of expiration of registration of the vehicle, the application shall be accompanied by the full renewal fees for the ensuing registration year in addition to any other fees that are due and payable.\n\n(b) The requirements of subdivision (a) shall not apply if the expiration of registration occurs on or after July 1, 2011. This subdivision shall become inoperative on January 1, 2012.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 2. Transfers of Title or Interest [5600 - 6105]\n#### Article 3. Notice and Application [5900 - 5912]\n##### § 5902.5\n\n(a) If an application for a registration transaction is filed with the department during the 30 days immediately preceding the date of expiration of registration of the vehicle, the application shall be accompanied by the full renewal fees for the ensuing registration year in addition to any other fees that are due and payable.\n\n(b) The requirements of subdivision (a) shall not apply if the expiration of registration occurs on or after July 1, 2011. This subdivision shall become inoperative on January 1, 2012.\n\n*(Amended by Stats. 2011, Ch. 21, Sec. 5. (SB 94) Effective May 4, 2011.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If an application for a registration transaction is filed with the department during the 30 days immediately preceding the date of expiration of registration of the vehicle, the application shall be accompanied by the full renewal fees for the ensuing registration year in addition to any other fees that are due and payable.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The requirements of subdivision (a) shall not apply if the expiration of registration occurs on or after July 1, 2011. This subdivision shall become inoperative on January 1, 2012.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2011, Ch. 21, Sec. 5. (SB 94) Effective May 4, 2011.)",
+    "action": "Amended",
+    "statutes_year": 2011,
+    "chapter": "21",
+    "section": "5",
+    "bill_number": "SB 94",
+    "effective_date": "2011-05-04",
+    "operative_date": null
+  },
+  "op_statues": "2011",
+  "op_chapter": "21",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5902.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5902.5.html",
+  "content_sha256": "b86f56192d6e06d9759657d1b59990997b4f4b0f91acdab0df57fd791e89bcff",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

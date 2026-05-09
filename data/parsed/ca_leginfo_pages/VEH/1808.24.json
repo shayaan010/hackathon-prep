@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1808.24",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "Information regarding any motor vehicle liability insurance policy or surety bond provided to the department pursuant to Section 4000.37 or provided electronically is confidential and shall not be disclosed to any person, except to the following:\n\n(a) A court of competent jurisdiction.\n\n(b) A law enforcement or other governmental agency.\n\n(c) An insurance company or its assigns to verify a record the company or its assigns previously submitted to the department.\n\n(d) A person whose vehicle or property has been involved in an accident reported to the department, or who suffered bodily injury or death in an accident reported to the department, pursuant to Chapter 1 (commencing with Section 16000) of Division 7, or the person’s authorized representative, employer, parent, or legal guardian.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1808.24\n\nInformation regarding any motor vehicle liability insurance policy or surety bond provided to the department pursuant to Section 4000.37 or provided electronically is confidential and shall not be disclosed to any person, except to the following:\n\n(a) A court of competent jurisdiction.\n\n(b) A law enforcement or other governmental agency.\n\n(c) An insurance company or its assigns to verify a record the company or its assigns previously submitted to the department.\n\n(d) A person whose vehicle or property has been involved in an accident reported to the department, or who suffered bodily injury or death in an accident reported to the department, pursuant to Chapter 1 (commencing with Section 16000) of Division 7, or the person’s authorized representative, employer, parent, or legal guardian.\n\n*(Added by Stats. 1999, Ch. 880, Sec. 2. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Information regarding any motor vehicle liability insurance policy or surety bond provided to the department pursuant to Section 4000.37 or provided electronically is confidential and shall not be disclosed to any person, except to the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A court of competent jurisdiction.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A law enforcement or other governmental agency.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "An insurance company or its assigns to verify a record the company or its assigns previously submitted to the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "A person whose vehicle or property has been involved in an accident reported to the department, or who suffered bodily injury or death in an accident reported to the department, pursuant to Chapter 1 (commencing with Section 16000) of Division 7, or the person’s authorized representative, employer, parent, or legal guardian.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1999, Ch. 880, Sec. 2. Effective January 1, 2000.)",
+    "action": "Added",
+    "statutes_year": 1999,
+    "chapter": "880",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "880",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1808.24.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1808.24.html",
+  "content_sha256": "6a92ee2578528ef2f42b7187b87337695bb6ecc80549979c5b1a3cf7b50917aa",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

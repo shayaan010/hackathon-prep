@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22511.1",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "(a) A person shall not park or leave standing a vehicle in a stall or space designated pursuant to Section 22511 unless the vehicle is connected for electric charging purposes.\n\n(b) A person shall not obstruct, block, or otherwise bar access to parking stalls or spaces described in subdivision (a) except as provided in subdivision (a).",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22511.1\n\n(a) A person shall not park or leave standing a vehicle in a stall or space designated pursuant to Section 22511 unless the vehicle is connected for electric charging purposes.\n\n(b) A person shall not obstruct, block, or otherwise bar access to parking stalls or spaces described in subdivision (a) except as provided in subdivision (a).\n\n*(Amended by Stats. 2011, Ch. 274, Sec. 2. (AB 475) Effective January 1, 2012.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person shall not park or leave standing a vehicle in a stall or space designated pursuant to Section 22511 unless the vehicle is connected for electric charging purposes.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person shall not obstruct, block, or otherwise bar access to parking stalls or spaces described in subdivision (a) except as provided in subdivision (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2011, Ch. 274, Sec. 2. (AB 475) Effective January 1, 2012.)",
+    "action": "Amended",
+    "statutes_year": 2011,
+    "chapter": "274",
+    "section": "2",
+    "bill_number": "AB 475",
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2011",
+  "op_chapter": "274",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22511.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22511.1.html",
+  "content_sha256": "6c056b510497516439e598fa52c05da2ce70957bfcb48d187e8ecaac4131e2ad",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

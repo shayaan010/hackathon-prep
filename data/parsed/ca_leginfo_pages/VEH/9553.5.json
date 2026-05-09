@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9553.5",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "4",
+  "article_title": "Payment of Fees",
+  "article_range": "9550 - 9564",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.4",
+  "text": "(a) Whenever fees have not been paid in full for an application for registration of vehicles registered pursuant to Article 4 (commencing with Section 8050) of Chapter 4, the registrant shall have 20 days from the date of notice by the department to pay the balance of the fees due.\n\n(b) Failure to pay the balance of the fees due within 20 days shall subject the application to penalties, as defined in Sections 9554 and 9554.5, on the unpaid portion of the California fees due.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 4. Payment of Fees [9550 - 9564]\n##### § 9553.5\n\n(a) Whenever fees have not been paid in full for an application for registration of vehicles registered pursuant to Article 4 (commencing with Section 8050) of Chapter 4, the registrant shall have 20 days from the date of notice by the department to pay the balance of the fees due.\n\n(b) Failure to pay the balance of the fees due within 20 days shall subject the application to penalties, as defined in Sections 9554 and 9554.5, on the unpaid portion of the California fees due.\n\n*(Amended by Stats. 2008, Ch. 756, Sec. 20. Effective September 30, 2008.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever fees have not been paid in full for an application for registration of vehicles registered pursuant to Article 4 (commencing with Section 8050) of Chapter 4, the registrant shall have 20 days from the date of notice by the department to pay the balance of the fees due.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Failure to pay the balance of the fees due within 20 days shall subject the application to penalties, as defined in Sections 9554 and 9554.5, on the unpaid portion of the California fees due.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2008, Ch. 756, Sec. 20. Effective September 30, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2008,
+    "chapter": "756",
+    "section": "20",
+    "bill_number": null,
+    "effective_date": "2008-09-30",
+    "operative_date": null
+  },
+  "op_statues": "2008",
+  "op_chapter": "756",
+  "op_section": "20",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9553.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9553.5.html",
+  "content_sha256": "2114f4d604646ed618fd71116f9f79421731b59f5a761f97e3d388560bc3f059",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

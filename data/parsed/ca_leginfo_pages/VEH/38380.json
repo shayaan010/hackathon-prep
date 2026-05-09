@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38380",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "6",
+  "chapter_title": "Equipment of Off-Highway Vehicles",
+  "chapter_range": "38325 - 38397",
+  "article": "4",
+  "article_title": "Equipment",
+  "article_range": "38365 - 38380",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.4.4",
+  "text": "(a) Because of specialized conditions such as fire hazard, public safety or other circumstances, any local authority, or state or federal agencies having control over public lands may require that vehicles being operated off highway be equipped with additional equipment.\n\n(b) When such additional equipment is required in a specific location, the governmental agency having jurisdiction over that location shall insure that such regulations are posted in a manner that operators of off-highway motor vehicles using those locations will be aware of the special requirements.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 6. Equipment of Off-Highway Vehicles [38325 - 38397]\n#### Article 4. Equipment [38365 - 38380]\n##### § 38380\n\n(a) Because of specialized conditions such as fire hazard, public safety or other circumstances, any local authority, or state or federal agencies having control over public lands may require that vehicles being operated off highway be equipped with additional equipment.\n\n(b) When such additional equipment is required in a specific location, the governmental agency having jurisdiction over that location shall insure that such regulations are posted in a manner that operators of off-highway motor vehicles using those locations will be aware of the special requirements.\n\n*(Added by Stats. 1976, Ch. 1093.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Because of specialized conditions such as fire hazard, public safety or other circumstances, any local authority, or state or federal agencies having control over public lands may require that vehicles being operated off highway be equipped with additional equipment.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When such additional equipment is required in a specific location, the governmental agency having jurisdiction over that location shall insure that such regulations are posted in a manner that operators of off-highway motor vehicles using those locations will be aware of the special requirements.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1976, Ch. 1093.)",
+    "action": "Added",
+    "statutes_year": 1976,
+    "chapter": "1093",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "1093",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38380.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38380.html",
+  "content_sha256": "13f8353385bebf7da34b1432a7695d7a374fb58116cad6fd4b727e01488b82ef",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

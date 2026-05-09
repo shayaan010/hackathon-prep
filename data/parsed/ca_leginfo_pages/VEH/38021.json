@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38021",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "2",
+  "chapter_title": "Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership",
+  "chapter_range": "38010 - 38265",
+  "article": "1",
+  "article_title": "Motor Vehicles Subject to Identification",
+  "article_range": "38010 - 38030",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.2.1",
+  "text": "(a) A manufacturer, dealer, or distributor, or his agent, owning or lawfully possessing any off-highway motor vehicle of a type otherwise required to be identified hereunder may operate or use such vehicle without an identification certificate and plate or device upon condition that each such vehicle is accompanied by a special permit issued to the manufacturer, dealer, or distributor as provided in this division.\n\n(b) Persons licensed pursuant to Article 1 (commencing with Section 11700) of Chapter 4 of Division 5 need not obtain such a permit provided the vehicle is operated or used under special plates issued to the licensee.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 2. Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership [38010 - 38265]\n#### Article 1. Motor Vehicles Subject to Identification [38010 - 38030]\n##### § 38021\n\n(a) A manufacturer, dealer, or distributor, or his agent, owning or lawfully possessing any off-highway motor vehicle of a type otherwise required to be identified hereunder may operate or use such vehicle without an identification certificate and plate or device upon condition that each such vehicle is accompanied by a special permit issued to the manufacturer, dealer, or distributor as provided in this division.\n\n(b) Persons licensed pursuant to Article 1 (commencing with Section 11700) of Chapter 4 of Division 5 need not obtain such a permit provided the vehicle is operated or used under special plates issued to the licensee.\n\n*(Amended by Stats. 1976, Ch. 1093.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A manufacturer, dealer, or distributor, or his agent, owning or lawfully possessing any off-highway motor vehicle of a type otherwise required to be identified hereunder may operate or use such vehicle without an identification certificate and plate or device upon condition that each such vehicle is accompanied by a special permit issued to the manufacturer, dealer, or distributor as provided in this division.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Persons licensed pursuant to Article 1 (commencing with Section 11700) of Chapter 4 of Division 5 need not obtain such a permit provided the vehicle is operated or used under special plates issued to the licensee.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1976, Ch. 1093.)",
+    "action": "Amended",
+    "statutes_year": 1976,
+    "chapter": "1093",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "1093",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38021.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38021.html",
+  "content_sha256": "9072ea170dcbb8e3a7ee5716944598228584f815bfc1119e4e99066e91a66dda",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1816",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "Every judge of the juvenile court, juvenile hearing officer, duly constituted referee of a juvenile court, or other person responsible for the disposition of cases involving traffic offenses required to be reported under Section 1803 committed by persons under 18 years of age shall keep a full record of every case in which a person is charged with such a violation, and shall report the offense to the department at its office in Sacramento not more than 30 days after the date on which it was committed, and in no case less than 10 days after adjudication. The report required by this section shall be required for any determination that a minor committed the violation, including any determination that because of the act the minor is a person described in Section 601 or 602 of the Welfare and Institutions Code or that a program of supervision should be instituted for the minor. No report shall be made if it is found that the alleged offense was not committed.\n\nThe report required by this section shall be made upon a form furnished by the department and shall contain all necessary information as to the identity of the offender, the arresting agency, the date and nature of the offense, and the date the finding was made.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1816\n\nEvery judge of the juvenile court, juvenile hearing officer, duly constituted referee of a juvenile court, or other person responsible for the disposition of cases involving traffic offenses required to be reported under Section 1803 committed by persons under 18 years of age shall keep a full record of every case in which a person is charged with such a violation, and shall report the offense to the department at its office in Sacramento not more than 30 days after the date on which it was committed, and in no case less than 10 days after adjudication. The report required by this section shall be required for any determination that a minor committed the violation, including any determination that because of the act the minor is a person described in Section 601 or 602 of the Welfare and Institutions Code or that a program of supervision should be instituted for the minor. No report shall be made if it is found that the alleged offense was not committed.\n\nThe report required by this section shall be made upon a form furnished by the department and shall contain all necessary information as to the identity of the offender, the arresting agency, the date and nature of the offense, and the date the finding was made.\n\n*(Amended by Stats. 2003, Ch. 149, Sec. 80. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every judge of the juvenile court, juvenile hearing officer, duly constituted referee of a juvenile court, or other person responsible for the disposition of cases involving traffic offenses required to be reported under Section 1803 committed by persons under 18 years of age shall keep a full record of every case in which a person is charged with such a violation, and shall report the offense to the department at its office in Sacramento not more than 30 days after the date on which it was committed, and in no case less than 10 days after adjudication. The report required by this section shall be required for any determination that a minor committed the violation, including any determination that because of the act the minor is a person described in Section 601 or 602 of the Welfare and Institutions Code or that a program of supervision should be instituted for the minor. No report shall be made if it is found that the alleged offense was not committed.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The report required by this section shall be made upon a form furnished by the department and shall contain all necessary information as to the identity of the offender, the arresting agency, the date and nature of the offense, and the date the finding was made.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 149, Sec. 80. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "149",
+    "section": "80",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "149",
+  "op_section": "80",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1816.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1816.html",
+  "content_sha256": "f8b277d5627b3a9c314cbba82952bd81100580f0f78f03e7242cb42537c64786",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

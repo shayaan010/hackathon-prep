@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28222",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "6",
+  "chapter_title": "Connected Vehicle Service",
+  "chapter_range": "28200 - 28244",
+  "article": "2",
+  "article_title": "Access to Connected Vehicle Service",
+  "article_range": "28220 - 28228",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.6.2",
+  "text": "To enhance transparency and communication, the process to submit a connected vehicle service request or obtain a new connected vehicle service account shall be efficient, secure, user-friendly, and include all of the following features:\n\n(a) Upon submission of a connected vehicle service request or request to obtain a new connected vehicle service account, the covered provider shall automatically send a confirmation email to the driver, acknowledging the receipt of the request. This email shall contain a reference number for the request and an outline of the subsequent steps in the process.\n\n(b) Upon completing the review of the request, the covered provider shall inform the driver of the action taken, including, as applicable, whether a person’s access to connected vehicle service has been terminated, or if additional information or proof of legal possession of the vehicle is needed. This alert shall clearly state any relevant details or further actions required from the driver to complete a successful connected vehicle service request.\n\n(c) If a connected vehicle service request is approved, the covered provider shall provide the driver with a clear explanation and guidance on how to create their own connected vehicle service account, if applicable, to ensure that the driver can maintain control over the connected vehicle service once another person’s access to connected vehicle service has been terminated.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 6. Connected Vehicle Service [28200 - 28244]\n#### Article 2. Access to Connected Vehicle Service [28220 - 28228]\n##### § 28222\n\nTo enhance transparency and communication, the process to submit a connected vehicle service request or obtain a new connected vehicle service account shall be efficient, secure, user-friendly, and include all of the following features:\n\n(a) Upon submission of a connected vehicle service request or request to obtain a new connected vehicle service account, the covered provider shall automatically send a confirmation email to the driver, acknowledging the receipt of the request. This email shall contain a reference number for the request and an outline of the subsequent steps in the process.\n\n(b) Upon completing the review of the request, the covered provider shall inform the driver of the action taken, including, as applicable, whether a person’s access to connected vehicle service has been terminated, or if additional information or proof of legal possession of the vehicle is needed. This alert shall clearly state any relevant details or further actions required from the driver to complete a successful connected vehicle service request.\n\n(c) If a connected vehicle service request is approved, the covered provider shall provide the driver with a clear explanation and guidance on how to create their own connected vehicle service account, if applicable, to ensure that the driver can maintain control over the connected vehicle service once another person’s access to connected vehicle service has been terminated.\n\n*(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025. Operative July 1, 2025, pursuant to Sec. 28206.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "To enhance transparency and communication, the process to submit a connected vehicle service request or obtain a new connected vehicle service account shall be efficient, secure, user-friendly, and include all of the following features:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Upon submission of a connected vehicle service request or request to obtain a new connected vehicle service account, the covered provider shall automatically send a confirmation email to the driver, acknowledging the receipt of the request. This email shall contain a reference number for the request and an outline of the subsequent steps in the process.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Upon completing the review of the request, the covered provider shall inform the driver of the action taken, including, as applicable, whether a person’s access to connected vehicle service has been terminated, or if additional information or proof of legal possession of the vehicle is needed. This alert shall clearly state any relevant details or further actions required from the driver to complete a successful connected vehicle service request.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "If a connected vehicle service request is approved, the covered provider shall provide the driver with a clear explanation and guidance on how to create their own connected vehicle service account, if applicable, to ensure that the driver can maintain control over the connected vehicle service once another person’s access to connected vehicle service has been terminated.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025. Operative July 1, 2025, pursuant to Sec. 28206.)",
+    "action": "Added",
+    "statutes_year": 2024,
+    "chapter": "655",
+    "section": "2",
+    "bill_number": "SB 1394",
+    "effective_date": "2025-01-01",
+    "operative_date": "2025-07-01"
+  },
+  "op_statues": "2024",
+  "op_chapter": "655",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28222.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28222.html",
+  "content_sha256": "ea7a90a3baeb42c7ec30040409ae0c79439d0105ea421d17d9240e97713fad44",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

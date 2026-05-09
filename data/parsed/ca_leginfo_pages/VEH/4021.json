@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4021",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "1",
+  "article_title": "Vehicles Subject to Registration",
+  "article_range": "4000 - 4023",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.1",
+  "text": "Any vehicle that is designed or altered for, and used exclusively for, the refueling of aircraft at a public airport is exempt from registration, if the vehicle is operated upon a highway under the control of a local authority for a continuous distance not exceeding one-half mile each way to and from a bulk fuel storage facility.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 1. Vehicles Subject to Registration [4000 - 4023]\n##### § 4021\n\nAny vehicle that is designed or altered for, and used exclusively for, the refueling of aircraft at a public airport is exempt from registration, if the vehicle is operated upon a highway under the control of a local authority for a continuous distance not exceeding one-half mile each way to and from a bulk fuel storage facility.\n\n*(Amended by Stats. 1996, Ch. 1154, Sec. 57. Effective September 30, 1996.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any vehicle that is designed or altered for, and used exclusively for, the refueling of aircraft at a public airport is exempt from registration, if the vehicle is operated upon a highway under the control of a local authority for a continuous distance not exceeding one-half mile each way to and from a bulk fuel storage facility.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 1154, Sec. 57. Effective September 30, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "1154",
+    "section": "57",
+    "bill_number": null,
+    "effective_date": "1996-09-30",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "1154",
+  "op_section": "57",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4021.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4021.html",
+  "content_sha256": "66c9622a0e1de780f737e503e0df26f60be2628370b04f01eb4ace73b635db8b",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

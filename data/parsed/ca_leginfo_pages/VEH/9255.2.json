@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9255.2",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "2",
+  "article_title": "Registration Fees",
+  "article_range": "9250 - 9271",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.2",
+  "text": "(a) In addition to any other fees specified in this code and the Revenue and Taxation Code, a fee of not more than fifty dollars ($50), as determined by the Department of the California Highway Patrol to cover the costs of implementing and conducting the inspection program required under Section 5505, shall be paid to the Department of Motor Vehicles at the time inspection is made for initial registration or transfer of ownership of a vehicle included in paragraphs (1) and (2) of subdivision (b) of Section 4453.\n\n(b) The fees collected pursuant to subdivision (a) shall be deposited in the Motor Vehicle Account in the State Transportation Fund. The money deposited in the account shall be available, upon appropriation by the Legislature, for distribution as follows:\n\n(1) Not more than three dollars ($3) of each fee collected under subdivision (a) to the Department of Motor Vehicles.\n\n(2) The remainder to the Department of the California Highway Patrol.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 2. Registration Fees [9250 - 9271]\n##### § 9255.2\n\n(a) In addition to any other fees specified in this code and the Revenue and Taxation Code, a fee of not more than fifty dollars ($50), as determined by the Department of the California Highway Patrol to cover the costs of implementing and conducting the inspection program required under Section 5505, shall be paid to the Department of Motor Vehicles at the time inspection is made for initial registration or transfer of ownership of a vehicle included in paragraphs (1) and (2) of subdivision (b) of Section 4453.\n\n(b) The fees collected pursuant to subdivision (a) shall be deposited in the Motor Vehicle Account in the State Transportation Fund. The money deposited in the account shall be available, upon appropriation by the Legislature, for distribution as follows:\n\n    (1) Not more than three dollars ($3) of each fee collected under subdivision (a) to the Department of Motor Vehicles.\n\n    (2) The remainder to the Department of the California Highway Patrol.\n\n*(Amended by Stats. 2002, Ch. 670, Sec. 9. Effective January 1, 2003.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In addition to any other fees specified in this code and the Revenue and Taxation Code, a fee of not more than fifty dollars ($50), as determined by the Department of the California Highway Patrol to cover the costs of implementing and conducting the inspection program required under Section 5505, shall be paid to the Department of Motor Vehicles at the time inspection is made for initial registration or transfer of ownership of a vehicle included in paragraphs (1) and (2) of subdivision (b) of Section 4453.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The fees collected pursuant to subdivision (a) shall be deposited in the Motor Vehicle Account in the State Transportation Fund. The money deposited in the account shall be available, upon appropriation by the Legislature, for distribution as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Not more than three dollars ($3) of each fee collected under subdivision (a) to the Department of Motor Vehicles.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The remainder to the Department of the California Highway Patrol.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2002, Ch. 670, Sec. 9. Effective January 1, 2003.)",
+    "action": "Amended",
+    "statutes_year": 2002,
+    "chapter": "670",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": "2003-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2002",
+  "op_chapter": "670",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9255.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9255.2.html",
+  "content_sha256": "b5bf66373375f43cb306cee49e9f23f30a01192fcb74c417d28c0dd9f85d7fb7",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

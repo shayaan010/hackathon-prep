@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1810.5",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "The Attorney General, district attorneys, law enforcement agencies, city attorneys and city prosecutors prosecuting misdemeanor actions under Section 41803.5 or 72193 of the Government Code, public defenders, and public defender investigators shall have access, including, but not limited to, telephone access, to the records of the department. For purposes of obtaining a governmental entity requester code from the department, the office of a city attorney or city prosecutor engaged in the prosecution of criminal actions shall be deemed a law enforcement entity.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1810.5\n\nThe Attorney General, district attorneys, law enforcement agencies, city attorneys and city prosecutors prosecuting misdemeanor actions under Section 41803.5 or 72193 of the Government Code, public defenders, and public defender investigators shall have access, including, but not limited to, telephone access, to the records of the department. For purposes of obtaining a governmental entity requester code from the department, the office of a city attorney or city prosecutor engaged in the prosecution of criminal actions shall be deemed a law enforcement entity.\n\n*(Amended by Stats. 2017, Ch. 299, Sec. 6. (AB 1418) Effective January 1, 2018.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The Attorney General, district attorneys, law enforcement agencies, city attorneys and city prosecutors prosecuting misdemeanor actions under Section 41803.5 or 72193 of the Government Code, public defenders, and public defender investigators shall have access, including, but not limited to, telephone access, to the records of the department. For purposes of obtaining a governmental entity requester code from the department, the office of a city attorney or city prosecutor engaged in the prosecution of criminal actions shall be deemed a law enforcement entity.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2017, Ch. 299, Sec. 6. (AB 1418) Effective January 1, 2018.)",
+    "action": "Amended",
+    "statutes_year": 2017,
+    "chapter": "299",
+    "section": "6",
+    "bill_number": "AB 1418",
+    "effective_date": "2018-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2017",
+  "op_chapter": "299",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1810.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1810.5.html",
+  "content_sha256": "7943b1c834438002f9501081fbafcf6bcd5f73ef6dc26a84f704fd1cd2416d72",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

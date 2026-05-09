@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "14105",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "3",
+  "chapter_title": "Investigation and Hearing",
+  "chapter_range": "13800 - 14401",
+  "article": "3",
+  "article_title": "Hearing",
+  "article_range": "14100 - 14112",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.3.3",
+  "text": "(a) Upon the conclusion of a hearing, the hearing officer or hearing board shall make findings and render a decision on behalf of the department and shall notify the person involved. Notice of the decision shall include a statement of the person’s right to a review. The decision shall take effect as stated in the notice, but not less than four nor more than 15 days after the notice is mailed.\n\n(b) The decision may be modified at any time after issuance to correct mistakes or clerical errors.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 3. Investigation and Hearing [13800 - 14401]\n#### Article 3. Hearing [14100 - 14112]\n##### § 14105\n\n(a) Upon the conclusion of a hearing, the hearing officer or hearing board shall make findings and render a decision on behalf of the department and shall notify the person involved. Notice of the decision shall include a statement of the person’s right to a review. The decision shall take effect as stated in the notice, but not less than four nor more than 15 days after the notice is mailed.\n\n(b) The decision may be modified at any time after issuance to correct mistakes or clerical errors.\n\n*(Amended by Stats. 1999, Ch. 724, Sec. 33. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Upon the conclusion of a hearing, the hearing officer or hearing board shall make findings and render a decision on behalf of the department and shall notify the person involved. Notice of the decision shall include a statement of the person’s right to a review. The decision shall take effect as stated in the notice, but not less than four nor more than 15 days after the notice is mailed.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The decision may be modified at any time after issuance to correct mistakes or clerical errors.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 724, Sec. 33. Effective January 1, 2000.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "724",
+    "section": "33",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "724",
+  "op_section": "33",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=14105.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/14105.html",
+  "content_sha256": "0a2893c348c28f8dd372d2dbe3de453d49459559f0c03803532f842c1b82bec1",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

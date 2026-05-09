@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12801.2",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "3",
+  "article_title": "Issuance and Renewal of Licenses",
+  "article_range": "12800 - 12819",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.3",
+  "text": "(a) A person shall not receive financial compensation for the sole purpose of filling out an original driver’s license application for another person.\n\n(b) A person in violation of this section is subject to a civil penalty of not more than two thousand five hundred dollars ($2,500) for each offense. Actions for relief pursuant to this section may be commenced in a court of competent jurisdiction by the Attorney General, or by the district attorney, county counsel, or city attorney of the location in which the violation occurred.\n\n(c) Section 40000.1 does not apply to a violation of this section.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 3. Issuance and Renewal of Licenses [12800 - 12819]\n##### § 12801.2\n\n(a) A person shall not receive financial compensation for the sole purpose of filling out an original driver’s license application for another person.\n\n(b) A person in violation of this section is subject to a civil penalty of not more than two thousand five hundred dollars ($2,500) for each offense. Actions for relief pursuant to this section may be commenced in a court of competent jurisdiction by the Attorney General, or by the district attorney, county counsel, or city attorney of the location in which the violation occurred.\n\n(c) Section 40000.1 does not apply to a violation of this section.\n\n*(Added by Stats. 2014, Ch. 447, Sec. 1. (AB 852) Effective January 1, 2015.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person shall not receive financial compensation for the sole purpose of filling out an original driver’s license application for another person.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person in violation of this section is subject to a civil penalty of not more than two thousand five hundred dollars ($2,500) for each offense. Actions for relief pursuant to this section may be commenced in a court of competent jurisdiction by the Attorney General, or by the district attorney, county counsel, or city attorney of the location in which the violation occurred.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Section 40000.1 does not apply to a violation of this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2014, Ch. 447, Sec. 1. (AB 852) Effective January 1, 2015.)",
+    "action": "Added",
+    "statutes_year": 2014,
+    "chapter": "447",
+    "section": "1",
+    "bill_number": "AB 852",
+    "effective_date": "2015-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2014",
+  "op_chapter": "447",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12801.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12801.2.html",
+  "content_sha256": "1e029b90b7409a3f316dd7a7edcd64fab8207ec2a057b29f9864886785ee82c2",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

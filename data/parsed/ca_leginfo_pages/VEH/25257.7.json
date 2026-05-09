@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25257.7",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "7",
+  "article_title": "Flashing and Colored Lights",
+  "article_range": "25250 - 25282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.7",
+  "text": "(a) A schoolbus may be equipped with a white strobe light mounted so as to be visible from the front, sides, or rear of the bus. The strobe light may only be lighted when visibility is reduced to 500 feet or less due to atmospheric conditions including, but not limited to, fog, rain, snow, smoke, or dust. Reduced visibility due to atmospheric conditions does not include the time of darkness from one-half hour after sunset to one-half hour before sunrise.\n\n(b) The type and mounting requirements of strobe lights authorized by subdivision (a) shall be established by regulations adopted by the department by April 1, 1991. No schoolbus shall be equipped with a strobe light until the regulations are adopted.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 7. Flashing and Colored Lights [25250 - 25282]\n##### § 25257.7\n\n(a) A schoolbus may be equipped with a white strobe light mounted so as to be visible from the front, sides, or rear of the bus. The strobe light may only be lighted when visibility is reduced to 500 feet or less due to atmospheric conditions including, but not limited to, fog, rain, snow, smoke, or dust. Reduced visibility due to atmospheric conditions does not include the time of darkness from one-half hour after sunset to one-half hour before sunrise.\n\n(b) The type and mounting requirements of strobe lights authorized by subdivision (a) shall be established by regulations adopted by the department by April 1, 1991. No schoolbus shall be equipped with a strobe light until the regulations are adopted.\n\n*(Added by Stats. 1990, Ch. 169, Sec. 1. Effective June 22, 1990.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A schoolbus may be equipped with a white strobe light mounted so as to be visible from the front, sides, or rear of the bus. The strobe light may only be lighted when visibility is reduced to 500 feet or less due to atmospheric conditions including, but not limited to, fog, rain, snow, smoke, or dust. Reduced visibility due to atmospheric conditions does not include the time of darkness from one-half hour after sunset to one-half hour before sunrise.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The type and mounting requirements of strobe lights authorized by subdivision (a) shall be established by regulations adopted by the department by April 1, 1991. No schoolbus shall be equipped with a strobe light until the regulations are adopted.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1990, Ch. 169, Sec. 1. Effective June 22, 1990.)",
+    "action": "Added",
+    "statutes_year": 1990,
+    "chapter": "169",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1990-06-22",
+    "operative_date": null
+  },
+  "op_statues": "1990",
+  "op_chapter": "169",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25257.7.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25257.7.html",
+  "content_sha256": "02b87b46905a61705deacb2cec75f64a1f49a9c9e1946df4f2af531be6a24ee6",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

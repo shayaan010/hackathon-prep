@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13007.5",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "5",
+  "article_title": "Identification Cards",
+  "article_range": "13000 - 13008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.5",
+  "text": "Notwithstanding anything to the contrary in this code or in the regulations adopted thereunder, including specifically the Driver’s License Manual of Procedure, the department may verify the identity of any person born prior to 1916 who applies for an identification card, through United States Census records even though the date and month of birth are not included.\n\nIt is unlawful for an applicant to knowingly declare to the department, in writing, that no birth certificate exists for the applicant when, in fact, a birth certificate does exist.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 5. Identification Cards [13000 - 13008]\n##### § 13007.5\n\nNotwithstanding anything to the contrary in this code or in the regulations adopted thereunder, including specifically the Driver’s License Manual of Procedure, the department may verify the identity of any person born prior to 1916 who applies for an identification card, through United States Census records even though the date and month of birth are not included.\n\nIt is unlawful for an applicant to knowingly declare to the department, in writing, that no birth certificate exists for the applicant when, in fact, a birth certificate does exist.\n\n*(Amended by Stats. 1992, Ch. 1243, Sec. 86. Effective September 30, 1992.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding anything to the contrary in this code or in the regulations adopted thereunder, including specifically the Driver’s License Manual of Procedure, the department may verify the identity of any person born prior to 1916 who applies for an identification card, through United States Census records even though the date and month of birth are not included.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "It is unlawful for an applicant to knowingly declare to the department, in writing, that no birth certificate exists for the applicant when, in fact, a birth certificate does exist.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1992, Ch. 1243, Sec. 86. Effective September 30, 1992.)",
+    "action": "Amended",
+    "statutes_year": 1992,
+    "chapter": "1243",
+    "section": "86",
+    "bill_number": null,
+    "effective_date": "1992-09-30",
+    "operative_date": null
+  },
+  "op_statues": "1992",
+  "op_chapter": "1243",
+  "op_section": "86",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13007.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13007.5.html",
+  "content_sha256": "853d848f07dee0565475c00b5e80646740852912e374acd28cca0ea0b73cc443",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

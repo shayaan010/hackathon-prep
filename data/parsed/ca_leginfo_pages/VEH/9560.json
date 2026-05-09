@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9560",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "4",
+  "article_title": "Payment of Fees",
+  "article_range": "9550 - 9564",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.4",
+  "text": "(a) The department shall waive all penalties that may be due for late payment of registration renewal fees on a vehicle for any period during which the registered owner is deployed to a location outside of the state.\n\n(b) (1) For the purposes of this section, “deployed” means being ordered to temporary military duty during a period when a Presidential Executive order specifies that the United States is engaged in combat or homeland defense and the registered owner is one of the following:\n\n(A) A member of the armed forces.\n\n(B) A member of the armed forces reserve or the National Guard who has been called to active duty or active service.\n\n(2) “Deployed” does not include either of the following:\n\n(A) Temporary duty for the sole purpose of training or processing.\n\n(B) A permanent change of station.\n\n(c) This section does not apply to a registered owner who applies for registration renewal more than 60 days after termination of his or her deployment.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 4. Payment of Fees [9550 - 9564]\n##### § 9560\n\n(a) The department shall waive all penalties that may be due for late payment of registration renewal fees on a vehicle for any period during which the registered owner is deployed to a location outside of the state.\n\n(b) (1) For the purposes of this section, “deployed” means being ordered to temporary military duty during a period when a Presidential Executive order specifies that the United States is engaged in combat or homeland defense and the registered owner is one of the following:\n\n        (A) A member of the armed forces.\n\n        (B) A member of the armed forces reserve or the National Guard who has been called to active duty or active service.\n\n    (2) “Deployed” does not include either of the following:\n\n        (A) Temporary duty for the sole purpose of training or processing.\n\n        (B) A permanent change of station.\n\n(c) This section does not apply to a registered owner who applies for registration renewal more than 60 days after termination of his or her deployment.\n\n*(Added by Stats. 2004, Ch. 188, Sec. 1. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall waive all penalties that may be due for late payment of registration renewal fees on a vehicle for any period during which the registered owner is deployed to a location outside of the state.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "(1) For the purposes of this section, “deployed” means being ordered to temporary military duty during a period when a Presidential Executive order specifies that the United States is engaged in combat or homeland defense and the registered owner is one of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "A",
+      "text": "A member of the armed forces.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "B",
+      "text": "A member of the armed forces reserve or the National Guard who has been called to active duty or active service.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "2",
+      "text": "“Deployed” does not include either of the following:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "Temporary duty for the sole purpose of training or processing.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "B",
+      "text": "A permanent change of station.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "c",
+      "text": "This section does not apply to a registered owner who applies for registration renewal more than 60 days after termination of his or her deployment.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2004, Ch. 188, Sec. 1. Effective January 1, 2005.)",
+    "action": "Added",
+    "statutes_year": 2004,
+    "chapter": "188",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "188",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9560.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9560.html",
+  "content_sha256": "2ad5b1e6384c29e3858111692022dc4acf5a10b92583fae7c5c7d1185eebaf22",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

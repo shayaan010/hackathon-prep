@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15309.5",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "7",
+  "chapter_title": "Commercial Motor Vehicle Safety Program",
+  "chapter_range": "15200 - 15326",
+  "article": "7",
+  "article_title": "Sanctions",
+  "article_range": "15300 - 15326",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.7.7",
+  "text": "(a) It is unlawful for any person to do any of the following:\n\n(1) Sell, offer for sale, distribute, or use a crib sheet or cribbing device, as defined in Section 273, that contains answers to any examination administered by the department for a commercial driver’s license or permit.\n\n(2) Impersonate or allow the impersonation of an applicant for a commercial driver’s license or permit for the purpose of fraudulently qualifying the applicant for a commercial driver’s license or permit.\n\n(3) Provide, or use, any unauthorized assistance during any examination administered by the department for a commercial driver’s license or permit.\n\n(b) A first conviction under this section is punishable as either an infraction or a misdemeanor, and the driver shall not operate a commercial motor vehicle for a period of one year. A second or subsequent conviction is punishable as a misdemeanor, and the driver shall not operate a commercial motor vehicle for a period of one year.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 7. Commercial Motor Vehicle Safety Program [15200 - 15326]\n#### Article 7. Sanctions [15300 - 15326]\n##### § 15309.5\n\n(a) It is unlawful for any person to do any of the following:\n\n    (1) Sell, offer for sale, distribute, or use a crib sheet or cribbing device, as defined in Section 273, that contains answers to any examination administered by the department for a commercial driver’s license or permit.\n\n    (2) Impersonate or allow the impersonation of an applicant for a commercial driver’s license or permit for the purpose of fraudulently qualifying the applicant for a commercial driver’s license or permit.\n\n    (3) Provide, or use, any unauthorized assistance during any examination administered by the department for a commercial driver’s license or permit.\n\n(b) A first conviction under this section is punishable as either an infraction or a misdemeanor, and the driver shall not operate a commercial motor vehicle for a period of one year. A second or subsequent conviction is punishable as a misdemeanor, and the driver shall not operate a commercial motor vehicle for a period of one year.\n\n*(Added by Stats. 2013, Ch. 649, Sec. 5. (AB 1047) Effective January 1, 2014.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is unlawful for any person to do any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Sell, offer for sale, distribute, or use a crib sheet or cribbing device, as defined in Section 273, that contains answers to any examination administered by the department for a commercial driver’s license or permit.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Impersonate or allow the impersonation of an applicant for a commercial driver’s license or permit for the purpose of fraudulently qualifying the applicant for a commercial driver’s license or permit.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Provide, or use, any unauthorized assistance during any examination administered by the department for a commercial driver’s license or permit.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A first conviction under this section is punishable as either an infraction or a misdemeanor, and the driver shall not operate a commercial motor vehicle for a period of one year. A second or subsequent conviction is punishable as a misdemeanor, and the driver shall not operate a commercial motor vehicle for a period of one year.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2013, Ch. 649, Sec. 5. (AB 1047) Effective January 1, 2014.)",
+    "action": "Added",
+    "statutes_year": 2013,
+    "chapter": "649",
+    "section": "5",
+    "bill_number": "AB 1047",
+    "effective_date": "2014-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2013",
+  "op_chapter": "649",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15309.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15309.5.html",
+  "content_sha256": "6a9473b5c2e19b3b6c3cfaa86384ddc532486d2b1bcb62a4cae16419b2681f74",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

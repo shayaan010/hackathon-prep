@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35715",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "4",
+  "article_title": "Local Authorities",
+  "article_range": "35700 - 35722",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.5",
+  "text": "(a) The County of Nevada may by ordinance prohibit the use of Northwoods Boulevard in such county by any commercial vehicle exceeding a gross weight specified in the ordinance.\n\n(b) No ordinance adopted pursuant to this section shall be effective with respect to:\n\n(1) Any commercial vehicle coming from an unrestricted highway having ingress and egress by direct route to and from the restricted highway when necessary for the purpose of making pickups or deliveries of goods, wares, and merchandise from or to any building or structure located on the restricted highway or for the purpose of delivering materials to be used in the actual and bona fide repair, alteration, remodeling, or construction of any building or structure upon the restricted highway for which a building permit has previously been obtained.\n\n(2) The operation of ambulances or hearses.\n\n(3) Any vehicle owned, operated, controlled, or used by a public utility in connection with the construction, installation, operation, maintenance, or repair of any public utility facilities.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 4. Local Authorities [35700 - 35722]\n##### § 35715\n\n(a) The County of Nevada may by ordinance prohibit the use of Northwoods Boulevard in such county by any commercial vehicle exceeding a gross weight specified in the ordinance.\n\n(b) No ordinance adopted pursuant to this section shall be effective with respect to:\n\n    (1) Any commercial vehicle coming from an unrestricted highway having ingress and egress by direct route to and from the restricted highway when necessary for the purpose of making pickups or deliveries of goods, wares, and merchandise from or to any building or structure located on the restricted highway or for the purpose of delivering materials to be used in the actual and bona fide repair, alteration, remodeling, or construction of any building or structure upon the restricted highway for which a building permit has previously been obtained.\n\n    (2) The operation of ambulances or hearses.\n\n    (3) Any vehicle owned, operated, controlled, or used by a public utility in connection with the construction, installation, operation, maintenance, or repair of any public utility facilities.\n\n*(Added by Stats. 1975, Ch. 660.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The County of Nevada may by ordinance prohibit the use of Northwoods Boulevard in such county by any commercial vehicle exceeding a gross weight specified in the ordinance.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No ordinance adopted pursuant to this section shall be effective with respect to:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Any commercial vehicle coming from an unrestricted highway having ingress and egress by direct route to and from the restricted highway when necessary for the purpose of making pickups or deliveries of goods, wares, and merchandise from or to any building or structure located on the restricted highway or for the purpose of delivering materials to be used in the actual and bona fide repair, alteration, remodeling, or construction of any building or structure upon the restricted highway for which a building permit has previously been obtained.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The operation of ambulances or hearses.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Any vehicle owned, operated, controlled, or used by a public utility in connection with the construction, installation, operation, maintenance, or repair of any public utility facilities.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1975, Ch. 660.)",
+    "action": "Added",
+    "statutes_year": 1975,
+    "chapter": "660",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "660",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35715.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35715.html",
+  "content_sha256": "4c0011e99e6e4ccda49f0d1918228c93d9edde23bcf6aeafb1eb4e1860d5c1a5",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

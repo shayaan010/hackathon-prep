@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9104.5",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "1",
+  "article_title": "Exemptions",
+  "article_range": "9101 - 9107",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.1",
+  "text": "The fees specified in this code, except fees for registration under Section 9250, need not be paid for any vehicle of a type subject to registration under this code if the vehicle is owned by a federally recognized Indian tribe and the vehicle is used exclusively within the boundaries of lands under the jurisdiction of that Indian tribe, including the incidental use of that vehicle on highways within those boundaries.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 1. Exemptions [9101 - 9107]\n##### § 9104.5\n\nThe fees specified in this code, except fees for registration under Section 9250, need not be paid for any vehicle of a type subject to registration under this code if the vehicle is owned by a federally recognized Indian tribe and the vehicle is used exclusively within the boundaries of lands under the jurisdiction of that Indian tribe, including the incidental use of that vehicle on highways within those boundaries.\n\n*(Added by Stats. 1999, Ch. 911, Sec. 2. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The fees specified in this code, except fees for registration under Section 9250, need not be paid for any vehicle of a type subject to registration under this code if the vehicle is owned by a federally recognized Indian tribe and the vehicle is used exclusively within the boundaries of lands under the jurisdiction of that Indian tribe, including the incidental use of that vehicle on highways within those boundaries.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1999, Ch. 911, Sec. 2. Effective January 1, 2000.)",
+    "action": "Added",
+    "statutes_year": 1999,
+    "chapter": "911",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "911",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9104.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9104.5.html",
+  "content_sha256": "64ea49aa932d8e5727e6e15de0a7511df62fbee8d1b1db7c6ef6e6d067c28059",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

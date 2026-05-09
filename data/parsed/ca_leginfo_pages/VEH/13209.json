@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13209",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "2",
+  "chapter_title": "Suspension or Revocation of Licenses",
+  "chapter_range": "13100 - 13559",
+  "article": "2",
+  "article_title": "Suspension or Revocation by Court",
+  "article_range": "13200 - 13210",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.2.2",
+  "text": "Before sentencing a person upon a conviction of a violation of Section 23152 or 23153, the court shall obtain from the department a record of any prior convictions of that person for traffic violations. The department shall furnish that record upon the written request of the court.\n\nNotwithstanding the provisions of Section 1449 of the Penal Code, in any such criminal action the time for pronouncement of judgment shall not commence to run until the time that the court receives the record of prior convictions from the department.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 2. Suspension or Revocation of Licenses [13100 - 13559]\n#### Article 2. Suspension or Revocation by Court [13200 - 13210]\n##### § 13209\n\nBefore sentencing a person upon a conviction of a violation of Section 23152 or 23153, the court shall obtain from the department a record of any prior convictions of that person for traffic violations. The department shall furnish that record upon the written request of the court.\n\nNotwithstanding the provisions of Section 1449 of the Penal Code, in any such criminal action the time for pronouncement of judgment shall not commence to run until the time that the court receives the record of prior convictions from the department.\n\n*(Amended by Stats. 1981, Ch. 939, Sec. 4.5.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Before sentencing a person upon a conviction of a violation of Section 23152 or 23153, the court shall obtain from the department a record of any prior convictions of that person for traffic violations. The department shall furnish that record upon the written request of the court.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Notwithstanding the provisions of Section 1449 of the Penal Code, in any such criminal action the time for pronouncement of judgment shall not commence to run until the time that the court receives the record of prior convictions from the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1981, Ch. 939, Sec. 4.5.)",
+    "action": "Amended",
+    "statutes_year": 1981,
+    "chapter": "939",
+    "section": "4.5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1981",
+  "op_chapter": "939",
+  "op_section": "4.5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13209.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13209.html",
+  "content_sha256": "9b4f67eec3d80f5e53ef94a03fdc7e8942e1e9b8b458418d297dea5f5f11a5bb",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

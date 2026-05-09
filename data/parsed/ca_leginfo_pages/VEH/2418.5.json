@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2418.5",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "(a) Notwithstanding any other provision of law, every emergency ambulance that is operated within this state by any public or private agency, including, but not limited to, any emergency ambulance that is operated by the State of California, any charter or general law city or county, or any district, shall be equipped at all times with a resuscitator.\n\n(b) For purposes of this section “emergency ambulance” means a vehicle that is designed or intended to be used in providing emergency transportation of wounded, injured, sick, disabled, or incapacitated human beings.\n\n(c) For the purposes of this section, a “resuscitator” means a device that adequately, effectively and safely restores breathing, including, but not limited to, a portable hand-operated, self-refilling bag-valve mask unit for inflation of the lungs with either air or oxygen. The resuscitator shall not have any straps that could be used to attach the resuscitator to the human head.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2418.5\n\n(a) Notwithstanding any other provision of law, every emergency ambulance that is operated within this state by any public or private agency, including, but not limited to, any emergency ambulance that is operated by the State of California, any charter or general law city or county, or any district, shall be equipped at all times with a resuscitator.\n\n(b) For purposes of this section “emergency ambulance” means a vehicle that is designed or intended to be used in providing emergency transportation of wounded, injured, sick, disabled, or incapacitated human beings.\n\n(c) For the purposes of this section, a “resuscitator” means a device that adequately, effectively and safely restores breathing, including, but not limited to, a portable hand-operated, self-refilling bag-valve mask unit for inflation of the lungs with either air or oxygen. The resuscitator shall not have any straps that could be used to attach the resuscitator to the human head.\n\n*(Amended by Stats. 2004, Ch. 404, Sec. 6. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Notwithstanding any other provision of law, every emergency ambulance that is operated within this state by any public or private agency, including, but not limited to, any emergency ambulance that is operated by the State of California, any charter or general law city or county, or any district, shall be equipped at all times with a resuscitator.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For purposes of this section “emergency ambulance” means a vehicle that is designed or intended to be used in providing emergency transportation of wounded, injured, sick, disabled, or incapacitated human beings.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "For the purposes of this section, a “resuscitator” means a device that adequately, effectively and safely restores breathing, including, but not limited to, a portable hand-operated, self-refilling bag-valve mask unit for inflation of the lungs with either air or oxygen. The resuscitator shall not have any straps that could be used to attach the resuscitator to the human head.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 404, Sec. 6. Effective January 1, 2005.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "404",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "404",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2418.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2418.5.html",
+  "content_sha256": "c55855faa9ef0921ddb4743df883e9467d45cc64f000643e703e22c68b2ed546",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

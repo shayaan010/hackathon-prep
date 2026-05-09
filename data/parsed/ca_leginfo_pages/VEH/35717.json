@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35717",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "4",
+  "article_title": "Local Authorities",
+  "article_range": "35700 - 35722",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.5",
+  "text": "Notwithstanding any provision to the contrary, any county may by ordinance prohibit the use of any street, road or highway by any commercial vehicle exceeding a maximum gross weight of 14,000 pounds if, by accepted engineering standards, the street, road or highway cannot support such vehicle.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 4. Local Authorities [35700 - 35722]\n##### § 35717\n\nNotwithstanding any provision to the contrary, any county may by ordinance prohibit the use of any street, road or highway by any commercial vehicle exceeding a maximum gross weight of 14,000 pounds if, by accepted engineering standards, the street, road or highway cannot support such vehicle.\n\n*(Added by Stats. 1959, Ch. 1732.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding any provision to the contrary, any county may by ordinance prohibit the use of any street, road or highway by any commercial vehicle exceeding a maximum gross weight of 14,000 pounds if, by accepted engineering standards, the street, road or highway cannot support such vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1959, Ch. 1732.)",
+    "action": "Added",
+    "statutes_year": 1959,
+    "chapter": "1732",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "1732",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35717.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35717.html",
+  "content_sha256": "d6957996536d22083704084a362c468080b7280f357ff065e7bcb4effab25aed",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

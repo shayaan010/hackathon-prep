@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "31402",
+  "division": "13",
+  "division_title": "TOWING AND LOADING EQUIPMENT",
+  "division_range": "29000 - 31560",
+  "chapter": "5",
+  "chapter_title": "Transporting Other Loads",
+  "chapter_range": "31301 - 31560",
+  "article": "2",
+  "article_title": "Vehicles Transporting Workmen",
+  "article_range": "31400 - 31409",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "19.2.2",
+  "text": "(a) No person may operate any farm labor vehicle except as may be necessary to return the unladen vehicle or combination of vehicles to the residence or place of business of the owner or driver, or to a garage, after notice by the department to the owner that the vehicle is in an unsafe condition or is not equipped as required by this code, or any regulations adopted thereunder, until the vehicle and its equipment have been made to conform with the requirements of this code, or any regulations adopted thereunder, and approved by the department.\n\n(b) (1) A person who operates a farm labor vehicle in violation of this section while the vehicle is in a condition that presents an immediate safety hazard is guilty of a misdemeanor punishable by a fine of not less than one thousand dollars ($1,000) and not more than five thousand dollars ($5,000), or both that fine and a sentence of confinement for not more than six months in the county jail. No part of any fine imposed under this subdivision may be suspended.\n\n(2) As used in this subdivision, an “immediate safety hazard” is any equipment violation described in subdivision (a) of Section 31401 or Section 31405, including any violation of a regulation adopted pursuant to that provision or those provisions.\n\n(c) Any member of the Department of the California Highway Patrol may impound a farm labor vehicle operated in violation of this section pursuant to Section 34506.4. A farm labor vehicle shall not be impounded unless a member of that department determines that a person has failed to comply with subdivision (a) or a person fails to comply with a lawful out-of-service order, as described in subdivision (b) of Section 2800.",
+  "markdown": "# Vehicle Code\n## Division 13. TOWING AND LOADING EQUIPMENT [29000 - 31560]\n### Chapter 5. Transporting Other Loads [31301 - 31560]\n#### Article 2. Vehicles Transporting Workmen [31400 - 31409]\n##### § 31402\n\n(a) No person may operate any farm labor vehicle except as may be necessary to return the unladen vehicle or combination of vehicles to the residence or place of business of the owner or driver, or to a garage, after notice by the department to the owner that the vehicle is in an unsafe condition or is not equipped as required by this code, or any regulations adopted thereunder, until the vehicle and its equipment have been made to conform with the requirements of this code, or any regulations adopted thereunder, and approved by the department.\n\n(b) (1) A person who operates a farm labor vehicle in violation of this section while the vehicle is in a condition that presents an immediate safety hazard is guilty of a misdemeanor punishable by a fine of not less than one thousand dollars ($1,000) and not more than five thousand dollars ($5,000), or both that fine and a sentence of confinement for not more than six months in the county jail. No part of any fine imposed under this subdivision may be suspended.\n\n    (2) As used in this subdivision, an “immediate safety hazard” is any equipment violation described in subdivision (a) of Section 31401 or Section 31405, including any violation of a regulation adopted pursuant to that provision or those provisions.\n\n(c) Any member of the Department of the California Highway Patrol may impound a farm labor vehicle operated in violation of this section pursuant to Section 34506.4. A farm labor vehicle shall not be impounded unless a member of that department determines that a person has failed to comply with subdivision (a) or a person fails to comply with a lawful out-of-service order, as described in subdivision (b) of Section 2800.\n\n*(Amended by Stats. 2000, Ch. 873, Sec. 3. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person may operate any farm labor vehicle except as may be necessary to return the unladen vehicle or combination of vehicles to the residence or place of business of the owner or driver, or to a garage, after notice by the department to the owner that the vehicle is in an unsafe condition or is not equipped as required by this code, or any regulations adopted thereunder, until the vehicle and its equipment have been made to conform with the requirements of this code, or any regulations adopted thereunder, and approved by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "(1) A person who operates a farm labor vehicle in violation of this section while the vehicle is in a condition that presents an immediate safety hazard is guilty of a misdemeanor punishable by a fine of not less than one thousand dollars ($1,000) and not more than five thousand dollars ($5,000), or both that fine and a sentence of confinement for not more than six months in the county jail. No part of any fine imposed under this subdivision may be suspended.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "As used in this subdivision, an “immediate safety hazard” is any equipment violation described in subdivision (a) of Section 31401 or Section 31405, including any violation of a regulation adopted pursuant to that provision or those provisions.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "Any member of the Department of the California Highway Patrol may impound a farm labor vehicle operated in violation of this section pursuant to Section 34506.4. A farm labor vehicle shall not be impounded unless a member of that department determines that a person has failed to comply with subdivision (a) or a person fails to comply with a lawful out-of-service order, as described in subdivision (b) of Section 2800.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2000, Ch. 873, Sec. 3. Effective January 1, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2000,
+    "chapter": "873",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "873",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=31402.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/31402.html",
+  "content_sha256": "1c6e175d2caa2386737681c744ad33447e873281325c6b9ec2b84e9ab7ff3de9",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

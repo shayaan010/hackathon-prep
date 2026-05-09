@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "39002",
+  "division": "16.7",
+  "division_title": "REGISTRATION AND LICENSING OF BICYCLES",
+  "division_range": "39000 - 39011",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "33",
+  "text": "(a) A city or county, which adopts a bicycle licensing ordinance or resolution, shall not prohibit the operation of an unlicensed bicycle.\n\n(b) It is unlawful for any person to tamper with, destroy, mutilate, or alter any license indicia or registration form, or to remove, alter, or mutilate the serial number, or the identifying marks of a licensing agency’s identifying symbol, on any bicycle frame licensed under this division.",
+  "markdown": "# Vehicle Code\n## Division 16.7. REGISTRATION AND LICENSING OF BICYCLES [39000 - 39011]\n##### § 39002\n\n(a) A city or county, which adopts a bicycle licensing ordinance or resolution, shall not prohibit the operation of an unlicensed bicycle.\n\n(b) It is unlawful for any person to tamper with, destroy, mutilate, or alter any license indicia or registration form, or to remove, alter, or mutilate the serial number, or the identifying marks of a licensing agency’s identifying symbol, on any bicycle frame licensed under this division.\n\n*(Amended by Stats. 2022, Ch. 343, Sec. 7. (AB 1909) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A city or county, which adopts a bicycle licensing ordinance or resolution, shall not prohibit the operation of an unlicensed bicycle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "It is unlawful for any person to tamper with, destroy, mutilate, or alter any license indicia or registration form, or to remove, alter, or mutilate the serial number, or the identifying marks of a licensing agency’s identifying symbol, on any bicycle frame licensed under this division.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 343, Sec. 7. (AB 1909) Effective January 1, 2023.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "343",
+    "section": "7",
+    "bill_number": "AB 1909",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "343",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=39002.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/39002.html",
+  "content_sha256": "74857804e510030447ea2d9c325a5814c54a1f397fbb5932d90a1ba942a3b3a6",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

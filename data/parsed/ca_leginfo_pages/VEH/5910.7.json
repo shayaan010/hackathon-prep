@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5910.7",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "2",
+  "chapter_title": "Transfers of Title or Interest",
+  "chapter_range": "5600 - 6105",
+  "article": "3",
+  "article_title": "Notice and Application",
+  "article_range": "5900 - 5912",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.2.3",
+  "text": "(a) If the department makes a transfer pursuant to Section 5910.5, the department is discharged from all liability, whether or not the transfer is consistent with the beneficial ownership of the vehicle transferred.\n\n(b) The protection provided by subdivision (a) does not extend to a transfer made after the department has been served with a court order restraining the transfer. No other notice or information shown to have been available to the department shall affect its right to the protection afforded by subdivision (a).\n\n(c) The protection provided by this section has no bearing on the rights of parties in disputes between themselves or their successors concerning the beneficial ownership of the vehicle.\n\n(d) The protection provided by this section is in addition to, and not exclusive of, any other protection provided to the department by any other provision of law.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 2. Transfers of Title or Interest [5600 - 6105]\n#### Article 3. Notice and Application [5900 - 5912]\n##### § 5910.7\n\n(a) If the department makes a transfer pursuant to Section 5910.5, the department is discharged from all liability, whether or not the transfer is consistent with the beneficial ownership of the vehicle transferred.\n\n(b) The protection provided by subdivision (a) does not extend to a transfer made after the department has been served with a court order restraining the transfer. No other notice or information shown to have been available to the department shall affect its right to the protection afforded by subdivision (a).\n\n(c) The protection provided by this section has no bearing on the rights of parties in disputes between themselves or their successors concerning the beneficial ownership of the vehicle.\n\n(d) The protection provided by this section is in addition to, and not exclusive of, any other protection provided to the department by any other provision of law.\n\n*(Added by Stats. 1991, Ch. 1055, Sec. 60. Operative January 1, 1993, by Sec. 64 of Ch. 1055.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If the department makes a transfer pursuant to Section 5910.5, the department is discharged from all liability, whether or not the transfer is consistent with the beneficial ownership of the vehicle transferred.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The protection provided by subdivision (a) does not extend to a transfer made after the department has been served with a court order restraining the transfer. No other notice or information shown to have been available to the department shall affect its right to the protection afforded by subdivision (a).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The protection provided by this section has no bearing on the rights of parties in disputes between themselves or their successors concerning the beneficial ownership of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The protection provided by this section is in addition to, and not exclusive of, any other protection provided to the department by any other provision of law.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1991, Ch. 1055, Sec. 60. Operative January 1, 1993, by Sec. 64 of Ch. 1055.)",
+    "action": "Added",
+    "statutes_year": 1991,
+    "chapter": "1055",
+    "section": "60",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": "1993-01-01"
+  },
+  "op_statues": "1991",
+  "op_chapter": "1055",
+  "op_section": "60",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5910.7.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5910.7.html",
+  "content_sha256": "0f4af4eaedb597624607920ccad77d3accbf6fb457997104a73ec141e4bfd077",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

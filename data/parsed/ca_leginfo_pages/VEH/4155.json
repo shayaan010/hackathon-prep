@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4155",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "2",
+  "article_title": "Original Registration",
+  "article_range": "4150 - 4166",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.2",
+  "text": "Registration under this code shall apply to any vehicle owned by the United States government, the state, or any city, county, or political subdivision of the state, except in the following particulars:\n\n(a) A license plate issued for a vehicle while publicly owned need not display the year number for which it is issued, but shall display a distinguishing symbol or letter.\n\n(b) The registration of the vehicle and the registration card issued therefor shall not be renewed annually but shall remain valid until the certificate of ownership is suspended, revoked, or canceled by the department or upon a transfer of any interest shown in the certificate of ownership. If ownership of the vehicle is transferred to any person, the vehicle shall be reregistered as a privately owned vehicle and the special license plates shall be surrendered to the department.\n\n(c) An identification plate used for special construction, cemetery, or special mobile equipment need not display a distinguishing symbol or letter.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 2. Original Registration [4150 - 4166]\n##### § 4155\n\nRegistration under this code shall apply to any vehicle owned by the United States government, the state, or any city, county, or political subdivision of the state, except in the following particulars:\n\n(a) A license plate issued for a vehicle while publicly owned need not display the year number for which it is issued, but shall display a distinguishing symbol or letter.\n\n(b) The registration of the vehicle and the registration card issued therefor shall not be renewed annually but shall remain valid until the certificate of ownership is suspended, revoked, or canceled by the department or upon a transfer of any interest shown in the certificate of ownership. If ownership of the vehicle is transferred to any person, the vehicle shall be reregistered as a privately owned vehicle and the special license plates shall be surrendered to the department.\n\n(c) An identification plate used for special construction, cemetery, or special mobile equipment need not display a distinguishing symbol or letter.\n\n*(Amended by Stats. 1969, Ch. 1242.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Registration under this code shall apply to any vehicle owned by the United States government, the state, or any city, county, or political subdivision of the state, except in the following particulars:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A license plate issued for a vehicle while publicly owned need not display the year number for which it is issued, but shall display a distinguishing symbol or letter.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The registration of the vehicle and the registration card issued therefor shall not be renewed annually but shall remain valid until the certificate of ownership is suspended, revoked, or canceled by the department or upon a transfer of any interest shown in the certificate of ownership. If ownership of the vehicle is transferred to any person, the vehicle shall be reregistered as a privately owned vehicle and the special license plates shall be surrendered to the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "An identification plate used for special construction, cemetery, or special mobile equipment need not display a distinguishing symbol or letter.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1969, Ch. 1242.)",
+    "action": "Amended",
+    "statutes_year": 1969,
+    "chapter": "1242",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1969",
+  "op_chapter": "1242",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4155.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4155.html",
+  "content_sha256": "b4c1ee5961d603d78a00dabe4a76b3605a69b8b4c4cc81ce3310cec19cc4b27a",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

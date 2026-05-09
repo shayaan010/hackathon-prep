@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40510",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "2",
+  "article_title": "Release Upon Promise to Appear",
+  "article_range": "40500 - 40522",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.2",
+  "text": "(a) Prior to the date upon which a defendant promised to appear, or prior to the expiration of any lawful continuance of that date, or upon receipt of information that an action has been filed and prior to the scheduled court date, the defendant may deposit bail with the magistrate or the person authorized to receive a deposit of bail.\n\n(b) For any offense which is not declared to be a felony, a deposit of bail or a penalty may be by a personal check meeting the criteria established in accordance with subdivision (c).\n\n(c) Each court, sheriff, or other agency which regularly accepts deposits of bail or penalties, shall adopt a written policy governing the acceptance of personal checks in payment of bail or penalty deposits. The policy shall permit clerks and other appropriate officers to accept personal checks under conditions which tend to assure the validity of the checks.\n\n(d) The written policy governing the acceptance of personal checks adopted pursuant to subdivision (c) shall provide that the payee of the deposit made by personal check shall be the agency accepting the deposit.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 2. Release Upon Promise to Appear [40500 - 40522]\n##### § 40510\n\n(a) Prior to the date upon which a defendant promised to appear, or prior to the expiration of any lawful continuance of that date, or upon receipt of information that an action has been filed and prior to the scheduled court date, the defendant may deposit bail with the magistrate or the person authorized to receive a deposit of bail.\n\n(b) For any offense which is not declared to be a felony, a deposit of bail or a penalty may be by a personal check meeting the criteria established in accordance with subdivision (c).\n\n(c) Each court, sheriff, or other agency which regularly accepts deposits of bail or penalties, shall adopt a written policy governing the acceptance of personal checks in payment of bail or penalty deposits. The policy shall permit clerks and other appropriate officers to accept personal checks under conditions which tend to assure the validity of the checks.\n\n(d) The written policy governing the acceptance of personal checks adopted pursuant to subdivision (c) shall provide that the payee of the deposit made by personal check shall be the agency accepting the deposit.\n\n*(Amended by Stats. 1992, Ch. 1244, Sec. 34. Effective January 1, 1993. Operative July 1, 1993, by Sec. 39 of Ch. 1244.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Prior to the date upon which a defendant promised to appear, or prior to the expiration of any lawful continuance of that date, or upon receipt of information that an action has been filed and prior to the scheduled court date, the defendant may deposit bail with the magistrate or the person authorized to receive a deposit of bail.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For any offense which is not declared to be a felony, a deposit of bail or a penalty may be by a personal check meeting the criteria established in accordance with subdivision (c).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Each court, sheriff, or other agency which regularly accepts deposits of bail or penalties, shall adopt a written policy governing the acceptance of personal checks in payment of bail or penalty deposits. The policy shall permit clerks and other appropriate officers to accept personal checks under conditions which tend to assure the validity of the checks.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The written policy governing the acceptance of personal checks adopted pursuant to subdivision (c) shall provide that the payee of the deposit made by personal check shall be the agency accepting the deposit.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1992, Ch. 1244, Sec. 34. Effective January 1, 1993. Operative July 1, 1993, by Sec. 39 of Ch. 1244.)",
+    "action": "Amended",
+    "statutes_year": 1992,
+    "chapter": "1244",
+    "section": "34",
+    "bill_number": null,
+    "effective_date": "1993-01-01",
+    "operative_date": "1993-07-01"
+  },
+  "op_statues": "1992",
+  "op_chapter": "1244",
+  "op_section": "34",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40510.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40510.html",
+  "content_sha256": "1c2c89d0e88be71fd5b33c4019a4198f12d553ed68d5c34d0b1f7ad0c180b65c",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

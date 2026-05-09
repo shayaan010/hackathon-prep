@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4850.5",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "7",
+  "article_title": "License Plates",
+  "article_range": "4850 - 4854",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.8",
+  "text": "(a) Notwithstanding subdivision (a) of Section 4850 and Section 5200, the department, upon registering a truck tractor, shall issue to the owner one suitable license plate or other device which identifies the vehicle for which it is issued and for the period of its validity. The license plate or other device shall be attached to the front of the vehicle.\n\n(b) This section shall become operative only when and if the Department of the California Highway Patrol implements a program which requires identifying numbers on the right and left sides of truck tractors.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 7. License Plates [4850 - 4854]\n##### § 4850.5\n\n(a) Notwithstanding subdivision (a) of Section 4850 and Section 5200, the department, upon registering a truck tractor, shall issue to the owner one suitable license plate or other device which identifies the vehicle for which it is issued and for the period of its validity. The license plate or other device shall be attached to the front of the vehicle.\n\n(b) This section shall become operative only when and if the Department of the California Highway Patrol implements a program which requires identifying numbers on the right and left sides of truck tractors.\n\n*(Added by Stats. 1985, Ch. 183, Sec. 1. Conditionally operative by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Notwithstanding subdivision (a) of Section 4850 and Section 5200, the department, upon registering a truck tractor, shall issue to the owner one suitable license plate or other device which identifies the vehicle for which it is issued and for the period of its validity. The license plate or other device shall be attached to the front of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section shall become operative only when and if the Department of the California Highway Patrol implements a program which requires identifying numbers on the right and left sides of truck tractors.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1985, Ch. 183, Sec. 1. Conditionally operative by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 1985,
+    "chapter": "183",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1985",
+  "op_chapter": "183",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4850.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4850.5.html",
+  "content_sha256": "63cc39a89930ca84382efc00a1b06d6b63ebfb031ccfbd4b79e1f9d9cef4fa7b",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

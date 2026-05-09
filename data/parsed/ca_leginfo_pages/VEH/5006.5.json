@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5006.5",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8",
+  "article_title": "Special Plates",
+  "article_range": "5000 - 5024",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.9",
+  "text": "(a) The department may issue, for a fee determined by the department to be sufficient to reimburse the department for actual costs incurred pursuant to this section, distinctive license plates for motor vehicles owned or leased by an officer or a designated employee of a foreign organization recognized by the United States pursuant to the Taiwan Relations Act (22 U.S.C. Sec. 3301 et seq.) when the department is otherwise satisfied that the issuance of the license plates is in order.\n\n(b) The distinctive license plates shall be designed by the department and shall contain the words “Foreign Organization.”\n\n(c) The department shall establish procedures for both of the following:\n\n(1) To verify the eligibility of an applicant for plates issued pursuant to this section.\n\n(2) To authorize a recognized foreign organization to apply on behalf of its officers for plates issued pursuant to this section.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8. Special Plates [5000 - 5024]\n##### § 5006.5\n\n(a) The department may issue, for a fee determined by the department to be sufficient to reimburse the department for actual costs incurred pursuant to this section, distinctive license plates for motor vehicles owned or leased by an officer or a designated employee of a foreign organization recognized by the United States pursuant to the Taiwan Relations Act (22 U.S.C. Sec. 3301 et seq.) when the department is otherwise satisfied that the issuance of the license plates is in order.\n\n(b) The distinctive license plates shall be designed by the department and shall contain the words “Foreign Organization.”\n\n(c) The department shall establish procedures for both of the following:\n\n    (1) To verify the eligibility of an applicant for plates issued pursuant to this section.\n\n    (2) To authorize a recognized foreign organization to apply on behalf of its officers for plates issued pursuant to this section.\n\n*(Added by Stats. 1994, Ch. 397, Sec. 1. Effective January 1, 1995.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may issue, for a fee determined by the department to be sufficient to reimburse the department for actual costs incurred pursuant to this section, distinctive license plates for motor vehicles owned or leased by an officer or a designated employee of a foreign organization recognized by the United States pursuant to the Taiwan Relations Act (22 U.S.C. Sec. 3301 et seq.) when the department is otherwise satisfied that the issuance of the license plates is in order.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The distinctive license plates shall be designed by the department and shall contain the words “Foreign Organization.”",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The department shall establish procedures for both of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "To verify the eligibility of an applicant for plates issued pursuant to this section.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "To authorize a recognized foreign organization to apply on behalf of its officers for plates issued pursuant to this section.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1994, Ch. 397, Sec. 1. Effective January 1, 1995.)",
+    "action": "Added",
+    "statutes_year": 1994,
+    "chapter": "397",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "397",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5006.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5006.5.html",
+  "content_sha256": "e7560efc8d4ab8ef92c8333f175bc91204d0cb01df3730879c4cd7a4ab521a17",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

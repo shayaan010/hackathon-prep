@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1659",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "2",
+  "article_title": "Powers and Duties",
+  "article_range": "1650 - 1685.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.2",
+  "text": "The department may develop criteria, establish standards for, and coordinate a program of motor vehicle driver education and motor vehicle driver training for drivers whose licenses have been suspended or revoked.\n\nThe purpose of the program shall be to promote safe driving. To carry out this purpose the department may seek the advice or cooperation of the schools, courts, and other interested persons.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 2. Powers and Duties [1650 - 1685.1]\n##### § 1659\n\nThe department may develop criteria, establish standards for, and coordinate a program of motor vehicle driver education and motor vehicle driver training for drivers whose licenses have been suspended or revoked.\n\nThe purpose of the program shall be to promote safe driving. To carry out this purpose the department may seek the advice or cooperation of the schools, courts, and other interested persons.\n\n*(Added by Stats. 1965, Ch. 447.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department may develop criteria, establish standards for, and coordinate a program of motor vehicle driver education and motor vehicle driver training for drivers whose licenses have been suspended or revoked.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The purpose of the program shall be to promote safe driving. To carry out this purpose the department may seek the advice or cooperation of the schools, courts, and other interested persons.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1965, Ch. 447.)",
+    "action": "Added",
+    "statutes_year": 1965,
+    "chapter": "447",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1965",
+  "op_chapter": "447",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1659.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1659.html",
+  "content_sha256": "3c0740aa656e05800aed75c64feb988312ed4890c10c67b2bb76d51e85c8cdfa",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

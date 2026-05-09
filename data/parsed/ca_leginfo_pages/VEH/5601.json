@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5601",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "2",
+  "chapter_title": "Transfers of Title or Interest",
+  "chapter_range": "5600 - 6105",
+  "article": "1",
+  "article_title": "Procedure to Transfer",
+  "article_range": "5600 - 5604.5",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.2.1",
+  "text": "Section 5600 does not apply to involuntary transfers, as upon the taking of possession by a secured party under a security agreement, or to transfers involving the creation of security interests subject to Chapter 3, commencing at Section 6300.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 2. Transfers of Title or Interest [5600 - 6105]\n#### Article 1. Procedure to Transfer [5600 - 5604.5]\n##### § 5601\n\nSection 5600 does not apply to involuntary transfers, as upon the taking of possession by a secured party under a security agreement, or to transfers involving the creation of security interests subject to Chapter 3, commencing at Section 6300.\n\n*(Amended by Stats. 1963, Ch. 819.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Section 5600 does not apply to involuntary transfers, as upon the taking of possession by a secured party under a security agreement, or to transfers involving the creation of security interests subject to Chapter 3, commencing at Section 6300.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1963, Ch. 819.)",
+    "action": "Amended",
+    "statutes_year": 1963,
+    "chapter": "819",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1963",
+  "op_chapter": "819",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5601.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5601.html",
+  "content_sha256": "eab3db090b8ec2e8a5397e2a88b0cddf1cbe34b03b4ba0d7fd8e8aa7e7a5f3f3",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

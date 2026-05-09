@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11713.9",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "4",
+  "chapter_title": "Manufacturers, Transporters, Dealers, and Salesmen",
+  "chapter_range": "11700 - 11909",
+  "article": "1",
+  "article_title": "Issuance of Licenses and Certificates to Manufacturers, Transporters, and Dealers",
+  "article_range": "11700 - 11740",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.7.1",
+  "text": "(a) It is unlawful and a violation of this code for the holder of a dealer’s license to knowingly display for sale or offer for sale any new motor vehicle specified in subdivision (b) with an engine manufactured by a manufacturer that is not the same as the vehicle manufacturer, as defined in Section 9980, unless the vehicle is prominently labeled as specified in Section 9981.\n\n(b) This section applies only to new passenger vehicles and to new motortrucks with an unladen weight under 6,000 pounds, except housecars.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 4. Manufacturers, Transporters, Dealers, and Salesmen [11700 - 11909]\n#### Article 1. Issuance of Licenses and Certificates to Manufacturers, Transporters, and Dealers [11700 - 11740]\n##### § 11713.9\n\n(a) It is unlawful and a violation of this code for the holder of a dealer’s license to knowingly display for sale or offer for sale any new motor vehicle specified in subdivision (b) with an engine manufactured by a manufacturer that is not the same as the vehicle manufacturer, as defined in Section 9980, unless the vehicle is prominently labeled as specified in Section 9981.\n\n(b) This section applies only to new passenger vehicles and to new motortrucks with an unladen weight under 6,000 pounds, except housecars.\n\n*(Added by Stats. 1984, Ch. 1264, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is unlawful and a violation of this code for the holder of a dealer’s license to knowingly display for sale or offer for sale any new motor vehicle specified in subdivision (b) with an engine manufactured by a manufacturer that is not the same as the vehicle manufacturer, as defined in Section 9980, unless the vehicle is prominently labeled as specified in Section 9981.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section applies only to new passenger vehicles and to new motortrucks with an unladen weight under 6,000 pounds, except housecars.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1984, Ch. 1264, Sec. 2.)",
+    "action": "Added",
+    "statutes_year": 1984,
+    "chapter": "1264",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "1264",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11713.9.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11713.9.html",
+  "content_sha256": "24845bfc86b0b7f9cb05471a6b79e690adcc2d63464a60d91ee6960e5f3c46bf",
+  "parsed_at": "2026-05-09T17:53:44+00:00",
+  "parser_version": "1"
+}

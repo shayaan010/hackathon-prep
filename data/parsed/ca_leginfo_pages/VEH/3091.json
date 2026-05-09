@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "3091",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "7",
+  "chapter_title": "Road Usage Charge Pilot Program",
+  "chapter_range": "3090 - 3093",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.7",
+  "text": "(a) Based on the recommendations of the RUC Technical Advisory Committee, the Transportation Agency shall implement a pilot program to identify and evaluate issues related to the potential implementation of an RUC program in California by January 1, 2017.\n\n(b) At a minimum, the pilot program shall accomplish all of the following:\n\n(1) Analyze alternative means of collecting road usage data, including at least one alternative that does not rely on electronic vehicle location data.\n\n(2) Collect a minimum amount of personal information including location tracking information, necessary to implement the RUC program.\n\n(3) Ensure that processes for collecting, managing, storing, transmitting, and destroying data are in place to protect the integrity of the data and safeguard the privacy of drivers.\n\n(c) The agency shall not disclose, distribute, make available, sell, access, or otherwise provide for another purpose, personal information or data collected through the RUC program to any private entity or individual unless authorized by a court order, as part of a civil case, by a subpoena issued on behalf of a defendant in a criminal case, by a search warrant, or in aggregate form with all personal information removed for the purposes of academic research.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 7. Road Usage Charge Pilot Program [3090 - 3093]\n##### § 3091\n\n(a) Based on the recommendations of the RUC Technical Advisory Committee, the Transportation Agency shall implement a pilot program to identify and evaluate issues related to the potential implementation of an RUC program in California by January 1, 2017.\n\n(b) At a minimum, the pilot program shall accomplish all of the following:\n\n    (1) Analyze alternative means of collecting road usage data, including at least one alternative that does not rely on electronic vehicle location data.\n\n    (2) Collect a minimum amount of personal information including location tracking information, necessary to implement the RUC program.\n\n    (3) Ensure that processes for collecting, managing, storing, transmitting, and destroying data are in place to protect the integrity of the data and safeguard the privacy of drivers.\n\n(c) The agency shall not disclose, distribute, make available, sell, access, or otherwise provide for another purpose, personal information or data collected through the RUC program to any private entity or individual unless authorized by a court order, as part of a civil case, by a subpoena issued on behalf of a defendant in a criminal case, by a search warrant, or in aggregate form with all personal information removed for the purposes of academic research.\n\n*(Added by Stats. 2014, Ch. 835, Sec. 2. (SB 1077) Effective January 1, 2015. Repealed as of January 1, 2027, pursuant to Section 3093.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Based on the recommendations of the RUC Technical Advisory Committee, the Transportation Agency shall implement a pilot program to identify and evaluate issues related to the potential implementation of an RUC program in California by January 1, 2017.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "At a minimum, the pilot program shall accomplish all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Analyze alternative means of collecting road usage data, including at least one alternative that does not rely on electronic vehicle location data.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Collect a minimum amount of personal information including location tracking information, necessary to implement the RUC program.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Ensure that processes for collecting, managing, storing, transmitting, and destroying data are in place to protect the integrity of the data and safeguard the privacy of drivers.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "The agency shall not disclose, distribute, make available, sell, access, or otherwise provide for another purpose, personal information or data collected through the RUC program to any private entity or individual unless authorized by a court order, as part of a civil case, by a subpoena issued on behalf of a defendant in a criminal case, by a search warrant, or in aggregate form with all personal information removed for the purposes of academic research.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2014, Ch. 835, Sec. 2. (SB 1077) Effective January 1, 2015. Repealed as of January 1, 2027, pursuant to Section 3093.)",
+    "action": "Added",
+    "statutes_year": 2014,
+    "chapter": "835",
+    "section": "2",
+    "bill_number": "SB 1077",
+    "effective_date": "2015-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2014",
+  "op_chapter": "835",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3091.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/3091.html",
+  "content_sha256": "d636208ba0c15ff1c4354747896cf9ab038f6c3842c210dac549058b6238a2db",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

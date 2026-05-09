@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11712.5",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "4",
+  "chapter_title": "Manufacturers, Transporters, Dealers, and Salesmen",
+  "chapter_range": "11700 - 11909",
+  "article": "1",
+  "article_title": "Issuance of Licenses and Certificates to Manufacturers, Transporters, and Dealers",
+  "article_range": "11700 - 11740",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.7.1",
+  "text": "It is unlawful and a violation of this code for a dealer issued a license pursuant to this article to sell, offer for sale, or display any new vehicle, as follows:\n\n(a) A new motorcycle unless there is securely attached thereto a statement as required by Section 24014.\n\n(b) A new light duty truck with a manufacturer’s gross vehicle weight rating of 8,500 pounds or less unless there is affixed to the light duty truck the label required by Section 24013.5.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 4. Manufacturers, Transporters, Dealers, and Salesmen [11700 - 11909]\n#### Article 1. Issuance of Licenses and Certificates to Manufacturers, Transporters, and Dealers [11700 - 11740]\n##### § 11712.5\n\nIt is unlawful and a violation of this code for a dealer issued a license pursuant to this article to sell, offer for sale, or display any new vehicle, as follows:\n\n(a) A new motorcycle unless there is securely attached thereto a statement as required by Section 24014.\n\n(b) A new light duty truck with a manufacturer’s gross vehicle weight rating of 8,500 pounds or less unless there is affixed to the light duty truck the label required by Section 24013.5.\n\n*(Amended by Stats. 1987, Ch. 418, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "It is unlawful and a violation of this code for a dealer issued a license pursuant to this article to sell, offer for sale, or display any new vehicle, as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A new motorcycle unless there is securely attached thereto a statement as required by Section 24014.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A new light duty truck with a manufacturer’s gross vehicle weight rating of 8,500 pounds or less unless there is affixed to the light duty truck the label required by Section 24013.5.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1987, Ch. 418, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1987,
+    "chapter": "418",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1987",
+  "op_chapter": "418",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11712.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11712.5.html",
+  "content_sha256": "56e92987bc5475a76728b0082c468500a5136021504d7defdc6ec797055fe49e",
+  "parsed_at": "2026-05-09T17:53:44+00:00",
+  "parser_version": "1"
+}

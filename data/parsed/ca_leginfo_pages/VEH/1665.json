@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1665",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "2",
+  "article_title": "Powers and Duties",
+  "article_range": "1650 - 1685.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.2",
+  "text": "Notwithstanding any other provision of law, the department by rule or regulation may provide for the issuance and renewal on a two-year basis of licenses or other indicia of authority issued pursuant to this code by the department or any agency in the department.\n\nThe department may, by rule or regulation, set the fee for such two-year license, certificate of registration, or other indicia, not to exceed twice the annual fee for issuance or renewal set by statute.\n\nThis section shall not apply to any driver’s license or vehicle or vessel license or certificate of registration issued pursuant to this code.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 2. Powers and Duties [1650 - 1685.1]\n##### § 1665\n\nNotwithstanding any other provision of law, the department by rule or regulation may provide for the issuance and renewal on a two-year basis of licenses or other indicia of authority issued pursuant to this code by the department or any agency in the department.\n\nThe department may, by rule or regulation, set the fee for such two-year license, certificate of registration, or other indicia, not to exceed twice the annual fee for issuance or renewal set by statute.\n\nThis section shall not apply to any driver’s license or vehicle or vessel license or certificate of registration issued pursuant to this code.\n\n*(Added by Stats. 1975, Ch. 57.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding any other provision of law, the department by rule or regulation may provide for the issuance and renewal on a two-year basis of licenses or other indicia of authority issued pursuant to this code by the department or any agency in the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The department may, by rule or regulation, set the fee for such two-year license, certificate of registration, or other indicia, not to exceed twice the annual fee for issuance or renewal set by statute.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "This section shall not apply to any driver’s license or vehicle or vessel license or certificate of registration issued pursuant to this code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1975, Ch. 57.)",
+    "action": "Added",
+    "statutes_year": 1975,
+    "chapter": "57",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "57",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1665.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1665.html",
+  "content_sha256": "cc12ddb6cff3fd403ae76d47efe1235bab1a47017288137be95b7a8d09885919",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

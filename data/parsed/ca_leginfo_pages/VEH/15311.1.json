@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15311.1",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "7",
+  "chapter_title": "Commercial Motor Vehicle Safety Program",
+  "chapter_range": "15200 - 15326",
+  "article": "7",
+  "article_title": "Sanctions",
+  "article_range": "15300 - 15326",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.7.7",
+  "text": "An employer that knowingly allows or requires an employee to operate a commercial motor vehicle in violation of an out-of-service order is, upon conviction, subject to a civil penalty of not less than two thousand seven hundred fifty dollars ($2,750) nor more than twenty-five thousand dollars ($25,000).",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 7. Commercial Motor Vehicle Safety Program [15200 - 15326]\n#### Article 7. Sanctions [15300 - 15326]\n##### § 15311.1\n\nAn employer that knowingly allows or requires an employee to operate a commercial motor vehicle in violation of an out-of-service order is, upon conviction, subject to a civil penalty of not less than two thousand seven hundred fifty dollars ($2,750) nor more than twenty-five thousand dollars ($25,000).\n\n*(Amended by Stats. 2010, Ch. 216, Sec. 9. (AB 2144) Effective January 1, 2011.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "An employer that knowingly allows or requires an employee to operate a commercial motor vehicle in violation of an out-of-service order is, upon conviction, subject to a civil penalty of not less than two thousand seven hundred fifty dollars ($2,750) nor more than twenty-five thousand dollars ($25,000).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2010, Ch. 216, Sec. 9. (AB 2144) Effective January 1, 2011.)",
+    "action": "Amended",
+    "statutes_year": 2010,
+    "chapter": "216",
+    "section": "9",
+    "bill_number": "AB 2144",
+    "effective_date": "2011-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2010",
+  "op_chapter": "216",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15311.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15311.1.html",
+  "content_sha256": "b8142d64b06e9f40673c9a8f895cdece99f9713358cafcf6a707920aaba17e1a",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

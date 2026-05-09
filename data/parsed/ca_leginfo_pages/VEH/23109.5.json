@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23109.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "12",
+  "chapter_title": "Public Offenses",
+  "chapter_range": "23100 - 23249.50",
+  "article": "1",
+  "article_title": "Driving Offenses",
+  "article_range": "23100 - 23135",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.12.1",
+  "text": "(a) In any case charging a violation of subdivision (a) of Section 23109 and where the offense occurs within five years of one or more prior offenses which resulted in conviction of violation of subdivision (a) of Section 23109, the court shall not strike any prior conviction of those offenses for purposes of sentencing in order to avoid imposing, as part of the sentence or term of probation, the minimum time of imprisonment, as provided in subdivision (f) of Section 23109, or for purposes of avoiding revocation, suspension, or restriction of the privilege to operate a motor vehicle, as provided in Section 13352 or 23109.\n\n(b) In any case charging a violation of subdivision (a) of Section 23109, the court shall obtain a copy of the driving record of the person charged from the Department of Motor Vehicles and may obtain any records from the Department of Justice or any other source to determine if one or more prior convictions of the person for violation of subdivision (a) of Section 23109 have occurred within five years of the charged offense.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 12. Public Offenses [23100 - 23249.50]\n#### Article 1. Driving Offenses [23100 - 23135]\n##### § 23109.5\n\n(a) In any case charging a violation of subdivision (a) of Section 23109 and where the offense occurs within five years of one or more prior offenses which resulted in conviction of violation of subdivision (a) of Section 23109, the court shall not strike any prior conviction of those offenses for purposes of sentencing in order to avoid imposing, as part of the sentence or term of probation, the minimum time of imprisonment, as provided in subdivision (f) of Section 23109, or for purposes of avoiding revocation, suspension, or restriction of the privilege to operate a motor vehicle, as provided in Section 13352 or 23109.\n\n(b) In any case charging a violation of subdivision (a) of Section 23109, the court shall obtain a copy of the driving record of the person charged from the Department of Motor Vehicles and may obtain any records from the Department of Justice or any other source to determine if one or more prior convictions of the person for violation of subdivision (a) of Section 23109 have occurred within five years of the charged offense.\n\n*(Added by Stats. 1983, Ch. 953, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In any case charging a violation of subdivision (a) of Section 23109 and where the offense occurs within five years of one or more prior offenses which resulted in conviction of violation of subdivision (a) of Section 23109, the court shall not strike any prior conviction of those offenses for purposes of sentencing in order to avoid imposing, as part of the sentence or term of probation, the minimum time of imprisonment, as provided in subdivision (f) of Section 23109, or for purposes of avoiding revocation, suspension, or restriction of the privilege to operate a motor vehicle, as provided in Section 13352 or 23109.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "In any case charging a violation of subdivision (a) of Section 23109, the court shall obtain a copy of the driving record of the person charged from the Department of Motor Vehicles and may obtain any records from the Department of Justice or any other source to determine if one or more prior convictions of the person for violation of subdivision (a) of Section 23109 have occurred within five years of the charged offense.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1983, Ch. 953, Sec. 3.)",
+    "action": "Added",
+    "statutes_year": 1983,
+    "chapter": "953",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "953",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23109.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23109.5.html",
+  "content_sha256": "ad342a39e6e440fbfa28f3169a4509c98701938156555c10ebb70586499ce7b5",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

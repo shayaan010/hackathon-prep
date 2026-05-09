@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1672.3",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "2",
+  "article_title": "Powers and Duties",
+  "article_range": "1650 - 1685.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.2",
+  "text": "(a) The director shall determine the date when the department’s inventory of driver’s license and identification card forms, as that inventory exists in accordance with the law in effect on December 31, 1998, has been depleted.\n\n(b) The director shall make written notification of the date determined under subdivision (a) to the following persons:\n\n(1) The Secretary of State.\n\n(2) The Chair of the Senate Committee on Transportation.\n\n(3) The Chair of the Assembly Committee on Transportation.\n\n(c) The written notice required under subdivision (b) shall state that it is being submitted in accordance with this section.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 2. Powers and Duties [1650 - 1685.1]\n##### § 1672.3\n\n(a) The director shall determine the date when the department’s inventory of driver’s license and identification card forms, as that inventory exists in accordance with the law in effect on December 31, 1998, has been depleted.\n\n(b) The director shall make written notification of the date determined under subdivision (a) to the following persons:\n\n    (1) The Secretary of State.\n\n    (2) The Chair of the Senate Committee on Transportation.\n\n    (3) The Chair of the Assembly Committee on Transportation.\n\n(c) The written notice required under subdivision (b) shall state that it is being submitted in accordance with this section.\n\n*(Added by Stats. 1998, Ch. 887, Sec. 4. Effective January 1, 1999.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The director shall determine the date when the department’s inventory of driver’s license and identification card forms, as that inventory exists in accordance with the law in effect on December 31, 1998, has been depleted.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The director shall make written notification of the date determined under subdivision (a) to the following persons:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The Secretary of State.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The Chair of the Senate Committee on Transportation.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The Chair of the Assembly Committee on Transportation.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "The written notice required under subdivision (b) shall state that it is being submitted in accordance with this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1998, Ch. 887, Sec. 4. Effective January 1, 1999.)",
+    "action": "Added",
+    "statutes_year": 1998,
+    "chapter": "887",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "1999-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1998",
+  "op_chapter": "887",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1672.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1672.3.html",
+  "content_sha256": "8091fecc32bf91c9adfd06c1d4d871d121317d9e5f5369cd8609627f800f57e1",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5107",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8.5",
+  "article_title": "Environmental License Plates",
+  "article_range": "5100 - 5112",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.13",
+  "text": "(a) All revenue derived from the fees provided for in this article shall be deposited in the California Environmental License Plate Fund.\n\n(b) Not more than fifty cents ($0.50) of the amount collected from each applicant pursuant to Section 5106 on and after January 1, 1999, shall be set aside for use, upon appropriation by the Legislature, by the appropriate agency for the purpose of increasing public awareness of the environmental license plate program.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8.5. Environmental License Plates [5100 - 5112]\n##### § 5107\n\n(a) All revenue derived from the fees provided for in this article shall be deposited in the California Environmental License Plate Fund.\n\n(b) Not more than fifty cents ($0.50) of the amount collected from each applicant pursuant to Section 5106 on and after January 1, 1999, shall be set aside for use, upon appropriation by the Legislature, by the appropriate agency for the purpose of increasing public awareness of the environmental license plate program.\n\n*(Amended by Stats. 1998, Ch. 326, Sec. 6. Effective August 21, 1998.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "All revenue derived from the fees provided for in this article shall be deposited in the California Environmental License Plate Fund.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Not more than fifty cents ($0.50) of the amount collected from each applicant pursuant to Section 5106 on and after January 1, 1999, shall be set aside for use, upon appropriation by the Legislature, by the appropriate agency for the purpose of increasing public awareness of the environmental license plate program.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1998, Ch. 326, Sec. 6. Effective August 21, 1998.)",
+    "action": "Amended",
+    "statutes_year": 1998,
+    "chapter": "326",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "1998-08-21",
+    "operative_date": null
+  },
+  "op_statues": "1998",
+  "op_chapter": "326",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5107.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5107.html",
+  "content_sha256": "7279a5a0c9efca0d7e9ca6c83298cc32f109501623a1b059ee53920308b3cb7a",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

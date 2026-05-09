@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4600",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "5",
+  "article_title": "Renewal of Registration",
+  "article_range": "4600 - 4610",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.5",
+  "text": "Certificates of ownership shall not be renewed annually but shall remain valid until suspended, revoked, or canceled by the department for cause or upon a transfer of any interest shown therein.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 5. Renewal of Registration [4600 - 4610]\n##### § 4600\n\nCertificates of ownership shall not be renewed annually but shall remain valid until suspended, revoked, or canceled by the department for cause or upon a transfer of any interest shown therein.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Certificates of ownership shall not be renewed annually but shall remain valid until suspended, revoked, or canceled by the department for cause or upon a transfer of any interest shown therein.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4600.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4600.html",
+  "content_sha256": "98332fe3832fa66182aff2e7d895b23f73d9fe9193e4ea5af207d3b8d665cb46",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

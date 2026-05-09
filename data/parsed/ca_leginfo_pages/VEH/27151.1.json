@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27151.1",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "2",
+  "article_title": "Exhaust Systems",
+  "article_range": "27150 - 27159",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.2",
+  "text": "(a) For a violation of Section 27150.3 or 27151 of a vehicle under 14,000 pounds gross vehicle weight rating, a court shall require a certificate of compliance for a vehicular exhaust system in compliance with subdivision (b) of Section 27150.2. A court shall utilize the notification procedures set forth in Section 40002. If a certificate of compliance is not provided to the court within three months of the violation date, the court shall treat this failure as noncompliance pursuant to subdivision (c) of Section 40002 and follow the provisions of Section 40002.1 to inform the Department of Motor Vehicles.\n\n(b) The department shall, before renewing the registration of any vehicle, check to see whether the court has issued a hold on the vehicle registration for a violation of Section 27150.3 or 27151, and shall refuse to renew the registration until it has received a notification from the court that a certificate of compliance has been issued.\n\n(c) This section shall become operative on January 1, 2027.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 2. Exhaust Systems [27150 - 27159]\n##### § 27151.1\n\n(a) For a violation of Section 27150.3 or 27151 of a vehicle under 14,000 pounds gross vehicle weight rating, a court shall require a certificate of compliance for a vehicular exhaust system in compliance with subdivision (b) of Section 27150.2. A court shall utilize the notification procedures set forth in Section 40002. If a certificate of compliance is not provided to the court within three months of the violation date, the court shall treat this failure as noncompliance pursuant to subdivision (c) of Section 40002 and follow the provisions of Section 40002.1 to inform the Department of Motor Vehicles.\n\n(b) The department shall, before renewing the registration of any vehicle, check to see whether the court has issued a hold on the vehicle registration for a violation of Section 27150.3 or 27151, and shall refuse to renew the registration until it has received a notification from the court that a certificate of compliance has been issued.\n\n(c) This section shall become operative on January 1, 2027.\n\n*(Added by Stats. 2022, Ch. 595, Sec. 3. (AB 2496) Effective January 1, 2023. Operative January 1, 2027, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "For a violation of Section 27150.3 or 27151 of a vehicle under 14,000 pounds gross vehicle weight rating, a court shall require a certificate of compliance for a vehicular exhaust system in compliance with subdivision (b) of Section 27150.2. A court shall utilize the notification procedures set forth in Section 40002. If a certificate of compliance is not provided to the court within three months of the violation date, the court shall treat this failure as noncompliance pursuant to subdivision (c) of Section 40002 and follow the provisions of Section 40002.1 to inform the Department of Motor Vehicles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall, before renewing the registration of any vehicle, check to see whether the court has issued a hold on the vehicle registration for a violation of Section 27150.3 or 27151, and shall refuse to renew the registration until it has received a notification from the court that a certificate of compliance has been issued.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section shall become operative on January 1, 2027.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2022, Ch. 595, Sec. 3. (AB 2496) Effective January 1, 2023. Operative January 1, 2027, by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 2022,
+    "chapter": "595",
+    "section": "3",
+    "bill_number": "AB 2496",
+    "effective_date": "2023-01-01",
+    "operative_date": "2027-01-01"
+  },
+  "op_statues": "2022",
+  "op_chapter": "595",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27151.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27151.1.html",
+  "content_sha256": "35a46b95b9c83f2e636a6c37408db00f941d9f56d7c45cca4f31d957787d0c37",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

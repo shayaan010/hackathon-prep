@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26458.5",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "2",
+  "article_title": "Operation of Brakes",
+  "article_range": "26450 - 26458.5",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.2",
+  "text": "Pursuant to Section 26458, whenever a motor vehicle is equipped with an additional control to operate the brakes on a trailer, that control shall not be used in lieu of the service brake control, except in the case of failure of the service brake system.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 2. Operation of Brakes [26450 - 26458.5]\n##### § 26458.5\n\nPursuant to Section 26458, whenever a motor vehicle is equipped with an additional control to operate the brakes on a trailer, that control shall not be used in lieu of the service brake control, except in the case of failure of the service brake system.\n\n*(Added by Stats. 1989, Ch. 316, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Pursuant to Section 26458, whenever a motor vehicle is equipped with an additional control to operate the brakes on a trailer, that control shall not be used in lieu of the service brake control, except in the case of failure of the service brake system.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1989, Ch. 316, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1989,
+    "chapter": "316",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1989",
+  "op_chapter": "316",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26458.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26458.5.html",
+  "content_sha256": "f29e5f6938e7785d98739806076dd3d5d35ce0cc2ab3686d32727669441b147f",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

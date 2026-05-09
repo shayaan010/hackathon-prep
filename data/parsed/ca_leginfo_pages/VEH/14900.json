@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "14900",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "5",
+  "chapter_title": "License Fees",
+  "chapter_range": "14900 - 14911",
+  "article": "1",
+  "article_title": "Imposition of Fees",
+  "article_range": "14900 - 14907",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.5.1",
+  "text": "(a) Upon application for an original class C or M driver’s license, a fee of twenty-four dollars ($24), and on and after January 1, 2010, a fee of thirty dollars ($30), shall be paid to the department for a license that will expire on the fifth birthday of the applicant following the date of the application. The payment of the fee entitles the person paying the fee to apply for a driver’s license and to take three examinations within a period of 12 months from the date of the application or during the period that an instruction permit is valid, as provided in Section 12509.\n\n(b) In addition to the application fee specified in subdivision (a), a person who fails to successfully complete the driving skill test on the first attempt shall be required to pay an additional fee of five dollars ($5) for each additional driving skill test administered under that application.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 5. License Fees [14900 - 14911]\n#### Article 1. Imposition of Fees [14900 - 14907]\n##### § 14900\n\n(a) Upon application for an original class C or M driver’s license, a fee of twenty-four dollars ($24), and on and after January 1, 2010, a fee of thirty dollars ($30), shall be paid to the department for a license that will expire on the fifth birthday of the applicant following the date of the application. The payment of the fee entitles the person paying the fee to apply for a driver’s license and to take three examinations within a period of 12 months from the date of the application or during the period that an instruction permit is valid, as provided in Section 12509.\n\n(b) In addition to the application fee specified in subdivision (a), a person who fails to successfully complete the driving skill test on the first attempt shall be required to pay an additional fee of five dollars ($5) for each additional driving skill test administered under that application.\n\n*(Amended by Stats. 2009, 4th Ex. Sess., Ch. 10, Sec. 10. Effective July 28, 2009.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Upon application for an original class C or M driver’s license, a fee of twenty-four dollars ($24), and on and after January 1, 2010, a fee of thirty dollars ($30), shall be paid to the department for a license that will expire on the fifth birthday of the applicant following the date of the application. The payment of the fee entitles the person paying the fee to apply for a driver’s license and to take three examinations within a period of 12 months from the date of the application or during the period that an instruction permit is valid, as provided in Section 12509.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "In addition to the application fee specified in subdivision (a), a person who fails to successfully complete the driving skill test on the first attempt shall be required to pay an additional fee of five dollars ($5) for each additional driving skill test administered under that application.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2009, 4th Ex. Sess., Ch. 10, Sec. 10. Effective July 28, 2009.)",
+    "action": "Amended",
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2009-07-28",
+    "operative_date": null
+  },
+  "op_statues": "2009",
+  "op_chapter": "10",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=14900.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/14900.html",
+  "content_sha256": "4600d4eda8f2303d77b6ad46771c364091169ecfc829b0d6e5d0e7c0794cf7fc",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

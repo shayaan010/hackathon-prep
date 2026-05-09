@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22511.2",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "(a) A parking space served by electric vehicle supply equipment or a parking space designated as a future electric vehicle charging space shall count as at least one standard automobile parking space for the purpose of complying with any applicable minimum parking space requirements established by a local jurisdiction.\n\n(b) An accessible parking space with an access aisle served by electric vehicle supply equipment or an accessible parking space with an aisle designated as a future electric vehicle charging space shall count as at least two standard automobile parking spaces for the purpose of complying with any applicable minimum parking space requirements established by a local jurisdiction.\n\n(c) This section does not modify the approval requirements for an electric vehicle charging station pursuant to Section 65850.7 of the Government Code.\n\n(d) The following definitions apply for purposes of this section:\n\n(1) “Electric vehicle supply equipment” has the same definition as that term is used in the latest published version of the California Electrical Code, that is in effect, and applies to any level or capacity of supply equipment installed specifically for the purpose of transferring energy between the premises wiring and the electric vehicle.\n\n(2) “Electric vehicle charging space” means a space designated by a local jurisdiction for charging electric vehicles.\n\n(3) “Local jurisdiction” means a city, including a charter city, county, or city and county.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22511.2\n\n(a) A parking space served by electric vehicle supply equipment or a parking space designated as a future electric vehicle charging space shall count as at least one standard automobile parking space for the purpose of complying with any applicable minimum parking space requirements established by a local jurisdiction.\n\n(b) An accessible parking space with an access aisle served by electric vehicle supply equipment or an accessible parking space with an aisle designated as a future electric vehicle charging space shall count as at least two standard automobile parking spaces for the purpose of complying with any applicable minimum parking space requirements established by a local jurisdiction.\n\n(c) This section does not modify the approval requirements for an electric vehicle charging station pursuant to Section 65850.7 of the Government Code.\n\n(d) The following definitions apply for purposes of this section:\n\n    (1) “Electric vehicle supply equipment” has the same definition as that term is used in the latest published version of the California Electrical Code, that is in effect, and applies to any level or capacity of supply equipment installed specifically for the purpose of transferring energy between the premises wiring and the electric vehicle.\n\n    (2) “Electric vehicle charging space” means a space designated by a local jurisdiction for charging electric vehicles.\n\n    (3) “Local jurisdiction” means a city, including a charter city, county, or city and county.\n\n*(Added by Stats. 2019, Ch. 819, Sec. 2. (AB 1100) Effective January 1, 2020.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A parking space served by electric vehicle supply equipment or a parking space designated as a future electric vehicle charging space shall count as at least one standard automobile parking space for the purpose of complying with any applicable minimum parking space requirements established by a local jurisdiction.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An accessible parking space with an access aisle served by electric vehicle supply equipment or an accessible parking space with an aisle designated as a future electric vehicle charging space shall count as at least two standard automobile parking spaces for the purpose of complying with any applicable minimum parking space requirements established by a local jurisdiction.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section does not modify the approval requirements for an electric vehicle charging station pursuant to Section 65850.7 of the Government Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The following definitions apply for purposes of this section:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "“Electric vehicle supply equipment” has the same definition as that term is used in the latest published version of the California Electrical Code, that is in effect, and applies to any level or capacity of supply equipment installed specifically for the purpose of transferring energy between the premises wiring and the electric vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "“Electric vehicle charging space” means a space designated by a local jurisdiction for charging electric vehicles.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "“Local jurisdiction” means a city, including a charter city, county, or city and county.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2019, Ch. 819, Sec. 2. (AB 1100) Effective January 1, 2020.)",
+    "action": "Added",
+    "statutes_year": 2019,
+    "chapter": "819",
+    "section": "2",
+    "bill_number": "AB 1100",
+    "effective_date": "2020-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2019",
+  "op_chapter": "819",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22511.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22511.2.html",
+  "content_sha256": "905dff2322a631301ac5fe83d6039bb882645b98b294bfff09a8f4aede99de3f",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

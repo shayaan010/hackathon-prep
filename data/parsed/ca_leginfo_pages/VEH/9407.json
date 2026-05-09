@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9407",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "3",
+  "article_title": "Weight Fees",
+  "article_range": "9400 - 9410",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.3",
+  "text": "The fee required under Section 9400 and 9400.1 shall be reduced proportionately for each month which has elapsed since the expiration of the last issued registration certificate if either of the following applies:\n\n(a) Application for registration is made after the first month of any registration year and a certification was filed pursuant to subdivision (a) of Section 4604.\n\n(b) Application for registration of a vehicle registered on a partial year basis is made after the first month following expiration and a certification was filed pursuant to subdivision (b) of Section 9706.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 3. Weight Fees [9400 - 9410]\n##### § 9407\n\nThe fee required under Section 9400 and 9400.1 shall be reduced proportionately for each month which has elapsed since the expiration of the last issued registration certificate if either of the following applies:\n\n(a) Application for registration is made after the first month of any registration year and a certification was filed pursuant to subdivision (a) of Section 4604.\n\n(b) Application for registration of a vehicle registered on a partial year basis is made after the first month following expiration and a certification was filed pursuant to subdivision (b) of Section 9706.\n\n*(Amended by Stats. 2001, Ch. 826, Sec. 28. Effective January 1, 2002.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The fee required under Section 9400 and 9400.1 shall be reduced proportionately for each month which has elapsed since the expiration of the last issued registration certificate if either of the following applies:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Application for registration is made after the first month of any registration year and a certification was filed pursuant to subdivision (a) of Section 4604.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Application for registration of a vehicle registered on a partial year basis is made after the first month following expiration and a certification was filed pursuant to subdivision (b) of Section 9706.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2001, Ch. 826, Sec. 28. Effective January 1, 2002.)",
+    "action": "Amended",
+    "statutes_year": 2001,
+    "chapter": "826",
+    "section": "28",
+    "bill_number": null,
+    "effective_date": "2002-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "826",
+  "op_section": "28",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9407.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9407.html",
+  "content_sha256": "cc0db15010a2d1b99a57b15b68c1320a9480b5d3ae8e8c5c107df9ee369c783f",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "16502",
+  "division": "7",
+  "division_title": "FINANCIAL RESPONSIBILITY LAWS",
+  "division_range": "16000 - 16560",
+  "chapter": "4",
+  "chapter_title": "Commercial Vehicles",
+  "chapter_range": "16500 - 16503",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "12.4",
+  "text": "(a) An owner shall not use, or with his or her consent permit the use of, a vehicle used in the transportation of persons or property in the conduct of a business, without maintaining proof of financial responsibility as required by this chapter.\n\n(b) A motor vehicle from another country in which there is no evidence of financial responsibility required pursuant to this chapter or Part 387 (commencing with Section 387.1) of Title 49 of the Code of Federal Regulations shall be denied entry into the state.",
+  "markdown": "# Vehicle Code\n## Division 7. FINANCIAL RESPONSIBILITY LAWS [16000 - 16560]\n### Chapter 4. Commercial Vehicles [16500 - 16503]\n##### § 16502\n\n(a) An owner shall not use, or with his or her consent permit the use of, a vehicle used in the transportation of persons or property in the conduct of a business, without maintaining proof of financial responsibility as required by this chapter.\n\n(b) A motor vehicle from another country in which there is no evidence of financial responsibility required pursuant to this chapter or Part 387 (commencing with Section 387.1) of Title 49 of the Code of Federal Regulations shall be denied entry into the state.\n\n*(Amended by Stats. 2006, Ch. 288, Sec. 5. Effective January 1, 2007.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "An owner shall not use, or with his or her consent permit the use of, a vehicle used in the transportation of persons or property in the conduct of a business, without maintaining proof of financial responsibility as required by this chapter.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A motor vehicle from another country in which there is no evidence of financial responsibility required pursuant to this chapter or Part 387 (commencing with Section 387.1) of Title 49 of the Code of Federal Regulations shall be denied entry into the state.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2006, Ch. 288, Sec. 5. Effective January 1, 2007.)",
+    "action": "Amended",
+    "statutes_year": 2006,
+    "chapter": "288",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "2007-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2006",
+  "op_chapter": "288",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=16502.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/16502.html",
+  "content_sha256": "90a47a0b882510351a24f11736980731f6af69111bace56eba688159ed756723",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40312",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "1",
+  "article_title": "Arrests",
+  "article_range": "40300 - 40313",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.1",
+  "text": "A peace officer shall not arrest, on the basis of an outstanding warrant arising from a violation of this code, any person who presents to the peace officer a receipt, from a proper official of the court, indicating that the person has paid the fine for the violation that caused the warrant to be issued. The receipt shall contain sufficient information to identify the name and number of the court issuing the receipt, the date the case was adjudicated or the fine was paid, the case number or docket number, and the violations disposed of.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 1. Arrests [40300 - 40313]\n##### § 40312\n\nA peace officer shall not arrest, on the basis of an outstanding warrant arising from a violation of this code, any person who presents to the peace officer a receipt, from a proper official of the court, indicating that the person has paid the fine for the violation that caused the warrant to be issued. The receipt shall contain sufficient information to identify the name and number of the court issuing the receipt, the date the case was adjudicated or the fine was paid, the case number or docket number, and the violations disposed of.\n\n*(Added by Stats. 1982, Ch. 290, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A peace officer shall not arrest, on the basis of an outstanding warrant arising from a violation of this code, any person who presents to the peace officer a receipt, from a proper official of the court, indicating that the person has paid the fine for the violation that caused the warrant to be issued. The receipt shall contain sufficient information to identify the name and number of the court issuing the receipt, the date the case was adjudicated or the fine was paid, the case number or docket number, and the violations disposed of.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1982, Ch. 290, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1982,
+    "chapter": "290",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "290",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40312.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40312.html",
+  "content_sha256": "d9aacc0afc85c25dce518ff522a6e3cc77a310d695675b34985694b6d15a3d11",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

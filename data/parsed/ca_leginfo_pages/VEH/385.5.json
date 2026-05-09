@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "385.5",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) A “low-speed vehicle” is a motor vehicle that meets all of the following requirements:\n\n(1) Has four wheels.\n\n(2) Can attain a speed, in one mile, of more than 20 miles per hour and not more than 25 miles per hour, on a paved level surface.\n\n(3) Has a gross vehicle weight rating of less than 3,000 pounds.\n\n(b) (1) For the purposes of this section, a “low-speed vehicle” is not a golf cart, except when operated pursuant to Section 21115 or 21115.1.\n\n(2) A “low-speed vehicle” is also known as a “neighborhood electric vehicle.”",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 385.5\n\n(a) A “low-speed vehicle” is a motor vehicle that meets all of the following requirements:\n\n    (1) Has four wheels.\n\n    (2) Can attain a speed, in one mile, of more than 20 miles per hour and not more than 25 miles per hour, on a paved level surface.\n\n    (3) Has a gross vehicle weight rating of less than 3,000 pounds.\n\n(b) (1) For the purposes of this section, a “low-speed vehicle” is not a golf cart, except when operated pursuant to Section 21115 or 21115.1.\n\n    (2) A “low-speed vehicle” is also known as a “neighborhood electric vehicle.”\n\n*(Amended by Stats. 2006, Ch. 66, Sec. 1. Effective July 12, 2006.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A “low-speed vehicle” is a motor vehicle that meets all of the following requirements:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Has four wheels.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Can attain a speed, in one mile, of more than 20 miles per hour and not more than 25 miles per hour, on a paved level surface.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Has a gross vehicle weight rating of less than 3,000 pounds.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "(1) For the purposes of this section, a “low-speed vehicle” is not a golf cart, except when operated pursuant to Section 21115 or 21115.1.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "A “low-speed vehicle” is also known as a “neighborhood electric vehicle.”",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2006, Ch. 66, Sec. 1. Effective July 12, 2006.)",
+    "action": "Amended",
+    "statutes_year": 2006,
+    "chapter": "66",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2006-07-12",
+    "operative_date": null
+  },
+  "op_statues": "2006",
+  "op_chapter": "66",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=385.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/385.5.html",
+  "content_sha256": "616dc1bd5000de71b50171c2c8f6b861f04c592a3d8384280a64048e3432ae95",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

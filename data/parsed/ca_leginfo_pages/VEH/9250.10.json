@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9250.10",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "2",
+  "article_title": "Registration Fees",
+  "article_range": "9250 - 9271",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.2",
+  "text": "(a) (1) In addition to any other fees specified in this code and the Revenue and Taxation Code, any additional fees imposed by a service authority for freeway emergencies pursuant to Section 2555 of the Streets and Highways Code shall be paid to the department at the time of registration or renewal of registration of every vehicle, except vehicles described in subdivision (a) of Section 5014.1, subject to registration under this code in the subject counties, except those vehicles that are expressly exempted under this code from the payment of registration fees.\n\n(2) In addition to the additional fees imposed for freeway emergencies, and upon the implementation of the permanent trailer identification plate program, and as part of the Commercial Vehicle Registration Act of 2001, all commercial motor vehicles subject to Section 9400.1 registered to an owner with an address in the county that established a service authority under this section, shall pay an additional service fee of two dollars ($2).\n\n(b) After deducting its administrative costs, the department shall distribute the additional fees collected pursuant to subdivision (a) to the authority in the county in which they were collected.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 2. Registration Fees [9250 - 9271]\n##### § 9250.10\n\n(a) (1) In addition to any other fees specified in this code and the Revenue and Taxation Code, any additional fees imposed by a service authority for freeway emergencies pursuant to Section 2555 of the Streets and Highways Code shall be paid to the department at the time of registration or renewal of registration of every vehicle, except vehicles described in subdivision (a) of Section 5014.1, subject to registration under this code in the subject counties, except those vehicles that are expressly exempted under this code from the payment of registration fees.\n\n    (2) In addition to the additional fees imposed for freeway emergencies, and upon the implementation of the permanent trailer identification plate program, and as part of the Commercial Vehicle Registration Act of 2001, all commercial motor vehicles subject to Section 9400.1 registered to an owner with an address in the county that established a service authority under this section, shall pay an additional service fee of two dollars ($2).\n\n(b) After deducting its administrative costs, the department shall distribute the additional fees collected pursuant to subdivision (a) to the authority in the county in which they were collected.\n\n*(Amended by Stats. 2001, Ch. 826, Sec. 21. Effective January 1, 2002.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "(1) In addition to any other fees specified in this code and the Revenue and Taxation Code, any additional fees imposed by a service authority for freeway emergencies pursuant to Section 2555 of the Streets and Highways Code shall be paid to the department at the time of registration or renewal of registration of every vehicle, except vehicles described in subdivision (a) of Section 5014.1, subject to registration under this code in the subject counties, except those vehicles that are expressly exempted under this code from the payment of registration fees.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "In addition to the additional fees imposed for freeway emergencies, and upon the implementation of the permanent trailer identification plate program, and as part of the Commercial Vehicle Registration Act of 2001, all commercial motor vehicles subject to Section 9400.1 registered to an owner with an address in the county that established a service authority under this section, shall pay an additional service fee of two dollars ($2).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "After deducting its administrative costs, the department shall distribute the additional fees collected pursuant to subdivision (a) to the authority in the county in which they were collected.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2001, Ch. 826, Sec. 21. Effective January 1, 2002.)",
+    "action": "Amended",
+    "statutes_year": 2001,
+    "chapter": "826",
+    "section": "21",
+    "bill_number": null,
+    "effective_date": "2002-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "826",
+  "op_section": "21",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9250.10.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9250.10.html",
+  "content_sha256": "2d806932e4b1b516b85f01bd2652b3b3e528b6fbb87dac3361daf7ffab14a103",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25251.3",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "7",
+  "article_title": "Flashing and Colored Lights",
+  "article_range": "25250 - 25282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.7",
+  "text": "No civil liability shall attach to any person for the use or nonuse of turn signal lamps in the manner permitted by paragraph (3) or (5) of subdivision (a) of Section 25251, except for such civil liability as would attach for the use or nonuse of any other device required by this article or Article 8 (commencing with Section 25300).",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 7. Flashing and Colored Lights [25250 - 25282]\n##### § 25251.3\n\nNo civil liability shall attach to any person for the use or nonuse of turn signal lamps in the manner permitted by paragraph (3) or (5) of subdivision (a) of Section 25251, except for such civil liability as would attach for the use or nonuse of any other device required by this article or Article 8 (commencing with Section 25300).\n\n*(Amended by Stats. 1983, Ch. 410, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No civil liability shall attach to any person for the use or nonuse of turn signal lamps in the manner permitted by paragraph (3) or (5) of subdivision (a) of Section 25251, except for such civil liability as would attach for the use or nonuse of any other device required by this article or Article 8 (commencing with Section 25300).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 410, Sec. 2.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "410",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "410",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25251.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25251.3.html",
+  "content_sha256": "9d6b5b837094bb46df991124d7d900e47c2ce46ff1851c1e6d984f1aa6c9cba6",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

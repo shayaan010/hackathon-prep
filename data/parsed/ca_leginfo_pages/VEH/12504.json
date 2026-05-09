@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12504",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "1",
+  "article_title": "Persons Required to Be Licensed, Exemptions, and Age Limits",
+  "article_range": "12500 - 12527",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.1",
+  "text": "(a) Sections 12502 and 12503 apply to any nonresident over the age of 16 years but under the age of 18 years. The maximum period during which that nonresident may operate a motor vehicle in this state without obtaining a driver’s license is limited to a period of 10 days immediately following the entry of the nonresident into this state except as provided in subdivision (b) of this section.\n\n(b) Any nonresident over the age of 16 years but under the age of 18 years who is a resident of a foreign jurisdiction which requires the licensing of drivers may continue to operate a motor vehicle in this state after 10 days from his or her date of entry into this state if he or she meets both the following:\n\n(1) He or she has a valid driver’s license, issued by the foreign jurisdiction, in his or her immediate possession.\n\n(2) He or she has been issued and has in his or her immediate possession a nonresident minor’s certificate, which the department issues to a nonresident minor who holds a valid driver’s license issued to him or her by his or her home state or country, and who files proof of financial responsibility.\n\n(c) Whenever any of the conditions for the issuance of a nonresident minor’s certificate cease to exist, the department shall cancel the certificate and require the minor to surrender it to the department.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 1. Persons Required to Be Licensed, Exemptions, and Age Limits [12500 - 12527]\n##### § 12504\n\n(a) Sections 12502 and 12503 apply to any nonresident over the age of 16 years but under the age of 18 years. The maximum period during which that nonresident may operate a motor vehicle in this state without obtaining a driver’s license is limited to a period of 10 days immediately following the entry of the nonresident into this state except as provided in subdivision (b) of this section.\n\n(b) Any nonresident over the age of 16 years but under the age of 18 years who is a resident of a foreign jurisdiction which requires the licensing of drivers may continue to operate a motor vehicle in this state after 10 days from his or her date of entry into this state if he or she meets both the following:\n\n    (1) He or she has a valid driver’s license, issued by the foreign jurisdiction, in his or her immediate possession.\n\n    (2) He or she has been issued and has in his or her immediate possession a nonresident minor’s certificate, which the department issues to a nonresident minor who holds a valid driver’s license issued to him or her by his or her home state or country, and who files proof of financial responsibility.\n\n(c) Whenever any of the conditions for the issuance of a nonresident minor’s certificate cease to exist, the department shall cancel the certificate and require the minor to surrender it to the department.\n\n*(Amended by Stats. 1992, Ch. 974, Sec. 4. Effective September 28, 1992.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Sections 12502 and 12503 apply to any nonresident over the age of 16 years but under the age of 18 years. The maximum period during which that nonresident may operate a motor vehicle in this state without obtaining a driver’s license is limited to a period of 10 days immediately following the entry of the nonresident into this state except as provided in subdivision (b) of this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any nonresident over the age of 16 years but under the age of 18 years who is a resident of a foreign jurisdiction which requires the licensing of drivers may continue to operate a motor vehicle in this state after 10 days from his or her date of entry into this state if he or she meets both the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "He or she has a valid driver’s license, issued by the foreign jurisdiction, in his or her immediate possession.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "He or she has been issued and has in his or her immediate possession a nonresident minor’s certificate, which the department issues to a nonresident minor who holds a valid driver’s license issued to him or her by his or her home state or country, and who files proof of financial responsibility.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "Whenever any of the conditions for the issuance of a nonresident minor’s certificate cease to exist, the department shall cancel the certificate and require the minor to surrender it to the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1992, Ch. 974, Sec. 4. Effective September 28, 1992.)",
+    "action": "Amended",
+    "statutes_year": 1992,
+    "chapter": "974",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "1992-09-28",
+    "operative_date": null
+  },
+  "op_statues": "1992",
+  "op_chapter": "974",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12504.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12504.html",
+  "content_sha256": "a02738976bb80a46378dbb7fb22398a702fb3e88202d46f228a661bff0b0571c",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

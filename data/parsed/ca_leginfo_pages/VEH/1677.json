@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1677",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "2",
+  "article_title": "Powers and Duties",
+  "article_range": "1650 - 1685.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.2",
+  "text": "(a) The department may collect a fee, to be determined by the department, from each course provider who shall be responsible for the development and operation of a mature driver improvement course, for the approval of the course, but not to exceed the actual cost of approval of the course. The department shall transmit all fees it receives for deposit in the Motor Vehicle Account in the State Transportation Fund pursuant to Section 42270.\n\n(b) Each course provider, who has received course approval from the department, is responsible for the delivery, instruction, and content of his or her mature driver improvement course.\n\n(c) The department shall investigate claims of impropriety on the part of a course provider. The department may withdraw the approval of courses in violation of Section 1675 or 1676, as determined by the department, for just cause, including, but not limited to any of the following:\n\n(1) Furnishing course completion certificates to course enrollees prior to, or in the absence of, completion of the curriculum specified in subdivisions (b) and (c) of Section 1675.\n\n(2) Charging fees in excess of the amounts specified in subdivisions (a) and (c) of Section 1676.\n\n(d) Mature driver improvement courses approved by the department shall continue to be approved until either of the following occurs:\n\n(1) The course provider does not meet the conditions of approval.\n\n(2) The department finds just cause to terminate the approval pursuant to subdivision (c).",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 2. Powers and Duties [1650 - 1685.1]\n##### § 1677\n\n(a) The department may collect a fee, to be determined by the department, from each course provider who shall be responsible for the development and operation of a mature driver improvement course, for the approval of the course, but not to exceed the actual cost of approval of the course. The department shall transmit all fees it receives for deposit in the Motor Vehicle Account in the State Transportation Fund pursuant to Section 42270.\n\n(b) Each course provider, who has received course approval from the department, is responsible for the delivery, instruction, and content of his or her mature driver improvement course.\n\n(c) The department shall investigate claims of impropriety on the part of a course provider. The department may withdraw the approval of courses in violation of Section 1675 or 1676, as determined by the department, for just cause, including, but not limited to any of the following:\n\n    (1) Furnishing course completion certificates to course enrollees prior to, or in the absence of, completion of the curriculum specified in subdivisions (b) and (c) of Section 1675.\n\n    (2) Charging fees in excess of the amounts specified in subdivisions (a) and (c) of Section 1676.\n\n(d) Mature driver improvement courses approved by the department shall continue to be approved until either of the following occurs:\n\n    (1) The course provider does not meet the conditions of approval.\n\n    (2) The department finds just cause to terminate the approval pursuant to subdivision (c).\n\n*(Amended by Stats. 2001, Ch. 739, Sec. 4. Effective January 1, 2002.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may collect a fee, to be determined by the department, from each course provider who shall be responsible for the development and operation of a mature driver improvement course, for the approval of the course, but not to exceed the actual cost of approval of the course. The department shall transmit all fees it receives for deposit in the Motor Vehicle Account in the State Transportation Fund pursuant to Section 42270.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Each course provider, who has received course approval from the department, is responsible for the delivery, instruction, and content of his or her mature driver improvement course.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The department shall investigate claims of impropriety on the part of a course provider. The department may withdraw the approval of courses in violation of Section 1675 or 1676, as determined by the department, for just cause, including, but not limited to any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Furnishing course completion certificates to course enrollees prior to, or in the absence of, completion of the curriculum specified in subdivisions (b) and (c) of Section 1675.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Charging fees in excess of the amounts specified in subdivisions (a) and (c) of Section 1676.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "d",
+      "text": "Mature driver improvement courses approved by the department shall continue to be approved until either of the following occurs:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The course provider does not meet the conditions of approval.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The department finds just cause to terminate the approval pursuant to subdivision (c).",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2001, Ch. 739, Sec. 4. Effective January 1, 2002.)",
+    "action": "Amended",
+    "statutes_year": 2001,
+    "chapter": "739",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "2002-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "739",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1677.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1677.html",
+  "content_sha256": "c5bd6046c31ba783eb56217ad9d7631404c050b01692acc3e448745086a25828",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

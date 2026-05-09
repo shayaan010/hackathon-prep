@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1500",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "1",
+  "article_title": "Organization of Department",
+  "article_range": "1500 - 1507",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.1",
+  "text": "(a) There is in the Transportation Agency the Department of Motor Vehicles.\n\n(b) Whenever the term “Business, Transportation and Housing Agency” appears within the Vehicle Code, it shall refer to the Transportation Agency, and whenever the term “Secretary of Business, Transportation and Housing” appears within the Vehicle Code, it shall refer to the Secretary of Transportation.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 1. Organization of Department [1500 - 1507]\n##### § 1500\n\n(a) There is in the Transportation Agency the Department of Motor Vehicles.\n\n(b) Whenever the term “Business, Transportation and Housing Agency” appears within the Vehicle Code, it shall refer to the Transportation Agency, and whenever the term “Secretary of Business, Transportation and Housing” appears within the Vehicle Code, it shall refer to the Secretary of Transportation.\n\n*(Amended by Stats. 2013, Ch. 352, Sec. 517. (AB 1317) Effective September 26, 2013. Operative July 1, 2013, by Sec. 543 of Ch. 352.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "There is in the Transportation Agency the Department of Motor Vehicles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Whenever the term “Business, Transportation and Housing Agency” appears within the Vehicle Code, it shall refer to the Transportation Agency, and whenever the term “Secretary of Business, Transportation and Housing” appears within the Vehicle Code, it shall refer to the Secretary of Transportation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2013, Ch. 352, Sec. 517. (AB 1317) Effective September 26, 2013. Operative July 1, 2013, by Sec. 543 of Ch. 352.)",
+    "action": "Amended",
+    "statutes_year": 2013,
+    "chapter": "352",
+    "section": "517",
+    "bill_number": "AB 1317",
+    "effective_date": "2013-09-26",
+    "operative_date": "2013-07-01"
+  },
+  "op_statues": "2013",
+  "op_chapter": "352",
+  "op_section": "517",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1500.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1500.html",
+  "content_sha256": "59a9a2ca0a0064803aa2745d8e92ad2a58ef23bb1211d2f7c4afb4efef6b283c",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

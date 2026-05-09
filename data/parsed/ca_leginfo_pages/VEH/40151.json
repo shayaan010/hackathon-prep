@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40151",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "2",
+  "article_title": "Procedure on Equipment and Registration Violations",
+  "article_range": "40150 - 40152",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.2",
+  "text": "(a) Whenever any lighting equipment or device does not meet requirements established by the Department of the California Highway Patrol, the officer making the inspection shall direct the driver to remove the lighting equipment or device within 24 hours.\n\n(b) Whenever any lighting equipment or device meets requirements established by the department but by reason of faulty adjustment or otherwise fails to comply with this code, the officer making the inspection shall direct the driver to make it comply with this code within 48 hours.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 2. Procedure on Equipment and Registration Violations [40150 - 40152]\n##### § 40151\n\n(a) Whenever any lighting equipment or device does not meet requirements established by the Department of the California Highway Patrol, the officer making the inspection shall direct the driver to remove the lighting equipment or device within 24 hours.\n\n(b) Whenever any lighting equipment or device meets requirements established by the department but by reason of faulty adjustment or otherwise fails to comply with this code, the officer making the inspection shall direct the driver to make it comply with this code within 48 hours.\n\n*(Amended by Stats. 1979, Ch. 723.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever any lighting equipment or device does not meet requirements established by the Department of the California Highway Patrol, the officer making the inspection shall direct the driver to remove the lighting equipment or device within 24 hours.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Whenever any lighting equipment or device meets requirements established by the department but by reason of faulty adjustment or otherwise fails to comply with this code, the officer making the inspection shall direct the driver to make it comply with this code within 48 hours.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1979, Ch. 723.)",
+    "action": "Amended",
+    "statutes_year": 1979,
+    "chapter": "723",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1979",
+  "op_chapter": "723",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40151.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40151.html",
+  "content_sha256": "cec4ea9f41387683ef4a196d943504c1ab90d77e0dea0da2548256062dd987d8",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9950",
+  "division": "3.6",
+  "division_title": "VEHICLE SALES",
+  "division_range": "9950 - 9993",
+  "chapter": "1",
+  "chapter_title": "Advertising, Brochures, and Manuals",
+  "chapter_range": "9950 - 9955",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "6.1",
+  "text": "Any advertisement, brochure, owner’s manual, or sales manual relating to any gasoline-powered motor vehicle of a type subject to registration with a manufacturer’s gross vehicle weight rating of under 6,000 pounds of 1972 or later year model which contains any reference to the horsepower of the engine of the vehicle shall state only the Society of Automotive Engineers horsepower rating of such engine, as installed (net), as determined by S.A.E. Standard J1349.",
+  "markdown": "# Vehicle Code\n## Division 3.6. VEHICLE SALES [9950 - 9993]\n### Chapter 1. Advertising, Brochures, and Manuals [9950 - 9955]\n##### § 9950\n\nAny advertisement, brochure, owner’s manual, or sales manual relating to any gasoline-powered motor vehicle of a type subject to registration with a manufacturer’s gross vehicle weight rating of under 6,000 pounds of 1972 or later year model which contains any reference to the horsepower of the engine of the vehicle shall state only the Society of Automotive Engineers horsepower rating of such engine, as installed (net), as determined by S.A.E. Standard J1349.\n\n*(Amended by Stats. 1986, Ch. 1212, Sec. 5.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any advertisement, brochure, owner’s manual, or sales manual relating to any gasoline-powered motor vehicle of a type subject to registration with a manufacturer’s gross vehicle weight rating of under 6,000 pounds of 1972 or later year model which contains any reference to the horsepower of the engine of the vehicle shall state only the Society of Automotive Engineers horsepower rating of such engine, as installed (net), as determined by S.A.E. Standard J1349.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1986, Ch. 1212, Sec. 5.)",
+    "action": "Amended",
+    "statutes_year": 1986,
+    "chapter": "1212",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1986",
+  "op_chapter": "1212",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9950.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9950.html",
+  "content_sha256": "de3b80eddc97fd7b4847e435e3803f67db96758880cda62ac3ec845630dc27b5",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

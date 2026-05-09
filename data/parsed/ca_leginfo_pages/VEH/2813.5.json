@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2813.5",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "4",
+  "chapter_title": "Administration and Enforcement",
+  "chapter_range": "2800 - 2818",
+  "article": "1",
+  "article_title": "Lawful Orders and Inspections",
+  "article_range": "2800 - 2818",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.4.1",
+  "text": "(a) The commissioner shall have exclusive authority in the issuance of stickers as evidence that commercial vehicles have been inspected pursuant to Section 2813 and have been found to be in compliance with minimum safety standards established by the department. The commissioner may make and enforce regulations with respect to the issuance and display of the stickers upon commercial vehicles.\n\n(b) It is unlawful for any unauthorized person, company, corporation, or public or private entity to possess, issue, or display upon a vehicle an unauthorized commercial vehicle safety inspection sticker or a sticker that is either a facsimile of, or is substantially similar to, that issued by the commissioner.\n\n(c) Any violation of subdivision (b) is a misdemeanor.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 4. Administration and Enforcement [2800 - 2818]\n#### Article 1. Lawful Orders and Inspections [2800 - 2818]\n##### § 2813.5\n\n(a) The commissioner shall have exclusive authority in the issuance of stickers as evidence that commercial vehicles have been inspected pursuant to Section 2813 and have been found to be in compliance with minimum safety standards established by the department. The commissioner may make and enforce regulations with respect to the issuance and display of the stickers upon commercial vehicles.\n\n(b) It is unlawful for any unauthorized person, company, corporation, or public or private entity to possess, issue, or display upon a vehicle an unauthorized commercial vehicle safety inspection sticker or a sticker that is either a facsimile of, or is substantially similar to, that issued by the commissioner.\n\n(c) Any violation of subdivision (b) is a misdemeanor.\n\n*(Amended by Stats. 2004, Ch. 183, Sec. 345. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The commissioner shall have exclusive authority in the issuance of stickers as evidence that commercial vehicles have been inspected pursuant to Section 2813 and have been found to be in compliance with minimum safety standards established by the department. The commissioner may make and enforce regulations with respect to the issuance and display of the stickers upon commercial vehicles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "It is unlawful for any unauthorized person, company, corporation, or public or private entity to possess, issue, or display upon a vehicle an unauthorized commercial vehicle safety inspection sticker or a sticker that is either a facsimile of, or is substantially similar to, that issued by the commissioner.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any violation of subdivision (b) is a misdemeanor.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 183, Sec. 345. Effective January 1, 2005.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "183",
+    "section": "345",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "183",
+  "op_section": "345",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2813.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2813.5.html",
+  "content_sha256": "2f3702737d00dff8b5049309823acf4f00c970f389450fb709ff72ef1f6e28c7",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

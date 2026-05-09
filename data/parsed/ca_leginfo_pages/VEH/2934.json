@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2934",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "5",
+  "chapter_title": "California Traffic Safety Program",
+  "chapter_range": "2900 - 2935",
+  "article": "2",
+  "article_title": "Motorcycle Safety",
+  "article_range": "2930 - 2935",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.5.2",
+  "text": "(a) The California Motorcyclist Safety Fund is hereby created in the State Treasury. The money in the fund is available, when appropriated by the Legislature, to fund programs established pursuant to this article and to defray related costs incurred. Moneys in the fund are and shall be held as trust funds for the exclusive trust purposes specified in this article.\n\n(b) The commissioner shall not in any way encumber moneys in the fund beyond that amount which is actually available in the fund at the time of encumbrance, and shall not in any manner pledge or encumber future revenues to accrue to the fund from any source.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 5. California Traffic Safety Program [2900 - 2935]\n#### Article 2. Motorcycle Safety [2930 - 2935]\n##### § 2934\n\n(a) The California Motorcyclist Safety Fund is hereby created in the State Treasury. The money in the fund is available, when appropriated by the Legislature, to fund programs established pursuant to this article and to defray related costs incurred. Moneys in the fund are and shall be held as trust funds for the exclusive trust purposes specified in this article.\n\n(b) The commissioner shall not in any way encumber moneys in the fund beyond that amount which is actually available in the fund at the time of encumbrance, and shall not in any manner pledge or encumber future revenues to accrue to the fund from any source.\n\n*(Added by Stats. 1985, Ch. 547, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The California Motorcyclist Safety Fund is hereby created in the State Treasury. The money in the fund is available, when appropriated by the Legislature, to fund programs established pursuant to this article and to defray related costs incurred. Moneys in the fund are and shall be held as trust funds for the exclusive trust purposes specified in this article.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The commissioner shall not in any way encumber moneys in the fund beyond that amount which is actually available in the fund at the time of encumbrance, and shall not in any manner pledge or encumber future revenues to accrue to the fund from any source.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1985, Ch. 547, Sec. 2.)",
+    "action": "Added",
+    "statutes_year": 1985,
+    "chapter": "547",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1985",
+  "op_chapter": "547",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2934.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2934.html",
+  "content_sha256": "70f53f0d2076098b945a93f4bb4af3d93085ee7a3809e4ab3f5717aad33ac886",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

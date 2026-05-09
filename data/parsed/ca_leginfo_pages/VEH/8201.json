@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "8201",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "4",
+  "chapter_title": "Permits to Nonresident Owners",
+  "chapter_range": "6700 - 8204",
+  "article": "6",
+  "article_title": "Enforcement of Liens on Apportioned Fleet Vehicles",
+  "article_range": "8200 - 8204",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.5.6",
+  "text": "(a) Fees determined to be due, including penalties and service fees, for the operation of a fleet apportionately registered vehicle shall be a lien upon all vehicles operated as part of the fleet and on any other fleet vehicles operated by the registrant. The department may collect the amount of the lien, plus costs, not to exceed two hundred fifty dollars ($250), in an appropriate civil action and by seizure and sale of the vehicle.\n\n(b) Liens arising as the result of an audit expire four years from the date the registration fees first become due unless the lien is perfected pursuant to subdivision (d).\n\n(c) Any lien arising under this section that is not subject to subdivision (b) expires three years from the date the fee or penalty first became due unless the lien is perfected pursuant to subdivision (d).\n\n(d) A lien shall be perfected when a notice is mailed to the registrant at the address shown on the department’s records and the lien is recorded on the electronic vehicle registration records of the department. A perfected lien shall expire five years from the date of perfection.\n\n(e) Prior to the expiration of the statute of limitations, the registrant may consent to a waiver which would allow the assessment of fees and penalties past the statute of limitations.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 4. Permits to Nonresident Owners [6700 - 8204]\n#### Article 6. Enforcement of Liens on Apportioned Fleet Vehicles [8200 - 8204]\n##### § 8201\n\n(a) Fees determined to be due, including penalties and service fees, for the operation of a fleet apportionately registered vehicle shall be a lien upon all vehicles operated as part of the fleet and on any other fleet vehicles operated by the registrant. The department may collect the amount of the lien, plus costs, not to exceed two hundred fifty dollars ($250), in an appropriate civil action and by seizure and sale of the vehicle.\n\n(b) Liens arising as the result of an audit expire four years from the date the registration fees first become due unless the lien is perfected pursuant to subdivision (d).\n\n(c) Any lien arising under this section that is not subject to subdivision (b) expires three years from the date the fee or penalty first became due unless the lien is perfected pursuant to subdivision (d).\n\n(d) A lien shall be perfected when a notice is mailed to the registrant at the address shown on the department’s records and the lien is recorded on the electronic vehicle registration records of the department. A perfected lien shall expire five years from the date of perfection.\n\n(e) Prior to the expiration of the statute of limitations, the registrant may consent to a waiver which would allow the assessment of fees and penalties past the statute of limitations.\n\n*(Amended by Stats. 2002, Ch. 758, Sec. 6. Effective January 1, 2003.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Fees determined to be due, including penalties and service fees, for the operation of a fleet apportionately registered vehicle shall be a lien upon all vehicles operated as part of the fleet and on any other fleet vehicles operated by the registrant. The department may collect the amount of the lien, plus costs, not to exceed two hundred fifty dollars ($250), in an appropriate civil action and by seizure and sale of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Liens arising as the result of an audit expire four years from the date the registration fees first become due unless the lien is perfected pursuant to subdivision (d).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any lien arising under this section that is not subject to subdivision (b) expires three years from the date the fee or penalty first became due unless the lien is perfected pursuant to subdivision (d).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "A lien shall be perfected when a notice is mailed to the registrant at the address shown on the department’s records and the lien is recorded on the electronic vehicle registration records of the department. A perfected lien shall expire five years from the date of perfection.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "Prior to the expiration of the statute of limitations, the registrant may consent to a waiver which would allow the assessment of fees and penalties past the statute of limitations.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2002, Ch. 758, Sec. 6. Effective January 1, 2003.)",
+    "action": "Amended",
+    "statutes_year": 2002,
+    "chapter": "758",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "2003-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2002",
+  "op_chapter": "758",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=8201.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/8201.html",
+  "content_sha256": "b9eef5e6d0c584ed0675d3d183d060b262654b174716e009e1cdac48af83f9d7",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5002.6",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8",
+  "article_title": "Special Plates",
+  "article_range": "5000 - 5024",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.9",
+  "text": "(a) The Chancellor or a president of a campus of the California State University, or the president or a chancellor of a campus of the University of California, who is regularly issued a state-owned vehicle may apply to the department for regular series license plates for that vehicle, if a request for that issuance is also made by the Trustees of the California State University or the Regents of the University of California, as applicable. The request by the president or chancellor and by the trustees or regents shall be in the manner specified by the department.\n\n(b) Regular series license plates issued pursuant to subdivision (a) shall be surrendered to the department by the trustees or regents, as applicable, upon the reassignment of a vehicle, for which those plates have been issued, to a person other than the person who requested those plates.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8. Special Plates [5000 - 5024]\n##### § 5002.6\n\n(a) The Chancellor or a president of a campus of the California State University, or the president or a chancellor of a campus of the University of California, who is regularly issued a state-owned vehicle may apply to the department for regular series license plates for that vehicle, if a request for that issuance is also made by the Trustees of the California State University or the Regents of the University of California, as applicable. The request by the president or chancellor and by the trustees or regents shall be in the manner specified by the department.\n\n(b) Regular series license plates issued pursuant to subdivision (a) shall be surrendered to the department by the trustees or regents, as applicable, upon the reassignment of a vehicle, for which those plates have been issued, to a person other than the person who requested those plates.\n\n*(Amended by Stats. 1994, Ch. 146, Sec. 219. Effective January 1, 1995.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Chancellor or a president of a campus of the California State University, or the president or a chancellor of a campus of the University of California, who is regularly issued a state-owned vehicle may apply to the department for regular series license plates for that vehicle, if a request for that issuance is also made by the Trustees of the California State University or the Regents of the University of California, as applicable. The request by the president or chancellor and by the trustees or regents shall be in the manner specified by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Regular series license plates issued pursuant to subdivision (a) shall be surrendered to the department by the trustees or regents, as applicable, upon the reassignment of a vehicle, for which those plates have been issued, to a person other than the person who requested those plates.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 146, Sec. 219. Effective January 1, 1995.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "146",
+    "section": "219",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "146",
+  "op_section": "219",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5002.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5002.6.html",
+  "content_sha256": "d09a8de957379c92b778a286e817cbaad20689512e0c8d72135b112c5b1b2779",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

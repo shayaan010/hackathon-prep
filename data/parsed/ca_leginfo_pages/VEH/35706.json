@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35706",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "4",
+  "article_title": "Local Authorities",
+  "article_range": "35700 - 35722",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.5",
+  "text": "Boards of supervisors in their respective counties may by ordinance reduce the permissible weight of vehicles and loads upon unimproved county highways or upon county bridges.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 4. Local Authorities [35700 - 35722]\n##### § 35706\n\nBoards of supervisors in their respective counties may by ordinance reduce the permissible weight of vehicles and loads upon unimproved county highways or upon county bridges.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Boards of supervisors in their respective counties may by ordinance reduce the permissible weight of vehicles and loads upon unimproved county highways or upon county bridges.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35706.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35706.html",
+  "content_sha256": "ba0b3193bfd5c5f2afae3e4008f0d28fcca1618a933e0a0620d91db1961e9afa",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

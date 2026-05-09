@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34002",
+  "division": "14.7",
+  "division_title": "FLAMMABLE AND COMBUSTIBLE LIQUIDS",
+  "division_range": "34000 - 34100",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "1",
+  "article_title": "Administration",
+  "article_range": "34000 - 34006",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "24.1",
+  "text": "(a) It is the legislative intention that the regulations adopted by the commissioner pursuant to this division shall apply uniformly throughout the State of California, and no state agency, city, city and county, county, or other political subdivision of this state, including, but not limited to, a chartered city, city and county, or county, shall adopt or enforce any ordinance or regulation which is inconsistent with this division.\n\n(b) No other state agency, city, city and county, county, or other public agency of this state, including, but not limited to, a chartered city, city and county, or county, shall enforce any provisions regarding the design and construction of any cargo tank subject to this division, regardless of the location of the cargo tank, or the area of operation of the cargo tank, within this state.",
+  "markdown": "# Vehicle Code\n## Division 14.7. FLAMMABLE AND COMBUSTIBLE LIQUIDS [34000 - 34100]\n#### Article 1. Administration [34000 - 34006]\n##### § 34002\n\n(a) It is the legislative intention that the regulations adopted by the commissioner pursuant to this division shall apply uniformly throughout the State of California, and no state agency, city, city and county, county, or other political subdivision of this state, including, but not limited to, a chartered city, city and county, or county, shall adopt or enforce any ordinance or regulation which is inconsistent with this division.\n\n(b) No other state agency, city, city and county, county, or other public agency of this state, including, but not limited to, a chartered city, city and county, or county, shall enforce any provisions regarding the design and construction of any cargo tank subject to this division, regardless of the location of the cargo tank, or the area of operation of the cargo tank, within this state.\n\n*(Amended by Stats. 1983, Ch. 661, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is the legislative intention that the regulations adopted by the commissioner pursuant to this division shall apply uniformly throughout the State of California, and no state agency, city, city and county, county, or other political subdivision of this state, including, but not limited to, a chartered city, city and county, or county, shall adopt or enforce any ordinance or regulation which is inconsistent with this division.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No other state agency, city, city and county, county, or other public agency of this state, including, but not limited to, a chartered city, city and county, or county, shall enforce any provisions regarding the design and construction of any cargo tank subject to this division, regardless of the location of the cargo tank, or the area of operation of the cargo tank, within this state.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 661, Sec. 3.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "661",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "661",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34002.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34002.html",
+  "content_sha256": "63e247d69bf6a9a14719a16062600fbbfd0c75dce2d7e418a471bae07868a30b",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

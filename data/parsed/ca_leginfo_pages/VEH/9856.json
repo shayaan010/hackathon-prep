@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9856",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "2",
+  "chapter_title": "Registration",
+  "chapter_range": "9850 - 9880",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.2",
+  "text": "(a) It is not required that the department issue, or that an application be made for a new certificate of ownership or a new certificate of number, or that the fee prescribed in Section 9855 be paid on transfer of an undocumented vessel to a dealer in the course of his business as is otherwise provided in this division, if both of the following conditions are satisfied:\n\n(1) The vessel is held and operated by the dealer only for the purpose of resale in the course of his business.\n\n(2) The dealer has been issued a sales permit by the Board of Equalization covering sale of such property.\n\n(b) The certificate of ownership bearing the endorsement of the transferor to the dealer of a vessel registered pursuant to this section and the certificate of number thereof shall be retained by the dealer until a transfer of the vessel by him. During that time the certificates shall be subject to inspection by the department or other authorized agency. Upon transfer of the vessel by the dealer the certificate of ownership shall be endorsed by the dealer and transfer further accomplished as otherwise provided in this division.",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 2. Registration [9850 - 9880]\n##### § 9856\n\n(a) It is not required that the department issue, or that an application be made for a new certificate of ownership or a new certificate of number, or that the fee prescribed in Section 9855 be paid on transfer of an undocumented vessel to a dealer in the course of his business as is otherwise provided in this division, if both of the following conditions are satisfied:\n\n    (1) The vessel is held and operated by the dealer only for the purpose of resale in the course of his business.\n\n    (2) The dealer has been issued a sales permit by the Board of Equalization covering sale of such property.\n\n(b) The certificate of ownership bearing the endorsement of the transferor to the dealer of a vessel registered pursuant to this section and the certificate of number thereof shall be retained by the dealer until a transfer of the vessel by him. During that time the certificates shall be subject to inspection by the department or other authorized agency. Upon transfer of the vessel by the dealer the certificate of ownership shall be endorsed by the dealer and transfer further accomplished as otherwise provided in this division.\n\n*(Amended by Stats. 1984, Ch. 411, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is not required that the department issue, or that an application be made for a new certificate of ownership or a new certificate of number, or that the fee prescribed in Section 9855 be paid on transfer of an undocumented vessel to a dealer in the course of his business as is otherwise provided in this division, if both of the following conditions are satisfied:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The vessel is held and operated by the dealer only for the purpose of resale in the course of his business.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The dealer has been issued a sales permit by the Board of Equalization covering sale of such property.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The certificate of ownership bearing the endorsement of the transferor to the dealer of a vessel registered pursuant to this section and the certificate of number thereof shall be retained by the dealer until a transfer of the vessel by him. During that time the certificates shall be subject to inspection by the department or other authorized agency. Upon transfer of the vessel by the dealer the certificate of ownership shall be endorsed by the dealer and transfer further accomplished as otherwise provided in this division.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1984, Ch. 411, Sec. 3.)",
+    "action": "Amended",
+    "statutes_year": 1984,
+    "chapter": "411",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "411",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9856.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9856.html",
+  "content_sha256": "7272d7334fe242c0e44be592d5dfceaa15ad17ef0dbd666b26fd2f81bb6f133d",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

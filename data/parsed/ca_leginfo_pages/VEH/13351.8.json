@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13351.8",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "2",
+  "chapter_title": "Suspension or Revocation of Licenses",
+  "chapter_range": "13100 - 13559",
+  "article": "3",
+  "article_title": "Suspension and Revocation by Department",
+  "article_range": "13350 - 13392",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.2.3",
+  "text": "Upon receipt of a duly certified abstract of the record of any court showing that the court has ordered the suspension of a driver’s license pursuant to Section 13210, on or after January 1, 2001, the department shall suspend the person’s driving privilege in accordance with that suspension order commencing either on the date of the person’s conviction or upon the person’s release from confinement or imprisonment.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 2. Suspension or Revocation of Licenses [13100 - 13559]\n#### Article 3. Suspension and Revocation by Department [13350 - 13392]\n##### § 13351.8\n\nUpon receipt of a duly certified abstract of the record of any court showing that the court has ordered the suspension of a driver’s license pursuant to Section 13210, on or after January 1, 2001, the department shall suspend the person’s driving privilege in accordance with that suspension order commencing either on the date of the person’s conviction or upon the person’s release from confinement or imprisonment.\n\n*(Added by Stats. 2000, Ch. 642, Sec. 5. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Upon receipt of a duly certified abstract of the record of any court showing that the court has ordered the suspension of a driver’s license pursuant to Section 13210, on or after January 1, 2001, the department shall suspend the person’s driving privilege in accordance with that suspension order commencing either on the date of the person’s conviction or upon the person’s release from confinement or imprisonment.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2000, Ch. 642, Sec. 5. Effective January 1, 2001.)",
+    "action": "Added",
+    "statutes_year": 2000,
+    "chapter": "642",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "642",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13351.8.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13351.8.html",
+  "content_sha256": "78db50d289561f3058dea24e54c9b3a90d1e7b39980e1f84339fbcdc6e8ce2e6",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

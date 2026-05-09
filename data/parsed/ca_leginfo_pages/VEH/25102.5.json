@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25102.5",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "6",
+  "article_title": "Side and Fender Lighting Equipment",
+  "article_range": "25100 - 25110",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.6",
+  "text": "(a) A schoolbus may be equipped with lamps mounted so as to be visible from the sides of the bus which may be lighted, in addition to other required lights, when, and only when, atmospheric conditions such as fog, rain, snow, smoke, or dust, reduce the visibility of other vehicles to less than 500 feet.\n\n(b) The type and mounting requirements of such lamps shall be established by regulations adopted by the department. The regulations shall be adopted by January 1, 1980.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 6. Side and Fender Lighting Equipment [25100 - 25110]\n##### § 25102.5\n\n(a) A schoolbus may be equipped with lamps mounted so as to be visible from the sides of the bus which may be lighted, in addition to other required lights, when, and only when, atmospheric conditions such as fog, rain, snow, smoke, or dust, reduce the visibility of other vehicles to less than 500 feet.\n\n(b) The type and mounting requirements of such lamps shall be established by regulations adopted by the department. The regulations shall be adopted by January 1, 1980.\n\n*(Amended by Stats. 1979, Ch. 723.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A schoolbus may be equipped with lamps mounted so as to be visible from the sides of the bus which may be lighted, in addition to other required lights, when, and only when, atmospheric conditions such as fog, rain, snow, smoke, or dust, reduce the visibility of other vehicles to less than 500 feet.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The type and mounting requirements of such lamps shall be established by regulations adopted by the department. The regulations shall be adopted by January 1, 1980.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1979, Ch. 723.)",
+    "action": "Amended",
+    "statutes_year": 1979,
+    "chapter": "723",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1979",
+  "op_chapter": "723",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25102.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25102.5.html",
+  "content_sha256": "f00b43236809a83976479240431663c18b03d78d469e1a67ed0c29bb8d93f8b9",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

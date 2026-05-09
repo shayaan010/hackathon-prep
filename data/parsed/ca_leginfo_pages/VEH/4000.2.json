@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4000.2",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "1",
+  "article_title": "Vehicles Subject to Registration",
+  "article_range": "4000 - 4023",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.1",
+  "text": "(a) Except as otherwise provided in subdivision (b) of Section 43654 of the Health and Safety Code, and, commencing on April 1, 2005, except for model-years exempted from biennial inspection pursuant to Section 44011 of the Health and Safety Code, the department shall require upon registration of a motor vehicle subject to Part 5 (commencing with Section 43000) of Division 26 of the Health and Safety Code, previously registered outside this state, a valid certificate of compliance or a certificate of noncompliance, as appropriate, issued in accordance with Section 44015 of the Health and Safety Code.\n\n(b) For the purposes of determining the validity of a certificate of compliance or noncompliance submitted in compliance with the requirements of this section, the definitions of new and used motor vehicle contained in Chapter 2 (commencing with Section 39010) of Part 1 of Division 26 of the Health and Safety Code shall control.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 1. Vehicles Subject to Registration [4000 - 4023]\n##### § 4000.2\n\n(a) Except as otherwise provided in subdivision (b) of Section 43654 of the Health and Safety Code, and, commencing on April 1, 2005, except for model-years exempted from biennial inspection pursuant to Section 44011 of the Health and Safety Code, the department shall require upon registration of a motor vehicle subject to Part 5 (commencing with Section 43000) of Division 26 of the Health and Safety Code, previously registered outside this state, a valid certificate of compliance or a certificate of noncompliance, as appropriate, issued in accordance with Section 44015 of the Health and Safety Code.\n\n(b) For the purposes of determining the validity of a certificate of compliance or noncompliance submitted in compliance with the requirements of this section, the definitions of new and used motor vehicle contained in Chapter 2 (commencing with Section 39010) of Part 1 of Division 26 of the Health and Safety Code shall control.\n\n*(Amended by Stats. 2004, Ch. 704, Sec. 4. Effective January 1, 2005. Operative April 1, 2005, by Sec. 7 of Ch. 704.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as otherwise provided in subdivision (b) of Section 43654 of the Health and Safety Code, and, commencing on April 1, 2005, except for model-years exempted from biennial inspection pursuant to Section 44011 of the Health and Safety Code, the department shall require upon registration of a motor vehicle subject to Part 5 (commencing with Section 43000) of Division 26 of the Health and Safety Code, previously registered outside this state, a valid certificate of compliance or a certificate of noncompliance, as appropriate, issued in accordance with Section 44015 of the Health and Safety Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For the purposes of determining the validity of a certificate of compliance or noncompliance submitted in compliance with the requirements of this section, the definitions of new and used motor vehicle contained in Chapter 2 (commencing with Section 39010) of Part 1 of Division 26 of the Health and Safety Code shall control.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 704, Sec. 4. Effective January 1, 2005. Operative April 1, 2005, by Sec. 7 of Ch. 704.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "704",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": "2005-04-01"
+  },
+  "op_statues": "2004",
+  "op_chapter": "704",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4000.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4000.2.html",
+  "content_sha256": "f5e2a0e327c63393084173cc7177c888599361021db187b5a3ca6ba4887bb63e",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

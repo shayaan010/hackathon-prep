@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2103",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "1",
+  "article_title": "Administration",
+  "article_range": "2100 - 2114",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.1",
+  "text": "The department is the successor to and is vested with the duties, powers, purposes, responsibilities, and jurisdiction of the former Division of Enforcement of the Department of Motor Vehicles, known as the California Highway Patrol, and of the officers and employees thereof.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 1. Administration [2100 - 2114]\n##### § 2103\n\nThe department is the successor to and is vested with the duties, powers, purposes, responsibilities, and jurisdiction of the former Division of Enforcement of the Department of Motor Vehicles, known as the California Highway Patrol, and of the officers and employees thereof.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department is the successor to and is vested with the duties, powers, purposes, responsibilities, and jurisdiction of the former Division of Enforcement of the Department of Motor Vehicles, known as the California Highway Patrol, and of the officers and employees thereof.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2103.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2103.html",
+  "content_sha256": "44c2dad710bae6dbce92533f94cfcdbbf8c71fe4c2c1e57f4a7af829bf45f9ba",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

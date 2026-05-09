@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2257",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "2",
+  "article_title": "The California Highway Patrol",
+  "article_range": "2250 - 2269",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.2",
+  "text": "The commissioner shall issue to each member of the California Highway Patrol a badge of authority with the seal of the State of California in the center thereof, the words “California Highway Patrol” encircling the seal and below the designation of the position held by each member to whom issued.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 2. The California Highway Patrol [2250 - 2269]\n##### § 2257\n\nThe commissioner shall issue to each member of the California Highway Patrol a badge of authority with the seal of the State of California in the center thereof, the words “California Highway Patrol” encircling the seal and below the designation of the position held by each member to whom issued.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The commissioner shall issue to each member of the California Highway Patrol a badge of authority with the seal of the State of California in the center thereof, the words “California Highway Patrol” encircling the seal and below the designation of the position held by each member to whom issued.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2257.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2257.html",
+  "content_sha256": "f03c07b75ba5db789fe70c37233f18d246c6d3685b1a622e304304920c8b1f13",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

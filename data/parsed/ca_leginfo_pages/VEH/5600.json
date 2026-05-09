@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5600",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "2",
+  "chapter_title": "Transfers of Title or Interest",
+  "chapter_range": "5600 - 6105",
+  "article": "1",
+  "article_title": "Procedure to Transfer",
+  "article_range": "5600 - 5604.5",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.2.1",
+  "text": "(a) No transfer of the title or any interest in or to a vehicle registered under this code shall pass, and any attempted transfer shall not be effective, until the parties thereto have fulfilled either of the following requirements:\n\n(1) The transferor has made proper endorsement and delivery of the certificate of ownership to the transferee as provided in this code and the transferee has delivered to the department or has placed the certificate in the United States mail addressed to the department when and as required under this code with the proper transfer fee, together with the amount required to be paid under Part 1 (commencing with Section 6001), Division 2 of the Revenue and Taxation Code with respect to the use by the transferee of the vehicle, and thereby makes application for a transfer of registration except as otherwise provided in Sections 5905, 5906, 5907, and 5908.\n\n(2) The transferor has delivered to the department or has placed in the United States mail addressed to the department the appropriate documents for the registration or transfer of registration of the vehicle pursuant to the sale or transfer except as provided in Section 5602.\n\n(b) Whenever a person transfers ownership of a vehicle and is required to disclose the mileage of the vehicle, the department may prescribe a secured form to be used for purposes of the odometer mileage disclosure requirements pursuant to subsection (a) of Section 32705 of Title 49 of the United States Code.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 2. Transfers of Title or Interest [5600 - 6105]\n#### Article 1. Procedure to Transfer [5600 - 5604.5]\n##### § 5600\n\n(a) No transfer of the title or any interest in or to a vehicle registered under this code shall pass, and any attempted transfer shall not be effective, until the parties thereto have fulfilled either of the following requirements:\n\n    (1) The transferor has made proper endorsement and delivery of the certificate of ownership to the transferee as provided in this code and the transferee has delivered to the department or has placed the certificate in the United States mail addressed to the department when and as required under this code with the proper transfer fee, together with the amount required to be paid under Part 1 (commencing with Section 6001), Division 2 of the Revenue and Taxation Code with respect to the use by the transferee of the vehicle, and thereby makes application for a transfer of registration except as otherwise provided in Sections 5905, 5906, 5907, and 5908.\n\n    (2) The transferor has delivered to the department or has placed in the United States mail addressed to the department the appropriate documents for the registration or transfer of registration of the vehicle pursuant to the sale or transfer except as provided in Section 5602.\n\n(b) Whenever a person transfers ownership of a vehicle and is required to disclose the mileage of the vehicle, the department may prescribe a secured form to be used for purposes of the odometer mileage disclosure requirements pursuant to subsection (a) of Section 32705 of Title 49 of the United States Code.\n\n*(Amended by Stats. 2000, Ch. 1035, Sec. 10. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No transfer of the title or any interest in or to a vehicle registered under this code shall pass, and any attempted transfer shall not be effective, until the parties thereto have fulfilled either of the following requirements:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The transferor has made proper endorsement and delivery of the certificate of ownership to the transferee as provided in this code and the transferee has delivered to the department or has placed the certificate in the United States mail addressed to the department when and as required under this code with the proper transfer fee, together with the amount required to be paid under Part 1 (commencing with Section 6001), Division 2 of the Revenue and Taxation Code with respect to the use by the transferee of the vehicle, and thereby makes application for a transfer of registration except as otherwise provided in Sections 5905, 5906, 5907, and 5908.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The transferor has delivered to the department or has placed in the United States mail addressed to the department the appropriate documents for the registration or transfer of registration of the vehicle pursuant to the sale or transfer except as provided in Section 5602.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Whenever a person transfers ownership of a vehicle and is required to disclose the mileage of the vehicle, the department may prescribe a secured form to be used for purposes of the odometer mileage disclosure requirements pursuant to subsection (a) of Section 32705 of Title 49 of the United States Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2000, Ch. 1035, Sec. 10. Effective January 1, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2000,
+    "chapter": "1035",
+    "section": "10",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "1035",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5600.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5600.html",
+  "content_sha256": "cdb60661e88e97838a544e05dbabdabfc94140bd9b708d0527fcc9aa2c5595eb",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

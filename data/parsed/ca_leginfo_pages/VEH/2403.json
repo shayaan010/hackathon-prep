@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2403",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "The commissioner may create highway patrol districts for the efficient administration and enforcement of this code and the laws respecting the use of highways. The commissioner may establish branch offices where necessary.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2403\n\nThe commissioner may create highway patrol districts for the efficient administration and enforcement of this code and the laws respecting the use of highways. The commissioner may establish branch offices where necessary.\n\n*(Amended by Stats. 2021, Ch. 133, Sec. 106. (SB 272) Effective July 23, 2021.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The commissioner may create highway patrol districts for the efficient administration and enforcement of this code and the laws respecting the use of highways. The commissioner may establish branch offices where necessary.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 133, Sec. 106. (SB 272) Effective July 23, 2021.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "133",
+    "section": "106",
+    "bill_number": "SB 272",
+    "effective_date": "2021-07-23",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "133",
+  "op_section": "106",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2403.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2403.html",
+  "content_sha256": "6be73d30ccfd33dbdc4e18422306914e7077b43e2746e3dbb191727947d552f8",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

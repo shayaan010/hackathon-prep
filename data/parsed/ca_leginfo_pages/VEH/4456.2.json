@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4456.2",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "4",
+  "article_title": "Evidences of Registration",
+  "article_range": "4450 - 4467",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.4",
+  "text": "(a) The department shall develop a system for dealers and lessor-retailers to electronically report the sale of a vehicle before the vehicle is delivered to the purchaser. At minimum, the system shall conform to the following conditions:\n\n(1) The system shall provide a licensed dealer with the forms for use as prescribed in subdivision (a) of Section 4456.\n\n(2) For a vehicle that does not already display license plates, the system shall also produce a temporary license plate to be used and displayed in lieu of license plates, pursuant to subdivision (c) of Section 4456. The temporary license plate shall display the report-of-sale number, expiration date, and any other information deemed necessary by the department.\n\n(3) The dealer reporting system shall assign each transaction a unique report-of-sale number that will be displayed on the report-of-sale forms and any temporary license plate.\n\n(4) The system shall record the vehicle identification number, vehicle year, model and make, name of dealer or lessor-retailer, purchaser name and address, and any other information deemed necessary by the department.\n\n(b) The department shall develop standards for temporary license plates produced pursuant to this section. The standards shall specify content, format, and physical attributes that are cost effective and reasonably necessary to create appropriately durable and legible temporary license plates, including the type and quality of paper, ink, and printer required to create the temporary license plates.\n\n(c) Access to the dealer reporting system shall be restricted to authorized users of the department’s vehicle registration and occupational licensing databases.\n\n(d) The department shall make the dealer reporting system operational for use no later than January 1, 2019.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 4. Evidences of Registration [4450 - 4467]\n##### § 4456.2\n\n(a) The department shall develop a system for dealers and lessor-retailers to electronically report the sale of a vehicle before the vehicle is delivered to the purchaser. At minimum, the system shall conform to the following conditions:\n\n    (1) The system shall provide a licensed dealer with the forms for use as prescribed in subdivision (a) of Section 4456.\n\n    (2) For a vehicle that does not already display license plates, the system shall also produce a temporary license plate to be used and displayed in lieu of license plates, pursuant to subdivision (c) of Section 4456. The temporary license plate shall display the report-of-sale number, expiration date, and any other information deemed necessary by the department.\n\n    (3) The dealer reporting system shall assign each transaction a unique report-of-sale number that will be displayed on the report-of-sale forms and any temporary license plate.\n\n    (4) The system shall record the vehicle identification number, vehicle year, model and make, name of dealer or lessor-retailer, purchaser name and address, and any other information deemed necessary by the department.\n\n(b) The department shall develop standards for temporary license plates produced pursuant to this section. The standards shall specify content, format, and physical attributes that are cost effective and reasonably necessary to create appropriately durable and legible temporary license plates, including the type and quality of paper, ink, and printer required to create the temporary license plates.\n\n(c) Access to the dealer reporting system shall be restricted to authorized users of the department’s vehicle registration and occupational licensing databases.\n\n(d) The department shall make the dealer reporting system operational for use no later than January 1, 2019.\n\n*(Added by Stats. 2016, Ch. 90, Sec. 4. (AB 516) Effective January 1, 2017.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall develop a system for dealers and lessor-retailers to electronically report the sale of a vehicle before the vehicle is delivered to the purchaser. At minimum, the system shall conform to the following conditions:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The system shall provide a licensed dealer with the forms for use as prescribed in subdivision (a) of Section 4456.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "For a vehicle that does not already display license plates, the system shall also produce a temporary license plate to be used and displayed in lieu of license plates, pursuant to subdivision (c) of Section 4456. The temporary license plate shall display the report-of-sale number, expiration date, and any other information deemed necessary by the department.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The dealer reporting system shall assign each transaction a unique report-of-sale number that will be displayed on the report-of-sale forms and any temporary license plate.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "The system shall record the vehicle identification number, vehicle year, model and make, name of dealer or lessor-retailer, purchaser name and address, and any other information deemed necessary by the department.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall develop standards for temporary license plates produced pursuant to this section. The standards shall specify content, format, and physical attributes that are cost effective and reasonably necessary to create appropriately durable and legible temporary license plates, including the type and quality of paper, ink, and printer required to create the temporary license plates.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Access to the dealer reporting system shall be restricted to authorized users of the department’s vehicle registration and occupational licensing databases.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The department shall make the dealer reporting system operational for use no later than January 1, 2019.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2016, Ch. 90, Sec. 4. (AB 516) Effective January 1, 2017.)",
+    "action": "Added",
+    "statutes_year": 2016,
+    "chapter": "90",
+    "section": "4",
+    "bill_number": "AB 516",
+    "effective_date": "2017-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2016",
+  "op_chapter": "90",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4456.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4456.2.html",
+  "content_sha256": "b2fa38168881c618fa80f7d5d1f438df6b2dbee41e0d926cc872730b7aea8768",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

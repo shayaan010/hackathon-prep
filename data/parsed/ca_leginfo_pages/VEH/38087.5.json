@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38087.5",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "2",
+  "chapter_title": "Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership",
+  "chapter_range": "38010 - 38265",
+  "article": "3",
+  "article_title": "Evidences of Identification",
+  "article_range": "38070 - 38100",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.2.3",
+  "text": "(a) Upon payment of the fee specified in Section 38231.5, the Department of Parks and Recreation may issue to a nonresident of this state a special permit to operate an off-highway motor vehicle otherwise required to be identified under this chapter.\n\n(b) Special permits issued under this section shall expire on December 31 in the year of their issuance.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 2. Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership [38010 - 38265]\n#### Article 3. Evidences of Identification [38070 - 38100]\n##### § 38087.5\n\n(a) Upon payment of the fee specified in Section 38231.5, the Department of Parks and Recreation may issue to a nonresident of this state a special permit to operate an off-highway motor vehicle otherwise required to be identified under this chapter.\n\n(b) Special permits issued under this section shall expire on December 31 in the year of their issuance.\n\n*(Added by Stats. 1996, Ch. 572, Sec. 2. Effective January 1, 1997.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Upon payment of the fee specified in Section 38231.5, the Department of Parks and Recreation may issue to a nonresident of this state a special permit to operate an off-highway motor vehicle otherwise required to be identified under this chapter.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Special permits issued under this section shall expire on December 31 in the year of their issuance.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1996, Ch. 572, Sec. 2. Effective January 1, 1997.)",
+    "action": "Added",
+    "statutes_year": 1996,
+    "chapter": "572",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "1997-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "572",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38087.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38087.5.html",
+  "content_sha256": "66799a881e0295767a43e2aead1bf23848d08652c28f932a890e1f2bc5e359cb",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "8052",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "4",
+  "chapter_title": "Permits to Nonresident Owners",
+  "chapter_range": "6700 - 8204",
+  "article": "4",
+  "article_title": "Apportioned Registration",
+  "article_range": "8050 - 8058",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.5.4",
+  "text": "(a) The director, or his or her designee, may, on behalf of the state, enter into, and become, a member of the International Registration Plan Agreement developed by the American Association of Motor Vehicle Administrators. The director, or his or her designee, may adopt rules and regulations necessary to carry out the provisions of the International Registration Plan or other apportioned registration agreements entered into under the authority of this article.\n\n(b) In administering the International Registration Plan, the state may collect all appropriate registration and license fees due other jurisdictions. Foreign jurisdictions that are members of the agreement shall be authorized to collect all appropriate registration and license fees due to the State of California, and remit the fees to this state pursuant to the terms of the agreement.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 4. Permits to Nonresident Owners [6700 - 8204]\n#### Article 4. Apportioned Registration [8050 - 8058]\n##### § 8052\n\n(a) The director, or his or her designee, may, on behalf of the state, enter into, and become, a member of the International Registration Plan Agreement developed by the American Association of Motor Vehicle Administrators. The director, or his or her designee, may adopt rules and regulations necessary to carry out the provisions of the International Registration Plan or other apportioned registration agreements entered into under the authority of this article.\n\n(b) In administering the International Registration Plan, the state may collect all appropriate registration and license fees due other jurisdictions. Foreign jurisdictions that are members of the agreement shall be authorized to collect all appropriate registration and license fees due to the State of California, and remit the fees to this state pursuant to the terms of the agreement.\n\n*(Amended by Stats. 2011, Ch. 315, Sec. 13. (AB 28) Effective January 1, 2012.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The director, or his or her designee, may, on behalf of the state, enter into, and become, a member of the International Registration Plan Agreement developed by the American Association of Motor Vehicle Administrators. The director, or his or her designee, may adopt rules and regulations necessary to carry out the provisions of the International Registration Plan or other apportioned registration agreements entered into under the authority of this article.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "In administering the International Registration Plan, the state may collect all appropriate registration and license fees due other jurisdictions. Foreign jurisdictions that are members of the agreement shall be authorized to collect all appropriate registration and license fees due to the State of California, and remit the fees to this state pursuant to the terms of the agreement.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2011, Ch. 315, Sec. 13. (AB 28) Effective January 1, 2012.)",
+    "action": "Amended",
+    "statutes_year": 2011,
+    "chapter": "315",
+    "section": "13",
+    "bill_number": "AB 28",
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2011",
+  "op_chapter": "315",
+  "op_section": "13",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=8052.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/8052.html",
+  "content_sha256": "8db87427a3c8e3b0f2c617295bfee15da4abfc2ce76919ecec394730a180e374",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

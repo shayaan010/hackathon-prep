@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34501.17",
+  "division": "14.8",
+  "division_title": "SAFETY REGULATIONS",
+  "division_range": "34500 - 34520.5",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "25",
+  "text": "(a) All paratransit vehicles shall be regularly and systematically inspected, maintained, and lubricated by the owner or operator in accordance with the manufacturer’s recommendations, or more often if necessary to ensure the safe operating condition of the vehicle. The maintenance shall include, at a minimum, in-depth inspection of the vehicle’s brake system, steering components, lighting system, and wheels and tires, to be performed at intervals in accordance with the manufacturer’s recommendations.\n\n(b) All owners or operators of paratransit vehicles shall document each systematic inspection, maintenance, and lubrication and repair performed for each vehicle subject to this section. Required records shall include service performed, the name of the person performing the service, the date that the service was performed, and the odometer reading of the vehicle at the time of the service. The records shall be maintained for the period that the vehicle is in service at the place of business in this state of the owner or operator of the vehicle, and shall be presented upon demand to any authorized representative of the department. The odometer of a paratransit vehicle shall be maintained in proper working order.",
+  "markdown": "# Vehicle Code\n## Division 14.8. SAFETY REGULATIONS [34500 - 34520.5]\n##### § 34501.17\n\n(a) All paratransit vehicles shall be regularly and systematically inspected, maintained, and lubricated by the owner or operator in accordance with the manufacturer’s recommendations, or more often if necessary to ensure the safe operating condition of the vehicle. The maintenance shall include, at a minimum, in-depth inspection of the vehicle’s brake system, steering components, lighting system, and wheels and tires, to be performed at intervals in accordance with the manufacturer’s recommendations.\n\n(b) All owners or operators of paratransit vehicles shall document each systematic inspection, maintenance, and lubrication and repair performed for each vehicle subject to this section. Required records shall include service performed, the name of the person performing the service, the date that the service was performed, and the odometer reading of the vehicle at the time of the service. The records shall be maintained for the period that the vehicle is in service at the place of business in this state of the owner or operator of the vehicle, and shall be presented upon demand to any authorized representative of the department. The odometer of a paratransit vehicle shall be maintained in proper working order.\n\n*(Added by Stats. 1998, Ch. 241, Sec. 3. Effective January 1, 1999.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "All paratransit vehicles shall be regularly and systematically inspected, maintained, and lubricated by the owner or operator in accordance with the manufacturer’s recommendations, or more often if necessary to ensure the safe operating condition of the vehicle. The maintenance shall include, at a minimum, in-depth inspection of the vehicle’s brake system, steering components, lighting system, and wheels and tires, to be performed at intervals in accordance with the manufacturer’s recommendations.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "All owners or operators of paratransit vehicles shall document each systematic inspection, maintenance, and lubrication and repair performed for each vehicle subject to this section. Required records shall include service performed, the name of the person performing the service, the date that the service was performed, and the odometer reading of the vehicle at the time of the service. The records shall be maintained for the period that the vehicle is in service at the place of business in this state of the owner or operator of the vehicle, and shall be presented upon demand to any authorized representative of the department. The odometer of a paratransit vehicle shall be maintained in proper working order.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1998, Ch. 241, Sec. 3. Effective January 1, 1999.)",
+    "action": "Added",
+    "statutes_year": 1998,
+    "chapter": "241",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "1999-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1998",
+  "op_chapter": "241",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34501.17.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34501.17.html",
+  "content_sha256": "0d5df0421ea14b9c43dec36a102d1acc10585519034c9a9fe39fb2f850265d2f",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

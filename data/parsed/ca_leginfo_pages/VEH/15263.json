@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15263",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "7",
+  "chapter_title": "Commercial Motor Vehicle Safety Program",
+  "chapter_range": "15200 - 15326",
+  "article": "5",
+  "article_title": "Commercial Driver’s License",
+  "article_range": "15250 - 15263",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.7.5",
+  "text": "(a) Any applicant for a commercial driver’s license who successfully completes the driving-skill test in a vehicle or combination of vehicles equipped with an automatic transmission, shall, if otherwise qualified, receive a commercial driver’s license that restricts the licenseholder from operating a commercial motor vehicle or combination of vehicles equipped with a manual transmission.\n\n(b) To remove the restriction described in subdivision (a) from a commercial driver’s license, the driver is required to make a new application for a commercial driver’s license, and, in addition to any other requirements specified in this code, successfully complete the driving-skill test in a vehicle or combination of vehicles equipped with a manual transmission.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 7. Commercial Motor Vehicle Safety Program [15200 - 15326]\n#### Article 5. Commercial Driver’s License [15250 - 15263]\n##### § 15263\n\n(a) Any applicant for a commercial driver’s license who successfully completes the driving-skill test in a vehicle or combination of vehicles equipped with an automatic transmission, shall, if otherwise qualified, receive a commercial driver’s license that restricts the licenseholder from operating a commercial motor vehicle or combination of vehicles equipped with a manual transmission.\n\n(b) To remove the restriction described in subdivision (a) from a commercial driver’s license, the driver is required to make a new application for a commercial driver’s license, and, in addition to any other requirements specified in this code, successfully complete the driving-skill test in a vehicle or combination of vehicles equipped with a manual transmission.\n\n*(Added by Stats. 1988, Ch. 1509, Sec. 9.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any applicant for a commercial driver’s license who successfully completes the driving-skill test in a vehicle or combination of vehicles equipped with an automatic transmission, shall, if otherwise qualified, receive a commercial driver’s license that restricts the licenseholder from operating a commercial motor vehicle or combination of vehicles equipped with a manual transmission.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "To remove the restriction described in subdivision (a) from a commercial driver’s license, the driver is required to make a new application for a commercial driver’s license, and, in addition to any other requirements specified in this code, successfully complete the driving-skill test in a vehicle or combination of vehicles equipped with a manual transmission.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 1509, Sec. 9.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "1509",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1509",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15263.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15263.html",
+  "content_sha256": "47b78f0461df5a7980d7ff24253eede712558ac7025e8e5fb115f137513d406b",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

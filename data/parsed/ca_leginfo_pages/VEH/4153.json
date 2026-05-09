@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4153",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "2",
+  "article_title": "Original Registration",
+  "article_range": "4150 - 4166",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.2",
+  "text": "If the vehicle to be registered is a specially constructed or remanufactured vehicle, the application shall also state that fact and contain additional information as may reasonably be required by the department to enable it properly to register the vehicle.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 2. Original Registration [4150 - 4166]\n##### § 4153\n\nIf the vehicle to be registered is a specially constructed or remanufactured vehicle, the application shall also state that fact and contain additional information as may reasonably be required by the department to enable it properly to register the vehicle.\n\n*(Amended by Stats. 1983, Ch. 1286, Sec. 18.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "If the vehicle to be registered is a specially constructed or remanufactured vehicle, the application shall also state that fact and contain additional information as may reasonably be required by the department to enable it properly to register the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 1286, Sec. 18.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "1286",
+    "section": "18",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "1286",
+  "op_section": "18",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4153.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4153.html",
+  "content_sha256": "52926dfa98eb0e0f594cc4a687114be58668734409b4f3f13b82c8ca311b21d4",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

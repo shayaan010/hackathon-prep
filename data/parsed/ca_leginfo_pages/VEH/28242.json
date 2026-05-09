@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28242",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "6",
+  "chapter_title": "Connected Vehicle Service",
+  "chapter_range": "28200 - 28244",
+  "article": "3",
+  "article_title": "Disabling Connected Vehicle Location Access",
+  "article_range": "28240 - 28244",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.6.3",
+  "text": "A mechanism for disabling connected vehicle location access shall meet all of the following requirements:\n\n(a) Be prominently located and easy to use.\n\n(b) Not require access to, or use of, a remote or online application.\n\n(c) (1) Not require account creation, a password, or login information.\n\n(2) A vehicle manufacturer may require a driver to input a mobile number associated with the connected vehicle service account. If a vehicle manufacturer requires a driver to input a mobile number in order to disable the connected vehicle location access connection, it shall not require any further information in order to allow the driver to disable the connection, including, but not limited to, using that number as part of a two-factor authentication process that results in sending a code to the mobile number.\n\n(d) Allow connected vehicle location access that has been disabled from inside the vehicle to be enabled only by a driver who is located inside the vehicle.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 6. Connected Vehicle Service [28200 - 28244]\n#### Article 3. Disabling Connected Vehicle Location Access [28240 - 28244]\n##### § 28242\n\nA mechanism for disabling connected vehicle location access shall meet all of the following requirements:\n\n(a) Be prominently located and easy to use.\n\n(b) Not require access to, or use of, a remote or online application.\n\n(c) (1) Not require account creation, a password, or login information.\n\n    (2) A vehicle manufacturer may require a driver to input a mobile number associated with the connected vehicle service account. If a vehicle manufacturer requires a driver to input a mobile number in order to disable the connected vehicle location access connection, it shall not require any further information in order to allow the driver to disable the connection, including, but not limited to, using that number as part of a two-factor authentication process that results in sending a code to the mobile number.\n\n(d) Allow connected vehicle location access that has been disabled from inside the vehicle to be enabled only by a driver who is located inside the vehicle.\n\n*(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025. Conditionally operative pursuant to Sec. 28206.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A mechanism for disabling connected vehicle location access shall meet all of the following requirements:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Be prominently located and easy to use.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Not require access to, or use of, a remote or online application.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "(1) Not require account creation, a password, or login information.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "A vehicle manufacturer may require a driver to input a mobile number associated with the connected vehicle service account. If a vehicle manufacturer requires a driver to input a mobile number in order to disable the connected vehicle location access connection, it shall not require any further information in order to allow the driver to disable the connection, including, but not limited to, using that number as part of a two-factor authentication process that results in sending a code to the mobile number.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "d",
+      "text": "Allow connected vehicle location access that has been disabled from inside the vehicle to be enabled only by a driver who is located inside the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025. Conditionally operative pursuant to Sec. 28206.)",
+    "action": "Added",
+    "statutes_year": 2024,
+    "chapter": "655",
+    "section": "2",
+    "bill_number": "SB 1394",
+    "effective_date": "2025-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2024",
+  "op_chapter": "655",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28242.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28242.html",
+  "content_sha256": "91820010825451c18cfa0acbed53bbf0381668e5ad0dca1eecf765d0d3f1fff5",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

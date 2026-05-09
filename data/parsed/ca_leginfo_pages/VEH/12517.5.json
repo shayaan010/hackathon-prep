@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12517.5",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "1",
+  "article_title": "Persons Required to Be Licensed, Exemptions, and Age Limits",
+  "article_range": "12500 - 12527",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.1",
+  "text": "A person who is employed as a driver of a paratransit vehicle shall not operate that vehicle unless the person meets both of the following requirements:\n\n(a) Has in his or her immediate possession a valid driver’s license of a class appropriate to the vehicle driven.\n\n(b) Successfully completes, during each calendar year, four hours of training administered by, or at the direction of, his or her employer or the employer’s agent on the safe operation of paratransit vehicles and four hours of training on the special transportation needs of the persons he or she is employed to transport.\n\nThis subdivision may be satisfied if the driver receives transportation training or a certificate, or both, pursuant to Section 40082, 40083, 40085, 40085.5, or 40088 of the Education Code.\n\nThe employer shall maintain a record of the current training received by each driver in his or her employ and shall present that record on demand to any authorized representative of the Department of the California Highway Patrol.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 1. Persons Required to Be Licensed, Exemptions, and Age Limits [12500 - 12527]\n##### § 12517.5\n\nA person who is employed as a driver of a paratransit vehicle shall not operate that vehicle unless the person meets both of the following requirements:\n\n(a) Has in his or her immediate possession a valid driver’s license of a class appropriate to the vehicle driven.\n\n(b) Successfully completes, during each calendar year, four hours of training administered by, or at the direction of, his or her employer or the employer’s agent on the safe operation of paratransit vehicles and four hours of training on the special transportation needs of the persons he or she is employed to transport.\n\nThis subdivision may be satisfied if the driver receives transportation training or a certificate, or both, pursuant to Section 40082, 40083, 40085, 40085.5, or 40088 of the Education Code.\n\nThe employer shall maintain a record of the current training received by each driver in his or her employ and shall present that record on demand to any authorized representative of the Department of the California Highway Patrol.\n\n*(Amended by Stats. 2002, Ch. 664, Sec. 217. Effective January 1, 2003.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A person who is employed as a driver of a paratransit vehicle shall not operate that vehicle unless the person meets both of the following requirements:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Has in his or her immediate possession a valid driver’s license of a class appropriate to the vehicle driven.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Successfully completes, during each calendar year, four hours of training administered by, or at the direction of, his or her employer or the employer’s agent on the safe operation of paratransit vehicles and four hours of training on the special transportation needs of the persons he or she is employed to transport.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "This subdivision may be satisfied if the driver receives transportation training or a certificate, or both, pursuant to Section 40082, 40083, 40085, 40085.5, or 40088 of the Education Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The employer shall maintain a record of the current training received by each driver in his or her employ and shall present that record on demand to any authorized representative of the Department of the California Highway Patrol.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2002, Ch. 664, Sec. 217. Effective January 1, 2003.)",
+    "action": "Amended",
+    "statutes_year": 2002,
+    "chapter": "664",
+    "section": "217",
+    "bill_number": null,
+    "effective_date": "2003-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2002",
+  "op_chapter": "664",
+  "op_section": "217",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12517.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12517.5.html",
+  "content_sha256": "17be7190cddb42b03428bc22fccdd5f1a6f2a0e858dfd1a635e25b4e6441e5ab",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

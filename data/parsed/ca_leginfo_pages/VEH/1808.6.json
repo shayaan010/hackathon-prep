@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1808.6",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "(a) In addition to those specified in Section 1808.4, the home address of any of the following persons, that appears in any record of the department, is confidential, if the person requests the confidentiality of that information:\n\n(1) The chairperson, executive officer, commissioners, and deputy commissioners of the Board of Prison Terms.\n\n(2) The chairperson, members, executive director, and hearing representatives of the Youthful Offender Parole Board.\n\n(3) The spouse or children of persons listed in this section, regardless of the spouse’s or child’s place of residence.\n\n(b) The confidential home address of any of the persons listed in subdivision (a) shall not be disclosed to any person, except a court, a law enforcement agency, the State Board of Equalization, or any governmental agency to which, under any provision of law, information is required to be furnished from records maintained by the department.\n\n(c) Any record of the department containing a confidential home address shall be open to public inspection, as provided in Section 1808, if the address is completely obliterated or otherwise removed from the record. The home address shall be withheld from public inspection for three years following termination of office or employment, except with respect to retired peace officers, whose home addresses shall be withheld from public inspection permanently upon request of confidentiality at the time the information would otherwise be opened. The department shall inform any person who requests a confidential home address of the name of the agency that employs the individual whose address was requested.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1808.6\n\n(a) In addition to those specified in Section 1808.4, the home address of any of the following persons, that appears in any record of the department, is confidential, if the person requests the confidentiality of that information:\n\n    (1) The chairperson, executive officer, commissioners, and deputy commissioners of the Board of Prison Terms.\n\n    (2) The chairperson, members, executive director, and hearing representatives of the Youthful Offender Parole Board.\n\n    (3) The spouse or children of persons listed in this section, regardless of the spouse’s or child’s place of residence.\n\n(b) The confidential home address of any of the persons listed in subdivision (a) shall not be disclosed to any person, except a court, a law enforcement agency, the State Board of Equalization, or any governmental agency to which, under any provision of law, information is required to be furnished from records maintained by the department.\n\n(c) Any record of the department containing a confidential home address shall be open to public inspection, as provided in Section 1808, if the address is completely obliterated or otherwise removed from the record. The home address shall be withheld from public inspection for three years following termination of office or employment, except with respect to retired peace officers, whose home addresses shall be withheld from public inspection permanently upon request of confidentiality at the time the information would otherwise be opened. The department shall inform any person who requests a confidential home address of the name of the agency that employs the individual whose address was requested.\n\n*(Amended by Stats. 1996, Ch. 880, Sec. 1. Effective January 1, 1997.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In addition to those specified in Section 1808.4, the home address of any of the following persons, that appears in any record of the department, is confidential, if the person requests the confidentiality of that information:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The chairperson, executive officer, commissioners, and deputy commissioners of the Board of Prison Terms.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The chairperson, members, executive director, and hearing representatives of the Youthful Offender Parole Board.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The spouse or children of persons listed in this section, regardless of the spouse’s or child’s place of residence.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The confidential home address of any of the persons listed in subdivision (a) shall not be disclosed to any person, except a court, a law enforcement agency, the State Board of Equalization, or any governmental agency to which, under any provision of law, information is required to be furnished from records maintained by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any record of the department containing a confidential home address shall be open to public inspection, as provided in Section 1808, if the address is completely obliterated or otherwise removed from the record. The home address shall be withheld from public inspection for three years following termination of office or employment, except with respect to retired peace officers, whose home addresses shall be withheld from public inspection permanently upon request of confidentiality at the time the information would otherwise be opened. The department shall inform any person who requests a confidential home address of the name of the agency that employs the individual whose address was requested.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 880, Sec. 1. Effective January 1, 1997.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "880",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1997-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "880",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1808.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1808.6.html",
+  "content_sha256": "a5cd8f738fc4363102e2b4d28369cc15afa4d3afa9622bd4994ddb8e5a14a111",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

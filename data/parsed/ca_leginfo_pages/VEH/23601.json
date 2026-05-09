@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23601",
+  "division": "11.5",
+  "division_title": "SENTENCING FOR DRIVING WHILE UNDER THE INFLUENCE",
+  "division_range": "23500 - 23675",
+  "chapter": "3",
+  "chapter_title": "Probation",
+  "chapter_range": "23600 - 23602",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "16.3",
+  "text": "(a) Except as provided in subdivision (c), an order to pay any fine, restitution, or assessment, imposed as a condition of the grant of probation or as part of a judgment of conditional sentence for a violation of Section 23152 or 23153, may be enforced in the same manner provided for the enforcement of money judgments.\n\n(b) A willful failure to pay any fine, restitution, or assessment during the term of probation is a violation of the terms and conditions of probation.\n\n(c) If an order to pay a fine as a condition of probation is stayed, a writ of execution shall not be issued, and any failure to pay the fine is not willful, until the stay is removed.",
+  "markdown": "# Vehicle Code\n## Division 11.5. SENTENCING FOR DRIVING WHILE UNDER THE INFLUENCE [23500 - 23675]\n### Chapter 3. Probation [23600 - 23602]\n##### § 23601\n\n(a) Except as provided in subdivision (c), an order to pay any fine, restitution, or assessment, imposed as a condition of the grant of probation or as part of a judgment of conditional sentence for a violation of Section 23152 or 23153, may be enforced in the same manner provided for the enforcement of money judgments.\n\n(b) A willful failure to pay any fine, restitution, or assessment during the term of probation is a violation of the terms and conditions of probation.\n\n(c) If an order to pay a fine as a condition of probation is stayed, a writ of execution shall not be issued, and any failure to pay the fine is not willful, until the stay is removed.\n\n*(Added by Stats. 1998, Ch. 118, Sec. 84. Effective January 1, 1999. Section operative July 1, 1999, pursuant to Section 23675.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in subdivision (c), an order to pay any fine, restitution, or assessment, imposed as a condition of the grant of probation or as part of a judgment of conditional sentence for a violation of Section 23152 or 23153, may be enforced in the same manner provided for the enforcement of money judgments.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A willful failure to pay any fine, restitution, or assessment during the term of probation is a violation of the terms and conditions of probation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "If an order to pay a fine as a condition of probation is stayed, a writ of execution shall not be issued, and any failure to pay the fine is not willful, until the stay is removed.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1998, Ch. 118, Sec. 84. Effective January 1, 1999. Section operative July 1, 1999, pursuant to Section 23675.)",
+    "action": "Added",
+    "statutes_year": 1998,
+    "chapter": "118",
+    "section": "84",
+    "bill_number": null,
+    "effective_date": "1999-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1998",
+  "op_chapter": "118",
+  "op_section": "84",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23601.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23601.html",
+  "content_sha256": "42d5d02a00a8ab95047f62d37c007e16d367be4bb24df6eb0ff1ee45481134d1",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

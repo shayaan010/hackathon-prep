@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2251",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "2",
+  "article_title": "The California Highway Patrol",
+  "article_range": "2250 - 2269",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.2",
+  "text": "All promotions to the classes of deputy chief, assistant chief, captain, lieutenant, and sergeant shall be made from promotional eligible lists resulting from promotional examination of persons in the next lower class.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 2. The California Highway Patrol [2250 - 2269]\n##### § 2251\n\nAll promotions to the classes of deputy chief, assistant chief, captain, lieutenant, and sergeant shall be made from promotional eligible lists resulting from promotional examination of persons in the next lower class.\n\n*(Amended by Stats. 1977, Ch. 615.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "All promotions to the classes of deputy chief, assistant chief, captain, lieutenant, and sergeant shall be made from promotional eligible lists resulting from promotional examination of persons in the next lower class.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1977, Ch. 615.)",
+    "action": "Amended",
+    "statutes_year": 1977,
+    "chapter": "615",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1977",
+  "op_chapter": "615",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2251.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2251.html",
+  "content_sha256": "970ab25ee1cdf3a30dec4d1ee5e0f5f598ae079d0a339eb5538c975906124634",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

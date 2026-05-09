@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9903",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "3",
+  "chapter_title": "Transfer of Title or Interest in Undocumented Vessel",
+  "chapter_range": "9900 - 9928",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.3",
+  "text": "(a) Prior to the issuance of any certificate of ownership the department shall obtain a statement in writing, signed by the transferee or transferor, showing:\n\n(1) The date of the sale or other transfer of ownership of the vessel.\n\n(2) The name and address of the seller or transferor.\n\n(3) The name and address of the buyer or transferee.\n\n(4) The total consideration (valued in money) given for the sale or other transfer of the vessel, including any motor or other component part of the vessel included in the sale or other transfer.\n\n(b) Upon the transfer of ownership of a vessel the department shall forward to the State Board of Equalization information from its records identifying the vessel together with the data required by subdivision (a). The information shall be transmitted as promptly as feasible and in such form and manner as shall be agreed between the department and the board.",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 3. Transfer of Title or Interest in Undocumented Vessel [9900 - 9928]\n##### § 9903\n\n(a) Prior to the issuance of any certificate of ownership the department shall obtain a statement in writing, signed by the transferee or transferor, showing:\n\n    (1) The date of the sale or other transfer of ownership of the vessel.\n\n    (2) The name and address of the seller or transferor.\n\n    (3) The name and address of the buyer or transferee.\n\n    (4) The total consideration (valued in money) given for the sale or other transfer of the vessel, including any motor or other component part of the vessel included in the sale or other transfer.\n\n(b) Upon the transfer of ownership of a vessel the department shall forward to the State Board of Equalization information from its records identifying the vessel together with the data required by subdivision (a). The information shall be transmitted as promptly as feasible and in such form and manner as shall be agreed between the department and the board.\n\n*(Added by Stats. 1970, Ch. 1428.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Prior to the issuance of any certificate of ownership the department shall obtain a statement in writing, signed by the transferee or transferor, showing:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The date of the sale or other transfer of ownership of the vessel.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The name and address of the seller or transferor.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The name and address of the buyer or transferee.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "The total consideration (valued in money) given for the sale or other transfer of the vessel, including any motor or other component part of the vessel included in the sale or other transfer.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Upon the transfer of ownership of a vessel the department shall forward to the State Board of Equalization information from its records identifying the vessel together with the data required by subdivision (a). The information shall be transmitted as promptly as feasible and in such form and manner as shall be agreed between the department and the board.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1970, Ch. 1428.)",
+    "action": "Added",
+    "statutes_year": 1970,
+    "chapter": "1428",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1970",
+  "op_chapter": "1428",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9903.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9903.html",
+  "content_sha256": "803902cef2554d3aa32777fab45cfc90257845fcf1a09d8d30a6381a0cdfb79f",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4004.7",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "1",
+  "article_title": "Vehicles Subject to Registration",
+  "article_range": "4000 - 4023",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.1",
+  "text": "(a) If the apportioned registration issued under Article 4 (commencing with Section 8050) of Chapter 4 for a commercial vehicle or vehicle combination that was last registered by a California resident has expired or has been terminated, the department, upon receipt of a completed application, a fee of thirty dollars ($30), and proof of financial responsibility for the vehicle, may issue an unladen operation permit to authorize the unladen operation of that vehicle or vehicle combination for a period of not more than 15 continuous days.\n\n(b) This section does not apply to any vehicle or vehicle combination for which any vehicle registration fees, other than those for the current year, vehicle license fees, or penalties, or any combination of those are due.\n\n(c) Operation of a laden vehicle or vehicle combination under an unladen operation permit issued pursuant to this section is an infraction.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 1. Vehicles Subject to Registration [4000 - 4023]\n##### § 4004.7\n\n(a) If the apportioned registration issued under Article 4 (commencing with Section 8050) of Chapter 4 for a commercial vehicle or vehicle combination that was last registered by a California resident has expired or has been terminated, the department, upon receipt of a completed application, a fee of thirty dollars ($30), and proof of financial responsibility for the vehicle, may issue an unladen operation permit to authorize the unladen operation of that vehicle or vehicle combination for a period of not more than 15 continuous days.\n\n(b) This section does not apply to any vehicle or vehicle combination for which any vehicle registration fees, other than those for the current year, vehicle license fees, or penalties, or any combination of those are due.\n\n(c) Operation of a laden vehicle or vehicle combination under an unladen operation permit issued pursuant to this section is an infraction.\n\n*(Added by Stats. 2001, Ch. 539, Sec. 9. Effective January 1, 2002.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If the apportioned registration issued under Article 4 (commencing with Section 8050) of Chapter 4 for a commercial vehicle or vehicle combination that was last registered by a California resident has expired or has been terminated, the department, upon receipt of a completed application, a fee of thirty dollars ($30), and proof of financial responsibility for the vehicle, may issue an unladen operation permit to authorize the unladen operation of that vehicle or vehicle combination for a period of not more than 15 continuous days.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to any vehicle or vehicle combination for which any vehicle registration fees, other than those for the current year, vehicle license fees, or penalties, or any combination of those are due.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Operation of a laden vehicle or vehicle combination under an unladen operation permit issued pursuant to this section is an infraction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2001, Ch. 539, Sec. 9. Effective January 1, 2002.)",
+    "action": "Added",
+    "statutes_year": 2001,
+    "chapter": "539",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": "2002-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "539",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4004.7.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4004.7.html",
+  "content_sha256": "a7f7ebfe85eea88c689850ca15a9a580c325f3f576e3ba80aed09b5ea302dff6",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

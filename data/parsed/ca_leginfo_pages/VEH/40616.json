@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40616",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "4",
+  "article_title": "Notice to Correct Violation",
+  "article_range": "40610 - 40618",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.4",
+  "text": "Any person willfully violating a written promise to correct or willfully failing to deliver proof of correction of violation is guilty of a misdemeanor. Proof of correction may consist of a certification by an authorized representative of one of the following agencies that the alleged violation has been corrected:\n\n(a) Brake, lamp, smog device, or muffler violations may be certified as corrected by any station licensed or contracted to inspect and certify for the violation pursuant to Article 6.5 (commencing with Section 9888.5) of Chapter 20.3 of Division 3 of the Business and Professions Code or Section 27150.2.\n\n(b) Driver license and registration violations may be certified as corrected by the Department of Motor Vehicles or by any clerk or deputy clerk of a court.\n\n(c) Any violation may be certified as corrected by a police department, the California Highway Patrol, sheriff, marshal, or other law enforcement agency regularly engaged in enforcement of the Vehicle Code.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 4. Notice to Correct Violation [40610 - 40618]\n##### § 40616\n\nAny person willfully violating a written promise to correct or willfully failing to deliver proof of correction of violation is guilty of a misdemeanor. Proof of correction may consist of a certification by an authorized representative of one of the following agencies that the alleged violation has been corrected:\n\n(a) Brake, lamp, smog device, or muffler violations may be certified as corrected by any station licensed or contracted to inspect and certify for the violation pursuant to Article 6.5 (commencing with Section 9888.5) of Chapter 20.3 of Division 3 of the Business and Professions Code or Section 27150.2.\n\n(b) Driver license and registration violations may be certified as corrected by the Department of Motor Vehicles or by any clerk or deputy clerk of a court.\n\n(c) Any violation may be certified as corrected by a police department, the California Highway Patrol, sheriff, marshal, or other law enforcement agency regularly engaged in enforcement of the Vehicle Code.\n\n*(Amended by Stats. 2023, Ch. 681, Sec. 27. (AB 1263) Effective January 1, 2024.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any person willfully violating a written promise to correct or willfully failing to deliver proof of correction of violation is guilty of a misdemeanor. Proof of correction may consist of a certification by an authorized representative of one of the following agencies that the alleged violation has been corrected:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Brake, lamp, smog device, or muffler violations may be certified as corrected by any station licensed or contracted to inspect and certify for the violation pursuant to Article 6.5 (commencing with Section 9888.5) of Chapter 20.3 of Division 3 of the Business and Professions Code or Section 27150.2.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Driver license and registration violations may be certified as corrected by the Department of Motor Vehicles or by any clerk or deputy clerk of a court.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any violation may be certified as corrected by a police department, the California Highway Patrol, sheriff, marshal, or other law enforcement agency regularly engaged in enforcement of the Vehicle Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2023, Ch. 681, Sec. 27. (AB 1263) Effective January 1, 2024.)",
+    "action": "Amended",
+    "statutes_year": 2023,
+    "chapter": "681",
+    "section": "27",
+    "bill_number": "AB 1263",
+    "effective_date": "2024-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2023",
+  "op_chapter": "681",
+  "op_section": "27",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40616.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40616.html",
+  "content_sha256": "e1eb110ee2cd241c6b735a0d4c8ba683b20728533ce71b0e561289bce7df0327",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

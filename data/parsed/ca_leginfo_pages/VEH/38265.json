@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38265",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "2",
+  "chapter_title": "Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership",
+  "chapter_range": "38010 - 38265",
+  "article": "9",
+  "article_title": "Identification Fees",
+  "article_range": "38225 - 38265",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.2.9",
+  "text": "(a) The penalty for delinquency in respect to any transfer shall be fifteen dollars ($15), and shall apply only to the last transfer.\n\n(b) The penalty for delinquency in respect to the fees imposed by Sections 38225 and 38230 shall be equal to one-half the fee after it has been computed.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 2. Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership [38010 - 38265]\n#### Article 9. Identification Fees [38225 - 38265]\n##### § 38265\n\n(a) The penalty for delinquency in respect to any transfer shall be fifteen dollars ($15), and shall apply only to the last transfer.\n\n(b) The penalty for delinquency in respect to the fees imposed by Sections 38225 and 38230 shall be equal to one-half the fee after it has been computed.\n\n*(Amended by Stats. 2003, Ch. 719, Sec. 34. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The penalty for delinquency in respect to any transfer shall be fifteen dollars ($15), and shall apply only to the last transfer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The penalty for delinquency in respect to the fees imposed by Sections 38225 and 38230 shall be equal to one-half the fee after it has been computed.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 719, Sec. 34. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "719",
+    "section": "34",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "719",
+  "op_section": "34",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38265.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38265.html",
+  "content_sha256": "d0bd333cdd0f9ab437b29aa6ccdf50a45a37c2dc3ac7913bcb0fddb0c6da7e27",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

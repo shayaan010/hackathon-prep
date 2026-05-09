@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "14906",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "5",
+  "chapter_title": "License Fees",
+  "chapter_range": "14900 - 14911",
+  "article": "1",
+  "article_title": "Imposition of Fees",
+  "article_range": "14900 - 14907",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.5.1",
+  "text": "(a) In addition to the fees required by Section 14904, the department may require payment of a fee sufficient to pay the actual costs, as determined by the department, for giving any notices in connection with suspensions or revocations in accordance with Sections 22, 29, and 13106.\n\n(b) This section does not apply to any suspension or revocation that is set aside by the department or a court.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 5. License Fees [14900 - 14911]\n#### Article 1. Imposition of Fees [14900 - 14907]\n##### § 14906\n\n(a) In addition to the fees required by Section 14904, the department may require payment of a fee sufficient to pay the actual costs, as determined by the department, for giving any notices in connection with suspensions or revocations in accordance with Sections 22, 29, and 13106.\n\n(b) This section does not apply to any suspension or revocation that is set aside by the department or a court.\n\n*(Amended by Stats. 1994, Ch. 1221, Sec. 15. Effective January 1, 1995.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In addition to the fees required by Section 14904, the department may require payment of a fee sufficient to pay the actual costs, as determined by the department, for giving any notices in connection with suspensions or revocations in accordance with Sections 22, 29, and 13106.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to any suspension or revocation that is set aside by the department or a court.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 1221, Sec. 15. Effective January 1, 1995.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "1221",
+    "section": "15",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "1221",
+  "op_section": "15",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=14906.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/14906.html",
+  "content_sha256": "2a3c2d786ff1805fd194ba5d4b0607e0a66f4d792af12b7921a62f1bc4cef1ae",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

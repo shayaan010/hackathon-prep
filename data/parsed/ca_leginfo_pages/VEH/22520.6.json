@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22520.6",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "(a) No person shall engage in any activity within a highway roadside rest area or vista point prohibited by rules and regulations adopted pursuant to Section 225 of the Streets and Highways Code.\n\n(b) A violation of this section is an infraction. A second or subsequent conviction of a violation of this section is a misdemeanor.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22520.6\n\n(a) No person shall engage in any activity within a highway roadside rest area or vista point prohibited by rules and regulations adopted pursuant to Section 225 of the Streets and Highways Code.\n\n(b) A violation of this section is an infraction. A second or subsequent conviction of a violation of this section is a misdemeanor.\n\n*(Added by Stats. 1983, Ch. 275, Sec. 3. Effective July 15, 1983.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall engage in any activity within a highway roadside rest area or vista point prohibited by rules and regulations adopted pursuant to Section 225 of the Streets and Highways Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A violation of this section is an infraction. A second or subsequent conviction of a violation of this section is a misdemeanor.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1983, Ch. 275, Sec. 3. Effective July 15, 1983.)",
+    "action": "Added",
+    "statutes_year": 1983,
+    "chapter": "275",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "1983-07-15",
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "275",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22520.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22520.6.html",
+  "content_sha256": "03a876f854252eccabeaef6cab2e24388ff756077f7604e46920624cef109716",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

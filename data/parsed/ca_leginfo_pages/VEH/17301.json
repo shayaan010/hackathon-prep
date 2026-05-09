@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "17301",
+  "division": "9",
+  "division_title": "CIVIL LIABILITY",
+  "division_range": "17000 - 17714",
+  "chapter": "1",
+  "chapter_title": "Civil Liability of Owners and Operators of Vehicles",
+  "chapter_range": "17000 - 17463",
+  "article": "3",
+  "article_title": "Liability for Damage to Highway",
+  "article_range": "17300 - 17303",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "13.1.4",
+  "text": "(a) Any person driving any vehicle, object, or contrivance over a highway or bridge is liable for all damages which the highway or bridge may sustain as a result of any illegal operation, driving or moving of the vehicle, object, or contrivance, or as a result of operating, driving, or moving any vehicle, object, or contrivance weighing in excess of the maximum weight specified in this code which is operated under a special permit issued by the Department of Transportation.\n\n(b) Whenever the driver is not the owner of the vehicle, object, or contrivance but is operating, driving, or moving the same with the express or implied permission of the owner, the owner and driver are jointly and severally liable for the damage.",
+  "markdown": "# Vehicle Code\n## Division 9. CIVIL LIABILITY [17000 - 17714]\n### Chapter 1. Civil Liability of Owners and Operators of Vehicles [17000 - 17463]\n#### Article 3. Liability for Damage to Highway [17300 - 17303]\n##### § 17301\n\n(a) Any person driving any vehicle, object, or contrivance over a highway or bridge is liable for all damages which the highway or bridge may sustain as a result of any illegal operation, driving or moving of the vehicle, object, or contrivance, or as a result of operating, driving, or moving any vehicle, object, or contrivance weighing in excess of the maximum weight specified in this code which is operated under a special permit issued by the Department of Transportation.\n\n(b) Whenever the driver is not the owner of the vehicle, object, or contrivance but is operating, driving, or moving the same with the express or implied permission of the owner, the owner and driver are jointly and severally liable for the damage.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any person driving any vehicle, object, or contrivance over a highway or bridge is liable for all damages which the highway or bridge may sustain as a result of any illegal operation, driving or moving of the vehicle, object, or contrivance, or as a result of operating, driving, or moving any vehicle, object, or contrivance weighing in excess of the maximum weight specified in this code which is operated under a special permit issued by the Department of Transportation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Whenever the driver is not the owner of the vehicle, object, or contrivance but is operating, driving, or moving the same with the express or implied permission of the owner, the owner and driver are jointly and severally liable for the damage.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17301.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/17301.html",
+  "content_sha256": "8d16cbe7bfaff3263fdc694a676c2643aef5e7552926e285c307b403b6b23d3d",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

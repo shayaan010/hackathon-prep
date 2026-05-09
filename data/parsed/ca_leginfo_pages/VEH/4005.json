@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4005",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "1",
+  "article_title": "Vehicles Subject to Registration",
+  "article_range": "4000 - 4023",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.1",
+  "text": "Any vehicle subject to registration may be operated within a disaster area or region for the purpose of assisting in disaster relief work, under a special permit to be issued by the department for such purpose, without the registration of such vehicle.\n\nSaid permit shall be issued only if the Department of Transportation or the responsible local authority has determined that the vehicle is necessary for such purpose, and shall be valid only during a period of a state of emergency as proclaimed by the Governor under the provisions of the California Emergency Services Act.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 1. Vehicles Subject to Registration [4000 - 4023]\n##### § 4005\n\nAny vehicle subject to registration may be operated within a disaster area or region for the purpose of assisting in disaster relief work, under a special permit to be issued by the department for such purpose, without the registration of such vehicle.\n\nSaid permit shall be issued only if the Department of Transportation or the responsible local authority has determined that the vehicle is necessary for such purpose, and shall be valid only during a period of a state of emergency as proclaimed by the Governor under the provisions of the California Emergency Services Act.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any vehicle subject to registration may be operated within a disaster area or region for the purpose of assisting in disaster relief work, under a special permit to be issued by the department for such purpose, without the registration of such vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Said permit shall be issued only if the Department of Transportation or the responsible local authority has determined that the vehicle is necessary for such purpose, and shall be valid only during a period of a state of emergency as proclaimed by the Governor under the provisions of the California Emergency Services Act.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4005.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4005.html",
+  "content_sha256": "4ee9671aaf686457b28dc0f5b34fdb8f39ef1db10246cb864c5930e2392976e5",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

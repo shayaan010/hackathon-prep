@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4152.5",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "2",
+  "article_title": "Original Registration",
+  "article_range": "4150 - 4166",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.2",
+  "text": "Except as provided for in subdivision (c) of Section 9553, when California registration is required of a vehicle last registered in a foreign jurisdiction, an application for registration shall be made to the department within 20 days following the date registration became due. The application shall be deemed an original application.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 2. Original Registration [4150 - 4166]\n##### § 4152.5\n\nExcept as provided for in subdivision (c) of Section 9553, when California registration is required of a vehicle last registered in a foreign jurisdiction, an application for registration shall be made to the department within 20 days following the date registration became due. The application shall be deemed an original application.\n\n*(Amended by Stats. 2000, Ch. 1035, Sec. 7. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Except as provided for in subdivision (c) of Section 9553, when California registration is required of a vehicle last registered in a foreign jurisdiction, an application for registration shall be made to the department within 20 days following the date registration became due. The application shall be deemed an original application.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2000, Ch. 1035, Sec. 7. Effective January 1, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2000,
+    "chapter": "1035",
+    "section": "7",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "1035",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4152.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4152.5.html",
+  "content_sha256": "b36e3fbd37e2f62deeca542214974389f01efbb35e5d7eef5fbb773e02cf5541",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

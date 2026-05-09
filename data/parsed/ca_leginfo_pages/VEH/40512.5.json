@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40512.5",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "2",
+  "article_title": "Release Upon Promise to Appear",
+  "article_range": "40500 - 40522",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.2",
+  "text": "(a) Except as specified in subdivision (b), if at the time the case is called for trial the defendant does not appear, either in person or by counsel, and has not requested in writing that the trial proceed in his or her absence, the court may declare the bail forfeited and may, in its discretion, order that no further proceedings be had in the case, or the court may act pursuant to Section 1043 of the Penal Code. However, if the defendant has been charged with a violation of Section 23111 or 23112, or subdivision (a) of Section 23113, and he or she has been previously convicted of a violation of the same section, the court may declare the bail forfeited, but shall issue a bench warrant for the arrest of the person charged, except if the magistrate finds that undue hardship will be imposed upon the defendant by requiring him or her to appear, the magistrate may declare the bail forfeited and order that no further proceedings shall be had in the case.\n\n(b) If the defendant has posted surety bail and the magistrate has ordered the bail forfeited and that no further proceedings shall be had in the case, the bail retains the right to obtain relief from the forfeiture as provided in Section 1305 of the Penal Code if the amount of the bond, money, or property deposited exceeds seven hundred dollars ($700).",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 2. Release Upon Promise to Appear [40500 - 40522]\n##### § 40512.5\n\n(a) Except as specified in subdivision (b), if at the time the case is called for trial the defendant does not appear, either in person or by counsel, and has not requested in writing that the trial proceed in his or her absence, the court may declare the bail forfeited and may, in its discretion, order that no further proceedings be had in the case, or the court may act pursuant to Section 1043 of the Penal Code. However, if the defendant has been charged with a violation of Section 23111 or 23112, or subdivision (a) of Section 23113, and he or she has been previously convicted of a violation of the same section, the court may declare the bail forfeited, but shall issue a bench warrant for the arrest of the person charged, except if the magistrate finds that undue hardship will be imposed upon the defendant by requiring him or her to appear, the magistrate may declare the bail forfeited and order that no further proceedings shall be had in the case.\n\n(b) If the defendant has posted surety bail and the magistrate has ordered the bail forfeited and that no further proceedings shall be had in the case, the bail retains the right to obtain relief from the forfeiture as provided in Section 1305 of the Penal Code if the amount of the bond, money, or property deposited exceeds seven hundred dollars ($700).\n\n*(Amended by Stats. 1993, Ch. 524, Sec. 7. Effective January 1, 1994.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as specified in subdivision (b), if at the time the case is called for trial the defendant does not appear, either in person or by counsel, and has not requested in writing that the trial proceed in his or her absence, the court may declare the bail forfeited and may, in its discretion, order that no further proceedings be had in the case, or the court may act pursuant to Section 1043 of the Penal Code. However, if the defendant has been charged with a violation of Section 23111 or 23112, or subdivision (a) of Section 23113, and he or she has been previously convicted of a violation of the same section, the court may declare the bail forfeited, but shall issue a bench warrant for the arrest of the person charged, except if the magistrate finds that undue hardship will be imposed upon the defendant by requiring him or her to appear, the magistrate may declare the bail forfeited and order that no further proceedings shall be had in the case.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If the defendant has posted surety bail and the magistrate has ordered the bail forfeited and that no further proceedings shall be had in the case, the bail retains the right to obtain relief from the forfeiture as provided in Section 1305 of the Penal Code if the amount of the bond, money, or property deposited exceeds seven hundred dollars ($700).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1993, Ch. 524, Sec. 7. Effective January 1, 1994.)",
+    "action": "Amended",
+    "statutes_year": 1993,
+    "chapter": "524",
+    "section": "7",
+    "bill_number": null,
+    "effective_date": "1994-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1993",
+  "op_chapter": "524",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40512.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40512.5.html",
+  "content_sha256": "61b91c6cbd069b35ad0a7ac4dd4696ac92cfcc82d4e3e353c91f51e645bc8cf0",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

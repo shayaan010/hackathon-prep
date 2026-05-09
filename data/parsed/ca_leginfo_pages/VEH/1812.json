@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1812",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "The department shall not charge for copies of records or for information from its records given to any county, city, any transit operator as defined in Section 99210 of the Public Utilities Code, state department, or the United States government.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1812\n\nThe department shall not charge for copies of records or for information from its records given to any county, city, any transit operator as defined in Section 99210 of the Public Utilities Code, state department, or the United States government.\n\n*(Amended by Stats. 1987, Ch. 726, Sec. 4. Operative July 1, 1988, by Sec. 11 of Ch. 726.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department shall not charge for copies of records or for information from its records given to any county, city, any transit operator as defined in Section 99210 of the Public Utilities Code, state department, or the United States government.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1987, Ch. 726, Sec. 4. Operative July 1, 1988, by Sec. 11 of Ch. 726.)",
+    "action": "Amended",
+    "statutes_year": 1987,
+    "chapter": "726",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": "1988-07-01"
+  },
+  "op_statues": "1987",
+  "op_chapter": "726",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1812.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1812.html",
+  "content_sha256": "ec5b20a5c65d6b0f7dad39baf308b6baf0562c85c1b2783e0d610a461696f2ee",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

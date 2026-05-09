@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40000.22",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "(a) A violation of subdivision (e) of Section 34501, subdivision (b) or (d) of Section 34501.12, or subdivision (c) of Section 34501.14, relating to applications for inspections, is a misdemeanor and not an infraction.\n\n(b) A violation of Division 14.85 (commencing with Section 34600), relating to motor carriers of property, is a misdemeanor and not an infraction.\n\n(c) This section shall become operative on January 1, 2016.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40000.22\n\n(a) A violation of subdivision (e) of Section 34501, subdivision (b) or (d) of Section 34501.12, or subdivision (c) of Section 34501.14, relating to applications for inspections, is a misdemeanor and not an infraction.\n\n(b) A violation of Division 14.85 (commencing with Section 34600), relating to motor carriers of property, is a misdemeanor and not an infraction.\n\n(c) This section shall become operative on January 1, 2016.\n\n*(Repealed (in Sec. 19) and added by Stats. 2013, Ch. 500, Sec. 20. (AB 529) Effective January 1, 2014. Section operative January 1, 2016, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A violation of subdivision (e) of Section 34501, subdivision (b) or (d) of Section 34501.12, or subdivision (c) of Section 34501.14, relating to applications for inspections, is a misdemeanor and not an infraction.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A violation of Division 14.85 (commencing with Section 34600), relating to motor carriers of property, is a misdemeanor and not an infraction.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section shall become operative on January 1, 2016.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed (in Sec. 19) and added by Stats. 2013, Ch. 500, Sec. 20. (AB 529) Effective January 1, 2014. Section operative January 1, 2016, by its own provisions.)",
+    "action": "Repealed",
+    "statutes_year": 2013,
+    "chapter": "500",
+    "section": "20",
+    "bill_number": "AB 529",
+    "effective_date": "2014-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2013",
+  "op_chapter": "500",
+  "op_section": "20",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40000.22.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40000.22.html",
+  "content_sha256": "24b629aa5b533ae7dd5e87ae8a18f6e20e38f17bb807a663623a079c87d21c7f",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

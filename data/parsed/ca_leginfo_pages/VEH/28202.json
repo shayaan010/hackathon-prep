@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28202",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "6",
+  "chapter_title": "Connected Vehicle Service",
+  "chapter_range": "28200 - 28244",
+  "article": "1",
+  "article_title": "General Provisions",
+  "article_range": "28200 - 28210",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.6.1",
+  "text": "(a) A vehicle with connected vehicle service shall clearly indicate to a person who is inside the vehicle when a person who is outside the vehicle has accessed either of the following:\n\n(1) Connected vehicle service.\n\n(2) Connected vehicle location access.\n\n(b) This section shall become operative on January 1, 2028.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 6. Connected Vehicle Service [28200 - 28244]\n#### Article 1. General Provisions [28200 - 28210]\n##### § 28202\n\n(a) A vehicle with connected vehicle service shall clearly indicate to a person who is inside the vehicle when a person who is outside the vehicle has accessed either of the following:\n\n    (1) Connected vehicle service.\n\n    (2) Connected vehicle location access.\n\n(b) This section shall become operative on January 1, 2028.\n\n*(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025. Operative January 1, 2028, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A vehicle with connected vehicle service shall clearly indicate to a person who is inside the vehicle when a person who is outside the vehicle has accessed either of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Connected vehicle service.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Connected vehicle location access.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "This section shall become operative on January 1, 2028.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2024, Ch. 655, Sec. 2. (SB 1394) Effective January 1, 2025. Operative January 1, 2028, by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 2024,
+    "chapter": "655",
+    "section": "2",
+    "bill_number": "SB 1394",
+    "effective_date": "2025-01-01",
+    "operative_date": "2028-01-01"
+  },
+  "op_statues": "2024",
+  "op_chapter": "655",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28202.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28202.html",
+  "content_sha256": "24c579ed2a52726737d37d6adb7fd2c35f54572d8fdea7eb16db201ff48dbe14",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

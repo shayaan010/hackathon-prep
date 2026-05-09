@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4023",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "1",
+  "article_title": "Vehicles Subject to Registration",
+  "article_range": "4000 - 4023",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.1",
+  "text": "A low-speed vehicle operated pursuant to Section 21115 or 21115.1 is exempt from registration.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 1. Vehicles Subject to Registration [4000 - 4023]\n##### § 4023\n\nA low-speed vehicle operated pursuant to Section 21115 or 21115.1 is exempt from registration.\n\n*(Added by Stats. 1999, Ch. 140, Sec. 2. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A low-speed vehicle operated pursuant to Section 21115 or 21115.1 is exempt from registration.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1999, Ch. 140, Sec. 2. Effective January 1, 2000.)",
+    "action": "Added",
+    "statutes_year": 1999,
+    "chapter": "140",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "140",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4023.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4023.html",
+  "content_sha256": "14b52bd66680995c1ae23c0be773801b41231c6e1ae2fbeed1f7cf39f0c8bbb0",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9980",
+  "division": "3.6",
+  "division_title": "VEHICLE SALES",
+  "division_range": "9950 - 9993",
+  "chapter": "3",
+  "chapter_title": "Engine Manufacturers",
+  "chapter_range": "9980 - 9982",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "6.3",
+  "text": "If the manufacturer of the engine of a new motor vehicle is different from the manufacturer of the vehicle, the vehicle shall be labeled as required by Section 9981.\n\nFor purposes of this chapter, the manufacturer of a motor vehicle engine is different from the vehicle manufacturer if a majority of parts, or most of the work of assembly, of the engine is provided by a person other than the vehicle manufacturer or a subsidiary or affiliate of the vehicle manufacturer. For purposes of this chapter, an “affiliate” is an entity that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the manufacturer of the vehicle.",
+  "markdown": "# Vehicle Code\n## Division 3.6. VEHICLE SALES [9950 - 9993]\n### Chapter 3. Engine Manufacturers [9980 - 9982]\n##### § 9980\n\nIf the manufacturer of the engine of a new motor vehicle is different from the manufacturer of the vehicle, the vehicle shall be labeled as required by Section 9981.\n\nFor purposes of this chapter, the manufacturer of a motor vehicle engine is different from the vehicle manufacturer if a majority of parts, or most of the work of assembly, of the engine is provided by a person other than the vehicle manufacturer or a subsidiary or affiliate of the vehicle manufacturer. For purposes of this chapter, an “affiliate” is an entity that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the manufacturer of the vehicle.\n\n*(Amended by Stats. 2000, Ch. 135, Sec. 156. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "If the manufacturer of the engine of a new motor vehicle is different from the manufacturer of the vehicle, the vehicle shall be labeled as required by Section 9981.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "For purposes of this chapter, the manufacturer of a motor vehicle engine is different from the vehicle manufacturer if a majority of parts, or most of the work of assembly, of the engine is provided by a person other than the vehicle manufacturer or a subsidiary or affiliate of the vehicle manufacturer. For purposes of this chapter, an “affiliate” is an entity that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the manufacturer of the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2000, Ch. 135, Sec. 156. Effective January 1, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2000,
+    "chapter": "135",
+    "section": "156",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "135",
+  "op_section": "156",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9980.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9980.html",
+  "content_sha256": "e32804b9726ce32686a088ad64257cb65b3d366933ed2a887dec0e765558d5fc",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

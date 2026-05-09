@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35716",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "4",
+  "article_title": "Local Authorities",
+  "article_range": "35700 - 35722",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.5",
+  "text": "No ordinance adopted by a city to decrease weight limits shall apply to any vehicle owned, leased, operated or controlled by any licensed contractor while necessarily in use in the construction, maintenance, or repair of a public works project, or by any highway carrier regulated by the Public Utilities Commission while transporting any materials to or from a public works project, when the bids were opened prior to the adoption of the ordinance unless an alternate direct route is provided substantially within and by the city enacting the ordinance.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 4. Local Authorities [35700 - 35722]\n##### § 35716\n\nNo ordinance adopted by a city to decrease weight limits shall apply to any vehicle owned, leased, operated or controlled by any licensed contractor while necessarily in use in the construction, maintenance, or repair of a public works project, or by any highway carrier regulated by the Public Utilities Commission while transporting any materials to or from a public works project, when the bids were opened prior to the adoption of the ordinance unless an alternate direct route is provided substantially within and by the city enacting the ordinance.\n\n*(Amended by Stats. 1969, Ch. 393.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No ordinance adopted by a city to decrease weight limits shall apply to any vehicle owned, leased, operated or controlled by any licensed contractor while necessarily in use in the construction, maintenance, or repair of a public works project, or by any highway carrier regulated by the Public Utilities Commission while transporting any materials to or from a public works project, when the bids were opened prior to the adoption of the ordinance unless an alternate direct route is provided substantially within and by the city enacting the ordinance.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1969, Ch. 393.)",
+    "action": "Amended",
+    "statutes_year": 1969,
+    "chapter": "393",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1969",
+  "op_chapter": "393",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35716.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35716.html",
+  "content_sha256": "8c69a77fb452da1c874c9a419adbc97fb58a473f27f63c252272cf9b4efc8bbd",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

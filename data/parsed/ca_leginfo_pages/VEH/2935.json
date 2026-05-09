@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2935",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "5",
+  "chapter_title": "California Traffic Safety Program",
+  "chapter_range": "2900 - 2935",
+  "article": "2",
+  "article_title": "Motorcycle Safety",
+  "article_range": "2930 - 2935",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.5.2",
+  "text": "The Department of Motor Vehicles shall, in addition to other fees, collect a fee of two dollars ($2) upon initial registration and renewal of registration of every motorcycle subject to registration fees. These additional fees shall be deposited in the fund.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 5. California Traffic Safety Program [2900 - 2935]\n#### Article 2. Motorcycle Safety [2930 - 2935]\n##### § 2935\n\nThe Department of Motor Vehicles shall, in addition to other fees, collect a fee of two dollars ($2) upon initial registration and renewal of registration of every motorcycle subject to registration fees. These additional fees shall be deposited in the fund.\n\n*(Added by Stats. 1985, Ch. 547, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The Department of Motor Vehicles shall, in addition to other fees, collect a fee of two dollars ($2) upon initial registration and renewal of registration of every motorcycle subject to registration fees. These additional fees shall be deposited in the fund.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1985, Ch. 547, Sec. 2.)",
+    "action": "Added",
+    "statutes_year": 1985,
+    "chapter": "547",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1985",
+  "op_chapter": "547",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2935.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2935.html",
+  "content_sha256": "5329f5d026cee589ac4e9262ee62f8beb0d34c20bba6feee3ecd82a1a4e2193d",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

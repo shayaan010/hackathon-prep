@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9880",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "2",
+  "chapter_title": "Registration",
+  "chapter_range": "9850 - 9880",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.2",
+  "text": "(a) The department shall not renew the certificate of number of, or allow a transfer of any title to or interest in, a vessel if the county tax collector has notified the department pursuant to Section 3205 of the Revenue and Taxation Code, that taxes are delinquent upon the vessel, and the department shall not subsequently issue a certificate of number for, or a new certificate of ownership reflecting a transfer of title to or interest in, that vessel until the department receives a certificate of clearance from the county tax collector that the delinquent taxes have been paid on that vessel or until the county tax collector has provided notice to the department that the delinquency has been satisfied.\n\n(b) The department shall record the notice of delinquent taxes on the vessel. If the department is notified by the county tax collector that the delinquency has been satisfied, the department shall, if all other requirements are satisfied, issue a certificate of number for, or a new certificate of ownership reflecting a transfer of title to or interest in, the vessel. The department shall assess a fee upon each county tax collector in an amount that is sufficient to reimburse the department for its actual costs of administering this section.\n\n(c) Whenever a vessel subject to this section is transferred, or not renewed for 26 months, the department shall notify the county tax collector of that fact.",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 2. Registration [9850 - 9880]\n##### § 9880\n\n(a) The department shall not renew the certificate of number of, or allow a transfer of any title to or interest in, a vessel if the county tax collector has notified the department pursuant to Section 3205 of the Revenue and Taxation Code, that taxes are delinquent upon the vessel, and the department shall not subsequently issue a certificate of number for, or a new certificate of ownership reflecting a transfer of title to or interest in, that vessel until the department receives a certificate of clearance from the county tax collector that the delinquent taxes have been paid on that vessel or until the county tax collector has provided notice to the department that the delinquency has been satisfied.\n\n(b) The department shall record the notice of delinquent taxes on the vessel. If the department is notified by the county tax collector that the delinquency has been satisfied, the department shall, if all other requirements are satisfied, issue a certificate of number for, or a new certificate of ownership reflecting a transfer of title to or interest in, the vessel. The department shall assess a fee upon each county tax collector in an amount that is sufficient to reimburse the department for its actual costs of administering this section.\n\n(c) Whenever a vessel subject to this section is transferred, or not renewed for 26 months, the department shall notify the county tax collector of that fact.\n\n*(Amended by Stats. 1997, Ch. 546, Sec. 13. Effective January 1, 1998.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall not renew the certificate of number of, or allow a transfer of any title to or interest in, a vessel if the county tax collector has notified the department pursuant to Section 3205 of the Revenue and Taxation Code, that taxes are delinquent upon the vessel, and the department shall not subsequently issue a certificate of number for, or a new certificate of ownership reflecting a transfer of title to or interest in, that vessel until the department receives a certificate of clearance from the county tax collector that the delinquent taxes have been paid on that vessel or until the county tax collector has provided notice to the department that the delinquency has been satisfied.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall record the notice of delinquent taxes on the vessel. If the department is notified by the county tax collector that the delinquency has been satisfied, the department shall, if all other requirements are satisfied, issue a certificate of number for, or a new certificate of ownership reflecting a transfer of title to or interest in, the vessel. The department shall assess a fee upon each county tax collector in an amount that is sufficient to reimburse the department for its actual costs of administering this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Whenever a vessel subject to this section is transferred, or not renewed for 26 months, the department shall notify the county tax collector of that fact.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1997, Ch. 546, Sec. 13. Effective January 1, 1998.)",
+    "action": "Amended",
+    "statutes_year": 1997,
+    "chapter": "546",
+    "section": "13",
+    "bill_number": null,
+    "effective_date": "1998-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1997",
+  "op_chapter": "546",
+  "op_section": "13",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9880.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9880.html",
+  "content_sha256": "e53e3ff899d0a2a901f1bbc6c8e86813383b88c0bf6059ec96860061e6071de2",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

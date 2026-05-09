@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9553",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "6",
+  "chapter_title": "Registration and Weight Fees",
+  "chapter_range": "9101 - 9808",
+  "article": "4",
+  "article_title": "Payment of Fees",
+  "article_range": "9550 - 9564",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.7.4",
+  "text": "(a) A penalty shall be added upon any delinquent application as provided in Section 9552, except as provided in Section 4604 or 9706, or in subdivision (b).\n\n(b) When renewal fee penalties have not accrued with respect to a vehicle and the vehicle is transferred, the transferee has 20 days from the date of the transfer to pay the registration fees which become due without payment of penalties or to file a certification pursuant to subdivision (a) of Section 4604 if the vehicle will not be operated, moved, or left standing upon any highway during the subsequent registration year, except as provided in subdivision (c).\n\n(c) (1) A dealer or lessor-retailer submitting an application for registration or transfer of a used vehicle shall have 30 days from the date of sale to submit the fees, without the penalty that otherwise would be required under subdivision (a).\n\n(2) This subdivision does not apply to penalties due or accrued prior to the date of sale by the dealer or lessor-retailer.\n\n(d) A penalty shall be added if the fees specified in Section 9255 are not paid within 20 days after they become delinquent.\n\n(e) In addition to the imposition of monetary fines or fees as specified in this section, delinquent registration may result in impoundment of the vehicle pursuant to Section 22651.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 6. Registration and Weight Fees [9101 - 9808]\n#### Article 4. Payment of Fees [9550 - 9564]\n##### § 9553\n\n(a) A penalty shall be added upon any delinquent application as provided in Section 9552, except as provided in Section 4604 or 9706, or in subdivision (b).\n\n(b) When renewal fee penalties have not accrued with respect to a vehicle and the vehicle is transferred, the transferee has 20 days from the date of the transfer to pay the registration fees which become due without payment of penalties or to file a certification pursuant to subdivision (a) of Section 4604 if the vehicle will not be operated, moved, or left standing upon any highway during the subsequent registration year, except as provided in subdivision (c).\n\n(c) (1) A dealer or lessor-retailer submitting an application for registration or transfer of a used vehicle shall have 30 days from the date of sale to submit the fees, without the penalty that otherwise would be required under subdivision (a).\n\n    (2) This subdivision does not apply to penalties due or accrued prior to the date of sale by the dealer or lessor-retailer.\n\n(d) A penalty shall be added if the fees specified in Section 9255 are not paid within 20 days after they become delinquent.\n\n(e) In addition to the imposition of monetary fines or fees as specified in this section, delinquent registration may result in impoundment of the vehicle pursuant to Section 22651.\n\n*(Amended by Stats. 2002, Ch. 805, Sec. 14. Effective September 23, 2002.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A penalty shall be added upon any delinquent application as provided in Section 9552, except as provided in Section 4604 or 9706, or in subdivision (b).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When renewal fee penalties have not accrued with respect to a vehicle and the vehicle is transferred, the transferee has 20 days from the date of the transfer to pay the registration fees which become due without payment of penalties or to file a certification pursuant to subdivision (a) of Section 4604 if the vehicle will not be operated, moved, or left standing upon any highway during the subsequent registration year, except as provided in subdivision (c).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "(1) A dealer or lessor-retailer submitting an application for registration or transfer of a used vehicle shall have 30 days from the date of sale to submit the fees, without the penalty that otherwise would be required under subdivision (a).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "This subdivision does not apply to penalties due or accrued prior to the date of sale by the dealer or lessor-retailer.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "d",
+      "text": "A penalty shall be added if the fees specified in Section 9255 are not paid within 20 days after they become delinquent.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "In addition to the imposition of monetary fines or fees as specified in this section, delinquent registration may result in impoundment of the vehicle pursuant to Section 22651.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2002, Ch. 805, Sec. 14. Effective September 23, 2002.)",
+    "action": "Amended",
+    "statutes_year": 2002,
+    "chapter": "805",
+    "section": "14",
+    "bill_number": null,
+    "effective_date": "2002-09-23",
+    "operative_date": null
+  },
+  "op_statues": "2002",
+  "op_chapter": "805",
+  "op_section": "14",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9553.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9553.html",
+  "content_sha256": "a73f32de6806f1eaf7ca97d1dde838ac8750153486865cbec9b8f640d2bf89ba",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

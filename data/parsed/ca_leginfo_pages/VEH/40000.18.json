@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40000.18",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "A violation of subdivision (b) of Section 31401 or Section 31402 or 31403, relating to farm labor vehicles, is a misdemeanor and not an infraction.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40000.18\n\nA violation of subdivision (b) of Section 31401 or Section 31402 or 31403, relating to farm labor vehicles, is a misdemeanor and not an infraction.\n\n*(Added by Stats. 1988, Ch. 613, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A violation of subdivision (b) of Section 31401 or Section 31402 or 31403, relating to farm labor vehicles, is a misdemeanor and not an infraction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 613, Sec. 2.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "613",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "613",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40000.18.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40000.18.html",
+  "content_sha256": "7525171d3d1581eb56e3a8552ae9f08f89ffa1f30ff50113fa3123d7f6171596",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

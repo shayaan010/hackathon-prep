@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "42000.1",
+  "division": "18",
+  "division_title": "PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+  "division_range": "42000 - 42277",
+  "chapter": "1",
+  "chapter_title": "Penalties",
+  "chapter_range": "42000 - 42032",
+  "article": "1",
+  "article_title": "Public Offenses",
+  "article_range": "42000 - 42010",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "35.1.1",
+  "text": "Notwithstanding Section 42001, every person convicted of an infraction for a violation described in subdivision (b) of Section 22348 shall be punished by a fine not exceeding five hundred dollars ($500).",
+  "markdown": "# Vehicle Code\n## Division 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES [42000 - 42277]\n### Chapter 1. Penalties [42000 - 42032]\n#### Article 1. Public Offenses [42000 - 42010]\n##### § 42000.1\n\nNotwithstanding Section 42001, every person convicted of an infraction for a violation described in subdivision (b) of Section 22348 shall be punished by a fine not exceeding five hundred dollars ($500).\n\n*(Added by Stats. 1983, Ch. 980, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding Section 42001, every person convicted of an infraction for a violation described in subdivision (b) of Section 22348 shall be punished by a fine not exceeding five hundred dollars ($500).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1983, Ch. 980, Sec. 4.)",
+    "action": "Added",
+    "statutes_year": 1983,
+    "chapter": "980",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "980",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42000.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/42000.1.html",
+  "content_sha256": "d8f6c7182fae9ed0e9370be909626cf4538cd013485396ceb0fb95cea4397516",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

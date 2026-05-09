@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11612",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "3.5",
+  "chapter_title": "Lessor-Retailers",
+  "chapter_range": "11600 - 11620",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.6",
+  "text": "(a) Before any lessor-retailer license shall be issued or renewed by the department to any applicant therefor, the applicant shall procure and file with the department a bond meeting the same requirements as specified for a vehicle dealer’s license in Sections 11710 and 11710.2.\n\n(b) Any cause of action or claim specified in Section 11711 against a vehicle dealer’s bond shall also be a cause of action or claim against a lessor-retailer’s bond.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 3.5. Lessor-Retailers [11600 - 11620]\n##### § 11612\n\n(a) Before any lessor-retailer license shall be issued or renewed by the department to any applicant therefor, the applicant shall procure and file with the department a bond meeting the same requirements as specified for a vehicle dealer’s license in Sections 11710 and 11710.2.\n\n(b) Any cause of action or claim specified in Section 11711 against a vehicle dealer’s bond shall also be a cause of action or claim against a lessor-retailer’s bond.\n\n*(Amended by Stats. 1982, Ch. 517, Sec. 395.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Before any lessor-retailer license shall be issued or renewed by the department to any applicant therefor, the applicant shall procure and file with the department a bond meeting the same requirements as specified for a vehicle dealer’s license in Sections 11710 and 11710.2.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any cause of action or claim specified in Section 11711 against a vehicle dealer’s bond shall also be a cause of action or claim against a lessor-retailer’s bond.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1982, Ch. 517, Sec. 395.)",
+    "action": "Amended",
+    "statutes_year": 1982,
+    "chapter": "517",
+    "section": "395",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "517",
+  "op_section": "395",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11612.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11612.html",
+  "content_sha256": "5212cd4da3e88c45c72173f23be80a10f38af8c5d0c691e26c2fe4f255d92771",
+  "parsed_at": "2026-05-09T17:53:44+00:00",
+  "parser_version": "1"
+}

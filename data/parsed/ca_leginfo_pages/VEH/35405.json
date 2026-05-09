@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35405",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "4",
+  "chapter_title": "Length",
+  "chapter_range": "35400 - 35414",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.4",
+  "text": "(a) An aerodynamic device that extends no more than five feet beyond the rear of a vehicle shall not be included in measuring the length of the vehicle or combination of vehicles, if both of the following conditions are met:\n\n(1) The device does not have the strength, rigidity, or mass to damage a vehicle, or injure a passenger in a vehicle, that strikes the vehicle equipped with the device from the rear.\n\n(2) The device does not obscure tail lamps, turn signals, marker lamps, identification lamps, or any other required safety devices, including, but not limited to, hazardous materials placards or conspicuity markings.\n\n(b) For purposes of this section, “aerodynamic device” has the same meaning as defined in Section 35110.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 4. Length [35400 - 35414]\n##### § 35405\n\n(a) An aerodynamic device that extends no more than five feet beyond the rear of a vehicle shall not be included in measuring the length of the vehicle or combination of vehicles, if both of the following conditions are met:\n\n    (1) The device does not have the strength, rigidity, or mass to damage a vehicle, or injure a passenger in a vehicle, that strikes the vehicle equipped with the device from the rear.\n\n    (2) The device does not obscure tail lamps, turn signals, marker lamps, identification lamps, or any other required safety devices, including, but not limited to, hazardous materials placards or conspicuity markings.\n\n(b) For purposes of this section, “aerodynamic device” has the same meaning as defined in Section 35110.\n\n*(Added by Stats. 2014, Ch. 133, Sec. 2. (SB 469) Effective January 1, 2015.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "An aerodynamic device that extends no more than five feet beyond the rear of a vehicle shall not be included in measuring the length of the vehicle or combination of vehicles, if both of the following conditions are met:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The device does not have the strength, rigidity, or mass to damage a vehicle, or injure a passenger in a vehicle, that strikes the vehicle equipped with the device from the rear.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The device does not obscure tail lamps, turn signals, marker lamps, identification lamps, or any other required safety devices, including, but not limited to, hazardous materials placards or conspicuity markings.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "For purposes of this section, “aerodynamic device” has the same meaning as defined in Section 35110.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2014, Ch. 133, Sec. 2. (SB 469) Effective January 1, 2015.)",
+    "action": "Added",
+    "statutes_year": 2014,
+    "chapter": "133",
+    "section": "2",
+    "bill_number": "SB 469",
+    "effective_date": "2015-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2014",
+  "op_chapter": "133",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35405.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35405.html",
+  "content_sha256": "5b4d64666bb91b718ae5f881a6b091ef1d9820cc7c6b55b5b1169452bad34cf1",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

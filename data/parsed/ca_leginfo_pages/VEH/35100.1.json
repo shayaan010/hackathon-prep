@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35100.1",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "2",
+  "chapter_title": "Width",
+  "chapter_range": "35100 - 35111",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.2",
+  "text": "For purposes of subdivision (a) of Section 35100, the following apply:\n\n(a) The metric equivalent of 102 inches, 2.6 meters, meets the requirement of Section 35100.\n\n(b) The width measurement of any vehicle with side walls shall be made from the outside wall of the two opposite sides of the vehicle.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 2. Width [35100 - 35111]\n##### § 35100.1\n\nFor purposes of subdivision (a) of Section 35100, the following apply:\n\n(a) The metric equivalent of 102 inches, 2.6 meters, meets the requirement of Section 35100.\n\n(b) The width measurement of any vehicle with side walls shall be made from the outside wall of the two opposite sides of the vehicle.\n\n*(Added by Stats. 1988, Ch. 1452, Sec. 6. Effective September 28, 1988.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "For purposes of subdivision (a) of Section 35100, the following apply:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The metric equivalent of 102 inches, 2.6 meters, meets the requirement of Section 35100.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The width measurement of any vehicle with side walls shall be made from the outside wall of the two opposite sides of the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 1452, Sec. 6. Effective September 28, 1988.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "1452",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "1988-09-28",
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1452",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35100.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35100.1.html",
+  "content_sha256": "73a892d0407bbc8ffb658568a96dede7424ed15c4368b5a69c86a99c93edcde2",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

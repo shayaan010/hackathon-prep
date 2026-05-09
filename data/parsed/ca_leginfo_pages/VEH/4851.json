@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "4851",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "7",
+  "article_title": "License Plates",
+  "article_range": "4850 - 4854",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.8",
+  "text": "Every license plate shall have displayed upon it the registration number assigned to the vehicle for which it is issued, together with the word “California” or the abbreviation “Cal.” and the year number for which it is issued or a suitable device issued by the department for validation purposes, which device shall contain the year number for which issued.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 7. License Plates [4850 - 4854]\n##### § 4851\n\nEvery license plate shall have displayed upon it the registration number assigned to the vehicle for which it is issued, together with the word “California” or the abbreviation “Cal.” and the year number for which it is issued or a suitable device issued by the department for validation purposes, which device shall contain the year number for which issued.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every license plate shall have displayed upon it the registration number assigned to the vehicle for which it is issued, together with the word “California” or the abbreviation “Cal.” and the year number for which it is issued or a suitable device issued by the department for validation purposes, which device shall contain the year number for which issued.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=4851.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/4851.html",
+  "content_sha256": "5f369703e5b5d54fb2c4968ca4c084848c77e8361b75cd725fdc66d4f8b2b4bb",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

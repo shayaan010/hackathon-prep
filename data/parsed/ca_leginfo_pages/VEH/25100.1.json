@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25100.1",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "6",
+  "article_title": "Side and Fender Lighting Equipment",
+  "article_range": "25100 - 25110",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.6",
+  "text": "Notwithstanding any other provisions of this code, an ambulance may be equipped with clearance and side-marker lamps.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 6. Side and Fender Lighting Equipment [25100 - 25110]\n##### § 25100.1\n\nNotwithstanding any other provisions of this code, an ambulance may be equipped with clearance and side-marker lamps.\n\n*(Added by Stats. 1975, Ch. 616.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding any other provisions of this code, an ambulance may be equipped with clearance and side-marker lamps.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1975, Ch. 616.)",
+    "action": "Added",
+    "statutes_year": 1975,
+    "chapter": "616",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "616",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25100.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25100.1.html",
+  "content_sha256": "c181a1413f70e34e7be3dd6245b1cae0a6846d32ad6d2a88d32e3f71e77836cd",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

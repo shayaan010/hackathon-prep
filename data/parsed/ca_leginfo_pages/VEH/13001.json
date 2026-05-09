@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13001",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "1",
+  "chapter_title": "Issuance of Licenses, Expiration, and Renewal",
+  "chapter_range": "12500 - 13020",
+  "article": "5",
+  "article_title": "Identification Cards",
+  "article_range": "13000 - 13008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.1.5",
+  "text": "(a) Any federal document demonstrating favorable action by the federal government for acceptance of a person into the federal Deferred Action for Childhood Arrivals program shall satisfy the requirement that the applicant submit satisfactory proof that the applicant’s presence in the United States is authorized under federal law.\n\n(b) The department may issue an original identification card to the person who submits proof of presence in the United States as authorized under federal law pursuant to subdivision (a) and either a social security account number or ineligibility for a social security account number.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 1. Issuance of Licenses, Expiration, and Renewal [12500 - 13020]\n#### Article 5. Identification Cards [13000 - 13008]\n##### § 13001\n\n(a) Any federal document demonstrating favorable action by the federal government for acceptance of a person into the federal Deferred Action for Childhood Arrivals program shall satisfy the requirement that the applicant submit satisfactory proof that the applicant’s presence in the United States is authorized under federal law.\n\n(b) The department may issue an original identification card to the person who submits proof of presence in the United States as authorized under federal law pursuant to subdivision (a) and either a social security account number or ineligibility for a social security account number.\n\n*(Added by Stats. 2013, Ch. 571, Sec. 3. (AB 35) Effective January 1, 2014.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any federal document demonstrating favorable action by the federal government for acceptance of a person into the federal Deferred Action for Childhood Arrivals program shall satisfy the requirement that the applicant submit satisfactory proof that the applicant’s presence in the United States is authorized under federal law.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department may issue an original identification card to the person who submits proof of presence in the United States as authorized under federal law pursuant to subdivision (a) and either a social security account number or ineligibility for a social security account number.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2013, Ch. 571, Sec. 3. (AB 35) Effective January 1, 2014.)",
+    "action": "Added",
+    "statutes_year": 2013,
+    "chapter": "571",
+    "section": "3",
+    "bill_number": "AB 35",
+    "effective_date": "2014-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2013",
+  "op_chapter": "571",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13001.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13001.html",
+  "content_sha256": "679a59b07846223c3b9682427cc6583e5665ff24567bed8ccc6058a7c05b465d",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

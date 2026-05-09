@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27150.7",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "2",
+  "article_title": "Exhaust Systems",
+  "article_range": "27150 - 27159",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.2",
+  "text": "A court may dismiss any action in which a person is prosecuted for operating a vehicle in violation of Section 27150 or 27151 if a certificate of compliance has been issued by a station pursuant to Section 27150.2, or if the defendant had reasonable grounds to believe that the exhaust system was in good working order and had reasonable grounds to believe that the vehicle was not operated in violation of Section 27150 or 27151.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 2. Exhaust Systems [27150 - 27159]\n##### § 27150.7\n\nA court may dismiss any action in which a person is prosecuted for operating a vehicle in violation of Section 27150 or 27151 if a certificate of compliance has been issued by a station pursuant to Section 27150.2, or if the defendant had reasonable grounds to believe that the exhaust system was in good working order and had reasonable grounds to believe that the vehicle was not operated in violation of Section 27150 or 27151.\n\n*(Amended by Stats. 2002, Ch. 569, Sec. 4. Effective January 1, 2003.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A court may dismiss any action in which a person is prosecuted for operating a vehicle in violation of Section 27150 or 27151 if a certificate of compliance has been issued by a station pursuant to Section 27150.2, or if the defendant had reasonable grounds to believe that the exhaust system was in good working order and had reasonable grounds to believe that the vehicle was not operated in violation of Section 27150 or 27151.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2002, Ch. 569, Sec. 4. Effective January 1, 2003.)",
+    "action": "Amended",
+    "statutes_year": 2002,
+    "chapter": "569",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "2003-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2002",
+  "op_chapter": "569",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27150.7.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27150.7.html",
+  "content_sha256": "6f59dcd46797a81ea29ae6619e848a5d5ef555fe15af3d8aad1c7c34869fc730",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

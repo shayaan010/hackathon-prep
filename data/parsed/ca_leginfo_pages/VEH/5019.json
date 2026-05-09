@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "5019",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "1",
+  "chapter_title": "Original and Renewal of Registration; Issuance of Certificates of Title",
+  "chapter_range": "4000 - 5506",
+  "article": "8",
+  "article_title": "Special Plates",
+  "article_range": "5000 - 5024",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.1.9",
+  "text": "The authorizations for the issuance of special license plates referred to in Sections 5005 and 5008 do not apply to trailers.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 1. Original and Renewal of Registration; Issuance of Certificates of Title [4000 - 5506]\n#### Article 8. Special Plates [5000 - 5024]\n##### § 5019\n\nThe authorizations for the issuance of special license plates referred to in Sections 5005 and 5008 do not apply to trailers.\n\n*(Amended by Stats. 1984, Ch. 918, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The authorizations for the issuance of special license plates referred to in Sections 5005 and 5008 do not apply to trailers.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1984, Ch. 918, Sec. 3.)",
+    "action": "Amended",
+    "statutes_year": 1984,
+    "chapter": "918",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "918",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=5019.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/5019.html",
+  "content_sha256": "fa8fc4ccc77f4016b8c2df2922bb348d40655aa27f4ee9264dac8543c66022a3",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

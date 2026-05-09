@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1801",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "(a) Whenever any notice, report, statement, court abstract, or record is required to be submitted to the department by this code, the document may be submitted to the department by electronic transmission or other means approved by the department.\n\n(b) All records maintained by the department may be stored in any feasible manner, including, but not limited to, any electronic media or any other form of data compilation.\n\n(c) Notwithstanding any other provision of law, the records shall be deemed original documents and shall be admissible in evidence in all administrative, quasi-judicial, and judicial proceedings.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1801\n\n(a) Whenever any notice, report, statement, court abstract, or record is required to be submitted to the department by this code, the document may be submitted to the department by electronic transmission or other means approved by the department.\n\n(b) All records maintained by the department may be stored in any feasible manner, including, but not limited to, any electronic media or any other form of data compilation.\n\n(c) Notwithstanding any other provision of law, the records shall be deemed original documents and shall be admissible in evidence in all administrative, quasi-judicial, and judicial proceedings.\n\n*(Amended by Stats. 1996, Ch. 10, Sec. 9. Effective February 9, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever any notice, report, statement, court abstract, or record is required to be submitted to the department by this code, the document may be submitted to the department by electronic transmission or other means approved by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "All records maintained by the department may be stored in any feasible manner, including, but not limited to, any electronic media or any other form of data compilation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Notwithstanding any other provision of law, the records shall be deemed original documents and shall be admissible in evidence in all administrative, quasi-judicial, and judicial proceedings.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 10, Sec. 9. Effective February 9, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "10",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": "1996-02-09",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "10",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1801.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1801.html",
+  "content_sha256": "de66b7115059732330964fcd3c2c3cc4ce5b5b5196d6ab6548a75778983fbc5b",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

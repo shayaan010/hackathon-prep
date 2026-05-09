@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23112.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "12",
+  "chapter_title": "Public Offenses",
+  "chapter_range": "23100 - 23249.50",
+  "article": "1",
+  "article_title": "Driving Offenses",
+  "article_range": "23100 - 23135",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.12.1",
+  "text": "(a) Any person who dumps, spills, or causes the release of hazardous material, as defined by Section 353, or hazardous waste, as defined by Section 25117 of the Health and Safety Code, upon any highway shall notify the Department of the California Highway Patrol or the agency having traffic jurisdiction for that highway of the dump, spill, or release, as soon as the person has knowledge of the dump, spill, or release and notification is possible. Upon receiving notification pursuant to this section, the Department of the California Highway Patrol shall, as soon as possible, notify the Office of Emergency Services of the dump, spill, or release, except for petroleum spills of less than 42 gallons from vehicular fuel tanks.\n\n(b) Any person who is convicted of a violation of this section shall be punished by a mandatory fine of not less than two thousand dollars ($2,000).",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 12. Public Offenses [23100 - 23249.50]\n#### Article 1. Driving Offenses [23100 - 23135]\n##### § 23112.5\n\n(a) Any person who dumps, spills, or causes the release of hazardous material, as defined by Section 353, or hazardous waste, as defined by Section 25117 of the Health and Safety Code, upon any highway shall notify the Department of the California Highway Patrol or the agency having traffic jurisdiction for that highway of the dump, spill, or release, as soon as the person has knowledge of the dump, spill, or release and notification is possible. Upon receiving notification pursuant to this section, the Department of the California Highway Patrol shall, as soon as possible, notify the Office of Emergency Services of the dump, spill, or release, except for petroleum spills of less than 42 gallons from vehicular fuel tanks.\n\n(b) Any person who is convicted of a violation of this section shall be punished by a mandatory fine of not less than two thousand dollars ($2,000).\n\n*(Amended by Stats. 2013, Ch. 352, Sec. 525. (AB 1317) Effective September 26, 2013. Operative July 1, 2013, by Sec. 543 of Ch. 352.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any person who dumps, spills, or causes the release of hazardous material, as defined by Section 353, or hazardous waste, as defined by Section 25117 of the Health and Safety Code, upon any highway shall notify the Department of the California Highway Patrol or the agency having traffic jurisdiction for that highway of the dump, spill, or release, as soon as the person has knowledge of the dump, spill, or release and notification is possible. Upon receiving notification pursuant to this section, the Department of the California Highway Patrol shall, as soon as possible, notify the Office of Emergency Services of the dump, spill, or release, except for petroleum spills of less than 42 gallons from vehicular fuel tanks.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any person who is convicted of a violation of this section shall be punished by a mandatory fine of not less than two thousand dollars ($2,000).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2013, Ch. 352, Sec. 525. (AB 1317) Effective September 26, 2013. Operative July 1, 2013, by Sec. 543 of Ch. 352.)",
+    "action": "Amended",
+    "statutes_year": 2013,
+    "chapter": "352",
+    "section": "525",
+    "bill_number": "AB 1317",
+    "effective_date": "2013-09-26",
+    "operative_date": "2013-07-01"
+  },
+  "op_statues": "2013",
+  "op_chapter": "352",
+  "op_section": "525",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23112.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23112.5.html",
+  "content_sha256": "0231fc4258c7952b9b87ff0c68993b2fea7e8794c7d73e095747f484ee481047",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40302",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "2",
+  "chapter_title": "Procedure on Arrests",
+  "chapter_range": "40300 - 40618",
+  "article": "1",
+  "article_title": "Arrests",
+  "article_range": "40300 - 40313",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.2.1",
+  "text": "Whenever any person is arrested for any violation of this code, not declared to be a felony, the arrested person shall be taken without unnecessary delay before a magistrate within the county in which the offense charged is alleged to have been committed and who has jurisdiction of the offense and is nearest or most accessible with reference to the place where the arrest is made in any of the following cases:\n\n(a) When the person arrested fails to present both his or her driver’s license or other satisfactory evidence of his or her identity and an unobstructed view of his or her full face for examination.\n\n(b) When the person arrested refuses to give his or her written promise to appear in court.\n\n(c) When the person arrested demands an immediate appearance before a magistrate.\n\n(d) When the person arrested is charged with violating Section 23152.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 2. Procedure on Arrests [40300 - 40618]\n#### Article 1. Arrests [40300 - 40313]\n##### § 40302\n\nWhenever any person is arrested for any violation of this code, not declared to be a felony, the arrested person shall be taken without unnecessary delay before a magistrate within the county in which the offense charged is alleged to have been committed and who has jurisdiction of the offense and is nearest or most accessible with reference to the place where the arrest is made in any of the following cases:\n\n(a) When the person arrested fails to present both his or her driver’s license or other satisfactory evidence of his or her identity and an unobstructed view of his or her full face for examination.\n\n(b) When the person arrested refuses to give his or her written promise to appear in court.\n\n(c) When the person arrested demands an immediate appearance before a magistrate.\n\n(d) When the person arrested is charged with violating Section 23152.\n\n*(Amended by Stats. 2015, Ch. 82, Sec. 1. (AB 346) Effective January 1, 2016.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever any person is arrested for any violation of this code, not declared to be a felony, the arrested person shall be taken without unnecessary delay before a magistrate within the county in which the offense charged is alleged to have been committed and who has jurisdiction of the offense and is nearest or most accessible with reference to the place where the arrest is made in any of the following cases:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "When the person arrested fails to present both his or her driver’s license or other satisfactory evidence of his or her identity and an unobstructed view of his or her full face for examination.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When the person arrested refuses to give his or her written promise to appear in court.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "When the person arrested demands an immediate appearance before a magistrate.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "When the person arrested is charged with violating Section 23152.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2015, Ch. 82, Sec. 1. (AB 346) Effective January 1, 2016.)",
+    "action": "Amended",
+    "statutes_year": 2015,
+    "chapter": "82",
+    "section": "1",
+    "bill_number": "AB 346",
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2015",
+  "op_chapter": "82",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40302.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40302.html",
+  "content_sha256": "89793bdfb3df98167ea56f18c5bc49a6a7446b24d63268b73dd0bc8ebb94a824",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

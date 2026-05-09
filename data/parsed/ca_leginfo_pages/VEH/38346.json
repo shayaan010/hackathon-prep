@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38346",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "6",
+  "chapter_title": "Equipment of Off-Highway Vehicles",
+  "chapter_range": "38325 - 38397",
+  "article": "2",
+  "article_title": "Lighting Equipment",
+  "article_range": "38335 - 38346",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.4.2",
+  "text": "A person shall not display a flashing or steady burning red or blue warning light on an off-highway motor vehicle except as permitted by Section 21055 or when an extreme hazard exists.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 6. Equipment of Off-Highway Vehicles [38325 - 38397]\n#### Article 2. Lighting Equipment [38335 - 38346]\n##### § 38346\n\nA person shall not display a flashing or steady burning red or blue warning light on an off-highway motor vehicle except as permitted by Section 21055 or when an extreme hazard exists.\n\n*(Added by Stats. 2004, Ch. 908, Sec. 24. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A person shall not display a flashing or steady burning red or blue warning light on an off-highway motor vehicle except as permitted by Section 21055 or when an extreme hazard exists.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2004, Ch. 908, Sec. 24. Effective January 1, 2005.)",
+    "action": "Added",
+    "statutes_year": 2004,
+    "chapter": "908",
+    "section": "24",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "908",
+  "op_section": "24",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38346.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38346.html",
+  "content_sha256": "00e1722f14c0530eaa09b51aafa15ed44ae5fa3b16bbca06ee6541c961909aff",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

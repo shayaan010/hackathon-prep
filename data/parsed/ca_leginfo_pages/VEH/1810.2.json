@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1810.2",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "3",
+  "article_title": "Records of Department",
+  "article_range": "1800 - 1825",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.3",
+  "text": "(a) The department may establish commercial requester accounts for individuals or organizations and issue requester codes for the purpose of obtaining information from the department’s files, except as prohibited by Section 1808.21.\n\n(b) Commercial requester account applications shall include the requester’s name, address, type of business, a specific reason for requesting information, and the name of the person responsible for the business or firm.\n\n(c) The department shall establish a commercial requester account when it determines that the applicant has a legitimate business need for the information requested and when the applicant files a bond in the amount of fifty thousand dollars ($50,000) and pays a two hundred fifty dollar ($250) filing fee. If the applicant does not request and is not issued a requester code permitting the applicant access to residence address information, only a filing fee of fifty dollars ($50) shall be required with the original application and each biennial renewal application.\n\n(d) An individual requester code shall be issued for a period not to exceed five years and may be renewed upon application for additional periods not to exceed five years each.\n\n(e) A requester code may be denied to any person unless the proposed use of the information from department records is related to legitimate business or commercial purposes of that person. A requester code may be canceled immediately if the requested information is used for a purpose other than the purpose for which the requester code was issued.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 3. Records of Department [1800 - 1825]\n##### § 1810.2\n\n(a) The department may establish commercial requester accounts for individuals or organizations and issue requester codes for the purpose of obtaining information from the department’s files, except as prohibited by Section 1808.21.\n\n(b) Commercial requester account applications shall include the requester’s name, address, type of business, a specific reason for requesting information, and the name of the person responsible for the business or firm.\n\n(c) The department shall establish a commercial requester account when it determines that the applicant has a legitimate business need for the information requested and when the applicant files a bond in the amount of fifty thousand dollars ($50,000) and pays a two hundred fifty dollar ($250) filing fee. If the applicant does not request and is not issued a requester code permitting the applicant access to residence address information, only a filing fee of fifty dollars ($50) shall be required with the original application and each biennial renewal application.\n\n(d) An individual requester code shall be issued for a period not to exceed five years and may be renewed upon application for additional periods not to exceed five years each.\n\n(e) A requester code may be denied to any person unless the proposed use of the information from department records is related to legitimate business or commercial purposes of that person. A requester code may be canceled immediately if the requested information is used for a purpose other than the purpose for which the requester code was issued.\n\n*(Amended by Stats. 1991, Ch. 579, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may establish commercial requester accounts for individuals or organizations and issue requester codes for the purpose of obtaining information from the department’s files, except as prohibited by Section 1808.21.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Commercial requester account applications shall include the requester’s name, address, type of business, a specific reason for requesting information, and the name of the person responsible for the business or firm.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The department shall establish a commercial requester account when it determines that the applicant has a legitimate business need for the information requested and when the applicant files a bond in the amount of fifty thousand dollars ($50,000) and pays a two hundred fifty dollar ($250) filing fee. If the applicant does not request and is not issued a requester code permitting the applicant access to residence address information, only a filing fee of fifty dollars ($50) shall be required with the original application and each biennial renewal application.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "An individual requester code shall be issued for a period not to exceed five years and may be renewed upon application for additional periods not to exceed five years each.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "A requester code may be denied to any person unless the proposed use of the information from department records is related to legitimate business or commercial purposes of that person. A requester code may be canceled immediately if the requested information is used for a purpose other than the purpose for which the requester code was issued.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1991, Ch. 579, Sec. 3.)",
+    "action": "Amended",
+    "statutes_year": 1991,
+    "chapter": "579",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "579",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1810.2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1810.2.html",
+  "content_sha256": "9f58cc11bf6dde9b69f3b1a5568b978b1e2435c464baf9bb786b3ad94fff653c",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

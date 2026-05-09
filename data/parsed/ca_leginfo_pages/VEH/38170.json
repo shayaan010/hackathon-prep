@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38170",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "2",
+  "chapter_title": "Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership",
+  "chapter_range": "38010 - 38265",
+  "article": "6",
+  "article_title": "Identification Plate or Device",
+  "article_range": "38160 - 38170",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.2.6",
+  "text": "(a) Every off-highway motor vehicle subject to identification shall have displayed upon it the identification number assigned to the vehicle for which it is issued, together with the word “California” or the abbreviation “CAL” and the year number for which it is issued or a suitable device issued by the department for validation purposes, which device shall contain the year for which it is issued.\n\n(b) The identification plate or device shall at all times be securely fastened to the vehicle for which it is issued and shall be mounted or affixed in a position to be clearly visible, and shall be maintained in a condition so as to be clearly legible. No covering shall be used on the identification plate or device.\n\n(c) All identification plates or devices issued on or after January 1, 1996, shall be displayed as follows:\n\n(1) On the left fork leg of a motorcycle, either horizontal or vertical, and shall be visible from the left side of the motorcycle.\n\n(2) On the left quadrant of the metal frame member of sand rails, rail-type buggies, and dune buggies, visible from the rear of the vehicle.\n\n(3) On the left rear quadrant on permanent plastic or metal frame members of all-terrain vehicles, visible to outside inspections.\n\n(4) On the left tunnel on the back quadrant of snowmobiles.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 2. Registration of Off-Highway Vehicles; Original and Renewal of Identification; Issuance of Certificates of Ownership [38010 - 38265]\n#### Article 6. Identification Plate or Device [38160 - 38170]\n##### § 38170\n\n(a) Every off-highway motor vehicle subject to identification shall have displayed upon it the identification number assigned to the vehicle for which it is issued, together with the word “California” or the abbreviation “CAL” and the year number for which it is issued or a suitable device issued by the department for validation purposes, which device shall contain the year for which it is issued.\n\n(b) The identification plate or device shall at all times be securely fastened to the vehicle for which it is issued and shall be mounted or affixed in a position to be clearly visible, and shall be maintained in a condition so as to be clearly legible. No covering shall be used on the identification plate or device.\n\n(c) All identification plates or devices issued on or after January 1, 1996, shall be displayed as follows:\n\n    (1) On the left fork leg of a motorcycle, either horizontal or vertical, and shall be visible from the left side of the motorcycle.\n\n    (2) On the left quadrant of the metal frame member of sand rails, rail-type buggies, and dune buggies, visible from the rear of the vehicle.\n\n    (3) On the left rear quadrant on permanent plastic or metal frame members of all-terrain vehicles, visible to outside inspections.\n\n    (4) On the left tunnel on the back quadrant of snowmobiles.\n\n*(Amended by Stats. 1994, Ch. 14, Sec. 1. Effective January 1, 1995.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every off-highway motor vehicle subject to identification shall have displayed upon it the identification number assigned to the vehicle for which it is issued, together with the word “California” or the abbreviation “CAL” and the year number for which it is issued or a suitable device issued by the department for validation purposes, which device shall contain the year for which it is issued.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The identification plate or device shall at all times be securely fastened to the vehicle for which it is issued and shall be mounted or affixed in a position to be clearly visible, and shall be maintained in a condition so as to be clearly legible. No covering shall be used on the identification plate or device.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "All identification plates or devices issued on or after January 1, 1996, shall be displayed as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "On the left fork leg of a motorcycle, either horizontal or vertical, and shall be visible from the left side of the motorcycle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "On the left quadrant of the metal frame member of sand rails, rail-type buggies, and dune buggies, visible from the rear of the vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "On the left rear quadrant on permanent plastic or metal frame members of all-terrain vehicles, visible to outside inspections.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "On the left tunnel on the back quadrant of snowmobiles.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 14, Sec. 1. Effective January 1, 1995.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "14",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "14",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38170.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38170.html",
+  "content_sha256": "9c157bade6cc2b275257301998f64cf536ab9212131974b89eb4f9fc6bea33b7",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

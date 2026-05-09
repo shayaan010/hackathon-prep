@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9953",
+  "division": "3.6",
+  "division_title": "VEHICLE SALES",
+  "division_range": "9950 - 9993",
+  "chapter": "1",
+  "chapter_title": "Advertising, Brochures, and Manuals",
+  "chapter_range": "9950 - 9955",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "6.1",
+  "text": "Every manufacturer of a new motor vehicle sold in this state which, as equipped, may not be operated with tire chains shall do both of the following:\n\n(a) Indicate that fact in the owner’s manual for the vehicle or other written material provided by the manufacturer regarding the vehicle.\n\n(b) Provide each of its franchised new motor vehicle dealers in this state with a list of the affected vehicle models on an annual basis and prior to the manufacturer’s introduction of its new model year vehicles. The list shall include sufficient information, including information regarding tire sizes where necessary, to allow the selling dealer to determine when disclosure is required pursuant to Section 11713.6.",
+  "markdown": "# Vehicle Code\n## Division 3.6. VEHICLE SALES [9950 - 9993]\n### Chapter 1. Advertising, Brochures, and Manuals [9950 - 9955]\n##### § 9953\n\nEvery manufacturer of a new motor vehicle sold in this state which, as equipped, may not be operated with tire chains shall do both of the following:\n\n(a) Indicate that fact in the owner’s manual for the vehicle or other written material provided by the manufacturer regarding the vehicle.\n\n(b) Provide each of its franchised new motor vehicle dealers in this state with a list of the affected vehicle models on an annual basis and prior to the manufacturer’s introduction of its new model year vehicles. The list shall include sufficient information, including information regarding tire sizes where necessary, to allow the selling dealer to determine when disclosure is required pursuant to Section 11713.6.\n\n*(Amended by Stats. 1995, Ch. 452, Sec. 1. Effective January 1, 1996.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every manufacturer of a new motor vehicle sold in this state which, as equipped, may not be operated with tire chains shall do both of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Indicate that fact in the owner’s manual for the vehicle or other written material provided by the manufacturer regarding the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Provide each of its franchised new motor vehicle dealers in this state with a list of the affected vehicle models on an annual basis and prior to the manufacturer’s introduction of its new model year vehicles. The list shall include sufficient information, including information regarding tire sizes where necessary, to allow the selling dealer to determine when disclosure is required pursuant to Section 11713.6.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1995, Ch. 452, Sec. 1. Effective January 1, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1995,
+    "chapter": "452",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1996-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1995",
+  "op_chapter": "452",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9953.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9953.html",
+  "content_sha256": "9bc6e88f4a3722eefca2cc32a33fd62fade2e6991911dd27cde25cda2d996681",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

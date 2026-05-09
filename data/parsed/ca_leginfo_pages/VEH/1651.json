@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1651",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "2",
+  "article_title": "Powers and Duties",
+  "article_range": "1650 - 1685.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.2",
+  "text": "(a) The director may adopt and enforce rules and regulations as may be necessary to carry out the provisions of this code relating to the department.\n\n(b) Rules and regulations shall be adopted, amended, or repealed in accordance with the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code).",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 2. Powers and Duties [1650 - 1685.1]\n##### § 1651\n\n(a) The director may adopt and enforce rules and regulations as may be necessary to carry out the provisions of this code relating to the department.\n\n(b) Rules and regulations shall be adopted, amended, or repealed in accordance with the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code).\n\n*(Amended by Stats. 2003, Ch. 594, Sec. 13. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The director may adopt and enforce rules and regulations as may be necessary to carry out the provisions of this code relating to the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Rules and regulations shall be adopted, amended, or repealed in accordance with the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 594, Sec. 13. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "594",
+    "section": "13",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "594",
+  "op_section": "13",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1651.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1651.html",
+  "content_sha256": "7d7ba29a6f108dce5b861bc9a120d02800092c90bcc471383823de7a7a7f777e",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

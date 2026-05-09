@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "13352.6",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "2",
+  "chapter_title": "Suspension or Revocation of Licenses",
+  "chapter_range": "13100 - 13559",
+  "article": "3",
+  "article_title": "Suspension and Revocation by Department",
+  "article_range": "13350 - 13392",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.2.3",
+  "text": "(a) The department shall immediately suspend the driving privilege of a person who is 18 years of age or older and is convicted of a violation of Section 23140, upon the receipt of a duly certified abstract of the record of a court showing that conviction. The privilege may not be reinstated until the person provides the department with proof of financial responsibility and until proof satisfactory to the department, of successful completion of a driving-under-the-influence program licensed under Section 11836 of the Health and Safety Code has been received in the department’s headquarters. That attendance shall be as follows:\n\n(1) If, within 10 years of the current violation of Section 23140, the person has not been convicted of a separate violation of Section 23140, 23152, or 23153, or of Section 23103, with a plea of guilty under Section 23103.5, or of Section 655 of the Harbors and Navigation Code, or of Section 191.5 of, or subdivision (a) of Section 192.5 of, the Penal Code, the person shall complete, at a minimum, the education component of that licensed driving-under-the-influence program.\n\n(2) If the person does not meet the requirements of paragraph (1), the person shall complete, at a minimum, the program described in paragraph (1) of subdivision (c) of Section 11837 of the Health and Safety Code.\n\n(b) For the purposes of this section, enrollment, participation, and completion of the program shall be subsequent to the date of the current violation. Credit for enrollment, participation, or completion may not be given for any program activities completed prior to the date of the current violation.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 2. Suspension or Revocation of Licenses [13100 - 13559]\n#### Article 3. Suspension and Revocation by Department [13350 - 13392]\n##### § 13352.6\n\n(a) The department shall immediately suspend the driving privilege of a person who is 18 years of age or older and is convicted of a violation of Section 23140, upon the receipt of a duly certified abstract of the record of a court showing that conviction. The privilege may not be reinstated until the person provides the department with proof of financial responsibility and until proof satisfactory to the department, of successful completion of a driving-under-the-influence program licensed under Section 11836 of the Health and Safety Code has been received in the department’s headquarters. That attendance shall be as follows:\n\n    (1) If, within 10 years of the current violation of Section 23140, the person has not been convicted of a separate violation of Section 23140, 23152, or 23153, or of Section 23103, with a plea of guilty under Section 23103.5, or of Section 655 of the Harbors and Navigation Code, or of Section 191.5 of, or subdivision (a) of Section 192.5 of, the Penal Code, the person shall complete, at a minimum, the education component of that licensed driving-under-the-influence program.\n\n    (2) If the person does not meet the requirements of paragraph (1), the person shall complete, at a minimum, the program described in paragraph (1) of subdivision (c) of Section 11837 of the Health and Safety Code.\n\n(b) For the purposes of this section, enrollment, participation, and completion of the program shall be subsequent to the date of the current violation. Credit for enrollment, participation, or completion may not be given for any program activities completed prior to the date of the current violation.\n\n*(Amended by Stats. 2007, Ch. 747, Sec. 21. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall immediately suspend the driving privilege of a person who is 18 years of age or older and is convicted of a violation of Section 23140, upon the receipt of a duly certified abstract of the record of a court showing that conviction. The privilege may not be reinstated until the person provides the department with proof of financial responsibility and until proof satisfactory to the department, of successful completion of a driving-under-the-influence program licensed under Section 11836 of the Health and Safety Code has been received in the department’s headquarters. That attendance shall be as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "If, within 10 years of the current violation of Section 23140, the person has not been convicted of a separate violation of Section 23140, 23152, or 23153, or of Section 23103, with a plea of guilty under Section 23103.5, or of Section 655 of the Harbors and Navigation Code, or of Section 191.5 of, or subdivision (a) of Section 192.5 of, the Penal Code, the person shall complete, at a minimum, the education component of that licensed driving-under-the-influence program.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "If the person does not meet the requirements of paragraph (1), the person shall complete, at a minimum, the program described in paragraph (1) of subdivision (c) of Section 11837 of the Health and Safety Code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "For the purposes of this section, enrollment, participation, and completion of the program shall be subsequent to the date of the current violation. Credit for enrollment, participation, or completion may not be given for any program activities completed prior to the date of the current violation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2007, Ch. 747, Sec. 21. Effective January 1, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2007,
+    "chapter": "747",
+    "section": "21",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "747",
+  "op_section": "21",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=13352.6.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/13352.6.html",
+  "content_sha256": "9a9fc957807fd0fa589125c7a9bb56db507042bf2aa6de8f525b29ba4f248877",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

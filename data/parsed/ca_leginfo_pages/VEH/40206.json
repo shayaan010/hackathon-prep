@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40206",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "3",
+  "article_title": "Procedure on Parking Violations",
+  "article_range": "40200 - 40230",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.3",
+  "text": "(a) If the payment of the parking penalty is not received by the person authorized to receive a deposit of the parking penalty by the date fixed on the notice of parking violation under Section 40202, the processing agency shall deliver to the registered owner a notice of delinquent parking violation.\n\n(b) Delivery of a notice of delinquent parking violation under this section may be made by personal service or by first-class mail addressed to the registered owner, as shown on records of the Department of Motor Vehicles.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 3. Procedure on Parking Violations [40200 - 40230]\n##### § 40206\n\n(a) If the payment of the parking penalty is not received by the person authorized to receive a deposit of the parking penalty by the date fixed on the notice of parking violation under Section 40202, the processing agency shall deliver to the registered owner a notice of delinquent parking violation.\n\n(b) Delivery of a notice of delinquent parking violation under this section may be made by personal service or by first-class mail addressed to the registered owner, as shown on records of the Department of Motor Vehicles.\n\n*(Amended by Stats. 1992, Ch. 1244, Sec. 19. Effective January 1, 1993. Operative July 1, 1993, by Sec. 39 of Ch. 1244.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If the payment of the parking penalty is not received by the person authorized to receive a deposit of the parking penalty by the date fixed on the notice of parking violation under Section 40202, the processing agency shall deliver to the registered owner a notice of delinquent parking violation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Delivery of a notice of delinquent parking violation under this section may be made by personal service or by first-class mail addressed to the registered owner, as shown on records of the Department of Motor Vehicles.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1992, Ch. 1244, Sec. 19. Effective January 1, 1993. Operative July 1, 1993, by Sec. 39 of Ch. 1244.)",
+    "action": "Amended",
+    "statutes_year": 1992,
+    "chapter": "1244",
+    "section": "19",
+    "bill_number": null,
+    "effective_date": "1993-01-01",
+    "operative_date": "1993-07-01"
+  },
+  "op_statues": "1992",
+  "op_chapter": "1244",
+  "op_section": "19",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40206.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40206.html",
+  "content_sha256": "6bff06eadb851158d8c97f0d8c30fc64be64e8053d722719dcbc3199577f2857",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

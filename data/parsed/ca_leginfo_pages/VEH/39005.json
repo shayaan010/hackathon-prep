@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "39005",
+  "division": "16.7",
+  "division_title": "REGISTRATION AND LICENSING OF BICYCLES",
+  "division_range": "39000 - 39011",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "33",
+  "text": "Cities and counties having a bicycle licensing ordinance or resolution shall maintain records of each bicycle registered. Such records shall include, but not be limited to, the license number, the serial number of the bicycle, the make and type, of the bicycle, and the name and address of the licensee.\n\nRecords shall be maintained by the licensing agency during the period of validity of the license or until notification that the bicycle is no longer to be operated.",
+  "markdown": "# Vehicle Code\n## Division 16.7. REGISTRATION AND LICENSING OF BICYCLES [39000 - 39011]\n##### § 39005\n\nCities and counties having a bicycle licensing ordinance or resolution shall maintain records of each bicycle registered. Such records shall include, but not be limited to, the license number, the serial number of the bicycle, the make and type, of the bicycle, and the name and address of the licensee.\n\nRecords shall be maintained by the licensing agency during the period of validity of the license or until notification that the bicycle is no longer to be operated.\n\n*(Amended by Stats. 1975, Ch. 1250.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Cities and counties having a bicycle licensing ordinance or resolution shall maintain records of each bicycle registered. Such records shall include, but not be limited to, the license number, the serial number of the bicycle, the make and type, of the bicycle, and the name and address of the licensee.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Records shall be maintained by the licensing agency during the period of validity of the license or until notification that the bicycle is no longer to be operated.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1975, Ch. 1250.)",
+    "action": "Amended",
+    "statutes_year": 1975,
+    "chapter": "1250",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "1250",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=39005.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/39005.html",
+  "content_sha256": "93d438a202e3301ff3f5499f1212eefaf6c76a02f7a05972df8c708054ddefe3",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

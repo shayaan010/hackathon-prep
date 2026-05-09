@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "14401",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "3",
+  "chapter_title": "Investigation and Hearing",
+  "chapter_range": "13800 - 14401",
+  "article": "5",
+  "article_title": "Review of Orders",
+  "article_range": "14400 - 14401",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.3.5",
+  "text": "(a) Any action brought in a court of competent jurisdiction to review any order of the department refusing, canceling, placing on probation, suspending, or revoking the privilege of a person to operate a motor vehicle shall be commenced within 90 days from the date the order is noticed.\n\n(b) Upon final completion of all administrative appeals, the person whose driving privilege was refused, canceled, placed on probation, suspended, or revoked shall be given written notice by the department of his or her right to a review by a court pursuant to subdivision (a).",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 3. Investigation and Hearing [13800 - 14401]\n#### Article 5. Review of Orders [14400 - 14401]\n##### § 14401\n\n(a) Any action brought in a court of competent jurisdiction to review any order of the department refusing, canceling, placing on probation, suspending, or revoking the privilege of a person to operate a motor vehicle shall be commenced within 90 days from the date the order is noticed.\n\n(b) Upon final completion of all administrative appeals, the person whose driving privilege was refused, canceled, placed on probation, suspended, or revoked shall be given written notice by the department of his or her right to a review by a court pursuant to subdivision (a).\n\n*(Amended by Stats. 1985, Ch. 1008, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any action brought in a court of competent jurisdiction to review any order of the department refusing, canceling, placing on probation, suspending, or revoking the privilege of a person to operate a motor vehicle shall be commenced within 90 days from the date the order is noticed.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Upon final completion of all administrative appeals, the person whose driving privilege was refused, canceled, placed on probation, suspended, or revoked shall be given written notice by the department of his or her right to a review by a court pursuant to subdivision (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1985, Ch. 1008, Sec. 3.)",
+    "action": "Amended",
+    "statutes_year": 1985,
+    "chapter": "1008",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1985",
+  "op_chapter": "1008",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=14401.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/14401.html",
+  "content_sha256": "f7dd059d56de7e29fc0b5bf8014e55ea281de02bdb033bab21c8a37352a40aca",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

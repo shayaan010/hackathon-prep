@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2807.1",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "4",
+  "chapter_title": "Administration and Enforcement",
+  "chapter_range": "2800 - 2818",
+  "article": "1",
+  "article_title": "Lawful Orders and Inspections",
+  "article_range": "2800 - 2818",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.4.1",
+  "text": "(a) The Department of the California Highway Patrol shall inspect and certify every school pupil activity bus specified in Section 546 at least once each year to ascertain whether its condition complies with all provisions of the law.\n\n(b) No person shall drive any motor vehicle specified in subdivision (a) unless there is displayed therein a certificate issued by the Department of the California Highway Patrol stating that on a certain date, which shall be within 13 months of the date of operation, an authorized employee of the Department of the California Highway Patrol inspected such motor vehicle and found that on the date of inspection such motor vehicle complied with the applicable provisions of the state law. The Commissioner of the California Highway Patrol shall provide by rule or regulation for the issuance and display of distinctive inspection certificates.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 4. Administration and Enforcement [2800 - 2818]\n#### Article 1. Lawful Orders and Inspections [2800 - 2818]\n##### § 2807.1\n\n(a) The Department of the California Highway Patrol shall inspect and certify every school pupil activity bus specified in Section 546 at least once each year to ascertain whether its condition complies with all provisions of the law.\n\n(b) No person shall drive any motor vehicle specified in subdivision (a) unless there is displayed therein a certificate issued by the Department of the California Highway Patrol stating that on a certain date, which shall be within 13 months of the date of operation, an authorized employee of the Department of the California Highway Patrol inspected such motor vehicle and found that on the date of inspection such motor vehicle complied with the applicable provisions of the state law. The Commissioner of the California Highway Patrol shall provide by rule or regulation for the issuance and display of distinctive inspection certificates.\n\n*(Amended by Stats. 1981, Ch. 813, Sec. 7.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Department of the California Highway Patrol shall inspect and certify every school pupil activity bus specified in Section 546 at least once each year to ascertain whether its condition complies with all provisions of the law.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No person shall drive any motor vehicle specified in subdivision (a) unless there is displayed therein a certificate issued by the Department of the California Highway Patrol stating that on a certain date, which shall be within 13 months of the date of operation, an authorized employee of the Department of the California Highway Patrol inspected such motor vehicle and found that on the date of inspection such motor vehicle complied with the applicable provisions of the state law. The Commissioner of the California Highway Patrol shall provide by rule or regulation for the issuance and display of distinctive inspection certificates.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1981, Ch. 813, Sec. 7.)",
+    "action": "Amended",
+    "statutes_year": 1981,
+    "chapter": "813",
+    "section": "7",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1981",
+  "op_chapter": "813",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2807.1.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2807.1.html",
+  "content_sha256": "a8b8d1d252d540e8ae575cb96e0e090354296e8b563d08541337d7dcbcf2d150",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

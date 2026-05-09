@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15278",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "7",
+  "chapter_title": "Commercial Motor Vehicle Safety Program",
+  "chapter_range": "15200 - 15326",
+  "article": "6",
+  "article_title": "Endorsements",
+  "article_range": "15275 - 15278",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.7.6",
+  "text": "(a) A driver is required to obtain an endorsement issued by the department to operate any commercial motor vehicle that is any of the following:\n\n(1) A double trailer.\n\n(2) A passenger transportation vehicle, which includes, but is not limited to, a bus, farm labor vehicle, or general public paratransit vehicle when designed, used, or maintained to carry more than 10 persons including the driver.\n\n(3) A schoolbus.\n\n(4) A tank vehicle.\n\n(5) A vehicle carrying hazardous materials, as defined in Section 353, that is required to display placards pursuant to Section 27903, unless the driver is exempt from the endorsement requirement as provided in subdivision (b). This paragraph does not apply to any person operating an implement of husbandry who is not required to obtain a driver’s license under this code.\n\n(b) This section does not apply to any person operating a vehicle in an emergency situation at the direction of a peace officer pursuant to Section 2800.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 7. Commercial Motor Vehicle Safety Program [15200 - 15326]\n#### Article 6. Endorsements [15275 - 15278]\n##### § 15278\n\n(a) A driver is required to obtain an endorsement issued by the department to operate any commercial motor vehicle that is any of the following:\n\n    (1) A double trailer.\n\n    (2) A passenger transportation vehicle, which includes, but is not limited to, a bus, farm labor vehicle, or general public paratransit vehicle when designed, used, or maintained to carry more than 10 persons including the driver.\n\n    (3) A schoolbus.\n\n    (4) A tank vehicle.\n\n    (5) A vehicle carrying hazardous materials, as defined in Section 353, that is required to display placards pursuant to Section 27903, unless the driver is exempt from the endorsement requirement as provided in subdivision (b). This paragraph does not apply to any person operating an implement of husbandry who is not required to obtain a driver’s license under this code.\n\n(b) This section does not apply to any person operating a vehicle in an emergency situation at the direction of a peace officer pursuant to Section 2800.\n\n*(Amended by Stats. 2010, Ch. 360, Sec. 7. (AB 1648) Effective January 1, 2011.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A driver is required to obtain an endorsement issued by the department to operate any commercial motor vehicle that is any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A double trailer.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "A passenger transportation vehicle, which includes, but is not limited to, a bus, farm labor vehicle, or general public paratransit vehicle when designed, used, or maintained to carry more than 10 persons including the driver.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "A schoolbus.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "A tank vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "A vehicle carrying hazardous materials, as defined in Section 353, that is required to display placards pursuant to Section 27903, unless the driver is exempt from the endorsement requirement as provided in subdivision (b). This paragraph does not apply to any person operating an implement of husbandry who is not required to obtain a driver’s license under this code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to any person operating a vehicle in an emergency situation at the direction of a peace officer pursuant to Section 2800.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2010, Ch. 360, Sec. 7. (AB 1648) Effective January 1, 2011.)",
+    "action": "Amended",
+    "statutes_year": 2010,
+    "chapter": "360",
+    "section": "7",
+    "bill_number": "AB 1648",
+    "effective_date": "2011-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2010",
+  "op_chapter": "360",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15278.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15278.html",
+  "content_sha256": "df68106c9c44cc65fdc45b68050acb85e7286fc181060b7eb061745e83df1c5e",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23302.5",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "13",
+  "chapter_title": "Vehicular Crossings and Toll Highways",
+  "chapter_range": "23250 - 23336",
+  "article": "3",
+  "article_title": "Tolls and Other Charges",
+  "article_range": "23300 - 23309",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.13.3",
+  "text": "(a) No person shall evade or attempt to evade the payment of tolls or other charges on any vehicular crossing or toll highway.\n\n(b) A violation of subdivision (a) is subject to civil penalties and is neither an infraction nor a public offense, as defined in Section 15 of the Penal Code. The enforcement of those civil penalties shall be governed by the civil administrative procedures set forth in Article 4 (commencing with Section 40250) of Chapter 1 of Division 17.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 13. Vehicular Crossings and Toll Highways [23250 - 23336]\n#### Article 3. Tolls and Other Charges [23300 - 23309]\n##### § 23302.5\n\n(a) No person shall evade or attempt to evade the payment of tolls or other charges on any vehicular crossing or toll highway.\n\n(b) A violation of subdivision (a) is subject to civil penalties and is neither an infraction nor a public offense, as defined in Section 15 of the Penal Code. The enforcement of those civil penalties shall be governed by the civil administrative procedures set forth in Article 4 (commencing with Section 40250) of Chapter 1 of Division 17.\n\n*(Added by Stats. 1995, Ch. 739, Sec. 7. Effective January 1, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall evade or attempt to evade the payment of tolls or other charges on any vehicular crossing or toll highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A violation of subdivision (a) is subject to civil penalties and is neither an infraction nor a public offense, as defined in Section 15 of the Penal Code. The enforcement of those civil penalties shall be governed by the civil administrative procedures set forth in Article 4 (commencing with Section 40250) of Chapter 1 of Division 17.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1995, Ch. 739, Sec. 7. Effective January 1, 1996.)",
+    "action": "Added",
+    "statutes_year": 1995,
+    "chapter": "739",
+    "section": "7",
+    "bill_number": null,
+    "effective_date": "1996-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1995",
+  "op_chapter": "739",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23302.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23302.5.html",
+  "content_sha256": "f7d2f37e2837ad193c8e1d449ebdf4288511218fbc62107b07c484415c5d91e3",
+  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "32051",
+  "division": "14.1",
+  "division_title": "TRANSPORTATION OF HAZARDOUS MATERIAL",
+  "division_range": "32000 - 32053",
+  "chapter": "2",
+  "chapter_title": "Notification of Routes",
+  "chapter_range": "32050 - 32053",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "21.2",
+  "text": "(a) Each advance notification required by Section 32050 shall contain all of the following information:\n\n(1) The name, address, and emergency telephone number of the manufacturer, shipper, carrier, and receiver of the shipment.\n\n(2) A current copy of a material data safety sheet, as designated by the department, regarding the material.\n\n(3) If the shipment is originating within California, the point of origin of the shipment and the 48-hour period during which departure of the shipment is estimated to occur, the destination of the shipment within California, and the 48-hour period during which the shipment is estimated to arrive.\n\n(4) If the shipment is originating outside of California, the point of origin of the shipment and the 48-hour period during which the shipment is estimated to arrive at the state boundary, the destination of the shipment within California, and the 48-hour period during which the shipment is estimated to arrive.\n\n(5) A telephone number and address for current shipment information.\n\n(b) The department shall design a standard notification form to include all of the information specified in subdivision (a) and shall make these forms available by April 1, 1989.",
+  "markdown": "# Vehicle Code\n## Division 14.1. TRANSPORTATION OF HAZARDOUS MATERIAL [32000 - 32053]\n### Chapter 2. Notification of Routes [32050 - 32053]\n##### § 32051\n\n(a) Each advance notification required by Section 32050 shall contain all of the following information:\n\n    (1) The name, address, and emergency telephone number of the manufacturer, shipper, carrier, and receiver of the shipment.\n\n    (2) A current copy of a material data safety sheet, as designated by the department, regarding the material.\n\n    (3) If the shipment is originating within California, the point of origin of the shipment and the 48-hour period during which departure of the shipment is estimated to occur, the destination of the shipment within California, and the 48-hour period during which the shipment is estimated to arrive.\n\n    (4) If the shipment is originating outside of California, the point of origin of the shipment and the 48-hour period during which the shipment is estimated to arrive at the state boundary, the destination of the shipment within California, and the 48-hour period during which the shipment is estimated to arrive.\n\n    (5) A telephone number and address for current shipment information.\n\n(b) The department shall design a standard notification form to include all of the information specified in subdivision (a) and shall make these forms available by April 1, 1989.\n\n*(Added by Stats. 1988, Ch. 1222, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Each advance notification required by Section 32050 shall contain all of the following information:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The name, address, and emergency telephone number of the manufacturer, shipper, carrier, and receiver of the shipment.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "A current copy of a material data safety sheet, as designated by the department, regarding the material.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "If the shipment is originating within California, the point of origin of the shipment and the 48-hour period during which departure of the shipment is estimated to occur, the destination of the shipment within California, and the 48-hour period during which the shipment is estimated to arrive.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "If the shipment is originating outside of California, the point of origin of the shipment and the 48-hour period during which the shipment is estimated to arrive at the state boundary, the destination of the shipment within California, and the 48-hour period during which the shipment is estimated to arrive.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "A telephone number and address for current shipment information.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall design a standard notification form to include all of the information specified in subdivision (a) and shall make these forms available by April 1, 1989.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1988, Ch. 1222, Sec. 2.)",
+    "action": "Added",
+    "statutes_year": 1988,
+    "chapter": "1222",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "1222",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=32051.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/32051.html",
+  "content_sha256": "2c2d1b6db205c81a5596e4cb389b77350331e39e64bcacb429650ac67f6ca78d",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

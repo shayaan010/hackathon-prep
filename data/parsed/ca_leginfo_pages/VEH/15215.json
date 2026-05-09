@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "15215",
+  "division": "6",
+  "division_title": "DRIVERS' LICENSES",
+  "division_range": "12500 - 15326",
+  "chapter": "7",
+  "chapter_title": "Commercial Motor Vehicle Safety Program",
+  "chapter_range": "15200 - 15326",
+  "article": "3",
+  "article_title": "Driver Notification Requirements",
+  "article_range": "15215 - 15230",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "9.7.3",
+  "text": "(a) The department shall report each conviction of a person who holds a commercial driver’s license from another state occurring within this state to the licensing authority of the home state of the licensee. This report shall clearly identify the person convicted; violation date; describe the violation specifying the section of the statute, code, or ordinance violated; identify the court in which action was taken; indicate whether a plea of guilty or not guilty was entered, or the conviction was a result of the forfeiture of bail, bond, or other security; and include special findings made in connection with the conviction.\n\n(b) For purposes of subdivision (a), “conviction” has the same meaning as defined in subdivision (d) of Section 15210.",
+  "markdown": "# Vehicle Code\n## Division 6. DRIVERS' LICENSES [12500 - 15326]\n### Chapter 7. Commercial Motor Vehicle Safety Program [15200 - 15326]\n#### Article 3. Driver Notification Requirements [15215 - 15230]\n##### § 15215\n\n(a) The department shall report each conviction of a person who holds a commercial driver’s license from another state occurring within this state to the licensing authority of the home state of the licensee. This report shall clearly identify the person convicted; violation date; describe the violation specifying the section of the statute, code, or ordinance violated; identify the court in which action was taken; indicate whether a plea of guilty or not guilty was entered, or the conviction was a result of the forfeiture of bail, bond, or other security; and include special findings made in connection with the conviction.\n\n(b) For purposes of subdivision (a), “conviction” has the same meaning as defined in subdivision (d) of Section 15210.\n\n*(Amended by Stats. 2014, Ch. 71, Sec. 175. (SB 1304) Effective January 1, 2015.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall report each conviction of a person who holds a commercial driver’s license from another state occurring within this state to the licensing authority of the home state of the licensee. This report shall clearly identify the person convicted; violation date; describe the violation specifying the section of the statute, code, or ordinance violated; identify the court in which action was taken; indicate whether a plea of guilty or not guilty was entered, or the conviction was a result of the forfeiture of bail, bond, or other security; and include special findings made in connection with the conviction.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For purposes of subdivision (a), “conviction” has the same meaning as defined in subdivision (d) of Section 15210.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2014, Ch. 71, Sec. 175. (SB 1304) Effective January 1, 2015.)",
+    "action": "Amended",
+    "statutes_year": 2014,
+    "chapter": "71",
+    "section": "175",
+    "bill_number": "SB 1304",
+    "effective_date": "2015-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2014",
+  "op_chapter": "71",
+  "op_section": "175",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=15215.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/15215.html",
+  "content_sha256": "178a2656f421631387b783d487f1c589dd8f251ea2007b50fb859026053a0ee9",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

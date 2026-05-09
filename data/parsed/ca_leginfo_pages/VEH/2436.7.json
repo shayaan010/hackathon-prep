@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2436.7",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3.5",
+  "article_title": "Emergency Roadside Assistance",
+  "article_range": "2435 - 2436.7",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.5",
+  "text": "(a) Every tow truck driver and employer, involved in a freeway service patrol operation under an agreement or contract with a regional or local entity, shall attend the training specified in subdivision (b) of Section 2436.5.\n\n(b) Upon successful completion of the training, each trainee shall be issued a certificate of completion. The certificate shall state the name of the training organization, the name and signature of the trainer, the name of the trainee, and the date of completion of the training.\n\n(c) The trainee shall provide a copy of the certificate of training to the employer. The employer shall maintain this information in the tow truck driver files established pursuant to subdivision (c) of Section 2430.5.\n\n(d) Every employer shall make the file available for inspection by the department at the employer’s primary place of business in this state.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3.5. Emergency Roadside Assistance [2435 - 2436.7]\n##### § 2436.7\n\n(a) Every tow truck driver and employer, involved in a freeway service patrol operation under an agreement or contract with a regional or local entity, shall attend the training specified in subdivision (b) of Section 2436.5.\n\n(b) Upon successful completion of the training, each trainee shall be issued a certificate of completion. The certificate shall state the name of the training organization, the name and signature of the trainer, the name of the trainee, and the date of completion of the training.\n\n(c) The trainee shall provide a copy of the certificate of training to the employer. The employer shall maintain this information in the tow truck driver files established pursuant to subdivision (c) of Section 2430.5.\n\n(d) Every employer shall make the file available for inspection by the department at the employer’s primary place of business in this state.\n\n*(Added by Stats. 1991, Ch. 488, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every tow truck driver and employer, involved in a freeway service patrol operation under an agreement or contract with a regional or local entity, shall attend the training specified in subdivision (b) of Section 2436.5.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Upon successful completion of the training, each trainee shall be issued a certificate of completion. The certificate shall state the name of the training organization, the name and signature of the trainer, the name of the trainee, and the date of completion of the training.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The trainee shall provide a copy of the certificate of training to the employer. The employer shall maintain this information in the tow truck driver files established pursuant to subdivision (c) of Section 2430.5.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Every employer shall make the file available for inspection by the department at the employer’s primary place of business in this state.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1991, Ch. 488, Sec. 4.)",
+    "action": "Added",
+    "statutes_year": 1991,
+    "chapter": "488",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "488",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2436.7.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2436.7.html",
+  "content_sha256": "c49b5d4870d0d3fb703edf1ca2f795dc635cabd616a153d5f21b56ebbe7d0876",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

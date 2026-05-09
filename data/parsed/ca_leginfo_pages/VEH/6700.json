@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "6700",
+  "division": "3",
+  "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
+  "division_range": "4000 - 9808",
+  "chapter": "4",
+  "chapter_title": "Permits to Nonresident Owners",
+  "chapter_range": "6700 - 8204",
+  "article": "1",
+  "article_title": "Exemption of Nonresidents",
+  "article_range": "6700 - 6703",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "4.5.1",
+  "text": "(a) Except as provided in Section 6700.2, the owner of any vehicle of a type otherwise subject to registration under this code, other than a commercial vehicle registered in a foreign jurisdiction, may operate the vehicle in this state until gainful employment is accepted in this state or until residency is established in this state, whichever occurs first, if the vehicle displays valid license plates and has a valid registration issued to the owner, and the owner was a resident of that state at the time of issuance. Application to register the vehicle shall be made within 20 days after gainful employment is accepted in this state or residency is established in this state.\n\n(b) A nonresident owner of a vehicle, otherwise exempt from registration pursuant to this section or Section 6700.2, may operate or permit operation of the vehicle in this state without registering the vehicle in this state if the vehicle is registered in the place of residence of the owner and displays upon it valid license plates issued by that place. This exemption does not apply if the nonresident owner rents, leases, lends, or otherwise furnishes the vehicle to a California resident for regular use on the highways of this state, as defined in subdivision (b) of Section 4000.4.\n\n(c) Any resident who operates upon a highway of this state a vehicle owned by a nonresident who furnished the vehicle to the resident operator for his or her regular use within this state, as defined in subdivision (b) of Section 4000.4, shall cause the vehicle to be registered in California within 20 days after its first operation within this state by the resident.",
+  "markdown": "# Vehicle Code\n## Division 3. REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE [4000 - 9808]\n### Chapter 4. Permits to Nonresident Owners [6700 - 8204]\n#### Article 1. Exemption of Nonresidents [6700 - 6703]\n##### § 6700\n\n(a) Except as provided in Section 6700.2, the owner of any vehicle of a type otherwise subject to registration under this code, other than a commercial vehicle registered in a foreign jurisdiction, may operate the vehicle in this state until gainful employment is accepted in this state or until residency is established in this state, whichever occurs first, if the vehicle displays valid license plates and has a valid registration issued to the owner, and the owner was a resident of that state at the time of issuance. Application to register the vehicle shall be made within 20 days after gainful employment is accepted in this state or residency is established in this state.\n\n(b) A nonresident owner of a vehicle, otherwise exempt from registration pursuant to this section or Section 6700.2, may operate or permit operation of the vehicle in this state without registering the vehicle in this state if the vehicle is registered in the place of residence of the owner and displays upon it valid license plates issued by that place. This exemption does not apply if the nonresident owner rents, leases, lends, or otherwise furnishes the vehicle to a California resident for regular use on the highways of this state, as defined in subdivision (b) of Section 4000.4.\n\n(c) Any resident who operates upon a highway of this state a vehicle owned by a nonresident who furnished the vehicle to the resident operator for his or her regular use within this state, as defined in subdivision (b) of Section 4000.4, shall cause the vehicle to be registered in California within 20 days after its first operation within this state by the resident.\n\n*(Amended by Stats. 2003, Ch. 594, Sec. 30. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in Section 6700.2, the owner of any vehicle of a type otherwise subject to registration under this code, other than a commercial vehicle registered in a foreign jurisdiction, may operate the vehicle in this state until gainful employment is accepted in this state or until residency is established in this state, whichever occurs first, if the vehicle displays valid license plates and has a valid registration issued to the owner, and the owner was a resident of that state at the time of issuance. Application to register the vehicle shall be made within 20 days after gainful employment is accepted in this state or residency is established in this state.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A nonresident owner of a vehicle, otherwise exempt from registration pursuant to this section or Section 6700.2, may operate or permit operation of the vehicle in this state without registering the vehicle in this state if the vehicle is registered in the place of residence of the owner and displays upon it valid license plates issued by that place. This exemption does not apply if the nonresident owner rents, leases, lends, or otherwise furnishes the vehicle to a California resident for regular use on the highways of this state, as defined in subdivision (b) of Section 4000.4.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any resident who operates upon a highway of this state a vehicle owned by a nonresident who furnished the vehicle to the resident operator for his or her regular use within this state, as defined in subdivision (b) of Section 4000.4, shall cause the vehicle to be registered in California within 20 days after its first operation within this state by the resident.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 594, Sec. 30. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "594",
+    "section": "30",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "594",
+  "op_section": "30",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6700.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/6700.html",
+  "content_sha256": "3169868e1a1b56d801eb267a2e4e9c00e8896d750df35e525393ba9120588fe7",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

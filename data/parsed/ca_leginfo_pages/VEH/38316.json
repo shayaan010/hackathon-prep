@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38316",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "5",
+  "chapter_title": "Off-Highway Vehicle Operating Rules",
+  "chapter_range": "38280 - 38321",
+  "article": "5",
+  "article_title": "Reckless Driving",
+  "article_range": "38316 - 38318.5",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.3.5",
+  "text": "(a) It is unlawful for any person to drive any off-highway motor vehicle with a willful and wanton disregard for the safety of other persons or property.\n\n(b) Any person who violates this section shall, upon conviction thereof, be punished by imprisonment in the county jail for not less than five days nor more than 90 days or by fine of not less than fifty dollars ($50) nor more than five hundred dollars ($500) or by both such fine and imprisonment, except as provided in Section 38317.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 5. Off-Highway Vehicle Operating Rules [38280 - 38321]\n#### Article 5. Reckless Driving [38316 - 38318.5]\n##### § 38316\n\n(a) It is unlawful for any person to drive any off-highway motor vehicle with a willful and wanton disregard for the safety of other persons or property.\n\n(b) Any person who violates this section shall, upon conviction thereof, be punished by imprisonment in the county jail for not less than five days nor more than 90 days or by fine of not less than fifty dollars ($50) nor more than five hundred dollars ($500) or by both such fine and imprisonment, except as provided in Section 38317.\n\n*(Amended by Stats. 1983, Ch. 1092, Sec. 397. Effective September 27, 1983. Operative January 1, 1984, by Sec. 427 of Ch. 1092.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is unlawful for any person to drive any off-highway motor vehicle with a willful and wanton disregard for the safety of other persons or property.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any person who violates this section shall, upon conviction thereof, be punished by imprisonment in the county jail for not less than five days nor more than 90 days or by fine of not less than fifty dollars ($50) nor more than five hundred dollars ($500) or by both such fine and imprisonment, except as provided in Section 38317.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 1092, Sec. 397. Effective September 27, 1983. Operative January 1, 1984, by Sec. 427 of Ch. 1092.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "1092",
+    "section": "397",
+    "bill_number": null,
+    "effective_date": "1983-09-27",
+    "operative_date": "1984-01-01"
+  },
+  "op_statues": "1983",
+  "op_chapter": "1092",
+  "op_section": "397",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38316.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38316.html",
+  "content_sha256": "eeb081c9477efa054af02f52b160587fc3811fe7e0532b16a12fda996b3061c4",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

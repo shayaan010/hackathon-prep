@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2418",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "3",
+  "article_title": "Powers and Duties",
+  "article_range": "2400 - 2429.9",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.3",
+  "text": "The department shall adopt reasonable rules and regulations to ensure that all foreign commercial vehicles entering into, and operating within, this state meet those standards already in effect for other commercial vehicles and shall address, but not be limited to, the following concerns:\n\n(a) Vehicle maintenance.\n\n(b) Maximum hours of service for drivers.\n\n(c) Insurance.\n\n(d) Enforcement of criminal, civil, and administrative actions, including, but not limited to, impoundment of vehicles for second or subsequent violations of rules and regulations adopted under this section.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 3. Powers and Duties [2400 - 2429.9]\n##### § 2418\n\nThe department shall adopt reasonable rules and regulations to ensure that all foreign commercial vehicles entering into, and operating within, this state meet those standards already in effect for other commercial vehicles and shall address, but not be limited to, the following concerns:\n\n(a) Vehicle maintenance.\n\n(b) Maximum hours of service for drivers.\n\n(c) Insurance.\n\n(d) Enforcement of criminal, civil, and administrative actions, including, but not limited to, impoundment of vehicles for second or subsequent violations of rules and regulations adopted under this section.\n\n*(Added by Stats. 1998, Ch. 727, Sec. 3. Effective January 1, 1999. Pursuant to Sec. 5 of Ch. 727, this addition became operative only if funding was provided in the 1998 Budget Act.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department shall adopt reasonable rules and regulations to ensure that all foreign commercial vehicles entering into, and operating within, this state meet those standards already in effect for other commercial vehicles and shall address, but not be limited to, the following concerns:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Vehicle maintenance.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Maximum hours of service for drivers.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Insurance.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Enforcement of criminal, civil, and administrative actions, including, but not limited to, impoundment of vehicles for second or subsequent violations of rules and regulations adopted under this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1998, Ch. 727, Sec. 3. Effective January 1, 1999. Pursuant to Sec. 5 of Ch. 727, this addition became operative only if funding was provided in the 1998 Budget Act.)",
+    "action": "Added",
+    "statutes_year": 1998,
+    "chapter": "727",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "1999-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1998",
+  "op_chapter": "727",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2418.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2418.html",
+  "content_sha256": "011c4a87e764076f1c718cae8994e7467a2f6ce1b8040ba4f6b49970d6a56781",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

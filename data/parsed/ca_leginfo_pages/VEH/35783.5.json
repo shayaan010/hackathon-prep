@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35783.5",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "5",
+  "chapter_title": "Weight",
+  "chapter_range": "35550 - 35796",
+  "article": "6",
+  "article_title": "Permits and Agreements",
+  "article_range": "35780 - 35796",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.5.7",
+  "text": "Warning signs required by the terms of a permit shall either be removed from the vehicle or covered from the view of other motorists whenever the vehicle is operating without the load that required the permit.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 5. Weight [35550 - 35796]\n#### Article 6. Permits and Agreements [35780 - 35796]\n##### § 35783.5\n\nWarning signs required by the terms of a permit shall either be removed from the vehicle or covered from the view of other motorists whenever the vehicle is operating without the load that required the permit.\n\n*(Added by Stats. 1978, Ch. 287.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Warning signs required by the terms of a permit shall either be removed from the vehicle or covered from the view of other motorists whenever the vehicle is operating without the load that required the permit.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1978, Ch. 287.)",
+    "action": "Added",
+    "statutes_year": 1978,
+    "chapter": "287",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1978",
+  "op_chapter": "287",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35783.5.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35783.5.html",
+  "content_sha256": "12840b0c83313896bdf6c61ac98c10c7f874f6be68cce1c1d146bc6e8134ad43",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

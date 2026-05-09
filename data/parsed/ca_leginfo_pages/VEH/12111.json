@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "12111",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "9",
+  "chapter_title": "Towing",
+  "chapter_range": "12110 - 12111",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.12",
+  "text": "(a) Except as provided in subdivision (b), no city or city and county may impose a business license tax for revenue-raising purposes on the operation of a tow truck in its jurisdiction if the vehicle tower maintains no fixed place of business within the boundaries of the city or city and county.\n\n(b) A city or city and county may impose a business license tax upon a vehicle tower doing business within its jurisdiction who has no fixed place of business therein, if the license tax is graduated according to gross receipts attributable to work done within the city or city and county.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 9. Towing [12110 - 12111]\n##### § 12111\n\n(a) Except as provided in subdivision (b), no city or city and county may impose a business license tax for revenue-raising purposes on the operation of a tow truck in its jurisdiction if the vehicle tower maintains no fixed place of business within the boundaries of the city or city and county.\n\n(b) A city or city and county may impose a business license tax upon a vehicle tower doing business within its jurisdiction who has no fixed place of business therein, if the license tax is graduated according to gross receipts attributable to work done within the city or city and county.\n\n*(Amended by Stats. 1988, Ch. 924, Sec. 6.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in subdivision (b), no city or city and county may impose a business license tax for revenue-raising purposes on the operation of a tow truck in its jurisdiction if the vehicle tower maintains no fixed place of business within the boundaries of the city or city and county.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A city or city and county may impose a business license tax upon a vehicle tower doing business within its jurisdiction who has no fixed place of business therein, if the license tax is graduated according to gross receipts attributable to work done within the city or city and county.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1988, Ch. 924, Sec. 6.)",
+    "action": "Amended",
+    "statutes_year": 1988,
+    "chapter": "924",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "924",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12111.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/12111.html",
+  "content_sha256": "fbe5d7eadfb14027a3b94a3ab3c1f29dfd3b47a71e6e8c0a9947362ce60d40e1",
+  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parser_version": "1"
+}

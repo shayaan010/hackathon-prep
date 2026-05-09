@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34501.18",
+  "division": "14.8",
+  "division_title": "SAFETY REGULATIONS",
+  "division_range": "34500 - 34520.5",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "25",
+  "text": "(a) Every motor carrier regularly employing more than 20 full-time drivers shall report to the department whenever it replaces more than half of its drivers within a 30-day period. Within 21 days of receipt of that report, the department shall inspect the motor carrier to ensure that the motor carrier is complying with all safety of operations requirements, including, but not limited to, controlled substances testing and hours-of-service regulations. The reporting requirement of this subdivision does not apply to a motor carrier who, through normal seasonal fluctuations in the business operations of the carrier, or through termination of a contract for transportation services, other than a collective bargaining agreement, replaces drivers in one geographical location with drivers in another geographical location.\n\n(b) For the purposes of subdivision (a), “employing” means having an employer-employee relationship with a driver or contracting with an owner-operator, as described in Section 34624, to provide transportation services for more than 30 days within the previous year.\n\n(c) For the purposes of subdivision (a), “full-time” means that the driver is on-duty with the motor carrier for an average of 30 hours or more per week during the course of his or her employment or contract with the motor carrier.",
+  "markdown": "# Vehicle Code\n## Division 14.8. SAFETY REGULATIONS [34500 - 34520.5]\n##### § 34501.18\n\n(a) Every motor carrier regularly employing more than 20 full-time drivers shall report to the department whenever it replaces more than half of its drivers within a 30-day period. Within 21 days of receipt of that report, the department shall inspect the motor carrier to ensure that the motor carrier is complying with all safety of operations requirements, including, but not limited to, controlled substances testing and hours-of-service regulations. The reporting requirement of this subdivision does not apply to a motor carrier who, through normal seasonal fluctuations in the business operations of the carrier, or through termination of a contract for transportation services, other than a collective bargaining agreement, replaces drivers in one geographical location with drivers in another geographical location.\n\n(b) For the purposes of subdivision (a), “employing” means having an employer-employee relationship with a driver or contracting with an owner-operator, as described in Section 34624, to provide transportation services for more than 30 days within the previous year.\n\n(c) For the purposes of subdivision (a), “full-time” means that the driver is on-duty with the motor carrier for an average of 30 hours or more per week during the course of his or her employment or contract with the motor carrier.\n\n*(Added by Stats. 2001, Ch. 789, Sec. 1. Effective January 1, 2002.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every motor carrier regularly employing more than 20 full-time drivers shall report to the department whenever it replaces more than half of its drivers within a 30-day period. Within 21 days of receipt of that report, the department shall inspect the motor carrier to ensure that the motor carrier is complying with all safety of operations requirements, including, but not limited to, controlled substances testing and hours-of-service regulations. The reporting requirement of this subdivision does not apply to a motor carrier who, through normal seasonal fluctuations in the business operations of the carrier, or through termination of a contract for transportation services, other than a collective bargaining agreement, replaces drivers in one geographical location with drivers in another geographical location.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For the purposes of subdivision (a), “employing” means having an employer-employee relationship with a driver or contracting with an owner-operator, as described in Section 34624, to provide transportation services for more than 30 days within the previous year.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "For the purposes of subdivision (a), “full-time” means that the driver is on-duty with the motor carrier for an average of 30 hours or more per week during the course of his or her employment or contract with the motor carrier.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2001, Ch. 789, Sec. 1. Effective January 1, 2002.)",
+    "action": "Added",
+    "statutes_year": 2001,
+    "chapter": "789",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2002-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "789",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34501.18.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34501.18.html",
+  "content_sha256": "0dbb070dbff38e3783880b0efbf109a5604d3c81f8f22f4729e711b4f07ef50c",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

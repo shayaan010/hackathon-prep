@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "40000.24",
+  "division": "17",
+  "division_title": "OFFENSES AND PROSECUTION",
+  "division_range": "40000.1 - 41610",
+  "chapter": "1",
+  "chapter_title": "Offenses",
+  "chapter_range": "40000.1 - 40273",
+  "article": "1",
+  "article_title": "Violation of Code",
+  "article_range": "40000.1 - 40008",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "34.1.1",
+  "text": "A violation of any of the following provisions shall constitute a misdemeanor and not an infraction:\n\n(a) Subdivision (c) of Section 38301.5, relating to unauthorized operation of a vehicle within a mountain fire district.\n\n(b) Section 38316, relating to reckless driving.\n\n(c) Section 38317, relating to reckless driving with injury.\n\n(d) Subdivision (a) of Section 38318 or subdivision (a) of Section 38318.5, relating to off-highway vehicles.\n\n(e) Section 38319, relating to protection of the environment.\n\n(f) Section 38320, relating to the depositing of matter.",
+  "markdown": "# Vehicle Code\n## Division 17. OFFENSES AND PROSECUTION [40000.1 - 41610]\n### Chapter 1. Offenses [40000.1 - 40273]\n#### Article 1. Violation of Code [40000.1 - 40008]\n##### § 40000.24\n\nA violation of any of the following provisions shall constitute a misdemeanor and not an infraction:\n\n(a) Subdivision (c) of Section 38301.5, relating to unauthorized operation of a vehicle within a mountain fire district.\n\n(b) Section 38316, relating to reckless driving.\n\n(c) Section 38317, relating to reckless driving with injury.\n\n(d) Subdivision (a) of Section 38318 or subdivision (a) of Section 38318.5, relating to off-highway vehicles.\n\n(e) Section 38319, relating to protection of the environment.\n\n(f) Section 38320, relating to the depositing of matter.\n\n*(Amended by Stats. 1984, Ch. 1015, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A violation of any of the following provisions shall constitute a misdemeanor and not an infraction:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Subdivision (c) of Section 38301.5, relating to unauthorized operation of a vehicle within a mountain fire district.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Section 38316, relating to reckless driving.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Section 38317, relating to reckless driving with injury.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Subdivision (a) of Section 38318 or subdivision (a) of Section 38318.5, relating to off-highway vehicles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "Section 38319, relating to protection of the environment.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "f",
+      "text": "Section 38320, relating to the depositing of matter.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1984, Ch. 1015, Sec. 3.)",
+    "action": "Amended",
+    "statutes_year": 1984,
+    "chapter": "1015",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "1015",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40000.24.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/40000.24.html",
+  "content_sha256": "4c921c8473bb75550b27b0c4a3c7aa7efd17661238bae3c977620aae1c9b76c1",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2902",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "5",
+  "chapter_title": "California Traffic Safety Program",
+  "chapter_range": "2900 - 2935",
+  "article": "1",
+  "article_title": "Traffic Safety",
+  "article_range": "2900 - 2911",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.5.1",
+  "text": "To the maximum extent permitted by federal law and regulations and the laws of this state, the Governor may delegate to the Secretary of Transportation and the highway safety representative the authority necessary to administer the program, and the secretary and the representative may exercise this authority once delegated.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 5. California Traffic Safety Program [2900 - 2935]\n#### Article 1. Traffic Safety [2900 - 2911]\n##### § 2902\n\nTo the maximum extent permitted by federal law and regulations and the laws of this state, the Governor may delegate to the Secretary of Transportation and the highway safety representative the authority necessary to administer the program, and the secretary and the representative may exercise this authority once delegated.\n\n*(Amended by Stats. 2013, Ch. 352, Sec. 523. (AB 1317) Effective September 26, 2013. Operative July 1, 2013, by Sec. 543 of Ch. 352.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "To the maximum extent permitted by federal law and regulations and the laws of this state, the Governor may delegate to the Secretary of Transportation and the highway safety representative the authority necessary to administer the program, and the secretary and the representative may exercise this authority once delegated.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2013, Ch. 352, Sec. 523. (AB 1317) Effective September 26, 2013. Operative July 1, 2013, by Sec. 543 of Ch. 352.)",
+    "action": "Amended",
+    "statutes_year": 2013,
+    "chapter": "352",
+    "section": "523",
+    "bill_number": "AB 1317",
+    "effective_date": "2013-09-26",
+    "operative_date": "2013-07-01"
+  },
+  "op_statues": "2013",
+  "op_chapter": "352",
+  "op_section": "523",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2902.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2902.html",
+  "content_sha256": "5c67d97a03141bcade9ddac127e1faa4e8d53fe193cd89ef31d7525d0b2a20fc",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "34508",
+  "division": "14.8",
+  "division_title": "SAFETY REGULATIONS",
+  "division_range": "34500 - 34520.5",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "25",
+  "text": "The Department of the California Highway Patrol shall adopt and enforce rules and regulations relating to the equipment, maintenance, construction, design, color, and operation of schoolbuses.",
+  "markdown": "# Vehicle Code\n## Division 14.8. SAFETY REGULATIONS [34500 - 34520.5]\n##### § 34508\n\nThe Department of the California Highway Patrol shall adopt and enforce rules and regulations relating to the equipment, maintenance, construction, design, color, and operation of schoolbuses.\n\n*(Amended by Stats. 1981, Ch. 774, Sec. 11.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The Department of the California Highway Patrol shall adopt and enforce rules and regulations relating to the equipment, maintenance, construction, design, color, and operation of schoolbuses.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1981, Ch. 774, Sec. 11.)",
+    "action": "Amended",
+    "statutes_year": 1981,
+    "chapter": "774",
+    "section": "11",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1981",
+  "op_chapter": "774",
+  "op_section": "11",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34508.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/34508.html",
+  "content_sha256": "68763f5f2fc1c813d082cde6ce91d3c53197fdb4e5632e8ed292da6f045cdccc",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

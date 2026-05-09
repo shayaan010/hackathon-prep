@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11713.19",
+  "division": "5",
+  "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
+  "division_range": "11100 - 12217",
+  "chapter": "4",
+  "chapter_title": "Manufacturers, Transporters, Dealers, and Salesmen",
+  "chapter_range": "11700 - 11909",
+  "article": "1",
+  "article_title": "Issuance of Licenses and Certificates to Manufacturers, Transporters, and Dealers",
+  "article_range": "11700 - 11740",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "8.7.1",
+  "text": "(a) It is unlawful and a violation of this code for the holder of any dealer’s license issued under this article to do any of the following:\n\n(1) Negotiate the terms of a vehicle sale or lease contract and then add charges to the contract for any goods or services without previously disclosing to the consumer the goods and services to be added and obtaining the consumer’s consent.\n\n(2) (A) Inflate the amount of an installment payment or down payment or extend the maturity of a sale or lease contract for the purpose of disguising the actual charges for goods or services to be added by the dealer to the contract.\n\n(B) For purposes of subparagraph (A), “goods or services” means any type of good or service, including, but not limited to, insurance and service contracts.\n\n(b) Subdivision (a) does not apply to the sale or lease of a motorcycle or an off-highway motor vehicle subject to identification under Section 38010.",
+  "markdown": "# Vehicle Code\n## Division 5. OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS [11100 - 12217]\n### Chapter 4. Manufacturers, Transporters, Dealers, and Salesmen [11700 - 11909]\n#### Article 1. Issuance of Licenses and Certificates to Manufacturers, Transporters, and Dealers [11700 - 11740]\n##### § 11713.19\n\n(a) It is unlawful and a violation of this code for the holder of any dealer’s license issued under this article to do any of the following:\n\n    (1) Negotiate the terms of a vehicle sale or lease contract and then add charges to the contract for any goods or services without previously disclosing to the consumer the goods and services to be added and obtaining the consumer’s consent.\n\n    (2) (A) Inflate the amount of an installment payment or down payment or extend the maturity of a sale or lease contract for the purpose of disguising the actual charges for goods or services to be added by the dealer to the contract.\n\n        (B) For purposes of subparagraph (A), “goods or services” means any type of good or service, including, but not limited to, insurance and service contracts.\n\n(b) Subdivision (a) does not apply to the sale or lease of a motorcycle or an off-highway motor vehicle subject to identification under Section 38010.\n\n*(Added by Stats. 2005, Ch. 128, Sec. 9. Effective January 1, 2006. Operative July 1, 2006, by Sec. 12 of Ch. 128.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is unlawful and a violation of this code for the holder of any dealer’s license issued under this article to do any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Negotiate the terms of a vehicle sale or lease contract and then add charges to the contract for any goods or services without previously disclosing to the consumer the goods and services to be added and obtaining the consumer’s consent.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "(A) Inflate the amount of an installment payment or down payment or extend the maturity of a sale or lease contract for the purpose of disguising the actual charges for goods or services to be added by the dealer to the contract.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "B",
+      "text": "For purposes of subparagraph (A), “goods or services” means any type of good or service, including, but not limited to, insurance and service contracts.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "b",
+      "text": "Subdivision (a) does not apply to the sale or lease of a motorcycle or an off-highway motor vehicle subject to identification under Section 38010.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2005, Ch. 128, Sec. 9. Effective January 1, 2006. Operative July 1, 2006, by Sec. 12 of Ch. 128.)",
+    "action": "Added",
+    "statutes_year": 2005,
+    "chapter": "128",
+    "section": "9",
+    "bill_number": null,
+    "effective_date": "2006-01-01",
+    "operative_date": "2006-07-01"
+  },
+  "op_statues": "2005",
+  "op_chapter": "128",
+  "op_section": "9",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11713.19.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11713.19.html",
+  "content_sha256": "db2dd9ddcd94e923bdab2d624159851ff05ac1389bab08fc0dd34446dfee1c0b",
+  "parsed_at": "2026-05-09T17:53:44+00:00",
+  "parser_version": "1"
+}

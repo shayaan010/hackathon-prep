@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "42001.12",
+  "division": "18",
+  "division_title": "PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+  "division_range": "42000 - 42277",
+  "chapter": "1",
+  "chapter_title": "Penalties",
+  "chapter_range": "42000 - 42032",
+  "article": "1",
+  "article_title": "Public Offenses",
+  "article_range": "42000 - 42010",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "35.1.1",
+  "text": "Every person convicted of an infraction for a violation of Section 21806 shall be punished as follows:\n\n(a) For a first conviction, by a fine of not less than one hundred dollars ($100) nor more than two hundred fifty dollars ($250).\n\n(b) For a second conviction within one year, by a fine of not less than one hundred fifty dollars ($150) nor more than five hundred dollars ($500).\n\n(c) For a third or any subsequent conviction within three years, by a fine of not less than two hundred fifty dollars ($250) nor more than five hundred dollars ($500).",
+  "markdown": "# Vehicle Code\n## Division 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES [42000 - 42277]\n### Chapter 1. Penalties [42000 - 42032]\n#### Article 1. Public Offenses [42000 - 42010]\n##### § 42001.12\n\nEvery person convicted of an infraction for a violation of Section 21806 shall be punished as follows:\n\n(a) For a first conviction, by a fine of not less than one hundred dollars ($100) nor more than two hundred fifty dollars ($250).\n\n(b) For a second conviction within one year, by a fine of not less than one hundred fifty dollars ($150) nor more than five hundred dollars ($500).\n\n(c) For a third or any subsequent conviction within three years, by a fine of not less than two hundred fifty dollars ($250) nor more than five hundred dollars ($500).\n\n*(Added by Stats. 1991, Ch. 13, Sec. 67. Effective February 13, 1991.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every person convicted of an infraction for a violation of Section 21806 shall be punished as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "For a first conviction, by a fine of not less than one hundred dollars ($100) nor more than two hundred fifty dollars ($250).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For a second conviction within one year, by a fine of not less than one hundred fifty dollars ($150) nor more than five hundred dollars ($500).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "For a third or any subsequent conviction within three years, by a fine of not less than two hundred fifty dollars ($250) nor more than five hundred dollars ($500).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1991, Ch. 13, Sec. 67. Effective February 13, 1991.)",
+    "action": "Added",
+    "statutes_year": 1991,
+    "chapter": "13",
+    "section": "67",
+    "bill_number": null,
+    "effective_date": "1991-02-13",
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "13",
+  "op_section": "67",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42001.12.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/42001.12.html",
+  "content_sha256": "246eff31ea719b3891635771c32dac2e92cf76dcf95566cfddc648a9284d1e4f",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

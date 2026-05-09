@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "1673.7",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "1",
+  "chapter_title": "The Department of Motor Vehicles",
+  "chapter_range": "1500 - 1825",
+  "article": "2",
+  "article_title": "Powers and Duties",
+  "article_range": "1650 - 1685.1",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.1.2",
+  "text": "(a) The department shall include the following notice with each check issued as a refund of the smog impact fee:\n\n“The enclosed check is a refund of the $300 Smog Impact Fee you paid to the Department of Motor Vehicles when you initially registered an out-of-state vehicle in California. In the case of Jordan v. Department of Motor Vehicles (1999) 75 Cal.App.4th 449, the court ruled the smog impact fee unconstitutional. The enclosed check includes an interest payment which has been calculated from the date the fee was paid to the date the refund is issued.\n\n“If you have any questions about the enclosed refund, please contact your local office of the Department of Motor Vehicles.”\n\n(b) No notice other than the one required under subdivision (a) may be included with a smog impact fee refund check.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 1. The Department of Motor Vehicles [1500 - 1825]\n#### Article 2. Powers and Duties [1650 - 1685.1]\n##### § 1673.7\n\n(a) The department shall include the following notice with each check issued as a refund of the smog impact fee:\n\n“The enclosed check is a refund of the $300 Smog Impact Fee you paid to the Department of Motor Vehicles when you initially registered an out-of-state vehicle in California. In the case of Jordan v. Department of Motor Vehicles (1999) 75 Cal.App.4th 449, the court ruled the smog impact fee unconstitutional. The enclosed check includes an interest payment which has been calculated from the date the fee was paid to the date the refund is issued.\n\n“If you have any questions about the enclosed refund, please contact your local office of the Department of Motor Vehicles.”\n\n(b) No notice other than the one required under subdivision (a) may be included with a smog impact fee refund check.\n\n*(Added by Stats. 2000, Ch. 31, Sec. 8. Effective June 8, 2000.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall include the following notice with each check issued as a refund of the smog impact fee:",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "“The enclosed check is a refund of the $300 Smog Impact Fee you paid to the Department of Motor Vehicles when you initially registered an out-of-state vehicle in California. In the case of Jordan v. Department of Motor Vehicles (1999) 75 Cal.App.4th 449, the court ruled the smog impact fee unconstitutional. The enclosed check includes an interest payment which has been calculated from the date the fee was paid to the date the refund is issued.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "“If you have any questions about the enclosed refund, please contact your local office of the Department of Motor Vehicles.”",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No notice other than the one required under subdivision (a) may be included with a smog impact fee refund check.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2000, Ch. 31, Sec. 8. Effective June 8, 2000.)",
+    "action": "Added",
+    "statutes_year": 2000,
+    "chapter": "31",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": "2000-06-08",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "31",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1673.7.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/1673.7.html",
+  "content_sha256": "ad7c1dea7978e1f33eca3ddaa5914868acd39508383498f8c57cc8185dc7aa55",
+  "parsed_at": "2026-05-09T17:16:14+00:00",
+  "parser_version": "1"
+}

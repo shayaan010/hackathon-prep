@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "38335",
+  "division": "16.5",
+  "division_title": "OFF-HIGHWAY VEHICLES",
+  "division_range": "38000 - 38604",
+  "chapter": "6",
+  "chapter_title": "Equipment of Off-Highway Vehicles",
+  "chapter_range": "38325 - 38397",
+  "article": "2",
+  "article_title": "Lighting Equipment",
+  "article_range": "38335 - 38346",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "31.4.2",
+  "text": "When operated from one-half hour after sunset to one-half hour before sunrise, each motor vehicle shall be equipped with at least one lighted white headlamp directed toward the front of the vehicle. Such lamp shall be of an intensity sufficient to reveal persons and vehicles at a distance of at least 200 feet.",
+  "markdown": "# Vehicle Code\n## Division 16.5. OFF-HIGHWAY VEHICLES [38000 - 38604]\n### Chapter 6. Equipment of Off-Highway Vehicles [38325 - 38397]\n#### Article 2. Lighting Equipment [38335 - 38346]\n##### § 38335\n\nWhen operated from one-half hour after sunset to one-half hour before sunrise, each motor vehicle shall be equipped with at least one lighted white headlamp directed toward the front of the vehicle. Such lamp shall be of an intensity sufficient to reveal persons and vehicles at a distance of at least 200 feet.\n\n*(Added by Stats. 1976, Ch. 1093.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "When operated from one-half hour after sunset to one-half hour before sunrise, each motor vehicle shall be equipped with at least one lighted white headlamp directed toward the front of the vehicle. Such lamp shall be of an intensity sufficient to reveal persons and vehicles at a distance of at least 200 feet.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1976, Ch. 1093.)",
+    "action": "Added",
+    "statutes_year": 1976,
+    "chapter": "1093",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "1093",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38335.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/38335.html",
+  "content_sha256": "d9f3777bf4337d817d0eb084b6e8ffc910d23b05c561ed09b91ad649953f7028",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}

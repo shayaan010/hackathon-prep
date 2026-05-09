@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2452",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "2",
+  "chapter_title": "Department of the California Highway Patrol",
+  "chapter_range": "2100 - 2482",
+  "article": "4",
+  "article_title": "Highway Spill Containment and Abatement of Hazardous Substances",
+  "article_range": "2450 - 2454",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.2.6",
+  "text": "“Hazardous substance” means any hazardous material defined in Section 353 and any toxic substance defined pursuant to Section 108145 of the Health and Safety Code.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 2. Department of the California Highway Patrol [2100 - 2482]\n#### Article 4. Highway Spill Containment and Abatement of Hazardous Substances [2450 - 2454]\n##### § 2452\n\n“Hazardous substance” means any hazardous material defined in Section 353 and any toxic substance defined pursuant to Section 108145 of the Health and Safety Code.\n\n*(Amended by Stats. 1996, Ch. 1023, Sec. 424. Effective September 29, 1996.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "“Hazardous substance” means any hazardous material defined in Section 353 and any toxic substance defined pursuant to Section 108145 of the Health and Safety Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 1023, Sec. 424. Effective September 29, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "1023",
+    "section": "424",
+    "bill_number": null,
+    "effective_date": "1996-09-29",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "1023",
+  "op_section": "424",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2452.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2452.html",
+  "content_sha256": "473dcc36cd1fa5fb5736897d6a1ddf4ed3dca656885872158708e34f2eb52738",
+  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parser_version": "1"
+}

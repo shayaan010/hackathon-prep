@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "9874",
+  "division": "3.5",
+  "division_title": "REGISTRATION AND TRANSFER OF VESSELS",
+  "division_range": "9840 - 9928",
+  "chapter": "2",
+  "chapter_title": "Registration",
+  "chapter_range": "9850 - 9880",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "5.2",
+  "text": "The department may suspend, cancel, or revoke the registration of a vessel, a certificate of number, sticker, certificate of ownership, or temporary certificate of number in any of the following cases:\n\n(a) When the department is satisfied that the registration or the certificate of number, sticker, certificate of ownership, or temporary certificate of number was fraudulently obtained or erroneously issued.\n\n(b) When the department determines that the required fee has not been paid and the same is not paid upon reasonable notice and demand.",
+  "markdown": "# Vehicle Code\n## Division 3.5. REGISTRATION AND TRANSFER OF VESSELS [9840 - 9928]\n### Chapter 2. Registration [9850 - 9880]\n##### § 9874\n\nThe department may suspend, cancel, or revoke the registration of a vessel, a certificate of number, sticker, certificate of ownership, or temporary certificate of number in any of the following cases:\n\n(a) When the department is satisfied that the registration or the certificate of number, sticker, certificate of ownership, or temporary certificate of number was fraudulently obtained or erroneously issued.\n\n(b) When the department determines that the required fee has not been paid and the same is not paid upon reasonable notice and demand.\n\n*(Added by Stats. 1970, Ch. 1428.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department may suspend, cancel, or revoke the registration of a vessel, a certificate of number, sticker, certificate of ownership, or temporary certificate of number in any of the following cases:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "When the department is satisfied that the registration or the certificate of number, sticker, certificate of ownership, or temporary certificate of number was fraudulently obtained or erroneously issued.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When the department determines that the required fee has not been paid and the same is not paid upon reasonable notice and demand.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1970, Ch. 1428.)",
+    "action": "Added",
+    "statutes_year": 1970,
+    "chapter": "1428",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1970",
+  "op_chapter": "1428",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=9874.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/9874.html",
+  "content_sha256": "71f246480fe8713dc2146a8e969dd750e976f63e8fde90cf133d2d57677475b8",
+  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parser_version": "1"
+}

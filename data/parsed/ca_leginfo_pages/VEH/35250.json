@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "35250",
+  "division": "15",
+  "division_title": "SIZE, WEIGHT, AND LOAD",
+  "division_range": "35000 - 35796",
+  "chapter": "3",
+  "chapter_title": "Height",
+  "chapter_range": "35250 - 35252",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "29.3",
+  "text": "No vehicle or load shall exceed a height of 14 feet measured from the surface upon which the vehicle stands, except that a double-deck bus may not exceed a height of 14 feet, 3 inches. Any vehicle or load which exceeds a height of 13 feet, 6 inches, shall only be operated on those highways where deemed to be safe by the owner of the vehicle or the entity operating the bus.",
+  "markdown": "# Vehicle Code\n## Division 15. SIZE, WEIGHT, AND LOAD [35000 - 35796]\n### Chapter 3. Height [35250 - 35252]\n##### § 35250\n\nNo vehicle or load shall exceed a height of 14 feet measured from the surface upon which the vehicle stands, except that a double-deck bus may not exceed a height of 14 feet, 3 inches. Any vehicle or load which exceeds a height of 13 feet, 6 inches, shall only be operated on those highways where deemed to be safe by the owner of the vehicle or the entity operating the bus.\n\n*(Amended by Stats. 1984, Ch. 1287, Sec. 1. Effective September 19, 1984. Operative January 1, 1985, by Sec. 5 of Ch. 1287.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No vehicle or load shall exceed a height of 14 feet measured from the surface upon which the vehicle stands, except that a double-deck bus may not exceed a height of 14 feet, 3 inches. Any vehicle or load which exceeds a height of 13 feet, 6 inches, shall only be operated on those highways where deemed to be safe by the owner of the vehicle or the entity operating the bus.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1984, Ch. 1287, Sec. 1. Effective September 19, 1984. Operative January 1, 1985, by Sec. 5 of Ch. 1287.)",
+    "action": "Amended",
+    "statutes_year": 1984,
+    "chapter": "1287",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1984-09-19",
+    "operative_date": "1985-01-01"
+  },
+  "op_statues": "1984",
+  "op_chapter": "1287",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=35250.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/35250.html",
+  "content_sha256": "5978244cb04b38925ba40d76fbcd51fbcce7cd4c7efa25f151fe37e40f2e4668",
+  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "42005.3",
+  "division": "18",
+  "division_title": "PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES",
+  "division_range": "42000 - 42277",
+  "chapter": "1",
+  "chapter_title": "Penalties",
+  "chapter_range": "42000 - 42032",
+  "article": "1",
+  "article_title": "Public Offenses",
+  "article_range": "42000 - 42010",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "35.1.1",
+  "text": "(a) A local authority shall not allow a person who is alleged to have committed a traffic offense in violation of this code, or an ordinance or resolution adopted under this code, to participate in a driver awareness or education program or in any other diversion program as an alternative to the procedure required to be followed under this code for alleged violations of this code.\n\n(b) This section does not apply to a diversion program sanctioned by local law enforcement for a person who committed an infraction not involving a motor vehicle.",
+  "markdown": "# Vehicle Code\n## Division 18. PENALTIES AND DISPOSITION OF FEES, FINES, AND FORFEITURES [42000 - 42277]\n### Chapter 1. Penalties [42000 - 42032]\n#### Article 1. Public Offenses [42000 - 42010]\n##### § 42005.3\n\n(a) A local authority shall not allow a person who is alleged to have committed a traffic offense in violation of this code, or an ordinance or resolution adopted under this code, to participate in a driver awareness or education program or in any other diversion program as an alternative to the procedure required to be followed under this code for alleged violations of this code.\n\n(b) This section does not apply to a diversion program sanctioned by local law enforcement for a person who committed an infraction not involving a motor vehicle.\n\n*(Amended by Stats. 2015, Ch. 306, Sec. 1. (AB 902) Effective January 1, 2016.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A local authority shall not allow a person who is alleged to have committed a traffic offense in violation of this code, or an ordinance or resolution adopted under this code, to participate in a driver awareness or education program or in any other diversion program as an alternative to the procedure required to be followed under this code for alleged violations of this code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to a diversion program sanctioned by local law enforcement for a person who committed an infraction not involving a motor vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2015, Ch. 306, Sec. 1. (AB 902) Effective January 1, 2016.)",
+    "action": "Amended",
+    "statutes_year": 2015,
+    "chapter": "306",
+    "section": "1",
+    "bill_number": "AB 902",
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2015",
+  "op_chapter": "306",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=42005.3.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/42005.3.html",
+  "content_sha256": "f2254bd0d9fe65a2cda813444b05ba7f6bf6bccacb7e635756e529cfebb051eb",
+  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parser_version": "1"
+}
