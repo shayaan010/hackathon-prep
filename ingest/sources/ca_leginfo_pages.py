@@ -12,7 +12,7 @@ Notes:
   Missing sections embed `op_statues = ''`. We use this to skip the noise.
 
 Strategy:
-- Seed list = (a) all base section numbers from data/eval-ca-vehicle-code.csv
+- Seed list = (a) all base section numbers from data/california_vehicle_injury_statuses.csv
   + (b) optional brute-force range like 1-42000.
 - High concurrency (default 20) — pages are ~160KB, simple GETs.
 - Idempotent: skip if file already on disk.
@@ -43,7 +43,7 @@ SOURCE_SLUG = "ca_leginfo_pages"
 JURISDICTION = "CA"
 BASE_URL = "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml"
 DEFAULT_OUT_DIR = Path("data/raw") / SOURCE_SLUG
-EVAL_CSV = Path("data/eval-ca-vehicle-code.csv")
+EVAL_CSV = Path("data/california_vehicle_injury_statuses.csv")
 
 DEFAULT_LAW_CODE = "VEH"
 DEFAULT_CONCURRENCY = 2   # leginfo throttles aggressively; 2 is sustainable
