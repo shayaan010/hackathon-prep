@@ -99,6 +99,33 @@ uv run python -m ingest.parsers.consolidate_jsonl
 
 4. **3:45pm** — stop coding, rehearse demo. Code freeze at 4pm.
 
+## Local Postgres (pgvector)
+
+This repo includes a local Postgres setup that auto-initializes your schema:
+- `store/schema_postgres.sql` (tables + indexes)
+- `docker-compose.postgres.yml` (local DB service)
+
+Start local Postgres:
+```bash
+docker compose -f docker-compose.postgres.yml up -d
+```
+
+Set DSN and load statutes into `statutes`:
+```bash
+export POSTGRES_DSN="postgresql://postgres:postgres@localhost:5432/hackathon"
+uv run python scripts/load_released_set.py
+```
+
+Run API (it will read statutes from Postgres when `POSTGRES_DSN` is set):
+```bash
+uv run uvicorn api.main:app --reload --port 8000
+```
+
+Stop local Postgres:
+```bash
+docker compose -f docker-compose.postgres.yml down
+```
+
 ## Key design decisions
 
 **Why source quotes are mandatory.** The hackathon rule is "no fabrication, must
