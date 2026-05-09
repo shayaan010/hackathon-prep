@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24010",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "1",
+  "chapter_title": "General Provisions",
+  "chapter_range": "24000 - 24020",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.1",
+  "text": "(a) No person engaged in the rental of any vehicle, for periods of 30 days or less, shall rent, lease or otherwise allow the operation of such vehicle unless all of the following requirements are met:\n\n(1) All necessary equipment required by this code and regulations adopted pursuant to this code for the operation of the vehicle upon a highway has been provided or offered to the lessee for his or her use.\n\n(2) The vehicle conforms to all applicable federal motor vehicle safety standards established pursuant to Chapter 301 (commencing with Section 30101) of Part A of Subtitle VI of Title 49 of the United States Code, and the regulations adopted pursuant to those provisions.\n\n(3) The vehicle is mechanically sound and safe to operate within the meaning of Section 24002.\n\n(b) In order to ensure compliance with this section, the department may conduct periodic inspections, without prior notice, of the business premises of persons engaged in the rental of vehicles for periods of 30 days or less and of the vehicles themselves, for the purpose of ascertaining that the vehicles are in compliance with this section. Any vehicle which is found not in compliance shall not be rented or leased until proof of full compliance with this section is made to the satisfaction of the department.\n\n(c) The contract or rental agreement shall include the name of the person from whom the vehicle is rented, leased or obtained, the address of that person’s place of business in this state where the vehicle is rented, leased, or delivered, and a statement of any required equipment refused by the person to whom the vehicle is rented, leased, or delivered.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 1. General Provisions [24000 - 24020]\n##### § 24010\n\n(a) No person engaged in the rental of any vehicle, for periods of 30 days or less, shall rent, lease or otherwise allow the operation of such vehicle unless all of the following requirements are met:\n\n    (1) All necessary equipment required by this code and regulations adopted pursuant to this code for the operation of the vehicle upon a highway has been provided or offered to the lessee for his or her use.\n\n    (2) The vehicle conforms to all applicable federal motor vehicle safety standards established pursuant to Chapter 301 (commencing with Section 30101) of Part A of Subtitle VI of Title 49 of the United States Code, and the regulations adopted pursuant to those provisions.\n\n    (3) The vehicle is mechanically sound and safe to operate within the meaning of Section 24002.\n\n(b) In order to ensure compliance with this section, the department may conduct periodic inspections, without prior notice, of the business premises of persons engaged in the rental of vehicles for periods of 30 days or less and of the vehicles themselves, for the purpose of ascertaining that the vehicles are in compliance with this section. Any vehicle which is found not in compliance shall not be rented or leased until proof of full compliance with this section is made to the satisfaction of the department.\n\n(c) The contract or rental agreement shall include the name of the person from whom the vehicle is rented, leased or obtained, the address of that person’s place of business in this state where the vehicle is rented, leased, or delivered, and a statement of any required equipment refused by the person to whom the vehicle is rented, leased, or delivered.\n\n*(Amended by Stats. 2018, Ch. 198, Sec. 23. (AB 3246) Effective January 1, 2019.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person engaged in the rental of any vehicle, for periods of 30 days or less, shall rent, lease or otherwise allow the operation of such vehicle unless all of the following requirements are met:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "All necessary equipment required by this code and regulations adopted pursuant to this code for the operation of the vehicle upon a highway has been provided or offered to the lessee for his or her use.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The vehicle conforms to all applicable federal motor vehicle safety standards established pursuant to Chapter 301 (commencing with Section 30101) of Part A of Subtitle VI of Title 49 of the United States Code, and the regulations adopted pursuant to those provisions.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The vehicle is mechanically sound and safe to operate within the meaning of Section 24002.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "In order to ensure compliance with this section, the department may conduct periodic inspections, without prior notice, of the business premises of persons engaged in the rental of vehicles for periods of 30 days or less and of the vehicles themselves, for the purpose of ascertaining that the vehicles are in compliance with this section. Any vehicle which is found not in compliance shall not be rented or leased until proof of full compliance with this section is made to the satisfaction of the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The contract or rental agreement shall include the name of the person from whom the vehicle is rented, leased or obtained, the address of that person’s place of business in this state where the vehicle is rented, leased, or delivered, and a statement of any required equipment refused by the person to whom the vehicle is rented, leased, or delivered.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2018, Ch. 198, Sec. 23. (AB 3246) Effective January 1, 2019.)",
+    "action": "Amended",
+    "statutes_year": 2018,
+    "chapter": "198",
+    "section": "23",
+    "bill_number": "AB 3246",
+    "effective_date": "2019-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2018",
+  "op_chapter": "198",
+  "op_section": "23",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24010.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24010.html",
+  "content_sha256": "cec8fdee81e2f2ec628f2718c38b12538c7d760a7cb8360420f3ec647128374b",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

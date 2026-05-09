@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21400",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "2",
+  "article_title": "Official Traffic Control Devices",
+  "article_range": "21400 - 21401",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.2",
+  "text": "(a) The Department of Transportation shall, after consultation with local agencies and public hearings, adopt rules and regulations prescribing uniform standards and specifications for all official traffic control devices placed pursuant to this code, including, but not limited to, stop signs, yield right-of-way signs, speed restriction signs, railroad warning approach signs, street name signs, lines and markings on the roadway, and stock crossing signs placed pursuant to Section 21364.\n\n(b) The Department of Transportation shall, after notice and public hearing, determine and publicize the specifications for uniform types of warning signs, lights, and devices to be placed upon a highway by a person engaged in performing work that interferes with or endangers the safe movement of traffic upon that highway.\n\n(c) Only those signs, lights, and devices as are provided for in this section shall be placed upon a highway to warn traffic of work that is being performed on the highway.\n\n(d) Control devices or markings installed upon traffic barriers on or after January 1, 1984, shall conform to the uniform standards and specifications required by this section.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 2. Official Traffic Control Devices [21400 - 21401]\n##### § 21400\n\n(a) The Department of Transportation shall, after consultation with local agencies and public hearings, adopt rules and regulations prescribing uniform standards and specifications for all official traffic control devices placed pursuant to this code, including, but not limited to, stop signs, yield right-of-way signs, speed restriction signs, railroad warning approach signs, street name signs, lines and markings on the roadway, and stock crossing signs placed pursuant to Section 21364.\n\n(b) The Department of Transportation shall, after notice and public hearing, determine and publicize the specifications for uniform types of warning signs, lights, and devices to be placed upon a highway by a person engaged in performing work that interferes with or endangers the safe movement of traffic upon that highway.\n\n(c) Only those signs, lights, and devices as are provided for in this section shall be placed upon a highway to warn traffic of work that is being performed on the highway.\n\n(d) Control devices or markings installed upon traffic barriers on or after January 1, 1984, shall conform to the uniform standards and specifications required by this section.\n\n*(Amended by Stats. 2021, Ch. 690, Sec. 2. (AB 43) Effective January 1, 2022.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Department of Transportation shall, after consultation with local agencies and public hearings, adopt rules and regulations prescribing uniform standards and specifications for all official traffic control devices placed pursuant to this code, including, but not limited to, stop signs, yield right-of-way signs, speed restriction signs, railroad warning approach signs, street name signs, lines and markings on the roadway, and stock crossing signs placed pursuant to Section 21364.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The Department of Transportation shall, after notice and public hearing, determine and publicize the specifications for uniform types of warning signs, lights, and devices to be placed upon a highway by a person engaged in performing work that interferes with or endangers the safe movement of traffic upon that highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Only those signs, lights, and devices as are provided for in this section shall be placed upon a highway to warn traffic of work that is being performed on the highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Control devices or markings installed upon traffic barriers on or after January 1, 1984, shall conform to the uniform standards and specifications required by this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 690, Sec. 2. (AB 43) Effective January 1, 2022.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "690",
+    "section": "2",
+    "bill_number": "AB 43",
+    "effective_date": "2022-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "690",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21400.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21400.html",
+  "content_sha256": "8a4b29f0ff46ace2f33903d5fb49a206e56fe2eafde38d6bfed4feb3d4d900d8",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

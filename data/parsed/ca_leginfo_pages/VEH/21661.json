@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21661",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "1",
+  "article_title": "Driving on Right Side",
+  "article_range": "21650 - 21664",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.1",
+  "text": "Whenever upon any grade the width of the roadway is insufficient to permit the passing of vehicles approaching from opposite directions at the point of meeting, the driver of the vehicle descending the grade shall yield the right-of-way to the vehicle ascending the grade and shall, if necessary, back his vehicle to a place in the highway where it is possible for the vehicles to pass.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 1. Driving on Right Side [21650 - 21664]\n##### § 21661\n\nWhenever upon any grade the width of the roadway is insufficient to permit the passing of vehicles approaching from opposite directions at the point of meeting, the driver of the vehicle descending the grade shall yield the right-of-way to the vehicle ascending the grade and shall, if necessary, back his vehicle to a place in the highway where it is possible for the vehicles to pass.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever upon any grade the width of the roadway is insufficient to permit the passing of vehicles approaching from opposite directions at the point of meeting, the driver of the vehicle descending the grade shall yield the right-of-way to the vehicle ascending the grade and shall, if necessary, back his vehicle to a place in the highway where it is possible for the vehicles to pass.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21661.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21661.html",
+  "content_sha256": "44757a8b88907b55b63e4bfa4d6ddd009a17d90e7cd604e32b6a96ba9e15130d",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

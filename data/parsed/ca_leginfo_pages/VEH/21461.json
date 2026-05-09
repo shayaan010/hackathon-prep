@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21461",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "3",
+  "article_title": "Offenses Relating to Traffic Devices",
+  "article_range": "21450 - 21468",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.3",
+  "text": "(a) It is unlawful for a driver of a vehicle to fail to obey a sign or signal defined as regulatory in the federal Manual on Uniform Traffic Control Devices, or a Department of Transportation approved supplement to that manual of a regulatory nature erected or maintained to enhance traffic safety and operations or to indicate and carry out the provisions of this code or a local traffic ordinance or resolution adopted pursuant to a local traffic ordinance, or to fail to obey a device erected or maintained by lawful authority of a public body or official.\n\n(b) Subdivision (a) does not apply to acts constituting violations under Chapter 9 (commencing with Section 22500) of this division or to acts constituting violations of a local traffic ordinance adopted pursuant to Chapter 9 (commencing with Section 22500).",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 3. Offenses Relating to Traffic Devices [21450 - 21468]\n##### § 21461\n\n(a) It is unlawful for a driver of a vehicle to fail to obey a sign or signal defined as regulatory in the federal Manual on Uniform Traffic Control Devices, or a Department of Transportation approved supplement to that manual of a regulatory nature erected or maintained to enhance traffic safety and operations or to indicate and carry out the provisions of this code or a local traffic ordinance or resolution adopted pursuant to a local traffic ordinance, or to fail to obey a device erected or maintained by lawful authority of a public body or official.\n\n(b) Subdivision (a) does not apply to acts constituting violations under Chapter 9 (commencing with Section 22500) of this division or to acts constituting violations of a local traffic ordinance adopted pursuant to Chapter 9 (commencing with Section 22500).\n\n*(Amended by Stats. 2004, Ch. 203, Sec. 1. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is unlawful for a driver of a vehicle to fail to obey a sign or signal defined as regulatory in the federal Manual on Uniform Traffic Control Devices, or a Department of Transportation approved supplement to that manual of a regulatory nature erected or maintained to enhance traffic safety and operations or to indicate and carry out the provisions of this code or a local traffic ordinance or resolution adopted pursuant to a local traffic ordinance, or to fail to obey a device erected or maintained by lawful authority of a public body or official.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Subdivision (a) does not apply to acts constituting violations under Chapter 9 (commencing with Section 22500) of this division or to acts constituting violations of a local traffic ordinance adopted pursuant to Chapter 9 (commencing with Section 22500).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 203, Sec. 1. Effective January 1, 2005.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "203",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "203",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21461.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21461.html",
+  "content_sha256": "1cfdfe3e4b222916147a0599bbe6311132e1a53632a61cfaa7041e382d39414e",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

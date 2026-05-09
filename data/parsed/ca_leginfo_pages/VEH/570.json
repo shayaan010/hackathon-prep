@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "570",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "“Special construction equipment” does not include any of the following:\n\n(a) A vehicle originally designed for the transportation of persons or property to which machinery has been attached unless specifically designated as such in Section 565.\n\n(b) Dump trucks originally designed to comply with the size and weight provisions of this code notwithstanding any subsequent modification which would require a permit, as specified in Section 35780 of this code, to operate such vehicles on a highway, truck-mounted transit mixers, cranes and shovels.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 570\n\n“Special construction equipment” does not include any of the following:\n\n(a) A vehicle originally designed for the transportation of persons or property to which machinery has been attached unless specifically designated as such in Section 565.\n\n(b) Dump trucks originally designed to comply with the size and weight provisions of this code notwithstanding any subsequent modification which would require a permit, as specified in Section 35780 of this code, to operate such vehicles on a highway, truck-mounted transit mixers, cranes and shovels.\n\n*(Amended by Stats. 1961, Ch. 1659.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "“Special construction equipment” does not include any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A vehicle originally designed for the transportation of persons or property to which machinery has been attached unless specifically designated as such in Section 565.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Dump trucks originally designed to comply with the size and weight provisions of this code notwithstanding any subsequent modification which would require a permit, as specified in Section 35780 of this code, to operate such vehicles on a highway, truck-mounted transit mixers, cranes and shovels.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1961, Ch. 1659.)",
+    "action": "Amended",
+    "statutes_year": 1961,
+    "chapter": "1659",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1961",
+  "op_chapter": "1659",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=570.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/570.html",
+  "content_sha256": "f02a61945254ad9cde8069c1b2d7b443024e3b72064788190659e064ca8a1117",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

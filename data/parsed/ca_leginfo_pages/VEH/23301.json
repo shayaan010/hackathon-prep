@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23301",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "13",
+  "chapter_title": "Vehicular Crossings and Toll Highways",
+  "chapter_range": "23250 - 23336",
+  "article": "3",
+  "article_title": "Tolls and Other Charges",
+  "article_range": "23300 - 23309",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.13.3",
+  "text": "Except as provided in Sections 23301.3 and 23301.5, a vehicle that enters into or upon a vehicular crossing is liable for those tolls and other charges prescribed by the California Transportation Commission.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 13. Vehicular Crossings and Toll Highways [23250 - 23336]\n#### Article 3. Tolls and Other Charges [23300 - 23309]\n##### § 23301\n\nExcept as provided in Sections 23301.3 and 23301.5, a vehicle that enters into or upon a vehicular crossing is liable for those tolls and other charges prescribed by the California Transportation Commission.\n\n*(Amended by Stats. 2022, Ch. 871, Sec. 1. (AB 2949) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Except as provided in Sections 23301.3 and 23301.5, a vehicle that enters into or upon a vehicular crossing is liable for those tolls and other charges prescribed by the California Transportation Commission.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 871, Sec. 1. (AB 2949) Effective January 1, 2023.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "871",
+    "section": "1",
+    "bill_number": "AB 2949",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "871",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23301.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23301.html",
+  "content_sha256": "d3c74530bde2ba314b3edf3399e9f82591ffa002dcdddf9c5588c180f24eca44",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

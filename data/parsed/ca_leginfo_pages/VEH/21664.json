@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21664",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "1",
+  "article_title": "Driving on Right Side",
+  "article_range": "21650 - 21664",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.1",
+  "text": "It is unlawful for the driver of any vehicle to enter or exit any freeway which has full control of access and no crossings at grade, except upon a designated on ramp with respect to entering the freeway or a designated off ramp with respect to exiting the freeway.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 1. Driving on Right Side [21650 - 21664]\n##### § 21664\n\nIt is unlawful for the driver of any vehicle to enter or exit any freeway which has full control of access and no crossings at grade, except upon a designated on ramp with respect to entering the freeway or a designated off ramp with respect to exiting the freeway.\n\n*(Amended by Stats. 1988, Ch. 765, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "It is unlawful for the driver of any vehicle to enter or exit any freeway which has full control of access and no crossings at grade, except upon a designated on ramp with respect to entering the freeway or a designated off ramp with respect to exiting the freeway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1988, Ch. 765, Sec. 2.)",
+    "action": "Amended",
+    "statutes_year": 1988,
+    "chapter": "765",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "765",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21664.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21664.html",
+  "content_sha256": "797219e64927697cb210c13b1c3405e9e974e04c83f2ff167f366b557cd51d98",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

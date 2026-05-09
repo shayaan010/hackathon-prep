@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21801",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "4",
+  "chapter_title": "Right-of-Way",
+  "chapter_range": "21800 - 21809",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.4",
+  "text": "(a) The driver of a vehicle intending to turn to the left or to complete a U-turn upon a highway, or to turn left into public or private property, or an alley, shall yield the right-of-way to all vehicles approaching from the opposite direction which are close enough to constitute a hazard at any time during the turning movement, and shall continue to yield the right-of-way to the approaching vehicles until the left turn or U-turn can be made with reasonable safety.\n\n(b) A driver having yielded as prescribed in subdivision (a), and having given a signal when and as required by this code, may turn left or complete a U-turn, and the drivers of vehicles approaching the intersection or the entrance to the property or alley from the opposite direction shall yield the right-of-way to the turning vehicle.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 4. Right-of-Way [21800 - 21809]\n##### § 21801\n\n(a) The driver of a vehicle intending to turn to the left or to complete a U-turn upon a highway, or to turn left into public or private property, or an alley, shall yield the right-of-way to all vehicles approaching from the opposite direction which are close enough to constitute a hazard at any time during the turning movement, and shall continue to yield the right-of-way to the approaching vehicles until the left turn or U-turn can be made with reasonable safety.\n\n(b) A driver having yielded as prescribed in subdivision (a), and having given a signal when and as required by this code, may turn left or complete a U-turn, and the drivers of vehicles approaching the intersection or the entrance to the property or alley from the opposite direction shall yield the right-of-way to the turning vehicle.\n\n*(Amended by Stats. 1993, Ch. 272, Sec. 40. Effective August 2, 1993.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The driver of a vehicle intending to turn to the left or to complete a U-turn upon a highway, or to turn left into public or private property, or an alley, shall yield the right-of-way to all vehicles approaching from the opposite direction which are close enough to constitute a hazard at any time during the turning movement, and shall continue to yield the right-of-way to the approaching vehicles until the left turn or U-turn can be made with reasonable safety.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A driver having yielded as prescribed in subdivision (a), and having given a signal when and as required by this code, may turn left or complete a U-turn, and the drivers of vehicles approaching the intersection or the entrance to the property or alley from the opposite direction shall yield the right-of-way to the turning vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1993, Ch. 272, Sec. 40. Effective August 2, 1993.)",
+    "action": "Amended",
+    "statutes_year": 1993,
+    "chapter": "272",
+    "section": "40",
+    "bill_number": null,
+    "effective_date": "1993-08-02",
+    "operative_date": null
+  },
+  "op_statues": "1993",
+  "op_chapter": "272",
+  "op_section": "40",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21801.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21801.html",
+  "content_sha256": "8b53d8affa5c87b8c009a8ddbdd0406bea0bc0394533358fbeb7d5f5291e06e4",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

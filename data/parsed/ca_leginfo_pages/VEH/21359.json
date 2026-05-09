@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21359",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "1",
+  "article_title": "Erection and Maintenance",
+  "article_range": "21350 - 21376",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.1",
+  "text": "Whenever the Department of Transportation or a local authority as authorized by this code determines and declares a speed limit different from the limit otherwise applicable under Sections 22349 and 22352, appropriate speed restriction signs shall be erected and maintained at the outside entrance of the highway or portion thereof upon which the special speed limit is applicable. The special speed limit is not effective until appropriate signs have been erected.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 1. Erection and Maintenance [21350 - 21376]\n##### § 21359\n\nWhenever the Department of Transportation or a local authority as authorized by this code determines and declares a speed limit different from the limit otherwise applicable under Sections 22349 and 22352, appropriate speed restriction signs shall be erected and maintained at the outside entrance of the highway or portion thereof upon which the special speed limit is applicable. The special speed limit is not effective until appropriate signs have been erected.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever the Department of Transportation or a local authority as authorized by this code determines and declares a speed limit different from the limit otherwise applicable under Sections 22349 and 22352, appropriate speed restriction signs shall be erected and maintained at the outside entrance of the highway or portion thereof upon which the special speed limit is applicable. The special speed limit is not effective until appropriate signs have been erected.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21359.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21359.html",
+  "content_sha256": "67f316e80890ea417c50d76e900ca1d230d589fae0a1df78be76d1d84c0c0dca",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

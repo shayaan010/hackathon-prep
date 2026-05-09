@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21804",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "4",
+  "chapter_title": "Right-of-Way",
+  "chapter_range": "21800 - 21809",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.4",
+  "text": "(a) The driver of any vehicle about to enter or cross a highway from any public or private property, or from an alley, shall yield the right-of-way to all traffic, as defined in Section 620, approaching on the highway close enough to constitute an immediate hazard, and shall continue to yield the right-of-way to that traffic until he or she can proceed with reasonable safety.\n\n(b) A driver having yielded as prescribed in subdivision (a) may proceed to enter or cross the highway, and the drivers of all other vehicles approaching on the highway shall yield the right-of-way to the vehicle entering or crossing the intersection.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 4. Right-of-Way [21800 - 21809]\n##### § 21804\n\n(a) The driver of any vehicle about to enter or cross a highway from any public or private property, or from an alley, shall yield the right-of-way to all traffic, as defined in Section 620, approaching on the highway close enough to constitute an immediate hazard, and shall continue to yield the right-of-way to that traffic until he or she can proceed with reasonable safety.\n\n(b) A driver having yielded as prescribed in subdivision (a) may proceed to enter or cross the highway, and the drivers of all other vehicles approaching on the highway shall yield the right-of-way to the vehicle entering or crossing the intersection.\n\n*(Amended by Stats. 1988, Ch. 623, Sec. 5.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The driver of any vehicle about to enter or cross a highway from any public or private property, or from an alley, shall yield the right-of-way to all traffic, as defined in Section 620, approaching on the highway close enough to constitute an immediate hazard, and shall continue to yield the right-of-way to that traffic until he or she can proceed with reasonable safety.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A driver having yielded as prescribed in subdivision (a) may proceed to enter or cross the highway, and the drivers of all other vehicles approaching on the highway shall yield the right-of-way to the vehicle entering or crossing the intersection.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1988, Ch. 623, Sec. 5.)",
+    "action": "Amended",
+    "statutes_year": 1988,
+    "chapter": "623",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "623",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21804.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21804.html",
+  "content_sha256": "a1a1e5044f1c95e67e4fd54f02ec9a0b3071c148eb4f48ca4a9ac206162b4058",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

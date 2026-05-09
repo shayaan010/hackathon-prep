@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "Whenever notice is required to be given under this code by a department or any division, officer, employee, or agent, the notice shall be given either by personal delivery to the person to be notified, by certified mail, return receipt requested, by mailing the notice, postage prepaid, addressed to the person at their address as shown by the records of the department, or by electronic notification, as authorized pursuant to Section 1801.2.",
+  "markdown": "# Vehicle Code\n##### § 22\n\nWhenever notice is required to be given under this code by a department or any division, officer, employee, or agent, the notice shall be given either by personal delivery to the person to be notified, by certified mail, return receipt requested, by mailing the notice, postage prepaid, addressed to the person at their address as shown by the records of the department, or by electronic notification, as authorized pursuant to Section 1801.2.\n\n*(Amended by Stats. 2023, Ch. 131, Sec. 214. (AB 1754) Effective January 1, 2024.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever notice is required to be given under this code by a department or any division, officer, employee, or agent, the notice shall be given either by personal delivery to the person to be notified, by certified mail, return receipt requested, by mailing the notice, postage prepaid, addressed to the person at their address as shown by the records of the department, or by electronic notification, as authorized pursuant to Section 1801.2.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2023, Ch. 131, Sec. 214. (AB 1754) Effective January 1, 2024.)",
+    "action": "Amended",
+    "statutes_year": 2023,
+    "chapter": "131",
+    "section": "214",
+    "bill_number": "AB 1754",
+    "effective_date": "2024-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2023",
+  "op_chapter": "131",
+  "op_section": "214",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22.html",
+  "content_sha256": "ac6c99d8cc78ce690966a37a25286c079e4ba396afb6070378a1d90641ff80a0",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

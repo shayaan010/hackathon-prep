@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21756",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "3",
+  "article_title": "Overtaking and Passing",
+  "article_range": "21750 - 21761",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.3",
+  "text": "(a) The driver of a vehicle overtaking any interurban electric or streetcar stopped or about to stop for the purpose of receiving or discharging any passenger shall stop the vehicle to the rear of the nearest running board or door of such car and thereupon remain standing until all passengers have boarded the car or upon alighting have reached a place of safety, except as provided in subdivision (b) hereof.\n\n(b) Where a safety zone has been established or at an intersection where traffic is controlled by an officer or a traffic control signal device, a vehicle need not be brought to a stop before passing any interurban electric or streetcar but may proceed past such car at a speed not greater than 10 miles per hour and with due caution for the safety of pedestrians.\n\n(c) Whenever any trolley coach or bus has stopped at a safety zone to receive or discharge passengers, a vehicle may proceed past such trolley coach or bus at a speed not greater than 10 miles per hour.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 3. Overtaking and Passing [21750 - 21761]\n##### § 21756\n\n(a) The driver of a vehicle overtaking any interurban electric or streetcar stopped or about to stop for the purpose of receiving or discharging any passenger shall stop the vehicle to the rear of the nearest running board or door of such car and thereupon remain standing until all passengers have boarded the car or upon alighting have reached a place of safety, except as provided in subdivision (b) hereof.\n\n(b) Where a safety zone has been established or at an intersection where traffic is controlled by an officer or a traffic control signal device, a vehicle need not be brought to a stop before passing any interurban electric or streetcar but may proceed past such car at a speed not greater than 10 miles per hour and with due caution for the safety of pedestrians.\n\n(c) Whenever any trolley coach or bus has stopped at a safety zone to receive or discharge passengers, a vehicle may proceed past such trolley coach or bus at a speed not greater than 10 miles per hour.\n\n*(Amended by Stats. 1959, Ch. 969.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The driver of a vehicle overtaking any interurban electric or streetcar stopped or about to stop for the purpose of receiving or discharging any passenger shall stop the vehicle to the rear of the nearest running board or door of such car and thereupon remain standing until all passengers have boarded the car or upon alighting have reached a place of safety, except as provided in subdivision (b) hereof.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Where a safety zone has been established or at an intersection where traffic is controlled by an officer or a traffic control signal device, a vehicle need not be brought to a stop before passing any interurban electric or streetcar but may proceed past such car at a speed not greater than 10 miles per hour and with due caution for the safety of pedestrians.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Whenever any trolley coach or bus has stopped at a safety zone to receive or discharge passengers, a vehicle may proceed past such trolley coach or bus at a speed not greater than 10 miles per hour.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1959, Ch. 969.)",
+    "action": "Amended",
+    "statutes_year": 1959,
+    "chapter": "969",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "969",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21756.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21756.html",
+  "content_sha256": "e3321ada0279b5722309f0f385fb369498a1f9ea051611255ea9508c4e5986d5",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

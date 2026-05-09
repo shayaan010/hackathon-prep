@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24000",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "1",
+  "chapter_title": "General Provisions",
+  "chapter_range": "24000 - 24020",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.1",
+  "text": "Wherever in this division the word “department” occurs, it means the Department of the California Highway Patrol.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 1. General Provisions [24000 - 24020]\n##### § 24000\n\nWherever in this division the word “department” occurs, it means the Department of the California Highway Patrol.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Wherever in this division the word “department” occurs, it means the Department of the California Highway Patrol.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24000.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24000.html",
+  "content_sha256": "30df94e8c0c40ac3180b44a5ac8840021ab68c5c446af418ae6a3e146a0b1290",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

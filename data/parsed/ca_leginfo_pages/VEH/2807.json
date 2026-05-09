@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2807",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "4",
+  "chapter_title": "Administration and Enforcement",
+  "chapter_range": "2800 - 2818",
+  "article": "1",
+  "article_title": "Lawful Orders and Inspections",
+  "article_range": "2800 - 2818",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.4.1",
+  "text": "(a) The California Highway Patrol shall inspect every schoolbus at least once each school year to ascertain whether its construction, design, equipment, and color comply with all provisions of law.\n\n(b) No person shall drive any schoolbus unless there is displayed therein a certificate issued by the California Highway Patrol stating that on a certain date, which shall be within 13 months of the date of operation, an authorized employee of the California Highway Patrol inspected the bus and found that on the date of inspection the bus complied with the applicable provisions of state law relating to construction, design, equipment, and color. The Commissioner of the California Highway Patrol shall provide by rule or regulation for the issuance and display of distinctive inspection certificates.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 4. Administration and Enforcement [2800 - 2818]\n#### Article 1. Lawful Orders and Inspections [2800 - 2818]\n##### § 2807\n\n(a) The California Highway Patrol shall inspect every schoolbus at least once each school year to ascertain whether its construction, design, equipment, and color comply with all provisions of law.\n\n(b) No person shall drive any schoolbus unless there is displayed therein a certificate issued by the California Highway Patrol stating that on a certain date, which shall be within 13 months of the date of operation, an authorized employee of the California Highway Patrol inspected the bus and found that on the date of inspection the bus complied with the applicable provisions of state law relating to construction, design, equipment, and color. The Commissioner of the California Highway Patrol shall provide by rule or regulation for the issuance and display of distinctive inspection certificates.\n\n*(Amended by Stats. 1969, Ch. 580.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The California Highway Patrol shall inspect every schoolbus at least once each school year to ascertain whether its construction, design, equipment, and color comply with all provisions of law.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No person shall drive any schoolbus unless there is displayed therein a certificate issued by the California Highway Patrol stating that on a certain date, which shall be within 13 months of the date of operation, an authorized employee of the California Highway Patrol inspected the bus and found that on the date of inspection the bus complied with the applicable provisions of state law relating to construction, design, equipment, and color. The Commissioner of the California Highway Patrol shall provide by rule or regulation for the issuance and display of distinctive inspection certificates.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1969, Ch. 580.)",
+    "action": "Amended",
+    "statutes_year": 1969,
+    "chapter": "580",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1969",
+  "op_chapter": "580",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2807.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2807.html",
+  "content_sha256": "2f9d81469b9c8ff87a942bd336e61cd28ab4a5648e149648eb4fa7fa6327998e",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

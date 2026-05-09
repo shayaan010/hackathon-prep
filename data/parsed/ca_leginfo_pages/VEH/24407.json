@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24407",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "2",
+  "article_title": "Headlamps and Auxiliary Lamps",
+  "article_range": "24400 - 24411",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.2",
+  "text": "Multiple-beam road lighting equipment shall be designed and aimed as follows:\n\n(a) There shall be an uppermost distribution of light, or composite beam, so aimed and of such intensity as to reveal persons and vehicles at a distance of at least 350 feet ahead for all conditions of loading.\n\n(b) There shall be a lowermost distribution of light, or composite beam so aimed and of sufficient intensity to reveal a person or vehicle at a distance of at least 100 feet ahead. On a straight level road under any condition of loading none of the high intensity portion of the beam shall be directed to strike the eyes of an approaching driver.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 2. Headlamps and Auxiliary Lamps [24400 - 24411]\n##### § 24407\n\nMultiple-beam road lighting equipment shall be designed and aimed as follows:\n\n(a) There shall be an uppermost distribution of light, or composite beam, so aimed and of such intensity as to reveal persons and vehicles at a distance of at least 350 feet ahead for all conditions of loading.\n\n(b) There shall be a lowermost distribution of light, or composite beam so aimed and of sufficient intensity to reveal a person or vehicle at a distance of at least 100 feet ahead. On a straight level road under any condition of loading none of the high intensity portion of the beam shall be directed to strike the eyes of an approaching driver.\n\n*(Amended by Stats. 1963, Ch. 547.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Multiple-beam road lighting equipment shall be designed and aimed as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "There shall be an uppermost distribution of light, or composite beam, so aimed and of such intensity as to reveal persons and vehicles at a distance of at least 350 feet ahead for all conditions of loading.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "There shall be a lowermost distribution of light, or composite beam so aimed and of sufficient intensity to reveal a person or vehicle at a distance of at least 100 feet ahead. On a straight level road under any condition of loading none of the high intensity portion of the beam shall be directed to strike the eyes of an approaching driver.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1963, Ch. 547.)",
+    "action": "Amended",
+    "statutes_year": 1963,
+    "chapter": "547",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1963",
+  "op_chapter": "547",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24407.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24407.html",
+  "content_sha256": "2f13412361c254b4033f26f103574fe84cbb128d084ded351842036cbd216d86",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23333",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "13",
+  "chapter_title": "Vehicular Crossings and Toll Highways",
+  "chapter_range": "23250 - 23336",
+  "article": "4",
+  "article_title": "Special Traffic Regulations",
+  "article_range": "23330 - 23336",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.13.4",
+  "text": "No vehicle shall stop, stand, or be parked in or upon any vehicular crossing except:\n\n(a) When necessary to avoid injury or damage to persons or property.\n\n(b) When necessary for the repair, maintenance or operation of a publicly owned toll bridge.\n\n(c) In compliance with the direction of a member of the California Highway Patrol or an employee of the Department of Transportation who is a peace officer or with the direction of a sign or signal.\n\n(d) In such places as may be designated by the Director of Transportation.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 13. Vehicular Crossings and Toll Highways [23250 - 23336]\n#### Article 4. Special Traffic Regulations [23330 - 23336]\n##### § 23333\n\nNo vehicle shall stop, stand, or be parked in or upon any vehicular crossing except:\n\n(a) When necessary to avoid injury or damage to persons or property.\n\n(b) When necessary for the repair, maintenance or operation of a publicly owned toll bridge.\n\n(c) In compliance with the direction of a member of the California Highway Patrol or an employee of the Department of Transportation who is a peace officer or with the direction of a sign or signal.\n\n(d) In such places as may be designated by the Director of Transportation.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No vehicle shall stop, stand, or be parked in or upon any vehicular crossing except:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "When necessary to avoid injury or damage to persons or property.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When necessary for the repair, maintenance or operation of a publicly owned toll bridge.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "In compliance with the direction of a member of the California Highway Patrol or an employee of the Department of Transportation who is a peace officer or with the direction of a sign or signal.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "In such places as may be designated by the Director of Transportation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23333.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23333.html",
+  "content_sha256": "4a293cf055553fd957707af08bfbd3dd4b1c39349ce190b8e87fdcfd2ee5af98",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

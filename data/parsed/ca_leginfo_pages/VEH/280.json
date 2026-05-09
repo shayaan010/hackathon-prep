@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "280",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "“Darkness” is any time from one-half hour after sunset to one-half hour before sunrise and any other time when visibility is not sufficient to render clearly discernible any person or vehicle on the highway at a distance of 1,000 feet.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 280\n\n“Darkness” is any time from one-half hour after sunset to one-half hour before sunrise and any other time when visibility is not sufficient to render clearly discernible any person or vehicle on the highway at a distance of 1,000 feet.\n\n*(Amended by Stats. 1974, Ch. 635.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "“Darkness” is any time from one-half hour after sunset to one-half hour before sunrise and any other time when visibility is not sufficient to render clearly discernible any person or vehicle on the highway at a distance of 1,000 feet.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 635.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "635",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "635",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=280.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/280.html",
+  "content_sha256": "e9430b0d1807dc8f6ee0837f92ab85bdc48bbcbeb3e52618c65977e09ab4d8b5",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

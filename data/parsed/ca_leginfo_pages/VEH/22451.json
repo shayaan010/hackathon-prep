@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22451",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "8",
+  "chapter_title": "Special Stops Required",
+  "chapter_range": "22450 - 22456",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.8",
+  "text": "(a) The driver of any vehicle or pedestrian approaching a railroad or rail transit grade crossing shall stop not less than 15 feet from the nearest rail and shall not proceed until he or she can do so safely, whenever the following conditions exist:\n\n(1) A clearly visible electric or mechanical signal device or a flagman gives warning of the approach or passage of a train, car, or on-track equipment.\n\n(2) An approaching train, car, or on-track equipment is plainly visible or is emitting an audible signal and, by reason of its speed or nearness, is an immediate hazard.\n\n(b) No driver or pedestrian shall proceed through, around, or under any railroad or rail transit crossing gate while the gate is closed.\n\n(c) Whenever a railroad or rail transit crossing is equipped with an automated enforcement system, a notice of a violation of this section is subject to the procedures provided in Section 40518.\n\n(d) For purposes of this section, “on-track equipment” means any locomotive or any other car, rolling stock, equipment, or other device that, alone or coupled to others, is operated on stationary rails.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 8. Special Stops Required [22450 - 22456]\n##### § 22451\n\n(a) The driver of any vehicle or pedestrian approaching a railroad or rail transit grade crossing shall stop not less than 15 feet from the nearest rail and shall not proceed until he or she can do so safely, whenever the following conditions exist:\n\n    (1) A clearly visible electric or mechanical signal device or a flagman gives warning of the approach or passage of a train, car, or on-track equipment.\n\n    (2) An approaching train, car, or on-track equipment is plainly visible or is emitting an audible signal and, by reason of its speed or nearness, is an immediate hazard.\n\n(b) No driver or pedestrian shall proceed through, around, or under any railroad or rail transit crossing gate while the gate is closed.\n\n(c) Whenever a railroad or rail transit crossing is equipped with an automated enforcement system, a notice of a violation of this section is subject to the procedures provided in Section 40518.\n\n(d) For purposes of this section, “on-track equipment” means any locomotive or any other car, rolling stock, equipment, or other device that, alone or coupled to others, is operated on stationary rails.\n\n*(Amended by Stats. 2017, Ch. 110, Sec. 1. (AB 695) Effective January 1, 2018.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The driver of any vehicle or pedestrian approaching a railroad or rail transit grade crossing shall stop not less than 15 feet from the nearest rail and shall not proceed until he or she can do so safely, whenever the following conditions exist:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A clearly visible electric or mechanical signal device or a flagman gives warning of the approach or passage of a train, car, or on-track equipment.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "An approaching train, car, or on-track equipment is plainly visible or is emitting an audible signal and, by reason of its speed or nearness, is an immediate hazard.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "No driver or pedestrian shall proceed through, around, or under any railroad or rail transit crossing gate while the gate is closed.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Whenever a railroad or rail transit crossing is equipped with an automated enforcement system, a notice of a violation of this section is subject to the procedures provided in Section 40518.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "For purposes of this section, “on-track equipment” means any locomotive or any other car, rolling stock, equipment, or other device that, alone or coupled to others, is operated on stationary rails.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2017, Ch. 110, Sec. 1. (AB 695) Effective January 1, 2018.)",
+    "action": "Amended",
+    "statutes_year": 2017,
+    "chapter": "110",
+    "section": "1",
+    "bill_number": "AB 695",
+    "effective_date": "2018-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2017",
+  "op_chapter": "110",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22451.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22451.html",
+  "content_sha256": "e8b351290d1e5c5c6d22d33eadcb81cd65a9dd39a54dc92246198fad128c1306",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

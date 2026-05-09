@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "246",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “certificate of compliance” for the purposes of this code is an electronic or printed document issued by a state agency, board, or commission, or authorized person, setting forth that the requirements of a particular law, rule or regulation, within its jurisdiction to regulate or administer has been satisfied.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 246\n\nA “certificate of compliance” for the purposes of this code is an electronic or printed document issued by a state agency, board, or commission, or authorized person, setting forth that the requirements of a particular law, rule or regulation, within its jurisdiction to regulate or administer has been satisfied.\n\n*(Amended by Stats. 1999, Ch. 1007, Sec. 15. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “certificate of compliance” for the purposes of this code is an electronic or printed document issued by a state agency, board, or commission, or authorized person, setting forth that the requirements of a particular law, rule or regulation, within its jurisdiction to regulate or administer has been satisfied.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 1007, Sec. 15. Effective January 1, 2000.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "1007",
+    "section": "15",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "1007",
+  "op_section": "15",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=246.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/246.html",
+  "content_sha256": "c3ad2ea09a624f62b31c633d5ad8bf34dc37396a9313ef5b71035374c36f1ff2",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

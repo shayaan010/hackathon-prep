@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24004",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "1",
+  "chapter_title": "General Provisions",
+  "chapter_range": "24000 - 24020",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.1",
+  "text": "No person shall operate any vehicle or combination of vehicles after notice by a peace officer, as defined in Section 830.1 or subdivision (a) of Section 830.2 of the Penal Code, that the vehicle is in an unsafe condition or is not equipped as required by this code, except as may be necessary to return the vehicle or combination of vehicles to the residence or place of business of the owner or driver or to a garage, until the vehicle and its equipment have been made to conform with the requirements of this code.\n\nThe provisions of this section shall not apply to an employee who does not know that such notice has been issued, and in such event the provisions of Section 40001 shall be applicable.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 1. General Provisions [24000 - 24020]\n##### § 24004\n\nNo person shall operate any vehicle or combination of vehicles after notice by a peace officer, as defined in Section 830.1 or subdivision (a) of Section 830.2 of the Penal Code, that the vehicle is in an unsafe condition or is not equipped as required by this code, except as may be necessary to return the vehicle or combination of vehicles to the residence or place of business of the owner or driver or to a garage, until the vehicle and its equipment have been made to conform with the requirements of this code.\n\nThe provisions of this section shall not apply to an employee who does not know that such notice has been issued, and in such event the provisions of Section 40001 shall be applicable.\n\n*(Amended by Stats. 1979, Ch. 171.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall operate any vehicle or combination of vehicles after notice by a peace officer, as defined in Section 830.1 or subdivision (a) of Section 830.2 of the Penal Code, that the vehicle is in an unsafe condition or is not equipped as required by this code, except as may be necessary to return the vehicle or combination of vehicles to the residence or place of business of the owner or driver or to a garage, until the vehicle and its equipment have been made to conform with the requirements of this code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "The provisions of this section shall not apply to an employee who does not know that such notice has been issued, and in such event the provisions of Section 40001 shall be applicable.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1979, Ch. 171.)",
+    "action": "Amended",
+    "statutes_year": 1979,
+    "chapter": "171",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1979",
+  "op_chapter": "171",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24004.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24004.html",
+  "content_sha256": "e853be3fb77cb639ba4a0ecbfa33b040fe121231bbb38fb4804d0a2898a5ea51",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

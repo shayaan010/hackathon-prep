@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2809",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "4",
+  "chapter_title": "Administration and Enforcement",
+  "chapter_range": "2800 - 2818",
+  "article": "1",
+  "article_title": "Lawful Orders and Inspections",
+  "article_range": "2800 - 2818",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.4.1",
+  "text": "All scales and weighing instruments used by any member of the California Highway Patrol to enforce the provisions of this code with respect to weight limitations shall be inspected and certified as to accuracy at least once in each calendar year by the Bureau of Weights and Measures of the Department of Food and Agriculture or by a county sealer of weights and measures.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 4. Administration and Enforcement [2800 - 2818]\n#### Article 1. Lawful Orders and Inspections [2800 - 2818]\n##### § 2809\n\nAll scales and weighing instruments used by any member of the California Highway Patrol to enforce the provisions of this code with respect to weight limitations shall be inspected and certified as to accuracy at least once in each calendar year by the Bureau of Weights and Measures of the Department of Food and Agriculture or by a county sealer of weights and measures.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "All scales and weighing instruments used by any member of the California Highway Patrol to enforce the provisions of this code with respect to weight limitations shall be inspected and certified as to accuracy at least once in each calendar year by the Bureau of Weights and Measures of the Department of Food and Agriculture or by a county sealer of weights and measures.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2809.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2809.html",
+  "content_sha256": "b7b75a66b9e3d3aba5779a4f81dac7f34e266b30d6bb709313eaf0213ffcbe7b",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

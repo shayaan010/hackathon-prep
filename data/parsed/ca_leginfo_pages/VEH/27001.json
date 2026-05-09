@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27001",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "1",
+  "article_title": "Horns, Sirens and Amplification Devices",
+  "article_range": "27000 - 27007",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.1",
+  "text": "(a) The driver of a motor vehicle when reasonably necessary to insure safe operation shall give audible warning with his horn.\n\n(b) The horn shall not otherwise be used, except as a theft alarm system which operates as specified in Article 13 (commencing with Section 28085) of this chapter.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 1. Horns, Sirens and Amplification Devices [27000 - 27007]\n##### § 27001\n\n(a) The driver of a motor vehicle when reasonably necessary to insure safe operation shall give audible warning with his horn.\n\n(b) The horn shall not otherwise be used, except as a theft alarm system which operates as specified in Article 13 (commencing with Section 28085) of this chapter.\n\n*(Amended by Stats. 1977, Ch. 993.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The driver of a motor vehicle when reasonably necessary to insure safe operation shall give audible warning with his horn.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The horn shall not otherwise be used, except as a theft alarm system which operates as specified in Article 13 (commencing with Section 28085) of this chapter.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1977, Ch. 993.)",
+    "action": "Amended",
+    "statutes_year": 1977,
+    "chapter": "993",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1977",
+  "op_chapter": "993",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27001.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27001.html",
+  "content_sha256": "e38e64c175e55fe9429b5adf5c50e7abc56a6ec45c1c2497bdabb49910e96ba4",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

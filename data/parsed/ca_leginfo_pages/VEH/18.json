@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "18",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "Officers and employees of the Department of Motor Vehicles and the Department of the California Highway Patrol are, for the purposes of this code, authorized to administer oaths and acknowledge signatures, for which no fee shall be charged.",
+  "markdown": "# Vehicle Code\n##### § 18\n\nOfficers and employees of the Department of Motor Vehicles and the Department of the California Highway Patrol are, for the purposes of this code, authorized to administer oaths and acknowledge signatures, for which no fee shall be charged.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Officers and employees of the Department of Motor Vehicles and the Department of the California Highway Patrol are, for the purposes of this code, authorized to administer oaths and acknowledge signatures, for which no fee shall be charged.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=18.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/18.html",
+  "content_sha256": "a74a18e78cab7f05ec2785c41d11e41a806235bd9eb6b684436ba276117fe7b2",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

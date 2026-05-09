@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21401",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "2",
+  "article_title": "Official Traffic Control Devices",
+  "article_range": "21400 - 21401",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.2",
+  "text": "(a) Except as provided in Section 21374, only those official traffic control devices that conform to the uniform standards and specifications promulgated by the Department of Transportation shall be placed upon a street or highway.\n\n(b) Any traffic signal controller that is newly installed or upgraded by the Department of Transportation shall be of a standard traffic signal communication protocol capable of two-way communications. A local authority may follow this requirement.\n\n(c) In recognition of the state and local interests served by the action made optional for a local authority in subdivision (b), the Legislature encourages local agencies to continue taking the action formerly mandated by this section. However nothing in this subdivision may be construed to impose any liability on a local agency that does not continue to take the formerly mandated action.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 2. Official Traffic Control Devices [21400 - 21401]\n##### § 21401\n\n(a) Except as provided in Section 21374, only those official traffic control devices that conform to the uniform standards and specifications promulgated by the Department of Transportation shall be placed upon a street or highway.\n\n(b) Any traffic signal controller that is newly installed or upgraded by the Department of Transportation shall be of a standard traffic signal communication protocol capable of two-way communications. A local authority may follow this requirement.\n\n(c) In recognition of the state and local interests served by the action made optional for a local authority in subdivision (b), the Legislature encourages local agencies to continue taking the action formerly mandated by this section. However nothing in this subdivision may be construed to impose any liability on a local agency that does not continue to take the formerly mandated action.\n\n*(Amended by Stats. 2004, Ch. 889, Sec. 6. Effective September 29, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in Section 21374, only those official traffic control devices that conform to the uniform standards and specifications promulgated by the Department of Transportation shall be placed upon a street or highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any traffic signal controller that is newly installed or upgraded by the Department of Transportation shall be of a standard traffic signal communication protocol capable of two-way communications. A local authority may follow this requirement.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "In recognition of the state and local interests served by the action made optional for a local authority in subdivision (b), the Legislature encourages local agencies to continue taking the action formerly mandated by this section. However nothing in this subdivision may be construed to impose any liability on a local agency that does not continue to take the formerly mandated action.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 889, Sec. 6. Effective September 29, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "889",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "2004-09-29",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "889",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21401.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21401.html",
+  "content_sha256": "4574a0a90a1db0930e96abbfedceeacdd5b2f76b309b43975a37ba463cfa7345",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

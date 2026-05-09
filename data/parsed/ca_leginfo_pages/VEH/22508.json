@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22508",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "(a) A local authority shall not establish parking payment zones or fix the rate of fees for those zones except by ordinance. The rate of fees may be variable, based upon criteria identified by the local authority in the ordinance. An ordinance establishing a parking payment zone shall describe the area that would be included within the zone.\n\n(b) A local authority may, by ordinance, cause streets and highways to be marked with white lines designating parking spaces and require vehicles to park within the parking spaces.\n\n(c) An ordinance adopted by a local authority pursuant to this section with respect to a state highway shall not become effective until the proposed ordinance has been submitted to and approved in writing by the Department of Transportation. The proposed ordinance shall be submitted to the department only by action of the local legislative body and the proposed ordinance shall be submitted in complete draft form.\n\n(d) An ordinance adopted pursuant to this section establishing a parking payment zone or fixing rates of fees for that zone shall be subject to local referendum processes in the same manner as if the ordinance dealt with a matter of purely local concern.\n\n(e) Except as described in Section 22508.2, a local authority may accept but shall not require payment of parking meter fees by a mobile device.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22508\n\n(a) A local authority shall not establish parking payment zones or fix the rate of fees for those zones except by ordinance. The rate of fees may be variable, based upon criteria identified by the local authority in the ordinance. An ordinance establishing a parking payment zone shall describe the area that would be included within the zone.\n\n(b) A local authority may, by ordinance, cause streets and highways to be marked with white lines designating parking spaces and require vehicles to park within the parking spaces.\n\n(c) An ordinance adopted by a local authority pursuant to this section with respect to a state highway shall not become effective until the proposed ordinance has been submitted to and approved in writing by the Department of Transportation. The proposed ordinance shall be submitted to the department only by action of the local legislative body and the proposed ordinance shall be submitted in complete draft form.\n\n(d) An ordinance adopted pursuant to this section establishing a parking payment zone or fixing rates of fees for that zone shall be subject to local referendum processes in the same manner as if the ordinance dealt with a matter of purely local concern.\n\n(e) Except as described in Section 22508.2, a local authority may accept but shall not require payment of parking meter fees by a mobile device.\n\n*(Amended by Stats. 2024, Ch. 858, Sec. 1. (SB 532) Effective January 1, 2025.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A local authority shall not establish parking payment zones or fix the rate of fees for those zones except by ordinance. The rate of fees may be variable, based upon criteria identified by the local authority in the ordinance. An ordinance establishing a parking payment zone shall describe the area that would be included within the zone.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A local authority may, by ordinance, cause streets and highways to be marked with white lines designating parking spaces and require vehicles to park within the parking spaces.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "An ordinance adopted by a local authority pursuant to this section with respect to a state highway shall not become effective until the proposed ordinance has been submitted to and approved in writing by the Department of Transportation. The proposed ordinance shall be submitted to the department only by action of the local legislative body and the proposed ordinance shall be submitted in complete draft form.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "An ordinance adopted pursuant to this section establishing a parking payment zone or fixing rates of fees for that zone shall be subject to local referendum processes in the same manner as if the ordinance dealt with a matter of purely local concern.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "Except as described in Section 22508.2, a local authority may accept but shall not require payment of parking meter fees by a mobile device.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2024, Ch. 858, Sec. 1. (SB 532) Effective January 1, 2025.)",
+    "action": "Amended",
+    "statutes_year": 2024,
+    "chapter": "858",
+    "section": "1",
+    "bill_number": "SB 532",
+    "effective_date": "2025-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2024",
+  "op_chapter": "858",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22508.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22508.html",
+  "content_sha256": "dc1e95b5a02aaf206398523a855d2b0208c08185122f20547178642401c5361d",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

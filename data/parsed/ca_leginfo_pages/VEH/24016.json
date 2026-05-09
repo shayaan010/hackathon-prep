@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24016",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "1",
+  "chapter_title": "General Provisions",
+  "chapter_range": "24000 - 24020",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.1",
+  "text": "(a) An electric bicycle described in subdivision (a) of Section 312.5 shall meet the following criteria:\n\n(1) Comply with the equipment and manufacturing requirements for bicycles adopted by the United States Consumer Product Safety Commission (16 C.F.R. 1512.1, et seq.).\n\n(2) Operate in a manner so that the electric motor is disengaged or ceases to function when the brakes are applied, or operate in a manner such that the motor is engaged through a switch or mechanism that, if released or activated, will cause the electric motor to disengage or cease to function.\n\n(b) A person operating an electric bicycle is not subject to the provisions of this code relating to financial responsibility, driver’s licenses, registration, and license plate requirements, and an electric bicycle is not a motor vehicle.\n\n(c) Every manufacturer of an electric bicycle shall certify that it complies with the equipment and manufacturing requirements for bicycles adopted by the United States Consumer Product Safety Commission (16 C.F.R. 1512.1, et seq.).\n\n(d) A person shall not tamper with or modify an electric bicycle described in subdivision (a) of Section 312.5 so as to change the speed capability of the bicycle, unless the bicycle continues to meet the definition of an electric bicycle under subdivision (a) of Section 312.5 and the person appropriately replaces the label indicating the classification required in subdivision (c) of Section 312.5.\n\n(e) A person shall not sell a product, device, or application that can modify the speed capability of an electric bicycle such that it no longer meets the definition of an electric bicycle under subdivision (a) of Section 312.5.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 1. General Provisions [24000 - 24020]\n##### § 24016\n\n(a) An electric bicycle described in subdivision (a) of Section 312.5 shall meet the following criteria:\n\n    (1) Comply with the equipment and manufacturing requirements for bicycles adopted by the United States Consumer Product Safety Commission (16 C.F.R. 1512.1, et seq.).\n\n    (2) Operate in a manner so that the electric motor is disengaged or ceases to function when the brakes are applied, or operate in a manner such that the motor is engaged through a switch or mechanism that, if released or activated, will cause the electric motor to disengage or cease to function.\n\n(b) A person operating an electric bicycle is not subject to the provisions of this code relating to financial responsibility, driver’s licenses, registration, and license plate requirements, and an electric bicycle is not a motor vehicle.\n\n(c) Every manufacturer of an electric bicycle shall certify that it complies with the equipment and manufacturing requirements for bicycles adopted by the United States Consumer Product Safety Commission (16 C.F.R. 1512.1, et seq.).\n\n(d) A person shall not tamper with or modify an electric bicycle described in subdivision (a) of Section 312.5 so as to change the speed capability of the bicycle, unless the bicycle continues to meet the definition of an electric bicycle under subdivision (a) of Section 312.5 and the person appropriately replaces the label indicating the classification required in subdivision (c) of Section 312.5.\n\n(e) A person shall not sell a product, device, or application that can modify the speed capability of an electric bicycle such that it no longer meets the definition of an electric bicycle under subdivision (a) of Section 312.5.\n\n*(Amended by Stats. 2025, Ch. 37, Sec. 1. (AB 545) Effective January 1, 2026.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "An electric bicycle described in subdivision (a) of Section 312.5 shall meet the following criteria:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Comply with the equipment and manufacturing requirements for bicycles adopted by the United States Consumer Product Safety Commission (16 C.F.R. 1512.1, et seq.).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Operate in a manner so that the electric motor is disengaged or ceases to function when the brakes are applied, or operate in a manner such that the motor is engaged through a switch or mechanism that, if released or activated, will cause the electric motor to disengage or cease to function.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A person operating an electric bicycle is not subject to the provisions of this code relating to financial responsibility, driver’s licenses, registration, and license plate requirements, and an electric bicycle is not a motor vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Every manufacturer of an electric bicycle shall certify that it complies with the equipment and manufacturing requirements for bicycles adopted by the United States Consumer Product Safety Commission (16 C.F.R. 1512.1, et seq.).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "A person shall not tamper with or modify an electric bicycle described in subdivision (a) of Section 312.5 so as to change the speed capability of the bicycle, unless the bicycle continues to meet the definition of an electric bicycle under subdivision (a) of Section 312.5 and the person appropriately replaces the label indicating the classification required in subdivision (c) of Section 312.5.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "A person shall not sell a product, device, or application that can modify the speed capability of an electric bicycle such that it no longer meets the definition of an electric bicycle under subdivision (a) of Section 312.5.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2025, Ch. 37, Sec. 1. (AB 545) Effective January 1, 2026.)",
+    "action": "Amended",
+    "statutes_year": 2025,
+    "chapter": "37",
+    "section": "1",
+    "bill_number": "AB 545",
+    "effective_date": "2026-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2025",
+  "op_chapter": "37",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24016.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24016.html",
+  "content_sha256": "ec1855ac51479f5d6cfc0c41a19c8e88e506b29d4ff5142beed27c6b9c190e88",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

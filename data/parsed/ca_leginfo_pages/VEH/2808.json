@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2808",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "4",
+  "chapter_title": "Administration and Enforcement",
+  "chapter_range": "2800 - 2818",
+  "article": "1",
+  "article_title": "Lawful Orders and Inspections",
+  "article_range": "2800 - 2818",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.4.1",
+  "text": "(a) Except as provided in subdivision (b), all schoolbuses transporting pupils to or from any private school or private school activity shall be subject to the same statutes, rules, and regulations relating to construction, design, operation, equipment, and color as are now or hereafter applicable to schoolbuses transporting pupils to or from any public school or public school activity.\n\n(b) Schoolbuses shall be exempt from such statutes, rules, and regulations relating to construction, design, safe operation, and equipment as the Commissioner of the California Highway Patrol shall determine necessary to permit such schoolbuses to continue in operation or when it appears that the results intended to be attained by such rules and regulations are being accomplished by the use of other methods. Such exemption shall be specified by rule or regulation of the commissioner. No such exemption shall be made which in the opinion of the commissioner would jeopardize the safety of the pupils so transported.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 4. Administration and Enforcement [2800 - 2818]\n#### Article 1. Lawful Orders and Inspections [2800 - 2818]\n##### § 2808\n\n(a) Except as provided in subdivision (b), all schoolbuses transporting pupils to or from any private school or private school activity shall be subject to the same statutes, rules, and regulations relating to construction, design, operation, equipment, and color as are now or hereafter applicable to schoolbuses transporting pupils to or from any public school or public school activity.\n\n(b) Schoolbuses shall be exempt from such statutes, rules, and regulations relating to construction, design, safe operation, and equipment as the Commissioner of the California Highway Patrol shall determine necessary to permit such schoolbuses to continue in operation or when it appears that the results intended to be attained by such rules and regulations are being accomplished by the use of other methods. Such exemption shall be specified by rule or regulation of the commissioner. No such exemption shall be made which in the opinion of the commissioner would jeopardize the safety of the pupils so transported.\n\n*(Amended by Stats. 1977, Ch. 406.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in subdivision (b), all schoolbuses transporting pupils to or from any private school or private school activity shall be subject to the same statutes, rules, and regulations relating to construction, design, operation, equipment, and color as are now or hereafter applicable to schoolbuses transporting pupils to or from any public school or public school activity.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Schoolbuses shall be exempt from such statutes, rules, and regulations relating to construction, design, safe operation, and equipment as the Commissioner of the California Highway Patrol shall determine necessary to permit such schoolbuses to continue in operation or when it appears that the results intended to be attained by such rules and regulations are being accomplished by the use of other methods. Such exemption shall be specified by rule or regulation of the commissioner. No such exemption shall be made which in the opinion of the commissioner would jeopardize the safety of the pupils so transported.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1977, Ch. 406.)",
+    "action": "Amended",
+    "statutes_year": 1977,
+    "chapter": "406",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1977",
+  "op_chapter": "406",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2808.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2808.html",
+  "content_sha256": "ed167d6016fe7db2a211c98dd2eafea3249ec985d109d10fa2b3ee217c69c65b",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

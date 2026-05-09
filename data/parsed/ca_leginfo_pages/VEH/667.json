@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "667",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) A “utility trailer” is a trailer or semitrailer used solely for the transportation of the user’s personal property, not in commerce, which does not exceed a gross weight of 10,000 pounds or a manufacturer’s gross vehicle weight rating of 10,000 pounds.\n\n(b) Notwithstanding subdivision (a), a “utility trailer” includes a trailer or semitrailer designed and used for the transportation of livestock, not in commerce, which does not exceed a gross weight of 10,000 pounds or a manufacturer’s gross vehicle weight rating of 10,000 pounds.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 667\n\n(a) A “utility trailer” is a trailer or semitrailer used solely for the transportation of the user’s personal property, not in commerce, which does not exceed a gross weight of 10,000 pounds or a manufacturer’s gross vehicle weight rating of 10,000 pounds.\n\n(b) Notwithstanding subdivision (a), a “utility trailer” includes a trailer or semitrailer designed and used for the transportation of livestock, not in commerce, which does not exceed a gross weight of 10,000 pounds or a manufacturer’s gross vehicle weight rating of 10,000 pounds.\n\n*(Added by Stats. 2010, Ch. 491, Sec. 35. (SB 1318) Effective January 1, 2011.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A “utility trailer” is a trailer or semitrailer used solely for the transportation of the user’s personal property, not in commerce, which does not exceed a gross weight of 10,000 pounds or a manufacturer’s gross vehicle weight rating of 10,000 pounds.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding subdivision (a), a “utility trailer” includes a trailer or semitrailer designed and used for the transportation of livestock, not in commerce, which does not exceed a gross weight of 10,000 pounds or a manufacturer’s gross vehicle weight rating of 10,000 pounds.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2010, Ch. 491, Sec. 35. (SB 1318) Effective January 1, 2011.)",
+    "action": "Added",
+    "statutes_year": 2010,
+    "chapter": "491",
+    "section": "35",
+    "bill_number": "SB 1318",
+    "effective_date": "2011-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2010",
+  "op_chapter": "491",
+  "op_section": "35",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=667.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/667.html",
+  "content_sha256": "7fc9e964b70c31ec8e0faeeefa7eaeb1ad2770610cecb5fbc7e2a2f3ed3fa05d",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21117",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "3",
+  "article_title": "Local Regulation",
+  "article_range": "21100 - 21118",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.3",
+  "text": "(a) Local authorities may, notwithstanding Section 21101 or 21101.6, by written agreement approved by their legislative bodies, transfer among themselves the responsibility for maintaining, operating, or controlling public access to any highway under their respective jurisdictions located in or adjacent to an ecological reserve or an environmentally sensitive area within their respective jurisdictions.\n\n(b) An agreement entered into pursuant to subdivision (a) may authorize the local authority having responsibility for the highway under the agreement to do all of the following:\n\n(1) Limit access by motor vehicles to the highway during certain hours of the day or certain days of the week.\n\n(2) Prohibit access by motor vehicles during certain hours of the day or certain days of the week.\n\n(3) Provide for the construction or erection of barricades or other devices designed or intended to separate pedestrians from vehicles or motor vehicles.\n\n(4) Establish and operate a program by which vehicular access is permitted only in conjunction with specified educational programs or for disabled persons, or both.\n\n(5) Issue temporary permits for special events valid for less than one day.\n\n(c) As used in this section, the term “ecological reserve” has the same meaning as defined in Section 1584 of the Fish and Game Code, and “environmentally sensitive area” has the same meaning as defined in Section 30107.5 of the Public Resources Code.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 3. Local Regulation [21100 - 21118]\n##### § 21117\n\n(a) Local authorities may, notwithstanding Section 21101 or 21101.6, by written agreement approved by their legislative bodies, transfer among themselves the responsibility for maintaining, operating, or controlling public access to any highway under their respective jurisdictions located in or adjacent to an ecological reserve or an environmentally sensitive area within their respective jurisdictions.\n\n(b) An agreement entered into pursuant to subdivision (a) may authorize the local authority having responsibility for the highway under the agreement to do all of the following:\n\n    (1) Limit access by motor vehicles to the highway during certain hours of the day or certain days of the week.\n\n    (2) Prohibit access by motor vehicles during certain hours of the day or certain days of the week.\n\n    (3) Provide for the construction or erection of barricades or other devices designed or intended to separate pedestrians from vehicles or motor vehicles.\n\n    (4) Establish and operate a program by which vehicular access is permitted only in conjunction with specified educational programs or for disabled persons, or both.\n\n    (5) Issue temporary permits for special events valid for less than one day.\n\n(c) As used in this section, the term “ecological reserve” has the same meaning as defined in Section 1584 of the Fish and Game Code, and “environmentally sensitive area” has the same meaning as defined in Section 30107.5 of the Public Resources Code.\n\n*(Added by Stats. 1991, Ch. 541, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Local authorities may, notwithstanding Section 21101 or 21101.6, by written agreement approved by their legislative bodies, transfer among themselves the responsibility for maintaining, operating, or controlling public access to any highway under their respective jurisdictions located in or adjacent to an ecological reserve or an environmentally sensitive area within their respective jurisdictions.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An agreement entered into pursuant to subdivision (a) may authorize the local authority having responsibility for the highway under the agreement to do all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Limit access by motor vehicles to the highway during certain hours of the day or certain days of the week.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Prohibit access by motor vehicles during certain hours of the day or certain days of the week.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Provide for the construction or erection of barricades or other devices designed or intended to separate pedestrians from vehicles or motor vehicles.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Establish and operate a program by which vehicular access is permitted only in conjunction with specified educational programs or for disabled persons, or both.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "Issue temporary permits for special events valid for less than one day.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "As used in this section, the term “ecological reserve” has the same meaning as defined in Section 1584 of the Fish and Game Code, and “environmentally sensitive area” has the same meaning as defined in Section 30107.5 of the Public Resources Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1991, Ch. 541, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1991,
+    "chapter": "541",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1991",
+  "op_chapter": "541",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21117.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21117.html",
+  "content_sha256": "331498d44e8ab76f39e7f3c2f61aac9a8606072ce9e4a4a092821a01420a22d1",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

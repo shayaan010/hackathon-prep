@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "625",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “traffic officer” is any member of the California Highway Patrol, or any peace officer who is on duty for the exclusive or main purpose of enforcing Division 10 (commencing with Section 20000) or 11 (commencing with Section 21000).",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 625\n\nA “traffic officer” is any member of the California Highway Patrol, or any peace officer who is on duty for the exclusive or main purpose of enforcing Division 10 (commencing with Section 20000) or 11 (commencing with Section 21000).\n\n*(Amended by Stats. 1983, Ch. 142, Sec. 159.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “traffic officer” is any member of the California Highway Patrol, or any peace officer who is on duty for the exclusive or main purpose of enforcing Division 10 (commencing with Section 20000) or 11 (commencing with Section 21000).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 142, Sec. 159.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "142",
+    "section": "159",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "142",
+  "op_section": "159",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=625.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/625.html",
+  "content_sha256": "e957c243d52234342fa78ef70bf4b6a388cb15b5fc8673b51deb2d7a38d6c02e",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

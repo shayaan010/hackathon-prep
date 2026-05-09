@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "31",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "No person shall give, either orally or in writing, information to a peace officer while in the performance of his duties under the provisions of this code when such person knows that the information is false.",
+  "markdown": "# Vehicle Code\n##### § 31\n\nNo person shall give, either orally or in writing, information to a peace officer while in the performance of his duties under the provisions of this code when such person knows that the information is false.\n\n*(Added by Stats. 1965, Ch. 1264.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall give, either orally or in writing, information to a peace officer while in the performance of his duties under the provisions of this code when such person knows that the information is false.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1965, Ch. 1264.)",
+    "action": "Added",
+    "statutes_year": 1965,
+    "chapter": "1264",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1965",
+  "op_chapter": "1264",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=31.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/31.html",
+  "content_sha256": "81500887ac60a0fe4da6d7a51f06e2c58532d547e9b1a74b69048376fe2528a6",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

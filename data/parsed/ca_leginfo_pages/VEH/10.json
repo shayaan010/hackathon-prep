@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "10",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "Whenever any reference is made to any portion of this code or of any other law, such reference shall apply to all amendments and additions heretofore or hereafter made.",
+  "markdown": "# Vehicle Code\n##### § 10\n\nWhenever any reference is made to any portion of this code or of any other law, such reference shall apply to all amendments and additions heretofore or hereafter made.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever any reference is made to any portion of this code or of any other law, such reference shall apply to all amendments and additions heretofore or hereafter made.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=10.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/10.html",
+  "content_sha256": "75118c60cee15afcebbecc13cc423dcba4958f5873c6a3c9ac0520f339519eb9",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

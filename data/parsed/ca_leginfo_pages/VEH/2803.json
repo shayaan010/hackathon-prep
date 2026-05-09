@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2803",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "4",
+  "chapter_title": "Administration and Enforcement",
+  "chapter_range": "2800 - 2818",
+  "article": "1",
+  "article_title": "Lawful Orders and Inspections",
+  "article_range": "2800 - 2818",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.4.1",
+  "text": "(a) If the traffic officer determines that the vehicle is not safely loaded or that the height, width, length, or weight is unlawful, he may require the driver to stop in a suitable place and reload or remove such portion of the load as may be necessary to render the load safe or to reduce it to the limits permitted under this code. A suitable place is an area which allows the least obstruction to the highway and which requires the least travel on the highway by the vehicle. Determination of the suitability of an area shall be made by the traffic officer who requires the adjustment. All material so unloaded shall be cared for by the owner or operator of the vehicle at the risk of the owner or operator.\n\n(b) If a certified weight certificate or bill of lading accompanies a vehicle which has been determined to be overweight due to the load on the vehicle, the driver shall submit the certified weight certificate or bill of lading, whichever is appropriate, to the traffic officer when the overweight load is removed in the presence of the officer. The officer may note on the certified weight certificate or bill of lading submitted by the driver the fact that a portion of the load has been removed to bring the vehicle and load within the allowable weight limit specified in this code, and the officer shall return the certificate or bill of lading to the driver.\n\n(c) If the height, width, or length of the vehicle is unlawful, irrespective of any load thereon, or if an unladen vehicle is overweight, the traffic officer may prohibit further movement of the vehicle until a permit is obtained as provided in Section 35780.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 4. Administration and Enforcement [2800 - 2818]\n#### Article 1. Lawful Orders and Inspections [2800 - 2818]\n##### § 2803\n\n(a) If the traffic officer determines that the vehicle is not safely loaded or that the height, width, length, or weight is unlawful, he may require the driver to stop in a suitable place and reload or remove such portion of the load as may be necessary to render the load safe or to reduce it to the limits permitted under this code. A suitable place is an area which allows the least obstruction to the highway and which requires the least travel on the highway by the vehicle. Determination of the suitability of an area shall be made by the traffic officer who requires the adjustment. All material so unloaded shall be cared for by the owner or operator of the vehicle at the risk of the owner or operator.\n\n(b) If a certified weight certificate or bill of lading accompanies a vehicle which has been determined to be overweight due to the load on the vehicle, the driver shall submit the certified weight certificate or bill of lading, whichever is appropriate, to the traffic officer when the overweight load is removed in the presence of the officer. The officer may note on the certified weight certificate or bill of lading submitted by the driver the fact that a portion of the load has been removed to bring the vehicle and load within the allowable weight limit specified in this code, and the officer shall return the certificate or bill of lading to the driver.\n\n(c) If the height, width, or length of the vehicle is unlawful, irrespective of any load thereon, or if an unladen vehicle is overweight, the traffic officer may prohibit further movement of the vehicle until a permit is obtained as provided in Section 35780.\n\n*(Amended by Stats. 1977, Ch. 506.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If the traffic officer determines that the vehicle is not safely loaded or that the height, width, length, or weight is unlawful, he may require the driver to stop in a suitable place and reload or remove such portion of the load as may be necessary to render the load safe or to reduce it to the limits permitted under this code. A suitable place is an area which allows the least obstruction to the highway and which requires the least travel on the highway by the vehicle. Determination of the suitability of an area shall be made by the traffic officer who requires the adjustment. All material so unloaded shall be cared for by the owner or operator of the vehicle at the risk of the owner or operator.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If a certified weight certificate or bill of lading accompanies a vehicle which has been determined to be overweight due to the load on the vehicle, the driver shall submit the certified weight certificate or bill of lading, whichever is appropriate, to the traffic officer when the overweight load is removed in the presence of the officer. The officer may note on the certified weight certificate or bill of lading submitted by the driver the fact that a portion of the load has been removed to bring the vehicle and load within the allowable weight limit specified in this code, and the officer shall return the certificate or bill of lading to the driver.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "If the height, width, or length of the vehicle is unlawful, irrespective of any load thereon, or if an unladen vehicle is overweight, the traffic officer may prohibit further movement of the vehicle until a permit is obtained as provided in Section 35780.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1977, Ch. 506.)",
+    "action": "Amended",
+    "statutes_year": 1977,
+    "chapter": "506",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1977",
+  "op_chapter": "506",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2803.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2803.html",
+  "content_sha256": "b59369c7a548c78449b8ff61e8441dc6de2325c9929f624b276586390fb69183",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

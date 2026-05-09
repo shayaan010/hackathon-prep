@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24609",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "3",
+  "article_title": "Rear Lighting Equipment",
+  "article_range": "24600 - 24617",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.3",
+  "text": "(a) A vehicle may be equipped with white or amber reflectors that are mounted on the front of the vehicle at a height of 15 inches or more, but not more than 60 inches from the ground.\n\n(b) A schoolbus may be equipped with a set of two devices, with each device in the set consisting of an amber reflector integrated into the lens of an amber light that is otherwise permitted under this code, if the set is mounted with one device on the left side and one on the right side of the vehicle, and with each device at the same level.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 3. Rear Lighting Equipment [24600 - 24617]\n##### § 24609\n\n(a) A vehicle may be equipped with white or amber reflectors that are mounted on the front of the vehicle at a height of 15 inches or more, but not more than 60 inches from the ground.\n\n(b) A schoolbus may be equipped with a set of two devices, with each device in the set consisting of an amber reflector integrated into the lens of an amber light that is otherwise permitted under this code, if the set is mounted with one device on the left side and one on the right side of the vehicle, and with each device at the same level.\n\n*(Amended by Stats. 2003, Ch. 594, Sec. 44. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A vehicle may be equipped with white or amber reflectors that are mounted on the front of the vehicle at a height of 15 inches or more, but not more than 60 inches from the ground.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A schoolbus may be equipped with a set of two devices, with each device in the set consisting of an amber reflector integrated into the lens of an amber light that is otherwise permitted under this code, if the set is mounted with one device on the left side and one on the right side of the vehicle, and with each device at the same level.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 594, Sec. 44. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "594",
+    "section": "44",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "594",
+  "op_section": "44",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24609.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24609.html",
+  "content_sha256": "83d966ae5bbdf835d32443f92b46f153b8a120389ab52393e74df59345de9ea9",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

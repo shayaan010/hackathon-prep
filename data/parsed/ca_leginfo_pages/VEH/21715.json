@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21715",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "2",
+  "article_title": "Additional Driving Rules",
+  "article_range": "21700 - 21721",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.2",
+  "text": "(a) No passenger vehicle regardless of weight, or any other motor vehicle under 4,000 pounds unladen, shall draw or tow more than one vehicle in combination, except that an auxiliary dolly or tow dolly may be used with the towed vehicle.\n\n(b) No motor vehicle under 4,000 pounds unladen shall tow any vehicle weighing 6,000 pounds or more gross.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 2. Additional Driving Rules [21700 - 21721]\n##### § 21715\n\n(a) No passenger vehicle regardless of weight, or any other motor vehicle under 4,000 pounds unladen, shall draw or tow more than one vehicle in combination, except that an auxiliary dolly or tow dolly may be used with the towed vehicle.\n\n(b) No motor vehicle under 4,000 pounds unladen shall tow any vehicle weighing 6,000 pounds or more gross.\n\n*(Amended by Stats. 1983, Ch. 708, Sec. 8.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No passenger vehicle regardless of weight, or any other motor vehicle under 4,000 pounds unladen, shall draw or tow more than one vehicle in combination, except that an auxiliary dolly or tow dolly may be used with the towed vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No motor vehicle under 4,000 pounds unladen shall tow any vehicle weighing 6,000 pounds or more gross.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 708, Sec. 8.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "708",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1983",
+  "op_chapter": "708",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21715.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21715.html",
+  "content_sha256": "e77d0581ffb28c0fa6523bfba511e62e40cb80ba81ff46cc3a7b8260b2cb7852",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

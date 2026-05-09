@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21806",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "4",
+  "chapter_title": "Right-of-Way",
+  "chapter_range": "21800 - 21809",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.4",
+  "text": "Upon the immediate approach of an authorized emergency vehicle which is sounding a siren and which has at least one lighted lamp exhibiting red light that is visible, under normal atmospheric conditions, from a distance of 1,000 feet to the front of the vehicle, the surrounding traffic shall, except as otherwise directed by a traffic officer, do the following:\n\n(a) (1) Except as required under paragraph (2), the driver of every other vehicle shall yield the right-of-way and shall immediately drive to the right-hand edge or curb of the highway, clear of any intersection, and thereupon shall stop and remain stopped until the authorized emergency vehicle has passed.\n\n(2) A person driving a vehicle in an exclusive or preferential use lane shall exit that lane immediately upon determining that the exit can be accomplished with reasonable safety.\n\n(b) The operator of every street car shall immediately stop the street car, clear of any intersection, and remain stopped until the authorized emergency vehicle has passed.\n\n(c) All pedestrians upon the highway shall proceed to the nearest curb or place of safety and remain there until the authorized emergency vehicle has passed.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 4. Right-of-Way [21800 - 21809]\n##### § 21806\n\nUpon the immediate approach of an authorized emergency vehicle which is sounding a siren and which has at least one lighted lamp exhibiting red light that is visible, under normal atmospheric conditions, from a distance of 1,000 feet to the front of the vehicle, the surrounding traffic shall, except as otherwise directed by a traffic officer, do the following:\n\n(a) (1) Except as required under paragraph (2), the driver of every other vehicle shall yield the right-of-way and shall immediately drive to the right-hand edge or curb of the highway, clear of any intersection, and thereupon shall stop and remain stopped until the authorized emergency vehicle has passed.\n\n    (2) A person driving a vehicle in an exclusive or preferential use lane shall exit that lane immediately upon determining that the exit can be accomplished with reasonable safety.\n\n(b) The operator of every street car shall immediately stop the street car, clear of any intersection, and remain stopped until the authorized emergency vehicle has passed.\n\n(c) All pedestrians upon the highway shall proceed to the nearest curb or place of safety and remain there until the authorized emergency vehicle has passed.\n\n*(Amended by Stats. 1996, Ch. 1154, Sec. 68. Effective September 30, 1996.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Upon the immediate approach of an authorized emergency vehicle which is sounding a siren and which has at least one lighted lamp exhibiting red light that is visible, under normal atmospheric conditions, from a distance of 1,000 feet to the front of the vehicle, the surrounding traffic shall, except as otherwise directed by a traffic officer, do the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "(1) Except as required under paragraph (2), the driver of every other vehicle shall yield the right-of-way and shall immediately drive to the right-hand edge or curb of the highway, clear of any intersection, and thereupon shall stop and remain stopped until the authorized emergency vehicle has passed.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "A person driving a vehicle in an exclusive or preferential use lane shall exit that lane immediately upon determining that the exit can be accomplished with reasonable safety.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The operator of every street car shall immediately stop the street car, clear of any intersection, and remain stopped until the authorized emergency vehicle has passed.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "All pedestrians upon the highway shall proceed to the nearest curb or place of safety and remain there until the authorized emergency vehicle has passed.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 1154, Sec. 68. Effective September 30, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "1154",
+    "section": "68",
+    "bill_number": null,
+    "effective_date": "1996-09-30",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "1154",
+  "op_section": "68",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21806.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21806.html",
+  "content_sha256": "5624337e8fee03aaf959ff65c67761d9d0db41efd0e2322ae506bda60741a1ee",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

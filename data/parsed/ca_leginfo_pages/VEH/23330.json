@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23330",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "13",
+  "chapter_title": "Vehicular Crossings and Toll Highways",
+  "chapter_range": "23250 - 23336",
+  "article": "4",
+  "article_title": "Special Traffic Regulations",
+  "article_range": "23330 - 23336",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.13.4",
+  "text": "Except where a special permit has been obtained from the Department of Transportation under the provisions of Article 6 (commencing with Section 35780) of Chapter 5 of Division 15, none of the following shall be permitted on any vehicular crossing:\n\n(a) Animals while being led or driven, even though tethered or harnessed.\n\n(b) Bicycles, motorized bicycles, or motorized scooters, unless the department by signs indicates that bicycles, motorized bicycles, or motorized scooters, or any combination thereof, are permitted upon all or any portion of the vehicular crossing.\n\n(c) Vehicles having a total width of vehicle or load exceeding 102 inches.\n\n(d) Vehicles carrying items prohibited by regulations promulgated by the Department of Transportation.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 13. Vehicular Crossings and Toll Highways [23250 - 23336]\n#### Article 4. Special Traffic Regulations [23330 - 23336]\n##### § 23330\n\nExcept where a special permit has been obtained from the Department of Transportation under the provisions of Article 6 (commencing with Section 35780) of Chapter 5 of Division 15, none of the following shall be permitted on any vehicular crossing:\n\n(a) Animals while being led or driven, even though tethered or harnessed.\n\n(b) Bicycles, motorized bicycles, or motorized scooters, unless the department by signs indicates that bicycles, motorized bicycles, or motorized scooters, or any combination thereof, are permitted upon all or any portion of the vehicular crossing.\n\n(c) Vehicles having a total width of vehicle or load exceeding 102 inches.\n\n(d) Vehicles carrying items prohibited by regulations promulgated by the Department of Transportation.\n\n*(Amended by Stats. 1999, Ch. 722, Sec. 8. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Except where a special permit has been obtained from the Department of Transportation under the provisions of Article 6 (commencing with Section 35780) of Chapter 5 of Division 15, none of the following shall be permitted on any vehicular crossing:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Animals while being led or driven, even though tethered or harnessed.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Bicycles, motorized bicycles, or motorized scooters, unless the department by signs indicates that bicycles, motorized bicycles, or motorized scooters, or any combination thereof, are permitted upon all or any portion of the vehicular crossing.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Vehicles having a total width of vehicle or load exceeding 102 inches.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Vehicles carrying items prohibited by regulations promulgated by the Department of Transportation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 722, Sec. 8. Effective January 1, 2000.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "722",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "722",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23330.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23330.html",
+  "content_sha256": "52ad9bef9cd27702731ff8224f333899c50dcd5455bb0c88809113359cbab5d6",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

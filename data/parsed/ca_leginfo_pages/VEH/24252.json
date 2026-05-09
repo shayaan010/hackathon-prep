@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24252",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "1",
+  "article_title": "General Provisions",
+  "article_range": "24250 - 24255",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.1",
+  "text": "(a) (1) All lighting equipment of a required type installed on a vehicle shall at all times be maintained in good working order. Lamps shall be equipped with bulbs of the correct voltage rating corresponding to the nominal voltage at the lamp socket.\n\n(2) For purposes of this section, “lighting equipment of a required type” includes lighting equipment specifically required by this code and lighting equipment required pursuant to Part 393 or Part 571 of Title 49 of the Code of Federal Regulations.\n\n(b) The voltage at a tail, stop, license plate, side marker or clearance lamp socket on a vehicle shall not be less than 85 percent of the design voltage of the bulb. Voltage tests shall be conducted with the engine operating.\n\n(c) Two or more lamp or reflector functions may be combined, provided each function subject to requirements established by the department meets those requirements.\n\n(1) A turn signal lamp may not be combined optically with a stoplamp unless the stoplamp is extinguished when the turn signal is flashing.\n\n(2) A clearance lamp may not be combined optically with a taillamp or identification lamp.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 1. General Provisions [24250 - 24255]\n##### § 24252\n\n(a) (1) All lighting equipment of a required type installed on a vehicle shall at all times be maintained in good working order. Lamps shall be equipped with bulbs of the correct voltage rating corresponding to the nominal voltage at the lamp socket.\n\n    (2) For purposes of this section, “lighting equipment of a required type” includes lighting equipment specifically required by this code and lighting equipment required pursuant to Part 393 or Part 571 of Title 49 of the Code of Federal Regulations.\n\n(b) The voltage at a tail, stop, license plate, side marker or clearance lamp socket on a vehicle shall not be less than 85 percent of the design voltage of the bulb. Voltage tests shall be conducted with the engine operating.\n\n(c) Two or more lamp or reflector functions may be combined, provided each function subject to requirements established by the department meets those requirements.\n\n    (1) A turn signal lamp may not be combined optically with a stoplamp unless the stoplamp is extinguished when the turn signal is flashing.\n\n    (2) A clearance lamp may not be combined optically with a taillamp or identification lamp.\n\n*(Amended by Stats. 2021, Ch. 311, Sec. 5. (SB 814) Effective January 1, 2022.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "(1) All lighting equipment of a required type installed on a vehicle shall at all times be maintained in good working order. Lamps shall be equipped with bulbs of the correct voltage rating corresponding to the nominal voltage at the lamp socket.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "For purposes of this section, “lighting equipment of a required type” includes lighting equipment specifically required by this code and lighting equipment required pursuant to Part 393 or Part 571 of Title 49 of the Code of Federal Regulations.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The voltage at a tail, stop, license plate, side marker or clearance lamp socket on a vehicle shall not be less than 85 percent of the design voltage of the bulb. Voltage tests shall be conducted with the engine operating.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Two or more lamp or reflector functions may be combined, provided each function subject to requirements established by the department meets those requirements.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A turn signal lamp may not be combined optically with a stoplamp unless the stoplamp is extinguished when the turn signal is flashing.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "A clearance lamp may not be combined optically with a taillamp or identification lamp.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 311, Sec. 5. (SB 814) Effective January 1, 2022.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "311",
+    "section": "5",
+    "bill_number": "SB 814",
+    "effective_date": "2022-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "311",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24252.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24252.html",
+  "content_sha256": "04c3370eec0ab80682b0853a010dfe0414120010a1ff96898093993df24bf92c",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

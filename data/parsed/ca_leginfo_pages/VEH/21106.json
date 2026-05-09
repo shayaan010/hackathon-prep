@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21106",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "3",
+  "article_title": "Local Regulation",
+  "article_range": "21100 - 21118",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.3",
+  "text": "(a) Local authorities, by ordinance or resolution, may establish crosswalks between intersections.\n\n(b) Local authorities may install signs at or adjacent to an intersection directing that pedestrians shall not cross in a crosswalk indicated at the intersection. It is unlawful for any pedestrian to cross at the crosswalk prohibited by a sign.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 3. Local Regulation [21100 - 21118]\n##### § 21106\n\n(a) Local authorities, by ordinance or resolution, may establish crosswalks between intersections.\n\n(b) Local authorities may install signs at or adjacent to an intersection directing that pedestrians shall not cross in a crosswalk indicated at the intersection. It is unlawful for any pedestrian to cross at the crosswalk prohibited by a sign.\n\n*(Amended by Stats. 1959, Ch. 417.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Local authorities, by ordinance or resolution, may establish crosswalks between intersections.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Local authorities may install signs at or adjacent to an intersection directing that pedestrians shall not cross in a crosswalk indicated at the intersection. It is unlawful for any pedestrian to cross at the crosswalk prohibited by a sign.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1959, Ch. 417.)",
+    "action": "Amended",
+    "statutes_year": 1959,
+    "chapter": "417",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "417",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21106.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21106.html",
+  "content_sha256": "3f283a9a77964c64438dc4619d3123b7205a45018cd80c546cf1c170ed3853c0",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

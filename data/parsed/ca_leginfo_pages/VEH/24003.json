@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24003",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "1",
+  "chapter_title": "General Provisions",
+  "chapter_range": "24000 - 24020",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.1",
+  "text": "No vehicle shall be equipped with any lamp or illuminating device not required or permitted in this code, nor shall any lamp or illuminating device be mounted inside a vehicle unless specifically permitted by this code. This section does not apply to:\n\n(a) Interior lamps such as door, brake and instrument lamps, and map, dash, and dome lamps designed and used for the purpose of illuminating the interior of the vehicle.\n\n(b) Lamps needed in the operation or utilization of those vehicles mentioned in Section 25801, or vehicles used by public utilities in the repair or maintenance of their service, or used only for the illumination of cargo space of a vehicle while loading or unloading.\n\n(c) Warning lamps mounted inside an authorized emergency vehicle and meeting requirements established by the department.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 1. General Provisions [24000 - 24020]\n##### § 24003\n\nNo vehicle shall be equipped with any lamp or illuminating device not required or permitted in this code, nor shall any lamp or illuminating device be mounted inside a vehicle unless specifically permitted by this code. This section does not apply to:\n\n(a) Interior lamps such as door, brake and instrument lamps, and map, dash, and dome lamps designed and used for the purpose of illuminating the interior of the vehicle.\n\n(b) Lamps needed in the operation or utilization of those vehicles mentioned in Section 25801, or vehicles used by public utilities in the repair or maintenance of their service, or used only for the illumination of cargo space of a vehicle while loading or unloading.\n\n(c) Warning lamps mounted inside an authorized emergency vehicle and meeting requirements established by the department.\n\n*(Amended by Stats. 1979, Ch. 723.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No vehicle shall be equipped with any lamp or illuminating device not required or permitted in this code, nor shall any lamp or illuminating device be mounted inside a vehicle unless specifically permitted by this code. This section does not apply to:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Interior lamps such as door, brake and instrument lamps, and map, dash, and dome lamps designed and used for the purpose of illuminating the interior of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Lamps needed in the operation or utilization of those vehicles mentioned in Section 25801, or vehicles used by public utilities in the repair or maintenance of their service, or used only for the illumination of cargo space of a vehicle while loading or unloading.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Warning lamps mounted inside an authorized emergency vehicle and meeting requirements established by the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1979, Ch. 723.)",
+    "action": "Amended",
+    "statutes_year": 1979,
+    "chapter": "723",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1979",
+  "op_chapter": "723",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24003.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24003.html",
+  "content_sha256": "b94ac9b70202aa0b4f8bd7e4a729e1e850099422d3a0e47f76814ac3f8c3bf7a",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24011",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "1",
+  "chapter_title": "General Provisions",
+  "chapter_range": "24000 - 24020",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.1",
+  "text": "Whenever a federal motor vehicle safety standard is established under federal law (49 U.S.C. Sec. 30101 et seq.), no dealer shall sell or offer for sale a vehicle to which the standard is applicable, and no person shall sell or offer for sale for use upon a vehicle an item of equipment to which the standard is applicable, unless:\n\n(a) The vehicle or equipment conforms to the applicable federal standard.\n\n(b) The vehicle or equipment bears thereon a certification by the manufacturer or distributor that it complies with the applicable federal standards. The certification may be in the form of a symbol prescribed in the federal standards or, if there is no federal symbol, by a symbol acceptable to the department.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 1. General Provisions [24000 - 24020]\n##### § 24011\n\nWhenever a federal motor vehicle safety standard is established under federal law (49 U.S.C. Sec. 30101 et seq.), no dealer shall sell or offer for sale a vehicle to which the standard is applicable, and no person shall sell or offer for sale for use upon a vehicle an item of equipment to which the standard is applicable, unless:\n\n(a) The vehicle or equipment conforms to the applicable federal standard.\n\n(b) The vehicle or equipment bears thereon a certification by the manufacturer or distributor that it complies with the applicable federal standards. The certification may be in the form of a symbol prescribed in the federal standards or, if there is no federal symbol, by a symbol acceptable to the department.\n\n*(Amended by Stats. 2004, Ch. 615, Sec. 29. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever a federal motor vehicle safety standard is established under federal law (49 U.S.C. Sec. 30101 et seq.), no dealer shall sell or offer for sale a vehicle to which the standard is applicable, and no person shall sell or offer for sale for use upon a vehicle an item of equipment to which the standard is applicable, unless:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The vehicle or equipment conforms to the applicable federal standard.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The vehicle or equipment bears thereon a certification by the manufacturer or distributor that it complies with the applicable federal standards. The certification may be in the form of a symbol prescribed in the federal standards or, if there is no federal symbol, by a symbol acceptable to the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 615, Sec. 29. Effective January 1, 2005.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "615",
+    "section": "29",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "615",
+  "op_section": "29",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24011.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24011.html",
+  "content_sha256": "235c11a34de875338af684b19b17f72ee46be3f643508a483671aaa2ec556cb3",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

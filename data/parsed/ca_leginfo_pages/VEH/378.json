@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "378",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) “Limousine” means any sedan or sport utility vehicle, of either standard or extended length, with a seating capacity of not more than 10 passengers including the driver, used in the transportation of passengers for hire on a prearranged basis within this state.\n\n(b) “Modified limousine” means any vehicle that has been modified, altered, or extended in a manner that increases the overall wheelbase of the vehicle, exceeding the original equipment manufacturer’s published wheelbase dimension for the base model and year of the vehicle, in any amount sufficient to accommodate additional passengers with a seating capacity of not more than 10 passengers including the driver, and is used in the transportation of passengers for hire. For purposes of this subdivision, “wheelbase” means the longitudinal distance between the vertical centerlines of the front and rear wheels.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 378\n\n(a) “Limousine” means any sedan or sport utility vehicle, of either standard or extended length, with a seating capacity of not more than 10 passengers including the driver, used in the transportation of passengers for hire on a prearranged basis within this state.\n\n(b) “Modified limousine” means any vehicle that has been modified, altered, or extended in a manner that increases the overall wheelbase of the vehicle, exceeding the original equipment manufacturer’s published wheelbase dimension for the base model and year of the vehicle, in any amount sufficient to accommodate additional passengers with a seating capacity of not more than 10 passengers including the driver, and is used in the transportation of passengers for hire. For purposes of this subdivision, “wheelbase” means the longitudinal distance between the vertical centerlines of the front and rear wheels.\n\n*(Added by Stats. 2014, Ch. 860, Sec. 10. (SB 611) Effective September 30, 2014.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "“Limousine” means any sedan or sport utility vehicle, of either standard or extended length, with a seating capacity of not more than 10 passengers including the driver, used in the transportation of passengers for hire on a prearranged basis within this state.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "“Modified limousine” means any vehicle that has been modified, altered, or extended in a manner that increases the overall wheelbase of the vehicle, exceeding the original equipment manufacturer’s published wheelbase dimension for the base model and year of the vehicle, in any amount sufficient to accommodate additional passengers with a seating capacity of not more than 10 passengers including the driver, and is used in the transportation of passengers for hire. For purposes of this subdivision, “wheelbase” means the longitudinal distance between the vertical centerlines of the front and rear wheels.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2014, Ch. 860, Sec. 10. (SB 611) Effective September 30, 2014.)",
+    "action": "Added",
+    "statutes_year": 2014,
+    "chapter": "860",
+    "section": "10",
+    "bill_number": "SB 611",
+    "effective_date": "2014-09-30",
+    "operative_date": null
+  },
+  "op_statues": "2014",
+  "op_chapter": "860",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=378.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/378.html",
+  "content_sha256": "91690f04a831dd460d103fcd8a0091170df91481155d4c7bdb5e6196f8f2e845",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

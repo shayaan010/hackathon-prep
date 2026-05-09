@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22111",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "6",
+  "chapter_title": "Turning and Stopping and Turning Signals",
+  "chapter_range": "22100 - 22113",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.6",
+  "text": "All required signals given by hand and arm shall be given from the left side of a vehicle in the following manner:\n\n(a) Left turn—hand and arm extended horizontally beyond the side of the vehicle.\n\n(b) Right turn—hand and arm extended upward beyond the side of the vehicle, except that a bicyclist may extend the right hand and arm horizontally to the right side of the bicycle.\n\n(c) Stop or sudden decrease of speed signal—hand and arm extended downward beyond the side of the vehicle.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 6. Turning and Stopping and Turning Signals [22100 - 22113]\n##### § 22111\n\nAll required signals given by hand and arm shall be given from the left side of a vehicle in the following manner:\n\n(a) Left turn—hand and arm extended horizontally beyond the side of the vehicle.\n\n(b) Right turn—hand and arm extended upward beyond the side of the vehicle, except that a bicyclist may extend the right hand and arm horizontally to the right side of the bicycle.\n\n(c) Stop or sudden decrease of speed signal—hand and arm extended downward beyond the side of the vehicle.\n\n*(Amended by Stats. 1976, Ch. 751.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "All required signals given by hand and arm shall be given from the left side of a vehicle in the following manner:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Left turn—hand and arm extended horizontally beyond the side of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Right turn—hand and arm extended upward beyond the side of the vehicle, except that a bicyclist may extend the right hand and arm horizontally to the right side of the bicycle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Stop or sudden decrease of speed signal—hand and arm extended downward beyond the side of the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1976, Ch. 751.)",
+    "action": "Amended",
+    "statutes_year": 1976,
+    "chapter": "751",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "751",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22111.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22111.html",
+  "content_sha256": "139678ffc85a0bbc966b0f94309839b706c7eb5d36009e04ef5b1e450eb3578c",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

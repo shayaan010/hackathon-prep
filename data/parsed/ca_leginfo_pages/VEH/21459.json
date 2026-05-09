@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21459",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "3",
+  "article_title": "Offenses Relating to Traffic Devices",
+  "article_range": "21450 - 21468",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.3",
+  "text": "(a) The Department of Transportation in respect to state highways and a local authority with respect to highways under its jurisdiction, is authorized to place and maintain upon highways distinctive roadway markings as described and with the effect set forth in Section 21460.\n\n(b) The distinctive roadway markings shall be employed to designate any portion of a highway where the volume of traffic or the vertical or other curvature of the roadway renders it hazardous to drive on the left side of the marking or to indicate no driving to the left as provided in Section 21460, and shall not be employed for any other purpose.\n\n(c) Any pavement marking other than as described in this section placed by the Department of Transportation or any local authority shall not be effective to indicate no driving over or to the left of the marking.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 3. Offenses Relating to Traffic Devices [21450 - 21468]\n##### § 21459\n\n(a) The Department of Transportation in respect to state highways and a local authority with respect to highways under its jurisdiction, is authorized to place and maintain upon highways distinctive roadway markings as described and with the effect set forth in Section 21460.\n\n(b) The distinctive roadway markings shall be employed to designate any portion of a highway where the volume of traffic or the vertical or other curvature of the roadway renders it hazardous to drive on the left side of the marking or to indicate no driving to the left as provided in Section 21460, and shall not be employed for any other purpose.\n\n(c) Any pavement marking other than as described in this section placed by the Department of Transportation or any local authority shall not be effective to indicate no driving over or to the left of the marking.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Department of Transportation in respect to state highways and a local authority with respect to highways under its jurisdiction, is authorized to place and maintain upon highways distinctive roadway markings as described and with the effect set forth in Section 21460.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The distinctive roadway markings shall be employed to designate any portion of a highway where the volume of traffic or the vertical or other curvature of the roadway renders it hazardous to drive on the left side of the marking or to indicate no driving to the left as provided in Section 21460, and shall not be employed for any other purpose.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any pavement marking other than as described in this section placed by the Department of Transportation or any local authority shall not be effective to indicate no driving over or to the left of the marking.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21459.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21459.html",
+  "content_sha256": "30b399569ea53aaad2a0057e3314377b9c6956e4088013eb1d45d03983a69493",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21454",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "3",
+  "article_title": "Offenses Relating to Traffic Devices",
+  "article_range": "21450 - 21468",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.3",
+  "text": "When lane use control signals are placed over individual lanes, those signals shall indicate and apply to drivers of vehicles as follows:\n\n(a) Green indication: A driver may travel in any lane over which a green signal is shown.\n\n(b) Steady yellow indication: A driver is thereby warned that a lane control change is being made.\n\n(c) Steady red indication: A driver shall not enter or travel in any lane over which a red signal is shown.\n\n(d) Flashing yellow indication: A driver may use the lane only for the purpose of making a left turn to or from the highway.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 3. Offenses Relating to Traffic Devices [21450 - 21468]\n##### § 21454\n\nWhen lane use control signals are placed over individual lanes, those signals shall indicate and apply to drivers of vehicles as follows:\n\n(a) Green indication: A driver may travel in any lane over which a green signal is shown.\n\n(b) Steady yellow indication: A driver is thereby warned that a lane control change is being made.\n\n(c) Steady red indication: A driver shall not enter or travel in any lane over which a red signal is shown.\n\n(d) Flashing yellow indication: A driver may use the lane only for the purpose of making a left turn to or from the highway.\n\n*(Amended by Stats. 1981, Ch. 413, Sec. 7.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "When lane use control signals are placed over individual lanes, those signals shall indicate and apply to drivers of vehicles as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Green indication: A driver may travel in any lane over which a green signal is shown.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Steady yellow indication: A driver is thereby warned that a lane control change is being made.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Steady red indication: A driver shall not enter or travel in any lane over which a red signal is shown.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Flashing yellow indication: A driver may use the lane only for the purpose of making a left turn to or from the highway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1981, Ch. 413, Sec. 7.)",
+    "action": "Amended",
+    "statutes_year": 1981,
+    "chapter": "413",
+    "section": "7",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1981",
+  "op_chapter": "413",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21454.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21454.html",
+  "content_sha256": "6f96fa0f2f27b98b703667126566850eed190e3c46a35eb7d9ac183b20175338",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

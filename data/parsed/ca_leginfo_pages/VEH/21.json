@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "(a) Except as otherwise expressly provided, the provisions of this code are applicable and uniform throughout the state and in all counties and municipalities therein, and a local authority shall not enact or enforce any ordinance or resolution on the matters covered by this code, including ordinances or resolutions that establish regulations or procedures for, or assess a fine, penalty, assessment, or fee for a violation of, matters covered by this code, unless expressly authorized by this code.\n\n(b) To the extent permitted by current state law, this section does not impair the current lawful authority of the Mountains Recreation and Conservation Authority, a joint powers authority, or any member agency constituted therein as of July 1, 2010, to enforce an ordinance or resolution relating to the management of public lands within its jurisdiction.",
+  "markdown": "# Vehicle Code\n##### § 21\n\n(a) Except as otherwise expressly provided, the provisions of this code are applicable and uniform throughout the state and in all counties and municipalities therein, and a local authority shall not enact or enforce any ordinance or resolution on the matters covered by this code, including ordinances or resolutions that establish regulations or procedures for, or assess a fine, penalty, assessment, or fee for a violation of, matters covered by this code, unless expressly authorized by this code.\n\n(b) To the extent permitted by current state law, this section does not impair the current lawful authority of the Mountains Recreation and Conservation Authority, a joint powers authority, or any member agency constituted therein as of July 1, 2010, to enforce an ordinance or resolution relating to the management of public lands within its jurisdiction.\n\n*(Amended by Stats. 2010, Ch. 616, Sec. 1. (SB 949) Effective January 1, 2011. Operative July 1, 2011, by Sec. 6 of Ch. 616.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as otherwise expressly provided, the provisions of this code are applicable and uniform throughout the state and in all counties and municipalities therein, and a local authority shall not enact or enforce any ordinance or resolution on the matters covered by this code, including ordinances or resolutions that establish regulations or procedures for, or assess a fine, penalty, assessment, or fee for a violation of, matters covered by this code, unless expressly authorized by this code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "To the extent permitted by current state law, this section does not impair the current lawful authority of the Mountains Recreation and Conservation Authority, a joint powers authority, or any member agency constituted therein as of July 1, 2010, to enforce an ordinance or resolution relating to the management of public lands within its jurisdiction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2010, Ch. 616, Sec. 1. (SB 949) Effective January 1, 2011. Operative July 1, 2011, by Sec. 6 of Ch. 616.)",
+    "action": "Amended",
+    "statutes_year": 2010,
+    "chapter": "616",
+    "section": "1",
+    "bill_number": "SB 949",
+    "effective_date": "2011-01-01",
+    "operative_date": "2011-07-01"
+  },
+  "op_statues": "2010",
+  "op_chapter": "616",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21.html",
+  "content_sha256": "9a7f2f52d74f912a1fdf8bd0c05874b38997ceaa2a492e09202ca7fa45d540df",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

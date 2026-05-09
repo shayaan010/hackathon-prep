@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21968",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "5",
+  "chapter_title": "Pedestrians’ Rights and Duties",
+  "chapter_range": "21949 - 21971",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.5",
+  "text": "(a) A motorized skateboard shall not be propelled on any sidewalk, roadway, or any other part of a highway or on any bikeway, bicycle path or trail, equestrian trail, or hiking or recreational trail.\n\n(b) For purposes of this section, an electrically motorized board, as defined in Section 313.5, is not a motorized skateboard.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 5. Pedestrians’ Rights and Duties [21949 - 21971]\n##### § 21968\n\n(a) A motorized skateboard shall not be propelled on any sidewalk, roadway, or any other part of a highway or on any bikeway, bicycle path or trail, equestrian trail, or hiking or recreational trail.\n\n(b) For purposes of this section, an electrically motorized board, as defined in Section 313.5, is not a motorized skateboard.\n\n*(Amended by Stats. 2015, Ch. 777, Sec. 6. (AB 604) Effective January 1, 2016.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A motorized skateboard shall not be propelled on any sidewalk, roadway, or any other part of a highway or on any bikeway, bicycle path or trail, equestrian trail, or hiking or recreational trail.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For purposes of this section, an electrically motorized board, as defined in Section 313.5, is not a motorized skateboard.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2015, Ch. 777, Sec. 6. (AB 604) Effective January 1, 2016.)",
+    "action": "Amended",
+    "statutes_year": 2015,
+    "chapter": "777",
+    "section": "6",
+    "bill_number": "AB 604",
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2015",
+  "op_chapter": "777",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21968.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21968.html",
+  "content_sha256": "359d2fd7ba20a0b44fb148b80757826b9ad61ef11c328140821c7ba9d4e8f3ce",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

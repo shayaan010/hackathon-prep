@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21455",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "3",
+  "article_title": "Offenses Relating to Traffic Devices",
+  "article_range": "21450 - 21468",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.3",
+  "text": "If an official traffic control signal is erected and maintained at a place other than an intersection, including a freeway or highway on ramp, this article applies, except those provisions that by their nature can have no application. A stop required shall be made at a sign, crosswalk, or limit line indicating where the stop shall be made, but, in the absence of that sign or marking, the stop shall be made at the signal.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 3. Offenses Relating to Traffic Devices [21450 - 21468]\n##### § 21455\n\nIf an official traffic control signal is erected and maintained at a place other than an intersection, including a freeway or highway on ramp, this article applies, except those provisions that by their nature can have no application. A stop required shall be made at a sign, crosswalk, or limit line indicating where the stop shall be made, but, in the absence of that sign or marking, the stop shall be made at the signal.\n\n*(Amended by Stats. 2017, Ch. 555, Sec. 1. (AB 1094) Effective January 1, 2018.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "If an official traffic control signal is erected and maintained at a place other than an intersection, including a freeway or highway on ramp, this article applies, except those provisions that by their nature can have no application. A stop required shall be made at a sign, crosswalk, or limit line indicating where the stop shall be made, but, in the absence of that sign or marking, the stop shall be made at the signal.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2017, Ch. 555, Sec. 1. (AB 1094) Effective January 1, 2018.)",
+    "action": "Amended",
+    "statutes_year": 2017,
+    "chapter": "555",
+    "section": "1",
+    "bill_number": "AB 1094",
+    "effective_date": "2018-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2017",
+  "op_chapter": "555",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21455.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21455.html",
+  "content_sha256": "189a5f852824a4d1d95c9c7d34a90f501885f72e2378b8a72025d20493edf732",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

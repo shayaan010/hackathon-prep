@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "267",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “converter” is a person, other than a vehicle manufacturer, who, prior to the retail sale of a new vehicle, does any of the following to the vehicle:\n\n(a) Assembles, installs, or affixes a body, cab, or special equipment to the vehicle chassis.\n\n(b) Substantially adds to, subtracts from, or modifies the vehicle, if it is a previously assembled or manufactured new vehicle.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 267\n\nA “converter” is a person, other than a vehicle manufacturer, who, prior to the retail sale of a new vehicle, does any of the following to the vehicle:\n\n(a) Assembles, installs, or affixes a body, cab, or special equipment to the vehicle chassis.\n\n(b) Substantially adds to, subtracts from, or modifies the vehicle, if it is a previously assembled or manufactured new vehicle.\n\n*(Added by Stats. 1995, Ch. 211, Sec. 1. Effective January 1, 1996.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “converter” is a person, other than a vehicle manufacturer, who, prior to the retail sale of a new vehicle, does any of the following to the vehicle:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Assembles, installs, or affixes a body, cab, or special equipment to the vehicle chassis.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Substantially adds to, subtracts from, or modifies the vehicle, if it is a previously assembled or manufactured new vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1995, Ch. 211, Sec. 1. Effective January 1, 1996.)",
+    "action": "Added",
+    "statutes_year": 1995,
+    "chapter": "211",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1996-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1995",
+  "op_chapter": "211",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=267.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/267.html",
+  "content_sha256": "66687c85844b5d08ba73dba238bd48a1bca8689e8b9f80996920c93aa4112d56",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

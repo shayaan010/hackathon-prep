@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "642",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “transit bus” is any bus owned or operated by a publicly owned or operated transit system, or operated under contract with a publicly owned or operated transit system, and used to provide to the general public, regularly scheduled transportation for which a fare is charged. A general public paratransit vehicle is not a transit bus.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 642\n\nA “transit bus” is any bus owned or operated by a publicly owned or operated transit system, or operated under contract with a publicly owned or operated transit system, and used to provide to the general public, regularly scheduled transportation for which a fare is charged. A general public paratransit vehicle is not a transit bus.\n\n*(Added by Stats. 1989, Ch. 1136, Sec. 2. Operative July 1, 1990, by Sec. 9 of Ch. 1136.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “transit bus” is any bus owned or operated by a publicly owned or operated transit system, or operated under contract with a publicly owned or operated transit system, and used to provide to the general public, regularly scheduled transportation for which a fare is charged. A general public paratransit vehicle is not a transit bus.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1989, Ch. 1136, Sec. 2. Operative July 1, 1990, by Sec. 9 of Ch. 1136.)",
+    "action": "Added",
+    "statutes_year": 1989,
+    "chapter": "1136",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": "1990-07-01"
+  },
+  "op_statues": "1989",
+  "op_chapter": "1136",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=642.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/642.html",
+  "content_sha256": "8906a78f1de571eb3f264cd11c02ee2d53b7387d582cfe7d72380ad6dc379be0",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

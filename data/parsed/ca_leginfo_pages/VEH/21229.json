@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21229",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "5",
+  "article_title": "Operation of Motorized Scooters",
+  "article_range": "21220 - 21235",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.6",
+  "text": "(a) Whenever a class II bicycle lane has been established on a roadway, any person operating a motorized scooter upon the roadway shall ride within the bicycle lane, except that the person may move out of the lane under any of the following situations:\n\n(1) When overtaking and passing another vehicle or pedestrian within the lane or when about to enter the lane if the overtaking and passing cannot be done safely within the lane.\n\n(2) When preparing for a left turn, the operator shall stop and dismount as close as practicable to the right-hand curb or right edge of the roadway and complete the turn by crossing the roadway on foot, subject to the restrictions placed on pedestrians in Chapter 5 (commencing with Section 21950).\n\n(3) When reasonably necessary to leave the bicycle lane to avoid debris or other hazardous conditions.\n\n(4) When approaching a place where a right turn is authorized.\n\n(b) No person operating a motorized scooter shall leave a bicycle lane until the movement can be made with reasonable safety and then only after giving an appropriate signal in the manner provided in Chapter 6 (commencing with Section 22100) in the event that any vehicle may be affected by the movement.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 5. Operation of Motorized Scooters [21220 - 21235]\n##### § 21229\n\n(a) Whenever a class II bicycle lane has been established on a roadway, any person operating a motorized scooter upon the roadway shall ride within the bicycle lane, except that the person may move out of the lane under any of the following situations:\n\n    (1) When overtaking and passing another vehicle or pedestrian within the lane or when about to enter the lane if the overtaking and passing cannot be done safely within the lane.\n\n    (2) When preparing for a left turn, the operator shall stop and dismount as close as practicable to the right-hand curb or right edge of the roadway and complete the turn by crossing the roadway on foot, subject to the restrictions placed on pedestrians in Chapter 5 (commencing with Section 21950).\n\n    (3) When reasonably necessary to leave the bicycle lane to avoid debris or other hazardous conditions.\n\n    (4) When approaching a place where a right turn is authorized.\n\n(b) No person operating a motorized scooter shall leave a bicycle lane until the movement can be made with reasonable safety and then only after giving an appropriate signal in the manner provided in Chapter 6 (commencing with Section 22100) in the event that any vehicle may be affected by the movement.\n\n*(Added by Stats. 1999, Ch. 722, Sec. 5. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever a class II bicycle lane has been established on a roadway, any person operating a motorized scooter upon the roadway shall ride within the bicycle lane, except that the person may move out of the lane under any of the following situations:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "When overtaking and passing another vehicle or pedestrian within the lane or when about to enter the lane if the overtaking and passing cannot be done safely within the lane.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "When preparing for a left turn, the operator shall stop and dismount as close as practicable to the right-hand curb or right edge of the roadway and complete the turn by crossing the roadway on foot, subject to the restrictions placed on pedestrians in Chapter 5 (commencing with Section 21950).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "When reasonably necessary to leave the bicycle lane to avoid debris or other hazardous conditions.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "When approaching a place where a right turn is authorized.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "No person operating a motorized scooter shall leave a bicycle lane until the movement can be made with reasonable safety and then only after giving an appropriate signal in the manner provided in Chapter 6 (commencing with Section 22100) in the event that any vehicle may be affected by the movement.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1999, Ch. 722, Sec. 5. Effective January 1, 2000.)",
+    "action": "Added",
+    "statutes_year": 1999,
+    "chapter": "722",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "722",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21229.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21229.html",
+  "content_sha256": "b869aa36f7af3a194cde168f360abe5b028e64eec64accd71ab948151ebc2ec0",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "32",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "Whenever local authorities are given the power to take action by ordinance pursuant to Division 11 (commencing with Section 21000) and Division 15 (commencing with Section 35000), they shall also have the power to take such action by resolution.",
+  "markdown": "# Vehicle Code\n##### § 32\n\nWhenever local authorities are given the power to take action by ordinance pursuant to Division 11 (commencing with Section 21000) and Division 15 (commencing with Section 35000), they shall also have the power to take such action by resolution.\n\n*(Added by Stats. 1972, Ch. 1095.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever local authorities are given the power to take action by ordinance pursuant to Division 11 (commencing with Section 21000) and Division 15 (commencing with Section 35000), they shall also have the power to take such action by resolution.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1972, Ch. 1095.)",
+    "action": "Added",
+    "statutes_year": 1972,
+    "chapter": "1095",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1972",
+  "op_chapter": "1095",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=32.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/32.html",
+  "content_sha256": "ce63e3fb01751d24421da883160c211d9e9a1287d9503cda985fe2ccfa90eec5",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

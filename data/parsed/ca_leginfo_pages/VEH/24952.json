@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24952",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "5",
+  "article_title": "Signal Lamps and Devices",
+  "article_range": "24950 - 24953",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.5",
+  "text": "A lamp-type turn signal shall be plainly visible and understandable in normal sunlight and at nighttime from a distance of at least 300 feet to the front and rear of the vehicle, except that turn signal lamps on vehicles of a size required to be equipped with clearance lamps shall be visible from a distance of 500 feet during such times.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 5. Signal Lamps and Devices [24950 - 24953]\n##### § 24952\n\nA lamp-type turn signal shall be plainly visible and understandable in normal sunlight and at nighttime from a distance of at least 300 feet to the front and rear of the vehicle, except that turn signal lamps on vehicles of a size required to be equipped with clearance lamps shall be visible from a distance of 500 feet during such times.\n\n*(Amended by Stats. 1965, Ch. 1012.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A lamp-type turn signal shall be plainly visible and understandable in normal sunlight and at nighttime from a distance of at least 300 feet to the front and rear of the vehicle, except that turn signal lamps on vehicles of a size required to be equipped with clearance lamps shall be visible from a distance of 500 feet during such times.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1965, Ch. 1012.)",
+    "action": "Amended",
+    "statutes_year": 1965,
+    "chapter": "1012",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1965",
+  "op_chapter": "1012",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24952.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24952.html",
+  "content_sha256": "818fe9b978def34d06463050e884a8fee8fc9f1928f15a5ccaae8c81979fcd43",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21658",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "1",
+  "article_title": "Driving on Right Side",
+  "article_range": "21650 - 21664",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.1",
+  "text": "Whenever any roadway has been divided into two or more clearly marked lanes for traffic in one direction, the following rules apply:\n\n(a) A vehicle shall be driven as nearly as practical entirely within a single lane and shall not be moved from the lane until such movement can be made with reasonable safety.\n\n(b) Official signs may be erected directing slow-moving traffic to use a designated lane or allocating specified lanes to traffic moving in the same direction, and drivers of vehicles shall obey the directions of the traffic device.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 1. Driving on Right Side [21650 - 21664]\n##### § 21658\n\nWhenever any roadway has been divided into two or more clearly marked lanes for traffic in one direction, the following rules apply:\n\n(a) A vehicle shall be driven as nearly as practical entirely within a single lane and shall not be moved from the lane until such movement can be made with reasonable safety.\n\n(b) Official signs may be erected directing slow-moving traffic to use a designated lane or allocating specified lanes to traffic moving in the same direction, and drivers of vehicles shall obey the directions of the traffic device.\n\n*(Amended by Stats. 1975, Ch. 450.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever any roadway has been divided into two or more clearly marked lanes for traffic in one direction, the following rules apply:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A vehicle shall be driven as nearly as practical entirely within a single lane and shall not be moved from the lane until such movement can be made with reasonable safety.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Official signs may be erected directing slow-moving traffic to use a designated lane or allocating specified lanes to traffic moving in the same direction, and drivers of vehicles shall obey the directions of the traffic device.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1975, Ch. 450.)",
+    "action": "Amended",
+    "statutes_year": 1975,
+    "chapter": "450",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "450",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21658.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21658.html",
+  "content_sha256": "bc0473278cf68b00042fc2c9b972e7f537f6fdf5e2e86e35a171537d649fd503",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

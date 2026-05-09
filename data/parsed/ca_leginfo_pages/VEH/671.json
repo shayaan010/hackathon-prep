@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "671",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) A “vehicle identification number” is the motor number, serial number, or other distinguishing number, letter, mark, character, or datum, or any combination thereof, required or employed by the manufacturer or the department for the purpose of uniquely identifying a motor vehicle or motor vehicle part or for the purpose of registration.\n\n(b) Whenever a vehicle is constructed of component parts identified with one or more different vehicle identification numbers, the vehicle identification number stamped or affixed by the manufacturer or authorized governmental entity on the frame or unitized frame and body, as applicable, and as defined in Section 670.5, shall determine the identity of the vehicle for registration purposes.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 671\n\n(a) A “vehicle identification number” is the motor number, serial number, or other distinguishing number, letter, mark, character, or datum, or any combination thereof, required or employed by the manufacturer or the department for the purpose of uniquely identifying a motor vehicle or motor vehicle part or for the purpose of registration.\n\n(b) Whenever a vehicle is constructed of component parts identified with one or more different vehicle identification numbers, the vehicle identification number stamped or affixed by the manufacturer or authorized governmental entity on the frame or unitized frame and body, as applicable, and as defined in Section 670.5, shall determine the identity of the vehicle for registration purposes.\n\n*(Amended by Stats. 2002, Ch. 670, Sec. 6. Effective January 1, 2003.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A “vehicle identification number” is the motor number, serial number, or other distinguishing number, letter, mark, character, or datum, or any combination thereof, required or employed by the manufacturer or the department for the purpose of uniquely identifying a motor vehicle or motor vehicle part or for the purpose of registration.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Whenever a vehicle is constructed of component parts identified with one or more different vehicle identification numbers, the vehicle identification number stamped or affixed by the manufacturer or authorized governmental entity on the frame or unitized frame and body, as applicable, and as defined in Section 670.5, shall determine the identity of the vehicle for registration purposes.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2002, Ch. 670, Sec. 6. Effective January 1, 2003.)",
+    "action": "Amended",
+    "statutes_year": 2002,
+    "chapter": "670",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "2003-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2002",
+  "op_chapter": "670",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=671.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/671.html",
+  "content_sha256": "88fb02b0e73d0bb44372fc434ace9089b2ef42df2ef1f7ca712fb3b4725c6424",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

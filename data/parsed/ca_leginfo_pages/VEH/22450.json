@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22450",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "8",
+  "chapter_title": "Special Stops Required",
+  "chapter_range": "22450 - 22456",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.8",
+  "text": "(a) The driver of any vehicle approaching a stop sign at the entrance to, or within, an intersection shall stop at a limit line, if marked, otherwise before entering the crosswalk on the near side of the intersection.\n\nIf there is no limit line or crosswalk, the driver shall stop at the entrance to the intersecting roadway.\n\n(b) The driver of a vehicle approaching a stop sign at a railroad grade crossing shall stop at a limit line, if marked, otherwise before crossing the first track or entrance to the railroad grade crossing.\n\n(c) Notwithstanding any other provision of law, a local authority may adopt rules and regulations by ordinance or resolution providing for the placement of a stop sign at any location on a highway under its jurisdiction where the stop sign would enhance traffic safety.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 8. Special Stops Required [22450 - 22456]\n##### § 22450\n\n(a) The driver of any vehicle approaching a stop sign at the entrance to, or within, an intersection shall stop at a limit line, if marked, otherwise before entering the crosswalk on the near side of the intersection.\n\nIf there is no limit line or crosswalk, the driver shall stop at the entrance to the intersecting roadway.\n\n(b) The driver of a vehicle approaching a stop sign at a railroad grade crossing shall stop at a limit line, if marked, otherwise before crossing the first track or entrance to the railroad grade crossing.\n\n(c) Notwithstanding any other provision of law, a local authority may adopt rules and regulations by ordinance or resolution providing for the placement of a stop sign at any location on a highway under its jurisdiction where the stop sign would enhance traffic safety.\n\n*(Amended by Stats. 2007, Ch. 630, Sec. 8. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The driver of any vehicle approaching a stop sign at the entrance to, or within, an intersection shall stop at a limit line, if marked, otherwise before entering the crosswalk on the near side of the intersection.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "If there is no limit line or crosswalk, the driver shall stop at the entrance to the intersecting roadway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The driver of a vehicle approaching a stop sign at a railroad grade crossing shall stop at a limit line, if marked, otherwise before crossing the first track or entrance to the railroad grade crossing.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Notwithstanding any other provision of law, a local authority may adopt rules and regulations by ordinance or resolution providing for the placement of a stop sign at any location on a highway under its jurisdiction where the stop sign would enhance traffic safety.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2007, Ch. 630, Sec. 8. Effective January 1, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2007,
+    "chapter": "630",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "630",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22450.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22450.html",
+  "content_sha256": "80b164599a806b74013457c8528c358cb3ce1f2149b3d96a5371e0c84eb8fe81",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22102",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "6",
+  "chapter_title": "Turning and Stopping and Turning Signals",
+  "chapter_range": "22100 - 22113",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.6",
+  "text": "No person in a business district shall make a U-turn, except at an intersection, or on a divided highway where an opening has been provided in accordance with Section 21651. This turning movement shall be made as close as practicable to the extreme left-hand edge of the lanes moving in the driver’s direction of travel immediately prior to the initiation of the turning movement, when more than one lane in the direction of travel is present.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 6. Turning and Stopping and Turning Signals [22100 - 22113]\n##### § 22102\n\nNo person in a business district shall make a U-turn, except at an intersection, or on a divided highway where an opening has been provided in accordance with Section 21651. This turning movement shall be made as close as practicable to the extreme left-hand edge of the lanes moving in the driver’s direction of travel immediately prior to the initiation of the turning movement, when more than one lane in the direction of travel is present.\n\n*(Amended by Stats. 1985, Ch. 47, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person in a business district shall make a U-turn, except at an intersection, or on a divided highway where an opening has been provided in accordance with Section 21651. This turning movement shall be made as close as practicable to the extreme left-hand edge of the lanes moving in the driver’s direction of travel immediately prior to the initiation of the turning movement, when more than one lane in the direction of travel is present.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1985, Ch. 47, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1985,
+    "chapter": "47",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1985",
+  "op_chapter": "47",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22102.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22102.html",
+  "content_sha256": "42025fa464a99e1126de3aff498125ec089b10070173c41cdf49bb34a7e83579",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "30",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "It is declared as a matter of legislative policy that red lights and sirens on vehicles should be restricted to authorized emergency vehicles engaged in police, fire and lifesaving services; and that other types of vehicles which are engaged in activities which create special hazards upon the highways should be equipped with flashing amber warning lamps.",
+  "markdown": "# Vehicle Code\n##### § 30\n\nIt is declared as a matter of legislative policy that red lights and sirens on vehicles should be restricted to authorized emergency vehicles engaged in police, fire and lifesaving services; and that other types of vehicles which are engaged in activities which create special hazards upon the highways should be equipped with flashing amber warning lamps.\n\n*(Added by Stats. 1961, Ch. 653.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "It is declared as a matter of legislative policy that red lights and sirens on vehicles should be restricted to authorized emergency vehicles engaged in police, fire and lifesaving services; and that other types of vehicles which are engaged in activities which create special hazards upon the highways should be equipped with flashing amber warning lamps.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1961, Ch. 653.)",
+    "action": "Added",
+    "statutes_year": 1961,
+    "chapter": "653",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1961",
+  "op_chapter": "653",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=30.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/30.html",
+  "content_sha256": "ee912c7b00835b8c5cb51e8710184a80d392ebfc2943a9cbd661871b16c9d6c7",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21118",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "3",
+  "article_title": "Local Regulation",
+  "article_range": "21100 - 21118",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.3",
+  "text": "(a) A local authority may adopt rules and regulations by ordinance or resolution to restrict the routes or streets upon which a tour bus described in subdivision (b) of Section 612 may be operated, if the local authority determines that it is unsafe to operate those vehicles on those routes or streets.\n\n(b) A local authority may adopt rules and regulations by ordinance or resolution to prohibit the use of loudspeakers or public address systems by a tour bus described in subdivision (b) of Section 612, and instead require the use of headphones or similar devices by passengers for any information or presentation provided for the passengers.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 3. Local Regulation [21100 - 21118]\n##### § 21118\n\n(a) A local authority may adopt rules and regulations by ordinance or resolution to restrict the routes or streets upon which a tour bus described in subdivision (b) of Section 612 may be operated, if the local authority determines that it is unsafe to operate those vehicles on those routes or streets.\n\n(b) A local authority may adopt rules and regulations by ordinance or resolution to prohibit the use of loudspeakers or public address systems by a tour bus described in subdivision (b) of Section 612, and instead require the use of headphones or similar devices by passengers for any information or presentation provided for the passengers.\n\n*(Added by Stats. 2017, Ch. 310, Sec. 2. (AB 25) Effective January 1, 2018.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A local authority may adopt rules and regulations by ordinance or resolution to restrict the routes or streets upon which a tour bus described in subdivision (b) of Section 612 may be operated, if the local authority determines that it is unsafe to operate those vehicles on those routes or streets.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A local authority may adopt rules and regulations by ordinance or resolution to prohibit the use of loudspeakers or public address systems by a tour bus described in subdivision (b) of Section 612, and instead require the use of headphones or similar devices by passengers for any information or presentation provided for the passengers.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2017, Ch. 310, Sec. 2. (AB 25) Effective January 1, 2018.)",
+    "action": "Added",
+    "statutes_year": 2017,
+    "chapter": "310",
+    "section": "2",
+    "bill_number": "AB 25",
+    "effective_date": "2018-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2017",
+  "op_chapter": "310",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21118.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21118.html",
+  "content_sha256": "25d25e6e9bea0ca9aa850e76b9a2309dff97d30ae1cf1673b5e5ff620c5a0e1e",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

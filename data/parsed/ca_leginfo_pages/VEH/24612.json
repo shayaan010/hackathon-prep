@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24612",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "3",
+  "article_title": "Rear Lighting Equipment",
+  "article_range": "24600 - 24617",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.3",
+  "text": "(a) All trailers and semitrailers having an overall width of 80 inches or more and a gross vehicle weight rating of more than 10,000 pounds, and manufactured on or after December 1, 1993, except those designed exclusively for living or office use, and all truck tractors manufactured on or after July 1, 1997, shall be equipped with the conspicuity system specified in federal Motor Vehicle Safety Standard No. 108 (49 C.F.R. 571.108). The conspicuity system shall consist of either retroreflective sheeting or reflex reflectors, or a combination of retroreflective sheeting and reflex reflectors, as specified in the federal standard applicable on the date of manufacture of the vehicle.\n\n(b) Any motor truck having an overall width of 80 inches or more and manufactured prior to December 1, 1993, and any truck tractor manufactured prior to July 1, 1997, may be equipped with the conspicuity system described in subdivision (a).\n\n(c) All trailers and semitrailers having an overall width of 80 inches or more and a gross vehicle weight rating of more than 10,000 pounds, and manufactured before December 1, 1993, shall comply with Section 393.13 of Title 49 of the Code of Federal Regulations.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 3. Rear Lighting Equipment [24600 - 24617]\n##### § 24612\n\n(a) All trailers and semitrailers having an overall width of 80 inches or more and a gross vehicle weight rating of more than 10,000 pounds, and manufactured on or after December 1, 1993, except those designed exclusively for living or office use, and all truck tractors manufactured on or after July 1, 1997, shall be equipped with the conspicuity system specified in federal Motor Vehicle Safety Standard No. 108 (49 C.F.R. 571.108). The conspicuity system shall consist of either retroreflective sheeting or reflex reflectors, or a combination of retroreflective sheeting and reflex reflectors, as specified in the federal standard applicable on the date of manufacture of the vehicle.\n\n(b) Any motor truck having an overall width of 80 inches or more and manufactured prior to December 1, 1993, and any truck tractor manufactured prior to July 1, 1997, may be equipped with the conspicuity system described in subdivision (a).\n\n(c) All trailers and semitrailers having an overall width of 80 inches or more and a gross vehicle weight rating of more than 10,000 pounds, and manufactured before December 1, 1993, shall comply with Section 393.13 of Title 49 of the Code of Federal Regulations.\n\n*(Amended by Stats. 2016, Ch. 208, Sec. 18. (AB 2906) Effective January 1, 2017.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "All trailers and semitrailers having an overall width of 80 inches or more and a gross vehicle weight rating of more than 10,000 pounds, and manufactured on or after December 1, 1993, except those designed exclusively for living or office use, and all truck tractors manufactured on or after July 1, 1997, shall be equipped with the conspicuity system specified in federal Motor Vehicle Safety Standard No. 108 (49 C.F.R. 571.108). The conspicuity system shall consist of either retroreflective sheeting or reflex reflectors, or a combination of retroreflective sheeting and reflex reflectors, as specified in the federal standard applicable on the date of manufacture of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any motor truck having an overall width of 80 inches or more and manufactured prior to December 1, 1993, and any truck tractor manufactured prior to July 1, 1997, may be equipped with the conspicuity system described in subdivision (a).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "All trailers and semitrailers having an overall width of 80 inches or more and a gross vehicle weight rating of more than 10,000 pounds, and manufactured before December 1, 1993, shall comply with Section 393.13 of Title 49 of the Code of Federal Regulations.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2016, Ch. 208, Sec. 18. (AB 2906) Effective January 1, 2017.)",
+    "action": "Amended",
+    "statutes_year": 2016,
+    "chapter": "208",
+    "section": "18",
+    "bill_number": "AB 2906",
+    "effective_date": "2017-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2016",
+  "op_chapter": "208",
+  "op_section": "18",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24612.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24612.html",
+  "content_sha256": "17cc3b71e3eab884fc231fbee6a2bbd186e002b7070ffb894b0bc85d765250e8",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

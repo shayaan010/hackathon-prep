@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "The giving of notice by personal delivery is complete upon delivery of a copy of the notice to the person to be notified. The giving of notice by mail is complete upon the expiration of four days after deposit of the notice in the mail, except that in the case of a notice informing a person of an offense against them under Section 40001, the notice is complete 10 days after mailing. The giving of notice by electronic notification, as authorized pursuant to Section 1801.2, is complete upon sending the electronic notification.",
+  "markdown": "# Vehicle Code\n##### § 23\n\nThe giving of notice by personal delivery is complete upon delivery of a copy of the notice to the person to be notified. The giving of notice by mail is complete upon the expiration of four days after deposit of the notice in the mail, except that in the case of a notice informing a person of an offense against them under Section 40001, the notice is complete 10 days after mailing. The giving of notice by electronic notification, as authorized pursuant to Section 1801.2, is complete upon sending the electronic notification.\n\n*(Amended by Stats. 2022, Ch. 838, Sec. 2. (SB 1193) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The giving of notice by personal delivery is complete upon delivery of a copy of the notice to the person to be notified. The giving of notice by mail is complete upon the expiration of four days after deposit of the notice in the mail, except that in the case of a notice informing a person of an offense against them under Section 40001, the notice is complete 10 days after mailing. The giving of notice by electronic notification, as authorized pursuant to Section 1801.2, is complete upon sending the electronic notification.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 838, Sec. 2. (SB 1193) Effective January 1, 2023.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "838",
+    "section": "2",
+    "bill_number": "SB 1193",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "838",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23.html",
+  "content_sha256": "10fb09b0cf14cd15cb09bc3b967e8d9c863676d10e7ecaa91623fae9951a819f",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

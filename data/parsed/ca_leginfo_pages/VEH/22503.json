@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22503",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "Local authorities may by ordinance permit angle parking on any roadway, or left-hand parking upon one-way roadways of divided highways, except that no ordinance is effective with respect to any state highway until the proposed ordinance has been submitted to and approved in writing by the Department of Transportation.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22503\n\nLocal authorities may by ordinance permit angle parking on any roadway, or left-hand parking upon one-way roadways of divided highways, except that no ordinance is effective with respect to any state highway until the proposed ordinance has been submitted to and approved in writing by the Department of Transportation.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Local authorities may by ordinance permit angle parking on any roadway, or left-hand parking upon one-way roadways of divided highways, except that no ordinance is effective with respect to any state highway until the proposed ordinance has been submitted to and approved in writing by the Department of Transportation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22503.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22503.html",
+  "content_sha256": "84ec86c98476c51d363ab1293f79b39a966234b24afb101ad113415bc05c7e6e",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}
