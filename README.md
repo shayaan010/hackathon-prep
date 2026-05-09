@@ -20,8 +20,18 @@ extract/
 search/
   semantic.py         # Chunk → embed → store → query (local embeddings)
 
+api/
+  main.py             # FastAPI bridge: /api/stats, /api/statutes,
+                      # /api/search, /api/chat — consumed by the React UI
+  statutes_seed.json  # Mock statute list served by /api/statutes
+
+frontend/             # case-compass React UI ("Lex Harvester")
+  src/routes/         # TanStack Router file-based routes (/, /organizer, /coverage)
+  src/components/     # Page components + shadcn/ui primitives
+  src/lib/api.ts      # Typed client for the FastAPI backend
+
 demo/
-  app.py              # Streamlit UI for search results
+  app.py              # Legacy Streamlit UI (still works; replaced by frontend/)
 
 pipeline_example.py   # End-to-end test using all modules together
 test_claude.py        # 30-second sanity check that ANTHROPIC_API_KEY works
@@ -40,6 +50,19 @@ test_claude.py        # 30-second sanity check that ANTHROPIC_API_KEY works
    # Verify pipeline end-to-end
    uv run python pipeline_example.py
    ```
+
+   Then start the two dev servers (in separate terminals):
+   ```bash
+   # Terminal 1 — Python API on :8000
+   uv run uvicorn api.main:app --reload --port 8000
+
+   # Terminal 2 — React UI on :3000 (or whatever Vite picks)
+   cd frontend
+   bun install
+   bun run dev
+   ```
+   The Vite dev server proxies `/api/*` to the FastAPI server, so you can
+   hit the UI directly and ignore CORS.
 
 2. **First 30 min after eval drops** — do NOT code:
    - Read all challenge tiers
@@ -97,7 +120,11 @@ idx = SemanticIndex(db)
 idx.index_document(doc_id, text)
 hits = idx.search("query text", top_k=10)
 
-# Demo
+# Demo (React UI — preferred)
+# Terminal 1: uv run uvicorn api.main:app --reload --port 8000
+# Terminal 2: cd frontend && bun install && bun run dev
+
+# Demo (legacy Streamlit)
 # uv run streamlit run demo/app.py
 ```
 
@@ -111,7 +138,10 @@ hits = idx.search("query text", top_k=10)
   or static HTML. If you hit a JS-heavy site, install Chromium in 60 seconds:
   `uv run playwright install chromium`.
 
-- **No frontend build system.** Streamlit is plenty for a 7-minute demo.
-  Don't waste time on Next.js or shadcn.
+- ~~**No frontend build system.**~~ — superseded. The repo now ships with
+  `frontend/` (React + Vite + shadcn/ui via [case-compass]). Streamlit demo
+  remains under `demo/` if you'd rather skip Bun.
+
+  [case-compass]: https://github.com/FouzanAbdullah/case-compass
 
 - **No vector database.** SQLite + brute-force cosine is fine at this scale.

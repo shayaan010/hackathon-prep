@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -307,6 +308,26 @@ div[data-baseweb="notification"] {
 .stCaption, [data-testid="stCaptionContainer"] {
     color: #64748b !important;
 }
+
+/* ── Home button (top-left nav) ──────────────────────────────── */
+div[data-testid="stHorizontalBlock"]:has(button[kind="secondary"][data-testid*="home_btn"]) {
+    margin-bottom: -0.5rem;
+}
+.stButton > button[kind="secondary"]:has(+ *),
+button[data-testid="baseButton-secondary"][kind="secondary"][aria-describedby],
+[data-testid*="home_btn"] button {
+    background: transparent !important;
+    border: 1px solid rgba(148, 163, 184, 0.18) !important;
+    color: #94a3b8 !important;
+    font-size: 0.82rem !important;
+    padding: 0.35rem 0.9rem !important;
+    box-shadow: none !important;
+}
+[data-testid*="home_btn"] button:hover {
+    background: rgba(15, 23, 42, 0.6) !important;
+    color: #e2e8f0 !important;
+    border-color: rgba(148, 163, 184, 0.35) !important;
+}
 </style>
 """
 
@@ -367,6 +388,69 @@ def get_collection_items(db, collection_id):
             WHERE ci.collection_id = ?
             ORDER BY ci.added_at DESC
         """, (collection_id,)).fetchall()
+
+
+_SECTION_QUERY_RE = re.compile(r"^\s*\d+(\.\d+)?(\([a-z0-9]\))?\s*$", re.I)
+
+
+def is_section_query(q: str) -> bool:
+    """True if the query looks like a statute section number (e.g. '22107', '21451(a)', '21451.5')."""
+    return bool(_SECTION_QUERY_RE.match(q or ""))
+
+
+def section_number_lookup(db, query: str) -> list[dict]:
+    """Find documents whose metadata.section matches the query, return synthetic hits."""
+    base = query.strip().split("(")[0].strip()
+    with db.conn() as c:
+        rows = c.execute("SELECT id, metadata FROM documents").fetchall()
+
+    hits = []
+    seen = set()
+    for row in rows:
+        meta_raw = row["metadata"]
+        if not meta_raw:
+            continue
+        try:
+            meta = json.loads(meta_raw) if isinstance(meta_raw, str) else meta_raw
+        except (json.JSONDecodeError, TypeError):
+            continue
+        section = (meta.get("section") or "").split("(")[0].strip()
+        if section != base or row["id"] in seen:
+            continue
+        seen.add(row["id"])
+        chunks = db.get_chunks_for_doc(row["id"])
+        if not chunks:
+            continue
+        c0 = chunks[0]
+        hits.append({
+            "id": c0["id"],
+            "doc_id": row["id"],
+            "text": c0["text"],
+            "score": 1.0,
+            "char_start": c0["char_start"],
+            "char_end": c0["char_end"],
+            "chunk_idx": c0["chunk_idx"],
+            "is_direct_match": True,
+        })
+    return hits
+
+
+def trim_chunk_for_display(text: str, started_mid: bool, ended_mid: bool) -> str:
+    """Drop partial words at chunk edges and add ellipsis so display starts/ends cleanly."""
+    if not text:
+        return text
+    text = text.strip()
+    if started_mid:
+        for i, ch in enumerate(text[:30]):
+            if ch.isspace():
+                text = text[i + 1:]
+                break
+        text = "… " + text.lstrip()
+    if ended_mid and text and text[-1] not in '.!?"\')]':
+        last_space = text.rfind(" ")
+        if last_space > len(text) - 30:
+            text = text[:last_space].rstrip() + " …"
+    return text
 
 
 def get_coverage(db):
@@ -492,10 +576,20 @@ def render_result(hit, doc, extractions, collections, db):
         source_quote = ext.get("source_quote", "") or data.get("source_quote", "")
         break
 
+    doc_text_len = len(doc.get("raw_text") or "") if doc else 0
+    started_mid = hit["char_start"] > 0
+    ended_mid = doc_text_len == 0 or hit["char_end"] < doc_text_len
+    display_text = trim_chunk_for_display(hit["text"], started_mid, ended_mid)
+
+    is_direct = hit.get("is_direct_match", False)
+
     with st.container(border=True):
         header_left, header_right = st.columns([4, 1])
         with header_left:
-            pills = f'<span class="score-pill">{score:.3f}</span>'
+            if is_direct:
+                pills = '<span class="score-pill">Exact match</span>'
+            else:
+                pills = f'<span class="score-pill">{score:.3f}</span>'
             if tag:
                 pills += f' <span class="tag-pill">{tag}</span>'
             st.markdown(pills, unsafe_allow_html=True)
@@ -520,7 +614,7 @@ def render_result(hit, doc, extractions, collections, db):
                 unsafe_allow_html=True,
             )
 
-        st.markdown(f"> {hit['text']}")
+        st.markdown(f"> {display_text}")
 
         if source_quote:
             st.markdown(
@@ -538,21 +632,23 @@ def render_result(hit, doc, extractions, collections, db):
                     st.json(metadata)
         with bottom_right:
             if collections:
-                col_names = [c["name"] for c in collections]
-                save_cols = st.columns([3, 1])
-                with save_cols[0]:
-                    chosen = st.selectbox(
-                        "Add to case file",
-                        ["—"] + col_names,
-                        key=f"sel_{hit['doc_id']}_{hit['chunk_idx']}",
-                        label_visibility="collapsed",
+                with st.popover("Save to case file", use_container_width=True):
+                    st.markdown(
+                        '<div class="section-label" style="margin-bottom:0.4rem;">'
+                        'Choose a case file</div>',
+                        unsafe_allow_html=True,
                     )
-                with save_cols[1]:
-                    if chosen != "—":
-                        if st.button("Save", key=f"save_{hit['doc_id']}_{hit['chunk_idx']}"):
-                            col_id = next(c["id"] for c in collections if c["name"] == chosen)
-                            added = add_to_collection(db, col_id, hit["doc_id"])
-                            st.toast("Saved to case file." if added else "Already in case file.")
+                    for col in collections:
+                        if st.button(
+                            col["name"],
+                            key=f"savecf_{hit['doc_id']}_{hit['chunk_idx']}_{col['id']}",
+                            use_container_width=True,
+                        ):
+                            added = add_to_collection(db, col["id"], hit["doc_id"])
+                            st.toast(
+                                f"Saved to {col['name']}." if added
+                                else f"Already in {col['name']}."
+                            )
             else:
                 st.caption("Create a case file to save results.")
 
@@ -584,6 +680,12 @@ def main():
     if "_pending_query" in st.session_state:
         st.session_state["query"] = st.session_state.pop("_pending_query")
 
+    nav_cols = st.columns([1, 9])
+    with nav_cols[0]:
+        if st.button("← Home", key="home_btn"):
+            st.session_state["_pending_query"] = ""
+            st.rerun()
+
     tab1, tab2 = st.tabs(["Search", "Case Files"])
 
     # ── TAB 1: SEARCH ──────────────────────────────────────────────
@@ -601,7 +703,11 @@ def main():
             render_landing_cards(db, stats)
         else:
             with st.spinner("Searching corpus..."):
-                hits = idx.search(query, top_k=top_k)
+                if is_section_query(query):
+                    direct = section_number_lookup(db, query)
+                    hits = direct if direct else idx.search(query, top_k=top_k)
+                else:
+                    hits = idx.search(query, top_k=top_k)
 
             collections = get_collections(db)
             if not hits:

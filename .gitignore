@@ -10,3 +10,15 @@ wheels/
 .venv
 .env
 data/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.lovable/
+frontend/.vinxi/
+frontend/.output/
+frontend/.wrangler/
+frontend/src/routeTree.gen.ts
+
+# Tooling
+.claude/

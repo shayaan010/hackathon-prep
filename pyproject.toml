@@ -8,6 +8,7 @@ dependencies = [
     "anthropic>=0.100.0",
     "beautifulsoup4>=4.14.3",
     "duckdb>=1.5.2",
+    "fastapi>=0.115.0",
     "httpx>=0.28.1",
     "numpy>=2.4.4",
     "pdfplumber>=0.11.9",
@@ -19,4 +20,5 @@ dependencies = [
     "sentence-transformers>=5.4.1",
     "sqlite-utils>=3.39",
     "streamlit>=1.57.0",
+    "uvicorn[standard]>=0.32.0",
 ]
