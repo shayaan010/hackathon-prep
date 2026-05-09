@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "622.954",
+  "section_name": "Tow Trucks",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "622",
+  "chapter_title": "Spec. Provisions & Exceptions for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A permit is not required to exceed the weight limitations of Section 621.101 (Maximum Weight of Vehicle or Combination) by a combination of a tow truck and another vehicle or vehicle combination if:\n\n(1) the nature of the service provided by the tow truck is needed to remove disabled, abandoned, or collision-damaged vehicles; and\n\n(2) the tow truck is towing the other vehicle or vehicle combination directly to the nearest authorized place of repair, terminal, or vehicle storage facility.\n\n(b) This section does not authorize the operation on the national system of interstate and defense highways in this state of vehicles with a weight greater than authorized by federal law.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 622. Spec. Provisions & Exceptions for Oversize or Overweight Vehicles\n##### § 622.954 — Tow Trucks\n\n(a) A permit is not required to exceed the weight limitations of Section 621.101 (Maximum Weight of Vehicle or Combination) by a combination of a tow truck and another vehicle or vehicle combination if:\n\n    (1) the nature of the service provided by the tow truck is needed to remove disabled, abandoned, or collision-damaged vehicles; and\n\n    (2) the tow truck is towing the other vehicle or vehicle combination directly to the nearest authorized place of repair, terminal, or vehicle storage facility.\n\n(b) This section does not authorize the operation on the national system of interstate and defense highways in this state of vehicles with a weight greater than authorized by federal law.\n\n*Acts 2023, 88th Leg., R.S., Ch. 709 (H.B.2190), Sec. 92, eff. September 1, 2023.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A permit is not required to exceed the weight limitations of Section 621.101 (Maximum Weight of Vehicle or Combination) by a combination of a tow truck and another vehicle or vehicle combination if:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the nature of the service provided by the tow truck is needed to remove disabled, abandoned, or collision-damaged vehicles; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the tow truck is towing the other vehicle or vehicle combination directly to the nearest authorized place of repair, terminal, or vehicle storage facility.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not authorize the operation on the national system of interstate and defense highways in this state of vehicles with a weight greater than authorized by federal law.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2023, 88th Leg., R.S., Ch. 709 (H.B.2190), Sec. 92, eff. September 1, 2023.",
+    "action": null,
+    "statutes_year": 2023,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2023-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_622.954",
+  "source_path": "data/raw/tx_public_law/TN/622.954.html",
+  "content_sha256": "a3d9ebe7b21c6ed3b3724d0a6c3311f6070f9ebdce2415b0be54db49d7e03969",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "731.054",
+  "section_name": "Assignment of Vehicle Identification Number",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "731",
+  "chapter_title": "Assembled Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "The department shall assign a vehicle identification number under Section 501.033 (Assignment and Reassignment of Identification Number by Department) to an assembled vehicle unless the vehicle has a discernible vehicle identification number assigned by:\n\n(1) the manufacturer of the component part by which the vehicle may be identified; or\n\n(2) the maker of the kit from which the vehicle is built or assembled.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 731. Assembled Vehicles\n##### § 731.054 — Assignment of Vehicle Identification Number\n\nThe department shall assign a vehicle identification number under Section 501.033 (Assignment and Reassignment of Identification Number by Department) to an assembled vehicle unless the vehicle has a discernible vehicle identification number assigned by:\n\n    (1) the manufacturer of the component part by which the vehicle may be identified; or\n\n    (2) the maker of the kit from which the vehicle is built or assembled.\n\n*Added by Acts 2019, 86th Leg., R.S., Ch. 1079 (H.B.1755), Sec. 3, eff. September 1, 2019.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department shall assign a vehicle identification number under Section 501.033 (Assignment and Reassignment of Identification Number by Department) to an assembled vehicle unless the vehicle has a discernible vehicle identification number assigned by:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the manufacturer of the component part by which the vehicle may be identified; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the maker of the kit from which the vehicle is built or assembled.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2019, 86th Leg., R.S., Ch. 1079 (H.B.1755), Sec. 3, eff. September 1, 2019.",
+    "action": "Added",
+    "statutes_year": 2019,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2019-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_731.054",
+  "source_path": "data/raw/tx_public_law/TN/731.054.html",
+  "content_sha256": "c369591ea3099c3f5b9803364398f2da5a4590ea534f03fef89fcd7d4973c30a",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

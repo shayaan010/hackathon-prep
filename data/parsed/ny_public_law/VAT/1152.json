@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "1152",
+  "section_name": "Crossing at other than crosswalks",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "27",
+  "article_title": "Pedestrians' Rights & Duties",
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Every pedestrian crossing a roadway at any point other than within a marked crosswalk or within an unmarked crosswalk at an intersection shall yield the right of way to all vehicles upon the roadway.\n\n(b) Any pedestrian crossing a roadway at a point where a pedestrian tunnel or overhead pedestrian crossing has been provided shall yield the right of way to all vehicles upon the roadway.\n\n(c) No pedestrian shall cross a roadway intersection diagonally unless authorized by official traffic-control devices; and, when authorized to cross diagonally, pedestrians shall cross only in accordance with the official traffic-control devices pertaining to such crossing movements.",
+  "markdown": "# Vehicle & Traffic Law\n## Title 7\n#### Article 27. Pedestrians' Rights & Duties\n##### § 1152 — Crossing at other than crosswalks\n\n(a) Every pedestrian crossing a roadway at any point other than within a marked crosswalk or within an unmarked crosswalk at an intersection shall yield the right of way to all vehicles upon the roadway.\n\n(b) Any pedestrian crossing a roadway at a point where a pedestrian tunnel or overhead pedestrian crossing has been provided shall yield the right of way to all vehicles upon the roadway.\n\n(c) No pedestrian shall cross a roadway intersection diagonally unless authorized by official traffic-control devices; and, when authorized to cross diagonally, pedestrians shall cross only in accordance with the official traffic-control devices pertaining to such crossing movements.\n\n*Last modified: Sep. 22, 2014*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every pedestrian crossing a roadway at any point other than within a marked crosswalk or within an unmarked crosswalk at an intersection shall yield the right of way to all vehicles upon the roadway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any pedestrian crossing a roadway at a point where a pedestrian tunnel or overhead pedestrian crossing has been provided shall yield the right of way to all vehicles upon the roadway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "No pedestrian shall cross a roadway intersection diagonally unless authorized by official traffic-control devices; and, when authorized to cross diagonally, pedestrians shall cross only in accordance with the official traffic-control devices pertaining to such crossing movements.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Sep. 22, 2014",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2014-09-22",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_1152",
+  "source_path": "data/raw/ny_public_law/VAT/1152.html",
+  "content_sha256": "0d9efa4af47e379ac51f75920a45ced61ec28960c270fb02635d465d320efdf1",
+  "parsed_at": "2026-05-09T18:32:24+00:00",
+  "parser_version": "1"
+}

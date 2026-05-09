@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "601.005",
+  "section_name": "Evidence in Civil Suit",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "601",
+  "chapter_title": "Motor Vehicle Safety Responsibility Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "A person at a trial for damages may not refer to or offer as evidence of the negligence or due care of a party:\n\n(1) an action taken by the department under this chapter;\n\n(2) the findings on which that action is based; or\n\n(3) the security or evidence of financial responsibility filed under this chapter.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 601. Motor Vehicle Safety Responsibility Act\n##### § 601.005 — Evidence in Civil Suit\n\nA person at a trial for damages may not refer to or offer as evidence of the negligence or due care of a party:\n\n    (1) an action taken by the department under this chapter;\n\n    (2) the findings on which that action is based; or\n\n    (3) the security or evidence of financial responsibility filed under this chapter.\n\n*Acts 2017, 85th Leg., R.S., Ch. 533 (S.B.312), Sec. 50, eff. September 1, 2017.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A person at a trial for damages may not refer to or offer as evidence of the negligence or due care of a party:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "an action taken by the department under this chapter;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the findings on which that action is based; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "the security or evidence of financial responsibility filed under this chapter.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2017, 85th Leg., R.S., Ch. 533 (S.B.312), Sec. 50, eff. September 1, 2017.",
+    "action": null,
+    "statutes_year": 2017,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2017-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_601.005",
+  "source_path": "data/raw/tx_public_law/TN/601.005.html",
+  "content_sha256": "879ca6d98a53bf63e04a67ea69f06da1062845eccde1318d66a6b38c89c592b9",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

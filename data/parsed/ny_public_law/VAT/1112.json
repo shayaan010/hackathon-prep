@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "1112",
+  "section_name": "Pedestrian-control signal indications",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "24",
+  "article_title": "Traffic Signs, Signals & Markings",
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "Whenever pedestrians are controlled by pedestrian-control signals exhibiting the words “WALK” or “DON’T WALK”, or exhibiting symbols of a walking person or upraised hand, such signals shall indicate and apply to pedestrians as follows:\n\n(a) Steady WALK or walking person. Pedestrians facing such signal may proceed across the roadway in the direction of the signal and shall be given the right of way by other traffic.\n\n(b) Flashing DON’T WALK or upraised hand. No pedestrian shall start to cross the roadway in the direction of such signal, but any pedestrians who have partially completed their crossing on the WALK or walking person signal shall proceed to a sidewalk or safety island while the flashing DON’T WALK or upraised hand signal is showing.\n\n(c) Steady DON’T WALK or upraised hand. No pedestrians shall start to cross the roadway in the direction of such signal, but any pedestrians who have partially completed their crossing on the WALK or flashing DON’T WALK signal shall proceed to a sidewalk or safety island while the steady DON’T WALK signal is showing.",
+  "markdown": "# Vehicle & Traffic Law\n## Title 7\n#### Article 24. Traffic Signs, Signals & Markings\n##### § 1112 — Pedestrian-control signal indications\n\nWhenever pedestrians are controlled by pedestrian-control signals exhibiting the words “WALK” or “DON’T WALK”, or exhibiting symbols of a walking person or upraised hand, such signals shall indicate and apply to pedestrians as follows:\n\n(a) Steady WALK or walking person. Pedestrians facing such signal may proceed across the roadway in the direction of the signal and shall be given the right of way by other traffic.\n\n(b) Flashing DON’T WALK or upraised hand. No pedestrian shall start to cross the roadway in the direction of such signal, but any pedestrians who have partially completed their crossing on the WALK or walking person signal shall proceed to a sidewalk or safety island while the flashing DON’T WALK or upraised hand signal is showing.\n\n(c) Steady DON’T WALK or upraised hand. No pedestrians shall start to cross the roadway in the direction of such signal, but any pedestrians who have partially completed their crossing on the WALK or flashing DON’T WALK signal shall proceed to a sidewalk or safety island while the steady DON’T WALK signal is showing.\n\n*Last modified: Sep. 22, 2014*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever pedestrians are controlled by pedestrian-control signals exhibiting the words “WALK” or “DON’T WALK”, or exhibiting symbols of a walking person or upraised hand, such signals shall indicate and apply to pedestrians as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Steady WALK or walking person. Pedestrians facing such signal may proceed across the roadway in the direction of the signal and shall be given the right of way by other traffic.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Flashing DON’T WALK or upraised hand. No pedestrian shall start to cross the roadway in the direction of such signal, but any pedestrians who have partially completed their crossing on the WALK or walking person signal shall proceed to a sidewalk or safety island while the flashing DON’T WALK or upraised hand signal is showing.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Steady DON’T WALK or upraised hand. No pedestrians shall start to cross the roadway in the direction of such signal, but any pedestrians who have partially completed their crossing on the WALK or flashing DON’T WALK signal shall proceed to a sidewalk or safety island while the steady DON’T WALK signal is showing.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Sep. 22, 2014",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2014-09-22",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_1112",
+  "source_path": "data/raw/ny_public_law/VAT/1112.html",
+  "content_sha256": "ec63c0c1c18c2ec445eafbc647e7d4f68c8cbf94fc5e39203495c09dacc88b07",
+  "parsed_at": "2026-05-09T18:32:24+00:00",
+  "parser_version": "1"
+}

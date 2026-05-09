@@ -1,0 +1,78 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "542.2035",
+  "section_name": "Limitation on Municipalities",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "542",
+  "chapter_title": "Gen. Provisions",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A municipality may not implement or operate an automated traffic control system with respect to a highway or street under its jurisdiction for the purpose of enforcing compliance with posted speed limits. The attorney general shall enforce this subsection.\n\n(b) In this section, “automated traffic control system” means a photographic device, radar device, laser device, or other electrical or mechanical device designed to:\n\n(1) record the speed of a motor vehicle; and\n\n(2) obtain one or more photographs or other recorded images of:\n\n(A) the vehicle;\n\n(B) the license plate attached to the vehicle; or\n\n(C) the operator of the vehicle.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 542. Gen. Provisions\n##### § 542.2035 — Limitation on Municipalities\n\n(a) A municipality may not implement or operate an automated traffic control system with respect to a highway or street under its jurisdiction for the purpose of enforcing compliance with posted speed limits. The attorney general shall enforce this subsection.\n\n(b) In this section, “automated traffic control system” means a photographic device, radar device, laser device, or other electrical or mechanical device designed to:\n\n    (1) record the speed of a motor vehicle; and\n\n    (2) obtain one or more photographs or other recorded images of:\n\n        (A) the vehicle;\n\n        (B) the license plate attached to the vehicle; or\n\n        (C) the operator of the vehicle.\n\n*Added by Acts 2007, 80th Leg., R.S., Ch. 646 (H.B.922), Sec. 1, eff. June 15, 2007.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A municipality may not implement or operate an automated traffic control system with respect to a highway or street under its jurisdiction for the purpose of enforcing compliance with posted speed limits. The attorney general shall enforce this subsection.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "In this section, “automated traffic control system” means a photographic device, radar device, laser device, or other electrical or mechanical device designed to:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "record the speed of a motor vehicle; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "obtain one or more photographs or other recorded images of:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "the vehicle;",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "the license plate attached to the vehicle; or",
+      "depth_em": 2.0
+    },
+    {
+      "label": "C",
+      "text": "the operator of the vehicle.",
+      "depth_em": 2.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2007, 80th Leg., R.S., Ch. 646 (H.B.922), Sec. 1, eff. June 15, 2007.",
+    "action": "Added",
+    "statutes_year": 2007,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2007-06-15",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_542.2035",
+  "source_path": "data/raw/tx_public_law/TN/542.2035.html",
+  "content_sha256": "a0958dd2869873ff9d4581a5d739c03107c121b70009c0c703705b2a23c33950",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

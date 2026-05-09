@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "544.010",
+  "section_name": "Stop Signs and Yield Signs",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "544",
+  "chapter_title": "Traffic Signs, Signals, & Markings",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Unless directed to proceed by a police officer or traffic-control signal, the operator of a vehicle or streetcar approaching an intersection with a stop sign shall stop as provided by Subsection (c).\n\n(b) If safety requires, the operator of a vehicle approaching a yield sign shall stop as provided by Subsection (c).\n\n(c) An operator required to stop by this section shall stop at a clearly marked stop line. In the absence of a clearly marked stop line, the operator shall stop before entering the crosswalk on the near side of the intersection. In the absence of a clearly marked stop line or crosswalk, the operator shall stop at the place nearest the intersecting roadway where the operator has a view of approaching traffic on the intersecting roadway.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 544. Traffic Signs, Signals, & Markings\n##### § 544.010 — Stop Signs and Yield Signs\n\n(a) Unless directed to proceed by a police officer or traffic-control signal, the operator of a vehicle or streetcar approaching an intersection with a stop sign shall stop as provided by Subsection (c).\n\n(b) If safety requires, the operator of a vehicle approaching a yield sign shall stop as provided by Subsection (c).\n\n(c) An operator required to stop by this section shall stop at a clearly marked stop line. In the absence of a clearly marked stop line, the operator shall stop before entering the crosswalk on the near side of the intersection. In the absence of a clearly marked stop line or crosswalk, the operator shall stop at the place nearest the intersecting roadway where the operator has a view of approaching traffic on the intersecting roadway.\n\n*Acts 2023, 88th Leg., R.S., Ch. 535 (H.B.3558), Sec. 1, eff. September 1, 2023.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Unless directed to proceed by a police officer or traffic-control signal, the operator of a vehicle or streetcar approaching an intersection with a stop sign shall stop as provided by Subsection (c).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If safety requires, the operator of a vehicle approaching a yield sign shall stop as provided by Subsection (c).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "An operator required to stop by this section shall stop at a clearly marked stop line. In the absence of a clearly marked stop line, the operator shall stop before entering the crosswalk on the near side of the intersection. In the absence of a clearly marked stop line or crosswalk, the operator shall stop at the place nearest the intersecting roadway where the operator has a view of approaching traffic on the intersecting roadway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2023, 88th Leg., R.S., Ch. 535 (H.B.3558), Sec. 1, eff. September 1, 2023.",
+    "action": null,
+    "statutes_year": 2023,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2023-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_544.010",
+  "source_path": "data/raw/tx_public_law/TN/544.010.html",
+  "content_sha256": "a57182508388dd5130a4fce578c3823f4cf58557ef2cd00db8848a8f72853adb",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

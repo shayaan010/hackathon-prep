@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "548.3075",
+  "section_name": "Limited Emissions Inspections",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "548",
+  "chapter_title": "Inspection of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) In this section, “limited emissions inspection” means an emissions inspection of a motor vehicle conducted only by using the onboard diagnostic system of the vehicle.\n\n(b) A department rule that allows an inspection station to perform a limited emissions inspection of a motor vehicle may not restrict the number of limited emissions inspections conducted by the station.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 548. Inspection of Vehicles\n##### § 548.3075 — Limited Emissions Inspections\n\n(a) In this section, “limited emissions inspection” means an emissions inspection of a motor vehicle conducted only by using the onboard diagnostic system of the vehicle.\n\n(b) A department rule that allows an inspection station to perform a limited emissions inspection of a motor vehicle may not restrict the number of limited emissions inspections conducted by the station.\n\n*Acts 2019, 86th Leg., R.S., Ch. 830 (H.B.2604), Sec. 1, eff. January 1, 2020.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In this section, “limited emissions inspection” means an emissions inspection of a motor vehicle conducted only by using the onboard diagnostic system of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A department rule that allows an inspection station to perform a limited emissions inspection of a motor vehicle may not restrict the number of limited emissions inspections conducted by the station.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2019, 86th Leg., R.S., Ch. 830 (H.B.2604), Sec. 1, eff. January 1, 2020.",
+    "action": null,
+    "statutes_year": 2019,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2020-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_548.3075",
+  "source_path": "data/raw/tx_public_law/TN/548.3075.html",
+  "content_sha256": "8bacfe076e9aeff8f18badb0e0ed612a33726613ce597b5d186fd1ed66752077",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

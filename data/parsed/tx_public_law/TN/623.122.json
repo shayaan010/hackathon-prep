@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "623.122",
+  "section_name": "Designated Route in Municipality",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "623",
+  "chapter_title": "Permits for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A municipality having a state highway in its territory shall designate to the department the route in the municipality to be used by equipment described by Section 623.121 (Permit to Move Portable Building Unit) moving over the state highway. The department shall show the designated route on each map routing the equipment.\n\n(b) If a municipality does not designate a route, the department shall determine the route to be used by the equipment on the state highway within the municipality.\n\n(c) A municipality may not require a fee or license for movement of a portable building unit on the route of a state highway designated by the department or the municipality.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 623. Permits for Oversize or Overweight Vehicles\n##### § 623.122 — Designated Route in Municipality\n\n(a) A municipality having a state highway in its territory shall designate to the department the route in the municipality to be used by equipment described by Section 623.121 (Permit to Move Portable Building Unit) moving over the state highway. The department shall show the designated route on each map routing the equipment.\n\n(b) If a municipality does not designate a route, the department shall determine the route to be used by the equipment on the state highway within the municipality.\n\n(c) A municipality may not require a fee or license for movement of a portable building unit on the route of a state highway designated by the department or the municipality.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A municipality having a state highway in its territory shall designate to the department the route in the municipality to be used by equipment described by Section 623.121 (Permit to Move Portable Building Unit) moving over the state highway. The department shall show the designated route on each map routing the equipment.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If a municipality does not designate a route, the department shall determine the route to be used by the equipment on the state highway within the municipality.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A municipality may not require a fee or license for movement of a portable building unit on the route of a state highway designated by the department or the municipality.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_623.122",
+  "source_path": "data/raw/tx_public_law/TN/623.122.html",
+  "content_sha256": "c92b8e0c4c1f470101dbea06e441f86eb639b8a6d03a1c45a82492b7646b3284",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

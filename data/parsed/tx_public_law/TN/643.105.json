@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "643.105",
+  "section_name": "Insolvency of Insurer",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "643",
+  "chapter_title": "Motor Carrier Registration",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "If an insurer for a motor carrier becomes insolvent, is placed in receivership, or has its certificate of authority suspended or revoked and if the carrier no longer has insurance coverage as required by this subchapter, the carrier shall file with the department, not later than the 10th day after the date the coverage lapses:\n\n(1) evidence of insurance as required by Section 643.103 (Filing; Evidence of Insurance; Fees) ; and\n\n(2) an affidavit that:\n\n(A) indicates that a collision from which the carrier may incur liability did not occur while the coverage was not in effect; or\n\n(B) contains a plan acceptable to the department indicating how the carrier will satisfy claims of liability against the carrier for a collision that occurred while the coverage was not in effect.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 643. Motor Carrier Registration\n##### § 643.105 — Insolvency of Insurer\n\nIf an insurer for a motor carrier becomes insolvent, is placed in receivership, or has its certificate of authority suspended or revoked and if the carrier no longer has insurance coverage as required by this subchapter, the carrier shall file with the department, not later than the 10th day after the date the coverage lapses:\n\n    (1) evidence of insurance as required by Section 643.103 (Filing; Evidence of Insurance; Fees) ; and\n\n    (2) an affidavit that:\n\n        (A) indicates that a collision from which the carrier may incur liability did not occur while the coverage was not in effect; or\n\n        (B) contains a plan acceptable to the department indicating how the carrier will satisfy claims of liability against the carrier for a collision that occurred while the coverage was not in effect.\n\n*Acts 2023, 88th Leg., R.S., Ch. 709 (H.B.2190), Sec. 95, eff. September 1, 2023.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "If an insurer for a motor carrier becomes insolvent, is placed in receivership, or has its certificate of authority suspended or revoked and if the carrier no longer has insurance coverage as required by this subchapter, the carrier shall file with the department, not later than the 10th day after the date the coverage lapses:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "evidence of insurance as required by Section 643.103 (Filing; Evidence of Insurance; Fees) ; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "an affidavit that:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "indicates that a collision from which the carrier may incur liability did not occur while the coverage was not in effect; or",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "contains a plan acceptable to the department indicating how the carrier will satisfy claims of liability against the carrier for a collision that occurred while the coverage was not in effect.",
+      "depth_em": 2.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2023, 88th Leg., R.S., Ch. 709 (H.B.2190), Sec. 95, eff. September 1, 2023.",
+    "action": null,
+    "statutes_year": 2023,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2023-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_643.105",
+  "source_path": "data/raw/tx_public_law/TN/643.105.html",
+  "content_sha256": "72ffff6325f2942d0414ca73a83be7beda85ceaa74a3054889222deaff536ce0",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "724.016",
+  "section_name": "Breath Specimen",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "724",
+  "chapter_title": "Implied Consent",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A breath specimen taken at the request or order of a peace officer must be taken and analyzed under rules of the department by an individual possessing a certificate issued by the department certifying that the individual is qualified to perform the analysis.\n\n(b) The department may:\n\n(1) adopt rules approving satisfactory analytical methods; and\n\n(2) ascertain the qualifications of an individual to perform the analysis.\n\n(c) The department may revoke a certificate for cause.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 724. Implied Consent\n##### § 724.016 — Breath Specimen\n\n(a) A breath specimen taken at the request or order of a peace officer must be taken and analyzed under rules of the department by an individual possessing a certificate issued by the department certifying that the individual is qualified to perform the analysis.\n\n(b) The department may:\n\n    (1) adopt rules approving satisfactory analytical methods; and\n\n    (2) ascertain the qualifications of an individual to perform the analysis.\n\n(c) The department may revoke a certificate for cause.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A breath specimen taken at the request or order of a peace officer must be taken and analyzed under rules of the department by an individual possessing a certificate issued by the department certifying that the individual is qualified to perform the analysis.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department may:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "adopt rules approving satisfactory analytical methods; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "ascertain the qualifications of an individual to perform the analysis.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "The department may revoke a certificate for cause.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_724.016",
+  "source_path": "data/raw/tx_public_law/TN/724.016.html",
+  "content_sha256": "847309e39cffcdd3a91762f8f99498d554398c89eb1547eb54868b49a393316b",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

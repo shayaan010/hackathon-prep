@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "643.256",
+  "section_name": "Cease and Desist Order",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "643",
+  "chapter_title": "Motor Carrier Registration",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "The department may issue a cease and desist order if the department determines that the action is necessary to:\n\n(1) prevent a violation of this chapter; and\n\n(2) protect the public health and safety.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 643. Motor Carrier Registration\n##### § 643.256 — Cease and Desist Order\n\nThe department may issue a cease and desist order if the department determines that the action is necessary to:\n\n    (1) prevent a violation of this chapter; and\n\n    (2) protect the public health and safety.\n\n*Added by Acts 2009, 81st Leg., R.S., Ch. 919 (H.B.2985), Sec. 6, eff. September 1, 2009.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department may issue a cease and desist order if the department determines that the action is necessary to:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "prevent a violation of this chapter; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "protect the public health and safety.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2009, 81st Leg., R.S., Ch. 919 (H.B.2985), Sec. 6, eff. September 1, 2009.",
+    "action": "Added",
+    "statutes_year": 2009,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2009-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_643.256",
+  "source_path": "data/raw/tx_public_law/TN/643.256.html",
+  "content_sha256": "fc08d0345f607d3fbf034a764178981589c889bf87309e373f7922d08b7a528e",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.301",
+  "section_name": "General Provisions Relating to Measurements",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Unless expressly stated otherwise, a visibility distance requirement imposed by this chapter for a lamp or device applies when a lighted lamp or device is required and is measured as if the vehicle were unloaded and on a straight, level, unlighted highway under normal atmospheric conditions.\n\n(b) A mounted height requirement imposed by this chapter for a lamp or device is measured as if the vehicle were unloaded and on level ground and is measured from the center of the lamp or device to the ground.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.301 — General Provisions Relating to Measurements\n\n(a) Unless expressly stated otherwise, a visibility distance requirement imposed by this chapter for a lamp or device applies when a lighted lamp or device is required and is measured as if the vehicle were unloaded and on a straight, level, unlighted highway under normal atmospheric conditions.\n\n(b) A mounted height requirement imposed by this chapter for a lamp or device is measured as if the vehicle were unloaded and on level ground and is measured from the center of the lamp or device to the ground.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Unless expressly stated otherwise, a visibility distance requirement imposed by this chapter for a lamp or device applies when a lighted lamp or device is required and is measured as if the vehicle were unloaded and on a straight, level, unlighted highway under normal atmospheric conditions.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A mounted height requirement imposed by this chapter for a lamp or device is measured as if the vehicle were unloaded and on level ground and is measured from the center of the lamp or device to the ground.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.301",
+  "source_path": "data/raw/tx_public_law/TN/547.301.html",
+  "content_sha256": "5106f52b59e56d853f4b4d27c13a99f1ff6876d5757958c6dddd315aa6114a38",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

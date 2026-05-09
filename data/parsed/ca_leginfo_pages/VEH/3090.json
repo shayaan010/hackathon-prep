@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "3090",
+  "section_name": null,
   "division": "2",
   "division_title": "ADMINISTRATION",
   "division_range": "1500 - 3093",
@@ -117,6 +118,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3090.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/3090.html",
   "content_sha256": "95dde60d9eb27362a604e6fb33f0228d73d1263746c362980e3f7a46b18924fb",
-  "parsed_at": "2026-05-09T17:16:15+00:00",
+  "parsed_at": "2026-05-09T18:32:16+00:00",
   "parser_version": "1"
 }

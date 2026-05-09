@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "545.453",
+  "section_name": "Operator of Automated Motor Vehicle",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "545",
+  "chapter_title": "Operation & Movement of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) When an automated driving system installed on a motor vehicle is engaged:\n\n(1) the owner of the automated driving system is considered the operator of the automated motor vehicle solely for the purpose of assessing compliance with applicable traffic or motor vehicle laws, regardless of whether the person is physically present in the vehicle while the vehicle is operating; and\n\n(2) the automated driving system is considered to be licensed to operate the vehicle.\n\n(b) Notwithstanding any other law, a licensed human operator is not required to operate a motor vehicle if an automated driving system installed on the vehicle is engaged.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 545. Operation & Movement of Vehicles\n##### § 545.453 — Operator of Automated Motor Vehicle\n\n(a) When an automated driving system installed on a motor vehicle is engaged:\n\n    (1) the owner of the automated driving system is considered the operator of the automated motor vehicle solely for the purpose of assessing compliance with applicable traffic or motor vehicle laws, regardless of whether the person is physically present in the vehicle while the vehicle is operating; and\n\n    (2) the automated driving system is considered to be licensed to operate the vehicle.\n\n(b) Notwithstanding any other law, a licensed human operator is not required to operate a motor vehicle if an automated driving system installed on the vehicle is engaged.\n\n*Added by Acts 2017, 85th Leg., R.S., Ch. 973 (S.B.2205), Sec. 1, eff. September 1, 2017.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "When an automated driving system installed on a motor vehicle is engaged:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the owner of the automated driving system is considered the operator of the automated motor vehicle solely for the purpose of assessing compliance with applicable traffic or motor vehicle laws, regardless of whether the person is physically present in the vehicle while the vehicle is operating; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the automated driving system is considered to be licensed to operate the vehicle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding any other law, a licensed human operator is not required to operate a motor vehicle if an automated driving system installed on the vehicle is engaged.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2017, 85th Leg., R.S., Ch. 973 (S.B.2205), Sec. 1, eff. September 1, 2017.",
+    "action": "Added",
+    "statutes_year": 2017,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2017-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_545.453",
+  "source_path": "data/raw/tx_public_law/TN/545.453.html",
+  "content_sha256": "defbc8e7ab238a60d2de5a8e9016c089e69de9681f6970bc647bf861134cf791",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

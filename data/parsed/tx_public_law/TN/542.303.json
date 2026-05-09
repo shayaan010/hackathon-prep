@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "542.303",
+  "section_name": "Inchoate Offense",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "542",
+  "chapter_title": "Gen. Provisions",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person who attempts to commit or conspires to commit an act declared by this subtitle to be an offense is guilty of the offense.\n\n(b) A person who falsely, fraudulently, or wilfully permits another to violate this subtitle is guilty of the violation.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 542. Gen. Provisions\n##### § 542.303 — Inchoate Offense\n\n(a) A person who attempts to commit or conspires to commit an act declared by this subtitle to be an offense is guilty of the offense.\n\n(b) A person who falsely, fraudulently, or wilfully permits another to violate this subtitle is guilty of the violation.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person who attempts to commit or conspires to commit an act declared by this subtitle to be an offense is guilty of the offense.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person who falsely, fraudulently, or wilfully permits another to violate this subtitle is guilty of the violation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_542.303",
+  "source_path": "data/raw/tx_public_law/TN/542.303.html",
+  "content_sha256": "be1939ffa039971f98321c5632bacc80400a1a04849aaaa60b6ca621d897f385",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

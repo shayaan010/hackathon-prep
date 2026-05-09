@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "21721",
+  "section_name": null,
   "division": "11",
   "division_title": "RULES OF THE ROAD",
   "division_range": "21000 - 23336",
@@ -67,6 +68,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21721.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/21721.html",
   "content_sha256": "09f34c21f8dca861b443e8bbc3f9c3ce76bb9cbd4731541a770021f86a04ea76",
-  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parsed_at": "2026-05-09T18:32:20+00:00",
   "parser_version": "1"
 }

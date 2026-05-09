@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "522.062",
+  "section_name": "Notification of Conviction to Licensing Authority in Other State",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "522",
+  "chapter_title": "Commercial Driver's Licenses",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) If a person holds a driver’s license, commercial driver’s license, or commercial learner’s permit issued by another state and is finally convicted of a violation of a state traffic law or local traffic ordinance that was committed in a commercial motor vehicle, the department shall notify the driver’s licensing authority in the issuing state of that conviction, in the time and manner required by 49 U.S.C. Section 31311.\n\n(b) This section does not apply to a parking violation.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 522. Commercial Driver's Licenses\n##### § 522.062 — Notification of Conviction to Licensing Authority in Other State\n\n(a) If a person holds a driver’s license, commercial driver’s license, or commercial learner’s permit issued by another state and is finally convicted of a violation of a state traffic law or local traffic ordinance that was committed in a commercial motor vehicle, the department shall notify the driver’s licensing authority in the issuing state of that conviction, in the time and manner required by 49 U.S.C. Section 31311.\n\n(b) This section does not apply to a parking violation.\n\n*Acts 2015, 84th Leg., R.S., Ch. 752 (H.B.1888), Sec. 28, eff. January 1, 2016.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If a person holds a driver’s license, commercial driver’s license, or commercial learner’s permit issued by another state and is finally convicted of a violation of a state traffic law or local traffic ordinance that was committed in a commercial motor vehicle, the department shall notify the driver’s licensing authority in the issuing state of that conviction, in the time and manner required by 49 U.S.C. Section 31311.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to a parking violation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2015, 84th Leg., R.S., Ch. 752 (H.B.1888), Sec. 28, eff. January 1, 2016.",
+    "action": null,
+    "statutes_year": 2015,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_522.062",
+  "source_path": "data/raw/tx_public_law/TN/522.062.html",
+  "content_sha256": "646f593cab682e84bb0f4002e107a8f4e1ba43d38038835ddc2779bd652dad5d",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

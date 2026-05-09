@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "548.009",
+  "section_name": "Assembled Vehicles",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "548",
+  "chapter_title": "Inspection of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) In this section, “assembled vehicle” has the meaning assigned by Section 731.001 (Definitions) .\n\n(b) A provision of this chapter does not apply to an assembled vehicle if the provision:\n\n(1) conflicts with Chapter 731 (Assembled Vehicles) or a rule adopted under that chapter; or\n\n(2) is a provision that an assembled vehicle, by its nature, cannot comply with or otherwise meet.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 548. Inspection of Vehicles\n##### § 548.009 — Assembled Vehicles\n\n(a) In this section, “assembled vehicle” has the meaning assigned by Section 731.001 (Definitions) .\n\n(b) A provision of this chapter does not apply to an assembled vehicle if the provision:\n\n    (1) conflicts with Chapter 731 (Assembled Vehicles) or a rule adopted under that chapter; or\n\n    (2) is a provision that an assembled vehicle, by its nature, cannot comply with or otherwise meet.\n\n*Added by Acts 2019, 86th Leg., R.S., Ch. 1079 (H.B.1755), Sec. 10, eff. September 1, 2019.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In this section, “assembled vehicle” has the meaning assigned by Section 731.001 (Definitions) .",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A provision of this chapter does not apply to an assembled vehicle if the provision:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "conflicts with Chapter 731 (Assembled Vehicles) or a rule adopted under that chapter; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "is a provision that an assembled vehicle, by its nature, cannot comply with or otherwise meet.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2019, 86th Leg., R.S., Ch. 1079 (H.B.1755), Sec. 10, eff. September 1, 2019.",
+    "action": "Added",
+    "statutes_year": 2019,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2019-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_548.009",
+  "source_path": "data/raw/tx_public_law/TN/548.009.html",
+  "content_sha256": "d2b010a1a613343cb42eb5713bab4eb34761b32714ddba47f4d9920cf0c493d4",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

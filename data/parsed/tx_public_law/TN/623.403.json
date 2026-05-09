@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "623.403",
+  "section_name": "County and Municipality Designation",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "623",
+  "chapter_title": "Permits for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) An applicant for a permit under this subchapter must designate each county and municipality in which the permit will be used.\n\n(b) A permit issued under this subchapter is not valid in a county or municipality that is not designated in the permit application.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 623. Permits for Oversize or Overweight Vehicles\n##### § 623.403 — County and Municipality Designation\n\n(a) An applicant for a permit under this subchapter must designate each county and municipality in which the permit will be used.\n\n(b) A permit issued under this subchapter is not valid in a county or municipality that is not designated in the permit application.\n\n*Added by Acts 2017, 85th Leg., R.S., Ch. 108 (S.B.1524), Sec. 3, eff. January 1, 2018.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "An applicant for a permit under this subchapter must designate each county and municipality in which the permit will be used.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A permit issued under this subchapter is not valid in a county or municipality that is not designated in the permit application.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2017, 85th Leg., R.S., Ch. 108 (S.B.1524), Sec. 3, eff. January 1, 2018.",
+    "action": "Added",
+    "statutes_year": 2017,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2018-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_623.403",
+  "source_path": "data/raw/tx_public_law/TN/623.403.html",
+  "content_sha256": "16b3b6182d546f34c06597543123afeae8aa70e30ceb57f20cbcc48dba7e01cf",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

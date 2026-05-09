@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "17002",
+  "section_name": null,
   "division": "9",
   "division_title": "CIVIL LIABILITY",
   "division_range": "17000 - 17714",
@@ -42,6 +43,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=17002.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/17002.html",
   "content_sha256": "7872242641df118696f2d110f3f9b515073a0b998a21cb947905342e36961687",
-  "parsed_at": "2026-05-09T17:53:45+00:00",
+  "parsed_at": "2026-05-09T18:32:19+00:00",
   "parser_version": "1"
 }

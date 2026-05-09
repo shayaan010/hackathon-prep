@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "29001",
+  "section_name": null,
   "division": "13",
   "division_title": "TOWING AND LOADING EQUIPMENT",
   "division_range": "29000 - 31560",
@@ -42,6 +43,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=29001.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/29001.html",
   "content_sha256": "41f11ba6619b1d7bf71c936a8393d4bd7dd16b41eb80a41ef3843731aeafb84c",
-  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parsed_at": "2026-05-09T18:32:21+00:00",
   "parser_version": "1"
 }

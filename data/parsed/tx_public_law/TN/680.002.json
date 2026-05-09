@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "680.002",
+  "section_name": "Sale of Motorcycle Without Serial Numbers",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "680",
+  "chapter_title": "Misc. Provisions",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "A person may not sell a motorcycle manufactured after January 1, 1976, unless:\n\n(1) the serial number of the frame and the serial number of the engine are affixed so that they may not be removed without defacing the frame or engine; and\n\n(2) the manufacturer has filed with the department a statement that:\n\n(A) identifies the part to which each number is affixed;\n\n(B) gives the exact dimensions of the part; and\n\n(C) gives the location on the part to which the number is affixed.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 680. Misc. Provisions\n##### § 680.002 — Sale of Motorcycle Without Serial Numbers\n\nA person may not sell a motorcycle manufactured after January 1, 1976, unless:\n\n    (1) the serial number of the frame and the serial number of the engine are affixed so that they may not be removed without defacing the frame or engine; and\n\n    (2) the manufacturer has filed with the department a statement that:\n\n        (A) identifies the part to which each number is affixed;\n\n        (B) gives the exact dimensions of the part; and\n\n        (C) gives the location on the part to which the number is affixed.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A person may not sell a motorcycle manufactured after January 1, 1976, unless:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the serial number of the frame and the serial number of the engine are affixed so that they may not be removed without defacing the frame or engine; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the manufacturer has filed with the department a statement that:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "identifies the part to which each number is affixed;",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "gives the exact dimensions of the part; and",
+      "depth_em": 2.0
+    },
+    {
+      "label": "C",
+      "text": "gives the location on the part to which the number is affixed.",
+      "depth_em": 2.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_680.002",
+  "source_path": "data/raw/tx_public_law/TN/680.002.html",
+  "content_sha256": "7696720c473f678b2a9f0a50f0a6e390b4d226abc880fba282546b3fce0606fe",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

@@ -115,6 +115,14 @@ class StatuteSection(BaseModel):
     section_num: str = Field(
         description="Section number as it appears, e.g. '21453' or '21451.5'.",
     )
+    section_name: Optional[str] = Field(
+        None,
+        description=(
+            "Catchline / short title for the section, e.g. "
+            "'Issuance of special number plates'. Empty for CA leginfo "
+            "(which doesn't print catchlines), populated for NY/TX public.law."
+        ),
+    )
 
     # ------------------------------------------------------------------
     # Hierarchy (all optional — many sections have only a subset)

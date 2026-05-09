@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "501.071",
+  "section_name": "Sale of Vehicle; Transfer of Title",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "501",
+  "chapter_title": "Certificate of Title Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Except as provided by Sections 503.036 (Reassignment of Evidence of Ownership; Dealer Categories) and 503.039 (Public Motor Vehicle Auctions) , a motor vehicle may not be the subject of a subsequent sale unless the owner designated on the title submits a transfer of ownership of the title.\n\n(b) The transfer of the title must be in a manner prescribed by the department that:\n\n(1) certifies the purchaser is the owner of the vehicle; and\n\n(2) certifies there are no liens on the vehicle or provides a release of each lien on the vehicle.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 501. Certificate of Title Act\n##### § 501.071 — Sale of Vehicle; Transfer of Title\n\n(a) Except as provided by Sections 503.036 (Reassignment of Evidence of Ownership; Dealer Categories) and 503.039 (Public Motor Vehicle Auctions) , a motor vehicle may not be the subject of a subsequent sale unless the owner designated on the title submits a transfer of ownership of the title.\n\n(b) The transfer of the title must be in a manner prescribed by the department that:\n\n    (1) certifies the purchaser is the owner of the vehicle; and\n\n    (2) certifies there are no liens on the vehicle or provides a release of each lien on the vehicle.\n\n*Acts 2017, 85th Leg., R.S., Ch. 969 (S.B.2076), Sec. 14, eff. September 1, 2017.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided by Sections 503.036 (Reassignment of Evidence of Ownership; Dealer Categories) and 503.039 (Public Motor Vehicle Auctions) , a motor vehicle may not be the subject of a subsequent sale unless the owner designated on the title submits a transfer of ownership of the title.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The transfer of the title must be in a manner prescribed by the department that:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "certifies the purchaser is the owner of the vehicle; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "certifies there are no liens on the vehicle or provides a release of each lien on the vehicle.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2017, 85th Leg., R.S., Ch. 969 (S.B.2076), Sec. 14, eff. September 1, 2017.",
+    "action": null,
+    "statutes_year": 2017,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2017-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_501.071",
+  "source_path": "data/raw/tx_public_law/TN/501.071.html",
+  "content_sha256": "59d04328a0ac6fd66ad00ea0eaf8d790144598c64fea4075aa558e0e7512d18a",
+  "parsed_at": "2026-05-09T18:32:25+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "622.041",
+  "section_name": "Length Limitation",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "622",
+  "chapter_title": "Spec. Provisions & Exceptions for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person may operate over a highway or road of this state a vehicle or combination of vehicles that is used exclusively for transporting poles, piling, or unrefined timber from the point of origin of the timber (the forest where the timber is felled) to a wood processing mill if:\n\n(1) the vehicle, or combination of vehicles, is not longer than 90 feet, including the load; and\n\n(2) the distance from the point of origin to the destination or delivery point does not exceed 125 miles.\n\n(b) Subsection (a)(1) does not apply to a truck-tractor or truck-tractor combination transporting poles, piling, or unrefined timber.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 622. Spec. Provisions & Exceptions for Oversize or Overweight Vehicles\n##### § 622.041 — Length Limitation\n\n(a) A person may operate over a highway or road of this state a vehicle or combination of vehicles that is used exclusively for transporting poles, piling, or unrefined timber from the point of origin of the timber (the forest where the timber is felled) to a wood processing mill if:\n\n    (1) the vehicle, or combination of vehicles, is not longer than 90 feet, including the load; and\n\n    (2) the distance from the point of origin to the destination or delivery point does not exceed 125 miles.\n\n(b) Subsection (a)(1) does not apply to a truck-tractor or truck-tractor combination transporting poles, piling, or unrefined timber.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 2001, 77th Leg., ch. 941, Sec. 34, eff. Sept. 1, 2001.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person may operate over a highway or road of this state a vehicle or combination of vehicles that is used exclusively for transporting poles, piling, or unrefined timber from the point of origin of the timber (the forest where the timber is felled) to a wood processing mill if:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the vehicle, or combination of vehicles, is not longer than 90 feet, including the load; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the distance from the point of origin to the destination or delivery point does not exceed 125 miles.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Subsection (a)(1) does not apply to a truck-tractor or truck-tractor combination transporting poles, piling, or unrefined timber.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 2001, 77th Leg., ch. 941, Sec. 34, eff. Sept. 1, 2001.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_622.041",
+  "source_path": "data/raw/tx_public_law/TN/622.041.html",
+  "content_sha256": "094ed12d3136205d8b743e34352a179c621b239754bc5e34e349a73a1a587279",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

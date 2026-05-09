@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "23601",
+  "section_name": null,
   "division": "11.5",
   "division_title": "SENTENCING FOR DRIVING WHILE UNDER THE INFLUENCE",
   "division_range": "23500 - 23675",
@@ -52,6 +53,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23601.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/23601.html",
   "content_sha256": "42d5d02a00a8ab95047f62d37c007e16d367be4bb24df6eb0ff1ee45481134d1",
-  "parsed_at": "2026-05-09T17:53:46+00:00",
+  "parsed_at": "2026-05-09T18:32:21+00:00",
   "parser_version": "1"
 }

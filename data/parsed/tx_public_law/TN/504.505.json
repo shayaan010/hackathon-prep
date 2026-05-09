@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "504.505",
+  "section_name": "Cotton Vehicles",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "504",
+  "chapter_title": "License Plates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department shall issue specialty license plates for a single motor vehicle that is:\n\n(1) used only to transport chile pepper modules, seed cotton, cotton, cotton burrs, or equipment used in transporting or processing chile peppers or cotton; and\n\n(2) not more than 10 feet in width.\n\n(b) The license plates must include the words “Cotton Vehicle.”\n\n(c) There is no fee for issuance of the license plates. The license plates may be renewed without payment of a fee.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 504. License Plates\n##### § 504.505 — Cotton Vehicles\n\n(a) The department shall issue specialty license plates for a single motor vehicle that is:\n\n    (1) used only to transport chile pepper modules, seed cotton, cotton, cotton burrs, or equipment used in transporting or processing chile peppers or cotton; and\n\n    (2) not more than 10 feet in width.\n\n(b) The license plates must include the words “Cotton Vehicle.”\n\n(c) There is no fee for issuance of the license plates. The license plates may be renewed without payment of a fee.\n\n*Acts 2009, 81st Leg., R.S., Ch. 1136 (H.B.2553), Sec. 33, eff. September 1, 2011.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall issue specialty license plates for a single motor vehicle that is:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "used only to transport chile pepper modules, seed cotton, cotton, cotton burrs, or equipment used in transporting or processing chile peppers or cotton; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "not more than 10 feet in width.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The license plates must include the words “Cotton Vehicle.”",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "There is no fee for issuance of the license plates. The license plates may be renewed without payment of a fee.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2009, 81st Leg., R.S., Ch. 1136 (H.B.2553), Sec. 33, eff. September 1, 2011.",
+    "action": null,
+    "statutes_year": 2009,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2011-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_504.505",
+  "source_path": "data/raw/tx_public_law/TN/504.505.html",
+  "content_sha256": "b8f01a183bbc6e752157aadcf3bc21a37f997447558ac480c1250de5b76070ec",
+  "parsed_at": "2026-05-09T18:32:25+00:00",
+  "parser_version": "1"
+}

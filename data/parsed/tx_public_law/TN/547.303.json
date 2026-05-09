@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.303",
+  "section_name": "Color Requirements",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Unless expressly provided otherwise, a lighting device or reflector mounted on the rear of a vehicle must be or reflect red.\n\n(b) A signaling device mounted on the rear of a vehicle may be red, amber, or yellow.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.303 — Color Requirements\n\n(a) Unless expressly provided otherwise, a lighting device or reflector mounted on the rear of a vehicle must be or reflect red.\n\n(b) A signaling device mounted on the rear of a vehicle may be red, amber, or yellow.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Unless expressly provided otherwise, a lighting device or reflector mounted on the rear of a vehicle must be or reflect red.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A signaling device mounted on the rear of a vehicle may be red, amber, or yellow.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.303",
+  "source_path": "data/raw/tx_public_law/TN/547.303.html",
+  "content_sha256": "f54583b3000351745460208dbeea66291a219022d3f6a7623189bb366630c1ab",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

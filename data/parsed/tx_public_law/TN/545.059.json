@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "545.059",
+  "section_name": "One-way Roadways and Rotary Traffic Islands",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "545",
+  "chapter_title": "Operation & Movement of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The Texas Transportation Commission may designate a highway or separate roadway under the jurisdiction of the commission for one-way traffic and shall erect appropriate signs giving notice of the designation.\n\n(b) On a roadway that is designated and on which signs are erected for one-way traffic, an operator shall drive only in the direction indicated.\n\n(c) An operator moving around a rotary traffic island shall drive only to the right of the island.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 545. Operation & Movement of Vehicles\n##### § 545.059 — One-way Roadways and Rotary Traffic Islands\n\n(a) The Texas Transportation Commission may designate a highway or separate roadway under the jurisdiction of the commission for one-way traffic and shall erect appropriate signs giving notice of the designation.\n\n(b) On a roadway that is designated and on which signs are erected for one-way traffic, an operator shall drive only in the direction indicated.\n\n(c) An operator moving around a rotary traffic island shall drive only to the right of the island.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Texas Transportation Commission may designate a highway or separate roadway under the jurisdiction of the commission for one-way traffic and shall erect appropriate signs giving notice of the designation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "On a roadway that is designated and on which signs are erected for one-way traffic, an operator shall drive only in the direction indicated.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "An operator moving around a rotary traffic island shall drive only to the right of the island.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_545.059",
+  "source_path": "data/raw/tx_public_law/TN/545.059.html",
+  "content_sha256": "167dee446e39dd263734ed81defc10cde706e8a5fe560941529c184a5c5fb718",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

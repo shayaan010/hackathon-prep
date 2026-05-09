@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "601.338",
+  "section_name": "Evidence of Financial Responsibility or Suspension of Driver’s License and Vehicle Registration of Owner of Motor Vehicle",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "601",
+  "chapter_title": "Motor Vehicle Safety Responsibility Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department shall suspend the driver’s license and vehicle registrations of the owner of a motor vehicle that was used with the owner’s consent by another person at the time of an offense resulting in conviction or a plea of guilty, if under state law the department:\n\n(1) suspends or revokes the driver’s license of the other person on receipt of a record of a conviction; or\n\n(2) suspends the vehicle registration of the other person on receipt of a record of a plea of guilty.\n\n(b) The department may not suspend the driver’s license and vehicle registration of an owner under this section if the owner files and maintains evidence of financial responsibility with the department for each motor vehicle registered in the name of the owner.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 601. Motor Vehicle Safety Responsibility Act\n##### § 601.338 — Evidence of Financial Responsibility or Suspension of Driver’s License and Vehicle Registration of Owner of Motor Vehicle\n\n(a) The department shall suspend the driver’s license and vehicle registrations of the owner of a motor vehicle that was used with the owner’s consent by another person at the time of an offense resulting in conviction or a plea of guilty, if under state law the department:\n\n    (1) suspends or revokes the driver’s license of the other person on receipt of a record of a conviction; or\n\n    (2) suspends the vehicle registration of the other person on receipt of a record of a plea of guilty.\n\n(b) The department may not suspend the driver’s license and vehicle registration of an owner under this section if the owner files and maintains evidence of financial responsibility with the department for each motor vehicle registered in the name of the owner.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall suspend the driver’s license and vehicle registrations of the owner of a motor vehicle that was used with the owner’s consent by another person at the time of an offense resulting in conviction or a plea of guilty, if under state law the department:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "suspends or revokes the driver’s license of the other person on receipt of a record of a conviction; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "suspends the vehicle registration of the other person on receipt of a record of a plea of guilty.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The department may not suspend the driver’s license and vehicle registration of an owner under this section if the owner files and maintains evidence of financial responsibility with the department for each motor vehicle registered in the name of the owner.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_601.338",
+  "source_path": "data/raw/tx_public_law/TN/601.338.html",
+  "content_sha256": "9440017d794fdad2100a7a7e8ccf70d9193ca34b2ccbfc1288151bf1f2d45d93",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

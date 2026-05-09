@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "680.011",
+  "section_name": "Definitions",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "680",
+  "chapter_title": "Misc. Provisions",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "In this subchapter:\n\n(1) “Motorcycle” has the meaning assigned by Section 502.001 (Definitions) and includes a motorcycle equipped with a sidecar.\n\n(2) “Preferential lane” means a traffic lane on a street or highway where motor vehicle usage is limited to:\n\n(A) buses;\n\n(B) vehicles occupied by a minimum number of persons; or\n\n(C) car pool vehicles.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 680. Misc. Provisions\n##### § 680.011 — Definitions\n\nIn this subchapter:\n\n    (1) “Motorcycle” has the meaning assigned by Section 502.001 (Definitions) and includes a motorcycle equipped with a sidecar.\n\n    (2) “Preferential lane” means a traffic lane on a street or highway where motor vehicle usage is limited to:\n\n        (A) buses;\n\n        (B) vehicles occupied by a minimum number of persons; or\n\n        (C) car pool vehicles.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In this subchapter:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "“Motorcycle” has the meaning assigned by Section 502.001 (Definitions) and includes a motorcycle equipped with a sidecar.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "“Preferential lane” means a traffic lane on a street or highway where motor vehicle usage is limited to:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "buses;",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "vehicles occupied by a minimum number of persons; or",
+      "depth_em": 2.0
+    },
+    {
+      "label": "C",
+      "text": "car pool vehicles.",
+      "depth_em": 2.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_680.011",
+  "source_path": "data/raw/tx_public_law/TN/680.011.html",
+  "content_sha256": "5d0981d7cd10cb2a6bbade3548507b19b15e40cd173936a5df9efdcb33ab9c26",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

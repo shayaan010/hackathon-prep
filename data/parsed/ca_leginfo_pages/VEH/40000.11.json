@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "40000.11",
+  "section_name": null,
   "division": "17",
   "division_title": "OFFENSES AND PROSECUTION",
   "division_range": "40000.1 - 41610",
@@ -112,6 +113,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=40000.11.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/40000.11.html",
   "content_sha256": "5a3ff5c14f3c3f01d75c25d668c3267ddd0241d24ae6d32645164c4a70cc56f8",
-  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parsed_at": "2026-05-09T18:32:22+00:00",
   "parser_version": "1"
 }

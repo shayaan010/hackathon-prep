@@ -1,0 +1,83 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "681.0031",
+  "section_name": "Applicant’s Identification",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "681",
+  "chapter_title": "Privileged Parking",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The applicant shall include on the application the applicant’s:\n\n(1) driver’s license number or the number of a personal identification card issued to the applicant under Chapter 521 (Driver’s Licenses and Certificates) ;\n\n(2) military identification number; or\n\n(3) driver’s license number of a driver’s license issued by another state or country if the applicant is not a resident of this state and is seeking medical treatment in this state.\n\n(b) The county assessor-collector shall record on any disabled parking placard issued to the applicant the following information in the following order:\n\n(1) the county number assigned by the comptroller to the county issuing the placard;\n\n(2) the first four digits of the applicant’s driver’s license number, personal identification card number, or military identification number; and\n\n(3) the applicant’s initials.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 681. Privileged Parking\n##### § 681.0031 — Applicant’s Identification\n\n(a) The applicant shall include on the application the applicant’s:\n\n    (1) driver’s license number or the number of a personal identification card issued to the applicant under Chapter 521 (Driver’s Licenses and Certificates) ;\n\n    (2) military identification number; or\n\n    (3) driver’s license number of a driver’s license issued by another state or country if the applicant is not a resident of this state and is seeking medical treatment in this state.\n\n(b) The county assessor-collector shall record on any disabled parking placard issued to the applicant the following information in the following order:\n\n    (1) the county number assigned by the comptroller to the county issuing the placard;\n\n    (2) the first four digits of the applicant’s driver’s license number, personal identification card number, or military identification number; and\n\n    (3) the applicant’s initials.\n\n*Acts 2013, 83rd Leg., R.S., Ch. 1135 (H.B.2741), Sec. 129, eff. September 1, 2013.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The applicant shall include on the application the applicant’s:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "driver’s license number or the number of a personal identification card issued to the applicant under Chapter 521 (Driver’s Licenses and Certificates) ;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "military identification number; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "driver’s license number of a driver’s license issued by another state or country if the applicant is not a resident of this state and is seeking medical treatment in this state.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The county assessor-collector shall record on any disabled parking placard issued to the applicant the following information in the following order:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the county number assigned by the comptroller to the county issuing the placard;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the first four digits of the applicant’s driver’s license number, personal identification card number, or military identification number; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "the applicant’s initials.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2013, 83rd Leg., R.S., Ch. 1135 (H.B.2741), Sec. 129, eff. September 1, 2013.",
+    "action": null,
+    "statutes_year": 2013,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2013-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_681.0031",
+  "source_path": "data/raw/tx_public_law/TN/681.0031.html",
+  "content_sha256": "e95c9aa286b5b68509e8169bff8134069e7263e0fc8a72a4763c7f6944eecc0b",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

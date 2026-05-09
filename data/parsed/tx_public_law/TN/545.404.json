@@ -1,0 +1,88 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "545.404",
+  "section_name": "Unattended Motor Vehicle",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "545",
+  "chapter_title": "Operation & Movement of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Except as provided by Subsection (b), an operator may not leave a vehicle unattended without:\n\n(1) stopping the engine;\n\n(2) locking the ignition;\n\n(3) removing the key from the ignition;\n\n(4) setting the parking brake effectively; and\n\n(5) if standing on a grade, turning the front wheels to the curb or side of the highway.\n\n(b) The requirements of Subsections (a)(1), (2), and (3) do not apply to an operator who starts the engine of a vehicle by using a remote starter or other similar device that:\n\n(1) remotely starts the vehicle’s engine without placing the key in the ignition; and\n\n(2) requires the key to be placed in the ignition or physically present in the vehicle before the vehicle can be operated.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 545. Operation & Movement of Vehicles\n##### § 545.404 — Unattended Motor Vehicle\n\n(a) Except as provided by Subsection (b), an operator may not leave a vehicle unattended without:\n\n    (1) stopping the engine;\n\n    (2) locking the ignition;\n\n    (3) removing the key from the ignition;\n\n    (4) setting the parking brake effectively; and\n\n    (5) if standing on a grade, turning the front wheels to the curb or side of the highway.\n\n(b) The requirements of Subsections (a)(1), (2), and (3) do not apply to an operator who starts the engine of a vehicle by using a remote starter or other similar device that:\n\n    (1) remotely starts the vehicle’s engine without placing the key in the ignition; and\n\n    (2) requires the key to be placed in the ignition or physically present in the vehicle before the vehicle can be operated.\n\n*Acts 2015, 84th Leg., R.S., Ch. 1066 (H.B.2194), Sec. 1, eff. June 19, 2015.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided by Subsection (b), an operator may not leave a vehicle unattended without:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "stopping the engine;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "locking the ignition;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "removing the key from the ignition;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "setting the parking brake effectively; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "if standing on a grade, turning the front wheels to the curb or side of the highway.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The requirements of Subsections (a)(1), (2), and (3) do not apply to an operator who starts the engine of a vehicle by using a remote starter or other similar device that:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "remotely starts the vehicle’s engine without placing the key in the ignition; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "requires the key to be placed in the ignition or physically present in the vehicle before the vehicle can be operated.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2015, 84th Leg., R.S., Ch. 1066 (H.B.2194), Sec. 1, eff. June 19, 2015.",
+    "action": null,
+    "statutes_year": 2015,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2015-06-19",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_545.404",
+  "source_path": "data/raw/tx_public_law/TN/545.404.html",
+  "content_sha256": "f43ee5e11eb5849c2c5782373058458972296bf2158104fa1e69f6b28569e5bf",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "621.201",
+  "section_name": "Maximum Width",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "621",
+  "chapter_title": "Gen. Provisions Relating to Vehicle Size & Weight",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The total width of a vehicle operated on a public highway other than a vehicle to which Subsection (b) applies, including a load on the vehicle but excluding any safety device determined by the United States Department of Transportation or the Texas Department of Public Safety to be necessary for the safe and efficient operation of motor vehicles of that type, may not be greater than 102 inches.\n\n(b) The total width of a passenger vehicle and its load may not be greater than eight feet. This subsection does not apply to a motor bus or trolley bus operated exclusively in the territory of a municipality, in suburbs contiguous to the municipality, or in the county in which the municipality is located.\n\n(c) A passenger vehicle may not carry a load extending more than three inches beyond the left side line of its fenders or more than six inches beyond the right side line of its fenders.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 621. Gen. Provisions Relating to Vehicle Size & Weight\n##### § 621.201 — Maximum Width\n\n(a) The total width of a vehicle operated on a public highway other than a vehicle to which Subsection (b) applies, including a load on the vehicle but excluding any safety device determined by the United States Department of Transportation or the Texas Department of Public Safety to be necessary for the safe and efficient operation of motor vehicles of that type, may not be greater than 102 inches.\n\n(b) The total width of a passenger vehicle and its load may not be greater than eight feet. This subsection does not apply to a motor bus or trolley bus operated exclusively in the territory of a municipality, in suburbs contiguous to the municipality, or in the county in which the municipality is located.\n\n(c) A passenger vehicle may not carry a load extending more than three inches beyond the left side line of its fenders or more than six inches beyond the right side line of its fenders.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The total width of a vehicle operated on a public highway other than a vehicle to which Subsection (b) applies, including a load on the vehicle but excluding any safety device determined by the United States Department of Transportation or the Texas Department of Public Safety to be necessary for the safe and efficient operation of motor vehicles of that type, may not be greater than 102 inches.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The total width of a passenger vehicle and its load may not be greater than eight feet. This subsection does not apply to a motor bus or trolley bus operated exclusively in the territory of a municipality, in suburbs contiguous to the municipality, or in the county in which the municipality is located.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A passenger vehicle may not carry a load extending more than three inches beyond the left side line of its fenders or more than six inches beyond the right side line of its fenders.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_621.201",
+  "source_path": "data/raw/tx_public_law/TN/621.201.html",
+  "content_sha256": "156c0f676f51342346833a23470267afee6e3ba39daffdb52136bc73c7ab9f2f",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

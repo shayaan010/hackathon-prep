@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "1125",
+  "section_name": "Further limitations on driving to left of center of roadway",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "25",
+  "article_title": "Driving On Right Side of Roadway, Overtaking & Passing, Etc",
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) No vehicle shall at any time be driven to the left side of the roadway under the following conditions:\n\n(1) When approaching the crest of a grade or upon a curve in the highway where the driver’s view is obstructed within such distance as to create a hazard in the event another vehicle might approach from the opposite direction;\n\n(2) When approaching within one hundred feet of or traversing any railroad grade crossing;\n\n(3) When the view is obstructed upon approaching within one hundred feet of any bridge, viaduct, or tunnel.\n\n(b) The foregoing limitations shall not apply upon a one-way roadway nor to a vehicle in any lane which is at the time allocated exclusively to traffic moving in the direction the vehicle is proceeding and is marked to give notice of such allocation.",
+  "markdown": "# Vehicle & Traffic Law\n## Title 7\n#### Article 25. Driving On Right Side of Roadway, Overtaking & Passing, Etc\n##### § 1125 — Further limitations on driving to left of center of roadway\n\n(a) No vehicle shall at any time be driven to the left side of the roadway under the following conditions:\n\n    (1) When approaching the crest of a grade or upon a curve in the highway where the driver’s view is obstructed within such distance as to create a hazard in the event another vehicle might approach from the opposite direction;\n\n    (2) When approaching within one hundred feet of or traversing any railroad grade crossing;\n\n    (3) When the view is obstructed upon approaching within one hundred feet of any bridge, viaduct, or tunnel.\n\n(b) The foregoing limitations shall not apply upon a one-way roadway nor to a vehicle in any lane which is at the time allocated exclusively to traffic moving in the direction the vehicle is proceeding and is marked to give notice of such allocation.\n\n*Last modified: Sep. 22, 2014*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No vehicle shall at any time be driven to the left side of the roadway under the following conditions:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "When approaching the crest of a grade or upon a curve in the highway where the driver’s view is obstructed within such distance as to create a hazard in the event another vehicle might approach from the opposite direction;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "When approaching within one hundred feet of or traversing any railroad grade crossing;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "When the view is obstructed upon approaching within one hundred feet of any bridge, viaduct, or tunnel.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The foregoing limitations shall not apply upon a one-way roadway nor to a vehicle in any lane which is at the time allocated exclusively to traffic moving in the direction the vehicle is proceeding and is marked to give notice of such allocation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Sep. 22, 2014",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2014-09-22",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_1125",
+  "source_path": "data/raw/ny_public_law/VAT/1125.html",
+  "content_sha256": "ceef7cb0369a6f5998f3327767a386fd2f78533bf996bcb89264f37b9e81ab78",
+  "parsed_at": "2026-05-09T18:32:24+00:00",
+  "parser_version": "1"
+}

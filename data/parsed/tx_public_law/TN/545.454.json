@@ -1,0 +1,78 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "545.454",
+  "section_name": "Automated Motor Vehicle Operation",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "545",
+  "chapter_title": "Operation & Movement of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) An automated motor vehicle may operate in this state with the automated driving system engaged, regardless of whether a human operator is physically present in the vehicle.\n\n(b) An automated motor vehicle may not operate on a highway in this state with the automated driving system engaged unless the vehicle is:\n\n(1) capable of operating in compliance with applicable traffic and motor vehicle laws of this state, subject to this subchapter;\n\n(2) equipped with a recording device, as defined by Section 547.615 (Recording Devices) (a), installed by the manufacturer of the automated motor vehicle or automated driving system;\n\n(3) equipped with an automated driving system in compliance with applicable federal law and federal motor vehicle safety standards;\n\n(4) registered and titled in accordance with the laws of this state; and\n\n(5) covered by motor vehicle liability coverage or self-insurance in an amount equal to the amount of coverage that is required under the laws of this state.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 545. Operation & Movement of Vehicles\n##### § 545.454 — Automated Motor Vehicle Operation\n\n(a) An automated motor vehicle may operate in this state with the automated driving system engaged, regardless of whether a human operator is physically present in the vehicle.\n\n(b) An automated motor vehicle may not operate on a highway in this state with the automated driving system engaged unless the vehicle is:\n\n    (1) capable of operating in compliance with applicable traffic and motor vehicle laws of this state, subject to this subchapter;\n\n    (2) equipped with a recording device, as defined by Section 547.615 (Recording Devices) (a), installed by the manufacturer of the automated motor vehicle or automated driving system;\n\n    (3) equipped with an automated driving system in compliance with applicable federal law and federal motor vehicle safety standards;\n\n    (4) registered and titled in accordance with the laws of this state; and\n\n    (5) covered by motor vehicle liability coverage or self-insurance in an amount equal to the amount of coverage that is required under the laws of this state.\n\n*Added by Acts 2017, 85th Leg., R.S., Ch. 973 (S.B.2205), Sec. 1, eff. September 1, 2017.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "An automated motor vehicle may operate in this state with the automated driving system engaged, regardless of whether a human operator is physically present in the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An automated motor vehicle may not operate on a highway in this state with the automated driving system engaged unless the vehicle is:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "capable of operating in compliance with applicable traffic and motor vehicle laws of this state, subject to this subchapter;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "equipped with a recording device, as defined by Section 547.615 (Recording Devices) (a), installed by the manufacturer of the automated motor vehicle or automated driving system;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "equipped with an automated driving system in compliance with applicable federal law and federal motor vehicle safety standards;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "registered and titled in accordance with the laws of this state; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "covered by motor vehicle liability coverage or self-insurance in an amount equal to the amount of coverage that is required under the laws of this state.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2017, 85th Leg., R.S., Ch. 973 (S.B.2205), Sec. 1, eff. September 1, 2017.",
+    "action": "Added",
+    "statutes_year": 2017,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2017-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_545.454",
+  "source_path": "data/raw/tx_public_law/TN/545.454.html",
+  "content_sha256": "3194442e43c9891fb18db39ac409acc1ae9647a45472737a42d7017e3000723f",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

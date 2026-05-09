@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.0485",
+  "section_name": "Requests for Information by Mail or Electronic Means",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department by rule may provide that the holder of a driver’s license issued by the department may submit a request for information under Sections 521.045-521.048 by mail, by telephone, over the Internet, or by other electronic means.\n\n(b) A rule adopted under Subsection (a):\n\n(1) may prescribe eligibility standards for release of the requested information; and\n\n(2) may not conflict with any provision of this chapter or another law that relates to the release of the information by the department.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.0485 — Requests for Information by Mail or Electronic Means\n\n(a) The department by rule may provide that the holder of a driver’s license issued by the department may submit a request for information under Sections 521.045-521.048 by mail, by telephone, over the Internet, or by other electronic means.\n\n(b) A rule adopted under Subsection (a):\n\n    (1) may prescribe eligibility standards for release of the requested information; and\n\n    (2) may not conflict with any provision of this chapter or another law that relates to the release of the information by the department.\n\n*Added by Acts 2001, 77th Leg., ch. 866, Sec. 1, eff. Sept. 1, 2001.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department by rule may provide that the holder of a driver’s license issued by the department may submit a request for information under Sections 521.045-521.048 by mail, by telephone, over the Internet, or by other electronic means.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A rule adopted under Subsection (a):",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "may prescribe eligibility standards for release of the requested information; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "may not conflict with any provision of this chapter or another law that relates to the release of the information by the department.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2001, 77th Leg., ch. 866, Sec. 1, eff. Sept. 1, 2001.",
+    "action": "Added",
+    "statutes_year": 2001,
+    "chapter": "866",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2001-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.0485",
+  "source_path": "data/raw/tx_public_law/TN/521.0485.html",
+  "content_sha256": "e72b427cb85009d17905a31823ec9ac4263cbaa2a0fd4d9539ec2521e9c67e0d",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

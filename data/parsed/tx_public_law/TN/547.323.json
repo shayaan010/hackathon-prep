@@ -1,0 +1,83 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.323",
+  "section_name": "Stoplamps Required",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Except as provided by Subsection (b), a motor vehicle, trailer, semitrailer, or pole trailer shall be equipped with at least two stoplamps.\n\n(b) A passenger car manufactured or assembled before the model year 1960 shall be equipped with at least one stoplamp.\n\n(c) A stoplamp shall be mounted on the rear of the vehicle.\n\n(d) A stoplamp shall emit a red or amber light, or a color between red and amber, that is:\n\n(1) visible in normal sunlight at a distance of at least 300 feet from the rear of the vehicle; and\n\n(2) displayed when the vehicle service brake is applied.\n\n(e) If vehicles are traveling in combination, only the stoplamps on the rearmost vehicle are required to emit a light for the distance specified in Subsection (d).\n\n(f) A stoplamp may be included as a part of another rear lamp.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.323 — Stoplamps Required\n\n(a) Except as provided by Subsection (b), a motor vehicle, trailer, semitrailer, or pole trailer shall be equipped with at least two stoplamps.\n\n(b) A passenger car manufactured or assembled before the model year 1960 shall be equipped with at least one stoplamp.\n\n(c) A stoplamp shall be mounted on the rear of the vehicle.\n\n(d) A stoplamp shall emit a red or amber light, or a color between red and amber, that is:\n\n    (1) visible in normal sunlight at a distance of at least 300 feet from the rear of the vehicle; and\n\n    (2) displayed when the vehicle service brake is applied.\n\n(e) If vehicles are traveling in combination, only the stoplamps on the rearmost vehicle are required to emit a light for the distance specified in Subsection (d).\n\n(f) A stoplamp may be included as a part of another rear lamp.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided by Subsection (b), a motor vehicle, trailer, semitrailer, or pole trailer shall be equipped with at least two stoplamps.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A passenger car manufactured or assembled before the model year 1960 shall be equipped with at least one stoplamp.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A stoplamp shall be mounted on the rear of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "A stoplamp shall emit a red or amber light, or a color between red and amber, that is:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "visible in normal sunlight at a distance of at least 300 feet from the rear of the vehicle; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "displayed when the vehicle service brake is applied.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "e",
+      "text": "If vehicles are traveling in combination, only the stoplamps on the rearmost vehicle are required to emit a light for the distance specified in Subsection (d).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "f",
+      "text": "A stoplamp may be included as a part of another rear lamp.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.323",
+  "source_path": "data/raw/tx_public_law/TN/547.323.html",
+  "content_sha256": "b7c83962c05e9c34bcf0d02f4d2ab93ba0dd2fb60c0f22a73571de18f8ab9920",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

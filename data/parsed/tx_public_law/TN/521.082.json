@@ -1,0 +1,78 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.082",
+  "section_name": "Class B License",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A Class B driver’s license authorizes the holder of the license to operate:\n\n(1) a vehicle with a gross vehicle weight rating that is more than 26,000 pounds;\n\n(2) a vehicle with a gross vehicle weight rating of 26,000 pounds or more towing:\n\n(A) a vehicle, other than a farm trailer, with a gross vehicle weight rating that is not more than 10,000 pounds; or\n\n(B) a farm trailer with a gross vehicle weight rating that is not more than 20,000 pounds; and\n\n(3) a bus with a seating capacity of 24 passengers or more.\n\n(b) For the purposes of Subsection (a)(3), seating capacity is computed in accordance with Section 502.253 , except that the operator’s seat is included in the computation.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.082 — Class B License\n\n(a) A Class B driver’s license authorizes the holder of the license to operate:\n\n    (1) a vehicle with a gross vehicle weight rating that is more than 26,000 pounds;\n\n    (2) a vehicle with a gross vehicle weight rating of 26,000 pounds or more towing:\n\n        (A) a vehicle, other than a farm trailer, with a gross vehicle weight rating that is not more than 10,000 pounds; or\n\n        (B) a farm trailer with a gross vehicle weight rating that is not more than 20,000 pounds; and\n\n    (3) a bus with a seating capacity of 24 passengers or more.\n\n(b) For the purposes of Subsection (a)(3), seating capacity is computed in accordance with Section 502.253 , except that the operator’s seat is included in the computation.\n\n*Acts 2013, 83rd Leg., R.S., Ch. 161 (S.B.1093), Sec. 20.017, eff. September 1, 2013.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A Class B driver’s license authorizes the holder of the license to operate:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "a vehicle with a gross vehicle weight rating that is more than 26,000 pounds;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a vehicle with a gross vehicle weight rating of 26,000 pounds or more towing:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "a vehicle, other than a farm trailer, with a gross vehicle weight rating that is not more than 10,000 pounds; or",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "a farm trailer with a gross vehicle weight rating that is not more than 20,000 pounds; and",
+      "depth_em": 2.0
+    },
+    {
+      "label": "3",
+      "text": "a bus with a seating capacity of 24 passengers or more.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "For the purposes of Subsection (a)(3), seating capacity is computed in accordance with Section 502.253 , except that the operator’s seat is included in the computation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2013, 83rd Leg., R.S., Ch. 161 (S.B.1093), Sec. 20.017, eff. September 1, 2013.",
+    "action": null,
+    "statutes_year": 2013,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2013-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.082",
+  "source_path": "data/raw/tx_public_law/TN/521.082.html",
+  "content_sha256": "e110e91b3b8bb7341f2ad57cc1cbf3bf70af8d08fad8cdfc1298dcbb0065c032",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

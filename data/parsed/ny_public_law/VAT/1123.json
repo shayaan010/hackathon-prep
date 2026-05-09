@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "1123",
+  "section_name": "When overtaking on the right is permitted",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "25",
+  "article_title": "Driving On Right Side of Roadway, Overtaking & Passing, Etc",
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The driver of a vehicle may overtake and pass upon the right of another vehicle only under the following conditions:\n\n(1) When the vehicle overtaken is making or about to make a left turn;\n\n(2) Upon a street or highway with unobstructed pavement not occupied by parked vehicles of sufficient width for two or more lines of moving vehicles in each direction;\n\n(3) Upon a one-way street, or upon any roadway on which traffic is restricted to one direction of movement, where the roadway is free from obstructions and of sufficient width for two or more lines of moving vehicles.\n\n(b) The driver of a vehicle may overtake and pass another vehicle upon the right only under conditions permitting such movement in safety. Such movement shall not be made by driving off the pavement or main-traveled portion of the roadway, except as permitted by § 1131 (Driving on shoulders and slopes) .",
+  "markdown": "# Vehicle & Traffic Law\n## Title 7\n#### Article 25. Driving On Right Side of Roadway, Overtaking & Passing, Etc\n##### § 1123 — When overtaking on the right is permitted\n\n(a) The driver of a vehicle may overtake and pass upon the right of another vehicle only under the following conditions:\n\n    (1) When the vehicle overtaken is making or about to make a left turn;\n\n    (2) Upon a street or highway with unobstructed pavement not occupied by parked vehicles of sufficient width for two or more lines of moving vehicles in each direction;\n\n    (3) Upon a one-way street, or upon any roadway on which traffic is restricted to one direction of movement, where the roadway is free from obstructions and of sufficient width for two or more lines of moving vehicles.\n\n(b) The driver of a vehicle may overtake and pass another vehicle upon the right only under conditions permitting such movement in safety. Such movement shall not be made by driving off the pavement or main-traveled portion of the roadway, except as permitted by § 1131 (Driving on shoulders and slopes) .\n\n*Last modified: Sep. 22, 2014*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The driver of a vehicle may overtake and pass upon the right of another vehicle only under the following conditions:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "When the vehicle overtaken is making or about to make a left turn;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Upon a street or highway with unobstructed pavement not occupied by parked vehicles of sufficient width for two or more lines of moving vehicles in each direction;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Upon a one-way street, or upon any roadway on which traffic is restricted to one direction of movement, where the roadway is free from obstructions and of sufficient width for two or more lines of moving vehicles.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The driver of a vehicle may overtake and pass another vehicle upon the right only under conditions permitting such movement in safety. Such movement shall not be made by driving off the pavement or main-traveled portion of the roadway, except as permitted by § 1131 (Driving on shoulders and slopes) .",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Sep. 22, 2014",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2014-09-22",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_1123",
+  "source_path": "data/raw/ny_public_law/VAT/1123.html",
+  "content_sha256": "4b29beb10a9c478802285c148207b22bed28b74eafb4eeeb009c2e3ecddaa5fa",
+  "parsed_at": "2026-05-09T18:32:24+00:00",
+  "parser_version": "1"
+}

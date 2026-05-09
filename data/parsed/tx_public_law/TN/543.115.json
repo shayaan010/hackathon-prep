@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "543.115",
+  "section_name": "Fees for Driving Safety Course",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "543",
+  "chapter_title": "Arrest & Prosecution of Violators",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A driving safety course may not be provided to a student for less than $25.\n\n(b) A course provider shall charge each student a fee for course materials and for overseeing and administering the course. The fee may not be less than $3.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 543. Arrest & Prosecution of Violators\n##### § 543.115 — Fees for Driving Safety Course\n\n(a) A driving safety course may not be provided to a student for less than $25.\n\n(b) A course provider shall charge each student a fee for course materials and for overseeing and administering the course. The fee may not be less than $3.\n\n*Added by Acts 1997, 75th Leg., ch. 165, Sec. 30.106(g), eff. Sept. 1, 1997.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A driving safety course may not be provided to a student for less than $25.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A course provider shall charge each student a fee for course materials and for overseeing and administering the course. The fee may not be less than $3.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 1997, 75th Leg., ch. 165, Sec. 30.106(g), eff. Sept. 1, 1997.",
+    "action": "Added",
+    "statutes_year": 1997,
+    "chapter": "165",
+    "section": "30.106",
+    "bill_number": null,
+    "effective_date": "1997-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_543.115",
+  "source_path": "data/raw/tx_public_law/TN/543.115.html",
+  "content_sha256": "fe6146fe9a88eb9edd487c08e05f1c4bd4475d3435737d48525dfa2de1604287",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

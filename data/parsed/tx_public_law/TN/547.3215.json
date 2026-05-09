@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.3215",
+  "section_name": "Use of Federal Standard",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "Unless specifically prohibited by this chapter, lighting, reflective devices, and associated equipment on a vehicle or motor vehicle must comply with:\n\n(1) the current federal standards in 49 C.F.R. Section 571.108; or\n\n(2) the federal standards in that section in effect, if any, at the time the vehicle or motor vehicle was manufactured.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.3215 — Use of Federal Standard\n\nUnless specifically prohibited by this chapter, lighting, reflective devices, and associated equipment on a vehicle or motor vehicle must comply with:\n\n    (1) the current federal standards in 49 C.F.R. Section 571.108; or\n\n    (2) the federal standards in that section in effect, if any, at the time the vehicle or motor vehicle was manufactured.\n\n*Added by Acts 1997, 75th Leg., ch. 324, Sec. 1, eff. Sept. 1, 1997.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Unless specifically prohibited by this chapter, lighting, reflective devices, and associated equipment on a vehicle or motor vehicle must comply with:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the current federal standards in 49 C.F.R. Section 571.108; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the federal standards in that section in effect, if any, at the time the vehicle or motor vehicle was manufactured.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 1997, 75th Leg., ch. 324, Sec. 1, eff. Sept. 1, 1997.",
+    "action": "Added",
+    "statutes_year": 1997,
+    "chapter": "324",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1997-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.3215",
+  "source_path": "data/raw/tx_public_law/TN/547.3215.html",
+  "content_sha256": "f1b58f09c5d8617cdd5bd6ca85f61db7c23dbc5dc40b3043efc8e56853ecd8d5",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

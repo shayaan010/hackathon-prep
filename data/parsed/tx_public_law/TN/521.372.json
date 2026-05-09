@@ -1,0 +1,83 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.372",
+  "section_name": "Suspension or License Denial",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person’s driver’s license is automatically suspended on final conviction of:\n\n(1) an offense under the Controlled Substances Act;\n\n(2) a felony drug offense;\n\n(3) a misdemeanor drug offense, if the person has been previously convicted of a drug offense committed less than 36 months before the commission of the instant offense; or\n\n(4) a felony under Chapter 481 (Texas Controlled Substances Act) , Health and Safety Code, that is not a drug offense.\n\n(b) The department may not issue a driver’s license to a person convicted of an offense specified in Subsection (a) who, on the date of the conviction, did not hold a driver’s license.\n\n(b-1) Except as provided by Subsection (a)(3), the court may order that the department suspend the license of a person who holds a license at the time of final conviction of a misdemeanor drug offense if the court makes a written determination that the suspension is in the interest of public safety.\n\n(c) Except as provided by Section 521.374 (Educational Program or Equivalent Education) (b), the period of suspension or license denial under this section is 90 days after the date of a final conviction.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.372 — Suspension or License Denial\n\n(a) A person’s driver’s license is automatically suspended on final conviction of:\n\n    (1) an offense under the Controlled Substances Act;\n\n    (2) a felony drug offense;\n\n    (3) a misdemeanor drug offense, if the person has been previously convicted of a drug offense committed less than 36 months before the commission of the instant offense; or\n\n    (4) a felony under Chapter 481 (Texas Controlled Substances Act) , Health and Safety Code, that is not a drug offense.\n\n(b) The department may not issue a driver’s license to a person convicted of an offense specified in Subsection (a) who, on the date of the conviction, did not hold a driver’s license.\n\n(b-1) Except as provided by Subsection (a)(3), the court may order that the department suspend the license of a person who holds a license at the time of final conviction of a misdemeanor drug offense if the court makes a written determination that the suspension is in the interest of public safety.\n\n(c) Except as provided by Section 521.374 (Educational Program or Equivalent Education) (b), the period of suspension or license denial under this section is 90 days after the date of a final conviction.\n\n*Acts 2021, 87th Leg., R.S., Ch. 543 (S.B.181), Sec. 1.03, eff. Feb. 25, 2023.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person’s driver’s license is automatically suspended on final conviction of:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "an offense under the Controlled Substances Act;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a felony drug offense;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "a misdemeanor drug offense, if the person has been previously convicted of a drug offense committed less than 36 months before the commission of the instant offense; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "a felony under Chapter 481 (Texas Controlled Substances Act) , Health and Safety Code, that is not a drug offense.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The department may not issue a driver’s license to a person convicted of an offense specified in Subsection (a) who, on the date of the conviction, did not hold a driver’s license.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b-1",
+      "text": "Except as provided by Subsection (a)(3), the court may order that the department suspend the license of a person who holds a license at the time of final conviction of a misdemeanor drug offense if the court makes a written determination that the suspension is in the interest of public safety.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Except as provided by Section 521.374 (Educational Program or Equivalent Education) (b), the period of suspension or license denial under this section is 90 days after the date of a final conviction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2021, 87th Leg., R.S., Ch. 543 (S.B.181), Sec. 1.03, eff. Feb. 25, 2023.",
+    "action": null,
+    "statutes_year": 2021,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2023-02-25",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.372",
+  "source_path": "data/raw/tx_public_law/TN/521.372.html",
+  "content_sha256": "b3d18fad909920663812e80891d637ae2315081125738d2e0561c5f190f63e5a",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

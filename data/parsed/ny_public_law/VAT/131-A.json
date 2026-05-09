@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "131-A",
+  "section_name": "Place of public assembly",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "1",
+  "article_title": "Words & Phrases Defined",
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "1",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "A place of public assembly shall include (1) a theatre, (2) a moving picture house, or\n\n(3) an assembly hall maintained or leased for pecuniary gain where one hundred or more persons may assemble for amusement or recreation.",
+  "markdown": "# Vehicle & Traffic Law\n## Title 1\n#### Article 1. Words & Phrases Defined\n##### § 131-A — Place of public assembly\n\nA place of public assembly shall include (1) a theatre, (2) a moving picture house, or\n\n(3) an assembly hall maintained or leased for pecuniary gain where one hundred or more persons may assemble for amusement or recreation.\n\n*Last modified: Sep. 22, 2014*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A place of public assembly shall include (1) a theatre, (2) a moving picture house, or",
+      "depth_em": 0.0
+    },
+    {
+      "label": "3",
+      "text": "an assembly hall maintained or leased for pecuniary gain where one hundred or more persons may assemble for amusement or recreation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Sep. 22, 2014",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2014-09-22",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_131-a",
+  "source_path": "data/raw/ny_public_law/VAT/131-A.html",
+  "content_sha256": "2342b3777c50dce13b806060c26a43f83fa4a3377fb10688ec42852839423df5",
+  "parsed_at": "2026-05-09T18:32:23+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "730.0122",
+  "section_name": "Sale Prohibited",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "730",
+  "chapter_title": "Motor Vehicle Records Disclosure Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person may not sell to a person who is not an authorized recipient personal information obtained by an agency in connection with a motor vehicle record.\n\n(b) A person commits an offense if the person violates Subsection (a). An offense under this subsection is a misdemeanor punishable by a fine not to exceed $100,000.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 730. Motor Vehicle Records Disclosure Act\n##### § 730.0122 — Sale Prohibited\n\n(a) A person may not sell to a person who is not an authorized recipient personal information obtained by an agency in connection with a motor vehicle record.\n\n(b) A person commits an offense if the person violates Subsection (a). An offense under this subsection is a misdemeanor punishable by a fine not to exceed $100,000.\n\n*Added by Acts 2021, 87th Leg., R.S., Ch. 935 (S.B.15), Sec. 9, eff. June 18, 2021.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person may not sell to a person who is not an authorized recipient personal information obtained by an agency in connection with a motor vehicle record.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person commits an offense if the person violates Subsection (a). An offense under this subsection is a misdemeanor punishable by a fine not to exceed $100,000.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2021, 87th Leg., R.S., Ch. 935 (S.B.15), Sec. 9, eff. June 18, 2021.",
+    "action": "Added",
+    "statutes_year": 2021,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2021-06-18",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_730.0122",
+  "source_path": "data/raw/tx_public_law/TN/730.0122.html",
+  "content_sha256": "4f5678f23b2ab5fceced6c3787b464de9de18ccc8ccdff0f7a29f7823a132b59",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "504.607",
+  "section_name": "Read to Succeed",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "504",
+  "chapter_title": "License Plates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department shall issue specialty license plates including the words “Read to Succeed.” The department shall design the license plates.\n\n(b) After deduction of the department’s administrative costs, the remainder of the fee shall be deposited to the credit of the “Read to Succeed” account in the general revenue fund. Money in the account may be used only to provide educational materials for public school libraries. The account is composed of:\n\n(1) money required to be deposited to the credit of the account under this subsection; and\n\n(2) donations made to the account.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 504. License Plates\n##### § 504.607 — Read to Succeed\n\n(a) The department shall issue specialty license plates including the words “Read to Succeed.” The department shall design the license plates.\n\n(b) After deduction of the department’s administrative costs, the remainder of the fee shall be deposited to the credit of the “Read to Succeed” account in the general revenue fund. Money in the account may be used only to provide educational materials for public school libraries. The account is composed of:\n\n    (1) money required to be deposited to the credit of the account under this subsection; and\n\n    (2) donations made to the account.\n\n*Added by Acts 2003, 78th Leg., ch. 1320, Sec. 6, eff. Sept. 1, 2003.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall issue specialty license plates including the words “Read to Succeed.” The department shall design the license plates.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "After deduction of the department’s administrative costs, the remainder of the fee shall be deposited to the credit of the “Read to Succeed” account in the general revenue fund. Money in the account may be used only to provide educational materials for public school libraries. The account is composed of:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "money required to be deposited to the credit of the account under this subsection; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "donations made to the account.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2003, 78th Leg., ch. 1320, Sec. 6, eff. Sept. 1, 2003.",
+    "action": "Added",
+    "statutes_year": 2003,
+    "chapter": "1320",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "2003-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_504.607",
+  "source_path": "data/raw/tx_public_law/TN/504.607.html",
+  "content_sha256": "6491a5a5de6bff31fb9fb9bb7446ab6dafec98def16ad6c5c234748b7bb0c48e",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

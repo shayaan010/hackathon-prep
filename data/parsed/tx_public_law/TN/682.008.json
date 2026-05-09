@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "682.008",
+  "section_name": "Presumptions",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "682",
+  "chapter_title": "Admin. Adjudication of Vehicle Parking & Stopping Offenses",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "In an administrative adjudication hearing under this chapter:\n\n(1) it is presumed that the registered owner of the motor vehicle is the person who parked or stopped the vehicle at the time and place of the offense charged; and\n\n(2) the Texas Department of Motor Vehicles’ computer-generated record of the registered vehicle owner is prima facie evidence of the contents of the record.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 682. Admin. Adjudication of Vehicle Parking & Stopping Offenses\n##### § 682.008 — Presumptions\n\nIn an administrative adjudication hearing under this chapter:\n\n    (1) it is presumed that the registered owner of the motor vehicle is the person who parked or stopped the vehicle at the time and place of the offense charged; and\n\n    (2) the Texas Department of Motor Vehicles’ computer-generated record of the registered vehicle owner is prima facie evidence of the contents of the record.\n\n*Acts 2009, 81st Leg., R.S., Ch. 933 (H.B.3097), Sec. 2Q.01, eff. September 1, 2009.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In an administrative adjudication hearing under this chapter:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "it is presumed that the registered owner of the motor vehicle is the person who parked or stopped the vehicle at the time and place of the offense charged; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the Texas Department of Motor Vehicles’ computer-generated record of the registered vehicle owner is prima facie evidence of the contents of the record.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2009, 81st Leg., R.S., Ch. 933 (H.B.3097), Sec. 2Q.01, eff. September 1, 2009.",
+    "action": null,
+    "statutes_year": 2009,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2009-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_682.008",
+  "source_path": "data/raw/tx_public_law/TN/682.008.html",
+  "content_sha256": "37db15a462e6f068d336fd72ce04b2ff77f57403ee4672f86e3fcc0cc27d7819",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

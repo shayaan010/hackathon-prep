@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "623.077",
+  "section_name": "Highway Maintenance Fee",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "623",
+  "chapter_title": "Permits for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) An applicant for a permit under this subchapter, other than a permit under Section 623.071 (Permit to Move Certain Equipment) (c)(3), must also pay a highway maintenance fee in an amount determined according to the following table:\n\n(b) The department shall send each fee collected under Subsection (a) to the comptroller, who shall deposit:\n\n(1) 90 percent of the fee to the credit of the state highway fund; and\n\n(2) 10 percent of the fee to the credit of the Texas Department of Motor Vehicles fund.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 623. Permits for Oversize or Overweight Vehicles\n##### § 623.077 — Highway Maintenance Fee\n\n(a) An applicant for a permit under this subchapter, other than a permit under Section 623.071 (Permit to Move Certain Equipment) (c)(3), must also pay a highway maintenance fee in an amount determined according to the following table:\n\n(b) The department shall send each fee collected under Subsection (a) to the comptroller, who shall deposit:\n\n    (1) 90 percent of the fee to the credit of the state highway fund; and\n\n    (2) 10 percent of the fee to the credit of the Texas Department of Motor Vehicles fund.\n\n*Acts 2013, 83rd Leg., R.S., Ch. 1287 (H.B.2202), Sec. 55, eff. September 1, 2013.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "An applicant for a permit under this subchapter, other than a permit under Section 623.071 (Permit to Move Certain Equipment) (c)(3), must also pay a highway maintenance fee in an amount determined according to the following table:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall send each fee collected under Subsection (a) to the comptroller, who shall deposit:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "90 percent of the fee to the credit of the state highway fund; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "10 percent of the fee to the credit of the Texas Department of Motor Vehicles fund.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2013, 83rd Leg., R.S., Ch. 1287 (H.B.2202), Sec. 55, eff. September 1, 2013.",
+    "action": null,
+    "statutes_year": 2013,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2013-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_623.077",
+  "source_path": "data/raw/tx_public_law/TN/623.077.html",
+  "content_sha256": "7695df3b39bd8ad5854d2df1df38d369876343374965ff65b953bf2d087742ba",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

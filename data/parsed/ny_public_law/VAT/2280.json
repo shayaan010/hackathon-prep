@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "2280",
+  "section_name": "Jurisdiction of department",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "48",
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "11",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) The registration of all terrain vehicles shall be under the jurisdiction of the department of motor vehicles.\n\n(2) Except as otherwise expressly provided herein, all of the provisions of this chapter shall apply to all terrain vehicles.",
+  "markdown": "# Vehicle & Traffic Law\n## Title 11\n#### Article 48\n##### § 2280 — Jurisdiction of department\n\n(1) The registration of all terrain vehicles shall be under the jurisdiction of the department of motor vehicles.\n\n(2) Except as otherwise expressly provided herein, all of the provisions of this chapter shall apply to all terrain vehicles.\n\n*Last modified: Sep. 22, 2014*\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "The registration of all terrain vehicles shall be under the jurisdiction of the department of motor vehicles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "Except as otherwise expressly provided herein, all of the provisions of this chapter shall apply to all terrain vehicles.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Sep. 22, 2014",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2014-09-22",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_2280",
+  "source_path": "data/raw/ny_public_law/VAT/2280.html",
+  "content_sha256": "f4602ec78d0311ceabdbdf41a8628c3505c92851e2d9012a7ffeca8cc255dd9b",
+  "parsed_at": "2026-05-09T18:32:25+00:00",
+  "parser_version": "1"
+}

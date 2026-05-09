@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "550.041",
+  "section_name": "Investigation by Peace Officer",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "550",
+  "chapter_title": "Collisions & Collision Reports",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A peace officer who is notified of a motor vehicle collision resulting in injury to or death of a person or property damage to an apparent extent of at least $1,000 may investigate the collision and file justifiable charges relating to the collision without regard to whether the collision occurred on property to which this chapter applies.\n\n(b) This section does not apply to:\n\n(1) a privately owned residential parking area; or\n\n(2) a privately owned parking lot where a fee is charged for parking or storing a vehicle.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 550. Collisions & Collision Reports\n##### § 550.041 — Investigation by Peace Officer\n\n(a) A peace officer who is notified of a motor vehicle collision resulting in injury to or death of a person or property damage to an apparent extent of at least $1,000 may investigate the collision and file justifiable charges relating to the collision without regard to whether the collision occurred on property to which this chapter applies.\n\n(b) This section does not apply to:\n\n    (1) a privately owned residential parking area; or\n\n    (2) a privately owned parking lot where a fee is charged for parking or storing a vehicle.\n\n*Acts 2023, 88th Leg., R.S., Ch. 709 (H.B.2190), Sec. 52, eff. September 1, 2023.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A peace officer who is notified of a motor vehicle collision resulting in injury to or death of a person or property damage to an apparent extent of at least $1,000 may investigate the collision and file justifiable charges relating to the collision without regard to whether the collision occurred on property to which this chapter applies.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "a privately owned residential parking area; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a privately owned parking lot where a fee is charged for parking or storing a vehicle.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2023, 88th Leg., R.S., Ch. 709 (H.B.2190), Sec. 52, eff. September 1, 2023.",
+    "action": null,
+    "statutes_year": 2023,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2023-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_550.041",
+  "source_path": "data/raw/tx_public_law/TN/550.041.html",
+  "content_sha256": "e785f8902eaf62f0dc4368903e50340045736863528f46e6474a34ed460f2559",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

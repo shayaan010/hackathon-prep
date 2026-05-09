@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "119-B",
+  "section_name": "Inflatable restraint system",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "1",
+  "article_title": "Words & Phrases Defined",
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "1",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) An inflatable restraint system means an air bag, as defined in subparagraph (b) of S 4.1.5.1 of standard 208 of part 571 of title 49 of the code of federal regulations, that is designed and installed to be activated in a crash.\n\n(2) Readiness indicator light means an indicator monitoring the inflatable restraint system’s readiness and such light is clearly visible from the driver’s designated seating position.",
+  "markdown": "# Vehicle & Traffic Law\n## Title 1\n#### Article 1. Words & Phrases Defined\n##### § 119-B — Inflatable restraint system\n\n(1) An inflatable restraint system means an air bag, as defined in subparagraph (b) of S 4.1.5.1 of standard 208 of part 571 of title 49 of the code of federal regulations, that is designed and installed to be activated in a crash.\n\n(2) Readiness indicator light means an indicator monitoring the inflatable restraint system’s readiness and such light is clearly visible from the driver’s designated seating position.\n\n*Last modified: Sep. 22, 2014*\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "An inflatable restraint system means an air bag, as defined in subparagraph (b) of S 4.1.5.1 of standard 208 of part 571 of title 49 of the code of federal regulations, that is designed and installed to be activated in a crash.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "Readiness indicator light means an indicator monitoring the inflatable restraint system’s readiness and such light is clearly visible from the driver’s designated seating position.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Sep. 22, 2014",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2014-09-22",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_119-b",
+  "source_path": "data/raw/ny_public_law/VAT/119-B.html",
+  "content_sha256": "6914e793c08e0a065cb87e548b89dfa731b57ca3ce3b00fd9f4ff67104914ad1",
+  "parsed_at": "2026-05-09T18:32:23+00:00",
+  "parser_version": "1"
+}

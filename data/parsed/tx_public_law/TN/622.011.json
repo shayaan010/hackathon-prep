@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "622.011",
+  "section_name": "Definition; Designation as Perishable",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "622",
+  "chapter_title": "Spec. Provisions & Exceptions for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) In this subchapter, “ready-mixed concrete truck” means:\n\n(1) a vehicle designed exclusively to transport or manufacture ready-mixed concrete and includes a vehicle designed exclusively to transport and manufacture ready-mixed concrete; or\n\n(2) a concrete pump truck.\n\n(b) Ready-mixed concrete is a perishable product.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 622. Spec. Provisions & Exceptions for Oversize or Overweight Vehicles\n##### § 622.011 — Definition; Designation as Perishable\n\n(a) In this subchapter, “ready-mixed concrete truck” means:\n\n    (1) a vehicle designed exclusively to transport or manufacture ready-mixed concrete and includes a vehicle designed exclusively to transport and manufacture ready-mixed concrete; or\n\n    (2) a concrete pump truck.\n\n(b) Ready-mixed concrete is a perishable product.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 1997, 75th Leg., ch. 165, Sec. 30.134(a), eff. Sept. 1, 1997.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In this subchapter, “ready-mixed concrete truck” means:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "a vehicle designed exclusively to transport or manufacture ready-mixed concrete and includes a vehicle designed exclusively to transport and manufacture ready-mixed concrete; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a concrete pump truck.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Ready-mixed concrete is a perishable product.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 1997, 75th Leg., ch. 165, Sec. 30.134(a), eff. Sept. 1, 1997.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_622.011",
+  "source_path": "data/raw/tx_public_law/TN/622.011.html",
+  "content_sha256": "f9957bc8e233a0662f7aed3dc213d69eb4a54f9fb401ace1b5e18a669f83e982",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

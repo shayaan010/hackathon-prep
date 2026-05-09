@@ -1,0 +1,78 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.618",
+  "section_name": "Equipment Required for Certain Automated Motor Vehicles",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) In this section, “automated motor vehicle” and “automated driving system” have the meanings assigned by Section 545.451 (Definitions) .\n\n(b) An automated motor vehicle that is designed to be operated exclusively by the automated driving system for all trips is not subject to motor vehicle equipment laws or regulations of this state that:\n\n(1) relate to or support motor vehicle operation by a human driver; and\n\n(2) are not relevant for an automated driving system.\n\n(c) If a vehicle safety inspection is required under this code for the operation of a vehicle described by Subsection (b), the vehicle shall automatically be considered to pass the inspection with respect to any equipment:\n\n(1) the requirements from which the vehicle is exempt under Subsection (b); or\n\n(2) the inspection of which is not required under Section 548.051 (Vehicles and Equipment Subject to Inspection) .",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.618 — Equipment Required for Certain Automated Motor Vehicles\n\n(a) In this section, “automated motor vehicle” and “automated driving system” have the meanings assigned by Section 545.451 (Definitions) .\n\n(b) An automated motor vehicle that is designed to be operated exclusively by the automated driving system for all trips is not subject to motor vehicle equipment laws or regulations of this state that:\n\n    (1) relate to or support motor vehicle operation by a human driver; and\n\n    (2) are not relevant for an automated driving system.\n\n(c) If a vehicle safety inspection is required under this code for the operation of a vehicle described by Subsection (b), the vehicle shall automatically be considered to pass the inspection with respect to any equipment:\n\n    (1) the requirements from which the vehicle is exempt under Subsection (b); or\n\n    (2) the inspection of which is not required under Section 548.051 (Vehicles and Equipment Subject to Inspection) .\n\n*Added by Acts 2021, 87th Leg., R.S., Ch. 892 (H.B.3026), Sec. 3, eff. September 1, 2021.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In this section, “automated motor vehicle” and “automated driving system” have the meanings assigned by Section 545.451 (Definitions) .",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An automated motor vehicle that is designed to be operated exclusively by the automated driving system for all trips is not subject to motor vehicle equipment laws or regulations of this state that:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "relate to or support motor vehicle operation by a human driver; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "are not relevant for an automated driving system.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "If a vehicle safety inspection is required under this code for the operation of a vehicle described by Subsection (b), the vehicle shall automatically be considered to pass the inspection with respect to any equipment:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the requirements from which the vehicle is exempt under Subsection (b); or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the inspection of which is not required under Section 548.051 (Vehicles and Equipment Subject to Inspection) .",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2021, 87th Leg., R.S., Ch. 892 (H.B.3026), Sec. 3, eff. September 1, 2021.",
+    "action": "Added",
+    "statutes_year": 2021,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2021-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.618",
+  "source_path": "data/raw/tx_public_law/TN/547.618.html",
+  "content_sha256": "d8c763881120cb79d3e84220dfd6b3803bfd242fdde39ed27c055c65951239d8",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

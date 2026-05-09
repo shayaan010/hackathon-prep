@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "28224",
+  "section_name": null,
   "division": "12",
   "division_title": "EQUIPMENT OF VEHICLES",
   "division_range": "24000 - 28244",
@@ -87,6 +88,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28224.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/28224.html",
   "content_sha256": "6e861199468af17fc0789cd9ebea8a9f9a6d285f76d5f37ad3a8838128cb8dad",
-  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parsed_at": "2026-05-09T18:32:21+00:00",
   "parser_version": "1"
 }

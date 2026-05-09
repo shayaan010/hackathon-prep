@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "1146-A",
+  "section_name": "Approaching horses",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "26",
+  "article_title": "Right of Way",
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(1) Notwithstanding the provisions of any other law to the contrary, every driver of a vehicle shall exercise due care to avoid colliding with any horse being ridden or led along a public highway.\n\n(2) Every driver of a vehicle shall approach a horse being ridden or led along a public highway at a reasonable and prudent speed so as to avoid frightening such horse and shall pass the horse at a reasonable distance.\n\n(3) No driver of a vehicle shall sound the horn when approaching or passing a horse on a public highway.",
+  "markdown": "# Vehicle & Traffic Law\n## Title 7\n#### Article 26. Right of Way\n##### § 1146-A — Approaching horses\n\n(1) Notwithstanding the provisions of any other law to the contrary, every driver of a vehicle shall exercise due care to avoid colliding with any horse being ridden or led along a public highway.\n\n(2) Every driver of a vehicle shall approach a horse being ridden or led along a public highway at a reasonable and prudent speed so as to avoid frightening such horse and shall pass the horse at a reasonable distance.\n\n(3) No driver of a vehicle shall sound the horn when approaching or passing a horse on a public highway.\n\n*Last modified: Sep. 22, 2014*\n",
+  "subsections": [
+    {
+      "label": "1",
+      "text": "Notwithstanding the provisions of any other law to the contrary, every driver of a vehicle shall exercise due care to avoid colliding with any horse being ridden or led along a public highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "Every driver of a vehicle shall approach a horse being ridden or led along a public highway at a reasonable and prudent speed so as to avoid frightening such horse and shall pass the horse at a reasonable distance.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "3",
+      "text": "No driver of a vehicle shall sound the horn when approaching or passing a horse on a public highway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Sep. 22, 2014",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2014-09-22",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_1146-a",
+  "source_path": "data/raw/ny_public_law/VAT/1146-A.html",
+  "content_sha256": "4f95159763012c5be246986e49cc045dd35878bfd2e8e1fc41360f1de0eed7fd",
+  "parsed_at": "2026-05-09T18:32:24+00:00",
+  "parser_version": "1"
+}

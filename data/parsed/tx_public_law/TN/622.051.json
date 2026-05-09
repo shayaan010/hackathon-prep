@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "622.051",
+  "section_name": "Length Limitation; Fee",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "622",
+  "chapter_title": "Spec. Provisions & Exceptions for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person may operate over a highway or road of this state a vehicle or combination of vehicles that is used exclusively for transporting poles required for the maintenance of electric power transmission and distribution lines if:\n\n(1) the vehicle, or combination of vehicles, is not longer than 75 feet, including the load; and\n\n(2) the operator of the vehicle, or combination of vehicles, pays to the department $120 each calendar year.\n\n(b) Subsection (a)(1) does not apply to a truck-tractor or truck-tractor combination transporting poles for the maintenance of electric power transmission or distribution lines.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 622. Spec. Provisions & Exceptions for Oversize or Overweight Vehicles\n##### § 622.051 — Length Limitation; Fee\n\n(a) A person may operate over a highway or road of this state a vehicle or combination of vehicles that is used exclusively for transporting poles required for the maintenance of electric power transmission and distribution lines if:\n\n    (1) the vehicle, or combination of vehicles, is not longer than 75 feet, including the load; and\n\n    (2) the operator of the vehicle, or combination of vehicles, pays to the department $120 each calendar year.\n\n(b) Subsection (a)(1) does not apply to a truck-tractor or truck-tractor combination transporting poles for the maintenance of electric power transmission or distribution lines.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 2001, 77th Leg., ch. 941, Sec. 37, eff. Sept. 1, 2001.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person may operate over a highway or road of this state a vehicle or combination of vehicles that is used exclusively for transporting poles required for the maintenance of electric power transmission and distribution lines if:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the vehicle, or combination of vehicles, is not longer than 75 feet, including the load; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the operator of the vehicle, or combination of vehicles, pays to the department $120 each calendar year.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Subsection (a)(1) does not apply to a truck-tractor or truck-tractor combination transporting poles for the maintenance of electric power transmission or distribution lines.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 2001, 77th Leg., ch. 941, Sec. 37, eff. Sept. 1, 2001.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_622.051",
+  "source_path": "data/raw/tx_public_law/TN/622.051.html",
+  "content_sha256": "dce12346a070b49d242754c4ae5b3697deb07e0bafca77e39dbd9330ec93e691",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

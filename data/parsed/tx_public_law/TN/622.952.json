@@ -1,0 +1,103 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "622.952",
+  "section_name": "Emergency Vehicle",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "622",
+  "chapter_title": "Spec. Provisions & Exceptions for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The weight limitations of Section 621.101 (Maximum Weight of Vehicle or Combination) do not apply to an emergency vehicle.\n\n(b) The weight of an emergency vehicle may not exceed the greater of:\n\n(1) the manufacturer’s gross vehicle weight capacity or axle design rating; or\n\n(2) including all enforcement tolerances, a:\n\n(A) gross weight of 86,000 pounds;\n\n(B) single steering axle weight of 24,000 pounds;\n\n(C) single drive axle weight of 33,500 pounds;\n\n(D) tandem axle weight of 62,000 pounds; or\n\n(E) tandem rear drive steer axle weight of 52,000 pounds.\n\n(c) In this section, “emergency vehicle” means a vehicle designed to be used under emergency conditions:\n\n(1) to transport personnel and equipment; and\n\n(2) to support the suppression of fires and mitigation of other hazardous situations.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 622. Spec. Provisions & Exceptions for Oversize or Overweight Vehicles\n##### § 622.952 — Emergency Vehicle\n\n(a) The weight limitations of Section 621.101 (Maximum Weight of Vehicle or Combination) do not apply to an emergency vehicle.\n\n(b) The weight of an emergency vehicle may not exceed the greater of:\n\n    (1) the manufacturer’s gross vehicle weight capacity or axle design rating; or\n\n    (2) including all enforcement tolerances, a:\n\n        (A) gross weight of 86,000 pounds;\n\n        (B) single steering axle weight of 24,000 pounds;\n\n        (C) single drive axle weight of 33,500 pounds;\n\n        (D) tandem axle weight of 62,000 pounds; or\n\n        (E) tandem rear drive steer axle weight of 52,000 pounds.\n\n(c) In this section, “emergency vehicle” means a vehicle designed to be used under emergency conditions:\n\n    (1) to transport personnel and equipment; and\n\n    (2) to support the suppression of fires and mitigation of other hazardous situations.\n\n*Acts 2021, 87th Leg., R.S., Ch. 411 (S.B.1815), Sec. 3, eff. September 1, 2021.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The weight limitations of Section 621.101 (Maximum Weight of Vehicle or Combination) do not apply to an emergency vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The weight of an emergency vehicle may not exceed the greater of:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the manufacturer’s gross vehicle weight capacity or axle design rating; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "including all enforcement tolerances, a:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "gross weight of 86,000 pounds;",
+      "depth_em": 2.0
+    },
+    {
+      "label": "B",
+      "text": "single steering axle weight of 24,000 pounds;",
+      "depth_em": 2.0
+    },
+    {
+      "label": "C",
+      "text": "single drive axle weight of 33,500 pounds;",
+      "depth_em": 2.0
+    },
+    {
+      "label": "D",
+      "text": "tandem axle weight of 62,000 pounds; or",
+      "depth_em": 2.0
+    },
+    {
+      "label": "E",
+      "text": "tandem rear drive steer axle weight of 52,000 pounds.",
+      "depth_em": 2.0
+    },
+    {
+      "label": "c",
+      "text": "In this section, “emergency vehicle” means a vehicle designed to be used under emergency conditions:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "to transport personnel and equipment; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "to support the suppression of fires and mitigation of other hazardous situations.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2021, 87th Leg., R.S., Ch. 411 (S.B.1815), Sec. 3, eff. September 1, 2021.",
+    "action": null,
+    "statutes_year": 2021,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2021-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_622.952",
+  "source_path": "data/raw/tx_public_law/TN/622.952.html",
+  "content_sha256": "d1f65ea7612a832684e1334e7ffdab76e3f9652ddf99024f8af084a9b4879669",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

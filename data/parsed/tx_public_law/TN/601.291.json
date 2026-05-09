@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "601.291",
+  "section_name": "Applicability of Subchapter",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "601",
+  "chapter_title": "Motor Vehicle Safety Responsibility Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "This subchapter applies only to the owner or operator of a motor vehicle that:\n\n(1) is not registered in this state; and\n\n(2) is involved in a motor vehicle collision in this state that results in bodily injury, death, or damage to the property of one person to an apparent extent of at least $500.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 601. Motor Vehicle Safety Responsibility Act\n##### § 601.291 — Applicability of Subchapter\n\nThis subchapter applies only to the owner or operator of a motor vehicle that:\n\n    (1) is not registered in this state; and\n\n    (2) is involved in a motor vehicle collision in this state that results in bodily injury, death, or damage to the property of one person to an apparent extent of at least $500.\n\n*Acts 2023, 88th Leg., R.S., Ch. 709 (H.B.2190), Sec. 86, eff. September 1, 2023.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "This subchapter applies only to the owner or operator of a motor vehicle that:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "is not registered in this state; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "is involved in a motor vehicle collision in this state that results in bodily injury, death, or damage to the property of one person to an apparent extent of at least $500.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2023, 88th Leg., R.S., Ch. 709 (H.B.2190), Sec. 86, eff. September 1, 2023.",
+    "action": null,
+    "statutes_year": 2023,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2023-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_601.291",
+  "source_path": "data/raw/tx_public_law/TN/601.291.html",
+  "content_sha256": "03fb12fcbca9d50e9c53bc9ecfcebf0a2fdb55cf1673f2cd45e05453dd8460e7",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

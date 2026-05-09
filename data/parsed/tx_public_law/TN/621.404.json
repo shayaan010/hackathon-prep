@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "621.404",
+  "section_name": "Unloading Vehicle if Axle Weight Exceeded",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "621",
+  "chapter_title": "Gen. Provisions Relating to Vehicle Size & Weight",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) If the axle weight of a motor vehicle weighed under Section 621.402 (Weighing Loaded Vehicle) is heavier than the maximum axle weight authorized by law for the vehicle plus a tolerance allowance equal to five percent of that maximum weight, the weight enforcement officer shall require the operator or owner of the vehicle to rearrange the vehicle’s cargo, if possible, to bring the vehicle’s axles within the maximum axle weight allowed by law for that vehicle. If the requirement cannot be satisfied by rearrangement of cargo, a part of the vehicle’s load shall be unloaded to decrease the axle weight to a weight that is not heavier than the maximum axle weight allowed by law for the vehicle plus the applicable tolerance allowance.\n\n(b) The vehicle may not be operated further over the public highways or roads of the state until the axle weight of the vehicle has been reduced as required by Subsection (a).",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 621. Gen. Provisions Relating to Vehicle Size & Weight\n##### § 621.404 — Unloading Vehicle if Axle Weight Exceeded\n\n(a) If the axle weight of a motor vehicle weighed under Section 621.402 (Weighing Loaded Vehicle) is heavier than the maximum axle weight authorized by law for the vehicle plus a tolerance allowance equal to five percent of that maximum weight, the weight enforcement officer shall require the operator or owner of the vehicle to rearrange the vehicle’s cargo, if possible, to bring the vehicle’s axles within the maximum axle weight allowed by law for that vehicle. If the requirement cannot be satisfied by rearrangement of cargo, a part of the vehicle’s load shall be unloaded to decrease the axle weight to a weight that is not heavier than the maximum axle weight allowed by law for the vehicle plus the applicable tolerance allowance.\n\n(b) The vehicle may not be operated further over the public highways or roads of the state until the axle weight of the vehicle has been reduced as required by Subsection (a).\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 2001, 77th Leg., ch. 941, Sec. 21, eff. Sept. 1, 2001.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If the axle weight of a motor vehicle weighed under Section 621.402 (Weighing Loaded Vehicle) is heavier than the maximum axle weight authorized by law for the vehicle plus a tolerance allowance equal to five percent of that maximum weight, the weight enforcement officer shall require the operator or owner of the vehicle to rearrange the vehicle’s cargo, if possible, to bring the vehicle’s axles within the maximum axle weight allowed by law for that vehicle. If the requirement cannot be satisfied by rearrangement of cargo, a part of the vehicle’s load shall be unloaded to decrease the axle weight to a weight that is not heavier than the maximum axle weight allowed by law for the vehicle plus the applicable tolerance allowance.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The vehicle may not be operated further over the public highways or roads of the state until the axle weight of the vehicle has been reduced as required by Subsection (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995. Amended by Acts 2001, 77th Leg., ch. 941, Sec. 21, eff. Sept. 1, 2001.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_621.404",
+  "source_path": "data/raw/tx_public_law/TN/621.404.html",
+  "content_sha256": "7a7a1023731272c3049204da8ec13b3bb05e0c601cb6e0fb43c9e9a225eaf746",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

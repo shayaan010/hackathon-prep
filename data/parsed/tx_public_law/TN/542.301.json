@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "542.301",
+  "section_name": "General Offense",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "542",
+  "chapter_title": "Gen. Provisions",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person commits an offense if the person performs an act prohibited or fails to perform an act required by this subtitle.\n\n(b) Except as otherwise provided, an offense under this subtitle is a misdemeanor.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 542. Gen. Provisions\n##### § 542.301 — General Offense\n\n(a) A person commits an offense if the person performs an act prohibited or fails to perform an act required by this subtitle.\n\n(b) Except as otherwise provided, an offense under this subtitle is a misdemeanor.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person commits an offense if the person performs an act prohibited or fails to perform an act required by this subtitle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Except as otherwise provided, an offense under this subtitle is a misdemeanor.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_542.301",
+  "source_path": "data/raw/tx_public_law/TN/542.301.html",
+  "content_sha256": "d1de7d1c10fad738055d6acaf8d7312464629f3c0f79e4c11b3a1c9146eb4eff",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

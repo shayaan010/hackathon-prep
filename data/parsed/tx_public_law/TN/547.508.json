@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.508",
+  "section_name": "Offense Relating to Warning Devices",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Except as provided by Subsection (b), a person may not remove, damage, destroy, misplace, or extinguish a warning device required under Sections 547.502-547.507 when the device is being displayed or used as required.\n\n(b) This section does not apply to:\n\n(1) an owner of a vehicle or the owner’s authorized agent or employee; or\n\n(2) a peace officer acting in an official capacity.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.508 — Offense Relating to Warning Devices\n\n(a) Except as provided by Subsection (b), a person may not remove, damage, destroy, misplace, or extinguish a warning device required under Sections 547.502-547.507 when the device is being displayed or used as required.\n\n(b) This section does not apply to:\n\n    (1) an owner of a vehicle or the owner’s authorized agent or employee; or\n\n    (2) a peace officer acting in an official capacity.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided by Subsection (b), a person may not remove, damage, destroy, misplace, or extinguish a warning device required under Sections 547.502-547.507 when the device is being displayed or used as required.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "an owner of a vehicle or the owner’s authorized agent or employee; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a peace officer acting in an official capacity.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.508",
+  "source_path": "data/raw/tx_public_law/TN/547.508.html",
+  "content_sha256": "19ba83af63cc205b8b05bd9da0a09ac17319e1e38efbcd451874cd37c470b45c",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

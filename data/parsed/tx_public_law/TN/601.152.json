@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "601.152",
+  "section_name": "Suspension of Driver’s License and Vehicle Registration or Privilege",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "601",
+  "chapter_title": "Motor Vehicle Safety Responsibility Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Subject to Section 601.153 (Deposit of Security; Evidence of Financial Responsibility) , the department shall suspend the driver’s license and vehicle registrations of the owner and operator of a motor vehicle if:\n\n(1) the vehicle is involved in any manner in a collision; and\n\n(2) the department finds that there is a reasonable probability that a judgment will be rendered against the person as a result of the collision.\n\n(b) If the owner or operator is a nonresident, the department shall suspend the person’s nonresident operating privilege and the privilege of use of any motor vehicle owned by the nonresident.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 601. Motor Vehicle Safety Responsibility Act\n##### § 601.152 — Suspension of Driver’s License and Vehicle Registration or Privilege\n\n(a) Subject to Section 601.153 (Deposit of Security; Evidence of Financial Responsibility) , the department shall suspend the driver’s license and vehicle registrations of the owner and operator of a motor vehicle if:\n\n    (1) the vehicle is involved in any manner in a collision; and\n\n    (2) the department finds that there is a reasonable probability that a judgment will be rendered against the person as a result of the collision.\n\n(b) If the owner or operator is a nonresident, the department shall suspend the person’s nonresident operating privilege and the privilege of use of any motor vehicle owned by the nonresident.\n\n*Acts 2023, 88th Leg., R.S., Ch. 709 (H.B.2190), Sec. 74, eff. September 1, 2023.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Subject to Section 601.153 (Deposit of Security; Evidence of Financial Responsibility) , the department shall suspend the driver’s license and vehicle registrations of the owner and operator of a motor vehicle if:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the vehicle is involved in any manner in a collision; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the department finds that there is a reasonable probability that a judgment will be rendered against the person as a result of the collision.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "If the owner or operator is a nonresident, the department shall suspend the person’s nonresident operating privilege and the privilege of use of any motor vehicle owned by the nonresident.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2023, 88th Leg., R.S., Ch. 709 (H.B.2190), Sec. 74, eff. September 1, 2023.",
+    "action": null,
+    "statutes_year": 2023,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2023-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_601.152",
+  "source_path": "data/raw/tx_public_law/TN/601.152.html",
+  "content_sha256": "2f1d08ec8805dc9333ffa2a1c52e5ca790bb9614ef0c54a81dc886aaf63c96ac",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

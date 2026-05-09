@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "601.194",
+  "section_name": "Defense: Possession of Motor Vehicle for Maintenance or Repair",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "601",
+  "chapter_title": "Motor Vehicle Safety Responsibility Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "It is a defense to prosecution of an offense under Section 601.191 (Operation of Motor Vehicle in Violation of Motor Vehicle Liability Insurance Requirement; Offense) that the motor vehicle operated by the person charged:\n\n(1) was in the possession of that person for the sole purpose of maintenance or repair; and\n\n(2) was not owned in whole or in part by that person.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 601. Motor Vehicle Safety Responsibility Act\n##### § 601.194 — Defense: Possession of Motor Vehicle for Maintenance or Repair\n\nIt is a defense to prosecution of an offense under Section 601.191 (Operation of Motor Vehicle in Violation of Motor Vehicle Liability Insurance Requirement; Offense) that the motor vehicle operated by the person charged:\n\n    (1) was in the possession of that person for the sole purpose of maintenance or repair; and\n\n    (2) was not owned in whole or in part by that person.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "It is a defense to prosecution of an offense under Section 601.191 (Operation of Motor Vehicle in Violation of Motor Vehicle Liability Insurance Requirement; Offense) that the motor vehicle operated by the person charged:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "was in the possession of that person for the sole purpose of maintenance or repair; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "was not owned in whole or in part by that person.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_601.194",
+  "source_path": "data/raw/tx_public_law/TN/601.194.html",
+  "content_sha256": "2a490809aa0af991953a5cd7429082c688d2b83fcb5712804eadf0234de72f0e",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

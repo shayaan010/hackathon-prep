@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "545.418",
+  "section_name": "Opening Vehicle Doors",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "545",
+  "chapter_title": "Operation & Movement of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "A person may not:\n\n(1) open the door of a motor vehicle on the side available to moving traffic, unless the door may be opened in reasonable safety without interfering with the movement of other traffic; or\n\n(2) leave a door on the side of a vehicle next to moving traffic open for longer than is necessary to load or unload a passenger.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 545. Operation & Movement of Vehicles\n##### § 545.418 — Opening Vehicle Doors\n\nA person may not:\n\n    (1) open the door of a motor vehicle on the side available to moving traffic, unless the door may be opened in reasonable safety without interfering with the movement of other traffic; or\n\n    (2) leave a door on the side of a vehicle next to moving traffic open for longer than is necessary to load or unload a passenger.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A person may not:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "open the door of a motor vehicle on the side available to moving traffic, unless the door may be opened in reasonable safety without interfering with the movement of other traffic; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "leave a door on the side of a vehicle next to moving traffic open for longer than is necessary to load or unload a passenger.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_545.418",
+  "source_path": "data/raw/tx_public_law/TN/545.418.html",
+  "content_sha256": "48dc871518d802077eca34c05e2ae7851f18bc2b9381d87f04904a507e52e712",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

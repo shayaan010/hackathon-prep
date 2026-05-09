@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "11111",
+  "section_name": null,
   "division": "5",
   "division_title": "OCCUPATIONAL LICENSING AND BUSINESS REGULATIONS",
   "division_range": "11100 - 12217",
@@ -62,6 +63,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11111.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/11111.html",
   "content_sha256": "2ff8198d19be1a144cfa53241384f2b0f341f561bd33ac145aa866b9f8499ce8",
-  "parsed_at": "2026-05-09T17:53:44+00:00",
+  "parsed_at": "2026-05-09T18:32:18+00:00",
   "parser_version": "1"
 }

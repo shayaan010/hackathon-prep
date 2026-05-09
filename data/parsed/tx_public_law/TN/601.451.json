@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "601.451",
+  "section_name": "Definition",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "601",
+  "chapter_title": "Motor Vehicle Safety Responsibility Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "In this subchapter, “implementing agencies” means:\n\n(1) the department;\n\n(2) the Texas Department of Motor Vehicles;\n\n(3) the Texas Department of Insurance; and\n\n(4) the Department of Information Resources.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 601. Motor Vehicle Safety Responsibility Act\n##### § 601.451 — Definition\n\nIn this subchapter, “implementing agencies” means:\n\n    (1) the department;\n\n    (2) the Texas Department of Motor Vehicles;\n\n    (3) the Texas Department of Insurance; and\n\n    (4) the Department of Information Resources.\n\n*Acts 2009, 81st Leg., R.S., Ch. 933 (H.B.3097), Sec. 2J.02, eff. September 1, 2009.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In this subchapter, “implementing agencies” means:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the department;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the Texas Department of Motor Vehicles;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "the Texas Department of Insurance; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "the Department of Information Resources.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2009, 81st Leg., R.S., Ch. 933 (H.B.3097), Sec. 2J.02, eff. September 1, 2009.",
+    "action": null,
+    "statutes_year": 2009,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2009-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_601.451",
+  "source_path": "data/raw/tx_public_law/TN/601.451.html",
+  "content_sha256": "79a15c127a18e89a0f6a2a7311abb75baf733de6b045b36acc9bf9e34209f7ce",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

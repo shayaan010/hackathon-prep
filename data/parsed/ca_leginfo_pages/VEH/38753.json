@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "38753",
+  "section_name": null,
   "division": "16.6",
   "division_title": "Autonomous Vehicles",
   "division_range": "38750 - 38755",
@@ -42,6 +43,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=38753.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/38753.html",
   "content_sha256": "83fc5466f634bf5492ce0226500342c0fa252418ebb6f78c96fefaebbbefdd3e",
-  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parsed_at": "2026-05-09T18:32:22+00:00",
   "parser_version": "1"
 }

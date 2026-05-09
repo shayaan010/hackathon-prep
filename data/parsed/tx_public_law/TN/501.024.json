@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "501.024",
+  "section_name": "Title Receipt",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "501",
+  "chapter_title": "Certificate of Title Act",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A county assessor-collector who receives an application for a title shall issue a title receipt to the applicant containing the information concerning the motor vehicle required for issuance of a title under Section 501.021 (Title for Motor Vehicle) or Subchapter I after:\n\n(1) the requirements of this chapter are met, including the payment of the fees required under Section 501.138 (Collection and Disposition of Fees) ; and\n\n(2) the information is entered into the department’s titling system.\n\n(b) If a lien is not disclosed on the application for a title, the assessor-collector shall issue a title receipt to the applicant.\n\n(c) If a lien is disclosed on the application for a title, the assessor-collector shall issue a duplicate title receipt to the lienholder.\n\n(d) A title receipt with registration or permit authorizes the operation of the motor vehicle on a public highway in this state until the title is issued.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 501. Certificate of Title Act\n##### § 501.024 — Title Receipt\n\n(a) A county assessor-collector who receives an application for a title shall issue a title receipt to the applicant containing the information concerning the motor vehicle required for issuance of a title under Section 501.021 (Title for Motor Vehicle) or Subchapter I after:\n\n    (1) the requirements of this chapter are met, including the payment of the fees required under Section 501.138 (Collection and Disposition of Fees) ; and\n\n    (2) the information is entered into the department’s titling system.\n\n(b) If a lien is not disclosed on the application for a title, the assessor-collector shall issue a title receipt to the applicant.\n\n(c) If a lien is disclosed on the application for a title, the assessor-collector shall issue a duplicate title receipt to the lienholder.\n\n(d) A title receipt with registration or permit authorizes the operation of the motor vehicle on a public highway in this state until the title is issued.\n\n*Acts 2013, 83rd Leg., R.S., Ch. 1135 (H.B.2741), Sec. 45, eff. September 1, 2013.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A county assessor-collector who receives an application for a title shall issue a title receipt to the applicant containing the information concerning the motor vehicle required for issuance of a title under Section 501.021 (Title for Motor Vehicle) or Subchapter I after:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the requirements of this chapter are met, including the payment of the fees required under Section 501.138 (Collection and Disposition of Fees) ; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the information is entered into the department’s titling system.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "If a lien is not disclosed on the application for a title, the assessor-collector shall issue a title receipt to the applicant.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "If a lien is disclosed on the application for a title, the assessor-collector shall issue a duplicate title receipt to the lienholder.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "A title receipt with registration or permit authorizes the operation of the motor vehicle on a public highway in this state until the title is issued.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2013, 83rd Leg., R.S., Ch. 1135 (H.B.2741), Sec. 45, eff. September 1, 2013.",
+    "action": null,
+    "statutes_year": 2013,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2013-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_501.024",
+  "source_path": "data/raw/tx_public_law/TN/501.024.html",
+  "content_sha256": "13d83b89bada8b4c0e537322ecbaa3aebc6e4260babeedeb500fe65dc88c8437",
+  "parsed_at": "2026-05-09T18:32:25+00:00",
+  "parser_version": "1"
+}

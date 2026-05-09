@@ -1,0 +1,83 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "545.201",
+  "section_name": "Passing Streetcar to Left",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "545",
+  "chapter_title": "Operation & Movement of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) An operator may not pass to the left or drive on the left side of a streetcar moving in the same direction, even if the streetcar is temporarily at rest, unless the operator:\n\n(1) is directed to do so by a police officer;\n\n(2) is on a one-way street; or\n\n(3) is on a street on which the location of the tracks prevents compliance with this section.\n\n(b) An operator when lawfully passing to the left of a streetcar that has stopped to receive or discharge a passenger:\n\n(1) shall reduce speed;\n\n(2) may proceed only on exercising due caution for pedestrians; and\n\n(3) shall accord a pedestrian the right-of-way as required by this subtitle.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 545. Operation & Movement of Vehicles\n##### § 545.201 — Passing Streetcar to Left\n\n(a) An operator may not pass to the left or drive on the left side of a streetcar moving in the same direction, even if the streetcar is temporarily at rest, unless the operator:\n\n    (1) is directed to do so by a police officer;\n\n    (2) is on a one-way street; or\n\n    (3) is on a street on which the location of the tracks prevents compliance with this section.\n\n(b) An operator when lawfully passing to the left of a streetcar that has stopped to receive or discharge a passenger:\n\n    (1) shall reduce speed;\n\n    (2) may proceed only on exercising due caution for pedestrians; and\n\n    (3) shall accord a pedestrian the right-of-way as required by this subtitle.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "An operator may not pass to the left or drive on the left side of a streetcar moving in the same direction, even if the streetcar is temporarily at rest, unless the operator:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "is directed to do so by a police officer;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "is on a one-way street; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "is on a street on which the location of the tracks prevents compliance with this section.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "An operator when lawfully passing to the left of a streetcar that has stopped to receive or discharge a passenger:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "shall reduce speed;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "may proceed only on exercising due caution for pedestrians; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "shall accord a pedestrian the right-of-way as required by this subtitle.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_545.201",
+  "source_path": "data/raw/tx_public_law/TN/545.201.html",
+  "content_sha256": "dcb561c2584f4605c31ce11a486382576db89fb1380da1881e5619c4476fd922",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

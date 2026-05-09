@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "504.3011",
+  "section_name": "Design of Certain License Plates for the Military",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "504",
+  "chapter_title": "License Plates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "The department shall design military license plates that:\n\n(1) bear a color depiction of the emblem of the appropriate branch of the United States armed forces or a color depiction of the appropriate medal as provided by the United States Department of Defense; and\n\n(2) include the words “Honorably Discharged” for license plates issued to former members of the United States armed forces.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 504. License Plates\n##### § 504.3011 — Design of Certain License Plates for the Military\n\nThe department shall design military license plates that:\n\n    (1) bear a color depiction of the emblem of the appropriate branch of the United States armed forces or a color depiction of the appropriate medal as provided by the United States Department of Defense; and\n\n    (2) include the words “Honorably Discharged” for license plates issued to former members of the United States armed forces.\n\n*Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 181, eff. January 1, 2012.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department shall design military license plates that:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "bear a color depiction of the emblem of the appropriate branch of the United States armed forces or a color depiction of the appropriate medal as provided by the United States Department of Defense; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "include the words “Honorably Discharged” for license plates issued to former members of the United States armed forces.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2011, 82nd Leg., R.S., Ch. 1296 (H.B.2357), Sec. 181, eff. January 1, 2012.",
+    "action": null,
+    "statutes_year": 2011,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_504.3011",
+  "source_path": "data/raw/tx_public_law/TN/504.3011.html",
+  "content_sha256": "dfda210b0c5db2b31b9904cb149c1d5685ec7dc8e81b339f3952bef5a6c927a2",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "39000",
+  "section_name": null,
   "division": "16.7",
   "division_title": "REGISTRATION AND LICENSING OF BICYCLES",
   "division_range": "39000 - 39011",
@@ -42,6 +43,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=39000.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/39000.html",
   "content_sha256": "575689c2a1fc4a588baaf74c1d8b65e45da38696947ef24b85e4abc905aceb29",
-  "parsed_at": "2026-05-09T17:53:48+00:00",
+  "parsed_at": "2026-05-09T18:32:22+00:00",
   "parser_version": "1"
 }

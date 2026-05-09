@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "19",
+  "section_name": null,
   "division": null,
   "division_title": null,
   "division_range": null,
@@ -42,6 +43,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=19.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/19.html",
   "content_sha256": "3d82e1825d78a0c6cd9b1bbd22d61721ead66d7bf84898e96ccd932d1b4c6c5b",
-  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parsed_at": "2026-05-09T18:32:15+00:00",
   "parser_version": "1"
 }

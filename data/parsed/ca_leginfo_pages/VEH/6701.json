@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "6701",
+  "section_name": null,
   "division": "3",
   "division_title": "REGISTRATION OF VEHICLES AND CERTIFICATES OF TITLE",
   "division_range": "4000 - 9808",
@@ -72,6 +73,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6701.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/6701.html",
   "content_sha256": "0ad749cb3f66a443d9273777556b2ba37ca8669d9b366bb7d86c488aa2742d49",
-  "parsed_at": "2026-05-09T17:16:16+00:00",
+  "parsed_at": "2026-05-09T18:32:17+00:00",
   "parser_version": "1"
 }

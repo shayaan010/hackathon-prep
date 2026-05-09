@@ -3,6 +3,7 @@
   "law_code": "VEH",
   "code_name": "Vehicle Code",
   "section_num": "34003",
+  "section_name": null,
   "division": "14.7",
   "division_title": "FLAMMABLE AND COMBUSTIBLE LIQUIDS",
   "division_range": "34000 - 34100",
@@ -57,6 +58,6 @@
   "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=34003.&lawCode=VEH",
   "source_path": "data/raw/ca_leginfo_pages/VEH/34003.html",
   "content_sha256": "e96ec0d31c2a4cb77c3c5e0d9900e1500ca39e9bf475195e424eb51e9a442b75",
-  "parsed_at": "2026-05-09T17:53:47+00:00",
+  "parsed_at": "2026-05-09T18:32:21+00:00",
   "parser_version": "1"
 }

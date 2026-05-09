@@ -1,0 +1,48 @@
+{
+  "jurisdiction": "NY",
+  "law_code": "VAT",
+  "code_name": "Vehicle & Traffic Law",
+  "section_num": "131",
+  "section_name": "Person",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": "1",
+  "article_title": "Words & Phrases Defined",
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "1",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "Every natural person, firm, copartnership, association, or corporation.",
+  "markdown": "# Vehicle & Traffic Law\n## Title 1\n#### Article 1. Words & Phrases Defined\n##### § 131 — Person\n\nEvery natural person, firm, copartnership, association, or corporation.\n\n*Last modified: Sep. 22, 2014*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every natural person, firm, copartnership, association, or corporation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Last modified: Sep. 22, 2014",
+    "action": null,
+    "statutes_year": null,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2014-09-22",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://newyork.public.law/laws/n.y._vehicle_&_traffic_law_section_131",
+  "source_path": "data/raw/ny_public_law/VAT/131.html",
+  "content_sha256": "6c4d1c64f851583611cbdc7bf6dd5f7a6905472a86d67d218653b66512082a4c",
+  "parsed_at": "2026-05-09T18:32:23+00:00",
+  "parser_version": "1"
+}

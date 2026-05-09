@@ -1,0 +1,73 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "623.013",
+  "section_name": "List of Permits Issued",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "623",
+  "chapter_title": "Permits for Oversize or Overweight Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The department shall make available on the department’s Internet website a searchable and downloadable list by county of each permit issued under Section 623.011 (Permit for Excess Axle or Gross Weight) . The list must include the following information for each permit:\n\n(1) the name and address of the person for whom the permit was issued;\n\n(2) the vehicle identification number and license plate number of the vehicle;\n\n(3) the permit number; and\n\n(4) the effective date of the permit.\n\n(b) On request of a county, the department shall send a copy of the permit and the bond or letter of credit required for the permit to the county.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 623. Permits for Oversize or Overweight Vehicles\n##### § 623.013 — List of Permits Issued\n\n(a) The department shall make available on the department’s Internet website a searchable and downloadable list by county of each permit issued under Section 623.011 (Permit for Excess Axle or Gross Weight) . The list must include the following information for each permit:\n\n    (1) the name and address of the person for whom the permit was issued;\n\n    (2) the vehicle identification number and license plate number of the vehicle;\n\n    (3) the permit number; and\n\n    (4) the effective date of the permit.\n\n(b) On request of a county, the department shall send a copy of the permit and the bond or letter of credit required for the permit to the county.\n\n*Acts 2021, 87th Leg., R.S., Ch. 410 (S.B.1814), Sec. 4, eff. September 1, 2021.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department shall make available on the department’s Internet website a searchable and downloadable list by county of each permit issued under Section 623.011 (Permit for Excess Axle or Gross Weight) . The list must include the following information for each permit:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the name and address of the person for whom the permit was issued;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "the vehicle identification number and license plate number of the vehicle;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "the permit number; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "the effective date of the permit.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "On request of a county, the department shall send a copy of the permit and the bond or letter of credit required for the permit to the county.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2021, 87th Leg., R.S., Ch. 410 (S.B.1814), Sec. 4, eff. September 1, 2021.",
+    "action": null,
+    "statutes_year": 2021,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2021-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_623.013",
+  "source_path": "data/raw/tx_public_law/TN/623.013.html",
+  "content_sha256": "7bbb336bb4d2b2c4f5b820247bc5064274d1c30460ba03617f42d13e6022e3dd",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

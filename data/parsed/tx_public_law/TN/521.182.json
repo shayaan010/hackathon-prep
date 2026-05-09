@@ -1,0 +1,63 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.182",
+  "section_name": "Surrender of License Issued by Other Jurisdiction",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A person is not entitled to receive a driver’s license until the person surrenders to the department each driver’s license in the person’s possession that was issued by this state or another state or Canadian province.\n\n(b) The department shall send to the state or province that issued the license:\n\n(1) the surrendered license or a notification that the license has been surrendered; and\n\n(2) a statement that the person holds a driver’s license issued by this state.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.182 — Surrender of License Issued by Other Jurisdiction\n\n(a) A person is not entitled to receive a driver’s license until the person surrenders to the department each driver’s license in the person’s possession that was issued by this state or another state or Canadian province.\n\n(b) The department shall send to the state or province that issued the license:\n\n    (1) the surrendered license or a notification that the license has been surrendered; and\n\n    (2) a statement that the person holds a driver’s license issued by this state.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person is not entitled to receive a driver’s license until the person surrenders to the department each driver’s license in the person’s possession that was issued by this state or another state or Canadian province.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department shall send to the state or province that issued the license:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "the surrendered license or a notification that the license has been surrendered; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a statement that the person holds a driver’s license issued by this state.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.182",
+  "source_path": "data/raw/tx_public_law/TN/521.182.html",
+  "content_sha256": "8fc64f3c68b880a383c691077c5214cd650a3c563766a9e92bacbba524657150",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

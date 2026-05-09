@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.604",
+  "section_name": "Muffler Required",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A motor vehicle shall be equipped with a muffler in good working condition that continually operates to prevent excessive or unusual noise.\n\n(b) A person may not use a muffler cutout, bypass, or similar device on a motor vehicle.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.604 — Muffler Required\n\n(a) A motor vehicle shall be equipped with a muffler in good working condition that continually operates to prevent excessive or unusual noise.\n\n(b) A person may not use a muffler cutout, bypass, or similar device on a motor vehicle.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A motor vehicle shall be equipped with a muffler in good working condition that continually operates to prevent excessive or unusual noise.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person may not use a muffler cutout, bypass, or similar device on a motor vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.604",
+  "source_path": "data/raw/tx_public_law/TN/547.604.html",
+  "content_sha256": "b24025c5d562a9c8cd2b577da591caf83cab7cd015e259e7c33f5813ada52b02",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

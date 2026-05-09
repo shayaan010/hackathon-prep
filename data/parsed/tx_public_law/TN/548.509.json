@@ -1,0 +1,53 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "548.509",
+  "section_name": "Collection of Fee During Registration",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "548",
+  "chapter_title": "Inspection of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) The Texas Department of Motor Vehicles or a county assessor-collector that registers a motor vehicle that is subject to an inspection fee under this chapter or Section 382.202 (Vehicle Emissions Inspection and Maintenance Program) , Health and Safety Code, or a replacement fee under Section 548.510 (Fee for Certain Exempted Vehicles; Collection of Fee During Registration) of this code shall collect at the time of registration of the motor vehicle the portion of the inspection fee that is required to be remitted to the state.\n\n(b) The Texas Department of Motor Vehicles or the county assessor-collector shall remit the fee to the comptroller.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 548. Inspection of Vehicles\n##### § 548.509 — Collection of Fee During Registration\n\n(a) The Texas Department of Motor Vehicles or a county assessor-collector that registers a motor vehicle that is subject to an inspection fee under this chapter or Section 382.202 (Vehicle Emissions Inspection and Maintenance Program) , Health and Safety Code, or a replacement fee under Section 548.510 (Fee for Certain Exempted Vehicles; Collection of Fee During Registration) of this code shall collect at the time of registration of the motor vehicle the portion of the inspection fee that is required to be remitted to the state.\n\n(b) The Texas Department of Motor Vehicles or the county assessor-collector shall remit the fee to the comptroller.\n\n*Acts 2023, 88th Leg., R.S., Ch. 851 (H.B.3297), Sec. 20, eff. January 1, 2025.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Texas Department of Motor Vehicles or a county assessor-collector that registers a motor vehicle that is subject to an inspection fee under this chapter or Section 382.202 (Vehicle Emissions Inspection and Maintenance Program) , Health and Safety Code, or a replacement fee under Section 548.510 (Fee for Certain Exempted Vehicles; Collection of Fee During Registration) of this code shall collect at the time of registration of the motor vehicle the portion of the inspection fee that is required to be remitted to the state.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The Texas Department of Motor Vehicles or the county assessor-collector shall remit the fee to the comptroller.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2023, 88th Leg., R.S., Ch. 851 (H.B.3297), Sec. 20, eff. January 1, 2025.",
+    "action": null,
+    "statutes_year": 2023,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2025-01-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_548.509",
+  "source_path": "data/raw/tx_public_law/TN/548.509.html",
+  "content_sha256": "109a20c31fb91fbb7f047d4f2aec1289a97410c5855188ef4f03015f944719d3",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

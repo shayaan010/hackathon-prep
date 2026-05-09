@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "547.407",
+  "section_name": "Brake Warning Devices Required",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "547",
+  "chapter_title": "Vehicle Equip.",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A bus, truck, or truck-tractor that uses air to operate its brakes or the brakes of a towed vehicle shall be equipped with:\n\n(1) a warning signal, other than a pressure gauge, that is readily audible or visible to the vehicle operator and that shows when the air reservoir pressure is below 50 percent of the air compressor governor cut-out pressure; and\n\n(2) a pressure gauge visible to the vehicle operator that shows in pounds per square inch the pressure available for braking.\n\n(b) A truck-tractor or truck used to tow a vehicle equipped with vacuum brakes, or a truck with at least three axles that is equipped with vacuum brakes, shall be equipped with a warning signal, other than a gauge showing vacuum, that is readily audible or visible to the vehicle operator and that shows when the vacuum in the reservoir or reserve capacity is less than eight inches of mercury. This subsection does not apply to an operation in which a motor vehicle, trailer, or semitrailer is transported as a commodity when at least one set of the vehicle’s wheels is on the roadway.\n\n(c) If a vehicle required to be equipped with a warning device is equipped with air and vacuum power to operate its brakes or the brakes on a towed vehicle, the warning devices required may be combined into a single device that is not a pressure or vacuum gauge.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 547. Vehicle Equip.\n##### § 547.407 — Brake Warning Devices Required\n\n(a) A bus, truck, or truck-tractor that uses air to operate its brakes or the brakes of a towed vehicle shall be equipped with:\n\n    (1) a warning signal, other than a pressure gauge, that is readily audible or visible to the vehicle operator and that shows when the air reservoir pressure is below 50 percent of the air compressor governor cut-out pressure; and\n\n    (2) a pressure gauge visible to the vehicle operator that shows in pounds per square inch the pressure available for braking.\n\n(b) A truck-tractor or truck used to tow a vehicle equipped with vacuum brakes, or a truck with at least three axles that is equipped with vacuum brakes, shall be equipped with a warning signal, other than a gauge showing vacuum, that is readily audible or visible to the vehicle operator and that shows when the vacuum in the reservoir or reserve capacity is less than eight inches of mercury. This subsection does not apply to an operation in which a motor vehicle, trailer, or semitrailer is transported as a commodity when at least one set of the vehicle’s wheels is on the roadway.\n\n(c) If a vehicle required to be equipped with a warning device is equipped with air and vacuum power to operate its brakes or the brakes on a towed vehicle, the warning devices required may be combined into a single device that is not a pressure or vacuum gauge.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A bus, truck, or truck-tractor that uses air to operate its brakes or the brakes of a towed vehicle shall be equipped with:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "a warning signal, other than a pressure gauge, that is readily audible or visible to the vehicle operator and that shows when the air reservoir pressure is below 50 percent of the air compressor governor cut-out pressure; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "a pressure gauge visible to the vehicle operator that shows in pounds per square inch the pressure available for braking.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "A truck-tractor or truck used to tow a vehicle equipped with vacuum brakes, or a truck with at least three axles that is equipped with vacuum brakes, shall be equipped with a warning signal, other than a gauge showing vacuum, that is readily audible or visible to the vehicle operator and that shows when the vacuum in the reservoir or reserve capacity is less than eight inches of mercury. This subsection does not apply to an operation in which a motor vehicle, trailer, or semitrailer is transported as a commodity when at least one set of the vehicle’s wheels is on the roadway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "If a vehicle required to be equipped with a warning device is equipped with air and vacuum power to operate its brakes or the brakes on a towed vehicle, the warning devices required may be combined into a single device that is not a pressure or vacuum gauge.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_547.407",
+  "source_path": "data/raw/tx_public_law/TN/547.407.html",
+  "content_sha256": "64883ab6f63c5a0fb0de1b5a320ae3bab91e9ca3251ac827eb156d22c65b5874",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

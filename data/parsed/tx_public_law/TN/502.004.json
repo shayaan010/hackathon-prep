@@ -1,0 +1,78 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "502.004",
+  "section_name": "Information on Alternatively Fueled Vehicles",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "502",
+  "chapter_title": "Registration of Vehicles",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) In this section, “alternatively fueled vehicle” means a motor vehicle that is capable of using a fuel other than gasoline or diesel fuel.\n\n(b) The department by rule shall establish a program to collect information about the number of alternatively fueled vehicles registered in this state.\n\n(c) The department shall submit an annual report to the legislature that includes the information collected under this section. The report must, at a minimum, show the number of vehicles registered in this state that use:\n\n(1) electric plug-in drives;\n\n(2) hybrid electric drives;\n\n(3) compressed natural gas drives; and\n\n(4) liquefied natural gas drives.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 502. Registration of Vehicles\n##### § 502.004 — Information on Alternatively Fueled Vehicles\n\n(a) In this section, “alternatively fueled vehicle” means a motor vehicle that is capable of using a fuel other than gasoline or diesel fuel.\n\n(b) The department by rule shall establish a program to collect information about the number of alternatively fueled vehicles registered in this state.\n\n(c) The department shall submit an annual report to the legislature that includes the information collected under this section. The report must, at a minimum, show the number of vehicles registered in this state that use:\n\n    (1) electric plug-in drives;\n\n    (2) hybrid electric drives;\n\n    (3) compressed natural gas drives; and\n\n    (4) liquefied natural gas drives.\n\n*Added by Acts 2015, 84th Leg., R.S., Ch. 507 (H.B.735), Sec. 1, eff. September 1, 2016.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "In this section, “alternatively fueled vehicle” means a motor vehicle that is capable of using a fuel other than gasoline or diesel fuel.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The department by rule shall establish a program to collect information about the number of alternatively fueled vehicles registered in this state.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The department shall submit an annual report to the legislature that includes the information collected under this section. The report must, at a minimum, show the number of vehicles registered in this state that use:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "electric plug-in drives;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "hybrid electric drives;",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "compressed natural gas drives; and",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "liquefied natural gas drives.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Added by Acts 2015, 84th Leg., R.S., Ch. 507 (H.B.735), Sec. 1, eff. September 1, 2016.",
+    "action": "Added",
+    "statutes_year": 2015,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2016-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_502.004",
+  "source_path": "data/raw/tx_public_law/TN/502.004.html",
+  "content_sha256": "7908d950ac9d12540cf10cda093c9ab85477be16c8e9f21b21b125b798336a9e",
+  "parsed_at": "2026-05-09T18:32:25+00:00",
+  "parser_version": "1"
+}

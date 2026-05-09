@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "701.001",
+  "section_name": "Authorization",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "701",
+  "chapter_title": "Cnty. Traffic Officers",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) Except as provided by Subsection (c), acting in conjunction with the sheriff of the county, the commissioners court of a county may employ not more than five regular deputies as county traffic officers.\n\n(b) Except as provided by Subsection (c), the commissioners court may employ not more than two additional deputies as county traffic officers to aid the regular officers in special emergencies.\n\n(c) The limitation on the number of deputies that may be employed under Subsections (a) and (b) does not apply to a county with a population of more than 2.5 million.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 701. Cnty. Traffic Officers\n##### § 701.001 — Authorization\n\n(a) Except as provided by Subsection (c), acting in conjunction with the sheriff of the county, the commissioners court of a county may employ not more than five regular deputies as county traffic officers.\n\n(b) Except as provided by Subsection (c), the commissioners court may employ not more than two additional deputies as county traffic officers to aid the regular officers in special emergencies.\n\n(c) The limitation on the number of deputies that may be employed under Subsections (a) and (b) does not apply to a county with a population of more than 2.5 million.\n\n*Acts 2023, 88th Leg., R.S., Ch. 644 (H.B.4559), Sec. 269, eff. September 1, 2023.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided by Subsection (c), acting in conjunction with the sheriff of the county, the commissioners court of a county may employ not more than five regular deputies as county traffic officers.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Except as provided by Subsection (c), the commissioners court may employ not more than two additional deputies as county traffic officers to aid the regular officers in special emergencies.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The limitation on the number of deputies that may be employed under Subsections (a) and (b) does not apply to a county with a population of more than 2.5 million.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2023, 88th Leg., R.S., Ch. 644 (H.B.4559), Sec. 269, eff. September 1, 2023.",
+    "action": null,
+    "statutes_year": 2023,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2023-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_701.001",
+  "source_path": "data/raw/tx_public_law/TN/701.001.html",
+  "content_sha256": "c825d98fd45b3ad3c4d40c3074e61f39e35d8448abe21ce3484e445450ba6143",
+  "parsed_at": "2026-05-09T18:32:28+00:00",
+  "parser_version": "1"
+}

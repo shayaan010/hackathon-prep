@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "552.002",
+  "section_name": "Pedestrian Right-of-way if Control Signal Present",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "552",
+  "chapter_title": "Pedestrians",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A pedestrian control signal displaying “Walk,” “Don’t Walk,” or “Wait” applies to a pedestrian as provided by this section.\n\n(b) A pedestrian facing a “Walk” signal may proceed across a roadway in the direction of the signal, and the operator of a vehicle shall stop and yield the right-of-way to the pedestrian.\n\n(c) A pedestrian may not start to cross a roadway in the direction of a “Don’t Walk” signal or a “Wait” signal. A pedestrian who has partially crossed while the “Walk” signal is displayed shall proceed to a sidewalk or safety island while the “Don’t Walk” signal or “Wait” signal is displayed.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 552. Pedestrians\n##### § 552.002 — Pedestrian Right-of-way if Control Signal Present\n\n(a) A pedestrian control signal displaying “Walk,” “Don’t Walk,” or “Wait” applies to a pedestrian as provided by this section.\n\n(b) A pedestrian facing a “Walk” signal may proceed across a roadway in the direction of the signal, and the operator of a vehicle shall stop and yield the right-of-way to the pedestrian.\n\n(c) A pedestrian may not start to cross a roadway in the direction of a “Don’t Walk” signal or a “Wait” signal. A pedestrian who has partially crossed while the “Walk” signal is displayed shall proceed to a sidewalk or safety island while the “Don’t Walk” signal or “Wait” signal is displayed.\n\n*Acts 2021, 87th Leg., R.S., Ch. 944 (S.B.1055), Sec. 4, eff. September 1, 2021.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A pedestrian control signal displaying “Walk,” “Don’t Walk,” or “Wait” applies to a pedestrian as provided by this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A pedestrian facing a “Walk” signal may proceed across a roadway in the direction of the signal, and the operator of a vehicle shall stop and yield the right-of-way to the pedestrian.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A pedestrian may not start to cross a roadway in the direction of a “Don’t Walk” signal or a “Wait” signal. A pedestrian who has partially crossed while the “Walk” signal is displayed shall proceed to a sidewalk or safety island while the “Don’t Walk” signal or “Wait” signal is displayed.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 2021, 87th Leg., R.S., Ch. 944 (S.B.1055), Sec. 4, eff. September 1, 2021.",
+    "action": null,
+    "statutes_year": 2021,
+    "chapter": null,
+    "section": null,
+    "bill_number": null,
+    "effective_date": "2021-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_552.002",
+  "source_path": "data/raw/tx_public_law/TN/552.002.html",
+  "content_sha256": "6db0a0b04ee2d6d5b6b2a4e8b836b67b034e50f06f131fae6d00bcb7278f874f",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}

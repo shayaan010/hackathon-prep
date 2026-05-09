@@ -1,0 +1,58 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "521.043",
+  "section_name": "Elimination of Certain Unnecessary Records",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "521",
+  "chapter_title": "Driver's Licenses & Certificates",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "The department is not required to maintain records relating to a person if the director decides that the records are no longer necessary, except that the department shall maintain a record of a conviction as long as the record may be used:\n\n(1) as grounds for a license cancellation, suspension, revocation, or denial; or\n\n(2) in conjunction with other records of convictions, to establish that a person is a frequent violator of traffic laws.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 521. Driver's Licenses & Certificates\n##### § 521.043 — Elimination of Certain Unnecessary Records\n\nThe department is not required to maintain records relating to a person if the director decides that the records are no longer necessary, except that the department shall maintain a record of a conviction as long as the record may be used:\n\n    (1) as grounds for a license cancellation, suspension, revocation, or denial; or\n\n    (2) in conjunction with other records of convictions, to establish that a person is a frequent violator of traffic laws.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The department is not required to maintain records relating to a person if the director decides that the records are no longer necessary, except that the department shall maintain a record of a conviction as long as the record may be used:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "as grounds for a license cancellation, suspension, revocation, or denial; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "in conjunction with other records of convictions, to establish that a person is a frequent violator of traffic laws.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_521.043",
+  "source_path": "data/raw/tx_public_law/TN/521.043.html",
+  "content_sha256": "75aa92b23bd2e931bdc46a2236700c080a64a4e6ee3f729e23ebbd309533232a",
+  "parsed_at": "2026-05-09T18:32:26+00:00",
+  "parser_version": "1"
+}

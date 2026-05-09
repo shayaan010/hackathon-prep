@@ -1,0 +1,68 @@
+{
+  "jurisdiction": "TX",
+  "law_code": "TN",
+  "code_name": "Transp. Code",
+  "section_num": "552.005",
+  "section_name": "Crossing at Point Other than Crosswalk",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": "552",
+  "chapter_title": "Pedestrians",
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": "7",
+  "title_title": null,
+  "node_tree_path": null,
+  "text": "(a) A pedestrian shall yield the right-of-way to a vehicle on the highway if crossing a roadway at a place:\n\n(1) other than in a marked crosswalk or in an unmarked crosswalk at an intersection; or\n\n(2) where a pedestrian tunnel or overhead pedestrian crossing has been provided.\n\n(b) Between adjacent intersections at which traffic control signals are in operation, a pedestrian may cross only in a marked crosswalk.\n\n(c) A pedestrian may cross a roadway intersection diagonally only if and in the manner authorized by a traffic control device.",
+  "markdown": "# Transp. Code\n## Title 7\n### Chapter 552. Pedestrians\n##### § 552.005 — Crossing at Point Other than Crosswalk\n\n(a) A pedestrian shall yield the right-of-way to a vehicle on the highway if crossing a roadway at a place:\n\n    (1) other than in a marked crosswalk or in an unmarked crosswalk at an intersection; or\n\n    (2) where a pedestrian tunnel or overhead pedestrian crossing has been provided.\n\n(b) Between adjacent intersections at which traffic control signals are in operation, a pedestrian may cross only in a marked crosswalk.\n\n(c) A pedestrian may cross a roadway intersection diagonally only if and in the manner authorized by a traffic control device.\n\n*Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A pedestrian shall yield the right-of-way to a vehicle on the highway if crossing a roadway at a place:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "other than in a marked crosswalk or in an unmarked crosswalk at an intersection; or",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "where a pedestrian tunnel or overhead pedestrian crossing has been provided.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Between adjacent intersections at which traffic control signals are in operation, a pedestrian may cross only in a marked crosswalk.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A pedestrian may cross a roadway intersection diagonally only if and in the manner authorized by a traffic control device.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "Acts 1995, 74th Leg., ch. 165, Sec. 1, eff. Sept. 1, 1995.",
+    "action": "Enacted",
+    "statutes_year": 1995,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-09-01",
+    "operative_date": null
+  },
+  "op_statues": null,
+  "op_chapter": null,
+  "op_section": null,
+  "source_url": "https://texas.public.law/statutes/tex._transp._code_section_552.005",
+  "source_path": "data/raw/tx_public_law/TN/552.005.html",
+  "content_sha256": "29b35dfdff19cf12e3e21984e0b977456cff4972a0075617f51a2ec21d754c5f",
+  "parsed_at": "2026-05-09T18:32:27+00:00",
+  "parser_version": "1"
+}
