@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21654",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "1",
+  "article_title": "Driving on Right Side",
+  "article_range": "21650 - 21664",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.1",
+  "text": "(a) Notwithstanding the prima facie speed limits, any vehicle proceeding upon a highway at a speed less than the normal speed of traffic moving in the same direction at such time shall be driven in the right-hand lane for traffic or as close as practicable to the right-hand edge or curb, except when overtaking and passing another vehicle proceeding in the same direction or when preparing for a left turn at an intersection or into a private road or driveway.\n\n(b) If a vehicle is being driven at a speed less than the normal speed of traffic moving in the same direction at such time, and is not being driven in the right-hand lane for traffic or as close as practicable to the right-hand edge or curb, it shall constitute prima facie evidence that the driver is operating the vehicle in violation of subdivision (a) of this section.\n\n(c) The Department of Transportation, with respect to state highways, and local authorities, with respect to highways under their jurisdiction, may place and maintain upon highways official signs directing slow-moving traffic to use the right-hand traffic lane except when overtaking and passing another vehicle or preparing for a left turn.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 1. Driving on Right Side [21650 - 21664]\n##### § 21654\n\n(a) Notwithstanding the prima facie speed limits, any vehicle proceeding upon a highway at a speed less than the normal speed of traffic moving in the same direction at such time shall be driven in the right-hand lane for traffic or as close as practicable to the right-hand edge or curb, except when overtaking and passing another vehicle proceeding in the same direction or when preparing for a left turn at an intersection or into a private road or driveway.\n\n(b) If a vehicle is being driven at a speed less than the normal speed of traffic moving in the same direction at such time, and is not being driven in the right-hand lane for traffic or as close as practicable to the right-hand edge or curb, it shall constitute prima facie evidence that the driver is operating the vehicle in violation of subdivision (a) of this section.\n\n(c) The Department of Transportation, with respect to state highways, and local authorities, with respect to highways under their jurisdiction, may place and maintain upon highways official signs directing slow-moving traffic to use the right-hand traffic lane except when overtaking and passing another vehicle or preparing for a left turn.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Notwithstanding the prima facie speed limits, any vehicle proceeding upon a highway at a speed less than the normal speed of traffic moving in the same direction at such time shall be driven in the right-hand lane for traffic or as close as practicable to the right-hand edge or curb, except when overtaking and passing another vehicle proceeding in the same direction or when preparing for a left turn at an intersection or into a private road or driveway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If a vehicle is being driven at a speed less than the normal speed of traffic moving in the same direction at such time, and is not being driven in the right-hand lane for traffic or as close as practicable to the right-hand edge or curb, it shall constitute prima facie evidence that the driver is operating the vehicle in violation of subdivision (a) of this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The Department of Transportation, with respect to state highways, and local authorities, with respect to highways under their jurisdiction, may place and maintain upon highways official signs directing slow-moving traffic to use the right-hand traffic lane except when overtaking and passing another vehicle or preparing for a left turn.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21654.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21654.html",
+  "content_sha256": "2d6ae1b01116f8c695ba98d278c0c3d2f455ec531c7f892a77ed1708045c39be",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

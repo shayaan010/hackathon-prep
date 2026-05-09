@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "231",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A bicycle is a device upon which a person may ride, propelled exclusively by human power, except as provided in Section 312.5, through a belt, chain, or gears, and having one or more wheels. A person riding a bicycle is subject to the provisions of this code specified in Sections 21200 and 21200.5. An electric bicycle is a bicycle.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 231\n\nA bicycle is a device upon which a person may ride, propelled exclusively by human power, except as provided in Section 312.5, through a belt, chain, or gears, and having one or more wheels. A person riding a bicycle is subject to the provisions of this code specified in Sections 21200 and 21200.5. An electric bicycle is a bicycle.\n\n*(Amended by Stats. 2021, Ch. 311, Sec. 1. (SB 814) Effective January 1, 2022.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A bicycle is a device upon which a person may ride, propelled exclusively by human power, except as provided in Section 312.5, through a belt, chain, or gears, and having one or more wheels. A person riding a bicycle is subject to the provisions of this code specified in Sections 21200 and 21200.5. An electric bicycle is a bicycle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 311, Sec. 1. (SB 814) Effective January 1, 2022.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "311",
+    "section": "1",
+    "bill_number": "SB 814",
+    "effective_date": "2022-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "311",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=231.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/231.html",
+  "content_sha256": "d63a02ff06590a5dfe3c5e8a1a3db13dea6e3a04892cda0588988236ff70c9fc",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

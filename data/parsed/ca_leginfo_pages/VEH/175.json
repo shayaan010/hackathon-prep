@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "175",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "An “autoette” is a motor vehicle, located on a natural island with an area in excess of 20,000 acres and that is within a county having a population in excess of 4,000,000, that meets all of the following requirements:\n\n(a) Has three or more wheels in contact with the ground.\n\n(b) Has an unladed weight of no greater than 1,800 pounds.\n\n(c) Has an overall length of no more than 130 inches, including the front and rear bumpers.\n\n(d) Has a width of no more than 55 inches, as measured from its widest part.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 175\n\nAn “autoette” is a motor vehicle, located on a natural island with an area in excess of 20,000 acres and that is within a county having a population in excess of 4,000,000, that meets all of the following requirements:\n\n(a) Has three or more wheels in contact with the ground.\n\n(b) Has an unladed weight of no greater than 1,800 pounds.\n\n(c) Has an overall length of no more than 130 inches, including the front and rear bumpers.\n\n(d) Has a width of no more than 55 inches, as measured from its widest part.\n\n*(Amended by Stats. 2023, Ch. 91, Sec. 1. (AB 705) Effective January 1, 2024.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "An “autoette” is a motor vehicle, located on a natural island with an area in excess of 20,000 acres and that is within a county having a population in excess of 4,000,000, that meets all of the following requirements:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Has three or more wheels in contact with the ground.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Has an unladed weight of no greater than 1,800 pounds.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Has an overall length of no more than 130 inches, including the front and rear bumpers.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Has a width of no more than 55 inches, as measured from its widest part.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2023, Ch. 91, Sec. 1. (AB 705) Effective January 1, 2024.)",
+    "action": "Amended",
+    "statutes_year": 2023,
+    "chapter": "91",
+    "section": "1",
+    "bill_number": "AB 705",
+    "effective_date": "2024-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2023",
+  "op_chapter": "91",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=175.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/175.html",
+  "content_sha256": "a7971510cc4689d91a810233a7d6393392ce80dd073e4936709b4ad663235f69",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

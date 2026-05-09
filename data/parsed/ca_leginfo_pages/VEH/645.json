@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "645",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) A “transporter” is a person engaged in the business of moving any owned or lawfully possessed vehicle by lawful methods over the highways for the purpose of delivery of such vehicles to dealers, sales agents of a manufacturer, purchasers, or to a new location as requested by the owner.\n\n(b) The term “transporter” does not include a person engaged in the business of operating a tow car.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 645\n\n(a) A “transporter” is a person engaged in the business of moving any owned or lawfully possessed vehicle by lawful methods over the highways for the purpose of delivery of such vehicles to dealers, sales agents of a manufacturer, purchasers, or to a new location as requested by the owner.\n\n(b) The term “transporter” does not include a person engaged in the business of operating a tow car.\n\n*(Amended by Stats. 1963, Ch. 444.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A “transporter” is a person engaged in the business of moving any owned or lawfully possessed vehicle by lawful methods over the highways for the purpose of delivery of such vehicles to dealers, sales agents of a manufacturer, purchasers, or to a new location as requested by the owner.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The term “transporter” does not include a person engaged in the business of operating a tow car.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1963, Ch. 444.)",
+    "action": "Amended",
+    "statutes_year": 1963,
+    "chapter": "444",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1963",
+  "op_chapter": "444",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=645.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/645.html",
+  "content_sha256": "bfa160185423b39c8a0c01e63f4359bbe72c410c8c7c4a6dc3cc6eb922c07e41",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

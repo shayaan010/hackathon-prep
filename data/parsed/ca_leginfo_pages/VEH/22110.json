@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22110",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "6",
+  "chapter_title": "Turning and Stopping and Turning Signals",
+  "chapter_range": "22100 - 22113",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.6",
+  "text": "(a) The signals required by this chapter shall be given by signal lamp, unless a vehicle is not required to be and is not equipped with turn signals. Drivers of vehicles not required to be and not equipped with turn signals shall give a hand and arm signal when required by this chapter.\n\n(b) In the event the signal lamps become inoperable while driving, hand and arm signals shall be used in the manner required in this chapter.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 6. Turning and Stopping and Turning Signals [22100 - 22113]\n##### § 22110\n\n(a) The signals required by this chapter shall be given by signal lamp, unless a vehicle is not required to be and is not equipped with turn signals. Drivers of vehicles not required to be and not equipped with turn signals shall give a hand and arm signal when required by this chapter.\n\n(b) In the event the signal lamps become inoperable while driving, hand and arm signals shall be used in the manner required in this chapter.\n\n*(Amended by Stats. 1999, Ch. 1008, Sec. 12. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The signals required by this chapter shall be given by signal lamp, unless a vehicle is not required to be and is not equipped with turn signals. Drivers of vehicles not required to be and not equipped with turn signals shall give a hand and arm signal when required by this chapter.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "In the event the signal lamps become inoperable while driving, hand and arm signals shall be used in the manner required in this chapter.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 1008, Sec. 12. Effective January 1, 2000.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "1008",
+    "section": "12",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "1008",
+  "op_section": "12",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22110.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22110.html",
+  "content_sha256": "5fb8681a652980777355e1bf133375b099cffce91685b82fc9453cb7d18d3d73",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

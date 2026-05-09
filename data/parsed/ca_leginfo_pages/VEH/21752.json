@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21752",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "3",
+  "article_title": "Overtaking and Passing",
+  "article_range": "21750 - 21761",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.3",
+  "text": "No vehicle shall be driven to the left side of the roadway under the following conditions:\n\n(a) When approaching or upon the crest of a grade or a curve in the highway where the driver’s view is obstructed within such distance as to create a hazard in the event another vehicle might approach from the opposite direction.\n\n(b) When the view is obstructed upon approaching within 100 feet of any bridge, viaduct, or tunnel.\n\n(c) When approaching within 100 feet of or when traversing any railroad grade crossing.\n\n(d) When approaching within 100 feet of or when traversing any intersection.\n\nThis section shall not apply upon a one-way roadway.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 3. Overtaking and Passing [21750 - 21761]\n##### § 21752\n\nNo vehicle shall be driven to the left side of the roadway under the following conditions:\n\n(a) When approaching or upon the crest of a grade or a curve in the highway where the driver’s view is obstructed within such distance as to create a hazard in the event another vehicle might approach from the opposite direction.\n\n(b) When the view is obstructed upon approaching within 100 feet of any bridge, viaduct, or tunnel.\n\n(c) When approaching within 100 feet of or when traversing any railroad grade crossing.\n\n(d) When approaching within 100 feet of or when traversing any intersection.\n\nThis section shall not apply upon a one-way roadway.\n\n*(Amended by Stats. 2000, Ch. 596, Sec. 7. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No vehicle shall be driven to the left side of the roadway under the following conditions:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "When approaching or upon the crest of a grade or a curve in the highway where the driver’s view is obstructed within such distance as to create a hazard in the event another vehicle might approach from the opposite direction.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When the view is obstructed upon approaching within 100 feet of any bridge, viaduct, or tunnel.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "When approaching within 100 feet of or when traversing any railroad grade crossing.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "When approaching within 100 feet of or when traversing any intersection.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "This section shall not apply upon a one-way roadway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2000, Ch. 596, Sec. 7. Effective January 1, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2000,
+    "chapter": "596",
+    "section": "7",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "596",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21752.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21752.html",
+  "content_sha256": "f37d45c4bd33761611a864c4d27037dac73cba750b893c734a3b68a417fd8330",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

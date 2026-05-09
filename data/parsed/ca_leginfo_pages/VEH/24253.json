@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24253",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "1",
+  "article_title": "General Provisions",
+  "article_range": "24250 - 24255",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.1",
+  "text": "(a) All motor vehicles manufactured and first registered after January 1, 1970, shall be equipped so all taillamps are capable of remaining lighted for a period of at least one-quarter hour with the engine inoperative. This requirement shall be complied with by an energy storing system which is recharged by energy produced by the vehicle.\n\n(b) All motorcycles manufactured and first registered after January 1, 1971, shall be equipped so all taillamps, when turned on, will remain lighted automatically for a period of at least one-quarter hour if the engine stops.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 1. General Provisions [24250 - 24255]\n##### § 24253\n\n(a) All motor vehicles manufactured and first registered after January 1, 1970, shall be equipped so all taillamps are capable of remaining lighted for a period of at least one-quarter hour with the engine inoperative. This requirement shall be complied with by an energy storing system which is recharged by energy produced by the vehicle.\n\n(b) All motorcycles manufactured and first registered after January 1, 1971, shall be equipped so all taillamps, when turned on, will remain lighted automatically for a period of at least one-quarter hour if the engine stops.\n\n*(Amended by Stats. 1970, Ch. 217.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "All motor vehicles manufactured and first registered after January 1, 1970, shall be equipped so all taillamps are capable of remaining lighted for a period of at least one-quarter hour with the engine inoperative. This requirement shall be complied with by an energy storing system which is recharged by energy produced by the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "All motorcycles manufactured and first registered after January 1, 1971, shall be equipped so all taillamps, when turned on, will remain lighted automatically for a period of at least one-quarter hour if the engine stops.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1970, Ch. 217.)",
+    "action": "Amended",
+    "statutes_year": 1970,
+    "chapter": "217",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1970",
+  "op_chapter": "217",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24253.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24253.html",
+  "content_sha256": "93c08ec3877bb6a666f8d74b010b6917f1d17498ac2e3c83d4a41369d144c257",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

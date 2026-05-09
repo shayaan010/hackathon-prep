@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22101",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "6",
+  "chapter_title": "Turning and Stopping and Turning Signals",
+  "chapter_range": "22100 - 22113",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.6",
+  "text": "(a) The Department of Transportation or local authorities, in respect to highways under their respective jurisdictions, may cause official traffic control devices to be placed or erected within or adjacent to intersections to regulate or prohibit turning movements at such intersections.\n\n(b) When turning movements are required at an intersection, notice of that requirement shall be given by erection of a sign, unless an additional clearly marked traffic lane is provided for the approach to the turning movement, in which event notice as applicable to that additional traffic lane shall be given by an official traffic control device.\n\n(c) When right- or left-hand turns are prohibited at an intersection, notice of that prohibition shall be given by erection of a sign.\n\n(d) When an official traffic control device is placed as required in subdivisions (b) or (c), it is unlawful for a driver of a vehicle to disobey the directions of the official traffic control device.\n\n(e) (1) A person operating a bicycle may travel straight through a right- or left-hand turn only lane when an official traffic control device indicates that the movement is permitted.\n\n(2) The Department of Transportation shall develop standards for lane striping, pavement markings, and appropriate regulatory signs to implement this subdivision.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 6. Turning and Stopping and Turning Signals [22100 - 22113]\n##### § 22101\n\n(a) The Department of Transportation or local authorities, in respect to highways under their respective jurisdictions, may cause official traffic control devices to be placed or erected within or adjacent to intersections to regulate or prohibit turning movements at such intersections.\n\n(b) When turning movements are required at an intersection, notice of that requirement shall be given by erection of a sign, unless an additional clearly marked traffic lane is provided for the approach to the turning movement, in which event notice as applicable to that additional traffic lane shall be given by an official traffic control device.\n\n(c) When right- or left-hand turns are prohibited at an intersection, notice of that prohibition shall be given by erection of a sign.\n\n(d) When an official traffic control device is placed as required in subdivisions (b) or (c), it is unlawful for a driver of a vehicle to disobey the directions of the official traffic control device.\n\n(e) (1) A person operating a bicycle may travel straight through a right- or left-hand turn only lane when an official traffic control device indicates that the movement is permitted.\n\n    (2) The Department of Transportation shall develop standards for lane striping, pavement markings, and appropriate regulatory signs to implement this subdivision.\n\n*(Amended by Stats. 2019, Ch. 221, Sec. 1. (AB 1266) Effective January 1, 2020.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Department of Transportation or local authorities, in respect to highways under their respective jurisdictions, may cause official traffic control devices to be placed or erected within or adjacent to intersections to regulate or prohibit turning movements at such intersections.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When turning movements are required at an intersection, notice of that requirement shall be given by erection of a sign, unless an additional clearly marked traffic lane is provided for the approach to the turning movement, in which event notice as applicable to that additional traffic lane shall be given by an official traffic control device.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "When right- or left-hand turns are prohibited at an intersection, notice of that prohibition shall be given by erection of a sign.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "When an official traffic control device is placed as required in subdivisions (b) or (c), it is unlawful for a driver of a vehicle to disobey the directions of the official traffic control device.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "(1) A person operating a bicycle may travel straight through a right- or left-hand turn only lane when an official traffic control device indicates that the movement is permitted.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The Department of Transportation shall develop standards for lane striping, pavement markings, and appropriate regulatory signs to implement this subdivision.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2019, Ch. 221, Sec. 1. (AB 1266) Effective January 1, 2020.)",
+    "action": "Amended",
+    "statutes_year": 2019,
+    "chapter": "221",
+    "section": "1",
+    "bill_number": "AB 1266",
+    "effective_date": "2020-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2019",
+  "op_chapter": "221",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22101.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22101.html",
+  "content_sha256": "29e8a8d93f273b45a9265ca3ffa96d1319ef8594ebabf2953f119e9d23a297d8",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

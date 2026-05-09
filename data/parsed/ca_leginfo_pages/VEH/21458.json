@@ -1,0 +1,87 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21458",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "3",
+  "article_title": "Offenses Relating to Traffic Devices",
+  "article_range": "21450 - 21468",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.3",
+  "text": "(a) Whenever local authorities enact local parking regulations and indicate them by the use of paint upon curbs, the following colors only shall be used, and the colors indicate as follows:\n\n(1) Red indicates no stopping, standing, or parking, whether the vehicle is attended or unattended, except that a bus may stop in a red zone marked or signposted as a bus loading zone.\n\n(2) Yellow indicates stopping only for the purpose of loading or unloading passengers or freight for the time as may be specified by local ordinance.\n\n(3) White indicates stopping for either of the following purposes:\n\n(A) Loading or unloading of passengers for the time as may be specified by local ordinance.\n\n(B) Depositing mail in an adjacent mailbox.\n\n(4) Green indicates time limit parking specified by local ordinance.\n\n(5) Blue indicates parking limited exclusively to the vehicles of disabled persons and disabled veterans.\n\n(b) Regulations adopted pursuant to subdivision (a) shall be effective on days and during hours or times as prescribed by local ordinances.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 3. Offenses Relating to Traffic Devices [21450 - 21468]\n##### § 21458\n\n(a) Whenever local authorities enact local parking regulations and indicate them by the use of paint upon curbs, the following colors only shall be used, and the colors indicate as follows:\n\n    (1) Red indicates no stopping, standing, or parking, whether the vehicle is attended or unattended, except that a bus may stop in a red zone marked or signposted as a bus loading zone.\n\n    (2) Yellow indicates stopping only for the purpose of loading or unloading passengers or freight for the time as may be specified by local ordinance.\n\n    (3) White indicates stopping for either of the following purposes:\n\n        (A) Loading or unloading of passengers for the time as may be specified by local ordinance.\n\n        (B) Depositing mail in an adjacent mailbox.\n\n    (4) Green indicates time limit parking specified by local ordinance.\n\n    (5) Blue indicates parking limited exclusively to the vehicles of disabled persons and disabled veterans.\n\n(b) Regulations adopted pursuant to subdivision (a) shall be effective on days and during hours or times as prescribed by local ordinances.\n\n*(Amended by Stats. 1992, Ch. 1243, Sec. 88. Effective September 30, 1992.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever local authorities enact local parking regulations and indicate them by the use of paint upon curbs, the following colors only shall be used, and the colors indicate as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Red indicates no stopping, standing, or parking, whether the vehicle is attended or unattended, except that a bus may stop in a red zone marked or signposted as a bus loading zone.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Yellow indicates stopping only for the purpose of loading or unloading passengers or freight for the time as may be specified by local ordinance.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "White indicates stopping for either of the following purposes:",
+      "depth_em": 1.0
+    },
+    {
+      "label": "A",
+      "text": "Loading or unloading of passengers for the time as may be specified by local ordinance.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "B",
+      "text": "Depositing mail in an adjacent mailbox.",
+      "depth_em": 2.5
+    },
+    {
+      "label": "4",
+      "text": "Green indicates time limit parking specified by local ordinance.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "Blue indicates parking limited exclusively to the vehicles of disabled persons and disabled veterans.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Regulations adopted pursuant to subdivision (a) shall be effective on days and during hours or times as prescribed by local ordinances.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1992, Ch. 1243, Sec. 88. Effective September 30, 1992.)",
+    "action": "Amended",
+    "statutes_year": 1992,
+    "chapter": "1243",
+    "section": "88",
+    "bill_number": null,
+    "effective_date": "1992-09-30",
+    "operative_date": null
+  },
+  "op_statues": "1992",
+  "op_chapter": "1243",
+  "op_section": "88",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21458.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21458.html",
+  "content_sha256": "5d2609f9118a9ff652d5b9165a7439ca5882574cda9b266e8d7b2ace4eb00180",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

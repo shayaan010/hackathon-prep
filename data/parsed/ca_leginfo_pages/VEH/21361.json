@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21361",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "1",
+  "article_title": "Erection and Maintenance",
+  "article_range": "21350 - 21376",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.1",
+  "text": "(a) When the outermost boundaries of two or more intersections are confined within a distance of 200 feet, the Department of Transportation in respect to state highways, and a local authority with respect to highways under its jurisdiction, shall have the power to designate a single intersection by the installation and operation of traffic signals which may be supplemented by signs or markings. When so designated, the single intersection shall be the legal intersection for the purposes of traffic movement and regulation.\n\n(b) Whenever a single intersection has been designated by the Department of Transportation or by local authorities as set forth in subdivision (a), the department or such authorities may designate marked crosswalks at certain locations within the intersection or contiguous thereto, and when the marked crosswalks are established, they shall constitute the only crosswalks at the intersection. The department or the local authorities shall erect signs prohibiting pedestrian crossing at locations which, except for the provisions of this section, would constitute unmarked crosswalks.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 1. Erection and Maintenance [21350 - 21376]\n##### § 21361\n\n(a) When the outermost boundaries of two or more intersections are confined within a distance of 200 feet, the Department of Transportation in respect to state highways, and a local authority with respect to highways under its jurisdiction, shall have the power to designate a single intersection by the installation and operation of traffic signals which may be supplemented by signs or markings. When so designated, the single intersection shall be the legal intersection for the purposes of traffic movement and regulation.\n\n(b) Whenever a single intersection has been designated by the Department of Transportation or by local authorities as set forth in subdivision (a), the department or such authorities may designate marked crosswalks at certain locations within the intersection or contiguous thereto, and when the marked crosswalks are established, they shall constitute the only crosswalks at the intersection. The department or the local authorities shall erect signs prohibiting pedestrian crossing at locations which, except for the provisions of this section, would constitute unmarked crosswalks.\n\n*(Amended by Stats. 1974, Ch. 545.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "When the outermost boundaries of two or more intersections are confined within a distance of 200 feet, the Department of Transportation in respect to state highways, and a local authority with respect to highways under its jurisdiction, shall have the power to designate a single intersection by the installation and operation of traffic signals which may be supplemented by signs or markings. When so designated, the single intersection shall be the legal intersection for the purposes of traffic movement and regulation.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Whenever a single intersection has been designated by the Department of Transportation or by local authorities as set forth in subdivision (a), the department or such authorities may designate marked crosswalks at certain locations within the intersection or contiguous thereto, and when the marked crosswalks are established, they shall constitute the only crosswalks at the intersection. The department or the local authorities shall erect signs prohibiting pedestrian crossing at locations which, except for the provisions of this section, would constitute unmarked crosswalks.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 545.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "545",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "545",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21361.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21361.html",
+  "content_sha256": "07867499fa6e76e9226c90bb1ee93880b3877d54d17d2d2f89499e03e9a4de8f",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

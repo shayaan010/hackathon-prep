@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21651",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "1",
+  "article_title": "Driving on Right Side",
+  "article_range": "21650 - 21664",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.1",
+  "text": "(a) Whenever a highway has been divided into two or more roadways by means of intermittent barriers or by means of a dividing section of not less than two feet in width, either unpaved or delineated by curbs, double-parallel lines, or other markings on the roadway, it is unlawful to do either of the following:\n\n(1) To drive any vehicle over, upon, or across the dividing section.\n\n(2) To make any left, semicircular, or U-turn with the vehicle on the divided highway, except through an opening in the barrier designated and intended by public authorities for the use of vehicles or through a plainly marked opening in the dividing section.\n\n(b) It is unlawful to drive any vehicle upon a highway, except to the right of an intermittent barrier or a dividing section which separates two or more opposing lanes of traffic. Except as otherwise provided in subdivision (c), a violation of this subdivision is a misdemeanor.\n\n(c) Any willful violation of subdivision (b) which results in injury to, or death of, a person shall be punished by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code, or imprisonment in a county jail for a period of not more than six months.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 1. Driving on Right Side [21650 - 21664]\n##### § 21651\n\n(a) Whenever a highway has been divided into two or more roadways by means of intermittent barriers or by means of a dividing section of not less than two feet in width, either unpaved or delineated by curbs, double-parallel lines, or other markings on the roadway, it is unlawful to do either of the following:\n\n    (1) To drive any vehicle over, upon, or across the dividing section.\n\n    (2) To make any left, semicircular, or U-turn with the vehicle on the divided highway, except through an opening in the barrier designated and intended by public authorities for the use of vehicles or through a plainly marked opening in the dividing section.\n\n(b) It is unlawful to drive any vehicle upon a highway, except to the right of an intermittent barrier or a dividing section which separates two or more opposing lanes of traffic. Except as otherwise provided in subdivision (c), a violation of this subdivision is a misdemeanor.\n\n(c) Any willful violation of subdivision (b) which results in injury to, or death of, a person shall be punished by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code, or imprisonment in a county jail for a period of not more than six months.\n\n*(Amended by Stats. 2011, Ch. 15, Sec. 608. (AB 109) Effective April 4, 2011. Operative October 1, 2011, by Sec. 636 of Ch. 15, as amended by Stats. 2011, Ch. 39, Sec. 68.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever a highway has been divided into two or more roadways by means of intermittent barriers or by means of a dividing section of not less than two feet in width, either unpaved or delineated by curbs, double-parallel lines, or other markings on the roadway, it is unlawful to do either of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "To drive any vehicle over, upon, or across the dividing section.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "To make any left, semicircular, or U-turn with the vehicle on the divided highway, except through an opening in the barrier designated and intended by public authorities for the use of vehicles or through a plainly marked opening in the dividing section.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "It is unlawful to drive any vehicle upon a highway, except to the right of an intermittent barrier or a dividing section which separates two or more opposing lanes of traffic. Except as otherwise provided in subdivision (c), a violation of this subdivision is a misdemeanor.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any willful violation of subdivision (b) which results in injury to, or death of, a person shall be punished by imprisonment pursuant to subdivision (h) of Section 1170 of the Penal Code, or imprisonment in a county jail for a period of not more than six months.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2011, Ch. 15, Sec. 608. (AB 109) Effective April 4, 2011. Operative October 1, 2011, by Sec. 636 of Ch. 15, as amended by Stats. 2011, Ch. 39, Sec. 68.)",
+    "action": "Amended",
+    "statutes_year": 2011,
+    "chapter": "15",
+    "section": "608",
+    "bill_number": "AB 109",
+    "effective_date": "2011-04-04",
+    "operative_date": "2011-10-01"
+  },
+  "op_statues": "2011",
+  "op_chapter": "15",
+  "op_section": "608",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21651.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21651.html",
+  "content_sha256": "fd37a7930debeff1ff1a71da000737511649e7e8b16af41286b4098942e06a20",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

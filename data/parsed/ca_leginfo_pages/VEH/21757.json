@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21757",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "3",
+  "article_title": "Overtaking and Passing",
+  "article_range": "21750 - 21761",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.3",
+  "text": "The driver of a vehicle shall not overtake and pass upon the left, nor shall any driver of a vehicle drive upon the left side of, any interurban electric or street car proceeding in the same direction whether the street car is actually in motion or temporarily at rest, except:\n\n(a) When so directed by a police or traffic officer.\n\n(b) When upon a one-way street.\n\n(c) When upon a street where the tracks are so located as to prevent compliance with this section.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 3. Overtaking and Passing [21750 - 21761]\n##### § 21757\n\nThe driver of a vehicle shall not overtake and pass upon the left, nor shall any driver of a vehicle drive upon the left side of, any interurban electric or street car proceeding in the same direction whether the street car is actually in motion or temporarily at rest, except:\n\n(a) When so directed by a police or traffic officer.\n\n(b) When upon a one-way street.\n\n(c) When upon a street where the tracks are so located as to prevent compliance with this section.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The driver of a vehicle shall not overtake and pass upon the left, nor shall any driver of a vehicle drive upon the left side of, any interurban electric or street car proceeding in the same direction whether the street car is actually in motion or temporarily at rest, except:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "When so directed by a police or traffic officer.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "When upon a one-way street.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "When upon a street where the tracks are so located as to prevent compliance with this section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21757.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21757.html",
+  "content_sha256": "2d8c5b1780d042f76f442cb03bd45ffd37890f7ddbf9e62bb5cefd78e95cb299",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

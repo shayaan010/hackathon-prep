@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21292",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "7",
+  "article_title": "Operation of Electrically Motorized Boards",
+  "article_range": "21290 - 21296",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.9",
+  "text": "A person shall not operate an electrically motorized board upon a highway, bikeway, or any other public bicycle path, sidewalk, or trail, unless that person is wearing a properly fitted and fastened bicycle helmet that meets the standards described in Section 21212.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 7. Operation of Electrically Motorized Boards [21290 - 21296]\n##### § 21292\n\nA person shall not operate an electrically motorized board upon a highway, bikeway, or any other public bicycle path, sidewalk, or trail, unless that person is wearing a properly fitted and fastened bicycle helmet that meets the standards described in Section 21212.\n\n*(Added by Stats. 2015, Ch. 777, Sec. 3. (AB 604) Effective January 1, 2016.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A person shall not operate an electrically motorized board upon a highway, bikeway, or any other public bicycle path, sidewalk, or trail, unless that person is wearing a properly fitted and fastened bicycle helmet that meets the standards described in Section 21212.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2015, Ch. 777, Sec. 3. (AB 604) Effective January 1, 2016.)",
+    "action": "Added",
+    "statutes_year": 2015,
+    "chapter": "777",
+    "section": "3",
+    "bill_number": "AB 604",
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2015",
+  "op_chapter": "777",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21292.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21292.html",
+  "content_sha256": "5f1b7181fdef6021135c6beefa61f40ce282485511774392462f57e9cc641285",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

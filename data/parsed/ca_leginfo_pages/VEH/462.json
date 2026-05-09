@@ -1,0 +1,87 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "462",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “paratransit vehicle” is a passenger vehicle, other than a bus, schoolbus, school pupil activity bus, youth bus, general public paratransit vehicle, or taxicab that is both of the following:\n\n(a) (1) Operated for hire by a business, nonprofit organization, or the state, or a political subdivision of the state utilizing drivers who receive compensation for their services and who spend a majority of their workweek operating a passenger vehicle.\n\n(2) For the purposes of this subdivision, compensation does not include reimbursement to volunteer drivers of the cost of providing transportation services at a rate not greater than that approved by the United States Internal Revenue Service for volunteers.\n\n(3) For the purposes of this subdivision, “for hire” means that the entity providing transportation services is compensated for the transportation under contract or agreement.\n\n(b) Regularly used to provide transportation services to any of the following:\n\n(1) Disabled persons who meet the definition of handicapped persons, as defined in Section 99206.5 of the Public Utilities Code.\n\n(2) Persons with a developmental disability, as defined in subdivision (a) of Section 4512 of the Welfare and Institutions Code.\n\n(3) Individuals with disabilities who are determined to be eligible for complementary paratransit services under Title II of the Americans with Disabilities Act of 1990 (P.L.101-336).\n\n(4) Persons who are 55 years of age or older.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 462\n\nA “paratransit vehicle” is a passenger vehicle, other than a bus, schoolbus, school pupil activity bus, youth bus, general public paratransit vehicle, or taxicab that is both of the following:\n\n(a) (1) Operated for hire by a business, nonprofit organization, or the state, or a political subdivision of the state utilizing drivers who receive compensation for their services and who spend a majority of their workweek operating a passenger vehicle.\n\n    (2) For the purposes of this subdivision, compensation does not include reimbursement to volunteer drivers of the cost of providing transportation services at a rate not greater than that approved by the United States Internal Revenue Service for volunteers.\n\n    (3) For the purposes of this subdivision, “for hire” means that the entity providing transportation services is compensated for the transportation under contract or agreement.\n\n(b) Regularly used to provide transportation services to any of the following:\n\n    (1) Disabled persons who meet the definition of handicapped persons, as defined in Section 99206.5 of the Public Utilities Code.\n\n    (2) Persons with a developmental disability, as defined in subdivision (a) of Section 4512 of the Welfare and Institutions Code.\n\n    (3) Individuals with disabilities who are determined to be eligible for complementary paratransit services under Title II of the Americans with Disabilities Act of 1990 (P.L.101-336).\n\n    (4) Persons who are 55 years of age or older.\n\n*(Amended by Stats. 2004, Ch. 404, Sec. 2. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “paratransit vehicle” is a passenger vehicle, other than a bus, schoolbus, school pupil activity bus, youth bus, general public paratransit vehicle, or taxicab that is both of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "(1) Operated for hire by a business, nonprofit organization, or the state, or a political subdivision of the state utilizing drivers who receive compensation for their services and who spend a majority of their workweek operating a passenger vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "For the purposes of this subdivision, compensation does not include reimbursement to volunteer drivers of the cost of providing transportation services at a rate not greater than that approved by the United States Internal Revenue Service for volunteers.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "For the purposes of this subdivision, “for hire” means that the entity providing transportation services is compensated for the transportation under contract or agreement.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Regularly used to provide transportation services to any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Disabled persons who meet the definition of handicapped persons, as defined in Section 99206.5 of the Public Utilities Code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Persons with a developmental disability, as defined in subdivision (a) of Section 4512 of the Welfare and Institutions Code.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Individuals with disabilities who are determined to be eligible for complementary paratransit services under Title II of the Americans with Disabilities Act of 1990 (P.L.101-336).",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Persons who are 55 years of age or older.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 404, Sec. 2. Effective January 1, 2005.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "404",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "404",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=462.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/462.html",
+  "content_sha256": "6e3cc9a15835e045c99d1ddd7f1966209d665c5c20d0fb6a61ad7fecae3f2850",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

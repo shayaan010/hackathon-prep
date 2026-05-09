@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "(a) It is unlawful for a person to display or cause or permit to be displayed any sign, mark, or advertisement indicating an official connection with either the Department of Motor Vehicles or the Department of the California Highway Patrol unless the person has lawful authority, permission, or right to make that display.\n\n(b) It is unlawful for the holder of an occupational license issued pursuant to Division 5 (commencing with Section 11100) to use the initials “DMV,” the Department of Motor Vehicles logogram, or the words “Department of Motor Vehicles” in any business name, telephone number, or internet domain name, as defined in Section 17527 of the Business and Professions Code. An occupational licensee shall not use the initials, logogram, or words in any advertisement in a way that indicates, or could be construed to indicate, an official connection with the Department of Motor Vehicles other than as a licensee.",
+  "markdown": "# Vehicle Code\n##### § 25\n\n(a) It is unlawful for a person to display or cause or permit to be displayed any sign, mark, or advertisement indicating an official connection with either the Department of Motor Vehicles or the Department of the California Highway Patrol unless the person has lawful authority, permission, or right to make that display.\n\n(b) It is unlawful for the holder of an occupational license issued pursuant to Division 5 (commencing with Section 11100) to use the initials “DMV,” the Department of Motor Vehicles logogram, or the words “Department of Motor Vehicles” in any business name, telephone number, or internet domain name, as defined in Section 17527 of the Business and Professions Code. An occupational licensee shall not use the initials, logogram, or words in any advertisement in a way that indicates, or could be construed to indicate, an official connection with the Department of Motor Vehicles other than as a licensee.\n\n*(Amended by Stats. 2025, Ch. 68, Sec. 1. (AB 1272) Effective January 1, 2026.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "It is unlawful for a person to display or cause or permit to be displayed any sign, mark, or advertisement indicating an official connection with either the Department of Motor Vehicles or the Department of the California Highway Patrol unless the person has lawful authority, permission, or right to make that display.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "It is unlawful for the holder of an occupational license issued pursuant to Division 5 (commencing with Section 11100) to use the initials “DMV,” the Department of Motor Vehicles logogram, or the words “Department of Motor Vehicles” in any business name, telephone number, or internet domain name, as defined in Section 17527 of the Business and Professions Code. An occupational licensee shall not use the initials, logogram, or words in any advertisement in a way that indicates, or could be construed to indicate, an official connection with the Department of Motor Vehicles other than as a licensee.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2025, Ch. 68, Sec. 1. (AB 1272) Effective January 1, 2026.)",
+    "action": "Amended",
+    "statutes_year": 2025,
+    "chapter": "68",
+    "section": "1",
+    "bill_number": "AB 1272",
+    "effective_date": "2026-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2025",
+  "op_chapter": "68",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25.html",
+  "content_sha256": "c93bb22c80fe2bfee20a626fa0587fe24c263cb3ac7e7afd61fa5b640cd118fa",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "20015",
+  "division": "10",
+  "division_title": "ACCIDENTS AND ACCIDENT REPORTS",
+  "division_range": "20000 - 20018",
+  "chapter": "1",
+  "chapter_title": "Accidents and Accident Reports",
+  "chapter_range": "20000 - 20018",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "14.1",
+  "text": "(a) No traffic or police officer shall include in any counter report of a property-damage accident, as defined in this section, any determination by the peace officer of fault of the reporting person, including, but not limited to, inattentiveness. This section does not apply to a determination which is the result of an examination of the physical evidence of the accident at the site of the accident by the traffic or police officer or the result of an express, knowing admission of the reporting person if the basis for the determination is also included in the report.\n\n(b) As used in this section, “counter report of a property-damage accident” means any report of an accident involving one or more vehicles which meets the following criteria:\n\n(1) The accident reported caused damage to property, but did not cause personal injury to or the death of any person.\n\n(2) The report is prepared at an office of the California Highway Patrol or local law enforcement agency.\n\n(3) The report is written or recorded by, or with the assistance of, a peace officer.",
+  "markdown": "# Vehicle Code\n## Division 10. ACCIDENTS AND ACCIDENT REPORTS [20000 - 20018]\n### Chapter 1. Accidents and Accident Reports [20000 - 20018]\n##### § 20015\n\n(a) No traffic or police officer shall include in any counter report of a property-damage accident, as defined in this section, any determination by the peace officer of fault of the reporting person, including, but not limited to, inattentiveness. This section does not apply to a determination which is the result of an examination of the physical evidence of the accident at the site of the accident by the traffic or police officer or the result of an express, knowing admission of the reporting person if the basis for the determination is also included in the report.\n\n(b) As used in this section, “counter report of a property-damage accident” means any report of an accident involving one or more vehicles which meets the following criteria:\n\n    (1) The accident reported caused damage to property, but did not cause personal injury to or the death of any person.\n\n    (2) The report is prepared at an office of the California Highway Patrol or local law enforcement agency.\n\n    (3) The report is written or recorded by, or with the assistance of, a peace officer.\n\n*(Added by Stats. 1984, Ch. 861, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No traffic or police officer shall include in any counter report of a property-damage accident, as defined in this section, any determination by the peace officer of fault of the reporting person, including, but not limited to, inattentiveness. This section does not apply to a determination which is the result of an examination of the physical evidence of the accident at the site of the accident by the traffic or police officer or the result of an express, knowing admission of the reporting person if the basis for the determination is also included in the report.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "As used in this section, “counter report of a property-damage accident” means any report of an accident involving one or more vehicles which meets the following criteria:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The accident reported caused damage to property, but did not cause personal injury to or the death of any person.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The report is prepared at an office of the California Highway Patrol or local law enforcement agency.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The report is written or recorded by, or with the assistance of, a peace officer.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1984, Ch. 861, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1984,
+    "chapter": "861",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "861",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=20015.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/20015.html",
+  "content_sha256": "334d1e0f347265005c048a561e7f2044c17f2e0c05ae1a7110b75f0b10da64b6",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

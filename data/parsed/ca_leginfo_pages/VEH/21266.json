@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21266",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "5.5",
+  "article_title": "Operation of Low-Speed Vehicles",
+  "article_range": "21250 - 21266",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.7",
+  "text": "(a) Notwithstanding Section 21260, local authorities, by ordinance or resolution, may restrict or prohibit the use of low-speed vehicles.\n\n(b) Notwithstanding Section 21260, a local law enforcement agency with primary traffic enforcement responsibilities or the Department of the California Highway Patrol may prohibit the operation of a low-speed vehicle on any roadway under that agency’s or department’s jurisdiction when the agency or the department deems the prohibition to be in the best interest of public safety. Any such prohibition shall become effective when appropriate signs giving notice thereof are erected upon the roadway.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 5.5. Operation of Low-Speed Vehicles [21250 - 21266]\n##### § 21266\n\n(a) Notwithstanding Section 21260, local authorities, by ordinance or resolution, may restrict or prohibit the use of low-speed vehicles.\n\n(b) Notwithstanding Section 21260, a local law enforcement agency with primary traffic enforcement responsibilities or the Department of the California Highway Patrol may prohibit the operation of a low-speed vehicle on any roadway under that agency’s or department’s jurisdiction when the agency or the department deems the prohibition to be in the best interest of public safety. Any such prohibition shall become effective when appropriate signs giving notice thereof are erected upon the roadway.\n\n*(Added by Stats. 1999, Ch. 140, Sec. 6. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Notwithstanding Section 21260, local authorities, by ordinance or resolution, may restrict or prohibit the use of low-speed vehicles.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding Section 21260, a local law enforcement agency with primary traffic enforcement responsibilities or the Department of the California Highway Patrol may prohibit the operation of a low-speed vehicle on any roadway under that agency’s or department’s jurisdiction when the agency or the department deems the prohibition to be in the best interest of public safety. Any such prohibition shall become effective when appropriate signs giving notice thereof are erected upon the roadway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1999, Ch. 140, Sec. 6. Effective January 1, 2000.)",
+    "action": "Added",
+    "statutes_year": 1999,
+    "chapter": "140",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "140",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21266.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21266.html",
+  "content_sha256": "f2e909bdb64ed3d57341744312cdd273d5e77a0489105dcc934b3242f5472983",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

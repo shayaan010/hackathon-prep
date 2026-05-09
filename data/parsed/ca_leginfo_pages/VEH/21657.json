@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21657",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "1",
+  "article_title": "Driving on Right Side",
+  "article_range": "21650 - 21664",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.1",
+  "text": "The authorities in charge of any highway may designate any highway, roadway, part of a roadway, or specific lanes upon which vehicular traffic shall proceed in one direction at all or such times as shall be indicated by official traffic control devices. When a roadway has been so designated, a vehicle shall be driven only in the direction designated at all or such times as shall be indicated by traffic control devices.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 1. Driving on Right Side [21650 - 21664]\n##### § 21657\n\nThe authorities in charge of any highway may designate any highway, roadway, part of a roadway, or specific lanes upon which vehicular traffic shall proceed in one direction at all or such times as shall be indicated by official traffic control devices. When a roadway has been so designated, a vehicle shall be driven only in the direction designated at all or such times as shall be indicated by traffic control devices.\n\n*(Amended by Stats. 1969, Ch. 136.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The authorities in charge of any highway may designate any highway, roadway, part of a roadway, or specific lanes upon which vehicular traffic shall proceed in one direction at all or such times as shall be indicated by official traffic control devices. When a roadway has been so designated, a vehicle shall be driven only in the direction designated at all or such times as shall be indicated by traffic control devices.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1969, Ch. 136.)",
+    "action": "Amended",
+    "statutes_year": 1969,
+    "chapter": "136",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1969",
+  "op_chapter": "136",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21657.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21657.html",
+  "content_sha256": "da6961b012dca8244adb92fd47119cf5745d1c025b025bbfe14ccdf51430c0b7",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

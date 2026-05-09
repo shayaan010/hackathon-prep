@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "257",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “clean fuel vehicle” means any passenger or commercial vehicle or pickup truck that is fueled by alternative fuels, as defined in Section 301 of the Energy Policy Act of 1992 (P.L. 102-486), and produces emissions which do not exceed whichever of the following standards, as defined by regulations of the State Air Resources Board in effect on January 1, 1994, is applicable to the model year of the vehicle:\n\n(a) For a vehicle of the 1994 to 1996, inclusive, model year, the emission standard applicable to a transitional low-emission vehicle.\n\n(b) For a vehicle of the 1997 model year, the emission standard applicable to a low-emission vehicle.\n\n(c) For a vehicle of the 1998 to 2000, inclusive, model year, the emission standard applicable to an ultra low-emission vehicle.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 257\n\nA “clean fuel vehicle” means any passenger or commercial vehicle or pickup truck that is fueled by alternative fuels, as defined in Section 301 of the Energy Policy Act of 1992 (P.L. 102-486), and produces emissions which do not exceed whichever of the following standards, as defined by regulations of the State Air Resources Board in effect on January 1, 1994, is applicable to the model year of the vehicle:\n\n(a) For a vehicle of the 1994 to 1996, inclusive, model year, the emission standard applicable to a transitional low-emission vehicle.\n\n(b) For a vehicle of the 1997 model year, the emission standard applicable to a low-emission vehicle.\n\n(c) For a vehicle of the 1998 to 2000, inclusive, model year, the emission standard applicable to an ultra low-emission vehicle.\n\n*(Added by Stats. 1993, Ch. 1159, Sec. 4. Effective January 1, 1994.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “clean fuel vehicle” means any passenger or commercial vehicle or pickup truck that is fueled by alternative fuels, as defined in Section 301 of the Energy Policy Act of 1992 (P.L. 102-486), and produces emissions which do not exceed whichever of the following standards, as defined by regulations of the State Air Resources Board in effect on January 1, 1994, is applicable to the model year of the vehicle:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "For a vehicle of the 1994 to 1996, inclusive, model year, the emission standard applicable to a transitional low-emission vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For a vehicle of the 1997 model year, the emission standard applicable to a low-emission vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "For a vehicle of the 1998 to 2000, inclusive, model year, the emission standard applicable to an ultra low-emission vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1993, Ch. 1159, Sec. 4. Effective January 1, 1994.)",
+    "action": "Added",
+    "statutes_year": 1993,
+    "chapter": "1159",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "1994-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1993",
+  "op_chapter": "1159",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=257.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/257.html",
+  "content_sha256": "132512c99d8df9290cdccdf3f61b06b042cd7a61f31d98074fcc60e4a7bb92aa",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

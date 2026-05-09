@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2805",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "4",
+  "chapter_title": "Administration and Enforcement",
+  "chapter_range": "2800 - 2818",
+  "article": "1",
+  "article_title": "Lawful Orders and Inspections",
+  "article_range": "2800 - 2818",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.4.1",
+  "text": "(a) For the purpose of locating stolen vehicles, (1) any member of the California Highway Patrol, or (2) a member of a city police department, a member of a county sheriff’s office, or a district attorney investigator, whose primary responsibility is to conduct vehicle theft investigations, may inspect any vehicle of a type required to be registered under this code, or any identifiable vehicle component thereof, on a highway or in any public garage, repair shop, terminal, parking lot, new or used car lot, automobile dismantler’s lot, vehicle shredding facility, vehicle leasing or rental lot, vehicle equipment rental yard, vehicle salvage pool, or other similar establishment, or any agricultural or construction work location where work is being actively performed, and may inspect the title or registration of vehicles, in order to establish the rightful ownership or possession of the vehicle or identifiable vehicle component.\n\nAs used in this subdivision, “identifiable vehicle component” means any component which can be distinguished from other similar components by a serial number or other unique distinguishing number, sign, or symbol.\n\n(b) A member of the California Highway Patrol, a member of a city police department or county sheriff’s office, or a district attorney investigator whose primary responsibility is to conduct vehicle theft investigations, may also inspect, for the purposes specified in subdivision (a), implements of husbandry, special construction equipment, forklifts, and special mobile equipment in the places described in subdivision (a) or when that vehicle is incidentally operated or transported upon a highway.\n\n(c) Whenever possible, inspections conducted pursuant to subdivision (a) or (b) shall be conducted at a time and in a manner so as to minimize any interference with, or delay of, business operations.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 4. Administration and Enforcement [2800 - 2818]\n#### Article 1. Lawful Orders and Inspections [2800 - 2818]\n##### § 2805\n\n(a) For the purpose of locating stolen vehicles, (1) any member of the California Highway Patrol, or (2) a member of a city police department, a member of a county sheriff’s office, or a district attorney investigator, whose primary responsibility is to conduct vehicle theft investigations, may inspect any vehicle of a type required to be registered under this code, or any identifiable vehicle component thereof, on a highway or in any public garage, repair shop, terminal, parking lot, new or used car lot, automobile dismantler’s lot, vehicle shredding facility, vehicle leasing or rental lot, vehicle equipment rental yard, vehicle salvage pool, or other similar establishment, or any agricultural or construction work location where work is being actively performed, and may inspect the title or registration of vehicles, in order to establish the rightful ownership or possession of the vehicle or identifiable vehicle component.\n\nAs used in this subdivision, “identifiable vehicle component” means any component which can be distinguished from other similar components by a serial number or other unique distinguishing number, sign, or symbol.\n\n(b) A member of the California Highway Patrol, a member of a city police department or county sheriff’s office, or a district attorney investigator whose primary responsibility is to conduct vehicle theft investigations, may also inspect, for the purposes specified in subdivision (a), implements of husbandry, special construction equipment, forklifts, and special mobile equipment in the places described in subdivision (a) or when that vehicle is incidentally operated or transported upon a highway.\n\n(c) Whenever possible, inspections conducted pursuant to subdivision (a) or (b) shall be conducted at a time and in a manner so as to minimize any interference with, or delay of, business operations.\n\n*(Amended by Stats. 2000, Ch. 688, Sec. 21. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "For the purpose of locating stolen vehicles, (1) any member of the California Highway Patrol, or (2) a member of a city police department, a member of a county sheriff’s office, or a district attorney investigator, whose primary responsibility is to conduct vehicle theft investigations, may inspect any vehicle of a type required to be registered under this code, or any identifiable vehicle component thereof, on a highway or in any public garage, repair shop, terminal, parking lot, new or used car lot, automobile dismantler’s lot, vehicle shredding facility, vehicle leasing or rental lot, vehicle equipment rental yard, vehicle salvage pool, or other similar establishment, or any agricultural or construction work location where work is being actively performed, and may inspect the title or registration of vehicles, in order to establish the rightful ownership or possession of the vehicle or identifiable vehicle component.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "As used in this subdivision, “identifiable vehicle component” means any component which can be distinguished from other similar components by a serial number or other unique distinguishing number, sign, or symbol.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A member of the California Highway Patrol, a member of a city police department or county sheriff’s office, or a district attorney investigator whose primary responsibility is to conduct vehicle theft investigations, may also inspect, for the purposes specified in subdivision (a), implements of husbandry, special construction equipment, forklifts, and special mobile equipment in the places described in subdivision (a) or when that vehicle is incidentally operated or transported upon a highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Whenever possible, inspections conducted pursuant to subdivision (a) or (b) shall be conducted at a time and in a manner so as to minimize any interference with, or delay of, business operations.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2000, Ch. 688, Sec. 21. Effective January 1, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2000,
+    "chapter": "688",
+    "section": "21",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "688",
+  "op_section": "21",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2805.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2805.html",
+  "content_sha256": "c2e5638e6c06d4ff731ebbb47c7df314f967cffcbec4f8f5841eecb42aa6ff4d",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21109",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "3",
+  "article_title": "Local Regulation",
+  "article_range": "21100 - 21118",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.3",
+  "text": "(a) Local authorities may adopt rules and regulations by ordinance or resolution regulating vehicular and pedestrian traffic in subways, tubes, and tunnels or upon bridges or viaducts.\n\n(b) The proposed ordinance or resolution shall not be effective as to any state highway until approved in writing by the Department of Transportation. The Department of Transportation, in considering any proposed ordinance or resolution to prohibit or restrict the use by cargo tank vehicles displaying flammable liquids placards in tunnels of a length of 300 feet or greater, shall consult with the Department of the California Highway Patrol and hold a public hearing as provided in Section 21109.5 of the Vehicle Code. In evaluating the feasibility of prohibiting or restricting the use of the structure by cargo tank vehicles displaying flammable liquids placards, the Department of Transportation shall conduct a traffic and engineering survey which includes an analysis of the relative risks to public safety in determining the feasibility of reasonable alternative routes.\n\n(c) The rules or regulations shall not be effective until appropriate signs have been posted giving notice thereof to drivers and pedestrians approaching the highway structures.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 3. Local Regulation [21100 - 21118]\n##### § 21109\n\n(a) Local authorities may adopt rules and regulations by ordinance or resolution regulating vehicular and pedestrian traffic in subways, tubes, and tunnels or upon bridges or viaducts.\n\n(b) The proposed ordinance or resolution shall not be effective as to any state highway until approved in writing by the Department of Transportation. The Department of Transportation, in considering any proposed ordinance or resolution to prohibit or restrict the use by cargo tank vehicles displaying flammable liquids placards in tunnels of a length of 300 feet or greater, shall consult with the Department of the California Highway Patrol and hold a public hearing as provided in Section 21109.5 of the Vehicle Code. In evaluating the feasibility of prohibiting or restricting the use of the structure by cargo tank vehicles displaying flammable liquids placards, the Department of Transportation shall conduct a traffic and engineering survey which includes an analysis of the relative risks to public safety in determining the feasibility of reasonable alternative routes.\n\n(c) The rules or regulations shall not be effective until appropriate signs have been posted giving notice thereof to drivers and pedestrians approaching the highway structures.\n\n*(Amended by Stats. 1982, Ch. 1255, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Local authorities may adopt rules and regulations by ordinance or resolution regulating vehicular and pedestrian traffic in subways, tubes, and tunnels or upon bridges or viaducts.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The proposed ordinance or resolution shall not be effective as to any state highway until approved in writing by the Department of Transportation. The Department of Transportation, in considering any proposed ordinance or resolution to prohibit or restrict the use by cargo tank vehicles displaying flammable liquids placards in tunnels of a length of 300 feet or greater, shall consult with the Department of the California Highway Patrol and hold a public hearing as provided in Section 21109.5 of the Vehicle Code. In evaluating the feasibility of prohibiting or restricting the use of the structure by cargo tank vehicles displaying flammable liquids placards, the Department of Transportation shall conduct a traffic and engineering survey which includes an analysis of the relative risks to public safety in determining the feasibility of reasonable alternative routes.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The rules or regulations shall not be effective until appropriate signs have been posted giving notice thereof to drivers and pedestrians approaching the highway structures.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1982, Ch. 1255, Sec. 4.)",
+    "action": "Amended",
+    "statutes_year": 1982,
+    "chapter": "1255",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "1255",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21109.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21109.html",
+  "content_sha256": "a423d1bc07cd820c497cfa452f170dfab6dbb8631c0f1529dc35b5d0b48d4f5b",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

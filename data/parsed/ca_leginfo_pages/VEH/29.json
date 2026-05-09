@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "29",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "Wherever a notice or other communication is required by this code to be mailed by registered mail by or to a person or corporation, the mailing of that notice or other communication by certified mail, or by electronic notification, as authorized pursuant to Section 1801.2, shall be deemed to be a sufficient compliance with the requirements of law.",
+  "markdown": "# Vehicle Code\n##### § 29\n\nWherever a notice or other communication is required by this code to be mailed by registered mail by or to a person or corporation, the mailing of that notice or other communication by certified mail, or by electronic notification, as authorized pursuant to Section 1801.2, shall be deemed to be a sufficient compliance with the requirements of law.\n\n*(Amended by Stats. 2022, Ch. 838, Sec. 3. (SB 1193) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Wherever a notice or other communication is required by this code to be mailed by registered mail by or to a person or corporation, the mailing of that notice or other communication by certified mail, or by electronic notification, as authorized pursuant to Section 1801.2, shall be deemed to be a sufficient compliance with the requirements of law.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 838, Sec. 3. (SB 1193) Effective January 1, 2023.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "838",
+    "section": "3",
+    "bill_number": "SB 1193",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "838",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=29.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/29.html",
+  "content_sha256": "4c5a39372a62bdf2feef77527f69c5f8840af0dc3958b92b754fb364680595fa",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

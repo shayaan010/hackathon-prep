@@ -53,7 +53,7 @@ if __name__ == "__main__":
     csv_path = os.path.join(
         os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
         "data",
-        "eval-ca-vehicle-code.csv",
+        "california_vehicle_injury_statuses.csv",
     )
     print(f"Loading from: {csv_path}")
     load_csv(csv_path)

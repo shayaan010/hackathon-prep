@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "210",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "An “automated enforcement system” is any system operated by a governmental agency, in cooperation with a law enforcement agency, that photographically records a driver’s responses to a rail or rail transit signal or crossing gate, or both, or to an official traffic control signal described in Section 21450, and is designed to obtain a clear photograph of a vehicle’s license plate and the driver of the vehicle.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 210\n\nAn “automated enforcement system” is any system operated by a governmental agency, in cooperation with a law enforcement agency, that photographically records a driver’s responses to a rail or rail transit signal or crossing gate, or both, or to an official traffic control signal described in Section 21450, and is designed to obtain a clear photograph of a vehicle’s license plate and the driver of the vehicle.\n\n*(Amended (as amended by Stats. 1995, Ch. 922, Sec. 1) by Stats. 1998, Ch. 54, Sec. 1. Effective January 1, 1999.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "An “automated enforcement system” is any system operated by a governmental agency, in cooperation with a law enforcement agency, that photographically records a driver’s responses to a rail or rail transit signal or crossing gate, or both, or to an official traffic control signal described in Section 21450, and is designed to obtain a clear photograph of a vehicle’s license plate and the driver of the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended (as amended by Stats. 1995, Ch. 922, Sec. 1) by Stats. 1998, Ch. 54, Sec. 1. Effective January 1, 1999.)",
+    "action": "Amended",
+    "statutes_year": 1998,
+    "chapter": "54",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1999-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1998",
+  "op_chapter": "54",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=210.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/210.html",
+  "content_sha256": "66ddf6ec03a59b00f48031a97d212267906d95244e29cd44592ba96e88f8cab3",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

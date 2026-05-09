@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23304",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "13",
+  "chapter_title": "Vehicular Crossings and Toll Highways",
+  "chapter_range": "23250 - 23336",
+  "article": "3",
+  "article_title": "Tolls and Other Charges",
+  "article_range": "23300 - 23309",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.13.3",
+  "text": "(a) With respect to a toll bridge, an issuing agency that permits pay-by-plate toll payment as described in subdivision (e) of Section 23302 or that permits payment by a transponder or other electronic toll payment device shall send an invoice by mail for any unpaid toll to the registered vehicle owner. The invoice shall include a notice to the registered owner that, unless the registered owner pays the toll by the due date shown on the invoice, a toll evasion penalty will be assessed. The invoice due date shall not be less than 30 days from the invoice date.\n\n(b) If a toll invoice is not paid by the due date shown on the invoice, the nonpayment shall be deemed an evasion of tolls and the issuing agency, or processing agency as the case may be, shall mail a notice of toll evasion violation to the registered owner pursuant to subdivision (a) of Section 40254.\n\n(c) This section shall become operative on July 1, 2024.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 13. Vehicular Crossings and Toll Highways [23250 - 23336]\n#### Article 3. Tolls and Other Charges [23300 - 23309]\n##### § 23304\n\n(a) With respect to a toll bridge, an issuing agency that permits pay-by-plate toll payment as described in subdivision (e) of Section 23302 or that permits payment by a transponder or other electronic toll payment device shall send an invoice by mail for any unpaid toll to the registered vehicle owner. The invoice shall include a notice to the registered owner that, unless the registered owner pays the toll by the due date shown on the invoice, a toll evasion penalty will be assessed. The invoice due date shall not be less than 30 days from the invoice date.\n\n(b) If a toll invoice is not paid by the due date shown on the invoice, the nonpayment shall be deemed an evasion of tolls and the issuing agency, or processing agency as the case may be, shall mail a notice of toll evasion violation to the registered owner pursuant to subdivision (a) of Section 40254.\n\n(c) This section shall become operative on July 1, 2024.\n\n*(Added by Stats. 2022, Ch. 969, Sec. 4. (AB 2594) Effective January 1, 2023. Operative July 1, 2024, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "With respect to a toll bridge, an issuing agency that permits pay-by-plate toll payment as described in subdivision (e) of Section 23302 or that permits payment by a transponder or other electronic toll payment device shall send an invoice by mail for any unpaid toll to the registered vehicle owner. The invoice shall include a notice to the registered owner that, unless the registered owner pays the toll by the due date shown on the invoice, a toll evasion penalty will be assessed. The invoice due date shall not be less than 30 days from the invoice date.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If a toll invoice is not paid by the due date shown on the invoice, the nonpayment shall be deemed an evasion of tolls and the issuing agency, or processing agency as the case may be, shall mail a notice of toll evasion violation to the registered owner pursuant to subdivision (a) of Section 40254.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section shall become operative on July 1, 2024.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2022, Ch. 969, Sec. 4. (AB 2594) Effective January 1, 2023. Operative July 1, 2024, by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 2022,
+    "chapter": "969",
+    "section": "4",
+    "bill_number": "AB 2594",
+    "effective_date": "2023-01-01",
+    "operative_date": "2024-07-01"
+  },
+  "op_statues": "2022",
+  "op_chapter": "969",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23304.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23304.html",
+  "content_sha256": "e634b7587747a6ce4996f17e2156f13b59d36f604bd790bd20f860d39a734669",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

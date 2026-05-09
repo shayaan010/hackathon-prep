@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21209",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "4",
+  "article_title": "Operation of Bicycles",
+  "article_range": "21200 - 21214.7",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.4",
+  "text": "(a) No person shall drive a motor vehicle in a bicycle lane established on a roadway pursuant to Section 21207 except as follows:\n\n(1) To park where parking is permitted.\n\n(2) To enter or leave the roadway.\n\n(3) To prepare for a turn within a distance of 200 feet from the intersection.\n\n(b) This section does not prohibit the use of a motorized bicycle in a bicycle lane, pursuant to Section 21207.5, at a speed no greater than is reasonable or prudent, having due regard for visibility, traffic conditions, and the condition of the roadway surface of the bicycle lane, and in a manner which does not endanger the safety of bicyclists.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 4. Operation of Bicycles [21200 - 21214.7]\n##### § 21209\n\n(a) No person shall drive a motor vehicle in a bicycle lane established on a roadway pursuant to Section 21207 except as follows:\n\n    (1) To park where parking is permitted.\n\n    (2) To enter or leave the roadway.\n\n    (3) To prepare for a turn within a distance of 200 feet from the intersection.\n\n(b) This section does not prohibit the use of a motorized bicycle in a bicycle lane, pursuant to Section 21207.5, at a speed no greater than is reasonable or prudent, having due regard for visibility, traffic conditions, and the condition of the roadway surface of the bicycle lane, and in a manner which does not endanger the safety of bicyclists.\n\n*(Amended by Stats. 1988, Ch. 262, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall drive a motor vehicle in a bicycle lane established on a roadway pursuant to Section 21207 except as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "To park where parking is permitted.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "To enter or leave the roadway.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "To prepare for a turn within a distance of 200 feet from the intersection.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not prohibit the use of a motorized bicycle in a bicycle lane, pursuant to Section 21207.5, at a speed no greater than is reasonable or prudent, having due regard for visibility, traffic conditions, and the condition of the roadway surface of the bicycle lane, and in a manner which does not endanger the safety of bicyclists.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1988, Ch. 262, Sec. 1.)",
+    "action": "Amended",
+    "statutes_year": 1988,
+    "chapter": "262",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "262",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21209.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21209.html",
+  "content_sha256": "8e7c0ed8c9284759bfa89b33711459f214b03a5bd01b7e5266c806e259919acc",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

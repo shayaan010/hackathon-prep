@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22506",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "Local authorities may by ordinance or resolution prohibit or restrict the stopping, standing, or parking of vehicles on a state highway, in their respective jurisdictions, if the ordinance or resolution is first submitted to and approved in writing by the Department of Transportation, except that where maintenance of any state highway is delegated by the Department of Transportation to a city, the department may also delegate to the city the powers conferred on the department.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22506\n\nLocal authorities may by ordinance or resolution prohibit or restrict the stopping, standing, or parking of vehicles on a state highway, in their respective jurisdictions, if the ordinance or resolution is first submitted to and approved in writing by the Department of Transportation, except that where maintenance of any state highway is delegated by the Department of Transportation to a city, the department may also delegate to the city the powers conferred on the department.\n\n*(Amended by Stats. 1987, Ch. 455, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Local authorities may by ordinance or resolution prohibit or restrict the stopping, standing, or parking of vehicles on a state highway, in their respective jurisdictions, if the ordinance or resolution is first submitted to and approved in writing by the Department of Transportation, except that where maintenance of any state highway is delegated by the Department of Transportation to a city, the department may also delegate to the city the powers conferred on the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1987, Ch. 455, Sec. 3.)",
+    "action": "Amended",
+    "statutes_year": 1987,
+    "chapter": "455",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1987",
+  "op_chapter": "455",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22506.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22506.html",
+  "content_sha256": "fe7b85cb9a7ceeb01cad370c715230198db014df9439b15e3a2a6f67609884f1",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

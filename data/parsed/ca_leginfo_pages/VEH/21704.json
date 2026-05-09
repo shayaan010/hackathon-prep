@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21704",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "2",
+  "article_title": "Additional Driving Rules",
+  "article_range": "21700 - 21721",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.2",
+  "text": "(a) The driver of any motor vehicle subject to the speed restriction of Section 22406 that is operated outside of a business or residence district, shall keep the vehicle he is driving at a distance of not less than 300 feet to the rear of any other motor vehicle subject to such speed restriction which is preceding it.\n\n(b) The provisions of this section shall not prevent overtaking and passing nor shall they apply upon a highway with two or more lanes for traffic in the direction of travel.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 2. Additional Driving Rules [21700 - 21721]\n##### § 21704\n\n(a) The driver of any motor vehicle subject to the speed restriction of Section 22406 that is operated outside of a business or residence district, shall keep the vehicle he is driving at a distance of not less than 300 feet to the rear of any other motor vehicle subject to such speed restriction which is preceding it.\n\n(b) The provisions of this section shall not prevent overtaking and passing nor shall they apply upon a highway with two or more lanes for traffic in the direction of travel.\n\n*(Amended by Stats. 1969, Ch. 226.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The driver of any motor vehicle subject to the speed restriction of Section 22406 that is operated outside of a business or residence district, shall keep the vehicle he is driving at a distance of not less than 300 feet to the rear of any other motor vehicle subject to such speed restriction which is preceding it.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The provisions of this section shall not prevent overtaking and passing nor shall they apply upon a highway with two or more lanes for traffic in the direction of travel.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1969, Ch. 226.)",
+    "action": "Amended",
+    "statutes_year": 1969,
+    "chapter": "226",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1969",
+  "op_chapter": "226",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21704.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21704.html",
+  "content_sha256": "4708505743e848d678cb5bf235f072df636ef5c6f9bc99afdaf5cb0b497151a8",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

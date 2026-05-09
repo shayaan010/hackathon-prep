@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "522",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "“Ridesharing” means two or more persons traveling by any mode, including, but not limited to, carpooling, vanpooling, buspooling, taxipooling, jitney, and public transit.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 522\n\n“Ridesharing” means two or more persons traveling by any mode, including, but not limited to, carpooling, vanpooling, buspooling, taxipooling, jitney, and public transit.\n\n*(Added by Stats. 1982, Ch. 185, Sec. 5.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "“Ridesharing” means two or more persons traveling by any mode, including, but not limited to, carpooling, vanpooling, buspooling, taxipooling, jitney, and public transit.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1982, Ch. 185, Sec. 5.)",
+    "action": "Added",
+    "statutes_year": 1982,
+    "chapter": "185",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "185",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=522.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/522.html",
+  "content_sha256": "1f705e5d616eef4d960033fe8b6400b08139a10088b1913de60b2401ea567663",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

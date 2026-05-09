@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "Proof of the giving of notice may be made by the certificate of any officer, employee, or agent of the Department of Motor Vehicles and the Department of the California Highway Patrol or of any peace officer, or by an affidavit of any person over 18 years of age, naming the person to whom the notice was given and specifying the time, place, and manner of the giving of the notice.",
+  "markdown": "# Vehicle Code\n##### § 24\n\nProof of the giving of notice may be made by the certificate of any officer, employee, or agent of the Department of Motor Vehicles and the Department of the California Highway Patrol or of any peace officer, or by an affidavit of any person over 18 years of age, naming the person to whom the notice was given and specifying the time, place, and manner of the giving of the notice.\n\n*(Amended by Stats. 1996, Ch. 1154, Sec. 55. Effective September 30, 1996.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Proof of the giving of notice may be made by the certificate of any officer, employee, or agent of the Department of Motor Vehicles and the Department of the California Highway Patrol or of any peace officer, or by an affidavit of any person over 18 years of age, naming the person to whom the notice was given and specifying the time, place, and manner of the giving of the notice.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 1154, Sec. 55. Effective September 30, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "1154",
+    "section": "55",
+    "bill_number": null,
+    "effective_date": "1996-09-30",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "1154",
+  "op_section": "55",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24.html",
+  "content_sha256": "42d05d265846821524705d64089dfa47f9bf92de628a6732ce1635ca2429a55c",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

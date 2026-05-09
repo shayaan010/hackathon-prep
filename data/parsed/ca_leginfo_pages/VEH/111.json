@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "111",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) “All-terrain vehicle” means a motor vehicle subject to subdivision (a) of Section 38010 that is all of the following:\n\n(1) Designed for operation off of the highway by an operator with no more than one passenger.\n\n(2) Fifty inches or less in width.\n\n(3) Nine hundred pounds or less unladen weight.\n\n(4) Suspended on three or more low-pressure tires.\n\n(5) Has a single seat designed to be straddled by the operator, or a single seat designed to be straddled by the operator and a seat for no more than one passenger.\n\n(6) Has handlebars for steering control.\n\n(b) Notwithstanding subdivision (a), for purposes of Chapter 6 (commencing with Section 3000) of Division 2 and Chapter 4 (commencing with Section 11700) of Division 5, “all-terrain vehicle” also means a recreational off-highway vehicle as defined in Section 500 and a utility-terrain vehicle as defined in Section 531.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 111\n\n(a) “All-terrain vehicle” means a motor vehicle subject to subdivision (a) of Section 38010 that is all of the following:\n\n    (1) Designed for operation off of the highway by an operator with no more than one passenger.\n\n    (2) Fifty inches or less in width.\n\n    (3) Nine hundred pounds or less unladen weight.\n\n    (4) Suspended on three or more low-pressure tires.\n\n    (5) Has a single seat designed to be straddled by the operator, or a single seat designed to be straddled by the operator and a seat for no more than one passenger.\n\n    (6) Has handlebars for steering control.\n\n(b) Notwithstanding subdivision (a), for purposes of Chapter 6 (commencing with Section 3000) of Division 2 and Chapter 4 (commencing with Section 11700) of Division 5, “all-terrain vehicle” also means a recreational off-highway vehicle as defined in Section 500 and a utility-terrain vehicle as defined in Section 531.\n\n*(Amended by Stats. 2014, Ch. 279, Sec. 1. (AB 988) Effective January 1, 2015.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "“All-terrain vehicle” means a motor vehicle subject to subdivision (a) of Section 38010 that is all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Designed for operation off of the highway by an operator with no more than one passenger.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Fifty inches or less in width.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Nine hundred pounds or less unladen weight.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Suspended on three or more low-pressure tires.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "Has a single seat designed to be straddled by the operator, or a single seat designed to be straddled by the operator and a seat for no more than one passenger.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "6",
+      "text": "Has handlebars for steering control.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding subdivision (a), for purposes of Chapter 6 (commencing with Section 3000) of Division 2 and Chapter 4 (commencing with Section 11700) of Division 5, “all-terrain vehicle” also means a recreational off-highway vehicle as defined in Section 500 and a utility-terrain vehicle as defined in Section 531.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2014, Ch. 279, Sec. 1. (AB 988) Effective January 1, 2015.)",
+    "action": "Amended",
+    "statutes_year": 2014,
+    "chapter": "279",
+    "section": "1",
+    "bill_number": "AB 988",
+    "effective_date": "2015-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2014",
+  "op_chapter": "279",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=111.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/111.html",
+  "content_sha256": "0199e9a7149d1afdea3824a573e802eb48e554397055f53612acbbc5c4eb16a7",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

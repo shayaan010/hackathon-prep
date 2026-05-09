@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "234",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “business” includes a proprietorship, partnership, corporation, and any other form of commercial enterprise.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 234\n\nA “business” includes a proprietorship, partnership, corporation, and any other form of commercial enterprise.\n\n*(Added by Stats. 1990, Ch. 1563, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “business” includes a proprietorship, partnership, corporation, and any other form of commercial enterprise.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1990, Ch. 1563, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1990,
+    "chapter": "1563",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1990",
+  "op_chapter": "1563",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=234.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/234.html",
+  "content_sha256": "42f2b0690797a77e86682b3b6c4cb897f4189aab548c63b086623bdfb1256ed6",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

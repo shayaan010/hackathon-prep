@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "467",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) A “pedestrian” is a person who is afoot or who is using any of the following:\n\n(1) A means of conveyance propelled by human power other than a bicycle.\n\n(2) An electric personal assistive mobility device.\n\n(b) “Pedestrian” includes a person who is operating a self-propelled wheelchair, motorized tricycle, or motorized quadricycle and, by reason of physical disability, is otherwise unable to move about as a pedestrian, as specified in subdivision (a).",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 467\n\n(a) A “pedestrian” is a person who is afoot or who is using any of the following:\n\n    (1) A means of conveyance propelled by human power other than a bicycle.\n\n    (2) An electric personal assistive mobility device.\n\n(b) “Pedestrian” includes a person who is operating a self-propelled wheelchair, motorized tricycle, or motorized quadricycle and, by reason of physical disability, is otherwise unable to move about as a pedestrian, as specified in subdivision (a).\n\n*(Amended (as amended by Stats. 2004, Ch. 404, Sec. 3) by Stats. 2007, Ch. 106, Sec. 2. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A “pedestrian” is a person who is afoot or who is using any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A means of conveyance propelled by human power other than a bicycle.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "An electric personal assistive mobility device.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "“Pedestrian” includes a person who is operating a self-propelled wheelchair, motorized tricycle, or motorized quadricycle and, by reason of physical disability, is otherwise unable to move about as a pedestrian, as specified in subdivision (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended (as amended by Stats. 2004, Ch. 404, Sec. 3) by Stats. 2007, Ch. 106, Sec. 2. Effective January 1, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2007,
+    "chapter": "106",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "106",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=467.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/467.html",
+  "content_sha256": "a8483197088efed5cb98fb80c608c9df25f76adfaed9bf309ea9d1226d42847d",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

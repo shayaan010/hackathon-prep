@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "255",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "“City” includes every city and city and county within this State.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 255\n\n“City” includes every city and city and county within this State.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "“City” includes every city and city and county within this State.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=255.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/255.html",
+  "content_sha256": "58435eb504d16c76179f34db2591f913049b2f071cfb8488cc5c9c1017ac6149",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

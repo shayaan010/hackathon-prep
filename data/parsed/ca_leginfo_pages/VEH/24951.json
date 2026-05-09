@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24951",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "5",
+  "article_title": "Signal Lamps and Devices",
+  "article_range": "24950 - 24953",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.5",
+  "text": "(a) Any vehicle may be equipped with a lamp-type turn signal system capable of clearly indicating any intention to turn either to the right or to the left.\n\n(b) The following vehicles shall be equipped with a lamp-type turn signal system meeting the requirements of this chapter.\n\n(1) Motortrucks, truck tractors, buses and passenger vehicles, other than motorcycles, manufactured and first registered on or after January 1, 1958.\n\n(2) Trailers and semitrailers manufactured and first registered between December 31, 1957, and January 1, 1969, having a gross weight of 6,000 pounds or more.\n\n(3) Trailers and semitrailers 80 or more inches in width manufactured on or after January 1, 1969.\n\n(4) Motorcycles manufactured and first registered on or after January 1, 1973, except motor-driven cycles whose speed attainable in one mile is 30 miles per hour or less.\n\nThe requirements of this subdivision shall not apply to special mobile equipment, or auxiliary dollies.\n\n(c) Turn signal lamps on vehicles manufactured on or after January 1, 1969, shall be mounted not lower than 15 inches.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 5. Signal Lamps and Devices [24950 - 24953]\n##### § 24951\n\n(a) Any vehicle may be equipped with a lamp-type turn signal system capable of clearly indicating any intention to turn either to the right or to the left.\n\n(b) The following vehicles shall be equipped with a lamp-type turn signal system meeting the requirements of this chapter.\n\n    (1) Motortrucks, truck tractors, buses and passenger vehicles, other than motorcycles, manufactured and first registered on or after January 1, 1958.\n\n    (2) Trailers and semitrailers manufactured and first registered between December 31, 1957, and January 1, 1969, having a gross weight of 6,000 pounds or more.\n\n    (3) Trailers and semitrailers 80 or more inches in width manufactured on or after January 1, 1969.\n\n    (4) Motorcycles manufactured and first registered on or after January 1, 1973, except motor-driven cycles whose speed attainable in one mile is 30 miles per hour or less.\n\nThe requirements of this subdivision shall not apply to special mobile equipment, or auxiliary dollies.\n\n(c) Turn signal lamps on vehicles manufactured on or after January 1, 1969, shall be mounted not lower than 15 inches.\n\n*(Amended by Stats. 1975, Ch. 475.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any vehicle may be equipped with a lamp-type turn signal system capable of clearly indicating any intention to turn either to the right or to the left.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The following vehicles shall be equipped with a lamp-type turn signal system meeting the requirements of this chapter.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Motortrucks, truck tractors, buses and passenger vehicles, other than motorcycles, manufactured and first registered on or after January 1, 1958.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Trailers and semitrailers manufactured and first registered between December 31, 1957, and January 1, 1969, having a gross weight of 6,000 pounds or more.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Trailers and semitrailers 80 or more inches in width manufactured on or after January 1, 1969.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Motorcycles manufactured and first registered on or after January 1, 1973, except motor-driven cycles whose speed attainable in one mile is 30 miles per hour or less.",
+      "depth_em": 1.0
+    },
+    {
+      "label": null,
+      "text": "The requirements of this subdivision shall not apply to special mobile equipment, or auxiliary dollies.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Turn signal lamps on vehicles manufactured on or after January 1, 1969, shall be mounted not lower than 15 inches.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1975, Ch. 475.)",
+    "action": "Amended",
+    "statutes_year": 1975,
+    "chapter": "475",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "475",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24951.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24951.html",
+  "content_sha256": "833efb66968120ccd1732792d205017cd4a0319ed54835b47ea5675fba0e8874",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

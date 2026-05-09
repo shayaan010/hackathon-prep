@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24802",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "4",
+  "article_title": "Parking Lamps",
+  "article_range": "24800 - 24802",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.4",
+  "text": "No lights need be displayed upon a vehicle which is:\n\n(a) Parked off the roadway and not in a hazardous position on the highway; or\n\n(b) Parked with a wheel within 18 inches of a curb; or\n\n(c) Parked within a business or residence district with a wheel within 18 inches of a curb or edge of the roadway.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 4. Parking Lamps [24800 - 24802]\n##### § 24802\n\nNo lights need be displayed upon a vehicle which is:\n\n(a) Parked off the roadway and not in a hazardous position on the highway; or\n\n(b) Parked with a wheel within 18 inches of a curb; or\n\n(c) Parked within a business or residence district with a wheel within 18 inches of a curb or edge of the roadway.\n\n*(Amended by Stats. 1977, Ch. 620.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No lights need be displayed upon a vehicle which is:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Parked off the roadway and not in a hazardous position on the highway; or",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Parked with a wheel within 18 inches of a curb; or",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Parked within a business or residence district with a wheel within 18 inches of a curb or edge of the roadway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1977, Ch. 620.)",
+    "action": "Amended",
+    "statutes_year": 1977,
+    "chapter": "620",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1977",
+  "op_chapter": "620",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24802.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24802.html",
+  "content_sha256": "db02648cda90ce0f33da28ea92b89a5b77cdf65613c2ad2f113a2ebdc0789e69",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

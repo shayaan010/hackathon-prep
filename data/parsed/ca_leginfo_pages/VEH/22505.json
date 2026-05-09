@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22505",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "(a) The Department of Transportation with respect to highways under its jurisdiction may place signs or markings prohibiting or restricting the stopping, standing, or parking of vehicles, including, but not limited to, vehicles which are six feet or more in height (including any load thereon), in any of the following areas and under the following conditions:\n\n(1) In areas where, in its opinion, stopping, standing, or parking is dangerous to those using the highway or where the stopping, standing, or parking of vehicles would unduly interfere with the free movement of traffic thereon.\n\n(2) In areas within one-half mile of the boundary of any unit of the state park system which the Director of Conservation has determined are unusually high fire hazard areas, upon notification of the Department of Transportation of such determination by the Director of Conservation.\n\n(3) In areas within one-half mile of the boundary of any unit of the state park system which the county health officer has determined are areas where a substantial public health hazard would result if camping were allowed, upon notification of the Department of Transportation of such determination by the county health officer.\n\n(b) No person shall stop, park, or leave standing any vehicle in violation of the restrictions stated on the signs or markings.\n\n(c) This section does not apply to any of the following:\n\n(1) Public utility vehicles while performing a work operation.\n\n(2) The driver of any vehicle which is disabled in such a manner and to such an extent that it is impossible to avoid stopping, parking, or leaving the disabled vehicle standing on the roadway.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22505\n\n(a) The Department of Transportation with respect to highways under its jurisdiction may place signs or markings prohibiting or restricting the stopping, standing, or parking of vehicles, including, but not limited to, vehicles which are six feet or more in height (including any load thereon), in any of the following areas and under the following conditions:\n\n    (1) In areas where, in its opinion, stopping, standing, or parking is dangerous to those using the highway or where the stopping, standing, or parking of vehicles would unduly interfere with the free movement of traffic thereon.\n\n    (2) In areas within one-half mile of the boundary of any unit of the state park system which the Director of Conservation has determined are unusually high fire hazard areas, upon notification of the Department of Transportation of such determination by the Director of Conservation.\n\n    (3) In areas within one-half mile of the boundary of any unit of the state park system which the county health officer has determined are areas where a substantial public health hazard would result if camping were allowed, upon notification of the Department of Transportation of such determination by the county health officer.\n\n(b) No person shall stop, park, or leave standing any vehicle in violation of the restrictions stated on the signs or markings.\n\n(c) This section does not apply to any of the following:\n\n    (1) Public utility vehicles while performing a work operation.\n\n    (2) The driver of any vehicle which is disabled in such a manner and to such an extent that it is impossible to avoid stopping, parking, or leaving the disabled vehicle standing on the roadway.\n\n*(Amended by Stats. 1987, Ch. 455, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Department of Transportation with respect to highways under its jurisdiction may place signs or markings prohibiting or restricting the stopping, standing, or parking of vehicles, including, but not limited to, vehicles which are six feet or more in height (including any load thereon), in any of the following areas and under the following conditions:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "In areas where, in its opinion, stopping, standing, or parking is dangerous to those using the highway or where the stopping, standing, or parking of vehicles would unduly interfere with the free movement of traffic thereon.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "In areas within one-half mile of the boundary of any unit of the state park system which the Director of Conservation has determined are unusually high fire hazard areas, upon notification of the Department of Transportation of such determination by the Director of Conservation.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "In areas within one-half mile of the boundary of any unit of the state park system which the county health officer has determined are areas where a substantial public health hazard would result if camping were allowed, upon notification of the Department of Transportation of such determination by the county health officer.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "No person shall stop, park, or leave standing any vehicle in violation of the restrictions stated on the signs or markings.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section does not apply to any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Public utility vehicles while performing a work operation.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The driver of any vehicle which is disabled in such a manner and to such an extent that it is impossible to avoid stopping, parking, or leaving the disabled vehicle standing on the roadway.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1987, Ch. 455, Sec. 2.)",
+    "action": "Amended",
+    "statutes_year": 1987,
+    "chapter": "455",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1987",
+  "op_chapter": "455",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22505.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22505.html",
+  "content_sha256": "4f21295e2105aba9dab823944e0f4e61dbe6e82076a6e9944d048657529b0144",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

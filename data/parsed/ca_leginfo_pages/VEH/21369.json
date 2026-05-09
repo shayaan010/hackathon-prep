@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21369",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "1",
+  "article_title": "Erection and Maintenance",
+  "article_range": "21350 - 21376",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.1",
+  "text": "All speed restriction signs in place on January 1, 1960, are hereby ratified and confirmed and shall establish the applicable prima facie speed limit unless and until changed pursuant to engineering and traffic surveys provided for by this code.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 1. Erection and Maintenance [21350 - 21376]\n##### § 21369\n\nAll speed restriction signs in place on January 1, 1960, are hereby ratified and confirmed and shall establish the applicable prima facie speed limit unless and until changed pursuant to engineering and traffic surveys provided for by this code.\n\n*(Added by Stats. 1959, Ch. 1317.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "All speed restriction signs in place on January 1, 1960, are hereby ratified and confirmed and shall establish the applicable prima facie speed limit unless and until changed pursuant to engineering and traffic surveys provided for by this code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1959, Ch. 1317.)",
+    "action": "Added",
+    "statutes_year": 1959,
+    "chapter": "1317",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "1317",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21369.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21369.html",
+  "content_sha256": "808a0fbe208ac187175612ed8c05c4235319f31074a0d24bc5935b8f9675e6ec",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "500",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "“Recreational off-highway vehicle” means a motor vehicle meeting all of the following criteria:\n\n(a) Designed by the manufacturer for operation primarily off of the highway.\n\n(b) Has a steering wheel for steering control.\n\n(c) Has nonstraddle seating provided by the manufacturer for the operator and all passengers.\n\n(d) (1) Has a maximum speed capability of greater than 30 miles per hour.\n\n(2) A vehicle designed by the manufacturer with a maximum speed capability of 30 miles per hour or less but is modified so that it has a maximum speed capability of greater than 30 miles per hour satisfies the criteria set forth in this subdivision.\n\n(e) Has an engine displacement equal to or less than 1,000cc (61 ci).",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 500\n\n“Recreational off-highway vehicle” means a motor vehicle meeting all of the following criteria:\n\n(a) Designed by the manufacturer for operation primarily off of the highway.\n\n(b) Has a steering wheel for steering control.\n\n(c) Has nonstraddle seating provided by the manufacturer for the operator and all passengers.\n\n(d) (1) Has a maximum speed capability of greater than 30 miles per hour.\n\n    (2) A vehicle designed by the manufacturer with a maximum speed capability of 30 miles per hour or less but is modified so that it has a maximum speed capability of greater than 30 miles per hour satisfies the criteria set forth in this subdivision.\n\n(e) Has an engine displacement equal to or less than 1,000cc (61 ci).\n\n*(Added by Stats. 2012, Ch. 165, Sec. 1. (AB 1595) Effective January 1, 2013.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "“Recreational off-highway vehicle” means a motor vehicle meeting all of the following criteria:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "Designed by the manufacturer for operation primarily off of the highway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Has a steering wheel for steering control.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Has nonstraddle seating provided by the manufacturer for the operator and all passengers.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "(1) Has a maximum speed capability of greater than 30 miles per hour.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "A vehicle designed by the manufacturer with a maximum speed capability of 30 miles per hour or less but is modified so that it has a maximum speed capability of greater than 30 miles per hour satisfies the criteria set forth in this subdivision.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "e",
+      "text": "Has an engine displacement equal to or less than 1,000cc (61 ci).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2012, Ch. 165, Sec. 1. (AB 1595) Effective January 1, 2013.)",
+    "action": "Added",
+    "statutes_year": 2012,
+    "chapter": "165",
+    "section": "1",
+    "bill_number": "AB 1595",
+    "effective_date": "2013-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2012",
+  "op_chapter": "165",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=500.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/500.html",
+  "content_sha256": "97792d85fa092d816d801b2340b9076a64a13ebd4d4f964d570316128638ca2e",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

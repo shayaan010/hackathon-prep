@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "260",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) A “commercial vehicle” is a motor vehicle of a type required to be registered under this code used or maintained for the transportation of persons for hire, compensation, or profit or designed, used, or maintained primarily for the transportation of property.\n\n(b) Passenger vehicles and house cars that are not used for the transportation of persons for hire, compensation, or profit are not commercial vehicles. This subdivision shall not apply to Chapter 4 (commencing with Section 6700) of Division 3.\n\n(c) Any vanpool vehicle is not a commercial vehicle.\n\n(d) The definition of a commercial vehicle in this section does not apply to Chapter 7 (commencing with Section 15200) of Division 6.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 260\n\n(a) A “commercial vehicle” is a motor vehicle of a type required to be registered under this code used or maintained for the transportation of persons for hire, compensation, or profit or designed, used, or maintained primarily for the transportation of property.\n\n(b) Passenger vehicles and house cars that are not used for the transportation of persons for hire, compensation, or profit are not commercial vehicles. This subdivision shall not apply to Chapter 4 (commencing with Section 6700) of Division 3.\n\n(c) Any vanpool vehicle is not a commercial vehicle.\n\n(d) The definition of a commercial vehicle in this section does not apply to Chapter 7 (commencing with Section 15200) of Division 6.\n\n*(Amended by Stats. 2003, Ch. 222, Sec. 1. Effective January 1, 2004.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A “commercial vehicle” is a motor vehicle of a type required to be registered under this code used or maintained for the transportation of persons for hire, compensation, or profit or designed, used, or maintained primarily for the transportation of property.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Passenger vehicles and house cars that are not used for the transportation of persons for hire, compensation, or profit are not commercial vehicles. This subdivision shall not apply to Chapter 4 (commencing with Section 6700) of Division 3.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any vanpool vehicle is not a commercial vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The definition of a commercial vehicle in this section does not apply to Chapter 7 (commencing with Section 15200) of Division 6.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2003, Ch. 222, Sec. 1. Effective January 1, 2004.)",
+    "action": "Amended",
+    "statutes_year": 2003,
+    "chapter": "222",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2004-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2003",
+  "op_chapter": "222",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=260.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/260.html",
+  "content_sha256": "8d08f18fe0b7d1209a71fa637649ff1c0f2e02c52a6f71623698c8344db3d5e4",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

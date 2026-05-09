@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22455",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "8",
+  "chapter_title": "Special Stops Required",
+  "chapter_range": "22450 - 22456",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.8",
+  "text": "(a) The driver of any commercial vehicle engaged in vending upon a street may vend products on a street in a residence district only after bringing the vehicle to a complete stop and lawfully parking adjacent to the curb, consistent with the requirements of Chapter 9 (commencing with Section 22500) and local ordinances adopted pursuant thereto.\n\n(b) Notwithstanding subdivision (a) of Section 114315 of the Health and Safety Code or any other provision of law, a local authority may, by ordinance or resolution, adopt additional requirements for the public safety regulating the type of vending and the time, place, and manner of vending from vehicles upon any street.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 8. Special Stops Required [22450 - 22456]\n##### § 22455\n\n(a) The driver of any commercial vehicle engaged in vending upon a street may vend products on a street in a residence district only after bringing the vehicle to a complete stop and lawfully parking adjacent to the curb, consistent with the requirements of Chapter 9 (commencing with Section 22500) and local ordinances adopted pursuant thereto.\n\n(b) Notwithstanding subdivision (a) of Section 114315 of the Health and Safety Code or any other provision of law, a local authority may, by ordinance or resolution, adopt additional requirements for the public safety regulating the type of vending and the time, place, and manner of vending from vehicles upon any street.\n\n*(Amended by Stats. 2008, Ch. 139, Sec. 3. Effective January 1, 2009.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The driver of any commercial vehicle engaged in vending upon a street may vend products on a street in a residence district only after bringing the vehicle to a complete stop and lawfully parking adjacent to the curb, consistent with the requirements of Chapter 9 (commencing with Section 22500) and local ordinances adopted pursuant thereto.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding subdivision (a) of Section 114315 of the Health and Safety Code or any other provision of law, a local authority may, by ordinance or resolution, adopt additional requirements for the public safety regulating the type of vending and the time, place, and manner of vending from vehicles upon any street.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2008, Ch. 139, Sec. 3. Effective January 1, 2009.)",
+    "action": "Amended",
+    "statutes_year": 2008,
+    "chapter": "139",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2009-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2008",
+  "op_chapter": "139",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22455.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22455.html",
+  "content_sha256": "dbd3c9f7ae5058905049db60283164c0dc52b6c03430d3c000075ccf0487b535",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

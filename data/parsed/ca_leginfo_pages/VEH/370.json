@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "370",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “legal owner” is a person holding a security interest in a vehicle which is subject to the provisions of the Uniform Commercial Code, or the lessor of a vehicle to the State or to any county, city, district, or political subdivision of the State, or to the United States, under a lease, lease-sale, or rental-purchase agreement which grants possession of the vehicle to the lessee for a period of 30 consecutive days or more.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 370\n\nA “legal owner” is a person holding a security interest in a vehicle which is subject to the provisions of the Uniform Commercial Code, or the lessor of a vehicle to the State or to any county, city, district, or political subdivision of the State, or to the United States, under a lease, lease-sale, or rental-purchase agreement which grants possession of the vehicle to the lessee for a period of 30 consecutive days or more.\n\n*(Amended by Stats. 1963, Ch. 1867.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “legal owner” is a person holding a security interest in a vehicle which is subject to the provisions of the Uniform Commercial Code, or the lessor of a vehicle to the State or to any county, city, district, or political subdivision of the State, or to the United States, under a lease, lease-sale, or rental-purchase agreement which grants possession of the vehicle to the lessee for a period of 30 consecutive days or more.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1963, Ch. 1867.)",
+    "action": "Amended",
+    "statutes_year": 1963,
+    "chapter": "1867",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1963",
+  "op_chapter": "1867",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=370.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/370.html",
+  "content_sha256": "cbdd78016cd5cbf690dec16e3c913d3715a5231e2028961b8c0c115a164fdb4f",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

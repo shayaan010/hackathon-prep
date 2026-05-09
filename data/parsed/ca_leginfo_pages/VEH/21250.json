@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21250",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "5.5",
+  "article_title": "Operation of Low-Speed Vehicles",
+  "article_range": "21250 - 21266",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.7",
+  "text": "For the purposes of this article, a low-speed vehicle means a vehicle as defined in Section 385.5. A “low-speed vehicle” is also known as a “neighborhood electric vehicle.”",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 5.5. Operation of Low-Speed Vehicles [21250 - 21266]\n##### § 21250\n\nFor the purposes of this article, a low-speed vehicle means a vehicle as defined in Section 385.5. A “low-speed vehicle” is also known as a “neighborhood electric vehicle.”\n\n*(Amended by Stats. 2004, Ch. 422, Sec. 3. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "For the purposes of this article, a low-speed vehicle means a vehicle as defined in Section 385.5. A “low-speed vehicle” is also known as a “neighborhood electric vehicle.”",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 422, Sec. 3. Effective January 1, 2005.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "422",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "422",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21250.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21250.html",
+  "content_sha256": "f1d39811a9f9d09b459ea023b35de3418d5243da3ac2bcf49826bd4b174d3eec",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

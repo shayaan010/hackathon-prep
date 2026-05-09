@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21662",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "1",
+  "article_title": "Driving on Right Side",
+  "article_range": "21650 - 21664",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.1",
+  "text": "The driver of a motor vehicle traveling through defiles or canyons or upon mountain highways shall hold the motor vehicle under control at all times and shall do the following when applicable:\n\n(a) If the roadway has no marked centerline, the driver shall drive as near the right-hand edge of the roadway as is reasonably possible.\n\n(b) If the roadway has insufficient width to permit a motor vehicle to be driven entirely to the right of the center of the roadway, the driver shall give audible warning with the horn of the motor vehicle upon approaching any curve where the view is obstructed within a distance of 200 feet along the highway.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 1. Driving on Right Side [21650 - 21664]\n##### § 21662\n\nThe driver of a motor vehicle traveling through defiles or canyons or upon mountain highways shall hold the motor vehicle under control at all times and shall do the following when applicable:\n\n(a) If the roadway has no marked centerline, the driver shall drive as near the right-hand edge of the roadway as is reasonably possible.\n\n(b) If the roadway has insufficient width to permit a motor vehicle to be driven entirely to the right of the center of the roadway, the driver shall give audible warning with the horn of the motor vehicle upon approaching any curve where the view is obstructed within a distance of 200 feet along the highway.\n\n*(Amended by Stats. 1984, Ch. 462, Sec. 2.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The driver of a motor vehicle traveling through defiles or canyons or upon mountain highways shall hold the motor vehicle under control at all times and shall do the following when applicable:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "If the roadway has no marked centerline, the driver shall drive as near the right-hand edge of the roadway as is reasonably possible.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If the roadway has insufficient width to permit a motor vehicle to be driven entirely to the right of the center of the roadway, the driver shall give audible warning with the horn of the motor vehicle upon approaching any curve where the view is obstructed within a distance of 200 feet along the highway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1984, Ch. 462, Sec. 2.)",
+    "action": "Amended",
+    "statutes_year": 1984,
+    "chapter": "462",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1984",
+  "op_chapter": "462",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21662.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21662.html",
+  "content_sha256": "f82e2bf5b344ccd303ff4e59888ba8d4412e7aa7dc3b7b8624d9adcd97899872",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

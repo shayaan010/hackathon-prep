@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "655",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) A “truck tractor” is a motor vehicle designed and used primarily for drawing other vehicles and not so constructed as to carry a load, other than a part of the weight of the vehicle and the load so drawn. As used in this section, “load” does not include items carried on the truck tractor in conjunction with the operation of the vehicle if the load carrying space for these items does not exceed 34 square feet.\n\n(b) Notwithstanding subdivision (a), a truck tractor, operated by a motor carrier whose owner is licensed by the Department of the California Highway Patrol to transport explosives pursuant to Division 14 (commencing with Section 31600), may be equipped with a cargo container used exclusively for the transportation of explosives or munitions-related security material, as specified by the United States Department of Defense.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 655\n\n(a) A “truck tractor” is a motor vehicle designed and used primarily for drawing other vehicles and not so constructed as to carry a load, other than a part of the weight of the vehicle and the load so drawn. As used in this section, “load” does not include items carried on the truck tractor in conjunction with the operation of the vehicle if the load carrying space for these items does not exceed 34 square feet.\n\n(b) Notwithstanding subdivision (a), a truck tractor, operated by a motor carrier whose owner is licensed by the Department of the California Highway Patrol to transport explosives pursuant to Division 14 (commencing with Section 31600), may be equipped with a cargo container used exclusively for the transportation of explosives or munitions-related security material, as specified by the United States Department of Defense.\n\n*(Amended by Stats. 1994, Ch. 88, Sec. 1. Effective January 1, 1995.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A “truck tractor” is a motor vehicle designed and used primarily for drawing other vehicles and not so constructed as to carry a load, other than a part of the weight of the vehicle and the load so drawn. As used in this section, “load” does not include items carried on the truck tractor in conjunction with the operation of the vehicle if the load carrying space for these items does not exceed 34 square feet.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding subdivision (a), a truck tractor, operated by a motor carrier whose owner is licensed by the Department of the California Highway Patrol to transport explosives pursuant to Division 14 (commencing with Section 31600), may be equipped with a cargo container used exclusively for the transportation of explosives or munitions-related security material, as specified by the United States Department of Defense.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 88, Sec. 1. Effective January 1, 1995.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "88",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "88",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=655.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/655.html",
+  "content_sha256": "e6af321b3e80a9752b0e4b4fbea770d443fa17b424f626d97c921c69a93da6ef",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24255",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "1",
+  "article_title": "General Provisions",
+  "article_range": "24250 - 24255",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.1",
+  "text": "(a) A vehicle may be equipped with a system to supplement the driver’s visibility of the roadway to the front or rear of the vehicle during darkness. This system may incorporate an illuminating device that emits radiation predominantly in the infrared region of the electromagnetic spectrum and a display monitor to provide an image visible to the driver of the vehicle. The system, or any portion of it, shall not obstruct the vision of the driver, and shall not emit any glaring light visible in any direction or to any person. The illuminating device may be mounted inside the vehicle, if it is constructed and mounted so as to prevent any direct or reflected light, other than a monitorial indicator emitted from the device, from being visible to the driver.\n\n(b) The system shall be operated only with the headlamps lighted. An illuminating device for the system shall be interlocked with the headlamp switch so that it is operable only when the headlamps are lighted.\n\n(c) (1) No part of the illuminating device may be physically or optically combined with any other required or permitted lighting device.\n\n(2) The illuminating device may be installed within a housing containing other required or permitted lighting devices, if the function of the other devices is not impaired thereby.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 1. General Provisions [24250 - 24255]\n##### § 24255\n\n(a) A vehicle may be equipped with a system to supplement the driver’s visibility of the roadway to the front or rear of the vehicle during darkness. This system may incorporate an illuminating device that emits radiation predominantly in the infrared region of the electromagnetic spectrum and a display monitor to provide an image visible to the driver of the vehicle. The system, or any portion of it, shall not obstruct the vision of the driver, and shall not emit any glaring light visible in any direction or to any person. The illuminating device may be mounted inside the vehicle, if it is constructed and mounted so as to prevent any direct or reflected light, other than a monitorial indicator emitted from the device, from being visible to the driver.\n\n(b) The system shall be operated only with the headlamps lighted. An illuminating device for the system shall be interlocked with the headlamp switch so that it is operable only when the headlamps are lighted.\n\n(c) (1) No part of the illuminating device may be physically or optically combined with any other required or permitted lighting device.\n\n    (2) The illuminating device may be installed within a housing containing other required or permitted lighting devices, if the function of the other devices is not impaired thereby.\n\n*(Added by Stats. 2004, Ch. 198, Sec. 2. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A vehicle may be equipped with a system to supplement the driver’s visibility of the roadway to the front or rear of the vehicle during darkness. This system may incorporate an illuminating device that emits radiation predominantly in the infrared region of the electromagnetic spectrum and a display monitor to provide an image visible to the driver of the vehicle. The system, or any portion of it, shall not obstruct the vision of the driver, and shall not emit any glaring light visible in any direction or to any person. The illuminating device may be mounted inside the vehicle, if it is constructed and mounted so as to prevent any direct or reflected light, other than a monitorial indicator emitted from the device, from being visible to the driver.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The system shall be operated only with the headlamps lighted. An illuminating device for the system shall be interlocked with the headlamp switch so that it is operable only when the headlamps are lighted.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "(1) No part of the illuminating device may be physically or optically combined with any other required or permitted lighting device.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "The illuminating device may be installed within a housing containing other required or permitted lighting devices, if the function of the other devices is not impaired thereby.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2004, Ch. 198, Sec. 2. Effective January 1, 2005.)",
+    "action": "Added",
+    "statutes_year": 2004,
+    "chapter": "198",
+    "section": "2",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "198",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24255.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24255.html",
+  "content_sha256": "cf2433010805cb2a2d8566c02c6edf4c00538efd1a02f2a04e3c6a2494990990",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

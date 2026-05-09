@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24408",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "2",
+  "article_title": "Headlamps and Auxiliary Lamps",
+  "article_range": "24400 - 24411",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.2",
+  "text": "(a) Every new motor vehicle registered in this state after January 1, 1940, which has multiple-beam road lighting equipment shall be equipped with a beam indicator, which shall be lighted whenever the uppermost distribution of light from the headlamps is in use, and shall not otherwise be lighted.\n\n(b) The indicator shall be so designed and located that when lighted it will be readily visible without glare to the driver of the vehicle so equipped. Any such lamp on the exterior of the vehicle shall have a light source not exceeding two candlepower, and the light shall not show to the front or sides of the vehicle.\n\n(c) This section does not apply to an autonomous vehicle, as defined in Section 38750, that is not capable of operation by a human driver seated in the vehicle, provided that this exemption is consistent with, or authorized by, any applicable federal law, regulation, or exemption thereto.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 2. Headlamps and Auxiliary Lamps [24400 - 24411]\n##### § 24408\n\n(a) Every new motor vehicle registered in this state after January 1, 1940, which has multiple-beam road lighting equipment shall be equipped with a beam indicator, which shall be lighted whenever the uppermost distribution of light from the headlamps is in use, and shall not otherwise be lighted.\n\n(b) The indicator shall be so designed and located that when lighted it will be readily visible without glare to the driver of the vehicle so equipped. Any such lamp on the exterior of the vehicle shall have a light source not exceeding two candlepower, and the light shall not show to the front or sides of the vehicle.\n\n(c) This section does not apply to an autonomous vehicle, as defined in Section 38750, that is not capable of operation by a human driver seated in the vehicle, provided that this exemption is consistent with, or authorized by, any applicable federal law, regulation, or exemption thereto.\n\n*(Amended by Stats. 2021, Ch. 428, Sec. 3. (SB 570) Effective January 1, 2022.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every new motor vehicle registered in this state after January 1, 1940, which has multiple-beam road lighting equipment shall be equipped with a beam indicator, which shall be lighted whenever the uppermost distribution of light from the headlamps is in use, and shall not otherwise be lighted.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The indicator shall be so designed and located that when lighted it will be readily visible without glare to the driver of the vehicle so equipped. Any such lamp on the exterior of the vehicle shall have a light source not exceeding two candlepower, and the light shall not show to the front or sides of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section does not apply to an autonomous vehicle, as defined in Section 38750, that is not capable of operation by a human driver seated in the vehicle, provided that this exemption is consistent with, or authorized by, any applicable federal law, regulation, or exemption thereto.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 428, Sec. 3. (SB 570) Effective January 1, 2022.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "428",
+    "section": "3",
+    "bill_number": "SB 570",
+    "effective_date": "2022-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "428",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24408.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24408.html",
+  "content_sha256": "81f88fe63fd3b8c37c07ee829618cb5f93cc432cb7e4bc8bc38d26d8d7767c69",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

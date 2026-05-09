@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21363",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "1",
+  "article_title": "Erection and Maintenance",
+  "article_range": "21350 - 21376",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.1",
+  "text": "Detour signs shall be erected at the nearest points of detour from that portion of a highway, or from any bridge, which is closed to traffic while under construction or repair.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 1. Erection and Maintenance [21350 - 21376]\n##### § 21363\n\nDetour signs shall be erected at the nearest points of detour from that portion of a highway, or from any bridge, which is closed to traffic while under construction or repair.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Detour signs shall be erected at the nearest points of detour from that portion of a highway, or from any bridge, which is closed to traffic while under construction or repair.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21363.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21363.html",
+  "content_sha256": "8c4c8fc5c2dfdcf3799b2e3fdd385eb6553a2d1d0448095af063039adaeb1a1b",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

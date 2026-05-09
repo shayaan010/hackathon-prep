@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21357",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "1",
+  "article_title": "Erection and Maintenance",
+  "article_range": "21350 - 21376",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.1",
+  "text": "Speed restriction signs may, but need not, be erected upon any highway other than a state highway at the entrance thereof into a business or residence district unless required in this chapter.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 1. Erection and Maintenance [21350 - 21376]\n##### § 21357\n\nSpeed restriction signs may, but need not, be erected upon any highway other than a state highway at the entrance thereof into a business or residence district unless required in this chapter.\n\n*(Amended by Stats. 1959, Ch. 11.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Speed restriction signs may, but need not, be erected upon any highway other than a state highway at the entrance thereof into a business or residence district unless required in this chapter.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1959, Ch. 11.)",
+    "action": "Amended",
+    "statutes_year": 1959,
+    "chapter": "11",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "11",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21357.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21357.html",
+  "content_sha256": "6a503a2b2ac6b33b39c0dfaa45914446d3c07fcbc72b7a9c47c9de8b74f03b75",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

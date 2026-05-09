@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "The provisions of this code, insofar as they are substantially the same as existing provisions relating to the same subject matter, shall be construed as restatements and continuations thereof and not as new enactments.",
+  "markdown": "# Vehicle Code\n##### § 2\n\nThe provisions of this code, insofar as they are substantially the same as existing provisions relating to the same subject matter, shall be construed as restatements and continuations thereof and not as new enactments.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The provisions of this code, insofar as they are substantially the same as existing provisions relating to the same subject matter, shall be construed as restatements and continuations thereof and not as new enactments.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2.html",
+  "content_sha256": "e5bb67046ca6fb9a06b03cde8b1580e0b9f73c03d5b47ea37e55f2c99e7c983d",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

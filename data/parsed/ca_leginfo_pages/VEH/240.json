@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "240",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "In determining whether a highway is within a business or residence district, the following limitations shall apply and shall qualify the definitions in Sections 235 and 515:\n\n(a) No building shall be regarded unless its entrance faces the highway and the front of the building is within 75 feet of the roadway.\n\n(b) Where a highway is physically divided into two or more roadways only those buildings facing each roadway separately shall be regarded for the purpose of determining whether the roadway is within a district.\n\n(c) All churches, apartments, hotels, multiple dwelling houses, clubs, and public buildings, other than schools, shall be deemed to be business structures.\n\n(d) A highway or portion of a highway shall not be deemed to be within a district regardless of the number of buildings upon the contiguous property if there is no right of access to the highway by vehicles from the contiguous property.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 240\n\nIn determining whether a highway is within a business or residence district, the following limitations shall apply and shall qualify the definitions in Sections 235 and 515:\n\n(a) No building shall be regarded unless its entrance faces the highway and the front of the building is within 75 feet of the roadway.\n\n(b) Where a highway is physically divided into two or more roadways only those buildings facing each roadway separately shall be regarded for the purpose of determining whether the roadway is within a district.\n\n(c) All churches, apartments, hotels, multiple dwelling houses, clubs, and public buildings, other than schools, shall be deemed to be business structures.\n\n(d) A highway or portion of a highway shall not be deemed to be within a district regardless of the number of buildings upon the contiguous property if there is no right of access to the highway by vehicles from the contiguous property.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "In determining whether a highway is within a business or residence district, the following limitations shall apply and shall qualify the definitions in Sections 235 and 515:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "No building shall be regarded unless its entrance faces the highway and the front of the building is within 75 feet of the roadway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Where a highway is physically divided into two or more roadways only those buildings facing each roadway separately shall be regarded for the purpose of determining whether the roadway is within a district.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "All churches, apartments, hotels, multiple dwelling houses, clubs, and public buildings, other than schools, shall be deemed to be business structures.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "A highway or portion of a highway shall not be deemed to be within a district regardless of the number of buildings upon the contiguous property if there is no right of access to the highway by vehicles from the contiguous property.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=240.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/240.html",
+  "content_sha256": "e2851a7977a4019cd22b85d3918024af39df2d82b459d1db849568f56cd938cd",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

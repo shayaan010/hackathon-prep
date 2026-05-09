@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22108",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "6",
+  "chapter_title": "Turning and Stopping and Turning Signals",
+  "chapter_range": "22100 - 22113",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.6",
+  "text": "Any signal of intention to turn right or left shall be given continuously during the last 100 feet traveled by the vehicle before turning.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 6. Turning and Stopping and Turning Signals [22100 - 22113]\n##### § 22108\n\nAny signal of intention to turn right or left shall be given continuously during the last 100 feet traveled by the vehicle before turning.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any signal of intention to turn right or left shall be given continuously during the last 100 feet traveled by the vehicle before turning.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22108.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22108.html",
+  "content_sha256": "2211d994e0e8ab02c77772b1aee2a2452e7845ba84d7b140fecb3b63a8d93e67",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

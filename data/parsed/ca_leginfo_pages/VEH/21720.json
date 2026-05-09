@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21720",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "2",
+  "article_title": "Additional Driving Rules",
+  "article_range": "21700 - 21721",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.2",
+  "text": "A pocket bike shall not be operated on a sidewalk, roadway, or any other part of a highway, or on a bikeway, bicycle path or trail, equestrian trail, hiking or recreational trail, or on public lands open to off-highway motor vehicle use.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 2. Additional Driving Rules [21700 - 21721]\n##### § 21720\n\nA pocket bike shall not be operated on a sidewalk, roadway, or any other part of a highway, or on a bikeway, bicycle path or trail, equestrian trail, hiking or recreational trail, or on public lands open to off-highway motor vehicle use.\n\n*(Added by Stats. 2005, Ch. 323, Sec. 3. Effective January 1, 2006.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A pocket bike shall not be operated on a sidewalk, roadway, or any other part of a highway, or on a bikeway, bicycle path or trail, equestrian trail, hiking or recreational trail, or on public lands open to off-highway motor vehicle use.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2005, Ch. 323, Sec. 3. Effective January 1, 2006.)",
+    "action": "Added",
+    "statutes_year": 2005,
+    "chapter": "323",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2006-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2005",
+  "op_chapter": "323",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21720.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21720.html",
+  "content_sha256": "693ee5cababce539623254a845a73cb04b03bcfb5394fd07658b0afcf28e135f",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

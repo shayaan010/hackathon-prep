@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "233",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) Except as provided in subdivision (b), a “bus” is any vehicle, including a trailer bus, designed, used, or maintained for carrying more than 15 persons including the driver.\n\n(b) A vehicle designed, used, or maintained for carrying more than 10 persons, including the driver, which is used to transport persons for compensation or profit, or is used by any nonprofit organization or group, is also a bus.\n\n(c) This section does not alter the definition of a schoolbus, school pupil activity bus, general public paratransit vehicle, farm labor vehicle, or youth bus.\n\n(d) A vanpool vehicle is not a bus.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 233\n\n(a) Except as provided in subdivision (b), a “bus” is any vehicle, including a trailer bus, designed, used, or maintained for carrying more than 15 persons including the driver.\n\n(b) A vehicle designed, used, or maintained for carrying more than 10 persons, including the driver, which is used to transport persons for compensation or profit, or is used by any nonprofit organization or group, is also a bus.\n\n(c) This section does not alter the definition of a schoolbus, school pupil activity bus, general public paratransit vehicle, farm labor vehicle, or youth bus.\n\n(d) A vanpool vehicle is not a bus.\n\n*(Amended by Stats. 1994, Ch. 675, Sec. 1. Effective January 1, 1995.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in subdivision (b), a “bus” is any vehicle, including a trailer bus, designed, used, or maintained for carrying more than 15 persons including the driver.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A vehicle designed, used, or maintained for carrying more than 10 persons, including the driver, which is used to transport persons for compensation or profit, or is used by any nonprofit organization or group, is also a bus.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section does not alter the definition of a schoolbus, school pupil activity bus, general public paratransit vehicle, farm labor vehicle, or youth bus.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "A vanpool vehicle is not a bus.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 675, Sec. 1. Effective January 1, 1995.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "675",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "675",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=233.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/233.html",
+  "content_sha256": "c7d937ae182a545edfc8aec4b54c9e4386abad133863f8109b116e4a116c37ab",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

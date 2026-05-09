@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21656",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "1",
+  "article_title": "Driving on Right Side",
+  "article_range": "21650 - 21664",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.1",
+  "text": "On a two-lane highway where passing is unsafe because of traffic in the opposite direction or other conditions, any vehicle proceeding upon the highway at a speed less than the normal speed of traffic moving in the same direction at that time, behind which five or more vehicles are formed in line, shall turn off the roadway at the nearest place designated as a turnout by signs erected by the authority having jurisdiction over the highway, or wherever sufficient area for a safe turnout exists, in order to permit the vehicles following it to proceed.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 1. Driving on Right Side [21650 - 21664]\n##### § 21656\n\nOn a two-lane highway where passing is unsafe because of traffic in the opposite direction or other conditions, any vehicle proceeding upon the highway at a speed less than the normal speed of traffic moving in the same direction at that time, behind which five or more vehicles are formed in line, shall turn off the roadway at the nearest place designated as a turnout by signs erected by the authority having jurisdiction over the highway, or wherever sufficient area for a safe turnout exists, in order to permit the vehicles following it to proceed.\n\n*(Amended by Stats. 2015, Ch. 265, Sec. 1. (AB 208) Effective January 1, 2016.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "On a two-lane highway where passing is unsafe because of traffic in the opposite direction or other conditions, any vehicle proceeding upon the highway at a speed less than the normal speed of traffic moving in the same direction at that time, behind which five or more vehicles are formed in line, shall turn off the roadway at the nearest place designated as a turnout by signs erected by the authority having jurisdiction over the highway, or wherever sufficient area for a safe turnout exists, in order to permit the vehicles following it to proceed.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2015, Ch. 265, Sec. 1. (AB 208) Effective January 1, 2016.)",
+    "action": "Amended",
+    "statutes_year": 2015,
+    "chapter": "265",
+    "section": "1",
+    "bill_number": "AB 208",
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2015",
+  "op_chapter": "265",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21656.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21656.html",
+  "content_sha256": "cf2b4c910c39ae77f7f8b3fedde3ffeb5a29e68946f663bbbbe369384aed9df7",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

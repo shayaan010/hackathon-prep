@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21280",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "6",
+  "article_title": "Electric Personal Assistive Mobility Devices",
+  "article_range": "21280 - 21282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.8",
+  "text": "(a) The Legislature finds and declares all of the following:\n\n(1) This state has severe traffic congestion and air pollution problems, particularly in its cities, and finding ways to reduce these problems is of paramount importance.\n\n(2) Reducing the millions of single passenger automobile trips of five miles or less that Californians take each year will significantly reduce the pollution caused by fuel emissions and aggravated by automobile congestion.\n\n(3) Electric personal assistive mobility devices that meet the definition in Section 313 operate solely on electricity and employ advances in technology to safely integrate the user in pedestrian transportation.\n\n(4) Electric personal assistive mobility devices enable California businesses, public officials, and individuals to travel farther and carry more without the use of traditional vehicles, thereby promoting gains in productivity, minimizing environmental impacts, and facilitating better use of public ways.\n\n(b) The Legislature is adding this article as part of its program to promote the use of no-emission transportation.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 6. Electric Personal Assistive Mobility Devices [21280 - 21282]\n##### § 21280\n\n(a) The Legislature finds and declares all of the following:\n\n    (1) This state has severe traffic congestion and air pollution problems, particularly in its cities, and finding ways to reduce these problems is of paramount importance.\n\n    (2) Reducing the millions of single passenger automobile trips of five miles or less that Californians take each year will significantly reduce the pollution caused by fuel emissions and aggravated by automobile congestion.\n\n    (3) Electric personal assistive mobility devices that meet the definition in Section 313 operate solely on electricity and employ advances in technology to safely integrate the user in pedestrian transportation.\n\n    (4) Electric personal assistive mobility devices enable California businesses, public officials, and individuals to travel farther and carry more without the use of traditional vehicles, thereby promoting gains in productivity, minimizing environmental impacts, and facilitating better use of public ways.\n\n(b) The Legislature is adding this article as part of its program to promote the use of no-emission transportation.\n\n*(Amended by Stats. 2007, Ch. 106, Sec. 4. Effective January 1, 2008.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Legislature finds and declares all of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "This state has severe traffic congestion and air pollution problems, particularly in its cities, and finding ways to reduce these problems is of paramount importance.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Reducing the millions of single passenger automobile trips of five miles or less that Californians take each year will significantly reduce the pollution caused by fuel emissions and aggravated by automobile congestion.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Electric personal assistive mobility devices that meet the definition in Section 313 operate solely on electricity and employ advances in technology to safely integrate the user in pedestrian transportation.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Electric personal assistive mobility devices enable California businesses, public officials, and individuals to travel farther and carry more without the use of traditional vehicles, thereby promoting gains in productivity, minimizing environmental impacts, and facilitating better use of public ways.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "The Legislature is adding this article as part of its program to promote the use of no-emission transportation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2007, Ch. 106, Sec. 4. Effective January 1, 2008.)",
+    "action": "Amended",
+    "statutes_year": 2007,
+    "chapter": "106",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "2008-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2007",
+  "op_chapter": "106",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21280.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21280.html",
+  "content_sha256": "3c515cc123efb84408f10243200f24d3a1e9d8d4048680cfe930545c2e743252",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}
