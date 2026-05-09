@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22850",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "10",
+  "chapter_title": "Removal of Parked and Abandoned Vehicles",
+  "chapter_range": "22650 - 22856",
+  "article": "2",
+  "article_title": "Vehicle Disposition",
+  "article_range": "22850 - 22856",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.10.2",
+  "text": "Whenever an officer or employee removes a vehicle from a highway, or from public or private property, unless otherwise provided, he shall take the vehicle to the nearest garage or other place of safety or to a garage designated or maintained by the governmental agency of which the officer or employee is a member, where the vehicle shall be placed in storage.\n\nAt the time of such removal, the officer or employee shall determine the amount of mileage on the vehicle.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 10. Removal of Parked and Abandoned Vehicles [22650 - 22856]\n#### Article 2. Vehicle Disposition [22850 - 22856]\n##### § 22850\n\nWhenever an officer or employee removes a vehicle from a highway, or from public or private property, unless otherwise provided, he shall take the vehicle to the nearest garage or other place of safety or to a garage designated or maintained by the governmental agency of which the officer or employee is a member, where the vehicle shall be placed in storage.\n\nAt the time of such removal, the officer or employee shall determine the amount of mileage on the vehicle.\n\n*(Amended by Stats. 1975, Ch. 239.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever an officer or employee removes a vehicle from a highway, or from public or private property, unless otherwise provided, he shall take the vehicle to the nearest garage or other place of safety or to a garage designated or maintained by the governmental agency of which the officer or employee is a member, where the vehicle shall be placed in storage.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "At the time of such removal, the officer or employee shall determine the amount of mileage on the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1975, Ch. 239.)",
+    "action": "Amended",
+    "statutes_year": 1975,
+    "chapter": "239",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "239",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22850.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22850.html",
+  "content_sha256": "8a29e2a3f3d2b0db49d6fd2606aad7d14a406240c9edec559516cb316ca93eaf",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27302",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "3",
+  "article_title": "Safety Belts and Inflatable Restraint Systems",
+  "article_range": "27302 - 27319",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.4",
+  "text": "No person shall sell or offer for sale any seatbelt or attachments thereto for use in a vehicle unless it complies with requirements established by the department.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 3. Safety Belts and Inflatable Restraint Systems [27302 - 27319]\n##### § 27302\n\nNo person shall sell or offer for sale any seatbelt or attachments thereto for use in a vehicle unless it complies with requirements established by the department.\n\n*(Amended by Stats. 1979, Ch. 723.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall sell or offer for sale any seatbelt or attachments thereto for use in a vehicle unless it complies with requirements established by the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1979, Ch. 723.)",
+    "action": "Amended",
+    "statutes_year": 1979,
+    "chapter": "723",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1979",
+  "op_chapter": "723",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27302.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27302.html",
+  "content_sha256": "5eba835651445946f418816e641becf75837810bc70e7e2cc915b76020b0161b",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

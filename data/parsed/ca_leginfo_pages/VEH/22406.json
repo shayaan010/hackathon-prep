@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22406",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "2",
+  "article_title": "Other Speed Laws",
+  "article_range": "22400 - 22413",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.2",
+  "text": "No person may drive any of the following vehicles on a highway at a speed in excess of 55 miles per hour:\n\n(a) A motortruck or truck tractor having three or more axles or any motortruck or truck tractor drawing any other vehicle.\n\n(b) A passenger vehicle or bus drawing any other vehicle.\n\n(c) A schoolbus transporting any school pupil.\n\n(d) A farm labor vehicle when transporting passengers.\n\n(e) A vehicle transporting explosives.\n\n(f) A trailer bus, as defined in Section 636.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 2. Other Speed Laws [22400 - 22413]\n##### § 22406\n\nNo person may drive any of the following vehicles on a highway at a speed in excess of 55 miles per hour:\n\n(a) A motortruck or truck tractor having three or more axles or any motortruck or truck tractor drawing any other vehicle.\n\n(b) A passenger vehicle or bus drawing any other vehicle.\n\n(c) A schoolbus transporting any school pupil.\n\n(d) A farm labor vehicle when transporting passengers.\n\n(e) A vehicle transporting explosives.\n\n(f) A trailer bus, as defined in Section 636.\n\n*(Amended by Stats. 2000, Ch. 787, Sec. 22. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person may drive any of the following vehicles on a highway at a speed in excess of 55 miles per hour:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A motortruck or truck tractor having three or more axles or any motortruck or truck tractor drawing any other vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A passenger vehicle or bus drawing any other vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A schoolbus transporting any school pupil.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "A farm labor vehicle when transporting passengers.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "A vehicle transporting explosives.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "f",
+      "text": "A trailer bus, as defined in Section 636.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2000, Ch. 787, Sec. 22. Effective January 1, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2000,
+    "chapter": "787",
+    "section": "22",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "787",
+  "op_section": "22",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22406.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22406.html",
+  "content_sha256": "40a0f080b50c88b612e77215a1f847e6e0906a9559dea815d0b70ee631a3ca7b",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22358",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "1",
+  "article_title": "Generally",
+  "article_range": "22348 - 22366",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.1",
+  "text": "(a) Whenever a local authority determines upon the basis of an engineering and traffic survey that the limit of 65 miles per hour is more than is reasonable or safe upon any portion of any street other than a state highway where the limit of 65 miles per hour is applicable, the local authority may by ordinance determine and declare a prima facie speed limit of 60, 55, 50, 45, 40, 35, 30, 25, 20, or 15 miles per hour, whichever is found most appropriate to facilitate the orderly movement of traffic and is reasonable and safe, which declared prima facie limit shall be effective when appropriate signs giving notice thereof are erected upon the street.\n\n(b) This section shall become operative on the date specified in subdivision (c) of Section 22366.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 1. Generally [22348 - 22366]\n##### § 22358\n\n(a) Whenever a local authority determines upon the basis of an engineering and traffic survey that the limit of 65 miles per hour is more than is reasonable or safe upon any portion of any street other than a state highway where the limit of 65 miles per hour is applicable, the local authority may by ordinance determine and declare a prima facie speed limit of 60, 55, 50, 45, 40, 35, 30, 25, 20, or 15 miles per hour, whichever is found most appropriate to facilitate the orderly movement of traffic and is reasonable and safe, which declared prima facie limit shall be effective when appropriate signs giving notice thereof are erected upon the street.\n\n(b) This section shall become operative on the date specified in subdivision (c) of Section 22366.\n\n*(Amended by Stats. 2021, Ch. 690, Sec. 5. (AB 43) Effective January 1, 2022.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever a local authority determines upon the basis of an engineering and traffic survey that the limit of 65 miles per hour is more than is reasonable or safe upon any portion of any street other than a state highway where the limit of 65 miles per hour is applicable, the local authority may by ordinance determine and declare a prima facie speed limit of 60, 55, 50, 45, 40, 35, 30, 25, 20, or 15 miles per hour, whichever is found most appropriate to facilitate the orderly movement of traffic and is reasonable and safe, which declared prima facie limit shall be effective when appropriate signs giving notice thereof are erected upon the street.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section shall become operative on the date specified in subdivision (c) of Section 22366.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 690, Sec. 5. (AB 43) Effective January 1, 2022.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "690",
+    "section": "5",
+    "bill_number": "AB 43",
+    "effective_date": "2022-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "690",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22358.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22358.html",
+  "content_sha256": "9202dc5d7e2886670717c4f113ace5b7df53c1373d62d07101912f4ab796c322",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26302",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "1",
+  "article_title": "Brake Requirements",
+  "article_range": "26301 - 26311",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.1",
+  "text": "(a) Every trailer or semitrailer, manufactured and first registered after January 1, 1940, and having a gross weight of 6,000 pounds or more and which is operated at a speed of 20 miles per hour or over shall be equipped with brakes.\n\n(b) Every trailer or semitrailer manufactured and first registered after January 1, 1966, and having a gross weight of 3,000 pounds or more shall be equipped with brakes on at least two wheels.\n\n(c) Every trailer or semitrailer manufactured after January 1, 1982, and equipped with air brakes shall be equipped with brakes on all wheels.\n\n(d) Brakes required on trailers or semitrailers shall be adequate, supplemental to the brakes on the towing vehicle, to enable the combination of vehicles to comply with the stopping distance requirements of Section 26454.\n\n(e) The provisions of this section shall not apply to any vehicle being used to support the boom or mast attached to a mobile crane or shovel.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 1. Brake Requirements [26301 - 26311]\n##### § 26302\n\n(a) Every trailer or semitrailer, manufactured and first registered after January 1, 1940, and having a gross weight of 6,000 pounds or more and which is operated at a speed of 20 miles per hour or over shall be equipped with brakes.\n\n(b) Every trailer or semitrailer manufactured and first registered after January 1, 1966, and having a gross weight of 3,000 pounds or more shall be equipped with brakes on at least two wheels.\n\n(c) Every trailer or semitrailer manufactured after January 1, 1982, and equipped with air brakes shall be equipped with brakes on all wheels.\n\n(d) Brakes required on trailers or semitrailers shall be adequate, supplemental to the brakes on the towing vehicle, to enable the combination of vehicles to comply with the stopping distance requirements of Section 26454.\n\n(e) The provisions of this section shall not apply to any vehicle being used to support the boom or mast attached to a mobile crane or shovel.\n\n*(Amended by Stats. 1981, Ch. 774, Sec. 6.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every trailer or semitrailer, manufactured and first registered after January 1, 1940, and having a gross weight of 6,000 pounds or more and which is operated at a speed of 20 miles per hour or over shall be equipped with brakes.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Every trailer or semitrailer manufactured and first registered after January 1, 1966, and having a gross weight of 3,000 pounds or more shall be equipped with brakes on at least two wheels.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Every trailer or semitrailer manufactured after January 1, 1982, and equipped with air brakes shall be equipped with brakes on all wheels.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "Brakes required on trailers or semitrailers shall be adequate, supplemental to the brakes on the towing vehicle, to enable the combination of vehicles to comply with the stopping distance requirements of Section 26454.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "The provisions of this section shall not apply to any vehicle being used to support the boom or mast attached to a mobile crane or shovel.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1981, Ch. 774, Sec. 6.)",
+    "action": "Amended",
+    "statutes_year": 1981,
+    "chapter": "774",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1981",
+  "op_chapter": "774",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26302.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26302.html",
+  "content_sha256": "60929f15868e8175e4506be0f893bd57918d470be1bbd0fd2621425cd216c3e2",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

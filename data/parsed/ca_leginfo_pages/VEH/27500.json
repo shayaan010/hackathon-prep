@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27500",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "4",
+  "article_title": "Tires",
+  "article_range": "27450 - 27503",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.9",
+  "text": "(a) The department may adopt regulations relating to standards for pneumatic tires of a vehicle type as it determines necessary to provide for public safety.\n\n(b) In adopting these regulations, the department shall consider as evidence of generally accepted standards, the rules and regulations which have been adopted by the Federal Highway Administration and Rubber Manufacturers Assocation.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 4. Tires [27450 - 27503]\n##### § 27500\n\n(a) The department may adopt regulations relating to standards for pneumatic tires of a vehicle type as it determines necessary to provide for public safety.\n\n(b) In adopting these regulations, the department shall consider as evidence of generally accepted standards, the rules and regulations which have been adopted by the Federal Highway Administration and Rubber Manufacturers Assocation.\n\n*(Amended by Stats. 1970, Ch. 216.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may adopt regulations relating to standards for pneumatic tires of a vehicle type as it determines necessary to provide for public safety.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "In adopting these regulations, the department shall consider as evidence of generally accepted standards, the rules and regulations which have been adopted by the Federal Highway Administration and Rubber Manufacturers Assocation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1970, Ch. 216.)",
+    "action": "Amended",
+    "statutes_year": 1970,
+    "chapter": "216",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1970",
+  "op_chapter": "216",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27500.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27500.html",
+  "content_sha256": "23e2fc51fa88b68bfe503a00053552b9fae43962d594ad537fa531cf56f31d6a",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

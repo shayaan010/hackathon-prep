@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26103",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "16",
+  "article_title": "Equipment Testing",
+  "article_range": "26100 - 26106",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.16",
+  "text": "(a) The department may adopt and enforce regulations establishing standards and specifications for safety belts, safety glazing material, safety helmets, sirens, tire traction devices, bunk stakes, and synthetic binders. The standards and specifications may include installation and aiming requirements.\n\n(b) Notwithstanding rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code), the department shall adopt regulations for lighting devices permitted by this code and incorporate by reference the applicable standards published by SAE International for these devices and a corresponding publication date. Notwithstanding the specified publication date, a person may sell or use upon a vehicle a device meeting the requirements of a revised standard.\n\n(c) A federal motor vehicle safety standard adopted pursuant to Chapter 301 (commencing with Section 30101) of Part A of Subtitle VI of Title 49 of the United States Code that covers the same aspect of performance of a device shall prevail over provisions of this code or regulations adopted pursuant to this code. Lamps, devices, and equipment certified by the manufacturer to meet applicable federal motor vehicle safety standards as original equipment on new vehicles and the identical replacements for those items need not be certified to the department.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 16. Equipment Testing [26100 - 26106]\n##### § 26103\n\n(a) The department may adopt and enforce regulations establishing standards and specifications for safety belts, safety glazing material, safety helmets, sirens, tire traction devices, bunk stakes, and synthetic binders. The standards and specifications may include installation and aiming requirements.\n\n(b) Notwithstanding rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code), the department shall adopt regulations for lighting devices permitted by this code and incorporate by reference the applicable standards published by SAE International for these devices and a corresponding publication date. Notwithstanding the specified publication date, a person may sell or use upon a vehicle a device meeting the requirements of a revised standard.\n\n(c) A federal motor vehicle safety standard adopted pursuant to Chapter 301 (commencing with Section 30101) of Part A of Subtitle VI of Title 49 of the United States Code that covers the same aspect of performance of a device shall prevail over provisions of this code or regulations adopted pursuant to this code. Lamps, devices, and equipment certified by the manufacturer to meet applicable federal motor vehicle safety standards as original equipment on new vehicles and the identical replacements for those items need not be certified to the department.\n\n*(Amended by Stats. 2021, Ch. 311, Sec. 7. (SB 814) Effective January 1, 2022.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The department may adopt and enforce regulations establishing standards and specifications for safety belts, safety glazing material, safety helmets, sirens, tire traction devices, bunk stakes, and synthetic binders. The standards and specifications may include installation and aiming requirements.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code), the department shall adopt regulations for lighting devices permitted by this code and incorporate by reference the applicable standards published by SAE International for these devices and a corresponding publication date. Notwithstanding the specified publication date, a person may sell or use upon a vehicle a device meeting the requirements of a revised standard.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A federal motor vehicle safety standard adopted pursuant to Chapter 301 (commencing with Section 30101) of Part A of Subtitle VI of Title 49 of the United States Code that covers the same aspect of performance of a device shall prevail over provisions of this code or regulations adopted pursuant to this code. Lamps, devices, and equipment certified by the manufacturer to meet applicable federal motor vehicle safety standards as original equipment on new vehicles and the identical replacements for those items need not be certified to the department.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2021, Ch. 311, Sec. 7. (SB 814) Effective January 1, 2022.)",
+    "action": "Amended",
+    "statutes_year": 2021,
+    "chapter": "311",
+    "section": "7",
+    "bill_number": "SB 814",
+    "effective_date": "2022-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2021",
+  "op_chapter": "311",
+  "op_section": "7",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26103.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26103.html",
+  "content_sha256": "def6f27ad102d382b9c6def9dc102c2b87ab79436c4d4c04d83b6361f3c5ba43",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

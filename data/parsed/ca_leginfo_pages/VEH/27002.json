@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27002",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "1",
+  "article_title": "Horns, Sirens and Amplification Devices",
+  "article_range": "27000 - 27007",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.1",
+  "text": "(a) No vehicle, except an authorized emergency vehicle, shall be equipped with, nor shall any person use upon a vehicle any siren except that an authorized emergency vehicle shall be equipped with a siren meeting requirements established by the department.\n\n(b) An authorized emergency vehicle may also be equipped with a Hi-Lo audible warning sound meeting requirements established by the department.\n\n(c) A Hi-Lo warning sound may only be used to notify the public of an immediate evacuation in case of an emergency and is not a siren. For the purposes of Section 21055, a Hi-Lo shall not be used in lieu of a siren if the sounding of a siren is reasonably necessary pursuant to that section.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 1. Horns, Sirens and Amplification Devices [27000 - 27007]\n##### § 27002\n\n(a) No vehicle, except an authorized emergency vehicle, shall be equipped with, nor shall any person use upon a vehicle any siren except that an authorized emergency vehicle shall be equipped with a siren meeting requirements established by the department.\n\n(b) An authorized emergency vehicle may also be equipped with a Hi-Lo audible warning sound meeting requirements established by the department.\n\n(c) A Hi-Lo warning sound may only be used to notify the public of an immediate evacuation in case of an emergency and is not a siren. For the purposes of Section 21055, a Hi-Lo shall not be used in lieu of a siren if the sounding of a siren is reasonably necessary pursuant to that section.\n\n*(Amended by Stats. 2020, Ch. 262, Sec. 1. (SB 909) Effective September 29, 2020.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No vehicle, except an authorized emergency vehicle, shall be equipped with, nor shall any person use upon a vehicle any siren except that an authorized emergency vehicle shall be equipped with a siren meeting requirements established by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "An authorized emergency vehicle may also be equipped with a Hi-Lo audible warning sound meeting requirements established by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A Hi-Lo warning sound may only be used to notify the public of an immediate evacuation in case of an emergency and is not a siren. For the purposes of Section 21055, a Hi-Lo shall not be used in lieu of a siren if the sounding of a siren is reasonably necessary pursuant to that section.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2020, Ch. 262, Sec. 1. (SB 909) Effective September 29, 2020.)",
+    "action": "Amended",
+    "statutes_year": 2020,
+    "chapter": "262",
+    "section": "1",
+    "bill_number": "SB 909",
+    "effective_date": "2020-09-29",
+    "operative_date": null
+  },
+  "op_statues": "2020",
+  "op_chapter": "262",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27002.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27002.html",
+  "content_sha256": "45e7e488f643e97ef34b9b58a991c4de3cb2f0dfb1ac517ce3844b1222b6f68b",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

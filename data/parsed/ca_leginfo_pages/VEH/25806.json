@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25806",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "14",
+  "article_title": "Vehicles Exempted",
+  "article_range": "25800 - 25806",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.14",
+  "text": "Sections 24003 and 27002 shall not apply to the installation of warning lamps and sirens on ambulances or firetrucks which are used solely for demonstration purposes in the sales work of a licensed dealer, distributor, or vehicle manufacturer and shall not apply to ambulances or firetrucks being operated on a highway solely for the purpose of delivery from the licensee to a purchaser. Warning lamps shall be removed or covered with opaque material and the siren controls disabled whenever the vehicle is upon a highway.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 14. Vehicles Exempted [25800 - 25806]\n##### § 25806\n\nSections 24003 and 27002 shall not apply to the installation of warning lamps and sirens on ambulances or firetrucks which are used solely for demonstration purposes in the sales work of a licensed dealer, distributor, or vehicle manufacturer and shall not apply to ambulances or firetrucks being operated on a highway solely for the purpose of delivery from the licensee to a purchaser. Warning lamps shall be removed or covered with opaque material and the siren controls disabled whenever the vehicle is upon a highway.\n\n*(Added by Stats. 1982, Ch. 217, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Sections 24003 and 27002 shall not apply to the installation of warning lamps and sirens on ambulances or firetrucks which are used solely for demonstration purposes in the sales work of a licensed dealer, distributor, or vehicle manufacturer and shall not apply to ambulances or firetrucks being operated on a highway solely for the purpose of delivery from the licensee to a purchaser. Warning lamps shall be removed or covered with opaque material and the siren controls disabled whenever the vehicle is upon a highway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1982, Ch. 217, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1982,
+    "chapter": "217",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1982",
+  "op_chapter": "217",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25806.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25806.html",
+  "content_sha256": "3d50fd260e701157437fb14da5cf157e509628b03a6d52cfa6ce7710a9d4f017",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

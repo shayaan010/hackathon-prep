@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25452",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "11",
+  "article_title": "Acetylene Lamps",
+  "article_range": "25450 - 25452",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.11",
+  "text": "No acetylene lamp shall emit any glaring light.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 11. Acetylene Lamps [25450 - 25452]\n##### § 25452\n\nNo acetylene lamp shall emit any glaring light.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No acetylene lamp shall emit any glaring light.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25452.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25452.html",
+  "content_sha256": "ce8dfcac80e73f3274ea8242c1c0adc4530cc6f4db86a69fae17ed7404566a2a",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

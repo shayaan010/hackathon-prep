@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25105",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "6",
+  "article_title": "Side and Fender Lighting Equipment",
+  "article_range": "25100 - 25110",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.6",
+  "text": "(a) Any motor vehicle may be equipped with running board or door-mounted courtesy lamps. The bulbs in the lamps shall not exceed six standard candlepower and shall emit either a green or white light without glare. The beams of the lamps shall not be visible to the front or rear of the vehicle.\n\n(b) Any motor vehicle may be equipped with inside door-mounted red lamps or red reflectorizing devices or material visible to the rear of the vehicle when the doors are open. The bulbs in the lamps shall not exceed six standard candlepower.\n\n(c) Any motor vehicle may be equipped with exterior lamps for the purpose of lighting the entrances and exits of the vehicles, which lamps may be lighted only when the vehicles are not in motion. The lamp source of the exterior lamps shall not exceed 32 standard candlepower, or 30 watts, nor project any glaring light into the eyes of an approaching driver.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 6. Side and Fender Lighting Equipment [25100 - 25110]\n##### § 25105\n\n(a) Any motor vehicle may be equipped with running board or door-mounted courtesy lamps. The bulbs in the lamps shall not exceed six standard candlepower and shall emit either a green or white light without glare. The beams of the lamps shall not be visible to the front or rear of the vehicle.\n\n(b) Any motor vehicle may be equipped with inside door-mounted red lamps or red reflectorizing devices or material visible to the rear of the vehicle when the doors are open. The bulbs in the lamps shall not exceed six standard candlepower.\n\n(c) Any motor vehicle may be equipped with exterior lamps for the purpose of lighting the entrances and exits of the vehicles, which lamps may be lighted only when the vehicles are not in motion. The lamp source of the exterior lamps shall not exceed 32 standard candlepower, or 30 watts, nor project any glaring light into the eyes of an approaching driver.\n\n*(Amended by Stats. 1995, Ch. 348, Sec. 1. Effective January 1, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any motor vehicle may be equipped with running board or door-mounted courtesy lamps. The bulbs in the lamps shall not exceed six standard candlepower and shall emit either a green or white light without glare. The beams of the lamps shall not be visible to the front or rear of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any motor vehicle may be equipped with inside door-mounted red lamps or red reflectorizing devices or material visible to the rear of the vehicle when the doors are open. The bulbs in the lamps shall not exceed six standard candlepower.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Any motor vehicle may be equipped with exterior lamps for the purpose of lighting the entrances and exits of the vehicles, which lamps may be lighted only when the vehicles are not in motion. The lamp source of the exterior lamps shall not exceed 32 standard candlepower, or 30 watts, nor project any glaring light into the eyes of an approaching driver.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1995, Ch. 348, Sec. 1. Effective January 1, 1996.)",
+    "action": "Amended",
+    "statutes_year": 1995,
+    "chapter": "348",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1996-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1995",
+  "op_chapter": "348",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25105.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25105.html",
+  "content_sha256": "00bd28b7ea8475eec5359ec753c8d76ce2b5b3a007567a5cb582ca7f88ad99e4",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

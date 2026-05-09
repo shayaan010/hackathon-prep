@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27151",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "2",
+  "article_title": "Exhaust Systems",
+  "article_range": "27150 - 27159",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.2",
+  "text": "(a) A person shall not modify the exhaust system of a motor vehicle in a manner which will amplify or increase the noise emitted by the motor of the vehicle so that the vehicle is not in compliance with the provisions of Section 27150 or exceeds the noise limits established for the type of vehicle in Article 2.5 (commencing with Section 27200). A person shall not operate a motor vehicle with an exhaust system so modified.\n\n(b) For the purposes of exhaust systems installed on motor vehicles with a manufacturer’s gross vehicle weight rating of less than 6,000 pounds, other than motorcycles, a sound level of 95 dbA or less, when tested in accordance with the most current SAE International standard, complies with this section. Motor vehicle exhaust systems or parts thereof include, but are not limited to, nonoriginal exhaust equipment.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 2. Exhaust Systems [27150 - 27159]\n##### § 27151\n\n(a) A person shall not modify the exhaust system of a motor vehicle in a manner which will amplify or increase the noise emitted by the motor of the vehicle so that the vehicle is not in compliance with the provisions of Section 27150 or exceeds the noise limits established for the type of vehicle in Article 2.5 (commencing with Section 27200). A person shall not operate a motor vehicle with an exhaust system so modified.\n\n(b) For the purposes of exhaust systems installed on motor vehicles with a manufacturer’s gross vehicle weight rating of less than 6,000 pounds, other than motorcycles, a sound level of 95 dbA or less, when tested in accordance with the most current SAE International standard, complies with this section. Motor vehicle exhaust systems or parts thereof include, but are not limited to, nonoriginal exhaust equipment.\n\n*(Amended by Stats. 2022, Ch. 295, Sec. 18. (AB 2956) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A person shall not modify the exhaust system of a motor vehicle in a manner which will amplify or increase the noise emitted by the motor of the vehicle so that the vehicle is not in compliance with the provisions of Section 27150 or exceeds the noise limits established for the type of vehicle in Article 2.5 (commencing with Section 27200). A person shall not operate a motor vehicle with an exhaust system so modified.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For the purposes of exhaust systems installed on motor vehicles with a manufacturer’s gross vehicle weight rating of less than 6,000 pounds, other than motorcycles, a sound level of 95 dbA or less, when tested in accordance with the most current SAE International standard, complies with this section. Motor vehicle exhaust systems or parts thereof include, but are not limited to, nonoriginal exhaust equipment.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 295, Sec. 18. (AB 2956) Effective January 1, 2023.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "295",
+    "section": "18",
+    "bill_number": "AB 2956",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "295",
+  "op_section": "18",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27151.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27151.html",
+  "content_sha256": "437611e99b43dc783b30fb7796b8502ec86d255640c5566209e8051f9a936b10",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22856",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "10",
+  "chapter_title": "Removal of Parked and Abandoned Vehicles",
+  "chapter_range": "22650 - 22856",
+  "article": "2",
+  "article_title": "Vehicle Disposition",
+  "article_range": "22850 - 22856",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.10.2",
+  "text": "Notwithstanding any other provision of law, no cause of action for despoliation of evidence shall arise against any towing company that sells any vehicle at, or disposes of any vehicle after, a lien sale, unless the company knew, or should have known, that the vehicle will be needed as evidence in a legal action.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 10. Removal of Parked and Abandoned Vehicles [22650 - 22856]\n#### Article 2. Vehicle Disposition [22850 - 22856]\n##### § 22856\n\nNotwithstanding any other provision of law, no cause of action for despoliation of evidence shall arise against any towing company that sells any vehicle at, or disposes of any vehicle after, a lien sale, unless the company knew, or should have known, that the vehicle will be needed as evidence in a legal action.\n\n*(Added by Stats. 1989, Ch. 457, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Notwithstanding any other provision of law, no cause of action for despoliation of evidence shall arise against any towing company that sells any vehicle at, or disposes of any vehicle after, a lien sale, unless the company knew, or should have known, that the vehicle will be needed as evidence in a legal action.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1989, Ch. 457, Sec. 3.)",
+    "action": "Added",
+    "statutes_year": 1989,
+    "chapter": "457",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1989",
+  "op_chapter": "457",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22856.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22856.html",
+  "content_sha256": "9fae42616d6b18948cd94bad9d62c07e32a6da5b232c44310cd137e6ceeef5ff",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

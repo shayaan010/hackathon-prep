@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22515",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "(a) No person driving, or in control of, or in charge of, a motor vehicle shall permit it to stand on any highway unattended without first effectively setting the brakes thereon and stopping the motor thereof.\n\n(b) No person in control of, or in charge of, any vehicle, other than a motor vehicle, shall permit it to stand on any highway without first effectively setting the brakes thereon, or blocking the wheels thereof, to effectively prevent the movement of the vehicle.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22515\n\n(a) No person driving, or in control of, or in charge of, a motor vehicle shall permit it to stand on any highway unattended without first effectively setting the brakes thereon and stopping the motor thereof.\n\n(b) No person in control of, or in charge of, any vehicle, other than a motor vehicle, shall permit it to stand on any highway without first effectively setting the brakes thereon, or blocking the wheels thereof, to effectively prevent the movement of the vehicle.\n\n*(Amended by Stats. 1986, Ch. 362, Sec. 3.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person driving, or in control of, or in charge of, a motor vehicle shall permit it to stand on any highway unattended without first effectively setting the brakes thereon and stopping the motor thereof.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No person in control of, or in charge of, any vehicle, other than a motor vehicle, shall permit it to stand on any highway without first effectively setting the brakes thereon, or blocking the wheels thereof, to effectively prevent the movement of the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1986, Ch. 362, Sec. 3.)",
+    "action": "Amended",
+    "statutes_year": 1986,
+    "chapter": "362",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1986",
+  "op_chapter": "362",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22515.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22515.html",
+  "content_sha256": "013fb193719faacfa2eb07ea249011b5e2673eafd37e5b6e4dfcc5b372b26e66",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

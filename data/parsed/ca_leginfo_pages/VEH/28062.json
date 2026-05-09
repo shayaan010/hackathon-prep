@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28062",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "11",
+  "article_title": "Fire Extinguishers",
+  "article_range": "28060 - 28062",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.16",
+  "text": "(a) A modified limousine shall be equipped with two readily accessible and fully charged fire extinguishers having at least a 2A10BC 5 pound rating and maintained in efficient operating condition. One fire extinguisher shall be securely mounted in the driver’s compartment and at least one shall be accessible to the passengers.\n\n(b) The driver or operator of a modified limousine shall notify the passengers of the location of each fire extinguisher prior to the commencement of any trip.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 11. Fire Extinguishers [28060 - 28062]\n##### § 28062\n\n(a) A modified limousine shall be equipped with two readily accessible and fully charged fire extinguishers having at least a 2A10BC 5 pound rating and maintained in efficient operating condition. One fire extinguisher shall be securely mounted in the driver’s compartment and at least one shall be accessible to the passengers.\n\n(b) The driver or operator of a modified limousine shall notify the passengers of the location of each fire extinguisher prior to the commencement of any trip.\n\n*(Added by Stats. 2014, Ch. 860, Sec. 15. (SB 611) Effective September 30, 2014.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A modified limousine shall be equipped with two readily accessible and fully charged fire extinguishers having at least a 2A10BC 5 pound rating and maintained in efficient operating condition. One fire extinguisher shall be securely mounted in the driver’s compartment and at least one shall be accessible to the passengers.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The driver or operator of a modified limousine shall notify the passengers of the location of each fire extinguisher prior to the commencement of any trip.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2014, Ch. 860, Sec. 15. (SB 611) Effective September 30, 2014.)",
+    "action": "Added",
+    "statutes_year": 2014,
+    "chapter": "860",
+    "section": "15",
+    "bill_number": "SB 611",
+    "effective_date": "2014-09-30",
+    "operative_date": null
+  },
+  "op_statues": "2014",
+  "op_chapter": "860",
+  "op_section": "15",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28062.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28062.html",
+  "content_sha256": "5c8a9adea0e924f22d9aadd360f65ff2c48f49621d576a7b1ddab30f24ba85eb",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

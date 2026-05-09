@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26451",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "2",
+  "article_title": "Operation of Brakes",
+  "article_range": "26450 - 26458.5",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.2",
+  "text": "The parking brake system of every motor vehicle shall comply with the following requirements:\n\n(a) The parking brake shall be adequate to hold the vehicle or combination of vehicles stationary on any grade on which it is operated under all conditions of loading on a surface free from snow, ice or loose material. In any event the parking brake shall be capable of locking the braked wheels to the limit of traction.\n\n(b) The parking brake shall be applied either by the driver’s muscular efforts, by spring action, or by other energy which is isolated and used exclusively for the operation of the parking brake or the combination parking brake and emergency stopping system.\n\n(c) The parking brake shall be held in the applied position solely by mechanical means.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 2. Operation of Brakes [26450 - 26458.5]\n##### § 26451\n\nThe parking brake system of every motor vehicle shall comply with the following requirements:\n\n(a) The parking brake shall be adequate to hold the vehicle or combination of vehicles stationary on any grade on which it is operated under all conditions of loading on a surface free from snow, ice or loose material. In any event the parking brake shall be capable of locking the braked wheels to the limit of traction.\n\n(b) The parking brake shall be applied either by the driver’s muscular efforts, by spring action, or by other energy which is isolated and used exclusively for the operation of the parking brake or the combination parking brake and emergency stopping system.\n\n(c) The parking brake shall be held in the applied position solely by mechanical means.\n\n*(Amended by Stats. 1981, Ch. 774, Sec. 8.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The parking brake system of every motor vehicle shall comply with the following requirements:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The parking brake shall be adequate to hold the vehicle or combination of vehicles stationary on any grade on which it is operated under all conditions of loading on a surface free from snow, ice or loose material. In any event the parking brake shall be capable of locking the braked wheels to the limit of traction.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The parking brake shall be applied either by the driver’s muscular efforts, by spring action, or by other energy which is isolated and used exclusively for the operation of the parking brake or the combination parking brake and emergency stopping system.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The parking brake shall be held in the applied position solely by mechanical means.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1981, Ch. 774, Sec. 8.)",
+    "action": "Amended",
+    "statutes_year": 1981,
+    "chapter": "774",
+    "section": "8",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1981",
+  "op_chapter": "774",
+  "op_section": "8",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26451.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26451.html",
+  "content_sha256": "0b1a8017e13492779449f6622f9de241ed3c615397cd2a1f6139821fcb6faeaf",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

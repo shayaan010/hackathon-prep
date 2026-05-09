@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "28085",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "13",
+  "article_title": "Theft Alarm System",
+  "article_range": "28085- 28085.",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.19",
+  "text": "Any motor vehicle may be equipped with a theft alarm system which flashes the lights of the vehicle, or sounds an audible signal, or both, and which operates as follows:\n\n(a) The system may flash any of the lights required or permitted on the vehicle.\n\n(b) The system may sound an audible signal.\n\n(c) No vehicle shall be equipped with a theft alarm system which emits the sound of a siren.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 13. Theft Alarm System [28085- 28085.]\n##### § 28085\n\nAny motor vehicle may be equipped with a theft alarm system which flashes the lights of the vehicle, or sounds an audible signal, or both, and which operates as follows:\n\n(a) The system may flash any of the lights required or permitted on the vehicle.\n\n(b) The system may sound an audible signal.\n\n(c) No vehicle shall be equipped with a theft alarm system which emits the sound of a siren.\n\n*(Amended by Stats. 1994, Ch. 516, Sec. 1. Effective January 1, 1995.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any motor vehicle may be equipped with a theft alarm system which flashes the lights of the vehicle, or sounds an audible signal, or both, and which operates as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The system may flash any of the lights required or permitted on the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The system may sound an audible signal.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "No vehicle shall be equipped with a theft alarm system which emits the sound of a siren.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 516, Sec. 1. Effective January 1, 1995.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "516",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "516",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=28085.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/28085.html",
+  "content_sha256": "fff73ac64091bcf46b295be0ae75a19e1a2c84c469a453666dd47b941c4a7d6d",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

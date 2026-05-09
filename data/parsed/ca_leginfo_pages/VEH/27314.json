@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27314",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "3",
+  "article_title": "Safety Belts and Inflatable Restraint Systems",
+  "article_range": "27302 - 27319",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.4",
+  "text": "(a) No dealer shall sell or offer for sale any used passenger vehicle that was manufactured on or after January 1, 1962, other than a motorcycle, unless it is equipped with at least two seatbelts which are installed for the use of persons in the front seat of the vehicle.\n\n(b) No dealer shall sell or offer for sale any used passenger vehicle manufactured on or after January 1, 1968, other than a motorcycle, unless it is equipped with seatbelts for each seating position.\n\n(c) Seatbelts required in subdivisions (a) and (b) shall comply with regulations established by the department.\n\n(d) The requirements of this section shall not apply to sales to dealers, automobile dismantlers, or junk dealers.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 3. Safety Belts and Inflatable Restraint Systems [27302 - 27319]\n##### § 27314\n\n(a) No dealer shall sell or offer for sale any used passenger vehicle that was manufactured on or after January 1, 1962, other than a motorcycle, unless it is equipped with at least two seatbelts which are installed for the use of persons in the front seat of the vehicle.\n\n(b) No dealer shall sell or offer for sale any used passenger vehicle manufactured on or after January 1, 1968, other than a motorcycle, unless it is equipped with seatbelts for each seating position.\n\n(c) Seatbelts required in subdivisions (a) and (b) shall comply with regulations established by the department.\n\n(d) The requirements of this section shall not apply to sales to dealers, automobile dismantlers, or junk dealers.\n\n*(Amended by Stats. 1979, Ch. 723.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No dealer shall sell or offer for sale any used passenger vehicle that was manufactured on or after January 1, 1962, other than a motorcycle, unless it is equipped with at least two seatbelts which are installed for the use of persons in the front seat of the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No dealer shall sell or offer for sale any used passenger vehicle manufactured on or after January 1, 1968, other than a motorcycle, unless it is equipped with seatbelts for each seating position.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Seatbelts required in subdivisions (a) and (b) shall comply with regulations established by the department.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "The requirements of this section shall not apply to sales to dealers, automobile dismantlers, or junk dealers.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1979, Ch. 723.)",
+    "action": "Amended",
+    "statutes_year": 1979,
+    "chapter": "723",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1979",
+  "op_chapter": "723",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27314.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27314.html",
+  "content_sha256": "e89ef3060f26a3a25d72ea9488778fafe1180e02b36f865e58ef8c407227030a",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

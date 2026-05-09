@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22349",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "1",
+  "article_title": "Generally",
+  "article_range": "22348 - 22366",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.1",
+  "text": "(a) Except as provided in Section 22356, no person may drive a vehicle upon a highway at a speed greater than 65 miles per hour.\n\n(b) Notwithstanding any other provision of law, no person may drive a vehicle upon a two-lane, undivided highway at a speed greater than 55 miles per hour unless that highway, or portion thereof, has been posted for a higher speed by the Department of Transportation or appropriate local agency upon the basis of an engineering and traffic survey. For purposes of this subdivision, the following apply:\n\n(1) A two-lane, undivided highway is a highway with not more than one through lane of travel in each direction.\n\n(2) Passing lanes may not be considered when determining the number of through lanes.\n\n(c) It is the intent of the Legislature that there be reasonable signing on affected two-lane, undivided highways described in subdivision (b) in continuing the 55 miles-per-hour speed limit, including placing signs at county boundaries to the extent possible, and at other appropriate locations.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 1. Generally [22348 - 22366]\n##### § 22349\n\n(a) Except as provided in Section 22356, no person may drive a vehicle upon a highway at a speed greater than 65 miles per hour.\n\n(b) Notwithstanding any other provision of law, no person may drive a vehicle upon a two-lane, undivided highway at a speed greater than 55 miles per hour unless that highway, or portion thereof, has been posted for a higher speed by the Department of Transportation or appropriate local agency upon the basis of an engineering and traffic survey. For purposes of this subdivision, the following apply:\n\n    (1) A two-lane, undivided highway is a highway with not more than one through lane of travel in each direction.\n\n    (2) Passing lanes may not be considered when determining the number of through lanes.\n\n(c) It is the intent of the Legislature that there be reasonable signing on affected two-lane, undivided highways described in subdivision (b) in continuing the 55 miles-per-hour speed limit, including placing signs at county boundaries to the extent possible, and at other appropriate locations.\n\n*(Amended by Stats. 1999, Ch. 724, Sec. 41. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in Section 22356, no person may drive a vehicle upon a highway at a speed greater than 65 miles per hour.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding any other provision of law, no person may drive a vehicle upon a two-lane, undivided highway at a speed greater than 55 miles per hour unless that highway, or portion thereof, has been posted for a higher speed by the Department of Transportation or appropriate local agency upon the basis of an engineering and traffic survey. For purposes of this subdivision, the following apply:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A two-lane, undivided highway is a highway with not more than one through lane of travel in each direction.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Passing lanes may not be considered when determining the number of through lanes.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "c",
+      "text": "It is the intent of the Legislature that there be reasonable signing on affected two-lane, undivided highways described in subdivision (b) in continuing the 55 miles-per-hour speed limit, including placing signs at county boundaries to the extent possible, and at other appropriate locations.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 724, Sec. 41. Effective January 1, 2000.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "724",
+    "section": "41",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "724",
+  "op_section": "41",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22349.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22349.html",
+  "content_sha256": "f45c870b2725d90b837662e2007ce0283b3add69c013d45b0ac11faac877f497",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

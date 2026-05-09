@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22356",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "1",
+  "article_title": "Generally",
+  "article_range": "22348 - 22366",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.1",
+  "text": "(a) Whenever the Department of Transportation, after consultation with the Department of the California Highway Patrol, determines upon the basis of an engineering and traffic survey on existing highway segments, or upon the basis of appropriate design standards and projected traffic volumes in the case of newly constructed highway segments, that a speed greater than 65 miles per hour would facilitate the orderly movement of vehicular traffic and would be reasonable and safe upon any state highway, or portion thereof, that is otherwise subject to a maximum speed limit of 65 miles per hour, the Department of Transportation, with the approval of the Department of the California Highway Patrol, may declare a higher maximum speed of 70 miles per hour for vehicles not subject to Section 22406, and shall cause appropriate signs to be erected giving notice thereof. The Department of Transportation shall only make a determination under this section that is fully consistent with, and in full compliance with, federal law.\n\n(b) No person shall drive a vehicle upon that highway at a speed greater than 70 miles per hour, as posted.\n\n(c) This section shall become operative on the date specified in subdivision (c) of Section 22366.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 1. Generally [22348 - 22366]\n##### § 22356\n\n(a) Whenever the Department of Transportation, after consultation with the Department of the California Highway Patrol, determines upon the basis of an engineering and traffic survey on existing highway segments, or upon the basis of appropriate design standards and projected traffic volumes in the case of newly constructed highway segments, that a speed greater than 65 miles per hour would facilitate the orderly movement of vehicular traffic and would be reasonable and safe upon any state highway, or portion thereof, that is otherwise subject to a maximum speed limit of 65 miles per hour, the Department of Transportation, with the approval of the Department of the California Highway Patrol, may declare a higher maximum speed of 70 miles per hour for vehicles not subject to Section 22406, and shall cause appropriate signs to be erected giving notice thereof. The Department of Transportation shall only make a determination under this section that is fully consistent with, and in full compliance with, federal law.\n\n(b) No person shall drive a vehicle upon that highway at a speed greater than 70 miles per hour, as posted.\n\n(c) This section shall become operative on the date specified in subdivision (c) of Section 22366.\n\n*(Repealed (in Sec. 26) and added by Stats. 1995, Ch. 766, Sec. 27. Effective January 1, 1996. This section became operative, by its own provisions, on the date described in Section 22366.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever the Department of Transportation, after consultation with the Department of the California Highway Patrol, determines upon the basis of an engineering and traffic survey on existing highway segments, or upon the basis of appropriate design standards and projected traffic volumes in the case of newly constructed highway segments, that a speed greater than 65 miles per hour would facilitate the orderly movement of vehicular traffic and would be reasonable and safe upon any state highway, or portion thereof, that is otherwise subject to a maximum speed limit of 65 miles per hour, the Department of Transportation, with the approval of the Department of the California Highway Patrol, may declare a higher maximum speed of 70 miles per hour for vehicles not subject to Section 22406, and shall cause appropriate signs to be erected giving notice thereof. The Department of Transportation shall only make a determination under this section that is fully consistent with, and in full compliance with, federal law.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No person shall drive a vehicle upon that highway at a speed greater than 70 miles per hour, as posted.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section shall become operative on the date specified in subdivision (c) of Section 22366.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed (in Sec. 26) and added by Stats. 1995, Ch. 766, Sec. 27. Effective January 1, 1996. This section became operative, by its own provisions, on the date described in Section 22366.)",
+    "action": "Repealed",
+    "statutes_year": 1995,
+    "chapter": "766",
+    "section": "27",
+    "bill_number": null,
+    "effective_date": "1996-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1995",
+  "op_chapter": "766",
+  "op_section": "27",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22356.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22356.html",
+  "content_sha256": "27af9d3e905c60fff1c7a7010bca38133d7231fe2ecdb6460559cf0d1880b7dd",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

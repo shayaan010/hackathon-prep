@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27455",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "4",
+  "article_title": "Tires",
+  "article_range": "27450 - 27503",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.9",
+  "text": "(a) On and after January 1, 1975, no person shall sell or offer for sale an inner tube for use in a radial tire unless, at the time of manufacture, the tube valve stem is colored red or is distinctly marked in accordance with rules and regulations adopted by the department, taking into consideration the recommendations of manufacturers of inner tubes.\n\n(b) No person shall install an inner tube in a radial tire unless the inner tube is designed for use in a radial tire.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 4. Tires [27450 - 27503]\n##### § 27455\n\n(a) On and after January 1, 1975, no person shall sell or offer for sale an inner tube for use in a radial tire unless, at the time of manufacture, the tube valve stem is colored red or is distinctly marked in accordance with rules and regulations adopted by the department, taking into consideration the recommendations of manufacturers of inner tubes.\n\n(b) No person shall install an inner tube in a radial tire unless the inner tube is designed for use in a radial tire.\n\n*(Added by Stats. 1973, Ch. 741.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "On and after January 1, 1975, no person shall sell or offer for sale an inner tube for use in a radial tire unless, at the time of manufacture, the tube valve stem is colored red or is distinctly marked in accordance with rules and regulations adopted by the department, taking into consideration the recommendations of manufacturers of inner tubes.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "No person shall install an inner tube in a radial tire unless the inner tube is designed for use in a radial tire.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1973, Ch. 741.)",
+    "action": "Added",
+    "statutes_year": 1973,
+    "chapter": "741",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1973",
+  "op_chapter": "741",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27455.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27455.html",
+  "content_sha256": "2da9d54ce889fc15ddf49f097efd8609514f8dd17141b2b99e33911308f12257",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

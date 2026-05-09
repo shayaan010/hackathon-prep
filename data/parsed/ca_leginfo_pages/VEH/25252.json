@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25252",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "7",
+  "article_title": "Flashing and Colored Lights",
+  "article_range": "25250 - 25282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.7",
+  "text": "Every authorized emergency vehicle shall be equipped with at least one steady burning red warning lamp visible from at least 1,000 feet to the front of the vehicle to be used as provided in this code.\n\nIn addition, authorized emergency vehicles may display revolving, flashing, or steady red warning lights to the front, sides or rear of the vehicles.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 7. Flashing and Colored Lights [25250 - 25282]\n##### § 25252\n\nEvery authorized emergency vehicle shall be equipped with at least one steady burning red warning lamp visible from at least 1,000 feet to the front of the vehicle to be used as provided in this code.\n\nIn addition, authorized emergency vehicles may display revolving, flashing, or steady red warning lights to the front, sides or rear of the vehicles.\n\n*(Amended by Stats. 1974, Ch. 635.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every authorized emergency vehicle shall be equipped with at least one steady burning red warning lamp visible from at least 1,000 feet to the front of the vehicle to be used as provided in this code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "In addition, authorized emergency vehicles may display revolving, flashing, or steady red warning lights to the front, sides or rear of the vehicles.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1974, Ch. 635.)",
+    "action": "Amended",
+    "statutes_year": 1974,
+    "chapter": "635",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1974",
+  "op_chapter": "635",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25252.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25252.html",
+  "content_sha256": "3c175cd1927eab8e09fa021b8a96d81c4af8ebc087b7e91a94246cb8b8d3fea8",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

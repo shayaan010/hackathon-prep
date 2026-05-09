@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22413",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "2",
+  "article_title": "Other Speed Laws",
+  "article_range": "22400 - 22413",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.2",
+  "text": "Whenever a local authority determines upon the basis of an engineering and traffic survey that the prima facie limit of 25 miles per hour is more than is reasonable and safe on any portion of a street having a grade in excess of 10 percent, the local authority may by ordinance determine and declare a maximum limit of 20 or 15 miles per hour, whichever is found most appropriate and is reasonable and safe. The declared maximum speed shall be effective when appropriate signs giving notice thereof are erected upon the street.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 2. Other Speed Laws [22400 - 22413]\n##### § 22413\n\nWhenever a local authority determines upon the basis of an engineering and traffic survey that the prima facie limit of 25 miles per hour is more than is reasonable and safe on any portion of a street having a grade in excess of 10 percent, the local authority may by ordinance determine and declare a maximum limit of 20 or 15 miles per hour, whichever is found most appropriate and is reasonable and safe. The declared maximum speed shall be effective when appropriate signs giving notice thereof are erected upon the street.\n\n*(Added by Stats. 1959, Ch. 318.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Whenever a local authority determines upon the basis of an engineering and traffic survey that the prima facie limit of 25 miles per hour is more than is reasonable and safe on any portion of a street having a grade in excess of 10 percent, the local authority may by ordinance determine and declare a maximum limit of 20 or 15 miles per hour, whichever is found most appropriate and is reasonable and safe. The declared maximum speed shall be effective when appropriate signs giving notice thereof are erected upon the street.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1959, Ch. 318.)",
+    "action": "Added",
+    "statutes_year": 1959,
+    "chapter": "318",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "318",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22413.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22413.html",
+  "content_sha256": "144340802fe850c0a9f09d7895cadc9ffea437f6edb49b3106cfb6892d8eb8ec",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

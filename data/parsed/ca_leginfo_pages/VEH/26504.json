@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "26504",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "3",
+  "chapter_title": "Brakes",
+  "chapter_range": "26301 - 26522",
+  "article": "3",
+  "article_title": "Airbrakes",
+  "article_range": "26502 - 26508",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.3.3",
+  "text": "The air governor cut-in and cut-out pressures of every motor vehicle equipped with airbrakes or equipped to operate airbrakes on towed vehicles shall be adjusted so that the maximum pressure in the air system and the minimum cut-in pressure shall be within limits prescribed by the department. In adopting regulations specifying such pressures the department shall consider the safe operating capacities of the various airbrake systems which are now or may be used on motor vehicles and shall be guided by the designed capabilities of those systems.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 3. Brakes [26301 - 26522]\n#### Article 3. Airbrakes [26502 - 26508]\n##### § 26504\n\nThe air governor cut-in and cut-out pressures of every motor vehicle equipped with airbrakes or equipped to operate airbrakes on towed vehicles shall be adjusted so that the maximum pressure in the air system and the minimum cut-in pressure shall be within limits prescribed by the department. In adopting regulations specifying such pressures the department shall consider the safe operating capacities of the various airbrake systems which are now or may be used on motor vehicles and shall be guided by the designed capabilities of those systems.\n\n*(Amended by Stats. 1967, Ch. 1578.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The air governor cut-in and cut-out pressures of every motor vehicle equipped with airbrakes or equipped to operate airbrakes on towed vehicles shall be adjusted so that the maximum pressure in the air system and the minimum cut-in pressure shall be within limits prescribed by the department. In adopting regulations specifying such pressures the department shall consider the safe operating capacities of the various airbrake systems which are now or may be used on motor vehicles and shall be guided by the designed capabilities of those systems.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1967, Ch. 1578.)",
+    "action": "Amended",
+    "statutes_year": 1967,
+    "chapter": "1578",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1967",
+  "op_chapter": "1578",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=26504.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/26504.html",
+  "content_sha256": "54976f94223b31ea2d6d20c2d6cb03e96df4fba4b9a870c15f7d3a986c5ad4da",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

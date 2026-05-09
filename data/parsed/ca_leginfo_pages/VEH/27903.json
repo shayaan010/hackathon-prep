@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27903",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "8",
+  "article_title": "Signs",
+  "article_range": "27900 - 27910",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.13",
+  "text": "(a) A vehicle transporting an explosive, blasting agent, flammable liquid, flammable solid, oxidizing material, corrosive, compressed gas, poison, radioactive material, or other hazardous materials, of the type and in quantities that require the display of placards or markings on the vehicle exterior by the United States Department of Transportation pursuant to Parts 172, 173, and 177 of Title 49 of the Code of Federal Regulations shall display those placards and markings in the manner and under conditions prescribed by those regulations.\n\n(b) Notwithstanding subdivision (a), a vehicle shall not display hazardous materials placards or markings unless permitted or required by Subparts D and F of Part 172 of Title 49 of the Code of Federal Regulations.\n\n(c) This section does not apply to any of the following:\n\n(1) A vehicle transporting not more than 20 pounds of smokeless powder or not more than five pounds of black sporting powder or any combination thereof.\n\n(2) The operation of a vehicle excepted by subdivision (b) of Section 34501.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 8. Signs [27900 - 27910]\n##### § 27903\n\n(a) A vehicle transporting an explosive, blasting agent, flammable liquid, flammable solid, oxidizing material, corrosive, compressed gas, poison, radioactive material, or other hazardous materials, of the type and in quantities that require the display of placards or markings on the vehicle exterior by the United States Department of Transportation pursuant to Parts 172, 173, and 177 of Title 49 of the Code of Federal Regulations shall display those placards and markings in the manner and under conditions prescribed by those regulations.\n\n(b) Notwithstanding subdivision (a), a vehicle shall not display hazardous materials placards or markings unless permitted or required by Subparts D and F of Part 172 of Title 49 of the Code of Federal Regulations.\n\n(c) This section does not apply to any of the following:\n\n    (1) A vehicle transporting not more than 20 pounds of smokeless powder or not more than five pounds of black sporting powder or any combination thereof.\n\n    (2) The operation of a vehicle excepted by subdivision (b) of Section 34501.\n\n*(Amended by Stats. 2023, Ch. 219, Sec. 6. (SB 891) Effective January 1, 2024.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A vehicle transporting an explosive, blasting agent, flammable liquid, flammable solid, oxidizing material, corrosive, compressed gas, poison, radioactive material, or other hazardous materials, of the type and in quantities that require the display of placards or markings on the vehicle exterior by the United States Department of Transportation pursuant to Parts 172, 173, and 177 of Title 49 of the Code of Federal Regulations shall display those placards and markings in the manner and under conditions prescribed by those regulations.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Notwithstanding subdivision (a), a vehicle shall not display hazardous materials placards or markings unless permitted or required by Subparts D and F of Part 172 of Title 49 of the Code of Federal Regulations.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section does not apply to any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A vehicle transporting not more than 20 pounds of smokeless powder or not more than five pounds of black sporting powder or any combination thereof.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The operation of a vehicle excepted by subdivision (b) of Section 34501.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2023, Ch. 219, Sec. 6. (SB 891) Effective January 1, 2024.)",
+    "action": "Amended",
+    "statutes_year": 2023,
+    "chapter": "219",
+    "section": "6",
+    "bill_number": "SB 891",
+    "effective_date": "2024-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2023",
+  "op_chapter": "219",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27903.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27903.html",
+  "content_sha256": "bce550513c18e0c71108f9978dccb7d45528bfba846f61387a4a8d57177c2c91",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

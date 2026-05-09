@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23117",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "12",
+  "chapter_title": "Public Offenses",
+  "chapter_range": "23100 - 23249.50",
+  "article": "1",
+  "article_title": "Driving Offenses",
+  "article_range": "23100 - 23135",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.12.1",
+  "text": "(a) No person driving a motor vehicle shall transport any animal in the back of the vehicle in a space intended for any load on the vehicle on a highway unless the space is enclosed or has side and tail racks to a height of at least 46 inches extending vertically from the floor, the vehicle has installed means of preventing the animal from being discharged, or the animal is cross tethered to the vehicle, or is protected by a secured container or cage, in a manner which will prevent the animal from being thrown, falling, or jumping from the vehicle.\n\n(b) This section does not apply to any of the following:\n\n(1) The transportation of livestock.\n\n(2) The transportation of a dog whose owner either owns or is employed by a ranching or farming operation who is traveling on a road in a rural area or who is traveling to and from a livestock auction.\n\n(3) The transportation of a dog for purposes associated with ranching or farming.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 12. Public Offenses [23100 - 23249.50]\n#### Article 1. Driving Offenses [23100 - 23135]\n##### § 23117\n\n(a) No person driving a motor vehicle shall transport any animal in the back of the vehicle in a space intended for any load on the vehicle on a highway unless the space is enclosed or has side and tail racks to a height of at least 46 inches extending vertically from the floor, the vehicle has installed means of preventing the animal from being discharged, or the animal is cross tethered to the vehicle, or is protected by a secured container or cage, in a manner which will prevent the animal from being thrown, falling, or jumping from the vehicle.\n\n(b) This section does not apply to any of the following:\n\n    (1) The transportation of livestock.\n\n    (2) The transportation of a dog whose owner either owns or is employed by a ranching or farming operation who is traveling on a road in a rural area or who is traveling to and from a livestock auction.\n\n    (3) The transportation of a dog for purposes associated with ranching or farming.\n\n*(Added by Stats. 1987, Ch. 224, Sec. 1.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person driving a motor vehicle shall transport any animal in the back of the vehicle in a space intended for any load on the vehicle on a highway unless the space is enclosed or has side and tail racks to a height of at least 46 inches extending vertically from the floor, the vehicle has installed means of preventing the animal from being discharged, or the animal is cross tethered to the vehicle, or is protected by a secured container or cage, in a manner which will prevent the animal from being thrown, falling, or jumping from the vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not apply to any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "The transportation of livestock.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "The transportation of a dog whose owner either owns or is employed by a ranching or farming operation who is traveling on a road in a rural area or who is traveling to and from a livestock auction.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "The transportation of a dog for purposes associated with ranching or farming.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1987, Ch. 224, Sec. 1.)",
+    "action": "Added",
+    "statutes_year": 1987,
+    "chapter": "224",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1987",
+  "op_chapter": "224",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23117.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23117.html",
+  "content_sha256": "fcde454533a34b9fe53630a05a5cfc7113f785691da81b39b2e8ac0cdc2238e7",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

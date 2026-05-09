@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25951",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "15",
+  "article_title": "Light Restrictions and Mounting",
+  "article_range": "25950 - 25952",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.15",
+  "text": "Any lighted lamp or device upon a motor vehicle other than headlamps, spotlamps, signal lamps, or auxiliary driving lamps, warning lamps which projects a beam of light of an intensity greater than 300 candlepower shall be so directed that no part of the beam will strike the level of the roadway at a distance of more than 75 feet from the vehicle.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 15. Light Restrictions and Mounting [25950 - 25952]\n##### § 25951\n\nAny lighted lamp or device upon a motor vehicle other than headlamps, spotlamps, signal lamps, or auxiliary driving lamps, warning lamps which projects a beam of light of an intensity greater than 300 candlepower shall be so directed that no part of the beam will strike the level of the roadway at a distance of more than 75 feet from the vehicle.\n\n*(Amended by Stats. 1965, Ch. 1313.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any lighted lamp or device upon a motor vehicle other than headlamps, spotlamps, signal lamps, or auxiliary driving lamps, warning lamps which projects a beam of light of an intensity greater than 300 candlepower shall be so directed that no part of the beam will strike the level of the roadway at a distance of more than 75 feet from the vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1965, Ch. 1313.)",
+    "action": "Amended",
+    "statutes_year": 1965,
+    "chapter": "1313",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1965",
+  "op_chapter": "1313",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25951.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25951.html",
+  "content_sha256": "f30dcb41057573c6189f98fd3db0e5f5f2740baf950b64bd9e4692562118e5bd",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

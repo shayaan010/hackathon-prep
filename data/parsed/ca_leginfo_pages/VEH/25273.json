@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25273",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "7",
+  "article_title": "Flashing and Colored Lights",
+  "article_range": "25250 - 25282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.7",
+  "text": "Any motor vehicle owned and operated by a school district with an average daily attendance in excess of 400,000 while being used to measure the distance from school to a school pupil’s residence may display a flashing amber warning light to the rear of the vehicle when moving at a speed substantially slower than the normal flow of traffic.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 7. Flashing and Colored Lights [25250 - 25282]\n##### § 25273\n\nAny motor vehicle owned and operated by a school district with an average daily attendance in excess of 400,000 while being used to measure the distance from school to a school pupil’s residence may display a flashing amber warning light to the rear of the vehicle when moving at a speed substantially slower than the normal flow of traffic.\n\n*(Added by Stats. 1963, Ch. 404.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any motor vehicle owned and operated by a school district with an average daily attendance in excess of 400,000 while being used to measure the distance from school to a school pupil’s residence may display a flashing amber warning light to the rear of the vehicle when moving at a speed substantially slower than the normal flow of traffic.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1963, Ch. 404.)",
+    "action": "Added",
+    "statutes_year": 1963,
+    "chapter": "404",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1963",
+  "op_chapter": "404",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25273.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25273.html",
+  "content_sha256": "9066f2ce0d1f88718a2b605578a30674498f9ae30cfd319d642eebdd85659851",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

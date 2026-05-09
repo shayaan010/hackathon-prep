@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25104",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "6",
+  "article_title": "Side and Fender Lighting Equipment",
+  "article_range": "25100 - 25110",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.6",
+  "text": "(a) Any vehicle or equipment that requires a permit issued pursuant to Article 6 (commencing with Section 35780) of Chapter 5 of Division 15 because it is wider than permitted under Chapter 2 (commencing with Section 35100) of Division 15 shall display a solid red or fluorescent orange flag or cloth not less than 18 inches square at the extremities of the vehicle or equipment, if the vehicle or equipment is being operated other than during darkness.\n\n(b) Any vehicle defined in Section 34500 transporting a load that extends beyond the sides of the vehicle by more than four inches shall also comply with subdivision (a).",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 6. Side and Fender Lighting Equipment [25100 - 25110]\n##### § 25104\n\n(a) Any vehicle or equipment that requires a permit issued pursuant to Article 6 (commencing with Section 35780) of Chapter 5 of Division 15 because it is wider than permitted under Chapter 2 (commencing with Section 35100) of Division 15 shall display a solid red or fluorescent orange flag or cloth not less than 18 inches square at the extremities of the vehicle or equipment, if the vehicle or equipment is being operated other than during darkness.\n\n(b) Any vehicle defined in Section 34500 transporting a load that extends beyond the sides of the vehicle by more than four inches shall also comply with subdivision (a).\n\n*(Amended by Stats. 2015, Ch. 451, Sec. 50. (SB 491) Effective January 1, 2016.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any vehicle or equipment that requires a permit issued pursuant to Article 6 (commencing with Section 35780) of Chapter 5 of Division 15 because it is wider than permitted under Chapter 2 (commencing with Section 35100) of Division 15 shall display a solid red or fluorescent orange flag or cloth not less than 18 inches square at the extremities of the vehicle or equipment, if the vehicle or equipment is being operated other than during darkness.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Any vehicle defined in Section 34500 transporting a load that extends beyond the sides of the vehicle by more than four inches shall also comply with subdivision (a).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2015, Ch. 451, Sec. 50. (SB 491) Effective January 1, 2016.)",
+    "action": "Amended",
+    "statutes_year": 2015,
+    "chapter": "451",
+    "section": "50",
+    "bill_number": "SB 491",
+    "effective_date": "2016-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2015",
+  "op_chapter": "451",
+  "op_section": "50",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25104.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25104.html",
+  "content_sha256": "88b885b5ff761ea7ec353cfadfe0c79446fac48043a57d1dfd4696f06912ef54",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

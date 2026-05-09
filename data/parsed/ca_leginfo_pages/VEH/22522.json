@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22522",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "9",
+  "chapter_title": "Stopping, Standing, and Parking",
+  "chapter_range": "22500 - 22526",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.9",
+  "text": "No person shall park a vehicle within three feet of any sidewalk access ramp constructed at, or adjacent to, a crosswalk or at any other location on a sidewalk so as to be accessible to and usable by the physically disabled, if the area adjoining the ramp is designated by either a sign or red paint.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 9. Stopping, Standing, and Parking [22500 - 22526]\n##### § 22522\n\nNo person shall park a vehicle within three feet of any sidewalk access ramp constructed at, or adjacent to, a crosswalk or at any other location on a sidewalk so as to be accessible to and usable by the physically disabled, if the area adjoining the ramp is designated by either a sign or red paint.\n\n*(Amended by Stats. 1999, Ch. 1007, Sec. 22. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall park a vehicle within three feet of any sidewalk access ramp constructed at, or adjacent to, a crosswalk or at any other location on a sidewalk so as to be accessible to and usable by the physically disabled, if the area adjoining the ramp is designated by either a sign or red paint.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 1007, Sec. 22. Effective January 1, 2000.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "1007",
+    "section": "22",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "1007",
+  "op_section": "22",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22522.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22522.html",
+  "content_sha256": "ac454678f55ab8aa1d8ee6abb9a5fdf4e78b336382fa66c941fa7fb78a230230",
+  "parsed_at": "2026-05-09T17:06:18+00:00",
+  "parser_version": "1"
+}

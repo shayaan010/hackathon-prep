@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25275",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "7",
+  "article_title": "Flashing and Colored Lights",
+  "article_range": "25250 - 25282",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.7",
+  "text": "Any truck or truck tractor which is primarily used in the transportation of loads specified in subdivision (a) of Section 35414, may be equipped with a flashing amber warning lamp. Such lamp may be displayed to the front, sides, or rear of the combination only when its length exceeds 75 feet and when an unusual traffic hazard exists.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 7. Flashing and Colored Lights [25250 - 25282]\n##### § 25275\n\nAny truck or truck tractor which is primarily used in the transportation of loads specified in subdivision (a) of Section 35414, may be equipped with a flashing amber warning lamp. Such lamp may be displayed to the front, sides, or rear of the combination only when its length exceeds 75 feet and when an unusual traffic hazard exists.\n\n*(Added by Stats. 1973, Ch. 64.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any truck or truck tractor which is primarily used in the transportation of loads specified in subdivision (a) of Section 35414, may be equipped with a flashing amber warning lamp. Such lamp may be displayed to the front, sides, or rear of the combination only when its length exceeds 75 feet and when an unusual traffic hazard exists.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1973, Ch. 64.)",
+    "action": "Added",
+    "statutes_year": 1973,
+    "chapter": "64",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1973",
+  "op_chapter": "64",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25275.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25275.html",
+  "content_sha256": "9bc2ebd577dde90b66d07bb884164ee495887e9d98fe39d86fbbc0687b7cb570",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

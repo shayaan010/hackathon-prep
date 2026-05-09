@@ -1,0 +1,82 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "25110",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "6",
+  "article_title": "Side and Fender Lighting Equipment",
+  "article_range": "25100 - 25110",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.6",
+  "text": "(a) The following vehicles may be equipped with utility flood or loading lamps mounted on the rear, and sides, that project a white light illuminating an area to the side or rear of the vehicle for a distance not to exceed 75 feet at the level of the roadway:\n\n(1) Tow trucks that are used to tow disabled vehicles may display utility floodlights, but only during the period of preparation for towing at the location from which a disabled vehicle is to be towed.\n\n(2) Ambulances used to respond to emergency calls may display utility flood and loading lights, but only at the scene of an emergency or while loading or unloading patients.\n\n(3) Firefighting equipment designed and operated exclusively as such may display utility floodlamps only at the scene of an emergency.\n\n(4) Vehicles used by law enforcement agencies or organizations engaged in the detoxification of alcoholics may display utility flood or loading lights when loading or unloading persons under the influence of intoxicants for transportation to detoxification centers or places of incarceration.\n\n(5) Vehicles used by law enforcement agencies for mobile blood alcohol testing, drug evaluation, or field sobriety testing .\n\n(6) Vehicles used by publicly or privately owned public utilities may display utility flood or loading lights when engaged in emergency roadside repair of electric, gas, telephone, telegraph, water, or sewer facilities.\n\n(b) Lamps permitted under subdivision (a) shall not be lighted during darkness, except while the vehicle is parked, nor project any glaring light into the eyes of an approaching driver.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 6. Side and Fender Lighting Equipment [25100 - 25110]\n##### § 25110\n\n(a) The following vehicles may be equipped with utility flood or loading lamps mounted on the rear, and sides, that project a white light illuminating an area to the side or rear of the vehicle for a distance not to exceed 75 feet at the level of the roadway:\n\n    (1) Tow trucks that are used to tow disabled vehicles may display utility floodlights, but only during the period of preparation for towing at the location from which a disabled vehicle is to be towed.\n\n    (2) Ambulances used to respond to emergency calls may display utility flood and loading lights, but only at the scene of an emergency or while loading or unloading patients.\n\n    (3) Firefighting equipment designed and operated exclusively as such may display utility floodlamps only at the scene of an emergency.\n\n    (4) Vehicles used by law enforcement agencies or organizations engaged in the detoxification of alcoholics may display utility flood or loading lights when loading or unloading persons under the influence of intoxicants for transportation to detoxification centers or places of incarceration.\n\n    (5) Vehicles used by law enforcement agencies for mobile blood alcohol testing, drug evaluation, or field sobriety testing .\n\n    (6) Vehicles used by publicly or privately owned public utilities may display utility flood or loading lights when engaged in emergency roadside repair of electric, gas, telephone, telegraph, water, or sewer facilities.\n\n(b) Lamps permitted under subdivision (a) shall not be lighted during darkness, except while the vehicle is parked, nor project any glaring light into the eyes of an approaching driver.\n\n*(Amended by Stats. 1996, Ch. 124, Sec. 132. Effective January 1, 1997.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The following vehicles may be equipped with utility flood or loading lamps mounted on the rear, and sides, that project a white light illuminating an area to the side or rear of the vehicle for a distance not to exceed 75 feet at the level of the roadway:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Tow trucks that are used to tow disabled vehicles may display utility floodlights, but only during the period of preparation for towing at the location from which a disabled vehicle is to be towed.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Ambulances used to respond to emergency calls may display utility flood and loading lights, but only at the scene of an emergency or while loading or unloading patients.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Firefighting equipment designed and operated exclusively as such may display utility floodlamps only at the scene of an emergency.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Vehicles used by law enforcement agencies or organizations engaged in the detoxification of alcoholics may display utility flood or loading lights when loading or unloading persons under the influence of intoxicants for transportation to detoxification centers or places of incarceration.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "Vehicles used by law enforcement agencies for mobile blood alcohol testing, drug evaluation, or field sobriety testing .",
+      "depth_em": 1.0
+    },
+    {
+      "label": "6",
+      "text": "Vehicles used by publicly or privately owned public utilities may display utility flood or loading lights when engaged in emergency roadside repair of electric, gas, telephone, telegraph, water, or sewer facilities.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Lamps permitted under subdivision (a) shall not be lighted during darkness, except while the vehicle is parked, nor project any glaring light into the eyes of an approaching driver.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 124, Sec. 132. Effective January 1, 1997.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "124",
+    "section": "132",
+    "bill_number": null,
+    "effective_date": "1997-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "124",
+  "op_section": "132",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=25110.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/25110.html",
+  "content_sha256": "b39ffff69f1a2fdaf485943a31749ceba41eb3fcd695e4a2cd4ad9a977163a90",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

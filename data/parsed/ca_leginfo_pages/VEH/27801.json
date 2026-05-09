@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27801",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "5",
+  "chapter_title": "Other Equipment",
+  "chapter_range": "27000 - 28160",
+  "article": "7",
+  "article_title": "Motorcycles",
+  "article_range": "27800 - 27803",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.5.12",
+  "text": "A person shall not drive a two-wheel motorcycle that is equipped with either of the following:\n\n(a) A seat so positioned that the driver, when sitting astride the seat, cannot reach the ground with his or her feet.\n\n(b) Handlebars so positioned that the hands of the driver, when upon the grips, are more than six inches above his or her shoulder height when sitting astride the seat.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 5. Other Equipment [27000 - 28160]\n#### Article 7. Motorcycles [27800 - 27803]\n##### § 27801\n\nA person shall not drive a two-wheel motorcycle that is equipped with either of the following:\n\n(a) A seat so positioned that the driver, when sitting astride the seat, cannot reach the ground with his or her feet.\n\n(b) Handlebars so positioned that the hands of the driver, when upon the grips, are more than six inches above his or her shoulder height when sitting astride the seat.\n\n*(Amended by Stats. 2004, Ch. 280, Sec. 1. Effective January 1, 2005.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A person shall not drive a two-wheel motorcycle that is equipped with either of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "A seat so positioned that the driver, when sitting astride the seat, cannot reach the ground with his or her feet.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Handlebars so positioned that the hands of the driver, when upon the grips, are more than six inches above his or her shoulder height when sitting astride the seat.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2004, Ch. 280, Sec. 1. Effective January 1, 2005.)",
+    "action": "Amended",
+    "statutes_year": 2004,
+    "chapter": "280",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2005-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2004",
+  "op_chapter": "280",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27801.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27801.html",
+  "content_sha256": "08642ed2e36818c0f9281526422e3e0a340539ff90992488a8493e9fd0758873",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23100",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "12",
+  "chapter_title": "Public Offenses",
+  "chapter_range": "23100 - 23249.50",
+  "article": "1",
+  "article_title": "Driving Offenses",
+  "article_range": "23100 - 23135",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.12.1",
+  "text": "The provisions of this chapter apply to vehicles upon the highways and elsewhere throughout the State unless expressly provided otherwise.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 12. Public Offenses [23100 - 23249.50]\n#### Article 1. Driving Offenses [23100 - 23135]\n##### § 23100\n\nThe provisions of this chapter apply to vehicles upon the highways and elsewhere throughout the State unless expressly provided otherwise.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The provisions of this chapter apply to vehicles upon the highways and elsewhere throughout the State unless expressly provided otherwise.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23100.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23100.html",
+  "content_sha256": "4466be20d5426317ea73433bbf1a50279e1be94da778fb9843df4704925e67bb",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}

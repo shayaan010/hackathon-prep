@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "23253",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "13",
+  "chapter_title": "Vehicular Crossings and Toll Highways",
+  "chapter_range": "23250 - 23336",
+  "article": "1",
+  "article_title": "General Provisions",
+  "article_range": "23250 - 23255",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.13.1",
+  "text": "All persons in, or upon, any toll highway or vehicular crossing shall at all times comply with any lawful order, signal, or direction by voice or hand of any member of the California Highway Patrol or an employee of the Department of Transportation who is a peace officer.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 13. Vehicular Crossings and Toll Highways [23250 - 23336]\n#### Article 1. General Provisions [23250 - 23255]\n##### § 23253\n\nAll persons in, or upon, any toll highway or vehicular crossing shall at all times comply with any lawful order, signal, or direction by voice or hand of any member of the California Highway Patrol or an employee of the Department of Transportation who is a peace officer.\n\n*(Amended by Stats. 1992, Ch. 1241, Sec. 24. Effective January 1, 1993.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "All persons in, or upon, any toll highway or vehicular crossing shall at all times comply with any lawful order, signal, or direction by voice or hand of any member of the California Highway Patrol or an employee of the Department of Transportation who is a peace officer.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1992, Ch. 1241, Sec. 24. Effective January 1, 1993.)",
+    "action": "Amended",
+    "statutes_year": 1992,
+    "chapter": "1241",
+    "section": "24",
+    "bill_number": null,
+    "effective_date": "1993-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1992",
+  "op_chapter": "1241",
+  "op_section": "24",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=23253.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/23253.html",
+  "content_sha256": "50eed68c79b401eea8173aec75d82a31648a7610272368d7db2d98b2e1ba64ca",
+  "parsed_at": "2026-05-09T17:06:19+00:00",
+  "parser_version": "1"
+}
