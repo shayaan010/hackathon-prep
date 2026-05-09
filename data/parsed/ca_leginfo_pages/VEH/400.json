@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "400",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) A “motorcycle” is a motor vehicle having a seat or saddle for the use of the rider, designed to travel on not more than three wheels in contact with the ground.\n\n(b) A motor vehicle that has four wheels in contact with the ground, two of which are a functional part of a sidecar, is a motorcycle if the vehicle otherwise comes within the definition of subdivision (a).\n\n(c) A farm tractor is not a motorcycle.\n\n(d) A three-wheeled motor vehicle that otherwise meets the requirements of subdivision (a), has a partially or completely enclosed seating area for the driver and passenger, is used by local public agencies for the enforcement of parking control provisions, and is operated at slow speeds on public streets, is not a motorcycle. However, a motor vehicle described in this subdivision shall comply with the applicable sections of this code imposing equipment installation requirements on motorcycles.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 400\n\n(a) A “motorcycle” is a motor vehicle having a seat or saddle for the use of the rider, designed to travel on not more than three wheels in contact with the ground.\n\n(b) A motor vehicle that has four wheels in contact with the ground, two of which are a functional part of a sidecar, is a motorcycle if the vehicle otherwise comes within the definition of subdivision (a).\n\n(c) A farm tractor is not a motorcycle.\n\n(d) A three-wheeled motor vehicle that otherwise meets the requirements of subdivision (a), has a partially or completely enclosed seating area for the driver and passenger, is used by local public agencies for the enforcement of parking control provisions, and is operated at slow speeds on public streets, is not a motorcycle. However, a motor vehicle described in this subdivision shall comply with the applicable sections of this code imposing equipment installation requirements on motorcycles.\n\n*(Amended by Stats. 2008, Ch. 672, Sec. 1. Effective January 1, 2009.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A “motorcycle” is a motor vehicle having a seat or saddle for the use of the rider, designed to travel on not more than three wheels in contact with the ground.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A motor vehicle that has four wheels in contact with the ground, two of which are a functional part of a sidecar, is a motorcycle if the vehicle otherwise comes within the definition of subdivision (a).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A farm tractor is not a motorcycle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "A three-wheeled motor vehicle that otherwise meets the requirements of subdivision (a), has a partially or completely enclosed seating area for the driver and passenger, is used by local public agencies for the enforcement of parking control provisions, and is operated at slow speeds on public streets, is not a motorcycle. However, a motor vehicle described in this subdivision shall comply with the applicable sections of this code imposing equipment installation requirements on motorcycles.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2008, Ch. 672, Sec. 1. Effective January 1, 2009.)",
+    "action": "Amended",
+    "statutes_year": 2008,
+    "chapter": "672",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2009-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2008",
+  "op_chapter": "672",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=400.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/400.html",
+  "content_sha256": "10682fdac414b38c26816f5b32c24b7ff2043b668503ec02a5eb228a66b08820",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

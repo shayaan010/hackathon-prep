@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "373",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “lessor-retailer” is a lessor or renter who, except under the circumstances described in subdivision (a) of Section 286, makes a retail sale or sales of a previously leased or rented vehicle or vehicles to other than any of the following:\n\n(a) The lessee of the vehicle, or the person who, for a period of at least one year, has been designated by the lessee as the driver of the vehicle covered by a written lease agreement.\n\n(b) A buyer for agricultural, business, or commercial purposes.\n\n(c) A government or governmental agency or instrumentality.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 373\n\nA “lessor-retailer” is a lessor or renter who, except under the circumstances described in subdivision (a) of Section 286, makes a retail sale or sales of a previously leased or rented vehicle or vehicles to other than any of the following:\n\n(a) The lessee of the vehicle, or the person who, for a period of at least one year, has been designated by the lessee as the driver of the vehicle covered by a written lease agreement.\n\n(b) A buyer for agricultural, business, or commercial purposes.\n\n(c) A government or governmental agency or instrumentality.\n\n*(Amended by Stats. 1979, Ch. 561.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “lessor-retailer” is a lessor or renter who, except under the circumstances described in subdivision (a) of Section 286, makes a retail sale or sales of a previously leased or rented vehicle or vehicles to other than any of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The lessee of the vehicle, or the person who, for a period of at least one year, has been designated by the lessee as the driver of the vehicle covered by a written lease agreement.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A buyer for agricultural, business, or commercial purposes.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "A government or governmental agency or instrumentality.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1979, Ch. 561.)",
+    "action": "Amended",
+    "statutes_year": 1979,
+    "chapter": "561",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1979",
+  "op_chapter": "561",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=373.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/373.html",
+  "content_sha256": "d43974ed28568d7f04603085e0e60c763bf54264fb6dddf7dca3259ed9908d2c",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

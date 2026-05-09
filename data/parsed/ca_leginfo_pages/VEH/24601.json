@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24601",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "3",
+  "article_title": "Rear Lighting Equipment",
+  "article_range": "24600 - 24617",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.3",
+  "text": "Either the taillamp or a separate lamp shall be so constructed and placed as to illuminate with a white light the rear license plate during darkness and render it clearly legible from a distance of 50 feet to the rear. When the rear license plate is illuminated by a lamp other than a required taillamp, the two lamps shall be turned on or off only by the same control switch at all times.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 3. Rear Lighting Equipment [24600 - 24617]\n##### § 24601\n\nEither the taillamp or a separate lamp shall be so constructed and placed as to illuminate with a white light the rear license plate during darkness and render it clearly legible from a distance of 50 feet to the rear. When the rear license plate is illuminated by a lamp other than a required taillamp, the two lamps shall be turned on or off only by the same control switch at all times.\n\n*(Amended by Stats. 1965, Ch. 1313.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Either the taillamp or a separate lamp shall be so constructed and placed as to illuminate with a white light the rear license plate during darkness and render it clearly legible from a distance of 50 feet to the rear. When the rear license plate is illuminated by a lamp other than a required taillamp, the two lamps shall be turned on or off only by the same control switch at all times.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1965, Ch. 1313.)",
+    "action": "Amended",
+    "statutes_year": 1965,
+    "chapter": "1313",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1965",
+  "op_chapter": "1313",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24601.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24601.html",
+  "content_sha256": "d3c556b7905a08c5a8ebbc4bfde679e5b597a12f57df8f3eb81ad0ecb56c7332",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

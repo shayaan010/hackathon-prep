@@ -9,7 +9,10 @@ wheels/
 # Virtual environments
 .venv
 .env
-data/
+
+# Data
+data/raw
+data/logs
 
 # Frontend
 frontend/node_modules/

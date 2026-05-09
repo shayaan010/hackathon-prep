@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2818",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "4",
+  "chapter_title": "Administration and Enforcement",
+  "chapter_range": "2800 - 2818",
+  "article": "1",
+  "article_title": "Lawful Orders and Inspections",
+  "article_range": "2800 - 2818",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.4.1",
+  "text": "It is unlawful to traverse an electronic beacon pattern, a flare pattern, cone pattern, or combination of electronic beacon, flare, or cone patterns, provided for the regulation of traffic, or provided in a situation where public safety personnel are engaged in traffic control or emergency scene management.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 4. Administration and Enforcement [2800 - 2818]\n#### Article 1. Lawful Orders and Inspections [2800 - 2818]\n##### § 2818\n\nIt is unlawful to traverse an electronic beacon pattern, a flare pattern, cone pattern, or combination of electronic beacon, flare, or cone patterns, provided for the regulation of traffic, or provided in a situation where public safety personnel are engaged in traffic control or emergency scene management.\n\n*(Amended by Stats. 2008, Ch. 120, Sec. 1. Effective January 1, 2009.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "It is unlawful to traverse an electronic beacon pattern, a flare pattern, cone pattern, or combination of electronic beacon, flare, or cone patterns, provided for the regulation of traffic, or provided in a situation where public safety personnel are engaged in traffic control or emergency scene management.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2008, Ch. 120, Sec. 1. Effective January 1, 2009.)",
+    "action": "Amended",
+    "statutes_year": 2008,
+    "chapter": "120",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2009-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2008",
+  "op_chapter": "120",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2818.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2818.html",
+  "content_sha256": "0816141a524a04dfe4d700c2f009a9243a42d05b4468c3503e96ac74e625b743",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

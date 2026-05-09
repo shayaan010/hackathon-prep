@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21460",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "3",
+  "article_title": "Offenses Relating to Traffic Devices",
+  "article_range": "21450 - 21468",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.3",
+  "text": "(a) If double parallel solid yellow lines are in place, a person driving a vehicle shall not drive to the left of the lines, except as permitted in this section.\n\n(b) If double parallel solid white lines are in place, a person driving a vehicle shall not cross any part of those double solid white lines, except as permitted in this section or Section 21655.8.\n\n(c) If the double parallel lines, one of which is broken, are in place, a person driving a vehicle shall not drive to the left of the lines, except as follows:\n\n(1) If the driver is on the side of the roadway in which the broken line is in place, the driver may cross over the double lines or drive to the left of the double lines when overtaking or passing other vehicles.\n\n(2) As provided in Section 21460.5.\n\n(d) The markings as specified in subdivision (a), (b), or (c) do not prohibit a driver from crossing the marking if (1) turning to the left at an intersection or into or out of a driveway or private road, or (2) making a U-turn under the rules governing that turn, and the markings shall be disregarded when authorized signs have been erected designating offcenter traffic lanes as permitted pursuant to Section 21657.\n\n(e) Raised pavement markers may be used to simulate painted lines described in this section if the markers are placed in accordance with standards established by the Department of Transportation.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 3. Offenses Relating to Traffic Devices [21450 - 21468]\n##### § 21460\n\n(a) If double parallel solid yellow lines are in place, a person driving a vehicle shall not drive to the left of the lines, except as permitted in this section.\n\n(b) If double parallel solid white lines are in place, a person driving a vehicle shall not cross any part of those double solid white lines, except as permitted in this section or Section 21655.8.\n\n(c) If the double parallel lines, one of which is broken, are in place, a person driving a vehicle shall not drive to the left of the lines, except as follows:\n\n    (1) If the driver is on the side of the roadway in which the broken line is in place, the driver may cross over the double lines or drive to the left of the double lines when overtaking or passing other vehicles.\n\n    (2) As provided in Section 21460.5.\n\n(d) The markings as specified in subdivision (a), (b), or (c) do not prohibit a driver from crossing the marking if (1) turning to the left at an intersection or into or out of a driveway or private road, or (2) making a U-turn under the rules governing that turn, and the markings shall be disregarded when authorized signs have been erected designating offcenter traffic lanes as permitted pursuant to Section 21657.\n\n(e) Raised pavement markers may be used to simulate painted lines described in this section if the markers are placed in accordance with standards established by the Department of Transportation.\n\n*(Amended by Stats. 2011, Ch. 114, Sec. 2. (AB 1105) Effective January 1, 2012.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "If double parallel solid yellow lines are in place, a person driving a vehicle shall not drive to the left of the lines, except as permitted in this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "If double parallel solid white lines are in place, a person driving a vehicle shall not cross any part of those double solid white lines, except as permitted in this section or Section 21655.8.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "If the double parallel lines, one of which is broken, are in place, a person driving a vehicle shall not drive to the left of the lines, except as follows:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "If the driver is on the side of the roadway in which the broken line is in place, the driver may cross over the double lines or drive to the left of the double lines when overtaking or passing other vehicles.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "As provided in Section 21460.5.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "d",
+      "text": "The markings as specified in subdivision (a), (b), or (c) do not prohibit a driver from crossing the marking if (1) turning to the left at an intersection or into or out of a driveway or private road, or (2) making a U-turn under the rules governing that turn, and the markings shall be disregarded when authorized signs have been erected designating offcenter traffic lanes as permitted pursuant to Section 21657.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "Raised pavement markers may be used to simulate painted lines described in this section if the markers are placed in accordance with standards established by the Department of Transportation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2011, Ch. 114, Sec. 2. (AB 1105) Effective January 1, 2012.)",
+    "action": "Amended",
+    "statutes_year": 2011,
+    "chapter": "114",
+    "section": "2",
+    "bill_number": "AB 1105",
+    "effective_date": "2012-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2011",
+  "op_chapter": "114",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21460.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21460.html",
+  "content_sha256": "0e34afb80dd02d50e037d56ddc69eb18a0d115dfb44f0f18dfe626823537a372",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

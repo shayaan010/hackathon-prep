@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22104",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "6",
+  "chapter_title": "Turning and Stopping and Turning Signals",
+  "chapter_range": "22100 - 22113",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.6",
+  "text": "No person shall make a U-turn in front of the driveway entrance or approaches to a fire station. No person shall use the driveway entrance or approaches to a fire station for the purpose of turning a vehicle so as to proceed in the opposite direction.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 6. Turning and Stopping and Turning Signals [22100 - 22113]\n##### § 22104\n\nNo person shall make a U-turn in front of the driveway entrance or approaches to a fire station. No person shall use the driveway entrance or approaches to a fire station for the purpose of turning a vehicle so as to proceed in the opposite direction.\n\n*(Amended by Stats. 1970, Ch. 620.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall make a U-turn in front of the driveway entrance or approaches to a fire station. No person shall use the driveway entrance or approaches to a fire station for the purpose of turning a vehicle so as to proceed in the opposite direction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1970, Ch. 620.)",
+    "action": "Amended",
+    "statutes_year": 1970,
+    "chapter": "620",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1970",
+  "op_chapter": "620",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22104.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22104.html",
+  "content_sha256": "dd967c221117008a15c3cd93082ca1bf5a82094e48d5e63093ba4ffb9f4ee40b",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

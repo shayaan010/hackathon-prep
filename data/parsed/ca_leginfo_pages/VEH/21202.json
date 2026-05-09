@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21202",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "4",
+  "article_title": "Operation of Bicycles",
+  "article_range": "21200 - 21214.7",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.4",
+  "text": "(a) Any person operating a bicycle upon a roadway at a speed less than the normal speed of traffic moving in the same direction at that time shall ride as close as practicable to the right-hand curb or edge of the roadway except under any of the following situations:\n\n(1) When overtaking and passing another bicycle or vehicle proceeding in the same direction.\n\n(2) When preparing for a left turn at an intersection or into a private road or driveway.\n\n(3) When reasonably necessary to avoid conditions (including, but not limited to, fixed or moving objects, vehicles, bicycles, pedestrians, animals, surface hazards, or substandard width lanes) that make it unsafe to continue along the right-hand curb or edge, subject to the provisions of Section 21656. For purposes of this section, a “substandard width lane” is a lane that is too narrow for a bicycle and a vehicle to travel safely side by side within the lane.\n\n(4) When approaching a place where a right turn is authorized.\n\n(b) Any person operating a bicycle upon a roadway of a highway, which highway carries traffic in one direction only and has two or more marked traffic lanes, may ride as near the left-hand curb or edge of that roadway as practicable.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 4. Operation of Bicycles [21200 - 21214.7]\n##### § 21202\n\n(a) Any person operating a bicycle upon a roadway at a speed less than the normal speed of traffic moving in the same direction at that time shall ride as close as practicable to the right-hand curb or edge of the roadway except under any of the following situations:\n\n    (1) When overtaking and passing another bicycle or vehicle proceeding in the same direction.\n\n    (2) When preparing for a left turn at an intersection or into a private road or driveway.\n\n    (3) When reasonably necessary to avoid conditions (including, but not limited to, fixed or moving objects, vehicles, bicycles, pedestrians, animals, surface hazards, or substandard width lanes) that make it unsafe to continue along the right-hand curb or edge, subject to the provisions of Section 21656. For purposes of this section, a “substandard width lane” is a lane that is too narrow for a bicycle and a vehicle to travel safely side by side within the lane.\n\n    (4) When approaching a place where a right turn is authorized.\n\n(b) Any person operating a bicycle upon a roadway of a highway, which highway carries traffic in one direction only and has two or more marked traffic lanes, may ride as near the left-hand curb or edge of that roadway as practicable.\n\n*(Amended by Stats. 1996, Ch. 674, Sec. 4. Effective January 1, 1997.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Any person operating a bicycle upon a roadway at a speed less than the normal speed of traffic moving in the same direction at that time shall ride as close as practicable to the right-hand curb or edge of the roadway except under any of the following situations:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "When overtaking and passing another bicycle or vehicle proceeding in the same direction.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "When preparing for a left turn at an intersection or into a private road or driveway.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "When reasonably necessary to avoid conditions (including, but not limited to, fixed or moving objects, vehicles, bicycles, pedestrians, animals, surface hazards, or substandard width lanes) that make it unsafe to continue along the right-hand curb or edge, subject to the provisions of Section 21656. For purposes of this section, a “substandard width lane” is a lane that is too narrow for a bicycle and a vehicle to travel safely side by side within the lane.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "When approaching a place where a right turn is authorized.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Any person operating a bicycle upon a roadway of a highway, which highway carries traffic in one direction only and has two or more marked traffic lanes, may ride as near the left-hand curb or edge of that roadway as practicable.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 674, Sec. 4. Effective January 1, 1997.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "674",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "1997-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "674",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21202.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21202.html",
+  "content_sha256": "de5386ed8d7075f44592962bc2e9948036538cd5a651b457716136a926fc22c3",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

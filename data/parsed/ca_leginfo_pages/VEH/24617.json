@@ -1,0 +1,77 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24617",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "3",
+  "article_title": "Rear Lighting Equipment",
+  "article_range": "24600 - 24617",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.3",
+  "text": "(a) A transit bus may be authorized to be equipped with a yield right-of-way sign on the left rear of the bus. The yield right-of-way sign may flash simultaneously with the rear turn signal lamps, but is not required to do so. The sign may also be a static decal that is affixed to the left rear of the bus. If the sign is a flashing light-emitting diode (LED) sign, it shall be both of the following:\n\n(1) Designed to warn a person operating a motor vehicle approaching the rear of the bus that the bus is entering traffic.\n\n(2) Illuminated by a red flashing light when the bus is signaling in preparation for entering a traffic lane after having stopped to receive or discharge passengers.\n\n(b) This section does not require a transit agency to install the yield right-of-way sign described in subdivision (a).\n\n(c) This section does not relieve the driver of a transit bus from the duty to drive the bus with due regard for the safety of all persons and property. This section does not exempt the driver of a transit bus from Section 21804.\n\n(d) This section applies only if the governing board of the transit agency approves a resolution, after a public hearing on the issue, requesting that this section be made applicable to it.\n\n(e) A participating transit agency shall undertake a public education program to encourage motorists to yield to a transit bus when the sign specified in subdivision (a) is activated.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 3. Rear Lighting Equipment [24600 - 24617]\n##### § 24617\n\n(a) A transit bus may be authorized to be equipped with a yield right-of-way sign on the left rear of the bus. The yield right-of-way sign may flash simultaneously with the rear turn signal lamps, but is not required to do so. The sign may also be a static decal that is affixed to the left rear of the bus. If the sign is a flashing light-emitting diode (LED) sign, it shall be both of the following:\n\n    (1) Designed to warn a person operating a motor vehicle approaching the rear of the bus that the bus is entering traffic.\n\n    (2) Illuminated by a red flashing light when the bus is signaling in preparation for entering a traffic lane after having stopped to receive or discharge passengers.\n\n(b) This section does not require a transit agency to install the yield right-of-way sign described in subdivision (a).\n\n(c) This section does not relieve the driver of a transit bus from the duty to drive the bus with due regard for the safety of all persons and property. This section does not exempt the driver of a transit bus from Section 21804.\n\n(d) This section applies only if the governing board of the transit agency approves a resolution, after a public hearing on the issue, requesting that this section be made applicable to it.\n\n(e) A participating transit agency shall undertake a public education program to encourage motorists to yield to a transit bus when the sign specified in subdivision (a) is activated.\n\n*(Amended by Stats. 2024, Ch. 555, Sec. 1. (AB 1904) Effective January 1, 2025.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A transit bus may be authorized to be equipped with a yield right-of-way sign on the left rear of the bus. The yield right-of-way sign may flash simultaneously with the rear turn signal lamps, but is not required to do so. The sign may also be a static decal that is affixed to the left rear of the bus. If the sign is a flashing light-emitting diode (LED) sign, it shall be both of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Designed to warn a person operating a motor vehicle approaching the rear of the bus that the bus is entering traffic.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Illuminated by a red flashing light when the bus is signaling in preparation for entering a traffic lane after having stopped to receive or discharge passengers.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "This section does not require a transit agency to install the yield right-of-way sign described in subdivision (a).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "This section does not relieve the driver of a transit bus from the duty to drive the bus with due regard for the safety of all persons and property. This section does not exempt the driver of a transit bus from Section 21804.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "d",
+      "text": "This section applies only if the governing board of the transit agency approves a resolution, after a public hearing on the issue, requesting that this section be made applicable to it.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "e",
+      "text": "A participating transit agency shall undertake a public education program to encourage motorists to yield to a transit bus when the sign specified in subdivision (a) is activated.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2024, Ch. 555, Sec. 1. (AB 1904) Effective January 1, 2025.)",
+    "action": "Amended",
+    "statutes_year": 2024,
+    "chapter": "555",
+    "section": "1",
+    "bill_number": "AB 1904",
+    "effective_date": "2025-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2024",
+  "op_chapter": "555",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24617.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24617.html",
+  "content_sha256": "56495fc3c2eed4e98ff9ae729858143e7641ef4b5db43427f7987eda2febb3ae",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

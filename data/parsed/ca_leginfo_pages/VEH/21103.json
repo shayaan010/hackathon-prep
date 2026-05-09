@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21103",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "3",
+  "article_title": "Local Regulation",
+  "article_range": "21100 - 21118",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.3",
+  "text": "No ordinance or resolution enacted under Section 21101 shall be effective until signs giving notice of the local traffic laws are posted at all entrances to the highway or part thereof affected.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 3. Local Regulation [21100 - 21118]\n##### § 21103\n\nNo ordinance or resolution enacted under Section 21101 shall be effective until signs giving notice of the local traffic laws are posted at all entrances to the highway or part thereof affected.\n\n*(Amended by Stats. 1980, Ch. 671, Sec. 4.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No ordinance or resolution enacted under Section 21101 shall be effective until signs giving notice of the local traffic laws are posted at all entrances to the highway or part thereof affected.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1980, Ch. 671, Sec. 4.)",
+    "action": "Amended",
+    "statutes_year": 1980,
+    "chapter": "671",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1980",
+  "op_chapter": "671",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21103.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21103.html",
+  "content_sha256": "93f4522e5fdec6a61ce2d5f9a3402eb6096e88607f1964bc09cd135d65045196",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

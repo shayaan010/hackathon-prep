@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "670",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “vehicle” is a device by which any person or property may be propelled, moved, or drawn upon a highway, excepting a device moved exclusively by human power or used exclusively upon stationary rails or tracks.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 670\n\nA “vehicle” is a device by which any person or property may be propelled, moved, or drawn upon a highway, excepting a device moved exclusively by human power or used exclusively upon stationary rails or tracks.\n\n*(Amended by Stats. 1975, Ch. 987.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “vehicle” is a device by which any person or property may be propelled, moved, or drawn upon a highway, excepting a device moved exclusively by human power or used exclusively upon stationary rails or tracks.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1975, Ch. 987.)",
+    "action": "Amended",
+    "statutes_year": 1975,
+    "chapter": "987",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1975",
+  "op_chapter": "987",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=670.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/670.html",
+  "content_sha256": "e48aec16720bd6c2c6a206472f10f8940421b5be1b7d9ae236948e7d8203c52f",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

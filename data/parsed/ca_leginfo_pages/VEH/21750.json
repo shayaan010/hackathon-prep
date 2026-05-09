@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21750",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "3",
+  "article_title": "Overtaking and Passing",
+  "article_range": "21750 - 21761",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.3",
+  "text": "(a) The driver of a vehicle overtaking another vehicle proceeding in the same direction shall pass to the left at a safe distance without interfering with the safe operation of the overtaken vehicle, subject to the limitations and exceptions set forth in this article.\n\n(b) This section shall become operative on September 16, 2014.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 3. Overtaking and Passing [21750 - 21761]\n##### § 21750\n\n(a) The driver of a vehicle overtaking another vehicle proceeding in the same direction shall pass to the left at a safe distance without interfering with the safe operation of the overtaken vehicle, subject to the limitations and exceptions set forth in this article.\n\n(b) This section shall become operative on September 16, 2014.\n\n*(Repealed (in Sec. 1) and added by Stats. 2013, Ch. 331, Sec. 2. (AB 1371) Effective January 1, 2014. Section operative September 16, 2014, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The driver of a vehicle overtaking another vehicle proceeding in the same direction shall pass to the left at a safe distance without interfering with the safe operation of the overtaken vehicle, subject to the limitations and exceptions set forth in this article.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section shall become operative on September 16, 2014.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Repealed (in Sec. 1) and added by Stats. 2013, Ch. 331, Sec. 2. (AB 1371) Effective January 1, 2014. Section operative September 16, 2014, by its own provisions.)",
+    "action": "Repealed",
+    "statutes_year": 2013,
+    "chapter": "331",
+    "section": "2",
+    "bill_number": "AB 1371",
+    "effective_date": "2014-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2013",
+  "op_chapter": "331",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21750.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21750.html",
+  "content_sha256": "5328aea47ff33bb697a808b26466badc8cd17432c87b82cc22db4689bfdc4417",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

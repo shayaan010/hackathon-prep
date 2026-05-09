@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2804",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "4",
+  "chapter_title": "Administration and Enforcement",
+  "chapter_range": "2800 - 2818",
+  "article": "1",
+  "article_title": "Lawful Orders and Inspections",
+  "article_range": "2800 - 2818",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.4.1",
+  "text": "A member of the California Highway Patrol upon reasonable belief that any vehicle is being operated in violation of any provisions of this code or is in such unsafe condition as to endanger any person, may require the driver of the vehicle to stop and submit to an inspection of the vehicle, and its equipment, license plates, and registration card.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 4. Administration and Enforcement [2800 - 2818]\n#### Article 1. Lawful Orders and Inspections [2800 - 2818]\n##### § 2804\n\nA member of the California Highway Patrol upon reasonable belief that any vehicle is being operated in violation of any provisions of this code or is in such unsafe condition as to endanger any person, may require the driver of the vehicle to stop and submit to an inspection of the vehicle, and its equipment, license plates, and registration card.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A member of the California Highway Patrol upon reasonable belief that any vehicle is being operated in violation of any provisions of this code or is in such unsafe condition as to endanger any person, may require the driver of the vehicle to stop and submit to an inspection of the vehicle, and its equipment, license plates, and registration card.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2804.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2804.html",
+  "content_sha256": "b671e561be9add0e4a3ef189a5fc1354691d283b0794c28f60fdd35c734af26a",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

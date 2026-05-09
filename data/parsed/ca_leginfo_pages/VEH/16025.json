@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "16025",
+  "division": "7",
+  "division_title": "FINANCIAL RESPONSIBILITY LAWS",
+  "division_range": "16000 - 16560",
+  "chapter": "1",
+  "chapter_title": "Compulsory Financial Responsibility",
+  "chapter_range": "16000 - 16078",
+  "article": "2",
+  "article_title": "Financial Responsibility",
+  "article_range": "16020 - 16033",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "12.1.2",
+  "text": "(a) Every driver involved in the accident shall, unless rendered incapable, exchange with any other driver or property owner involved in the accident and present at the scene, all of the following information:\n\n(1) Driver’s name and current residence address, driver’s license number, vehicle identification number, and current residence address of registered owner.\n\n(2) Evidence of financial responsibility, as specified in Section 16020. If the financial responsibility of a person is a form of insurance, then that person shall supply the name and address of the insurance company and the number of the insurance policy.\n\n(b) Any person failing to comply with all of the requirements of this section is guilty of an infraction punishable by a fine not to exceed two hundred fifty dollars ($250).",
+  "markdown": "# Vehicle Code\n## Division 7. FINANCIAL RESPONSIBILITY LAWS [16000 - 16560]\n### Chapter 1. Compulsory Financial Responsibility [16000 - 16078]\n#### Article 2. Financial Responsibility [16020 - 16033]\n##### § 16025\n\n(a) Every driver involved in the accident shall, unless rendered incapable, exchange with any other driver or property owner involved in the accident and present at the scene, all of the following information:\n\n    (1) Driver’s name and current residence address, driver’s license number, vehicle identification number, and current residence address of registered owner.\n\n    (2) Evidence of financial responsibility, as specified in Section 16020. If the financial responsibility of a person is a form of insurance, then that person shall supply the name and address of the insurance company and the number of the insurance policy.\n\n(b) Any person failing to comply with all of the requirements of this section is guilty of an infraction punishable by a fine not to exceed two hundred fifty dollars ($250).\n\n*(Amended by Stats. 1999, Ch. 880, Sec. 10. Effective January 1, 2000.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Every driver involved in the accident shall, unless rendered incapable, exchange with any other driver or property owner involved in the accident and present at the scene, all of the following information:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Driver’s name and current residence address, driver’s license number, vehicle identification number, and current residence address of registered owner.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Evidence of financial responsibility, as specified in Section 16020. If the financial responsibility of a person is a form of insurance, then that person shall supply the name and address of the insurance company and the number of the insurance policy.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "Any person failing to comply with all of the requirements of this section is guilty of an infraction punishable by a fine not to exceed two hundred fifty dollars ($250).",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1999, Ch. 880, Sec. 10. Effective January 1, 2000.)",
+    "action": "Amended",
+    "statutes_year": 1999,
+    "chapter": "880",
+    "section": "10",
+    "bill_number": null,
+    "effective_date": "2000-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1999",
+  "op_chapter": "880",
+  "op_section": "10",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=16025.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/16025.html",
+  "content_sha256": "0c5142834c9d75b49e00ca490a60aefc3fa3dd9b77709857f3edd5ccd3d141b7",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

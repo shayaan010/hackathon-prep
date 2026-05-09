@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21659",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "1",
+  "article_title": "Driving on Right Side",
+  "article_range": "21650 - 21664",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.1",
+  "text": "Upon a roadway which is divided into three lanes a vehicle shall not be driven in the extreme left lane at any time, nor in the center lane except when overtaking and passing another vehicle where the roadway ahead is clearly visible and the center lane is clear of traffic within a safe distance, or in preparation for a left turn, or where the center lane is at the time allocated exclusively to traffic moving in the direction the vehicle is proceeding and is signposted to give notice of such allocation. This section does not apply upon a one-way roadway.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 1. Driving on Right Side [21650 - 21664]\n##### § 21659\n\nUpon a roadway which is divided into three lanes a vehicle shall not be driven in the extreme left lane at any time, nor in the center lane except when overtaking and passing another vehicle where the roadway ahead is clearly visible and the center lane is clear of traffic within a safe distance, or in preparation for a left turn, or where the center lane is at the time allocated exclusively to traffic moving in the direction the vehicle is proceeding and is signposted to give notice of such allocation. This section does not apply upon a one-way roadway.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Upon a roadway which is divided into three lanes a vehicle shall not be driven in the extreme left lane at any time, nor in the center lane except when overtaking and passing another vehicle where the roadway ahead is clearly visible and the center lane is clear of traffic within a safe distance, or in preparation for a left turn, or where the center lane is at the time allocated exclusively to traffic moving in the direction the vehicle is proceeding and is signposted to give notice of such allocation. This section does not apply upon a one-way roadway.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21659.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21659.html",
+  "content_sha256": "61c865af3d9b9edc3e373d9d110fbebc02bc9c3b9a727420e61c154046d27a3d",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21208",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "4",
+  "article_title": "Operation of Bicycles",
+  "article_range": "21200 - 21214.7",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.4",
+  "text": "(a) Whenever a bicycle lane has been established on a roadway pursuant to Section 21207, any person operating a bicycle upon the roadway at a speed less than the normal speed of traffic moving in the same direction at that time shall ride within the bicycle lane, except that the person may move out of the lane under any of the following situations:\n\n(1) When overtaking and passing another bicycle, vehicle, or pedestrian within the lane or about to enter the lane if the overtaking and passing cannot be done safely within the lane.\n\n(2) When preparing for a left turn at an intersection or into a private road or driveway.\n\n(3) When reasonably necessary to leave the bicycle lane to avoid debris or other hazardous conditions.\n\n(4) When approaching a place where a right turn is authorized.\n\n(b) No person operating a bicycle shall leave a bicycle lane until the movement can be made with reasonable safety and then only after giving an appropriate signal in the manner provided in Chapter 6 (commencing with Section 22100) in the event that any vehicle may be affected by the movement.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 4. Operation of Bicycles [21200 - 21214.7]\n##### § 21208\n\n(a) Whenever a bicycle lane has been established on a roadway pursuant to Section 21207, any person operating a bicycle upon the roadway at a speed less than the normal speed of traffic moving in the same direction at that time shall ride within the bicycle lane, except that the person may move out of the lane under any of the following situations:\n\n    (1) When overtaking and passing another bicycle, vehicle, or pedestrian within the lane or about to enter the lane if the overtaking and passing cannot be done safely within the lane.\n\n    (2) When preparing for a left turn at an intersection or into a private road or driveway.\n\n    (3) When reasonably necessary to leave the bicycle lane to avoid debris or other hazardous conditions.\n\n    (4) When approaching a place where a right turn is authorized.\n\n(b) No person operating a bicycle shall leave a bicycle lane until the movement can be made with reasonable safety and then only after giving an appropriate signal in the manner provided in Chapter 6 (commencing with Section 22100) in the event that any vehicle may be affected by the movement.\n\n*(Amended by Stats. 1996, Ch. 674, Sec. 5. Effective January 1, 1997.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever a bicycle lane has been established on a roadway pursuant to Section 21207, any person operating a bicycle upon the roadway at a speed less than the normal speed of traffic moving in the same direction at that time shall ride within the bicycle lane, except that the person may move out of the lane under any of the following situations:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "When overtaking and passing another bicycle, vehicle, or pedestrian within the lane or about to enter the lane if the overtaking and passing cannot be done safely within the lane.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "When preparing for a left turn at an intersection or into a private road or driveway.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "When reasonably necessary to leave the bicycle lane to avoid debris or other hazardous conditions.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "When approaching a place where a right turn is authorized.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "No person operating a bicycle shall leave a bicycle lane until the movement can be made with reasonable safety and then only after giving an appropriate signal in the manner provided in Chapter 6 (commencing with Section 22100) in the event that any vehicle may be affected by the movement.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1996, Ch. 674, Sec. 5. Effective January 1, 1997.)",
+    "action": "Amended",
+    "statutes_year": 1996,
+    "chapter": "674",
+    "section": "5",
+    "bill_number": null,
+    "effective_date": "1997-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1996",
+  "op_chapter": "674",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21208.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21208.html",
+  "content_sha256": "3fd36c48f3e185f09f88c6cb24a1468204ab929c51a03ee85cf06c64978e6bec",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

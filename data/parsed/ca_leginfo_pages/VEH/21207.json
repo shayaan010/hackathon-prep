@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21207",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "4",
+  "article_title": "Operation of Bicycles",
+  "article_range": "21200 - 21214.7",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.4",
+  "text": "(a) This chapter does not prohibit local authorities from establishing, by ordinance or resolution, bicycle lanes separated from any vehicular lanes upon highways, other than state highways as defined in Section 24 of the Streets and Highways Code and county highways established pursuant to Article 5 (commencing with Section 1720) of Chapter 9 of Division 2 of the Streets and Highways Code.\n\n(b) Bicycle lanes established pursuant to this section shall be constructed in compliance with Section 891 of the Streets and Highways Code.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 4. Operation of Bicycles [21200 - 21214.7]\n##### § 21207\n\n(a) This chapter does not prohibit local authorities from establishing, by ordinance or resolution, bicycle lanes separated from any vehicular lanes upon highways, other than state highways as defined in Section 24 of the Streets and Highways Code and county highways established pursuant to Article 5 (commencing with Section 1720) of Chapter 9 of Division 2 of the Streets and Highways Code.\n\n(b) Bicycle lanes established pursuant to this section shall be constructed in compliance with Section 891 of the Streets and Highways Code.\n\n*(Amended by Stats. 1993, Ch. 517, Sec. 4. Effective January 1, 1994.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "This chapter does not prohibit local authorities from establishing, by ordinance or resolution, bicycle lanes separated from any vehicular lanes upon highways, other than state highways as defined in Section 24 of the Streets and Highways Code and county highways established pursuant to Article 5 (commencing with Section 1720) of Chapter 9 of Division 2 of the Streets and Highways Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Bicycle lanes established pursuant to this section shall be constructed in compliance with Section 891 of the Streets and Highways Code.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1993, Ch. 517, Sec. 4. Effective January 1, 1994.)",
+    "action": "Amended",
+    "statutes_year": 1993,
+    "chapter": "517",
+    "section": "4",
+    "bill_number": null,
+    "effective_date": "1994-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1993",
+  "op_chapter": "517",
+  "op_section": "4",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21207.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21207.html",
+  "content_sha256": "672e0083fb66b090e9ec8b5062f6e5fcf0303582e59f0ba713a4b5ccb2dd0f85",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

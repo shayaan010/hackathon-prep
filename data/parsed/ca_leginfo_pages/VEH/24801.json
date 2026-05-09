@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24801",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "4",
+  "article_title": "Parking Lamps",
+  "article_range": "24800 - 24802",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.4",
+  "text": "Parking lamps are those lamps permitted by Section 25106, or any lamps mounted on the front of a vehicle, designed to be displayed primarily when the vehicle is parked.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 4. Parking Lamps [24800 - 24802]\n##### § 24801\n\nParking lamps are those lamps permitted by Section 25106, or any lamps mounted on the front of a vehicle, designed to be displayed primarily when the vehicle is parked.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Parking lamps are those lamps permitted by Section 25106, or any lamps mounted on the front of a vehicle, designed to be displayed primarily when the vehicle is parked.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24801.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24801.html",
+  "content_sha256": "de96386d2a75ee698cdd5c3b9b1c12bed97103fdff9ab3c6113a9ab7736f2c37",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

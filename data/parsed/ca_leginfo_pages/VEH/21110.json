@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21110",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "3",
+  "article_title": "Local Regulation",
+  "article_range": "21100 - 21118",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.3",
+  "text": "Local authorities may adopt rules and regulations by ordinance or resolution to require that all vehicles stop before entering or crossing the tracks at any highway railroad grade crossing when signs are in place giving notice thereof, but no such ordinance shall be effective unless approved by an order of the Public Utilities Commission.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 3. Local Regulation [21100 - 21118]\n##### § 21110\n\nLocal authorities may adopt rules and regulations by ordinance or resolution to require that all vehicles stop before entering or crossing the tracks at any highway railroad grade crossing when signs are in place giving notice thereof, but no such ordinance shall be effective unless approved by an order of the Public Utilities Commission.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Local authorities may adopt rules and regulations by ordinance or resolution to require that all vehicles stop before entering or crossing the tracks at any highway railroad grade crossing when signs are in place giving notice thereof, but no such ordinance shall be effective unless approved by an order of the Public Utilities Commission.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21110.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21110.html",
+  "content_sha256": "06b8575199130efd3ff360718678f0c82c7ca30673359050f1252ae19c0c6c12",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

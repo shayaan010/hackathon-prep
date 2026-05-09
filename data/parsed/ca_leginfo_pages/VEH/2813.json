@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "2813",
+  "division": "2",
+  "division_title": "ADMINISTRATION",
+  "division_range": "1500 - 3093",
+  "chapter": "4",
+  "chapter_title": "Administration and Enforcement",
+  "chapter_range": "2800 - 2818",
+  "article": "1",
+  "article_title": "Lawful Orders and Inspections",
+  "article_range": "2800 - 2818",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "3.4.1",
+  "text": "Every driver of a commercial vehicle shall stop and submit the vehicle to an inspection of the vehicle’s size, weight, equipment, loading, and smoke emissions, as well as the driver’s license, medical qualifications, and hours-of-service compliance of a driver of the vehicle at any location where members of the California Highway Patrol are conducting tests and inspections of commercial vehicles and when signs are displayed requiring the stop. Every driver who fails or refuses to stop and submit the vehicle to an inspection when signs are displayed requiring that stop is guilty of a misdemeanor.",
+  "markdown": "# Vehicle Code\n## Division 2. ADMINISTRATION [1500 - 3093]\n### Chapter 4. Administration and Enforcement [2800 - 2818]\n#### Article 1. Lawful Orders and Inspections [2800 - 2818]\n##### § 2813\n\nEvery driver of a commercial vehicle shall stop and submit the vehicle to an inspection of the vehicle’s size, weight, equipment, loading, and smoke emissions, as well as the driver’s license, medical qualifications, and hours-of-service compliance of a driver of the vehicle at any location where members of the California Highway Patrol are conducting tests and inspections of commercial vehicles and when signs are displayed requiring the stop. Every driver who fails or refuses to stop and submit the vehicle to an inspection when signs are displayed requiring that stop is guilty of a misdemeanor.\n\n*(Amended by Stats. 2022, Ch. 295, Sec. 5. (AB 2956) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Every driver of a commercial vehicle shall stop and submit the vehicle to an inspection of the vehicle’s size, weight, equipment, loading, and smoke emissions, as well as the driver’s license, medical qualifications, and hours-of-service compliance of a driver of the vehicle at any location where members of the California Highway Patrol are conducting tests and inspections of commercial vehicles and when signs are displayed requiring the stop. Every driver who fails or refuses to stop and submit the vehicle to an inspection when signs are displayed requiring that stop is guilty of a misdemeanor.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 295, Sec. 5. (AB 2956) Effective January 1, 2023.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "295",
+    "section": "5",
+    "bill_number": "AB 2956",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "295",
+  "op_section": "5",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2813.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/2813.html",
+  "content_sha256": "78eea58e3d63a2c6aa387c292dd5045d260daa6188f7bc4044fabbc07657da7b",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

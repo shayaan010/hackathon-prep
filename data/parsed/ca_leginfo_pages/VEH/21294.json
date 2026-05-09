@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21294",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "7",
+  "article_title": "Operation of Electrically Motorized Boards",
+  "article_range": "21290 - 21296",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.9",
+  "text": "(a) An electrically motorized board shall only operate upon a highway designated with a speed limit of 35 miles per hour or less, unless the electrically motorized board is operated entirely within a designated Class II or Class IV bikeway.\n\n(b) A person shall not operate an electrically motorized board upon a highway, bikeway, or any other public bicycle path, sidewalk, or trail, at a speed in excess of 15 miles per hour.\n\n(c) Notwithstanding subdivision (b), a person shall not operate an electrically motorized board at a speed greater than is reasonable or prudent having due regard for weather, visibility, pedestrian and vehicular traffic, and the surface and width of the highway, bikeway, public bicycle path, sidewalk, or trail, and in no event at a speed that endangers the safety of any person or property.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 7. Operation of Electrically Motorized Boards [21290 - 21296]\n##### § 21294\n\n(a) An electrically motorized board shall only operate upon a highway designated with a speed limit of 35 miles per hour or less, unless the electrically motorized board is operated entirely within a designated Class II or Class IV bikeway.\n\n(b) A person shall not operate an electrically motorized board upon a highway, bikeway, or any other public bicycle path, sidewalk, or trail, at a speed in excess of 15 miles per hour.\n\n(c) Notwithstanding subdivision (b), a person shall not operate an electrically motorized board at a speed greater than is reasonable or prudent having due regard for weather, visibility, pedestrian and vehicular traffic, and the surface and width of the highway, bikeway, public bicycle path, sidewalk, or trail, and in no event at a speed that endangers the safety of any person or property.\n\n*(Amended by Stats. 2016, Ch. 86, Sec. 302. (SB 1171) Effective January 1, 2017.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "An electrically motorized board shall only operate upon a highway designated with a speed limit of 35 miles per hour or less, unless the electrically motorized board is operated entirely within a designated Class II or Class IV bikeway.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A person shall not operate an electrically motorized board upon a highway, bikeway, or any other public bicycle path, sidewalk, or trail, at a speed in excess of 15 miles per hour.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Notwithstanding subdivision (b), a person shall not operate an electrically motorized board at a speed greater than is reasonable or prudent having due regard for weather, visibility, pedestrian and vehicular traffic, and the surface and width of the highway, bikeway, public bicycle path, sidewalk, or trail, and in no event at a speed that endangers the safety of any person or property.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2016, Ch. 86, Sec. 302. (SB 1171) Effective January 1, 2017.)",
+    "action": "Amended",
+    "statutes_year": 2016,
+    "chapter": "86",
+    "section": "302",
+    "bill_number": "SB 1171",
+    "effective_date": "2017-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2016",
+  "op_chapter": "86",
+  "op_section": "302",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21294.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21294.html",
+  "content_sha256": "887390093572b10f38e41269e4226fc8bd71399df3959328e793948773ddfab2",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

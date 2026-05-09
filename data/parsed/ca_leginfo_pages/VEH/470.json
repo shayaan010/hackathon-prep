@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "470",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "“Person” includes a natural person, firm, copartnership, association, limited liability company, or corporation.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 470\n\n“Person” includes a natural person, firm, copartnership, association, limited liability company, or corporation.\n\n*(Amended by Stats. 1994, Ch. 1010, Sec. 225. Effective January 1, 1995.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "“Person” includes a natural person, firm, copartnership, association, limited liability company, or corporation.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 1010, Sec. 225. Effective January 1, 1995.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "1010",
+    "section": "225",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "1010",
+  "op_section": "225",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=470.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/470.html",
+  "content_sha256": "4d17778605ef4e3a12d2f723a141bf9476ff0d42558f44ccf4822a15320e51be",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

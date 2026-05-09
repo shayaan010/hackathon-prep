@@ -1,0 +1,67 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "322",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) A “farm labor vehicle” is any motor vehicle designed, used, or maintained for the transportation of nine or more farmworkers, in addition to the driver, to or from a place of employment or employment-related activities.\n\n(b) For the purpose of this section, a farmworker is any person engaged in rendering personal services for hire and compensation in connection with the production or harvesting of any farm products.\n\n(c) “Farm labor vehicle” does not include:\n\n(1) Any vehicle carrying only members of the immediate family of the owner or driver thereof.\n\n(2) Any vehicle while being operated under specific authority granted by the Public Utilities Commission or under specific authority granted to a transit system by an authorized city or county agency.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 322\n\n(a) A “farm labor vehicle” is any motor vehicle designed, used, or maintained for the transportation of nine or more farmworkers, in addition to the driver, to or from a place of employment or employment-related activities.\n\n(b) For the purpose of this section, a farmworker is any person engaged in rendering personal services for hire and compensation in connection with the production or harvesting of any farm products.\n\n(c) “Farm labor vehicle” does not include:\n\n    (1) Any vehicle carrying only members of the immediate family of the owner or driver thereof.\n\n    (2) Any vehicle while being operated under specific authority granted by the Public Utilities Commission or under specific authority granted to a transit system by an authorized city or county agency.\n\n*(Amended by Stats. 2000, Ch. 308, Sec. 1. Effective January 1, 2001.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A “farm labor vehicle” is any motor vehicle designed, used, or maintained for the transportation of nine or more farmworkers, in addition to the driver, to or from a place of employment or employment-related activities.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "For the purpose of this section, a farmworker is any person engaged in rendering personal services for hire and compensation in connection with the production or harvesting of any farm products.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "“Farm labor vehicle” does not include:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Any vehicle carrying only members of the immediate family of the owner or driver thereof.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Any vehicle while being operated under specific authority granted by the Public Utilities Commission or under specific authority granted to a transit system by an authorized city or county agency.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2000, Ch. 308, Sec. 1. Effective January 1, 2001.)",
+    "action": "Amended",
+    "statutes_year": 2000,
+    "chapter": "308",
+    "section": "1",
+    "bill_number": null,
+    "effective_date": "2001-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2000",
+  "op_chapter": "308",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=322.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/322.html",
+  "content_sha256": "7a07e34ba1a7aef3d63e1fecf105096f1711eaf432ada840fd06fb37b26f26da",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

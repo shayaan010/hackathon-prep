@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21711",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "2",
+  "article_title": "Additional Driving Rules",
+  "article_range": "21700 - 21721",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.2",
+  "text": "No person shall operate a train of vehicles when any vehicle being towed whips or swerves from side to side or fails to follow substantially in the path of the towing vehicle.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 2. Additional Driving Rules [21700 - 21721]\n##### § 21711\n\nNo person shall operate a train of vehicles when any vehicle being towed whips or swerves from side to side or fails to follow substantially in the path of the towing vehicle.\n\n*(Amended by Stats. 1959, Ch. 44.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall operate a train of vehicles when any vehicle being towed whips or swerves from side to side or fails to follow substantially in the path of the towing vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1959, Ch. 44.)",
+    "action": "Amended",
+    "statutes_year": 1959,
+    "chapter": "44",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "44",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21711.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21711.html",
+  "content_sha256": "efa78eda66b58e9eb01d79a15cdc1d24bf6dbd6c17f78e9f59006d344720b745",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

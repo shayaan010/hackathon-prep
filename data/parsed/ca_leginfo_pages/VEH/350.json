@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "350",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) “Gross vehicle weight rating” (GVWR) means the weight specified by the manufacturer as the loaded weight of a single vehicle.\n\n(b) Gross combination weight rating (GCWR) means the weight specified by the manufacturer as the loaded weight of a combination or articulated vehicle. In the absence of a weight specified by the manufacturer, GCWR shall be determined by adding the GVWR of the power unit and the total unladen weight of the towed units and any load thereon.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 350\n\n(a) “Gross vehicle weight rating” (GVWR) means the weight specified by the manufacturer as the loaded weight of a single vehicle.\n\n(b) Gross combination weight rating (GCWR) means the weight specified by the manufacturer as the loaded weight of a combination or articulated vehicle. In the absence of a weight specified by the manufacturer, GCWR shall be determined by adding the GVWR of the power unit and the total unladen weight of the towed units and any load thereon.\n\n*(Added by renumbering Section 390 by Stats. 2000, Ch. 861, Sec. 14. Effective September 29, 2000. Operative December 31, 2001, pursuant to Sec. 67 of Ch. 861.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "“Gross vehicle weight rating” (GVWR) means the weight specified by the manufacturer as the loaded weight of a single vehicle.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Gross combination weight rating (GCWR) means the weight specified by the manufacturer as the loaded weight of a combination or articulated vehicle. In the absence of a weight specified by the manufacturer, GCWR shall be determined by adding the GVWR of the power unit and the total unladen weight of the towed units and any load thereon.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by renumbering Section 390 by Stats. 2000, Ch. 861, Sec. 14. Effective September 29, 2000. Operative December 31, 2001, pursuant to Sec. 67 of Ch. 861.)",
+    "action": "Added",
+    "statutes_year": 2000,
+    "chapter": "861",
+    "section": "14",
+    "bill_number": null,
+    "effective_date": "2000-09-29",
+    "operative_date": "2001-12-31"
+  },
+  "op_statues": "2000",
+  "op_chapter": "861",
+  "op_section": "14",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=350.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/350.html",
+  "content_sha256": "4130b0016ca11f3c36e9cfe52ddfa3ee6180d1044f2a63b94a64dd829e2820d6",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

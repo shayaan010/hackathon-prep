@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "480",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “power brake” is any breaking gear or mechanism that aids in applying the brakes of a vehicle and which utilizes vacuum, compressed air, electricity, or hydraulic pressure developed by the motive power of that vehicle for that purpose.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 480\n\nA “power brake” is any breaking gear or mechanism that aids in applying the brakes of a vehicle and which utilizes vacuum, compressed air, electricity, or hydraulic pressure developed by the motive power of that vehicle for that purpose.\n\n*(Amended by Stats. 1977, Ch. 102.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “power brake” is any breaking gear or mechanism that aids in applying the brakes of a vehicle and which utilizes vacuum, compressed air, electricity, or hydraulic pressure developed by the motive power of that vehicle for that purpose.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1977, Ch. 102.)",
+    "action": "Amended",
+    "statutes_year": 1977,
+    "chapter": "102",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1977",
+  "op_chapter": "102",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=480.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/480.html",
+  "content_sha256": "a7f538dfb4825e346fe5d265f73afc66dd53dd3a22bd13fa0b643f3393e8be41",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

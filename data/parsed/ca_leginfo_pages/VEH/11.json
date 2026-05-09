@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "11",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "“Section” means a section of this code unless some other statute is specifically mentioned and “subdivision” means a subdivision of the section in which that term occurs unless some other section is expressly mentioned.",
+  "markdown": "# Vehicle Code\n##### § 11\n\n“Section” means a section of this code unless some other statute is specifically mentioned and “subdivision” means a subdivision of the section in which that term occurs unless some other section is expressly mentioned.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "“Section” means a section of this code unless some other statute is specifically mentioned and “subdivision” means a subdivision of the section in which that term occurs unless some other section is expressly mentioned.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=11.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/11.html",
+  "content_sha256": "70eb588bf6b400034faece389c066da47b6a05d1050481d9df47cf6d45d75b30",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

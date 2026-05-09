@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "681",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) “Real ID driver’s license or identification card” means a driver’s license or identification card that has been issued by a state that has been certified by the Department of Homeland Security to be in compliance with the requirements of the Real ID Act of 2005 (Public Law 109-13) and the regulations adopted pursuant to the act.\n\n(b) This section shall become operative on January 1, 2018.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 681\n\n(a) “Real ID driver’s license or identification card” means a driver’s license or identification card that has been issued by a state that has been certified by the Department of Homeland Security to be in compliance with the requirements of the Real ID Act of 2005 (Public Law 109-13) and the regulations adopted pursuant to the act.\n\n(b) This section shall become operative on January 1, 2018.\n\n*(Added by Stats. 2016, Ch. 339, Sec. 3. (SB 838) Effective September 13, 2016. Section operative January 1, 2018, by its own provisions.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "“Real ID driver’s license or identification card” means a driver’s license or identification card that has been issued by a state that has been certified by the Department of Homeland Security to be in compliance with the requirements of the Real ID Act of 2005 (Public Law 109-13) and the regulations adopted pursuant to the act.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "This section shall become operative on January 1, 2018.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2016, Ch. 339, Sec. 3. (SB 838) Effective September 13, 2016. Section operative January 1, 2018, by its own provisions.)",
+    "action": "Added",
+    "statutes_year": 2016,
+    "chapter": "339",
+    "section": "3",
+    "bill_number": "SB 838",
+    "effective_date": "2016-09-13",
+    "operative_date": null
+  },
+  "op_statues": "2016",
+  "op_chapter": "339",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=681.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/681.html",
+  "content_sha256": "25350197477fe553f34b563df326dcd789edcf5a373f59f84b290b7f564ec7c8",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

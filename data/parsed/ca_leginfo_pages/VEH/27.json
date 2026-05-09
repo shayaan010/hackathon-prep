@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "27",
+  "division": null,
+  "division_title": null,
+  "division_range": null,
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "1",
+  "text": "Any person who without authority impersonates, or wears the badge of, a member of the California Highway Patrol with intention to deceive anyone is guilty of a misdemeanor.",
+  "markdown": "# Vehicle Code\n##### § 27\n\nAny person who without authority impersonates, or wears the badge of, a member of the California Highway Patrol with intention to deceive anyone is guilty of a misdemeanor.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Any person who without authority impersonates, or wears the badge of, a member of the California Highway Patrol with intention to deceive anyone is guilty of a misdemeanor.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=27.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/27.html",
+  "content_sha256": "0c32d69deeec4259813ffcc757759c7e6a814e048b8f1956c9274e13f6d4967b",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

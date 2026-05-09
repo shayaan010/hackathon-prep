@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21805",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "4",
+  "chapter_title": "Right-of-Way",
+  "chapter_range": "21800 - 21809",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.4",
+  "text": "(a) The Department of Transportation, and local authorities with respect to highways under their jurisdiction, may designate any intersection of a highway as a bridle path or equestrian crossing by erecting appropriate signs. The signs shall be erected on the highway at or near the approach to the intersection, and shall be of a type approved by the Department of Transportation. The signs shall indicate the crossing and any crossmarks, safety devices, or signals the authorities deem necessary to safeguard vehicular and equestrian traffic at the intersection.\n\n(b) The driver of any vehicle shall yield the right-of-way to any horseback rider who is crossing the highway at any designated equestrian crossing which is marked by signs as prescribed in subdivision (a).\n\n(c) Subdivision (b) does not relieve any horseback rider from the duty of using due care for his or her own safety. No horseback rider shall leave a curb or other place of safety and proceed suddenly into the path of a vehicle which is close enough to constitute an immediate hazard.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 4. Right-of-Way [21800 - 21809]\n##### § 21805\n\n(a) The Department of Transportation, and local authorities with respect to highways under their jurisdiction, may designate any intersection of a highway as a bridle path or equestrian crossing by erecting appropriate signs. The signs shall be erected on the highway at or near the approach to the intersection, and shall be of a type approved by the Department of Transportation. The signs shall indicate the crossing and any crossmarks, safety devices, or signals the authorities deem necessary to safeguard vehicular and equestrian traffic at the intersection.\n\n(b) The driver of any vehicle shall yield the right-of-way to any horseback rider who is crossing the highway at any designated equestrian crossing which is marked by signs as prescribed in subdivision (a).\n\n(c) Subdivision (b) does not relieve any horseback rider from the duty of using due care for his or her own safety. No horseback rider shall leave a curb or other place of safety and proceed suddenly into the path of a vehicle which is close enough to constitute an immediate hazard.\n\n*(Amended by Stats. 1988, Ch. 623, Sec. 6.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "The Department of Transportation, and local authorities with respect to highways under their jurisdiction, may designate any intersection of a highway as a bridle path or equestrian crossing by erecting appropriate signs. The signs shall be erected on the highway at or near the approach to the intersection, and shall be of a type approved by the Department of Transportation. The signs shall indicate the crossing and any crossmarks, safety devices, or signals the authorities deem necessary to safeguard vehicular and equestrian traffic at the intersection.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The driver of any vehicle shall yield the right-of-way to any horseback rider who is crossing the highway at any designated equestrian crossing which is marked by signs as prescribed in subdivision (a).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Subdivision (b) does not relieve any horseback rider from the duty of using due care for his or her own safety. No horseback rider shall leave a curb or other place of safety and proceed suddenly into the path of a vehicle which is close enough to constitute an immediate hazard.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1988, Ch. 623, Sec. 6.)",
+    "action": "Amended",
+    "statutes_year": 1988,
+    "chapter": "623",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1988",
+  "op_chapter": "623",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21805.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21805.html",
+  "content_sha256": "824196bedb7dd64fd7e826aebd68aa9285c3b21ddeda10bcfebd60e593ed020e",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

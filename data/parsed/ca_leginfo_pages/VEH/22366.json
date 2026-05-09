@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22366",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "1",
+  "article_title": "Generally",
+  "article_range": "22348 - 22366",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.1",
+  "text": "(a) Whenever the Director of Transportation determines the date upon which the state may establish a maximum speed limit of 65 miles per hour on highways without subjecting the state to a reduction in the amount of federal aid for highways, the director shall notify the Secretary of State of that determination.\n\n(b) The notice required under subdivision (a) shall state that it is being made pursuant to this section.\n\n(c) The notice shall specify a date which is either the date determined pursuant to subdivision (a), or a later date designated by the director.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 1. Generally [22348 - 22366]\n##### § 22366\n\n(a) Whenever the Director of Transportation determines the date upon which the state may establish a maximum speed limit of 65 miles per hour on highways without subjecting the state to a reduction in the amount of federal aid for highways, the director shall notify the Secretary of State of that determination.\n\n(b) The notice required under subdivision (a) shall state that it is being made pursuant to this section.\n\n(c) The notice shall specify a date which is either the date determined pursuant to subdivision (a), or a later date designated by the director.\n\n*(Added by Stats. 1995, Ch. 766, Sec. 34. Effective January 1, 1996.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Whenever the Director of Transportation determines the date upon which the state may establish a maximum speed limit of 65 miles per hour on highways without subjecting the state to a reduction in the amount of federal aid for highways, the director shall notify the Secretary of State of that determination.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The notice required under subdivision (a) shall state that it is being made pursuant to this section.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "The notice shall specify a date which is either the date determined pursuant to subdivision (a), or a later date designated by the director.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 1995, Ch. 766, Sec. 34. Effective January 1, 1996.)",
+    "action": "Added",
+    "statutes_year": 1995,
+    "chapter": "766",
+    "section": "34",
+    "bill_number": null,
+    "effective_date": "1996-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1995",
+  "op_chapter": "766",
+  "op_section": "34",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22366.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22366.html",
+  "content_sha256": "a8154615dcde66ac26d844f27c42ecde851413b0455218953144a1d5da04d0de",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21751",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "3",
+  "article_title": "Overtaking and Passing",
+  "article_range": "21750 - 21761",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.3",
+  "text": "On a two-lane highway, no vehicle shall be driven to the left side of the center of the roadway in overtaking and passing another vehicle proceeding in the same direction unless the left side is clearly visible and free of oncoming traffic for a sufficient distance ahead to permit such overtaking and passing to be completely made without interfering with the safe operation of any vehicle approaching from the opposite direction.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 3. Overtaking and Passing [21750 - 21761]\n##### § 21751\n\nOn a two-lane highway, no vehicle shall be driven to the left side of the center of the roadway in overtaking and passing another vehicle proceeding in the same direction unless the left side is clearly visible and free of oncoming traffic for a sufficient distance ahead to permit such overtaking and passing to be completely made without interfering with the safe operation of any vehicle approaching from the opposite direction.\n\n*(Amended by Stats. 1973, Ch. 50.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "On a two-lane highway, no vehicle shall be driven to the left side of the center of the roadway in overtaking and passing another vehicle proceeding in the same direction unless the left side is clearly visible and free of oncoming traffic for a sufficient distance ahead to permit such overtaking and passing to be completely made without interfering with the safe operation of any vehicle approaching from the opposite direction.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1973, Ch. 50.)",
+    "action": "Amended",
+    "statutes_year": 1973,
+    "chapter": "50",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1973",
+  "op_chapter": "50",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21751.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21751.html",
+  "content_sha256": "9d4b1f6eb26c7de724bbc8ea86e9abd3563988c50c05c2fbe1f50c64a1f2f3ad",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

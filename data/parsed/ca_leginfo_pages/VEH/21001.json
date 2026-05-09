@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21001",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "1",
+  "article_title": "Definitions",
+  "article_range": "21000 - 21001",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.1",
+  "text": "The provisions of this division refer exclusively to the operation of vehicles upon the highways, unless a different place is specifically referred to.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 1. Definitions [21000 - 21001]\n##### § 21001\n\nThe provisions of this division refer exclusively to the operation of vehicles upon the highways, unless a different place is specifically referred to.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The provisions of this division refer exclusively to the operation of vehicles upon the highways, unless a different place is specifically referred to.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21001.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21001.html",
+  "content_sha256": "73e8fd2d7d7dc3e3794970b73e19981d00a290ced972720c00316b8d0b6ae2aa",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

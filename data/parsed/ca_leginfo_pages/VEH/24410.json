@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24410",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "2",
+  "article_title": "Headlamps and Auxiliary Lamps",
+  "article_range": "24400 - 24411",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.2",
+  "text": "Headlamps arranged to provide a single distribution of light not supplemented by auxiliary driving lamps are permitted on motor vehicles manufactured and sold prior to September 19, 1940, in lieu of multiple-beam road lighting equipment if the single distribution of light complies with the following requirements and limitations:\n\n(a) The headlamps shall be so aimed that when the vehicle is not loaded none of the high-intensity portion of the light shall at a distance of 25 feet ahead project higher than a level of five inches below the level of the center of the lamp from which it comes, and in no case higher than 42 inches above the level on which the vehicle stands at a distance of 75 feet ahead.\n\n(b) The intensity shall be sufficient to reveal persons and vehicles at a distance of at least 200 feet.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 2. Headlamps and Auxiliary Lamps [24400 - 24411]\n##### § 24410\n\nHeadlamps arranged to provide a single distribution of light not supplemented by auxiliary driving lamps are permitted on motor vehicles manufactured and sold prior to September 19, 1940, in lieu of multiple-beam road lighting equipment if the single distribution of light complies with the following requirements and limitations:\n\n(a) The headlamps shall be so aimed that when the vehicle is not loaded none of the high-intensity portion of the light shall at a distance of 25 feet ahead project higher than a level of five inches below the level of the center of the lamp from which it comes, and in no case higher than 42 inches above the level on which the vehicle stands at a distance of 75 feet ahead.\n\n(b) The intensity shall be sufficient to reveal persons and vehicles at a distance of at least 200 feet.\n\n*(Enacted by Stats. 1959, Ch. 3.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "Headlamps arranged to provide a single distribution of light not supplemented by auxiliary driving lamps are permitted on motor vehicles manufactured and sold prior to September 19, 1940, in lieu of multiple-beam road lighting equipment if the single distribution of light complies with the following requirements and limitations:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "a",
+      "text": "The headlamps shall be so aimed that when the vehicle is not loaded none of the high-intensity portion of the light shall at a distance of 25 feet ahead project higher than a level of five inches below the level of the center of the lamp from which it comes, and in no case higher than 42 inches above the level on which the vehicle stands at a distance of 75 feet ahead.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "The intensity shall be sufficient to reveal persons and vehicles at a distance of at least 200 feet.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Enacted by Stats. 1959, Ch. 3.)",
+    "action": "Enacted",
+    "statutes_year": 1959,
+    "chapter": "3",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1959",
+  "op_chapter": "3",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24410.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24410.html",
+  "content_sha256": "b521c3023faca1d9679471d9a7e3c8c1aaea037aaea227c3c54de326d9a5262c",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

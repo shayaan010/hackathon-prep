@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "20011",
+  "division": "10",
+  "division_title": "ACCIDENTS AND ACCIDENT REPORTS",
+  "division_range": "20000 - 20018",
+  "chapter": "1",
+  "chapter_title": "Accidents and Accident Reports",
+  "chapter_range": "20000 - 20018",
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "14.1",
+  "text": "A coroner or medical examiner shall on or before the 10th day of each month report in writing to the Department of the California Highway Patrol the death of any person during the preceding calendar month as the result of an accident involving a motor vehicle and the circumstances of the accident. Chemical test results, including blood alcohol content and blood drug concentrations, shall be reported in writing when available.",
+  "markdown": "# Vehicle Code\n## Division 10. ACCIDENTS AND ACCIDENT REPORTS [20000 - 20018]\n### Chapter 1. Accidents and Accident Reports [20000 - 20018]\n##### § 20011\n\nA coroner or medical examiner shall on or before the 10th day of each month report in writing to the Department of the California Highway Patrol the death of any person during the preceding calendar month as the result of an accident involving a motor vehicle and the circumstances of the accident. Chemical test results, including blood alcohol content and blood drug concentrations, shall be reported in writing when available.\n\n*(Amended by Stats. 2022, Ch. 223, Sec. 2. (SB 925) Effective January 1, 2023.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A coroner or medical examiner shall on or before the 10th day of each month report in writing to the Department of the California Highway Patrol the death of any person during the preceding calendar month as the result of an accident involving a motor vehicle and the circumstances of the accident. Chemical test results, including blood alcohol content and blood drug concentrations, shall be reported in writing when available.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2022, Ch. 223, Sec. 2. (SB 925) Effective January 1, 2023.)",
+    "action": "Amended",
+    "statutes_year": 2022,
+    "chapter": "223",
+    "section": "2",
+    "bill_number": "SB 925",
+    "effective_date": "2023-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2022",
+  "op_chapter": "223",
+  "op_section": "2",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=20011.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/20011.html",
+  "content_sha256": "f9b20dfa808b9aa56894ab8d22aef9929ad1ebeb81611392c4280a35b2854d64",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,87 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24405",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "2",
+  "article_title": "Headlamps and Auxiliary Lamps",
+  "article_range": "24400 - 24411",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.2",
+  "text": "(a) Not more than four lamps of the following types showing to the front of a vehicle may be lighted at any one time:\n\n(1) Headlamps.\n\n(2) Auxiliary driving or passing lamps.\n\n(3) Fog lamps.\n\n(4) Warning lamps.\n\n(5) Spot lamps.\n\n(6) Gaseous discharge lamps specified in Section 25258.\n\n(b) For the purpose of this section each pair of a dual headlamp system shall be considered as one lamp.\n\n(c) Subdivision (a) does not apply to any authorized emergency vehicle.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 2. Headlamps and Auxiliary Lamps [24400 - 24411]\n##### § 24405\n\n(a) Not more than four lamps of the following types showing to the front of a vehicle may be lighted at any one time:\n\n    (1) Headlamps.\n\n    (2) Auxiliary driving or passing lamps.\n\n    (3) Fog lamps.\n\n    (4) Warning lamps.\n\n    (5) Spot lamps.\n\n    (6) Gaseous discharge lamps specified in Section 25258.\n\n(b) For the purpose of this section each pair of a dual headlamp system shall be considered as one lamp.\n\n(c) Subdivision (a) does not apply to any authorized emergency vehicle.\n\n*(Amended by Stats. 1976, Ch. 234.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Not more than four lamps of the following types showing to the front of a vehicle may be lighted at any one time:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "Headlamps.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "Auxiliary driving or passing lamps.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "3",
+      "text": "Fog lamps.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "4",
+      "text": "Warning lamps.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "5",
+      "text": "Spot lamps.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "6",
+      "text": "Gaseous discharge lamps specified in Section 25258.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "b",
+      "text": "For the purpose of this section each pair of a dual headlamp system shall be considered as one lamp.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "Subdivision (a) does not apply to any authorized emergency vehicle.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1976, Ch. 234.)",
+    "action": "Amended",
+    "statutes_year": 1976,
+    "chapter": "234",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1976",
+  "op_chapter": "234",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24405.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24405.html",
+  "content_sha256": "28699b8a45a99c979db3506071d60218c37b5b9ff8bb2230e91108154bbe440d",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

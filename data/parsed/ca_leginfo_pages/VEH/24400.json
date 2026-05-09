@@ -1,0 +1,72 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "24400",
+  "division": "12",
+  "division_title": "EQUIPMENT OF VEHICLES",
+  "division_range": "24000 - 28244",
+  "chapter": "2",
+  "chapter_title": "Lighting Equipment",
+  "chapter_range": "24250 - 26106",
+  "article": "2",
+  "article_title": "Headlamps and Auxiliary Lamps",
+  "article_range": "24400 - 24411",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "17.2.2",
+  "text": "(a) A motor vehicle, other than a motorcycle, shall\n\nbe equipped with at least two headlamps, with at least one on each side of the front of the vehicle, and, except as to vehicles registered prior to January 1, 1930, they shall be located directly above or in advance of the front axle of the vehicle. The headlamps and every light source in any headlamp unit shall be located at a height of not more than 54 inches nor less than 22 inches.\n\n(b) A motor vehicle, other than a motorcycle, shall be operated during darkness, or inclement weather, or both, with at least two lighted headlamps that comply with subdivision (a).\n\n(c) As used in subdivision (b), “inclement weather” is a weather condition that is either of the following:\n\n(1) A condition that prevents a driver of a motor vehicle from clearly discerning a person or another motor vehicle on the highway from a distance of 1,000 feet.\n\n(2) A condition requiring the windshield wipers to be in continuous use due to rain, mist, snow, fog, or other precipitation or atmospheric moisture.",
+  "markdown": "# Vehicle Code\n## Division 12. EQUIPMENT OF VEHICLES [24000 - 28244]\n### Chapter 2. Lighting Equipment [24250 - 26106]\n#### Article 2. Headlamps and Auxiliary Lamps [24400 - 24411]\n##### § 24400\n\n(a) A motor vehicle, other than a motorcycle, shall\n\nbe equipped with at least two headlamps, with at least one on each side of the front of the vehicle, and, except as to vehicles registered prior to January 1, 1930, they shall be located directly above or in advance of the front axle of the vehicle. The headlamps and every light source in any headlamp unit shall be located at a height of not more than 54 inches nor less than 22 inches.\n\n(b) A motor vehicle, other than a motorcycle, shall be operated during darkness, or inclement weather, or both, with at least two lighted headlamps that comply with subdivision (a).\n\n(c) As used in subdivision (b), “inclement weather” is a weather condition that is either of the following:\n\n    (1) A condition that prevents a driver of a motor vehicle from clearly discerning a person or another motor vehicle on the highway from a distance of 1,000 feet.\n\n    (2) A condition requiring the windshield wipers to be in continuous use due to rain, mist, snow, fog, or other precipitation or atmospheric moisture.\n\n*(Amended by Stats. 2010, Ch. 491, Sec. 43. (SB 1318) Effective January 1, 2011.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "A motor vehicle, other than a motorcycle, shall",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "be equipped with at least two headlamps, with at least one on each side of the front of the vehicle, and, except as to vehicles registered prior to January 1, 1930, they shall be located directly above or in advance of the front axle of the vehicle. The headlamps and every light source in any headlamp unit shall be located at a height of not more than 54 inches nor less than 22 inches.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "A motor vehicle, other than a motorcycle, shall be operated during darkness, or inclement weather, or both, with at least two lighted headlamps that comply with subdivision (a).",
+      "depth_em": 0.0
+    },
+    {
+      "label": "c",
+      "text": "As used in subdivision (b), “inclement weather” is a weather condition that is either of the following:",
+      "depth_em": 0.0
+    },
+    {
+      "label": "1",
+      "text": "A condition that prevents a driver of a motor vehicle from clearly discerning a person or another motor vehicle on the highway from a distance of 1,000 feet.",
+      "depth_em": 1.0
+    },
+    {
+      "label": "2",
+      "text": "A condition requiring the windshield wipers to be in continuous use due to rain, mist, snow, fog, or other precipitation or atmospheric moisture.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2010, Ch. 491, Sec. 43. (SB 1318) Effective January 1, 2011.)",
+    "action": "Amended",
+    "statutes_year": 2010,
+    "chapter": "491",
+    "section": "43",
+    "bill_number": "SB 1318",
+    "effective_date": "2011-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2010",
+  "op_chapter": "491",
+  "op_section": "43",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=24400.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/24400.html",
+  "content_sha256": "82c6094afd23c1b8029ac14493a7bf5b3c5c5d4879f49d517c926c44c4666257",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "430",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "A “new vehicle” is a vehicle constructed entirely from new parts that has never been the subject of a retail sale, or registered with the department, or registered with the appropriate agency or authority of any other state, District of Columbia, territory or possession of the United States, or foreign state, province, or country.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 430\n\nA “new vehicle” is a vehicle constructed entirely from new parts that has never been the subject of a retail sale, or registered with the department, or registered with the appropriate agency or authority of any other state, District of Columbia, territory or possession of the United States, or foreign state, province, or country.\n\n*(Amended by Stats. 1994, Ch. 1253, Sec. 6. Effective January 1, 1995.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "A “new vehicle” is a vehicle constructed entirely from new parts that has never been the subject of a retail sale, or registered with the department, or registered with the appropriate agency or authority of any other state, District of Columbia, territory or possession of the United States, or foreign state, province, or country.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1994, Ch. 1253, Sec. 6. Effective January 1, 1995.)",
+    "action": "Amended",
+    "statutes_year": 1994,
+    "chapter": "1253",
+    "section": "6",
+    "bill_number": null,
+    "effective_date": "1995-01-01",
+    "operative_date": null
+  },
+  "op_statues": "1994",
+  "op_chapter": "1253",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=430.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/430.html",
+  "content_sha256": "fb5c8968f7c4b09429a907a0692d955d04788629d95de64ee1ae51354422313b",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

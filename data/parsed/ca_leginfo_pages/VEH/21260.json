@@ -1,0 +1,57 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21260",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "1",
+  "chapter_title": "Obedience to and Effect of Traffic Laws",
+  "chapter_range": "21000 - 21300",
+  "article": "5.5",
+  "article_title": "Operation of Low-Speed Vehicles",
+  "article_range": "21250 - 21266",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.1.7",
+  "text": "(a) Except as provided in paragraph (1) of subdivision (b), or in an area where a neighborhood electric vehicle transportation plan has been adopted pursuant to Chapter 8 (commencing with Section 1965) of Division 2.5 of the Streets and Highways Code, the operator of a low-speed vehicle shall not operate the vehicle on any roadway with a speed limit in excess of 35 miles per hour.\n\n(b) (1) The operator of a low-speed vehicle may cross a roadway with a speed limit in excess of 35 miles per hour if the crossing begins and ends on a roadway with a speed limit of 35 miles per hour or less and occurs at an intersection of approximately 90 degrees.\n\n(2) Notwithstanding paragraph (1), the operator of a low-speed vehicle shall not traverse an uncontrolled intersection with any state highway unless that intersection has been approved and authorized by the agency having primary traffic enforcement responsibilities for that crossing by a low-speed vehicle.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 1. Obedience to and Effect of Traffic Laws [21000 - 21300]\n#### Article 5.5. Operation of Low-Speed Vehicles [21250 - 21266]\n##### § 21260\n\n(a) Except as provided in paragraph (1) of subdivision (b), or in an area where a neighborhood electric vehicle transportation plan has been adopted pursuant to Chapter 8 (commencing with Section 1965) of Division 2.5 of the Streets and Highways Code, the operator of a low-speed vehicle shall not operate the vehicle on any roadway with a speed limit in excess of 35 miles per hour.\n\n(b) (1) The operator of a low-speed vehicle may cross a roadway with a speed limit in excess of 35 miles per hour if the crossing begins and ends on a roadway with a speed limit of 35 miles per hour or less and occurs at an intersection of approximately 90 degrees.\n\n    (2) Notwithstanding paragraph (1), the operator of a low-speed vehicle shall not traverse an uncontrolled intersection with any state highway unless that intersection has been approved and authorized by the agency having primary traffic enforcement responsibilities for that crossing by a low-speed vehicle.\n\n*(Amended by Stats. 2018, Ch. 564, Sec. 6. (SB 1151) Effective January 1, 2019.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "Except as provided in paragraph (1) of subdivision (b), or in an area where a neighborhood electric vehicle transportation plan has been adopted pursuant to Chapter 8 (commencing with Section 1965) of Division 2.5 of the Streets and Highways Code, the operator of a low-speed vehicle shall not operate the vehicle on any roadway with a speed limit in excess of 35 miles per hour.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "(1) The operator of a low-speed vehicle may cross a roadway with a speed limit in excess of 35 miles per hour if the crossing begins and ends on a roadway with a speed limit of 35 miles per hour or less and occurs at an intersection of approximately 90 degrees.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "2",
+      "text": "Notwithstanding paragraph (1), the operator of a low-speed vehicle shall not traverse an uncontrolled intersection with any state highway unless that intersection has been approved and authorized by the agency having primary traffic enforcement responsibilities for that crossing by a low-speed vehicle.",
+      "depth_em": 1.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2018, Ch. 564, Sec. 6. (SB 1151) Effective January 1, 2019.)",
+    "action": "Amended",
+    "statutes_year": 2018,
+    "chapter": "564",
+    "section": "6",
+    "bill_number": "SB 1151",
+    "effective_date": "2019-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2018",
+  "op_chapter": "564",
+  "op_section": "6",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21260.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21260.html",
+  "content_sha256": "736e98747e3485d4d225ac0efa4750937040fe8efe3ec98786481e5b8c5f54f4",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

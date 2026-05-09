@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "612",
+  "division": "1",
+  "division_title": "WORDS AND PHRASES DEFINED",
+  "division_range": "100 - 681",
+  "chapter": null,
+  "chapter_title": null,
+  "chapter_range": null,
+  "article": null,
+  "article_title": null,
+  "article_range": null,
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "2",
+  "text": "(a) “Tour bus” means a bus, which is operated by or for a charter-party carrier of passengers, as defined in Section 5360 of the Public Utilities Code, or a passenger stage corporation, as defined in Section 226 of the Public Utilities Code.\n\n(b) “Tour bus” includes a bus described in subdivision (a) that has had its roof substantially structurally modified or removed.",
+  "markdown": "# Vehicle Code\n## Division 1. WORDS AND PHRASES DEFINED [100 - 681]\n##### § 612\n\n(a) “Tour bus” means a bus, which is operated by or for a charter-party carrier of passengers, as defined in Section 5360 of the Public Utilities Code, or a passenger stage corporation, as defined in Section 226 of the Public Utilities Code.\n\n(b) “Tour bus” includes a bus described in subdivision (a) that has had its roof substantially structurally modified or removed.\n\n*(Amended by Stats. 2017, Ch. 310, Sec. 1. (AB 25) Effective January 1, 2018.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "“Tour bus” means a bus, which is operated by or for a charter-party carrier of passengers, as defined in Section 5360 of the Public Utilities Code, or a passenger stage corporation, as defined in Section 226 of the Public Utilities Code.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "“Tour bus” includes a bus described in subdivision (a) that has had its roof substantially structurally modified or removed.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 2017, Ch. 310, Sec. 1. (AB 25) Effective January 1, 2018.)",
+    "action": "Amended",
+    "statutes_year": 2017,
+    "chapter": "310",
+    "section": "1",
+    "bill_number": "AB 25",
+    "effective_date": "2018-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2017",
+  "op_chapter": "310",
+  "op_section": "1",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=612.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/612.html",
+  "content_sha256": "cd4dbf627e31f62d48f70a3ee4545f0a13acbd2842d99cb9b3b583e5c2bd21f9",
+  "parsed_at": "2026-05-09T16:28:08+00:00",
+  "parser_version": "1"
+}

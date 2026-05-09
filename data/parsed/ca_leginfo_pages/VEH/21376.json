@@ -1,0 +1,47 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21376",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "2",
+  "chapter_title": "Traffic Signs, Signals, and Markings",
+  "chapter_range": "21350 - 21468",
+  "article": "1",
+  "article_title": "Erection and Maintenance",
+  "article_range": "21350 - 21376",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.2.1",
+  "text": "The Department of Transportation shall place and maintain on each major state highway entering the state within 500 feet after the state line, a sign that states that the abandonment or dumping of any animal is a crime punishable by a fine of up to one thousand dollars ($1,000) or confinement in a county jail of up to six months, or both.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 2. Traffic Signs, Signals, and Markings [21350 - 21468]\n#### Article 1. Erection and Maintenance [21350 - 21376]\n##### § 21376\n\nThe Department of Transportation shall place and maintain on each major state highway entering the state within 500 feet after the state line, a sign that states that the abandonment or dumping of any animal is a crime punishable by a fine of up to one thousand dollars ($1,000) or confinement in a county jail of up to six months, or both.\n\n*(Added by Stats. 2001, Ch. 300, Sec. 3. Effective January 1, 2002.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "The Department of Transportation shall place and maintain on each major state highway entering the state within 500 feet after the state line, a sign that states that the abandonment or dumping of any animal is a crime punishable by a fine of up to one thousand dollars ($1,000) or confinement in a county jail of up to six months, or both.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Added by Stats. 2001, Ch. 300, Sec. 3. Effective January 1, 2002.)",
+    "action": "Added",
+    "statutes_year": 2001,
+    "chapter": "300",
+    "section": "3",
+    "bill_number": null,
+    "effective_date": "2002-01-01",
+    "operative_date": null
+  },
+  "op_statues": "2001",
+  "op_chapter": "300",
+  "op_section": "3",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21376.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21376.html",
+  "content_sha256": "38d4501f0761ed68288829fae49dab6ed1b458278419b728afa45778ff5429c1",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

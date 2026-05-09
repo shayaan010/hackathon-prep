@@ -1,0 +1,52 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "21713",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "3",
+  "chapter_title": "Driving, Overtaking, and Passing",
+  "chapter_range": "21650 - 21761",
+  "article": "2",
+  "article_title": "Additional Driving Rules",
+  "article_range": "21700 - 21721",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.3.2",
+  "text": "No person shall operate on any highway any privately owned armored car unless a license to operate such car has first been obtained from the commissioner in accordance with Chapter 2.5 (commencing with Section 2500) of Division 2.\n\nViolation of this section is a misdemeanor and upon conviction is punishable by a fine not exceeding one thousand dollars ($1,000) or by imprisonment in the county jail for not to exceed six months or by both such fine and imprisonment.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 3. Driving, Overtaking, and Passing [21650 - 21761]\n#### Article 2. Additional Driving Rules [21700 - 21721]\n##### § 21713\n\nNo person shall operate on any highway any privately owned armored car unless a license to operate such car has first been obtained from the commissioner in accordance with Chapter 2.5 (commencing with Section 2500) of Division 2.\n\nViolation of this section is a misdemeanor and upon conviction is punishable by a fine not exceeding one thousand dollars ($1,000) or by imprisonment in the county jail for not to exceed six months or by both such fine and imprisonment.\n\n*(Amended by Stats. 1983, Ch. 1092, Sec. 392. Effective September 27, 1983. Operative January 1, 1984, by Sec. 427 of Ch. 1092.)*\n",
+  "subsections": [
+    {
+      "label": null,
+      "text": "No person shall operate on any highway any privately owned armored car unless a license to operate such car has first been obtained from the commissioner in accordance with Chapter 2.5 (commencing with Section 2500) of Division 2.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Violation of this section is a misdemeanor and upon conviction is punishable by a fine not exceeding one thousand dollars ($1,000) or by imprisonment in the county jail for not to exceed six months or by both such fine and imprisonment.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1983, Ch. 1092, Sec. 392. Effective September 27, 1983. Operative January 1, 1984, by Sec. 427 of Ch. 1092.)",
+    "action": "Amended",
+    "statutes_year": 1983,
+    "chapter": "1092",
+    "section": "392",
+    "bill_number": null,
+    "effective_date": "1983-09-27",
+    "operative_date": "1984-01-01"
+  },
+  "op_statues": "1983",
+  "op_chapter": "1092",
+  "op_section": "392",
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=21713.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/21713.html",
+  "content_sha256": "da8b872a0581cc83d60958feea0b286ac333235ab73b867bc1a4132a6c43e704",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}

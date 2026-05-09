@@ -1,0 +1,62 @@
+{
+  "jurisdiction": "CA",
+  "law_code": "VEH",
+  "code_name": "Vehicle Code",
+  "section_num": "22400",
+  "division": "11",
+  "division_title": "RULES OF THE ROAD",
+  "division_range": "21000 - 23336",
+  "chapter": "7",
+  "chapter_title": "Speed Laws",
+  "chapter_range": "22348 - 22445.6",
+  "article": "2",
+  "article_title": "Other Speed Laws",
+  "article_range": "22400 - 22413",
+  "part": null,
+  "part_title": null,
+  "title": null,
+  "title_title": null,
+  "node_tree_path": "15.7.2",
+  "text": "(a) No person shall drive upon a highway at such a slow speed as to impede or block the normal and reasonable movement of traffic unless the reduced speed is necessary for safe operation, because of a grade, or in compliance with law.\n\nNo person shall bring a vehicle to a complete stop upon a highway so as to impede or block the normal and reasonable movement of traffic unless the stop is necessary for safe operation or in compliance with law.\n\n(b) Whenever the Department of Transportation determines on the basis of an engineering and traffic survey that slow speeds on any part of a state highway consistently impede the normal and reasonable movement of traffic, the department may determine and declare a minimum speed limit below which no person shall drive a vehicle, except when necessary for safe operation or in compliance with law, when appropriate signs giving notice thereof are erected along the part of the highway for which a minimum speed limit is established.\n\nSubdivision (b) of this section shall apply only to vehicles subject to registration.",
+  "markdown": "# Vehicle Code\n## Division 11. RULES OF THE ROAD [21000 - 23336]\n### Chapter 7. Speed Laws [22348 - 22445.6]\n#### Article 2. Other Speed Laws [22400 - 22413]\n##### § 22400\n\n(a) No person shall drive upon a highway at such a slow speed as to impede or block the normal and reasonable movement of traffic unless the reduced speed is necessary for safe operation, because of a grade, or in compliance with law.\n\nNo person shall bring a vehicle to a complete stop upon a highway so as to impede or block the normal and reasonable movement of traffic unless the stop is necessary for safe operation or in compliance with law.\n\n(b) Whenever the Department of Transportation determines on the basis of an engineering and traffic survey that slow speeds on any part of a state highway consistently impede the normal and reasonable movement of traffic, the department may determine and declare a minimum speed limit below which no person shall drive a vehicle, except when necessary for safe operation or in compliance with law, when appropriate signs giving notice thereof are erected along the part of the highway for which a minimum speed limit is established.\n\nSubdivision (b) of this section shall apply only to vehicles subject to registration.\n\n*(Amended by Stats. 1979, Ch. 364.)*\n",
+  "subsections": [
+    {
+      "label": "a",
+      "text": "No person shall drive upon a highway at such a slow speed as to impede or block the normal and reasonable movement of traffic unless the reduced speed is necessary for safe operation, because of a grade, or in compliance with law.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "No person shall bring a vehicle to a complete stop upon a highway so as to impede or block the normal and reasonable movement of traffic unless the stop is necessary for safe operation or in compliance with law.",
+      "depth_em": 0.0
+    },
+    {
+      "label": "b",
+      "text": "Whenever the Department of Transportation determines on the basis of an engineering and traffic survey that slow speeds on any part of a state highway consistently impede the normal and reasonable movement of traffic, the department may determine and declare a minimum speed limit below which no person shall drive a vehicle, except when necessary for safe operation or in compliance with law, when appropriate signs giving notice thereof are erected along the part of the highway for which a minimum speed limit is established.",
+      "depth_em": 0.0
+    },
+    {
+      "label": null,
+      "text": "Subdivision (b) of this section shall apply only to vehicles subject to registration.",
+      "depth_em": 0.0
+    }
+  ],
+  "history": {
+    "raw": "(Amended by Stats. 1979, Ch. 364.)",
+    "action": "Amended",
+    "statutes_year": 1979,
+    "chapter": "364",
+    "section": null,
+    "bill_number": null,
+    "effective_date": null,
+    "operative_date": null
+  },
+  "op_statues": "1979",
+  "op_chapter": "364",
+  "op_section": null,
+  "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=22400.&lawCode=VEH",
+  "source_path": "data/raw/ca_leginfo_pages/VEH/22400.html",
+  "content_sha256": "a044d12df8d80b54706fd9e780839da0bddfd45faff0c85652c7ce4d67f552e6",
+  "parsed_at": "2026-05-09T16:28:09+00:00",
+  "parser_version": "1"
+}
