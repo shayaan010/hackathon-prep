@@ -4,7 +4,9 @@ the Python pipeline (store + search + extract).
 
 Routes:
   GET  /api/stats           - document/chunk/extraction counts
-  GET  /api/statutes        - real corpus from SQLite (falls back to seed)
+  GET  /api/statutes        - search-backed, capped at 50. Reads the
+                              curated multi-state Postgres (port 5433).
+                              Query params: q, jurisdiction (CSV), limit.
   POST /api/search          - hybrid (semantic + keyword) search,
                               with a section-number short-circuit
   POST /api/chat            - Claude-backed chat reply. Delegates to
@@ -23,8 +25,9 @@ from __future__ import annotations
 import json
 import os
 import re
+from contextlib import contextmanager
 from pathlib import Path
-from typing import Optional
+from typing import Any, Optional
 
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, UploadFile, File, Form
@@ -38,6 +41,11 @@ from search.semantic import SemanticIndex
 load_dotenv()
 
 DB_PATH = os.environ.get("HACKATHON_DB", "hackathon.db")
+STATUTES_DSN = (
+    os.environ.get("POSTGRES_DSN")
+    or os.environ.get("DATABASE_URL")
+    or "postgresql://postgres:postgres@localhost:5433/new_api"
+)
 
 app = FastAPI(title="Lex Harvester API", version="0.1.0")
 
@@ -138,6 +146,10 @@ class ChatRequest(BaseModel):
 
 class ChatResponse(BaseModel):
     text: str
+    # Statutes the model actually pulled this turn via search_statutes /
+    # get_statute. Empty when no statute tool ran. The FE renders these as
+    # cards under the assistant reply.
+    statutes: list[Statute] = Field(default_factory=list)
 
 
 class UploadResponse(BaseModel):
@@ -148,6 +160,17 @@ class UploadResponse(BaseModel):
     ingested: bool = False
     doc_id: Optional[int] = None
     chunks: int = 0
+
+
+class StatuteList(BaseModel):
+    """Response shape for /api/statutes — list + total match count.
+
+    `items` is capped server-side (currently 50). `total` is the number of
+    rows that match the query across the whole table, so the FE can show
+    "50 of 1,234".
+    """
+    items: list[Statute]
+    total: int
 
 
 class Comparable(BaseModel):
@@ -381,6 +404,172 @@ def _load_statutes_from_db() -> list[dict]:
     return out
 
 
+# ---------- Postgres-backed statute search (curated multi-state corpus) ----------
+
+
+@contextmanager
+def _statutes_pg_conn():
+    """Open a short-lived connection to the curated statutes Postgres (5433)."""
+    import psycopg
+    from psycopg.rows import dict_row
+
+    conn = psycopg.connect(STATUTES_DSN, row_factory=dict_row)
+    try:
+        yield conn
+    finally:
+        conn.close()
+
+
+_PG_PUBLISHER_BY_JURISDICTION = {
+    "CA": "California Legislative Information",
+    "NY": "New York State Senate",
+    "TX": "Texas Legislature Online",
+    "CO": "Colorado General Assembly",
+    "FL": "The Florida Senate",
+    "NV": "Nevada Legislature",
+    "OR": "Oregon State Legislature",
+}
+
+
+def _pg_row_to_statute(row: dict) -> dict:
+    """Map a row from the Postgres `statutes` table into the FE Statute shape."""
+    citation = (row.get("canonical_citation") or "").strip()
+    title = (row.get("title") or "").strip() or citation or "(untitled)"
+    full = (row.get("complete_statute") or "").strip()
+
+    summary = (row.get("plain_english_summary") or "").strip()
+    if not summary:
+        summary = full[:240]
+        if len(full) > 240:
+            summary += "…"
+
+    jurisdiction_code = (row.get("jurisdiction_code") or "").strip()
+    publisher = (
+        (row.get("source_name") or "").strip()
+        or _PG_PUBLISHER_BY_JURISDICTION.get(jurisdiction_code)
+        or "Legislature"
+    )
+
+    updated_at = row.get("updated_at")
+    last_verified = str(updated_at).split(" ")[0] if updated_at else ""
+
+    return {
+        "id": str(row.get("id")),
+        "jurisdiction": jurisdiction_code,
+        "jurisdictionLabel": (row.get("jurisdiction_name") or jurisdiction_code).strip(),
+        "code": (row.get("code_name") or "").strip(),
+        "section": (row.get("section_number") or "").strip(),
+        "title": title,
+        "summary": summary,
+        "text": full,
+        # Populated by new_api/scripts/tag_statute_factors.py. Empty list when
+        # the row hasn't been tagged yet.
+        "factors": list(row.get("factors") or []),
+        "related": [],
+        "cases": [],
+        "source": {
+            "publisher": publisher,
+            "url": (row.get("source_url") or "").strip(),
+        },
+        "lastVerified": last_verified,
+    }
+
+
+_PG_HARD_LIMIT = 50
+
+
+def _search_statutes_pg(
+    q: Optional[str],
+    jurisdiction_csv: Optional[str],
+    factors_csv: Optional[str],
+    limit: int,
+) -> tuple[list[dict], int]:
+    """Multi-keyword ILIKE search, capped at 50 rows. Empty `q` → top-N default.
+
+    Filters (all optional, AND-combined with each other; any-of within each):
+      - q              free-text tokens AND-ed across title / citation / text
+      - jurisdiction   CSV of 2-letter codes (CA,NY,...)
+      - factors        CSV of contributing-factor strings; matches via
+                       Postgres array overlap (``factors && %s::text[]``)
+
+    Returns (items, total) where `total` is the count of statutes matching
+    the WHERE clause across the full table — i.e. the number you'd get
+    without the LIMIT. Computed via `COUNT(*) OVER ()` so it costs one extra
+    aggregate over the same rows scanned, no second round-trip.
+    """
+    limit = max(1, min(int(limit or _PG_HARD_LIMIT), _PG_HARD_LIMIT))
+
+    where_parts: list[str] = []
+    params: list[Any] = []
+
+    tokens = [t for t in re.split(r"\s+", (q or "").strip()) if t]
+    for tok in tokens:
+        like = f"%{tok}%"
+        where_parts.append(
+            "(title ILIKE %s OR canonical_citation ILIKE %s OR complete_statute ILIKE %s)"
+        )
+        params.extend([like, like, like])
+
+    juris_codes = [
+        j.strip().upper()
+        for j in (jurisdiction_csv or "").split(",")
+        if j.strip()
+    ]
+    if juris_codes:
+        placeholders = ",".join(["%s"] * len(juris_codes))
+        where_parts.append(f"jurisdiction_code IN ({placeholders})")
+        params.extend(juris_codes)
+
+    factor_list = [
+        f.strip()
+        for f in (factors_csv or "").split(",")
+        if f.strip()
+    ]
+    if factor_list:
+        where_parts.append("factors && %s::text[]")
+        params.append(factor_list)
+
+    where_sql = (" AND ".join(where_parts)) if where_parts else "TRUE"
+    params.append(limit)
+
+    sql = f"""
+        SELECT
+            id,
+            jurisdiction_code,
+            jurisdiction_name,
+            code_name,
+            section_number,
+            canonical_citation,
+            title,
+            complete_statute,
+            plain_english_summary,
+            source_url,
+            source_name,
+            factors,
+            updated_at,
+            COUNT(*) OVER () AS total_count
+        FROM statutes
+        WHERE {where_sql}
+        ORDER BY jurisdiction_code, section_number
+        LIMIT %s
+    """
+
+    with _statutes_pg_conn() as c:
+        rows = c.execute(sql, params).fetchall()
+
+    if not rows:
+        # No matches → run a quick COUNT-only query so the FE can confirm "0 of 0"
+        # without showing stale total from a prior search. Cheap on this index.
+        count_sql = f"SELECT COUNT(*) AS n FROM statutes WHERE {where_sql}"
+        with _statutes_pg_conn() as c:
+            total = int(c.execute(count_sql, params[:-1]).fetchone()["n"])
+        return [], total
+
+    total = int(rows[0]["total_count"])
+    items = [_pg_row_to_statute(dict(r)) for r in rows]
+    return items, total
+
+
 # ---------- Routes ----------
 
 
@@ -394,10 +583,34 @@ def stats():
     return get_db().stats()
 
 
-@app.get("/api/statutes", response_model=list[Statute])
-def list_statutes():
-    real = _load_statutes_from_db()
-    return real if real else _load_seed_statutes()
+@app.get("/api/statutes", response_model=StatuteList)
+def list_statutes(
+    q: Optional[str] = None,
+    jurisdiction: Optional[str] = None,
+    factors: Optional[str] = None,
+    limit: int = 50,
+):
+    """Search the curated multi-state statute Postgres. Capped at 50 rows.
+
+    Query params:
+      q             - whitespace-separated keywords (AND-ed). Empty = top-N default.
+      jurisdiction  - CSV of 2-letter codes (CA,NY,TX,CO,FL,NV,OR).
+      factors       - CSV of contributing-factor strings (any-of via array overlap).
+      limit         - max rows, hard-capped at 50.
+
+    Returns ``{items: Statute[], total: int}`` so the FE can render
+    "50 of 1,234". Falls back to the SQLite list (then seed JSON) only if
+    Postgres is unreachable, so the UI keeps working when the curated DB
+    is down.
+    """
+    try:
+        items, total = _search_statutes_pg(q, jurisdiction, factors, limit)
+        return {"items": items, "total": total}
+    except Exception:
+        # Don't take the UI down when the curated DB isn't running.
+        real = _load_statutes_from_db()
+        fallback = real if real else _load_seed_statutes()
+        return {"items": fallback, "total": len(fallback)}
 
 
 @app.get("/api/comparables", response_model=list[Comparable])
@@ -577,7 +790,7 @@ def chat(req: ChatRequest):
         )
 
     wrapper = get_chat_wrapper()
-    text = wrapper.reply(
+    result = wrapper.reply(
         message=req.message,
         history=[{"role": m.role, "text": m.text} for m in req.history],
         attached_files=[
@@ -586,7 +799,7 @@ def chat(req: ChatRequest):
         matter_name=req.matter_name,
         matter_caption=req.matter_caption,
     )
-    return ChatResponse(text=text)
+    return ChatResponse(text=result["text"], statutes=result.get("statutes") or [])
 
 
 # ---------- File upload ----------

@@ -1,0 +1,338 @@
+{
+  "id": "CACI-4420",
+  "edition": "2026",
+  "number": "4420",
+  "title": "Affirmative Defense—Information Was Readily Ascertainable by Proper Means",
+  "title_full": "Affirmative Defense—Information Was Readily Ascertainable by Proper Means",
+  "title_statute": null,
+  "series": "4400",
+  "series_title": "Series 4400 Trade Secrets",
+  "page_start": 3152,
+  "page_end": 3154,
+  "instruction_text": "4420. Affirmative Defense–Information Was Readily Ascertainable\nby Proper Means\n[Name of defendant ] did not misappropriate [ name of plaintiff ]'s trade\nsecret[s] if [ name of defendant ] proves that the [ select short term to\ndescribe, e.g., information ] [was/were] readily ascertainable by proper\nmeans at the time of the alleged [acquisition/use/ [or] disclosure].\nThere is no ﬁxed standard for determining what is \"readily ascertainable\nby proper means.\" In general, information is readily ascertainable if it\ncan be obtained, discovered, developed, or compiled without signiﬁcant\ndifficulty, effort, or expense. For example, information is readily\nascertainable if it is available in trade journals, reference books, or\npublished materials. On the other hand, the more difficult information is\nto obtain, and the more time and resources that must be expended in\ngathering it, the less likely it is that the information is readily\nascertainable by proper means.",
+  "directions_for_use": "Give also CACI No. 4408, Improper Means of Acquiring Trade Secret .\nOne case has suggested in a footnote that in order for the defense to apply, the\ndefendant must have actually obtained plaintiff's secrets through readily\nascertainable means rather than improperly. (See ABBA Rubber Co. v. Seaquist\n(1991) 235 Cal. App.3d 1, 21–22, fn. 9 [286 Cal. Rptr. 518].) Such a requirement\nwould not constitute an affirmative defense but rather would be a denial of the\nimproper-means element of the plaintiff's claim. (See 5 Witkin, California Procedure\n(4th ed. 1996) Pleadings, §1081 [affirmative defense admits the truth of the\nessential allegations of the complaint].) Because the advisory committee believes\nthat this is an affirmative defense, no such requirement has been included in this\ninstruction. (See San Jose Construction, Inc. v. S.B.C.C., Inc. (2007) 155\nCal. App.4th 1528, 1542–1543 [67 Cal. Rptr.3d 54] [triable issue of fact as to\nwhether information was readily ascertainable, that is, whether defendant could have\nreplicated it within short period of time].)",
+  "sources_and_authority": [
+    {
+      "raw": "\"Trade Secret\" Deﬁned. Civil Code section 3426.1(d)(1).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1",
+          "raw": "Civil Code section 3426.1(d)(1)",
+          "span": [
+            23,
+            54
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1(d)",
+          "raw": "Civil Code section 3426.1(d)(1)",
+          "span": [
+            23,
+            54
+          ],
+          "subsection": "d"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1(1)",
+          "raw": "Civil Code section 3426.1(d)(1)",
+          "span": [
+            23,
+            54
+          ],
+          "subsection": "1"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The Legislative Committee Comment [to Civ. Code, §3426.1] further explains\nthe original draft deﬁned a trade secret in part as 'not being readily ascertainable\nby proper means' and that 'the assertion that a matter is readily ascertainable by\nproper means remains available as a defense to a claim of misappropriation.\nInformation is readily ascertainable if it is available in trade journals, reference\n1266\nbooks, or published materials.' \" ( DVD Copy Control Assn., Inc. v. Bunner\n(2003) 31 Cal. 4th 864, 899], conc. opn. of Werdegar, J.; see Legis. Comm.\nComment (Senate), 1984 Addition.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1",
+          "raw": "Civ. Code, §3426.1",
+          "span": [
+            39,
+            57
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "DVD Copy Control Assn., Inc. v. Bunner",
+          "year": 2003,
+          "volume": 31,
+          "reporter": "Cal.4th",
+          "page": 864,
+          "pin": "899",
+          "raw": "DVD Copy Control Assn., Inc. v. Bunner (2003) 31 Cal. 4th 864, 899",
+          "span": [
+            446,
+            512
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The focus of the ﬁrst part of the statutory deﬁnition is on whether the\ninformation is generally known to or readily ascertainable by business\ncompetitors or others to whom the information would have some economic\nvalue. Information that is readily ascertainable by a business competitor derives\nno independent value from not being generally known.\" ( Syngenta Crop\nProtection, Inc. v. Helliker (2006) 138 Cal. App.4th 1135, 1172 [42 Cal. Rptr.3d\n191], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Syngenta Crop Protection, Inc. v. Helliker",
+          "year": 2006,
+          "volume": 138,
+          "reporter": "Cal.App.4th",
+          "page": 1135,
+          "pin": "1172",
+          "raw": "Syngenta Crop Protection, Inc. v. Helliker (2006) 138 Cal. App.4th 1135, 1172",
+          "span": [
+            353,
+            430
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"With respect to the general availability of customer information, courts are\nreluctant to protect customer lists to the extent they embody information which\nis 'readily ascertainable' through public sources, such as business directories. On\nthe other hand, where the employer has expended time and effort identifying\ncustomers with particular needs or characteristics, courts will prohibit former\nemployees from using this information to capture a share of the market. Such\nlists are to be distinguished from mere identities and locations of customers\nwhere anyone could easily identify the entities as potential customers. As a\ngeneral principle, the more difficult information is to obtain, and the more time\nand resources expended by an employer in gathering it, the more likely a court\nwill ﬁnd such information constitutes a trade secret.\" ( Morlife, Inc. v. Perry\n(1997) 56 Cal. App.4th 1514, 1521–1522 [66 Cal. Rptr.2d 731], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Morlife, Inc. v. Perry",
+          "year": 1997,
+          "volume": 56,
+          "reporter": "Cal.App.4th",
+          "page": 1514,
+          "pin": "1521–1522",
+          "raw": "Morlife, Inc. v. Perry (1997) 56 Cal. App.4th 1514, 1521–1522",
+          "span": [
+            848,
+            909
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[Defendant] argues that even if reverse engineering . . . did not actually occur,\nthe binder contents were not trade secrets because they could have been reverse\nengineered–that is, they were readily ascertainable. . . . Considering the length\nof time that each proposal took to create and ﬁnalize and the urgency with which\nfour of the project owners impressed upon the prospective contractors to begin\nthe work, we cannot overlook the possibility that the information was not readily\nascertainable in the circumstances presented. . . . Thus, a triable issue of fact\nexists as to whether the entire proposal for each project was indeed readily\nascertainable–that is, whether [defendant] could have replicated each offer\nwithin the short period it claimed to have needed.\" ( San Jose Construction, Inc.,\nsupra, 155 Cal. App.4th at pp. 1542–1543, footnote omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"While ease of ascertainability is irrelevant to the deﬁnition of a trade secret,\n'the assertion that a matter is readily ascertainable by proper means remains\navailable as a defense to a claim of misappropriation.' Therefore, if the\ndefendants can convince the ﬁnder of fact at trial (1) that 'it is a virtual certainty\nthat anyone who manufactures' certain types of products uses rubber rollers, (2)\nthat the manufacturers of those products are easily identiﬁable, and (3) that the\ndefendants' knowledge of the plaintiff's customers resulted from that\nidentiﬁcation process and not from the plaintiff's records, then the defendants\nmay establish a defense to the misappropriation claim. That defense, however,\nwill be based upon an absence of misappropriation, rather than the absence of a\nTRADE SECRETS CACI No. 4420\n1267\ntrade secret.\" ( ABBA Rubber Co., supra, 235 Cal. App.3d at pp. 21–22, fn. 9,\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he evidence established that [plaintiff]'s customer list and related information\nwas the product of a substantial amount of time, expense and effort on the part\nof [plaintiff]. Moreover, the nature and character of the subject customer\ninformation, i.e., billing rates, key contacts, specialized requirements and markup\nrates, is sophisticated information and irrefutably of commercial value and not\nreadily ascertainable to other competitors. Thus, [plaintiff's] customer list and\nrelated proprietary information satisfy the ﬁrst prong of the deﬁnition of 'trade\nsecret' under section 3426.1.\" ( Courtesy Temporary Serv., Inc. v. Camacho\n(1990) 222 Cal. App.3d 1278, 1288 [272 Cal. Rptr. 352].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Courtesy Temporary Serv., Inc. v. Camacho",
+          "year": 1990,
+          "volume": 222,
+          "reporter": "Cal.App.3d",
+          "page": 1278,
+          "pin": "1288",
+          "raw": "Courtesy Temporary Serv., Inc. v. Camacho (1990) 222 Cal. App.3d 1278, 1288",
+          "span": [
+            601,
+            676
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In viewing the evidence presented in the light most favorable to the prevailing\nparty, it is difficult to ﬁnd a protectable trade secret as that term exists under\nCivil Code section 3426.1, subdivision (d). While the information sought to be\nprotected here, that is lists of customers who operate manufacturing concerns\nand who need shipping supplies to ship their products to market, may not be\ngenerally known to the public, they certainly would be known or readily\nascertainable to other persons in the shipping business. The compilation process\nin this case is neither sophisticated nor difficult nor particularly time consuming.\nThe evidence presented shows that the shipping business is very competitive and\nthat manufacturers will often deal with more than one company at a time. There\nis no evidence that all of appellant's competition comes from respondents' new\nemployer. Obviously, all the competitors have secured the same information that\nappellant claims and, in all likelihood, did so in the same manner as\nappellant–a process described herein by respondents.\" ( American Paper &\nPackaging Prods., Inc. v. Kirgan (1986) 183 Cal. App.3d 1318, 1326 [228\nCal. Rptr. 713].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1",
+          "raw": "Civil Code section 3426.1",
+          "span": [
+            164,
+            189
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Packaging Prods., Inc. v. Kirgan",
+          "year": 1986,
+          "volume": 183,
+          "reporter": "Cal.App.3d",
+          "page": 1318,
+          "pin": "1326",
+          "raw": "Packaging Prods., Inc. v. Kirgan (1986) 183 Cal. App.3d 1318, 1326",
+          "span": [
+            1096,
+            1162
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Milgrim on Trade Secrets, Ch. 1, Deﬁnitional Aspects , §1.07[1] (Matthew\nBender)\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§§40.51, 40.52 (Matthew Bender)\n49 California Forms of Pleading and Practice, Ch. 565, Unfair Competition ,\n§565.103[4][a] (Matthew Bender)\nCACI No. 4420 TRADE SECRETS\n1268",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1",
+      "raw": "Civil Code section 3426.1(d)(1)",
+      "span": [
+        23,
+        54
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1(d)",
+      "raw": "Civil Code section 3426.1(d)(1)",
+      "span": [
+        23,
+        54
+      ],
+      "subsection": "d",
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1/d"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1(1)",
+      "raw": "Civil Code section 3426.1(d)(1)",
+      "span": [
+        23,
+        54
+      ],
+      "subsection": "1",
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1/1"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "DVD Copy Control Assn., Inc. v. Bunner",
+      "year": 2003,
+      "volume": 31,
+      "reporter": "Cal.4th",
+      "page": 864,
+      "pin": "899",
+      "raw": "DVD Copy Control Assn., Inc. v. Bunner (2003) 31 Cal. 4th 864, 899",
+      "span": [
+        446,
+        512
+      ],
+      "role": "sources",
+      "case_key": "31 Cal.4th 864"
+    },
+    {
+      "name": "Syngenta Crop Protection, Inc. v. Helliker",
+      "year": 2006,
+      "volume": 138,
+      "reporter": "Cal.App.4th",
+      "page": 1135,
+      "pin": "1172",
+      "raw": "Syngenta Crop Protection, Inc. v. Helliker (2006) 138 Cal. App.4th 1135, 1172",
+      "span": [
+        353,
+        430
+      ],
+      "role": "sources",
+      "case_key": "138 Cal.App.4th 1135"
+    },
+    {
+      "name": "Morlife, Inc. v. Perry",
+      "year": 1997,
+      "volume": 56,
+      "reporter": "Cal.App.4th",
+      "page": 1514,
+      "pin": "1521–1522",
+      "raw": "Morlife, Inc. v. Perry (1997) 56 Cal. App.4th 1514, 1521–1522",
+      "span": [
+        848,
+        909
+      ],
+      "role": "sources",
+      "case_key": "56 Cal.App.4th 1514"
+    },
+    {
+      "name": "Courtesy Temporary Serv., Inc. v. Camacho",
+      "year": 1990,
+      "volume": 222,
+      "reporter": "Cal.App.3d",
+      "page": 1278,
+      "pin": "1288",
+      "raw": "Courtesy Temporary Serv., Inc. v. Camacho (1990) 222 Cal. App.3d 1278, 1288",
+      "span": [
+        601,
+        676
+      ],
+      "role": "sources",
+      "case_key": "222 Cal.App.3d 1278"
+    },
+    {
+      "name": "Packaging Prods., Inc. v. Kirgan",
+      "year": 1986,
+      "volume": 183,
+      "reporter": "Cal.App.3d",
+      "page": 1318,
+      "pin": "1326",
+      "raw": "Packaging Prods., Inc. v. Kirgan (1986) 183 Cal. App.3d 1318, 1326",
+      "span": [
+        1096,
+        1162
+      ],
+      "role": "sources",
+      "case_key": "183 Cal.App.3d 1318"
+    },
+    {
+      "name": "See ABBA Rubber Co. v. Seaquist",
+      "year": 1991,
+      "volume": 235,
+      "reporter": "Cal.App.3d",
+      "page": 1,
+      "pin": "21–22",
+      "raw": "See ABBA Rubber Co. v. Seaquist (1991) 235 Cal. App.3d 1, 21–22",
+      "span": [
+        268,
+        331
+      ],
+      "role": "directions",
+      "case_key": "235 Cal.App.3d 1"
+    },
+    {
+      "name": "See San Jose Construction, Inc. v. S.B.C.C., Inc.",
+      "year": 2007,
+      "volume": 155,
+      "reporter": "Cal.App.4th",
+      "page": 1528,
+      "pin": "1542–1543",
+      "raw": "See San Jose Construction, Inc. v. S.B.C.C., Inc. (2007) 155 Cal. App.4th 1528, 1542–1543",
+      "span": [
+        802,
+        891
+      ],
+      "role": "directions",
+      "case_key": "155 Cal.App.4th 1528"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

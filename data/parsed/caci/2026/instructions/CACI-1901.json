@@ -1,0 +1,284 @@
+{
+  "id": "CACI-1901",
+  "edition": "2026",
+  "number": "1901",
+  "title": "Concealment",
+  "title_full": "Concealment",
+  "title_statute": null,
+  "series": "1900",
+  "series_title": "Series 1900 Fraud Or Deceit",
+  "page_start": 1263,
+  "page_end": 1266,
+  "instruction_text": "1901. Concealment\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun] was harmed\nbecause [ name of defendant ] concealed certain information. To establish\nthis claim, [ name of plaintiff ] must prove all of the following:\n[1. (a) That [ name of defendant ] and [ name of plaintiff ] were [ insert\ntype of ﬁduciary relationship, e.g., \"business partners\" ]; and\n[1. (b) That [ name of defendant ] intentionally failed to disclose certain\nfacts to [ name of plaintiff ];]\n[1. [or]\n[1. That [ name of defendant ] disclosed some facts to [ name of plaintiff ]\nbut intentionally failed to disclose [other/another] fact[s], making\nthe disclosure deceptive;]\n[1. [or]\n[1. That [ name of defendant ] intentionally failed to disclose certain\nfacts that were known only to [him/her/ nonbinary pronoun /it] and\nthat [ name of plaintiff ] could not have discovered;]\n[1. [or]\n[1. That [ name of defendant ] prevented [ name of plaintiff ] from\ndiscovering certain facts;]\n2. That [ name of plaintiff ] did not know of the concealed fact[s];\n3. That [ name of defendant ] intended to deceive [ name of plaintiff ] by\nconcealing the fact[s];\n4. That had the omitted information been disclosed, [ name of\nplaintiff] reasonably would have behaved differently;\n5. That [ name of plaintiff ] was harmed; and\n6. That [ name of defendant ]'s concealment was a substantial factor in\ncausing [ name of plaintiff ]'s harm.\n\n2015",
+  "directions_for_use": "Give this instruction if it is alleged that the defendant concealed certain information\nto the detriment of the plaintiff. (See Civ. Code, §1710(3).) Element 2 may be\ndeleted if the third option for element 1 is selected.\nRegarding element 1, before there can be liability for concealment, there must\n1189\nusually be a duty to disclose arising from a ﬁduciary or conﬁdential relationship\nbetween the parties. However, in transactions that do not involve ﬁduciary or\nconﬁdential relations, a duty to disclose material facts may arise in at least three\ninstances: (1) the defendant makes representations but does not disclose facts that\nmaterially qualify the facts disclosed, or that render his disclosure likely to mislead\n(option 2); (2) the facts are known or accessible only to defendant, and defendant\nknows they are not known to or reasonably discoverable by the plaintiff (option 3);\n(3) the defendant actively conceals discovery from the plaintiff (option 4). (See\nWarner Constr . Corp. v. L.A. (1970) 2 Cal. 3d 285, 294 [85 Cal. Rptr. 444, 466 P.2d\n996].) For the second, third, and fourth options, if the defendant asserts that there\nwas no relationship based on a transaction giving rise to a duty to disclose, the jury\nshould also be instructed to determine whether the requisite relationship existed.\n(See Hoffman v. 162 North Wolfe LLC (2014) 228 Cal. App.4th 1178, 1187 [175\nCal. Rptr.3d 820].)\nIf element 4 is contested, give CACI No. 1907, Reliance, and CACI No. 1908,\nReasonable Reliance . To avoid any possible confusion created by using \"rely on the\nconcealment\" (see Mirkin v. Wasserman (1993) 5 Cal. 4th 1082, 1093 [23\nCal. Rptr.2d 101, 858 P.2d 568]), CACI Nos. 1907 and 1908 may be modiﬁed to\nreplace the words \"rely,\" \"relied,\" and \"reliance\" with language based on \"behave\ndifferently\" from element 4. It must have been reasonable for the plaintiff to have\nbehaved differently had the omitted information been disclosed. (See Hoffman,\nsupra, 228 Cal. App.4th at p. 1194 [concealment case].)",
+  "sources_and_authority": [
+    {
+      "raw": "Concealment. Civil Code section 1710(3).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1710",
+          "display": "Civil Code section 1710",
+          "raw": "Civil Code section 1710(3)",
+          "span": [
+            13,
+            39
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1710",
+          "display": "Civil Code section 1710(3)",
+          "raw": "Civil Code section 1710(3)",
+          "span": [
+            13,
+            39
+          ],
+          "subsection": "3"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The required elements for fraudulent concealment are (1) concealment or\nsuppression of a material fact; (2) by a defendant with a duty to disclose the\nfact; (3) the defendant intended to defraud the plaintiff by intentionally\nconcealing or suppressing the fact; (4) the plaintiff was unaware of the fact and\nwould have acted differently if the concealed or suppressed fact was known; and\n(5) the plaintiff sustained damage as a result of the concealment or suppression\nof the material fact.\" ( Rattagan v. Uber Technologies, Inc. (2024) 17 Cal. 5th 1,\n40 [324 Cal. Rptr.3d 433, 553 P.3d 1213].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Rattagan v. Uber Technologies, Inc.",
+          "year": 2024,
+          "volume": 17,
+          "reporter": "Cal.5th",
+          "page": 1,
+          "pin": "40",
+          "raw": "Rattagan v. Uber Technologies, Inc. (2024) 17 Cal. 5th 1, 40",
+          "span": [
+            495,
+            555
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A duty to speak may arise in four ways: it may be directly imposed by statute\nor other prescriptive law; it may be voluntarily assumed by contractual\nundertaking; it may arise as an incident of a relationship between the defendant\nand the plaintiff; and it may arise as a result of other conduct by the defendant\nthat makes it wrongful for him to remain silent.\" ( SCC Acquisitions, Inc. v.\nCentral Paciﬁc Bank (2012) 207 Cal. App.4th 859, 860 [143 Cal. Rptr.3d 711].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "SCC Acquisitions, Inc. v. Central Paciﬁc Bank",
+          "year": 2012,
+          "volume": 207,
+          "reporter": "Cal.App.4th",
+          "page": 859,
+          "pin": "860",
+          "raw": "SCC Acquisitions, Inc. v. Central Paciﬁc Bank (2012) 207 Cal. App.4th 859, 860",
+          "span": [
+            366,
+            444
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In transactions which do not involve ﬁduciary or conﬁdential relations, a cause\nof action for non-disclosure of material facts may arise in at least three\ninstances: (1) the defendant makes representations but does not disclose facts\nwhich materially qualify the facts disclosed, or which render his disclosure likely\nto mislead; (2) the facts are known or accessible only to defendant, and\nCACI No. 1901 FRAUD OR DECEIT\n1190\ndefendant knows they are not known to or reasonably discoverable by the\nplaintiff; (3) the defendant actively conceals discovery from the plaintiff.\"\n(Warner Construction Corp., supra , 2 Cal. 3d at p. 294, footnotes omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[O]ther than the ﬁrst instance, in which there must be a ﬁduciary relationship\nbetween the parties, 'the other three circumstances in which nondisclosure may\nbe actionable: presuppose[] the existence of some other relationship between the\nplaintiff and defendant in which a duty to disclose can arise. . . . \"[W]here\nmaterial facts are known to one party and not to the other, failure to disclose\nthem is not actionable fraud unless there is some relationship between the parties\nwhich gives rise to a duty to disclose such known facts.\" [Citation.]' A\nrelationship between the parties is present if there is 'some sort of transaction\nbetween the parties. [Citations.] Thus, a duty to disclose may arise from the\nrelationship between seller and buyer, employer and prospective employee,\ndoctor and patient, or parties entering into any kind of contractual agreement.' \"\n(Hoffman, supra, 228 Cal. App.4th at p. 1187, original italics, internal citations\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[A] plaintiff may assert a cause of action for fraudulent concealment based on\nconduct occurring in the course of a contractual relationship, if the elements of\nthe claim can be established independently of the parties' contractual rights and\nobligations and the tortious conduct exposes the plaintiff to a risk of harm\nbeyond the reasonable contemplation of the parties when they entered into the\ncontract.\" ( Rattagan, supra, 17 Cal. 5th at p. 45.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Even if a ﬁduciary relationship is not involved, a non-disclosure claim arises\nwhen the defendant makes representations but fails to disclose additional facts\nwhich materially qualify the facts disclosed, or which render the disclosure likely\nto mislead.\" ( Roddenberry v. Roddenberry (1996) 44 Cal. App.4th 634, 666 [51\nCal. Rptr.2d 907], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Roddenberry v. Roddenberry",
+          "year": 1996,
+          "volume": 44,
+          "reporter": "Cal.App.4th",
+          "page": 634,
+          "pin": "666",
+          "raw": "Roddenberry v. Roddenberry (1996) 44 Cal. App.4th 634, 666",
+          "span": [
+            259,
+            317
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" '[T]he rule has long been settled in this state that although one may be under\nno duty to speak as to a matter, \"if he undertakes to do so, either voluntarily or\nin response to inquiries, he is bound not only to state truly what he tells but also\nnot to suppress or conceal any facts within his knowledge which materially\nqualify those stated. If he speaks at all he must make a full and fair\ndisclosure.\" ' \" ( Marketing West, Inc. v. Sanyo Fisher (USA) Corp. (1992) 6\nCal. App.4th 603, 613 [7 Cal. Rptr.2d 859].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"While a reasonable jury could, and in this case did, ﬁnd these warnings\ninadequate for product liability purposes given [defendant]'s knowledge of the\nrisk of NFCI's, these statements are not 'misleading \"half-truths\" ' that give rise\nto a duty to disclose in the absence of an otherwise sufficient relationship or\ntransaction. To hold otherwise would unduly conﬂate two distinct areas of law,\nproducts liability and fraud, and transform every instance of inadequate product\nwarning into a potential claim for fraud.\" ( Bigler-Engler v. Breg, Inc. (2017) 7\nCal. App.5th 276, 313–314 [213 Cal. Rptr.3d 82].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bigler-Engler v. Breg, Inc.",
+          "year": 2017,
+          "volume": 7,
+          "reporter": "Cal.App.5th",
+          "page": 276,
+          "pin": "313–314",
+          "raw": "Bigler-Engler v. Breg, Inc. (2017) 7 Cal. App.5th 276, 313–314",
+          "span": [
+            521,
+            583
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[F]raudulent intent is an issue for the trier of fact to decide.\" ( Beckwith v. Dahl\nFRAUD OR DECEIT CACI No. 1901\n1191\n(2012) 205 Cal. App.4th 1039, 1061 [141 Cal. Rptr.3d 142].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]here are two causation elements in a fraud cause of action. First, the\nplaintiff's actual and justiﬁable reliance on the defendant's misrepresentation\nmust have caused him to take a detrimental course of action. Second, the\ndetrimental action taken by the plaintiff must have caused his alleged damage.\"\n(Beckwith, supra, 205 Cal. App.4th at p. 1062.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[P]laintiffs argue that actual reliance cannot logically be an element of a cause\nof action for deceit based on an omission because it is impossible to demonstrate\nreliance on something that one was not told. In support of the argument,\nplaintiffs cite Affıliated Ute Citizens v. United States, supra , 406 U.S. 128\n(Ute) . . . , Interpreting Rule 10b-5, the high court held that 'positive proof of\nreliance is not a prerequisite to recovery' in a case 'involving primarily a failure\nto disclose . . . .' [¶] Contrary to plaintiffs' assertion, it is not logically\nimpossible to prove reliance on an omission. One need only prove that, had the\nomitted information been disclosed, one would have been aware of it and\nbehaved differently.\" ( Mirkin, supra, 5 Cal. 4th at p. 1093.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The fact that a false statement may be obviously false to those who are trained\nand experienced does not change its character, nor take away its power to\ndeceive others less experienced. There is no duty resting upon a citizen to\nsuspect the honesty of those with whom he [or she] transacts business. Laws are\nmade to protect the trusting as well as the suspicious. [T]he rule of caveat\nemptor should not be relied upon to reward fraud and deception.\" ( Boschma,\nsupra, 198 Cal. App.4th at p. 249, original italics.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§912–919\nGreenwald et al., California Practice Guide: Real Property Transactions, Ch. 11-E,\nDamages For Fraud, ¶ 11:354 (The Rutter Group)\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.03[2][b] (Matthew Bender)\n23 California Forms of Pleading and Practice, Ch. 269, Fraud and Deceit , §269.26\n(Matthew Bender)\n10 California Points and Authorities, Ch. 105, Fraud and Deceit , §105.70 et seq.\n(Matthew Bender)\nCalifornia Civil Practice: Torts §22:16 (Thomson Reuters)\nCACI No. 1901 FRAUD OR DECEIT\n1192",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1710",
+      "display": "Civil Code section 1710",
+      "raw": "Civil Code section 1710(3)",
+      "span": [
+        13,
+        39
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1710"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1710",
+      "display": "Civil Code section 1710(3)",
+      "raw": "Civil Code section 1710(3)",
+      "span": [
+        13,
+        39
+      ],
+      "subsection": "3",
+      "role": "sources",
+      "statute_key": "CA/CIV/1710/3"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Rattagan v. Uber Technologies, Inc.",
+      "year": 2024,
+      "volume": 17,
+      "reporter": "Cal.5th",
+      "page": 1,
+      "pin": "40",
+      "raw": "Rattagan v. Uber Technologies, Inc. (2024) 17 Cal. 5th 1, 40",
+      "span": [
+        495,
+        555
+      ],
+      "role": "sources",
+      "case_key": "17 Cal.5th 1"
+    },
+    {
+      "name": "SCC Acquisitions, Inc. v. Central Paciﬁc Bank",
+      "year": 2012,
+      "volume": 207,
+      "reporter": "Cal.App.4th",
+      "page": 859,
+      "pin": "860",
+      "raw": "SCC Acquisitions, Inc. v. Central Paciﬁc Bank (2012) 207 Cal. App.4th 859, 860",
+      "span": [
+        366,
+        444
+      ],
+      "role": "sources",
+      "case_key": "207 Cal.App.4th 859"
+    },
+    {
+      "name": "Roddenberry v. Roddenberry",
+      "year": 1996,
+      "volume": 44,
+      "reporter": "Cal.App.4th",
+      "page": 634,
+      "pin": "666",
+      "raw": "Roddenberry v. Roddenberry (1996) 44 Cal. App.4th 634, 666",
+      "span": [
+        259,
+        317
+      ],
+      "role": "sources",
+      "case_key": "44 Cal.App.4th 634"
+    },
+    {
+      "name": "Bigler-Engler v. Breg, Inc.",
+      "year": 2017,
+      "volume": 7,
+      "reporter": "Cal.App.5th",
+      "page": 276,
+      "pin": "313–314",
+      "raw": "Bigler-Engler v. Breg, Inc. (2017) 7 Cal. App.5th 276, 313–314",
+      "span": [
+        521,
+        583
+      ],
+      "role": "sources",
+      "case_key": "7 Cal.App.5th 276"
+    },
+    {
+      "name": "Corp. v. L.A.",
+      "year": 1970,
+      "volume": 2,
+      "reporter": "Cal.3d",
+      "page": 285,
+      "pin": "294",
+      "raw": "Corp. v. L.A. (1970) 2 Cal. 3d 285, 294",
+      "span": [
+        988,
+        1027
+      ],
+      "role": "directions",
+      "case_key": "2 Cal.3d 285"
+    },
+    {
+      "name": "Mirkin v. Wasserman",
+      "year": 1993,
+      "volume": 5,
+      "reporter": "Cal.4th",
+      "page": 1082,
+      "pin": "1093",
+      "raw": "Mirkin v. Wasserman (1993) 5 Cal. 4th 1082, 1093",
+      "span": [
+        1587,
+        1635
+      ],
+      "role": "directions",
+      "case_key": "5 Cal.4th 1082"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:14+00:00"
+}

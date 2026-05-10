@@ -1,0 +1,192 @@
+{
+  "id": "CACI-3231",
+  "edition": "2026",
+  "number": "3231",
+  "title": "Continuation of Express or Implied Warranty During Repairs",
+  "title_full": "Continuation of Express or Implied Warranty During Repairs(Civ. Code, § 1795.6)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "CIV",
+    "section": "1795.6",
+    "display": "Civil Code section 1795.6",
+    "raw": "Civ. Code, § 1795.6",
+    "span": [
+      0,
+      19
+    ]
+  },
+  "series": "3200",
+  "series_title": "Series 3200 Song-Beverly Consumer Warranty Act",
+  "page_start": 2394,
+  "page_end": 2394,
+  "instruction_text": "3231. Continuation of Express or Implied Warranty During Repairs\n(Civ. Code, §1795.6)\nRegardless of what the warranty says, if a defect exists within the\nwarranty period and the [ consumer good/new motor vehicle ] has been\nreturned for repairs, the warranty will not expire until the defect has\nbeen ﬁxed. [ Name of plaintiff ] must have notiﬁed [ name of defendant ] of\nthe failure of the repairs within 60 days after they were completed. The\nwarranty period will also be extended for the amount of time that the\nwarranty repairs have not been performed because of delays caused by\ncircumstances beyond the control of [ name of plaintiff ].",
+  "directions_for_use": "Give this instruction if it might appear to the jury from the language of an express\nor implied warranty that the warranty should have expired during the course of\nrepairs. By statute, the warranty cannot expire until the problem has been resolved\nas long as the defendant had notice that the defect had not been repaired. (Civ.\nCode, §1795.6(b).)",
+  "sources_and_authority": [
+    {
+      "raw": "Continuation of Express Warranty During Repairs. Civil Code section 1795.6.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1795.6",
+          "display": "Civil Code section 1795.6",
+          "raw": "Civil Code section 1795.6",
+          "span": [
+            49,
+            74
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Notice Required in Work Order or Repair Invoice. Civil Code section\n1793.1(a)(2).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1793.1",
+          "display": "Civil Code section 1793.1",
+          "raw": "Civil Code section\n1793.1(a)(2)",
+          "span": [
+            49,
+            80
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1793.1",
+          "display": "Civil Code section 1793.1(a)",
+          "raw": "Civil Code section\n1793.1(a)(2)",
+          "span": [
+            49,
+            80
+          ],
+          "subsection": "a"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1793.1",
+          "display": "Civil Code section 1793.1(2)",
+          "raw": "Civil Code section\n1793.1(a)(2)",
+          "span": [
+            49,
+            80
+          ],
+          "subsection": "2"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"There is no support in the law for instructing the jury that if a defect exists\nwithin the warranty period, the warranty continues in perpetuity until the defect\nhas been diagnosed and ﬁxed. It was error to give the special instruction, an\nincomplete and misleading statement that does not comport with the law of\nexpress warranty or with the lemon law provision on tolling. The proper\ninstruction was CACI No. 3231.\" ( Ruiz Nunez v. FCA US LLC (2021) 61\nCal. App.5th 385, 396 [275 Cal. Rptr.3d 618].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ruiz Nunez v. FCA US LLC",
+          "year": 2021,
+          "volume": 61,
+          "reporter": "Cal.App.5th",
+          "page": 385,
+          "pin": "396",
+          "raw": "Ruiz Nunez v. FCA US LLC (2021) 61 Cal. App.5th 385, 396",
+          "span": [
+            421,
+            477
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "4 Witkin, Summary of California Law (11th ed. 2017) Sales, §335\n3 Witkin, California Procedure (6th ed. 2021) Actions, §§587, 821\n44 California Forms of Pleading and Practice, Ch. 502, Sales, §502.52 (Matthew\nBender)\n20 California Points and Authorities, Ch. 206, Sales, §206.114 (Matthew Bender)\n21 California Legal Forms: Transaction Guide, Ch. 52, Sales of Goods Under the\nUniform Commercial Code , §52.128 (Matthew Bender)\n3232–3239. Reserved for Future Use\n508",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1795.6",
+      "display": "Civil Code section 1795.6",
+      "raw": "Civ. Code, § 1795.6",
+      "span": [
+        0,
+        19
+      ],
+      "role": "title",
+      "statute_key": "CA/CIV/1795.6"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1793.1",
+      "display": "Civil Code section 1793.1",
+      "raw": "Civil Code section\n1793.1(a)(2)",
+      "span": [
+        49,
+        80
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1793.1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1793.1",
+      "display": "Civil Code section 1793.1(a)",
+      "raw": "Civil Code section\n1793.1(a)(2)",
+      "span": [
+        49,
+        80
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/CIV/1793.1/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1793.1",
+      "display": "Civil Code section 1793.1(2)",
+      "raw": "Civil Code section\n1793.1(a)(2)",
+      "span": [
+        49,
+        80
+      ],
+      "subsection": "2",
+      "role": "sources",
+      "statute_key": "CA/CIV/1793.1/2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1795.6",
+      "display": "Civil Code section 1795.6(b)",
+      "raw": "Civ.\nCode, §1795.6(b)",
+      "span": [
+        324,
+        345
+      ],
+      "subsection": "b",
+      "role": "directions",
+      "statute_key": "CA/CIV/1795.6/b"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Ruiz Nunez v. FCA US LLC",
+      "year": 2021,
+      "volume": 61,
+      "reporter": "Cal.App.5th",
+      "page": 385,
+      "pin": "396",
+      "raw": "Ruiz Nunez v. FCA US LLC (2021) 61 Cal. App.5th 385, 396",
+      "span": [
+        421,
+        477
+      ],
+      "role": "sources",
+      "case_key": "61 Cal.App.5th 385"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

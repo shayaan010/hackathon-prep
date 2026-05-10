@@ -1,0 +1,137 @@
+{
+  "id": "CACI-731",
+  "edition": "2026",
+  "number": "731",
+  "title": "Definition of “Emergency”",
+  "title_full": "Definition of “Emergency” (Veh. Code, § 21055)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "VEH",
+    "section": "21055",
+    "display": "Vehicle Code section 21055",
+    "raw": "Veh. Code, § 21055",
+    "span": [
+      0,
+      18
+    ]
+  },
+  "series": "700",
+  "series_title": "Series 700 Motor Vehicles and Highway Safety",
+  "page_start": 657,
+  "page_end": 657,
+  "instruction_text": "731. Deﬁnition of \"Emergency\" (Veh. Code, §21055)\nAn \"emergency\" exists if the driver of an authorized emergency vehicle\nis [ insert one of the following ]\n[responding to an emergency call.]\n[involved in rescue operations.]\n[in the immediate pursuit of an actual or suspected violator of the\nlaw.]\n[responding to, but not returning from, a ﬁre alarm.]\n[operating a ﬁre department vehicle while traveling from one place\nto another place because of an emergency call.]",
+  "directions_for_use": "This instruction is based on the language of Vehicle Code section 21055(a) and is\nonly intended for cases in which there is a factual issue regarding whether the\ndefendant was acting in response to an emergency at the time of the accident.\n(Washington v. City and County of San Francisco (1954) 123 Cal. App.2d 235, 241\n[266 P.2d 828].)",
+  "sources_and_authority": [
+    {
+      "raw": "Authorized Emergency Vehicle Exemption. Vehicle Code section 21055(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "21055",
+          "display": "Vehicle Code section 21055",
+          "raw": "Vehicle Code section 21055(a)",
+          "span": [
+            40,
+            69
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "21055",
+          "display": "Vehicle Code section 21055(a)",
+          "raw": "Vehicle Code section 21055(a)",
+          "span": [
+            40,
+            69
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Whether a vehicle is driven in response to an emergency call depends on the\nnature of the call received and the situation as presented to the mind of the\ndriver and not upon whether there is an emergency in fact. The driver, of course,\nshould have reasonable grounds to believe that there is an emergency.\" ( Gallup\nv. Sparks-Mundo Engineering Co. (1954) 43 Cal. 2d 1, 5 [271 P.2d 34], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Gallup v. Sparks-Mundo Engineering Co.",
+          "year": 1954,
+          "volume": 43,
+          "reporter": "Cal.2d",
+          "page": 1,
+          "pin": "5",
+          "raw": "Gallup v. Sparks-Mundo Engineering Co. (1954) 43 Cal. 2d 1, 5",
+          "span": [
+            310,
+            371
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§358, 394–398\n2 Government Tort Liability Practice (Cont.Ed.Bar 4th ed.) §§11.140–11.144\n732–799. Reserved for Future Use\n583",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "21055",
+      "display": "Vehicle Code section 21055",
+      "raw": "Veh. Code, § 21055",
+      "span": [
+        0,
+        18
+      ],
+      "role": "title",
+      "statute_key": "CA/VEH/21055"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "21055",
+      "display": "Vehicle Code section 21055(a)",
+      "raw": "Vehicle Code section 21055(a)",
+      "span": [
+        40,
+        69
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/VEH/21055/a"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Gallup v. Sparks-Mundo Engineering Co.",
+      "year": 1954,
+      "volume": 43,
+      "reporter": "Cal.2d",
+      "page": 1,
+      "pin": "5",
+      "raw": "Gallup v. Sparks-Mundo Engineering Co. (1954) 43 Cal. 2d 1, 5",
+      "span": [
+        310,
+        371
+      ],
+      "role": "sources",
+      "case_key": "43 Cal.2d 1"
+    },
+    {
+      "name": "Washington v. City and County of San Francisco",
+      "year": 1954,
+      "volume": 123,
+      "reporter": "Cal.App.2d",
+      "page": 235,
+      "pin": "241",
+      "raw": "Washington v. City and County of San Francisco (1954) 123 Cal. App.2d 235, 241",
+      "span": [
+        241,
+        319
+      ],
+      "role": "directions",
+      "case_key": "123 Cal.App.2d 235"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "CACI-3928",
+  "edition": "2026",
+  "number": "3928",
+  "title": "Unusually Susceptible Plaintiff",
+  "title_full": "Unusually Susceptible Plaintiff",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2790,
+  "page_end": 2790,
+  "instruction_text": "3928. Unusually Susceptible Plaintiff\nY ou must decide the full amount of money that will reasonably and\nfairly compensate [ name of plaintiff ] for all damages caused by the\nwrongful conduct of [ name of defendant ], even if [ name of plaintiff ] was\nmore susceptible to injury than a normally healthy person would have\nbeen, and even if a normally healthy person would not have suffered\nsimilar injury.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"That a plaintiff without such a [preexisting] condition would probably have\nsuffered less injury or no injury does not exonerate a defendant from liability.\"\n(Ng v. Hudson (1977) 75 Cal. App.3d 250, 255 [142 Cal. Rptr. 69], internal\ncitations omitted, overruled on another ground in Soule v. G.M. Corp. (1994) 8\nCal. 4th 548, 574 [34 Cal. Rptr.2d 607, 882 P.2d 298].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ng v. Hudson",
+          "year": 1977,
+          "volume": 75,
+          "reporter": "Cal.App.3d",
+          "page": 250,
+          "pin": "255",
+          "raw": "Ng v. Hudson (1977) 75 Cal. App.3d 250, 255",
+          "span": [
+            160,
+            203
+          ]
+        },
+        {
+          "name": "Soule v. G.M. Corp.",
+          "year": 1994,
+          "volume": 8,
+          "reporter": "Cal.4th",
+          "page": 548,
+          "pin": "574",
+          "raw": "Soule v. G.M. Corp. (1994) 8 Cal. 4th 548, 574",
+          "span": [
+            284,
+            330
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The tortfeasor takes the person he injures as he ﬁnds him. If, by reason of some\npreexisting condition, his victim is more susceptible to injury, the tortfeasor is\nnot thereby exonerated from liability.\" ( Rideau v. Los Angeles Transit Lines\n(1954) 124 Cal. App.2d 466, 471 [268 P.2d 772], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Rideau v. Los Angeles Transit Lines",
+          "year": 1954,
+          "volume": 124,
+          "reporter": "Cal.App.2d",
+          "page": 466,
+          "pin": "471",
+          "raw": "Rideau v. Los Angeles Transit Lines (1954) 124 Cal. App.2d 466, 471",
+          "span": [
+            207,
+            274
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1855\nCalifornia Tort Damages (Cont.Ed.Bar) Bodily Injury, §1.86\n4 Levy et al., California Torts, Ch. 51, Pain and Suffering , §51.23[3] (Matthew\nBender)\n15 California Forms of Pleading and Practice, Ch. 177, Damages (Matthew Bender)\n6 California Points and Authorities, Ch. 64, Damages: Tort (Matthew Bender)\nCalifornia Civil Practice: Torts §5:11 (Thomson Reuters)\n904",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Ng v. Hudson",
+      "year": 1977,
+      "volume": 75,
+      "reporter": "Cal.App.3d",
+      "page": 250,
+      "pin": "255",
+      "raw": "Ng v. Hudson (1977) 75 Cal. App.3d 250, 255",
+      "span": [
+        160,
+        203
+      ],
+      "role": "sources",
+      "case_key": "75 Cal.App.3d 250"
+    },
+    {
+      "name": "Soule v. G.M. Corp.",
+      "year": 1994,
+      "volume": 8,
+      "reporter": "Cal.4th",
+      "page": 548,
+      "pin": "574",
+      "raw": "Soule v. G.M. Corp. (1994) 8 Cal. 4th 548, 574",
+      "span": [
+        284,
+        330
+      ],
+      "role": "sources",
+      "case_key": "8 Cal.4th 548"
+    },
+    {
+      "name": "Rideau v. Los Angeles Transit Lines",
+      "year": 1954,
+      "volume": 124,
+      "reporter": "Cal.App.2d",
+      "page": 466,
+      "pin": "471",
+      "raw": "Rideau v. Los Angeles Transit Lines (1954) 124 Cal. App.2d 466, 471",
+      "span": [
+        207,
+        274
+      ],
+      "role": "sources",
+      "case_key": "124 Cal.App.2d 466"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

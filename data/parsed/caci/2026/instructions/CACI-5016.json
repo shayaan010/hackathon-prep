@@ -1,0 +1,85 @@
+{
+  "id": "CACI-5016",
+  "edition": "2026",
+  "number": "5016",
+  "title": "Judge’s Commenting on Evidence",
+  "title_full": "Judge’s Commenting on Evidence",
+  "title_statute": null,
+  "series": "5000",
+  "series_title": "Series 5000 Concluding Instructions",
+  "page_start": 3363,
+  "page_end": 3364,
+  "instruction_text": "5016. Judge's Commenting on Evidence\nIn this case, I have exercised my right to comment on the evidence.\nHowever, you the jury are the exclusive judges of all questions of fact\nand of the credibility of the witnesses. Y ou are free to completely ignore\nmy comments on the evidence and to reach whatever verdict you believe\nto be correct, even if it is contrary to any or all of those comments.",
+  "directions_for_use": "Read this instruction before deliberations if the judge has exercised the right under\narticle VI, section 10 of the California Constitution to comment on the evidence.\nThis instruction should also be given if after deliberations have begun, the jury asks\nfor additional guidance and the judge then comments on the evidence. (See People\nv. Rodriguez (1986) 42 Cal. 3d 730 [230 Cal. Rptr. 667, 726 P.2d 113].)",
+  "sources_and_authority": [
+    {
+      "raw": "Judge May Comment on the Evidence. Article VI, section 10 of the California\nConstitution.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he decisions admonish that judicial comment on the evidence must be\naccurate, temperate, nonargumentative, and scrupulously fair. The trial court may\nnot, in the guise of privileged comment, withdraw material evidence from the\njury's consideration, distort the record, expressly or impliedly direct a verdict, or\notherwise usurp the jury's ultimate factﬁnding power.\" ( People v. Rodriguez,\nsupra, 42 Cal. 3d at p. 766, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[A] trial court has 'broad latitude in fair commentary, so long as it does not\neffectively control the verdict. For example, it is settled that the court need not\nconﬁne itself to neutral, bland, and colorless summaries, but may focus critically\non particular evidence, expressing views about its persuasiveness.' . . . '[A]\njudge may restrict his comments to portions of the evidence or to the credibility\nof a single witness and need not sum up all the testimony, both favorable and\nunfavorable.' \" ( People v. Proctor (1992) 4 Cal. 4th 499, 542 [15 Cal. Rptr.2d\n340, 842 P.2d 1100], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Proctor",
+          "year": 1992,
+          "volume": 4,
+          "reporter": "Cal.4th",
+          "page": 499,
+          "pin": "542",
+          "raw": "People v. Proctor (1992) 4 Cal. 4th 499, 542",
+          "span": [
+            504,
+            548
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A] judge's power to comment on the evidence is not unlimited. He cannot\nwithdraw material evidence from the jury or distort the testimony, and he must\ninform the jurors that they are the exclusive judges of all questions of fact and\nof the credibility of the witnesses. In civil cases, the court's powers of comment\nare less limited than in criminal cases, but they still must be kept within certain\nbounds. The court may express an opinion on negligence, but the court's\nremarks must be appropriate and fair.\" ( Lewis v. Bill Robertson & Sons Inc.\n(1984) 162 Cal. App.3d 650, 654 [208 Cal. Rptr. 699], internal citation omitted.)\n1477",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "7 Witkin, California Procedure (6th ed. 2021) Trial, §5\nCalifornia Trial Objections (Cont.Ed.Bar 10th ed.) §§29.21, 29.23\n28 California Forms of Pleading and Practice, Ch. 326, Jury Instructions , §326.20\n(Matthew Bender)\nCalifornia Judges Benchbook: Civil Proceedings–Trial §§12.30, 12.33 (Cal CJER\n2019)\nCACI No. 5016 CONCLUDING INSTRUCTIONS\n1478",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "People v. Proctor",
+      "year": 1992,
+      "volume": 4,
+      "reporter": "Cal.4th",
+      "page": 499,
+      "pin": "542",
+      "raw": "People v. Proctor (1992) 4 Cal. 4th 499, 542",
+      "span": [
+        504,
+        548
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.4th 499"
+    },
+    {
+      "name": "See People v. Rodriguez",
+      "year": 1986,
+      "volume": 42,
+      "reporter": "Cal.3d",
+      "page": 730,
+      "pin": null,
+      "raw": "See People v. Rodriguez (1986) 42 Cal. 3d 730",
+      "span": [
+        325,
+        370
+      ],
+      "role": "directions",
+      "case_key": "42 Cal.3d 730"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

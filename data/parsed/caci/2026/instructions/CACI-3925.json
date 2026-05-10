@@ -1,0 +1,60 @@
+{
+  "id": "CACI-3925",
+  "edition": "2026",
+  "number": "3925",
+  "title": "Arguments of Counsel Not Evidence of Damages",
+  "title_full": "Arguments of Counsel Not Evidence of Damages",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2786,
+  "page_end": 2786,
+  "instruction_text": "3925. Arguments of Counsel Not Evidence of Damages\nThe arguments of the attorneys are not evidence of damages. Y our\naward must be based on your reasoned judgment applied to the\ntestimony of the witnesses and the other evidence that has been admitted\nduring trial.",
+  "directions_for_use": "If a pleading is admitted into evidence, the following may be added: \"The amount\nof damages that [ name of plaintiff ] has claimed in [his/her/ nonbinary pronoun]\nwritten pleadings is not evidence of [ name of plaintiff ]'s damages.\"",
+  "sources_and_authority": [
+    {
+      "raw": "\"[T]he trial court can and should instruct the jury that the argument of counsel\nas to the amount of damages claimed by the plaintiff is not evidence and that its\nduty is only to award such damages as will reasonably compensate the plaintiff\nfor his pain and suffering.\" ( Beagle v. V asold (1966) 65 Cal. 2d 166, 180–181 [53\nCal. Rptr. 129, 417 P.2d 673], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Courts have held that \"attempts to suggest matters of an evidentiary nature to a\njury other than by the legitimate introduction into evidence is misconduct\nwhether by questions on cross-examination, argument or other means.\" ( Smith v.\nCovell (1980) 100 Cal. App.3d 947, 960 [161 Cal. Rptr. 377].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Smith v. Covell",
+          "year": 1980,
+          "volume": 100,
+          "reporter": "Cal.App.3d",
+          "page": 947,
+          "pin": "960",
+          "raw": "Smith v. Covell (1980) 100 Cal. App.3d 947, 960",
+          "span": [
+            227,
+            274
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1854\nCalifornia Tort Damages (Cont.Ed.Bar) Bodily Injury, §1.74\n4 Levy et al., California Torts, Ch. 51, Pain and Suffering , §§51.50–51.51\n(Matthew Bender)\n15 California Forms of Pleading and Practice, Ch. 177, Damages (Matthew Bender)\n6 California Points and Authorities, Ch. 64, Damages: Tort (Matthew Bender)\n900",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Smith v. Covell",
+      "year": 1980,
+      "volume": 100,
+      "reporter": "Cal.App.3d",
+      "page": 947,
+      "pin": "960",
+      "raw": "Smith v. Covell (1980) 100 Cal. App.3d 947, 960",
+      "span": [
+        227,
+        274
+      ],
+      "role": "sources",
+      "case_key": "100 Cal.App.3d 947"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

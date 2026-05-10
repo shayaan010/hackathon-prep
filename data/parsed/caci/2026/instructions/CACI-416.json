@@ -1,0 +1,137 @@
+{
+  "id": "CACI-416",
+  "edition": "2026",
+  "number": "416",
+  "title": "Amount of Caution Required in Transmitting Electric Power",
+  "title_full": "Amount of Caution Required in Transmitting Electric Power",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 333,
+  "page_end": 333,
+  "instruction_text": "416. Amount of Caution Required in Transmitting Electric Power\nPeople and companies must be very careful in constructing, insulating,\ninspecting, maintaining, and repairing power lines and transmission\nequipment at all places where it is reasonably probable that they will\ncause harm to persons or property.",
+  "directions_for_use": "The cases have crafted a speciﬁc standard of care for the construction and\nmaintenance of power lines, and juries must be instructed on this standard upon\nrequest. ( Scally v. Paciﬁc Gas and Electric Co. (1972) 23 Cal. App.3d 806, 816 [100\nCal. Rptr. 501].)",
+  "sources_and_authority": [
+    {
+      "raw": "Electric power lines are considered dangerous instrumentalities. ( Polk v. City of\nLos Angeles (1945) 26 Cal. 2d 519, 525 [159 P.2d 931].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Polk v. City of Los Angeles",
+          "year": 1945,
+          "volume": 26,
+          "reporter": "Cal.2d",
+          "page": 519,
+          "pin": "525",
+          "raw": "Polk v. City of Los Angeles (1945) 26 Cal. 2d 519, 525",
+          "span": [
+            67,
+            121
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "The requirement to insulate wires applies to only those wires that may come into\ncontact with people or property: \"While an electric company is not under an\nabsolute duty to insulate or make the wires safe in any particular manner, it does\nhave a duty to make the wires safe under all the exigencies created by the\nsurrounding circumstances. The duty of an electric company is alternative, i.e.,\neither to insulate the wires or to so locate them to make them comparatively\nharmless.\" ( Scally, supra, 23 Cal. App.3d at pp. 815–816.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Dunn v. Paciﬁc Gas and Electric Co. (1954) 43 Cal. 2d 265, 272–274 [272 P.2d\n745]; McKenzie v. Paciﬁc Gas & Electric Co. (1962) 200 Cal. App.2d 731, 736\n[19 Cal. Rptr. 628] (disapproved on another ground in Di Mare v. Cresci (1962)\n58 Cal. 2d 292, 299 [23 Cal. Rptr. 772, 373 P.2d 860].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Dunn v. Paciﬁc Gas and Electric Co.",
+          "year": 1954,
+          "volume": 43,
+          "reporter": "Cal.2d",
+          "page": 265,
+          "pin": "272–274",
+          "raw": "Dunn v. Paciﬁc Gas and Electric Co. (1954) 43 Cal. 2d 265, 272–274",
+          "span": [
+            0,
+            66
+          ]
+        },
+        {
+          "name": "Di Mare v. Cresci",
+          "year": 1962,
+          "volume": 58,
+          "reporter": "Cal.2d",
+          "page": 292,
+          "pin": "299",
+          "raw": "Di Mare v. Cresci (1962) 58 Cal. 2d 292, 299",
+          "span": [
+            207,
+            251
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1051\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §§7.1–7.12\n23 California Forms of Pleading and Practice, Ch. 277, Gas and Electricity\n(Matthew Bender)\n259",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Polk v. City of Los Angeles",
+      "year": 1945,
+      "volume": 26,
+      "reporter": "Cal.2d",
+      "page": 519,
+      "pin": "525",
+      "raw": "Polk v. City of Los Angeles (1945) 26 Cal. 2d 519, 525",
+      "span": [
+        67,
+        121
+      ],
+      "role": "sources",
+      "case_key": "26 Cal.2d 519"
+    },
+    {
+      "name": "Dunn v. Paciﬁc Gas and Electric Co.",
+      "year": 1954,
+      "volume": 43,
+      "reporter": "Cal.2d",
+      "page": 265,
+      "pin": "272–274",
+      "raw": "Dunn v. Paciﬁc Gas and Electric Co. (1954) 43 Cal. 2d 265, 272–274",
+      "span": [
+        0,
+        66
+      ],
+      "role": "sources",
+      "case_key": "43 Cal.2d 265"
+    },
+    {
+      "name": "Di Mare v. Cresci",
+      "year": 1962,
+      "volume": 58,
+      "reporter": "Cal.2d",
+      "page": 292,
+      "pin": "299",
+      "raw": "Di Mare v. Cresci (1962) 58 Cal. 2d 292, 299",
+      "span": [
+        207,
+        251
+      ],
+      "role": "sources",
+      "case_key": "58 Cal.2d 292"
+    },
+    {
+      "name": "Scally v. Paciﬁc Gas and Electric Co.",
+      "year": 1972,
+      "volume": 23,
+      "reporter": "Cal.App.3d",
+      "page": 806,
+      "pin": "816",
+      "raw": "Scally v. Paciﬁc Gas and Electric Co. (1972) 23 Cal. App.3d 806, 816",
+      "span": [
+        166,
+        234
+      ],
+      "role": "directions",
+      "case_key": "23 Cal.App.3d 806"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

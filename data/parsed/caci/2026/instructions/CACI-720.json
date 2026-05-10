@@ -1,0 +1,694 @@
+{
+  "id": "CACI-720",
+  "edition": "2026",
+  "number": "720",
+  "title": "Motor Vehicle Owner Liability—Permissive Use of Vehicle",
+  "title_full": "Motor Vehicle Owner Liability—Permissive Use of Vehicle",
+  "title_statute": null,
+  "series": "700",
+  "series_title": "Series 700 Motor Vehicles and Highway Safety",
+  "page_start": 641,
+  "page_end": 644,
+  "instruction_text": "720. Motor Vehicle Owner Liability–Permissive Use of Vehicle\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun] was harmed\nand that [ name of defendant ] is responsible for the harm because [ name of\ndefendant] gave [ name of driver ] permission to operate the vehicle. To\nestablish this claim, [ name of plaintiff ] must prove all of the following:\n1. That [ name of driver ] was negligent in operating the vehicle;\n2. That [ name of defendant ] was an owner of the vehicle at the time\nof the injury to [ name of plaintiff ]; and\n3. That [ name of defendant ], by words or conduct, gave permission to\n[name of driver ] to use the vehicle.\nIn determining whether permission was given, you may consider the\nrelationship between the owner and the operator. [For example, if the\nparties are related or the owner and the operator are employer and\nemployee, such a relationship may support a ﬁnding that there was\nimplied permission to use the vehicle.]\n[If the vehicle owner has given a person permission to use the vehicle,\nand that person authorizes a third person to operate the vehicle, the\nthird person may be considered to have used the vehicle with the\npermission of the owner.]",
+  "directions_for_use": "Separate instructions will be necessary regarding the negligence of the driver and\nthat it caused harm to the plaintiff. Read bracketed language if appropriate to the\nfacts. If ownership of the vehicle is uncontested, element 2 may be deleted.",
+  "sources_and_authority": [
+    {
+      "raw": "Permissive Use. Vehicle Code section 17150.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "17150",
+          "display": "Vehicle Code section 17150",
+          "raw": "Vehicle Code section 17150",
+          "span": [
+            16,
+            42
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Permissive Use: Limitation on Liability. Vehicle Code section 17151(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "17151",
+          "display": "Vehicle Code section 17151",
+          "raw": "Vehicle Code section 17151(a)",
+          "span": [
+            41,
+            70
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "17151",
+          "display": "Vehicle Code section 17151(a)",
+          "raw": "Vehicle Code section 17151(a)",
+          "span": [
+            41,
+            70
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "The statutory limitation under section 17151(a) \"does not apply . . . to a vehicle\nowner's own common law negligence, as distinguished from the owner's\nstatutory vicarious liability for the operator's negligence.\" ( Fremont\nCompensation Insurance Co. v. Hartnett (1993) 19 Cal. App.4th 669, 675–676\n[23 Cal. Rptr.2d 567].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Fremont Compensation Insurance Co. v. Hartnett",
+          "year": 1993,
+          "volume": 19,
+          "reporter": "Cal.App.4th",
+          "page": 669,
+          "pin": "675–676",
+          "raw": "Fremont Compensation Insurance Co. v. Hartnett (1993) 19 Cal. App.4th 669, 675–676",
+          "span": [
+            216,
+            298
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[U]nless the evidence points to one conclusion only, the question of the\nexistence of the requisite permission under [section 17150] is one to be\ndetermined by the trier of fact, 'upon the facts and circumstances in evidence\nand the inferences reasonably to be drawn therefrom.' \" ( Peterson v. Grieger ,\n567\nInc. (1961) 57 Cal. 2d 43, 51 [17 Cal. Rptr. 828, 367 P.2d 420], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[P]ermission cannot be left to speculation or conjecture nor be assumed, but\nmust be affirmatively proved, and the fact of permission is just as important to\nsustain the imposition of liability as is the fact of ownership.\" ( Scheff v. Roberts\n(1950) 35 Cal. 2d 10, 12 [215 P.2d 925], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Scheff v. Roberts",
+          "year": 1950,
+          "volume": 35,
+          "reporter": "Cal.2d",
+          "page": 10,
+          "pin": "12",
+          "raw": "Scheff v. Roberts (1950) 35 Cal. 2d 10, 12",
+          "span": [
+            227,
+            269
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Where the issue of implied permissive use is involved, the general relationship\nexisting between the owner and the operator, is of paramount importance.\nWhere, for example, the parties are related by blood, or marriage, or where the\nrelationship between the owner and the operator is that of principal and agent,\nweaker direct evidence will support a ﬁnding of such use than where the parties\nare only acquaintances or strangers.\" ( Elkinton v. California State Automobile\nAssn., Interstate Insurance Bureau (1959) 173 Cal. App.2d 338, 344 [343 P.2d\n396], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"There is no doubt that the word 'owner' as used in [the predecessor to Vehicle\nCode section 17150] for the purpose of creating a liability thereunder, is not\nsynonymous with that word as used in the ordinary sense of referring to a\nperson or persons whose title is good as against all others. Under the Vehicle\nCode there may be several such 'owners' at any one time. One or more persons\nmay be an 'owner,' and thus liable for the injuries of a third party, even though\nno such 'owner' possesses all of the normal incidents of ownership.\" ( Stoddart v.\nPeirce (1959) 53 Cal. 2d 105, 115 [346 P.2d 774], internal citation omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "17150",
+          "display": "Vehicle Code section 17150",
+          "raw": "Vehicle\nCode section 17150",
+          "span": [
+            72,
+            98
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Stoddart v. Peirce",
+          "year": 1959,
+          "volume": 53,
+          "reporter": "Cal.2d",
+          "page": 105,
+          "pin": "115",
+          "raw": "Stoddart v. Peirce (1959) 53 Cal. 2d 105, 115",
+          "span": [
+            542,
+            587
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The question whether the [defendant] was an owner for purposes of imposition\nof liability for negligence [under Vehicle Code section 17150] was one of fact.\"\n(Campbell v. Security Paciﬁc Nat. Bank (1976) 62 Cal. App.3d 379, 385 [133\nCal. Rptr. 77].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "17150",
+          "display": "Vehicle Code section 17150",
+          "raw": "Vehicle Code section 17150",
+          "span": [
+            113,
+            139
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Campbell v. Security Paciﬁc Nat. Bank",
+          "year": 1976,
+          "volume": 62,
+          "reporter": "Cal.App.3d",
+          "page": 379,
+          "pin": "385",
+          "raw": "Campbell v. Security Paciﬁc Nat. Bank (1976) 62 Cal. App.3d 379, 385",
+          "span": [
+            160,
+            228
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Strict compliance with Vehicle Code section 5602 [regarding the sale or transfer\nof a vehicle] is required to enable a transferring owner to escape the liability\nimposed by section 17150 on account of an accident occurring before notice of\nthe transfer is received by the Motor Vehicle Department.\" ( Laureano v.\nChristensen (1971) 18 Cal. App.3d 515, 520–521 [95 Cal. Rptr. 872].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "5602",
+          "display": "Vehicle Code section 5602",
+          "raw": "Vehicle Code section 5602",
+          "span": [
+            24,
+            49
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Laureano v. Christensen",
+          "year": 1971,
+          "volume": 18,
+          "reporter": "Cal.App.3d",
+          "page": 515,
+          "pin": "520–521",
+          "raw": "Laureano v. Christensen (1971) 18 Cal. App.3d 515, 520–521",
+          "span": [
+            302,
+            360
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he true and actual owner of an automobile [is not] relieved from liability by\nthe expedient of registration in the name of another. . . . It is clear that it was\nthe legislative intent to make the actual owners of automobiles liable for the\nnegligence of those to whom permission is given to drive them. According to the\nallegations of the complaint defendants . . . were in fact the true owners of the\ncar and had control of it, the registration being in the name of defendant [driver]\nfor the purpose of avoiding liability.\" ( McCalla v. Grosse (1941) 42 Cal. App.2d\n546, 549–550 [109 P.2d 358].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "McCalla v. Grosse",
+          "year": 1941,
+          "volume": 42,
+          "reporter": "Cal.App.2d",
+          "page": 546,
+          "pin": "549–550",
+          "raw": "McCalla v. Grosse (1941) 42 Cal. App.2d 546, 549–550",
+          "span": [
+            533,
+            585
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]t is a question of fact in cases of co-ownership, as it is in cases of single\nownership, whether the operation of an automobile is with or without the\nconsent, express or implied, of an owner who is not personally participating in\nsuch operation. The mere fact of co-ownership does not necessarily or\nCACI No. 720 MOTOR VEHICLES AND HIGHW AY SAFETY\n568\nconclusively establish that the common owners have consented to any usage or\npossession among themselves of a type for which permission is essential.\"\n(Krum v. Malloy (1943) 22 Cal. 2d 132, 136 [137 P.2d 18].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Krum v. Malloy",
+          "year": 1943,
+          "volume": 22,
+          "reporter": "Cal.2d",
+          "page": 132,
+          "pin": "136",
+          "raw": "Krum v. Malloy (1943) 22 Cal. 2d 132, 136",
+          "span": [
+            509,
+            550
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The immunity of the negligent operator under the [Workers' Compensation] Act\ndoes not insulate a vehicle owner who is neither the plaintiff's employer nor co-\nemployee from liability under section 17150. [¶] Since the owner's liability does\nnot arise from the status or liability of the operator, the defenses applicable to\nthe operator are not available to the owner.\" ( Galvis v. Petito (1993) 13\nCal. App.4th 551, 554 [16 Cal. Rptr.2d 560].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Galvis v. Petito",
+          "year": 1993,
+          "volume": 13,
+          "reporter": "Cal.App.4th",
+          "page": 551,
+          "pin": "554",
+          "raw": "Galvis v. Petito (1993) 13 Cal. App.4th 551, 554",
+          "span": [
+            373,
+            421
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The doctrine of 'negligent entrustment' is clearly distinguishable from the\ntheory of 'vicarious liability.' Negligent entrustment is a common law liability\ndoctrine. Conversely, the obligation of a lending owner of an automobile is one\nof statutory liability. An owner of an automobile may be independently negligent\nin entrusting it to an incompetent driver. California is one of several states which\nrecognizes the liability of an automobile owner who has entrusted a car to an\nincompetent, reckless, or inexperienced driver, and has supplemented the\ncommon law doctrine of negligent entrustment by enactment of a speciﬁc\nconsent statute.\" ( Syah v. Johnson (1966) 247 Cal. App.2d 534, 538 [55 Cal. Rptr.\n741], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Syah v. Johnson",
+          "year": 1966,
+          "volume": 247,
+          "reporter": "Cal.App.2d",
+          "page": 534,
+          "pin": "538",
+          "raw": "Syah v. Johnson (1966) 247 Cal. App.2d 534, 538",
+          "span": [
+            646,
+            693
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "For purposes of liability under the permissive use statute, \"[s]ince defendant [car\nowner] had the opportunity of making such investigation as he deemed necessary\nto satisfy himself as to the identity of the [renter] to whom he intrusted his\nautomobile, he should not be permitted to escape liability to a third party\nbecause of any fraudulent misrepresentation made by the renter of the car to\nhim.\" ( Tuderios v. Hertz Drivurself Stations, Inc. (1945) 70 Cal. App.2d 192, 198\n[160 P.2d 554].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Tuderios v. Hertz Drivurself Stations, Inc.",
+          "year": 1945,
+          "volume": 70,
+          "reporter": "Cal.App.2d",
+          "page": 192,
+          "pin": "198",
+          "raw": "Tuderios v. Hertz Drivurself Stations, Inc. (1945) 70 Cal. App.2d 192, 198",
+          "span": [
+            403,
+            477
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he provisions of Proposition 51 do not operate to reduce the liability of\nvehicle owners imposed by Vehicle Code section 17150.\" ( Rashtian v. BRAC-\nBH, Inc. (1992) 9 Cal. App.4th 1847, 1849 [12 Cal. Rptr.2d 411].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "17150",
+          "display": "Vehicle Code section 17150",
+          "raw": "Vehicle Code section 17150",
+          "span": [
+            104,
+            130
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Rashtian v. BRAC- BH, Inc.",
+          "year": 1992,
+          "volume": 9,
+          "reporter": "Cal.App.4th",
+          "page": 1847,
+          "pin": "1849",
+          "raw": "Rashtian v. BRAC- BH, Inc. (1992) 9 Cal. App.4th 1847, 1849",
+          "span": [
+            135,
+            194
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]f the evidence shows that an automobile was being driven by an employee of\nthe owner at the time of an accident, the jury may infer that the employee was\noperating the automobile with the permission of the owner.\" ( Hicks v. Reis\n(1943) 21 Cal. 2d 654, 659 [134 P.2d 788], internal quotation marks and citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hicks v. Reis",
+          "year": 1943,
+          "volume": 21,
+          "reporter": "Cal.2d",
+          "page": 654,
+          "pin": "659",
+          "raw": "Hicks v. Reis (1943) 21 Cal. 2d 654, 659",
+          "span": [
+            220,
+            260
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The mere fact that at the time of an accident one is driving an automobile\nbelonging to another is not, of itself, sufficient to establish that the former was\ndriving the car with the permission of the owner.\" ( Di Rebaylio v. Herndon\n(1935) 6 Cal. App.2d 567, 569 [44 P.2d 581].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Di Rebaylio v. Herndon",
+          "year": 1935,
+          "volume": 6,
+          "reporter": "Cal.App.2d",
+          "page": 567,
+          "pin": "569",
+          "raw": "Di Rebaylio v. Herndon (1935) 6 Cal. App.2d 567, 569",
+          "span": [
+            213,
+            265
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]mplied permission to use an automobile may be found even where the owner\nand permittee expressly deny that permission was given.\" ( Anderson v. Wagnon\n(1952) 110 Cal. App.2d 362, 366 [242 P.2d 915].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Anderson v. Wagnon",
+          "year": 1952,
+          "volume": 110,
+          "reporter": "Cal.App.2d",
+          "page": 362,
+          "pin": "366",
+          "raw": "Anderson v. Wagnon (1952) 110 Cal. App.2d 362, 366",
+          "span": [
+            136,
+            186
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]n determining whether there has been an implied permission, it is not\nMOTOR VEHICLES AND HIGHW AY SAFETY CACI No. 720\n569\nnecessary that the owner have prior knowledge that the driver intends to use the\ncar, but it must be 'under circumstances from which consent to use the car is\nnecessarily implied.' \" ( Mucci v. Winter (1951) 103 Cal. App.2d 627, 631 [230\nP.2d 22], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Mucci v. Winter",
+          "year": 1951,
+          "volume": 103,
+          "reporter": "Cal.App.2d",
+          "page": 627,
+          "pin": "631",
+          "raw": "Mucci v. Winter (1951) 103 Cal. App.2d 627, 631",
+          "span": [
+            311,
+            358
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "For purposes of statutory vicarious liability, \"if the owner entrusts his car to\nanother he invests him with the same authority to select an operator which the\nowner has in the ﬁrst instance. . . . [¶] . . . The owner is thus liable for\nnegligent acts by a subpermittee even though the subpermittee operated the\nowner's vehicle with authorization only from the permittee, since the foundation\nof the statutory liability is the permission given to another to use an\ninstrumentality which if improperly used is a danger and menace to the public.\"\n(Peterson v. Grieger , Inc. (1961) 57 Cal. 2d 43, 54 [17 Cal. Rptr. 828, 367 P.2d\n420], internal quotation marks and citations omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1416–1421, 1427\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) Automobiles, §§4.28–4.32, 4.37\n2 Levy et al., California Torts, Ch. 20, Motor V ehicles, §20.20 (Matthew Bender)\n8 California Forms of Pleading and Practice, Ch. 82, Automobiles: Causes of Action ,\n§§82.11, 82.16 (Matthew Bender)\nCalifornia Civil Practice: Torts §§25:44–25:45 (Thomson Reuters)\nCACI No. 720 MOTOR VEHICLES AND HIGHW AY SAFETY\n570",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "17150",
+      "display": "Vehicle Code section 17150",
+      "raw": "Vehicle Code section 17150",
+      "span": [
+        16,
+        42
+      ],
+      "role": "sources",
+      "statute_key": "CA/VEH/17150"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "17151",
+      "display": "Vehicle Code section 17151",
+      "raw": "Vehicle Code section 17151(a)",
+      "span": [
+        41,
+        70
+      ],
+      "role": "sources",
+      "statute_key": "CA/VEH/17151"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "17151",
+      "display": "Vehicle Code section 17151(a)",
+      "raw": "Vehicle Code section 17151(a)",
+      "span": [
+        41,
+        70
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/VEH/17151/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "5602",
+      "display": "Vehicle Code section 5602",
+      "raw": "Vehicle Code section 5602",
+      "span": [
+        24,
+        49
+      ],
+      "role": "sources",
+      "statute_key": "CA/VEH/5602"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Fremont Compensation Insurance Co. v. Hartnett",
+      "year": 1993,
+      "volume": 19,
+      "reporter": "Cal.App.4th",
+      "page": 669,
+      "pin": "675–676",
+      "raw": "Fremont Compensation Insurance Co. v. Hartnett (1993) 19 Cal. App.4th 669, 675–676",
+      "span": [
+        216,
+        298
+      ],
+      "role": "sources",
+      "case_key": "19 Cal.App.4th 669"
+    },
+    {
+      "name": "Scheff v. Roberts",
+      "year": 1950,
+      "volume": 35,
+      "reporter": "Cal.2d",
+      "page": 10,
+      "pin": "12",
+      "raw": "Scheff v. Roberts (1950) 35 Cal. 2d 10, 12",
+      "span": [
+        227,
+        269
+      ],
+      "role": "sources",
+      "case_key": "35 Cal.2d 10"
+    },
+    {
+      "name": "Stoddart v. Peirce",
+      "year": 1959,
+      "volume": 53,
+      "reporter": "Cal.2d",
+      "page": 105,
+      "pin": "115",
+      "raw": "Stoddart v. Peirce (1959) 53 Cal. 2d 105, 115",
+      "span": [
+        542,
+        587
+      ],
+      "role": "sources",
+      "case_key": "53 Cal.2d 105"
+    },
+    {
+      "name": "Campbell v. Security Paciﬁc Nat. Bank",
+      "year": 1976,
+      "volume": 62,
+      "reporter": "Cal.App.3d",
+      "page": 379,
+      "pin": "385",
+      "raw": "Campbell v. Security Paciﬁc Nat. Bank (1976) 62 Cal. App.3d 379, 385",
+      "span": [
+        160,
+        228
+      ],
+      "role": "sources",
+      "case_key": "62 Cal.App.3d 379"
+    },
+    {
+      "name": "Laureano v. Christensen",
+      "year": 1971,
+      "volume": 18,
+      "reporter": "Cal.App.3d",
+      "page": 515,
+      "pin": "520–521",
+      "raw": "Laureano v. Christensen (1971) 18 Cal. App.3d 515, 520–521",
+      "span": [
+        302,
+        360
+      ],
+      "role": "sources",
+      "case_key": "18 Cal.App.3d 515"
+    },
+    {
+      "name": "McCalla v. Grosse",
+      "year": 1941,
+      "volume": 42,
+      "reporter": "Cal.App.2d",
+      "page": 546,
+      "pin": "549–550",
+      "raw": "McCalla v. Grosse (1941) 42 Cal. App.2d 546, 549–550",
+      "span": [
+        533,
+        585
+      ],
+      "role": "sources",
+      "case_key": "42 Cal.App.2d 546"
+    },
+    {
+      "name": "Krum v. Malloy",
+      "year": 1943,
+      "volume": 22,
+      "reporter": "Cal.2d",
+      "page": 132,
+      "pin": "136",
+      "raw": "Krum v. Malloy (1943) 22 Cal. 2d 132, 136",
+      "span": [
+        509,
+        550
+      ],
+      "role": "sources",
+      "case_key": "22 Cal.2d 132"
+    },
+    {
+      "name": "Galvis v. Petito",
+      "year": 1993,
+      "volume": 13,
+      "reporter": "Cal.App.4th",
+      "page": 551,
+      "pin": "554",
+      "raw": "Galvis v. Petito (1993) 13 Cal. App.4th 551, 554",
+      "span": [
+        373,
+        421
+      ],
+      "role": "sources",
+      "case_key": "13 Cal.App.4th 551"
+    },
+    {
+      "name": "Syah v. Johnson",
+      "year": 1966,
+      "volume": 247,
+      "reporter": "Cal.App.2d",
+      "page": 534,
+      "pin": "538",
+      "raw": "Syah v. Johnson (1966) 247 Cal. App.2d 534, 538",
+      "span": [
+        646,
+        693
+      ],
+      "role": "sources",
+      "case_key": "247 Cal.App.2d 534"
+    },
+    {
+      "name": "Tuderios v. Hertz Drivurself Stations, Inc.",
+      "year": 1945,
+      "volume": 70,
+      "reporter": "Cal.App.2d",
+      "page": 192,
+      "pin": "198",
+      "raw": "Tuderios v. Hertz Drivurself Stations, Inc. (1945) 70 Cal. App.2d 192, 198",
+      "span": [
+        403,
+        477
+      ],
+      "role": "sources",
+      "case_key": "70 Cal.App.2d 192"
+    },
+    {
+      "name": "Rashtian v. BRAC- BH, Inc.",
+      "year": 1992,
+      "volume": 9,
+      "reporter": "Cal.App.4th",
+      "page": 1847,
+      "pin": "1849",
+      "raw": "Rashtian v. BRAC- BH, Inc. (1992) 9 Cal. App.4th 1847, 1849",
+      "span": [
+        135,
+        194
+      ],
+      "role": "sources",
+      "case_key": "9 Cal.App.4th 1847"
+    },
+    {
+      "name": "Hicks v. Reis",
+      "year": 1943,
+      "volume": 21,
+      "reporter": "Cal.2d",
+      "page": 654,
+      "pin": "659",
+      "raw": "Hicks v. Reis (1943) 21 Cal. 2d 654, 659",
+      "span": [
+        220,
+        260
+      ],
+      "role": "sources",
+      "case_key": "21 Cal.2d 654"
+    },
+    {
+      "name": "Di Rebaylio v. Herndon",
+      "year": 1935,
+      "volume": 6,
+      "reporter": "Cal.App.2d",
+      "page": 567,
+      "pin": "569",
+      "raw": "Di Rebaylio v. Herndon (1935) 6 Cal. App.2d 567, 569",
+      "span": [
+        213,
+        265
+      ],
+      "role": "sources",
+      "case_key": "6 Cal.App.2d 567"
+    },
+    {
+      "name": "Anderson v. Wagnon",
+      "year": 1952,
+      "volume": 110,
+      "reporter": "Cal.App.2d",
+      "page": 362,
+      "pin": "366",
+      "raw": "Anderson v. Wagnon (1952) 110 Cal. App.2d 362, 366",
+      "span": [
+        136,
+        186
+      ],
+      "role": "sources",
+      "case_key": "110 Cal.App.2d 362"
+    },
+    {
+      "name": "Mucci v. Winter",
+      "year": 1951,
+      "volume": 103,
+      "reporter": "Cal.App.2d",
+      "page": 627,
+      "pin": "631",
+      "raw": "Mucci v. Winter (1951) 103 Cal. App.2d 627, 631",
+      "span": [
+        311,
+        358
+      ],
+      "role": "sources",
+      "case_key": "103 Cal.App.2d 627"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

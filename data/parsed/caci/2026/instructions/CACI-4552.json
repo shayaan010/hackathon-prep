@@ -1,0 +1,153 @@
+{
+  "id": "CACI-4552",
+  "edition": "2026",
+  "number": "4552",
+  "title": "Affirmative Defense—Work Completed and Accepted—Patent Defect",
+  "title_full": "Affirmative Defense—Work Completed and Accepted—Patent Defect",
+  "title_statute": null,
+  "series": "4500",
+  "series_title": "Series 4500 Construction Law",
+  "page_start": 3225,
+  "page_end": 3226,
+  "instruction_text": "4552. Affirmative Defense–Work Completed and\nAccepted–Patent Defect\n[Name of plaintiff ] claims that [his/her/ nonbinary pronoun] harm was\ncaused by a defect in the\n[design/speciﬁcations/surveying/planning/supervision/ [or] observation] of\n[a construction project/a survey of real property/[ specify project, e.g., the\nroof replacement]]. [ Name of defendant ] contends that [he/she/ nonbinary\npronoun/it] is not responsible for the defect because the project was\ncompleted and the work was accepted by [ name of owner ]. To succeed on\nthis defense, [ name of defendant ] must prove all of the following:\n1. That [ name of defendant ] completed all of [his/her/ nonbinary\npronoun/its] work on the project;\n2. That [ name of owner ] accepted [ name of defendant ]'s work; and\n3. That an average person during the course of a reasonable\ninspection would have discovered the defect.",
+  "directions_for_use": "Give this instruction to present the affirmative defense of \"completed and accepted.\"\nUnder this defense a party under contract for a construction project is not liable in\nnegligence for injury caused by a patent construction defect once the project has\nbeen completed and the owner has accepted the project. See also CACI No. 4550,\nAffırmative Defense–Statute of Limitations–Patent Construction Defect .\nThe defense applies if the work on the project component that caused the injury has\nbeen completed and accepted, even if the contractor continues to work on other\ncomponents of the project. (See Jones v. P .S. Development Co., Inc. (2008) 166\nCal. App.4th 707, 717 [82 Cal. Rptr.3d 882], disapproved on other grounds in Reid v.\nGoogle, Inc. (2010) 50 Cal. 4th 512, 113 Cal. Rptr.3d 327, 235 P.3d 988].) Modify\nelement 1 if necessary to reﬂect this situation.",
+  "sources_and_authority": [
+    {
+      "raw": "\" '[W]hen a contractor completes work that is accepted by the owner, the\ncontractor is not liable to third parties injured as a result of the condition of the\nwork, even if the contractor was negligent in performing the contract, unless the\ndefect in the work was latent or concealed. [Citation.] The rationale for this\ndoctrine is that an owner has a duty to inspect the work and ascertain its safety,\nand thus the owner's acceptance of the work shifts liability for its safety to the\nowner, provided that a reasonable inspection would disclose the defect.\n[Citation.]' Stated another way, 'when the owner has accepted a structure from\nthe contractor, the owner's failure to attempt to remedy an obviously dangerous\n1339\ndefect is an intervening cause for which the contractor is not liable.' The\ndoctrine applies to patent defects, but not latent defects. 'If an owner, fulﬁlling\nthe duty of inspection, cannot discover the defect, then the owner cannot\neffectively represent to the world that the construction is sufficient; he lacks\nadequate information to do so.' \" ( Neiman v. Leo A. Daly Co. (2012) 210\nCal. App.4th 962, 969 [148 Cal. Rptr.3d 818], footnote and internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Neiman v. Leo A. Daly Co.",
+          "year": 2012,
+          "volume": 210,
+          "reporter": "Cal.App.4th",
+          "page": 962,
+          "pin": "969",
+          "raw": "Neiman v. Leo A. Daly Co. (2012) 210 Cal. App.4th 962, 969",
+          "span": [
+            1073,
+            1131
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'Parties for whom work contracted for is undertaken, must see to it before\nacceptance, that the work, as to strength and durability, and all other particulars\nnecessary to the safety of the property and persons of third parties, is subjected\nto proper tests, and that it is sufficient. By acceptance and subsequent use, the\nowners assume to the world the responsibility of its sufficiency, and to third\nparties, the liability of the contractors has ceased, and their own commenced.' In\nother words, having a duty to inspect the work and ascertain its safety before\naccepting it, the owner's acceptance represents it to be safe and the owner\nbecomes liable for its safety.\" ( Sanchez v. Swinerton & Walberg Co. (1996) 47\nCal. App.4th 1461, 1466 [55 Cal. Rptr.2d 415], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The fact the project did not comply with the plans and speciﬁcations or\n[defendant] may not have fulﬁlled all of its duties to [owner] under the\nagreement, does not mean the project was not completed.\" ( Neiman, supra, 210\nCal. App.4th at p. 970.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"As there is no evidence that respondents retained control over the machine [that\ncaused injury], we conclude that they are not liable for [plaintiff]'s injuries.\"\n(Jones, supra, 166 Cal. App.4th at p. 718.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[A] patent defect is one that can be discovered by the kind of inspection made\nin the exercise of ordinary care and prudence. In contrast, a latent defect is\nhidden, and would not be discovered by a reasonably careful inspection.\" ( The\nLuckman Partnership, Inc. v. Superior Court (2010) 184 Cal. App.4th 30, 35\n[108 Cal. Rptr.3d 606].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "The Luckman Partnership, Inc. v. Superior Court",
+          "year": 2010,
+          "volume": 184,
+          "reporter": "Cal.App.4th",
+          "page": 30,
+          "pin": "35",
+          "raw": "The Luckman Partnership, Inc. v. Superior Court (2010) 184 Cal. App.4th 30, 35",
+          "span": [
+            234,
+            312
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The test to determine whether a construction defect is patent is an objective test\nthat asks 'whether the average consumer, during the course of a reasonable\ninspection, would discover the defect. The test assumes that an inspection takes\nplace.' This test generally presents a question of fact, unless the defect is\nobvious in the context of common experience; then a determination of patent\ndefect may be made as a matter of law (including on summary judgment).\"\n(Creekridge Townhome Owners Assn., Inc. v. C. Scott Whitten, Inc. (2009) 177\nCal. App.4th 251, 256 [99 Cal. Rptr.3d 258], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Creekridge Townhome Owners Assn., Inc. v. C. Scott Whitten, Inc.",
+          "year": 2009,
+          "volume": 177,
+          "reporter": "Cal.App.4th",
+          "page": 251,
+          "pin": "256",
+          "raw": "Creekridge Townhome Owners Assn., Inc. v. C. Scott Whitten, Inc. (2009) 177 Cal. App.4th 251, 256",
+          "span": [
+            467,
+            564
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §227\n12 California Real Estate Law and Practice, Ch. 441, Consumers' Remedies ,\n§441.01 (Matthew Bender)\n10 California Forms of Pleading and Practice, Ch. 104, Building Contracts , §104.25\n(Matthew Bender)\nCACI No. 4552 CONSTRUCTION LAW\n1340",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Neiman v. Leo A. Daly Co.",
+      "year": 2012,
+      "volume": 210,
+      "reporter": "Cal.App.4th",
+      "page": 962,
+      "pin": "969",
+      "raw": "Neiman v. Leo A. Daly Co. (2012) 210 Cal. App.4th 962, 969",
+      "span": [
+        1073,
+        1131
+      ],
+      "role": "sources",
+      "case_key": "210 Cal.App.4th 962"
+    },
+    {
+      "name": "The Luckman Partnership, Inc. v. Superior Court",
+      "year": 2010,
+      "volume": 184,
+      "reporter": "Cal.App.4th",
+      "page": 30,
+      "pin": "35",
+      "raw": "The Luckman Partnership, Inc. v. Superior Court (2010) 184 Cal. App.4th 30, 35",
+      "span": [
+        234,
+        312
+      ],
+      "role": "sources",
+      "case_key": "184 Cal.App.4th 30"
+    },
+    {
+      "name": "Creekridge Townhome Owners Assn., Inc. v. C. Scott Whitten, Inc.",
+      "year": 2009,
+      "volume": 177,
+      "reporter": "Cal.App.4th",
+      "page": 251,
+      "pin": "256",
+      "raw": "Creekridge Townhome Owners Assn., Inc. v. C. Scott Whitten, Inc. (2009) 177 Cal. App.4th 251, 256",
+      "span": [
+        467,
+        564
+      ],
+      "role": "sources",
+      "case_key": "177 Cal.App.4th 251"
+    },
+    {
+      "name": "Reid v. Google, Inc.",
+      "year": 2010,
+      "volume": 50,
+      "reporter": "Cal.4th",
+      "page": 512,
+      "pin": "113",
+      "raw": "Reid v. Google, Inc. (2010) 50 Cal. 4th 512, 113",
+      "span": [
+        725,
+        773
+      ],
+      "role": "directions",
+      "case_key": "50 Cal.4th 512"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

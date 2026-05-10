@@ -1,0 +1,103 @@
+{
+  "id": "CACI-2741",
+  "edition": "2026",
+  "number": "2741",
+  "title": "Affirmative Defense—Different Pay Justified",
+  "title_full": "Affirmative Defense—Different Pay Justified",
+  "title_statute": null,
+  "series": "2700",
+  "series_title": "Series 2700 Labor Code Actions",
+  "page_start": 1955,
+  "page_end": 1956,
+  "instruction_text": "2741. Affirmative Defense–Different Pay Justiﬁed\n[Name of defendant ] claims that [he/she/ nonbinary pronoun/it] was justiﬁed\nin paying [ name of plaintiff ] a wage rate that was less than the rate paid\nto employees of [the opposite sex/another race/another ethnicity]. To\nestablish this defense, [ name of defendant ] must prove all of the following:\n1. That the wage differential was based on one or more of the\nfollowing factors:\n[a. A seniority system;]\n[b. A merit system;]\n[c. A system that measures earnings by quantity or quality of\nproduction;]\n[d. ( Specify alleged bona ﬁde factor(s) other than sex, race, or\nethnicity, such as education, training, or experience. ).]\n2. That each factor was applied reasonably; and\n3. That the factor[s] that [ name of defendant ] relied on account[s] for\nthe entire wage differential.\nPrior salary does not justify any disparity in current compensation.",
+  "directions_for_use": "The California Equal Pay Act presents four factors that an employer may offer to\njustify a pay differential that results in an apparent pay disparity based on gender,\nrace, or ethnicity. Factors a, b, and c in element 1 are speciﬁc.\nIf factor d is selected, the jury must also be instructed with CACI No. 2742, Bona\nFide Factor Other Than Sex, Race, or Ethnicity, which establishes what bona ﬁde\nfactors other than sex, race, or ethnicity may justify a pay differential. (See Lab.\nCode, §1197.5(a)(1), (b)(1).) Choose the factor or factors that the employer asserts\nas justiﬁcation.",
+  "sources_and_authority": [
+    {
+      "raw": "Factors Justifying Pay Differential. Labor Code section 1197.5(a)(1), (b)(1).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "1197.5",
+          "display": "Labor Code section 1197.5",
+          "raw": "Labor Code section 1197.5(a)(1)",
+          "span": [
+            37,
+            68
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "1197.5",
+          "display": "Labor Code section 1197.5(a)",
+          "raw": "Labor Code section 1197.5(a)(1)",
+          "span": [
+            37,
+            68
+          ],
+          "subsection": "a"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "1197.5",
+          "display": "Labor Code section 1197.5(1)",
+          "raw": "Labor Code section 1197.5(a)(1)",
+          "span": [
+            37,
+            68
+          ],
+          "subsection": "1"
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "3 Witkin, Summary of California Law (11th ed. 2017) Agency and Employment,\n§§355 et seq., 430, 431\nChin et al., California Practice Guide: Employment Litigation, Ch. 11-G,\nCompensation–Wage Discrimination, ¶ 11:1075 et seq. (The Rutter Group)\n3 Wilcox, California Employment Law, Ch. 43, Civil Actions Under Equal\n69\nEmployment Opportunity Laws, §43.02 (Matthew Bender)\n21 California Forms of Pleading and Practice, Ch. 250, Employment Law: Wage and\nHour Disputes, §250.14 (Matthew Bender)\nCACI No. 2741 LABOR CODE ACTIONS\n70",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "1197.5",
+      "display": "Labor Code section 1197.5",
+      "raw": "Labor Code section 1197.5(a)(1)",
+      "span": [
+        37,
+        68
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/1197.5"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "1197.5",
+      "display": "Labor Code section 1197.5(a)",
+      "raw": "Labor Code section 1197.5(a)(1)",
+      "span": [
+        37,
+        68
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/LAB/1197.5/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "1197.5",
+      "display": "Labor Code section 1197.5(1)",
+      "raw": "Labor Code section 1197.5(a)(1)",
+      "span": [
+        37,
+        68
+      ],
+      "subsection": "1",
+      "role": "sources",
+      "statute_key": "CA/LAB/1197.5/1"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:19+00:00"
+}

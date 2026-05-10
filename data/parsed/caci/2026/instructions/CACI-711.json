@@ -1,0 +1,89 @@
+{
+  "id": "CACI-711",
+  "edition": "2026",
+  "number": "711",
+  "title": "The Passenger’s Duty of Care for Own Safety",
+  "title_full": "The Passenger’s Duty of Care for Own Safety",
+  "title_statute": null,
+  "series": "700",
+  "series_title": "Series 700 Motor Vehicles and Highway Safety",
+  "page_start": 638,
+  "page_end": 638,
+  "instruction_text": "711. The Passenger's Duty of Care for Own Safety\nA passenger is not required to be aware of the conditions on the highway\nand is entitled to expect that a driver will use reasonable care. However,\nif a passenger becomes aware of [a danger on the highway] [the driver's\nimpairment or failure to use reasonable care], then the passenger must\ntake reasonable steps to protect the passenger's own safety.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\" 'In the absence of some fact brought to his attention which would cause a\nperson of ordinary prudence to act otherwise, a passenger in an automobile has\nno duty to observe traffic conditions on the highway, and his mere failure to do\nso, without more, will not support a ﬁnding of contributory negligence. In other\nwords, an automobile passenger's \"duty to look\" does not arise until some factor\nof danger comes to his attention, thus charging him as a person of ordinary\nprudence to take steps for his own safety. . . .' \" ( Casey v. Russell (1982) 138\nCal. App.3d 379, 386–387 [188 Cal. Rptr. 18], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Casey v. Russell",
+          "year": 1982,
+          "volume": 138,
+          "reporter": "Cal.App.3d",
+          "page": 379,
+          "pin": "386–387",
+          "raw": "Casey v. Russell (1982) 138 Cal. App.3d 379, 386–387",
+          "span": [
+            528,
+            580
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Even when negligence of a driver may not be imputed to him, the passenger is\nbound to exercise ordinary care for his own safety. He may not shut his eyes to\nan obvious danger; he may not blindly rely on the driver in approaching a place\nof danger. He is normally bound to protest against actual negligence or\nrecklessness of the driver, the extent of his duty in this regard depending upon\nthe particular circumstances of each case and ordinarily being a question of fact\nfor the jury.\" ( Pobor v. Western Paciﬁc Railroad Co. (1961) 55 Cal. 2d 314, 324\n[11 Cal. Rptr. 106, 359 P.2d 474], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Pobor v. Western Paciﬁc Railroad Co.",
+          "year": 1961,
+          "volume": 55,
+          "reporter": "Cal.2d",
+          "page": 314,
+          "pin": "324",
+          "raw": "Pobor v. Western Paciﬁc Railroad Co. (1961) 55 Cal. 2d 314, 324",
+          "span": [
+            490,
+            553
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "California Tort Guide (Cont.Ed.Bar 3d ed.) §§4.67–4.71\n2 Levy et al., California Torts, Ch. 20, Motor V ehicles, §20.03[2][c] (Matthew\nBender)\n2 California Civil Practice: Torts §25:29 (Thomson Reuters)\n564",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Casey v. Russell",
+      "year": 1982,
+      "volume": 138,
+      "reporter": "Cal.App.3d",
+      "page": 379,
+      "pin": "386–387",
+      "raw": "Casey v. Russell (1982) 138 Cal. App.3d 379, 386–387",
+      "span": [
+        528,
+        580
+      ],
+      "role": "sources",
+      "case_key": "138 Cal.App.3d 379"
+    },
+    {
+      "name": "Pobor v. Western Paciﬁc Railroad Co.",
+      "year": 1961,
+      "volume": 55,
+      "reporter": "Cal.2d",
+      "page": 314,
+      "pin": "324",
+      "raw": "Pobor v. Western Paciﬁc Railroad Co. (1961) 55 Cal. 2d 314, 324",
+      "span": [
+        490,
+        553
+      ],
+      "role": "sources",
+      "case_key": "55 Cal.2d 314"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

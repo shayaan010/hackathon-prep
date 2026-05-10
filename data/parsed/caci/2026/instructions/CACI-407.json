@@ -1,0 +1,104 @@
+{
+  "id": "CACI-407",
+  "edition": "2026",
+  "number": "407",
+  "title": "Comparative Fault of Decedent",
+  "title_full": "Comparative Fault of Decedent",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 323,
+  "page_end": 323,
+  "instruction_text": "407. Comparative Fault of Decedent\n[Name of defendant ] claims that [ name of decedent ]'s own negligence\ncontributed to [his/her/ nonbinary pronoun] death. To succeed on this\nclaim, [ name of defendant ] must prove both of the following:\n1. That [ name of decedent ] was negligent; and\n2. That [ name of decedent ]'s negligence was a substantial factor in\ncausing [his/her/ nonbinary pronoun ] death.\nIf [ name of defendant ] proves the above, [ name of plaintiff ]'s damages are\nreduced by your determination of the percentage of [ name of decedent ]'s\nresponsibility. I will calculate the actual reduction.",
+  "directions_for_use": "This instruction should not be given absent evidence that the decedent was\nnegligent. ( Drust v. Drust (1980) 113 Cal. App.3d 1, 6 [169 Cal. Rptr. 750].)",
+  "sources_and_authority": [
+    {
+      "raw": "\"[P]rinciples of comparative fault and equitable indemniﬁcation support an\napportionment of liability among those responsible for the loss, including the\ndecedent, whether it be for personal injury or wrongful death.\" ( Horwich v.\nSuperior Court (1999) 21 Cal. 4th 272, 285 [87 Cal. Rptr.2d 222, 980 P.2d 927].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Horwich v. Superior Court",
+          "year": 1999,
+          "volume": 21,
+          "reporter": "Cal.4th",
+          "page": 272,
+          "pin": "285",
+          "raw": "Horwich v. Superior Court (1999) 21 Cal. 4th 272, 285",
+          "span": [
+            220,
+            273
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]n wrongful death actions, the fault of the decedent is attributable to the\nsurviving heirs whose recovery must be offset by the same percentage.\n[Citation.]\" ( Atkins v. Strayhorn (1990) 223 Cal. App.3d 1380, 1395 [273\nCal. Rptr. 231].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Atkins v. Strayhorn",
+          "year": 1990,
+          "volume": 223,
+          "reporter": "Cal.App.3d",
+          "page": 1380,
+          "pin": "1395",
+          "raw": "Atkins v. Strayhorn (1990) 223 Cal. App.3d 1380, 1395",
+          "span": [
+            164,
+            217
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1560\n1 Levy et al., California Torts, Ch. 4, Comparative Negligence, Assumption of the\nRisk, and Related Defenses , §4.07 (Matthew Bender)\n4 Levy et al., California Torts, Ch. 55, Death and Survival Actions , §55.05\n(Matthew Bender)\n15 California Forms of Pleading and Practice, Ch. 181, Death and Survival Actions,\n§181.12 (Matthew Bender)\n6 California Points and Authorities, Ch. 66, Death and Survival Actions , §66.20 et\nseq. (Matthew Bender)\n408–410. Reserved for Future Use\n249",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Horwich v. Superior Court",
+      "year": 1999,
+      "volume": 21,
+      "reporter": "Cal.4th",
+      "page": 272,
+      "pin": "285",
+      "raw": "Horwich v. Superior Court (1999) 21 Cal. 4th 272, 285",
+      "span": [
+        220,
+        273
+      ],
+      "role": "sources",
+      "case_key": "21 Cal.4th 272"
+    },
+    {
+      "name": "Atkins v. Strayhorn",
+      "year": 1990,
+      "volume": 223,
+      "reporter": "Cal.App.3d",
+      "page": 1380,
+      "pin": "1395",
+      "raw": "Atkins v. Strayhorn (1990) 223 Cal. App.3d 1380, 1395",
+      "span": [
+        164,
+        217
+      ],
+      "role": "sources",
+      "case_key": "223 Cal.App.3d 1380"
+    },
+    {
+      "name": "Drust v. Drust",
+      "year": 1980,
+      "volume": 113,
+      "reporter": "Cal.App.3d",
+      "page": 1,
+      "pin": "6",
+      "raw": "Drust v. Drust (1980) 113 Cal. App.3d 1, 6",
+      "span": [
+        88,
+        130
+      ],
+      "role": "directions",
+      "case_key": "113 Cal.App.3d 1"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

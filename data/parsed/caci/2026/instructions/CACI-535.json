@@ -1,0 +1,70 @@
+{
+  "id": "CACI-535",
+  "edition": "2026",
+  "number": "535",
+  "title": "Risks of Nontreatment—Essential Factual Elements",
+  "title_full": "Risks of Nontreatment—Essential Factual Elements",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 563,
+  "page_end": 563,
+  "instruction_text": "535. Risks of Nontreatment–Essential Factual Elements\n[Name of plaintiff ] claims that [ name of defendant ] was negligent because\n[he/she/nonbinary pronoun] did not adequately inform [ name of plaintiff ]\nabout the risks of refusing the [ insert medical procedure ]. To establish this\nclaim, [ name of plaintiff ] must prove all of the following:\n1. That [ name of defendant ] did not perform the [ insert medical\nprocedure] on [ name of plaintiff ];\n2. That [ name of defendant ] did not disclose to [ name of plaintiff ] the\nimportant potential risks of refusing the [ insert medical\nprocedure];\n3. That a reasonable person in [ name of plaintiff ]'s position would\nhave agreed to the [ insert medical procedure ] if that person had\nbeen adequately informed about these risks; and\n4. That [ name of plaintiff ] was harmed by the failure to have the\n[insert medical procedure ] performed.",
+  "directions_for_use": "This instruction presents the \"informed refusal\" doctrine. (See Townsend v. Turk\n(1990) 218 Cal. App.3d 278, 284 [266 Cal. Rptr. 821].) It should be given with CACI\nNo. 534, Informed Refusal–Deﬁnition .\nIf the patient is a minor or is incapacitated, tailor the instruction accordingly.\nAlso, see CACI No. 531, Consent on Behalf of Another .",
+  "sources_and_authority": [
+    {
+      "raw": "\"Applying these principles, the court in Cobbs [Cobbs v. Grant (1972) 8 Cal. 3d\n229, 243 [104 Cal. Rptr. 505, 502 P.2d 1]] stated that a patient must be apprised\nnot only of the 'risks inherent in the procedure [prescribed, but also] the risks of\na decision not to undergo the treatment, and the probability of a successful\noutcome of the treatment.' This rule applies whether the procedure involves\ntreatment or a diagnostic test. On the one hand, a physician recommending a\nrisk-free procedure may safely forego discussion beyond that necessary to\nconform to competent medical practice and to obtain the patient's consent. If a\npatient indicates that he or she is going to decline the risk-free test or treatment,\nthen the doctor has the additional duty of advising of all material risks of which\na reasonable person would want to be informed before deciding not to undergo\nthe procedure. On the other hand, if the recommended test or treatment is itself\nrisky, then the physician should always explain the potential consequences of\ndeclining to follow the recommended course of action.\" ( Truman v. Thomas\n489",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cobbs v. Grant",
+          "year": 1972,
+          "volume": 8,
+          "reporter": "Cal.3d",
+          "page": 229,
+          "pin": "243",
+          "raw": "Cobbs v. Grant (1972) 8 Cal. 3d 229, 243",
+          "span": [
+            48,
+            88
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Cobbs v. Grant",
+      "year": 1972,
+      "volume": 8,
+      "reporter": "Cal.3d",
+      "page": 229,
+      "pin": "243",
+      "raw": "Cobbs v. Grant (1972) 8 Cal. 3d 229, 243",
+      "span": [
+        48,
+        88
+      ],
+      "role": "sources",
+      "case_key": "8 Cal.3d 229"
+    },
+    {
+      "name": "See Townsend v. Turk",
+      "year": 1990,
+      "volume": 218,
+      "reporter": "Cal.App.3d",
+      "page": 278,
+      "pin": "284",
+      "raw": "See Townsend v. Turk (1990) 218 Cal. App.3d 278, 284",
+      "span": [
+        60,
+        112
+      ],
+      "role": "directions",
+      "case_key": "218 Cal.App.3d 278"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "CACI-4408",
+  "edition": "2026",
+  "number": "4408",
+  "title": "Improper Means of Acquiring Trade Secret",
+  "title_full": "Improper Means of Acquiring Trade Secret",
+  "title_statute": null,
+  "series": "4400",
+  "series_title": "Series 4400 Trade Secrets",
+  "page_start": 3139,
+  "page_end": 3140,
+  "instruction_text": "4408. Improper Means of Acquiring Trade Secret\nImproper means of acquiring a trade secret or knowledge of a trade\nsecret include, but are not limited to, [theft/bribery/misrepresentation/\nbreach or inducing a breach of a duty to maintain secrecy/ [or]\nwiretapping, electronic eavesdropping, [or] [ insert other means of\nespionage]].\n[However, it is not improper to acquire a trade secret or knowledge of\nthe trade secret by [any of the following]:\n[1. Independent efforts to invent or discover the information;]\n[2. Reverse engineering; that is, examining or testing a product to\ndetermine how it works, by a person who has a right to possess\nthe product;]\n[3. Obtaining the information as a result of a license agreement with\nthe owner of the information;]\n[4. Observing the information in public use or on public display;]\n[or]\n[5. Obtaining the information from published literature, such as\ntrade journals, reference books, the Internet, or other publicly\navailable sources.]]",
+  "directions_for_use": "In the ﬁrst paragraph, include only those statutory examples of \"improper means\"\nsupported by the evidence. (See Civ. Code, §3426.1(a).) The option for\n\"wiretapping, eavesdropping, [or] [ insert other means of espionage ]\" expresses the\nstatutory term \"espionage.\"\nInclude the optional last paragraph if any of those methods of obtaining the\ninformation are supported by the evidence. Omit any methods that are not at issue.\nIf only one is at issue, omit \"any of the following.\"",
+  "sources_and_authority": [
+    {
+      "raw": "\"Improper Means\" Deﬁned. Civil Code section 3426.1(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1",
+          "raw": "Civil Code section 3426.1(a)",
+          "span": [
+            25,
+            53
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1(a)",
+          "raw": "Civil Code section 3426.1(a)",
+          "span": [
+            25,
+            53
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Electronic Eavesdropping. Penal Code section 630.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "630",
+          "display": "Penal Code section 630",
+          "raw": "Penal Code section 630",
+          "span": [
+            26,
+            48
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The Restatement of Torts, Section 757, Comment (f), notes: 'A complete\ncatalogue of improper means is not possible,' but Section 1(1) includes a partial\nlisting. Proper means include: 1. Discovery by independent invention; 2.\nDiscovery by \"reverse engineering,\" that is, by starting with the known product\nand working backward to ﬁnd the method by which it was developed. The\n1253\nacquisition of the known product must of course, also be by a fair and honest\nmeans, such as purchase of the item on the open market for reverse engineering\nto be lawful; 3. Discovery under a license from the owner of the trade secret; 4.\nObservation of the item in public use or on public display; 5. Obtaining the trade\nsecret from published literature. . . . [T]he assertion that a matter is readily\nascertainable by proper means remains available as a defense to a claim of\nmisappropriation. Information is readily ascertainable if it is available in trade\njournals, reference books, or published materials.\" (Civ. Code, §3426.1, Legis.\nComm. Comment (Senate), 1984 Addition.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1",
+          "raw": "Civ. Code, §3426.1",
+          "span": [
+            996,
+            1014
+          ]
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "13 Witkin, Summary of California Law (11th ed. 2017) Equity, §83\nGaab & Reese, California Practice Guide: Civil Procedure Before Trial–Claims &\nDefenses, Ch. 10(II)-A ¶ 10:250 (The Rutter Group)\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.53[1][b] (Matthew Bender)\n49 California Forms of Pleading and Practice, Ch. 565, Unfair Competition ,\n§565.103[4][b] (Matthew Bender)\nEdelson & Kay, eds., Trade Secret Litigation and Protection in California (State Bar\nof California 2009) §2.01(D)\nCACI No. 4408 TRADE SECRETS\n1254",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1",
+      "raw": "Civil Code section 3426.1(a)",
+      "span": [
+        25,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1(a)",
+      "raw": "Civil Code section 3426.1(a)",
+      "span": [
+        25,
+        53
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "630",
+      "display": "Penal Code section 630",
+      "raw": "Penal Code section 630",
+      "span": [
+        26,
+        48
+      ],
+      "role": "sources",
+      "statute_key": "CA/PEN/630"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

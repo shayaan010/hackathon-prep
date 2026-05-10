@@ -1,0 +1,114 @@
+{
+  "id": "CACI-2004",
+  "edition": "2026",
+  "number": "2004",
+  "title": "“Intentional Entry” Explained",
+  "title_full": "“Intentional Entry” Explained",
+  "title_statute": null,
+  "series": "2000",
+  "series_title": "Series 2000 Trespass",
+  "page_start": 1338,
+  "page_end": 1339,
+  "instruction_text": "2004. \"Intentional Entry\" Explained\n[An entry is intentional if a person knowingly goes onto the property of\nanother or knowingly causes something to go onto that property.]\n[An entry is intentional if a person engages in conduct that is\nsubstantially certain to cause something to go onto that property.]\n[Intent to trespass means only that a person intended to be in the\nparticular location where the trespass is alleged to have occurred. An\nentry is intentional even if the person reasonably but mistakenly thought\nthat the person had a right to come onto that property.]\nAn intent to do harm to the property or to the owner is not required.",
+  "directions_for_use": "This instruction is not intended for general use in every case. Give one of the three\nbracketed options if an issue regarding the intent of the entry is raised and further\nexplanation is required. The third option should be given if the entry could appear\nto the jury to be unintentional, such as if the defendant was not aware that the\ndefendant was trespassing. (See Miller v. National Broadcasting Corp. (1986) 187\nCal. App.3d 1463, 1480–1481 [232 Cal. Rptr. 668].)",
+  "sources_and_authority": [
+    {
+      "raw": "\"The doing of an act which will to a substantial certainty result in the entry of\nforeign matter upon another's land suffices for an intentional trespass to land\nupon which liability may be based. It was error to instruct the jury that an\n'intent to harm' was required.\" ( Roberts v. Permanente Corp . (1961) 188\nCal. App.2d 526, 530–531 [10 Cal. Rptr. 519], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "An instruction on the deﬁnition of intentional trespass is considered a proper\nstatement of law. Failure to give this instruction on request where appropriate is\nerror. (Staples v. Hoefke (1987) 189 Cal. App.3d 1397, 1407 [235 Cal. Rptr. 165].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Staples v. Hoefke",
+          "year": 1987,
+          "volume": 189,
+          "reporter": "Cal.App.3d",
+          "page": 1397,
+          "pin": "1407",
+          "raw": "Staples v. Hoefke (1987) 189 Cal. App.3d 1397, 1407",
+          "span": [
+            170,
+            221
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"As Prosser and Keeton on Torts . . . explained, '[t]he intent required as a basis\nfor liability as a trespasser is simply an intent to be at the place on the land\nwhere the trespass allegedly occurred . . . . The defendant is liable for an\nintentional entry although he has acted in good faith, under the mistaken belief,\nhowever reasonable, that he is committing no wrong.' \" ( Miller, supra, 187\nCal. App.3d at pp. 1480–1481, internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Intent to cause damage was not, however, an element of [trespass] and . . . the\ntrespasser was liable for such damage as he caused even though that damage\nwas not intended or foreseen by him.\" ( Meyer v. Paciﬁc Employers Ins. Co.\n(1965) 233 Cal. App.2d 321, 326 [43 Cal. Rptr. 542].)\n1264",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Meyer v. Paciﬁc Employers Ins. Co.",
+          "year": 1965,
+          "volume": 233,
+          "reporter": "Cal.App.2d",
+          "page": 321,
+          "pin": "326",
+          "raw": "Meyer v. Paciﬁc Employers Ins. Co. (1965) 233 Cal. App.2d 321, 326",
+          "span": [
+            196,
+            262
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "2 Levy et al., California Torts, Ch. 17, Nuisance and Trespass , §17.20[3] (Matthew\nBender)\n48 California Forms of Pleading and Practice, Ch. 550, Trespass, §550.15 (Matthew\nBender)\n22 California Points and Authorities, Ch. 225, Trespass, §225.40 (Matthew Bender)\nCalifornia Civil Practice: Torts §18:4 (Thomson Reuters)\nTRESPASS CACI No. 2004\n1265",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Staples v. Hoefke",
+      "year": 1987,
+      "volume": 189,
+      "reporter": "Cal.App.3d",
+      "page": 1397,
+      "pin": "1407",
+      "raw": "Staples v. Hoefke (1987) 189 Cal. App.3d 1397, 1407",
+      "span": [
+        170,
+        221
+      ],
+      "role": "sources",
+      "case_key": "189 Cal.App.3d 1397"
+    },
+    {
+      "name": "Meyer v. Paciﬁc Employers Ins. Co.",
+      "year": 1965,
+      "volume": 233,
+      "reporter": "Cal.App.2d",
+      "page": 321,
+      "pin": "326",
+      "raw": "Meyer v. Paciﬁc Employers Ins. Co. (1965) 233 Cal. App.2d 321, 326",
+      "span": [
+        196,
+        262
+      ],
+      "role": "sources",
+      "case_key": "233 Cal.App.2d 321"
+    },
+    {
+      "name": "See Miller v. National Broadcasting Corp.",
+      "year": 1986,
+      "volume": 187,
+      "reporter": "Cal.App.3d",
+      "page": 1463,
+      "pin": "1480–1481",
+      "raw": "See Miller v. National Broadcasting Corp. (1986) 187 Cal. App.3d 1463, 1480–1481",
+      "span": [
+        365,
+        445
+      ],
+      "role": "directions",
+      "case_key": "187 Cal.App.3d 1463"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:15+00:00"
+}

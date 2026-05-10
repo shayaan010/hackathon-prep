@@ -1,0 +1,504 @@
+{
+  "id": "CACI-450A",
+  "edition": "2026",
+  "number": "450A",
+  "title": "Good Samaritan—Nonemergency",
+  "title_full": "Good Samaritan—Nonemergency",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 403,
+  "page_end": 405,
+  "instruction_text": "450A. Good Samaritan–Nonemergency\n[Name of defendant ] claims that [he/she/ nonbinary pronoun] is not\nresponsible for [ name of plaintiff ]'s harm because [he/she/ nonbinary\npronoun] was voluntarily trying to protect [ name of plaintiff ] from harm\nin a nonemergency situation. If you decide that [ name of defendant ] was\nnegligent, [he/she/ nonbinary pronoun] is not responsible unless [ name of\nplaintiff] proves both of the following:\n1. [(a) That [ name of defendant ]'s failure to use reasonable care\nadded to the risk of harm;]\n1. [or]\n1. [(b) That [ name of defendant ]'s conduct caused [ name of plaintiff ]\nto reasonably rely on [his/her/ nonbinary pronoun ] protection;]\nAND\n2. That the [additional risk/ [or] reliance] was a substantial factor in\ncausing harm to [ name of plaintiff ].\nDerived from former CACI No. 450 December 2010",
+  "directions_for_use": "Use this instruction for situations other than at the scene of an emergency. Different\nstandards apply in an emergency situation. (See Health & Saf. Code, §1799.102;\nCACI No. 450B, Good Samaritan–Scene of Emergency .) Give both instructions if\nthe jury will be asked to decide whether an emergency existed as the preliminary\nissue. Because under Health and Safety Code section 1799.102 a defendant receives\ngreater protection in an emergency situation, the advisory committee believes that\nthe defendant bears the burden of proving an emergency. (See Evid. Code, §500\n[party has the burden of proof as to each fact the existence or nonexistence of\nwhich is essential to the claim for relief or defense asserted].)\nSelect either or both options for element 1 depending on the facts.",
+  "sources_and_authority": [
+    {
+      "raw": "Good Samaritan Immunity for Medical Licensees. Business and Professions\nCode sections 2395–2398.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "2395",
+          "display": "Business and Professions Code section 2395",
+          "raw": "Business and Professions\nCode sections 2395",
+          "span": [
+            47,
+            90
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Good Samaritan Immunity for Nurses. Business and Professions Code sections\n2727.5, 2861.5.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "2727.5",
+          "display": "Business and Professions Code section 2727.5",
+          "raw": "Business and Professions Code sections\n2727.5, 2861.5",
+          "span": [
+            36,
+            89
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "2861.5",
+          "display": "Business and Professions Code section 2861.5",
+          "raw": "Business and Professions Code sections\n2727.5, 2861.5",
+          "span": [
+            36,
+            89
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Good Samaritan Immunity for Dentists. Business and Professions Code section\n1627.5.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "1627.5",
+          "display": "Business and Professions Code section 1627.5",
+          "raw": "Business and Professions Code section\n1627.5",
+          "span": [
+            38,
+            82
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Good Samaritan Immunity for Rescue Teams. Health and Safety Code section\n1317(f).\n329",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "HSC",
+          "section": "1317",
+          "display": "Health and Safety Code section 1317",
+          "raw": "Health and Safety Code section\n1317(f)",
+          "span": [
+            42,
+            80
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "HSC",
+          "section": "1317",
+          "display": "Health and Safety Code section 1317(f)",
+          "raw": "Health and Safety Code section\n1317(f)",
+          "span": [
+            42,
+            80
+          ],
+          "subsection": "f"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Good Samaritan Immunity for Persons Rendering Emergency Medical Services\nHealth and Safety Code section 1799.102.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "HSC",
+          "section": "1799.102",
+          "display": "Health and Safety Code section 1799.102",
+          "raw": "Health and Safety Code section 1799.102",
+          "span": [
+            73,
+            112
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Good Samaritan Immunity for Paramedics. Health and Safety Code section\n1799.104.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "HSC",
+          "section": "1799.104",
+          "display": "Health and Safety Code section 1799.104",
+          "raw": "Health and Safety Code section\n1799.104",
+          "span": [
+            40,
+            79
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Good Samaritan Immunity for First-Aid V olunteers. Government Code section\n50086.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "50086",
+          "display": "Government Code section 50086",
+          "raw": "Government Code section\n50086",
+          "span": [
+            51,
+            80
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Under well-established common law principles, a person has no duty to come\nto the aid of another. If, however, a person elects to come to someone's aid, he\nor she has a duty to exercise due care. Thus, a 'good Samaritan' who attempts to\nhelp someone might be liable if he or she does not exercise due care and ends\nup causing harm.\" ( V an Horn v. Watson (2008) 45 Cal. 4th 322, 324 [86\nCal. Rptr.3d 350, 197 P.3d 164], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Horn v. Watson",
+          "year": 2008,
+          "volume": 45,
+          "reporter": "Cal.4th",
+          "page": 322,
+          "pin": "324",
+          "raw": "Horn v. Watson (2008) 45 Cal. 4th 322, 324",
+          "span": [
+            341,
+            383
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A person who has not created a peril is not liable in tort merely for failure to\ntake affirmative action to assist or protect another unless there is some\nrelationship between them which gives rise to a duty to act. Also pertinent to our\ndiscussion is the role of the volunteer who, having no initial duty to do so,\nundertakes to come to the aid of another–the 'good Samaritan.' . . . He is\nunder a duty to exercise due care in performance and is liable if (a) his failure to\nexercise such care increases the risk of such harm, or (b) the harm is suffered\nbecause of the other's reliance upon the undertaking.\" ( Williams v. State of\nCalifornia (1983) 34 Cal. 3d 18, 23 [192 Cal. Rptr. 233, 664 P.2d 137], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Williams v. State of California",
+          "year": 1983,
+          "volume": 34,
+          "reporter": "Cal.3d",
+          "page": 18,
+          "pin": "23",
+          "raw": "Williams v. State of California (1983) 34 Cal. 3d 18, 23",
+          "span": [
+            614,
+            670
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A defendant does not increase the risk of harm by merely failing to eliminate a\npreexisting risk.\" ( University of Southern California v. Superior Court (2018) 30\nCal. App.5th 429, 450 [241 Cal. Rptr.3d 616].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "University of Southern California v. Superior Court",
+          "year": 2018,
+          "volume": 30,
+          "reporter": "Cal.App.5th",
+          "page": 429,
+          "pin": "450",
+          "raw": "University of Southern California v. Superior Court (2018) 30 Cal. App.5th 429, 450",
+          "span": [
+            102,
+            185
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A police officer, paramedic or other public safety worker is as much entitled to\nthe beneﬁt of this general rule as anyone else.\" ( Camp v. State of California\n(2010) 184 Cal. App.4th 967, 975 [109 Cal. Rptr.3d 676].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Camp v. State of California",
+          "year": 2010,
+          "volume": 184,
+          "reporter": "Cal.App.4th",
+          "page": 967,
+          "pin": "975",
+          "raw": "Camp v. State of California (2010) 184 Cal. App.4th 967, 975",
+          "span": [
+            133,
+            193
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The police owe duties of care only to the public at large and, except where they\nenter into a 'special relationship,' have no duty to offer affirmative assistance to\nanyone in particular.\" ( Arista v. County of Riverside (2018) 29 Cal. App.5th 1051,\n1060–1061 [241 Cal. Rptr.3d 437].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Arista v. County of Riverside",
+          "year": 2018,
+          "volume": 29,
+          "reporter": "Cal.App.5th",
+          "page": 1051,
+          "pin": "1060–1061",
+          "raw": "Arista v. County of Riverside (2018) 29 Cal. App.5th 1051, 1060–1061",
+          "span": [
+            192,
+            260
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Under the good Samaritan doctrine, CHP may have a duty to members of the\npublic to exercise due care when CHP voluntarily assumes a protective duty\ntoward a certain member of the public and undertakes action on behalf of that\nmember thereby inducing reliance, when an express promise to warn of a danger\nhas induced reliance, or when the actions of CHP place a person in peril or\nincrease the risk of harm. In other words, to create a special relationship and a\nduty of care, there must be evidence that CHP ' \"made misrepresentations that\ninduced a citizen's detrimental reliance [citation], placed a citizen in harm's way\n[citations], or lulled a citizen into a false sense of security and then withdrew\nessential safety precautions.\" ' Nonfeasance that leaves the citizen in exactly the\nCACI No. 450A NEGLIGENCE\n330\nsame position that he or she already occupied cannot support a ﬁnding of duty\nof care. Affirmative conduct or misfeasance on the part of CHP that induces\nreliance or changes the risk of harm is required.\" ( Greyhound Lines, Inc. v.\nDepartment of the California Highway Patrol (2013) 213 Cal. App.4th 1129,\n1136 [152 Cal. Rptr.3d 492], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Greyhound Lines, Inc. v. Department of the California Highway Patrol",
+          "year": 2013,
+          "volume": 213,
+          "reporter": "Cal.App.4th",
+          "page": 1129,
+          "pin": "1136",
+          "raw": "Greyhound Lines, Inc. v. Department of the California Highway Patrol (2013) 213 Cal. App.4th 1129, 1136",
+          "span": [
+            1027,
+            1130
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A special relationship can be found 'when the state, through its agents,\nvoluntarily assumes a protective duty toward a certain member of the public and\nundertakes action on behalf of that member, thereby inducing reliance, it is held\nto the same standard of care as a private person or organization.' \" ( Arista,\nsupra, 29 Cal. App.5th at p. 1061.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "4 Witkin, California Procedure (6th ed. 2021) Pleadings, §599\n6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1205–1210\nFlahavan et al., California Practice Guide: Personal Injury (The Rutter Group)\n¶¶ 2:583.10–2:583.11, 2:876\n1 Levy et al., California Torts, Ch. 1, Negligence: Duty and Breach , §1.11[4]\n(Matthew Bender)\n4 California Trial Guide, Unit 90, Closing Argument, §90.90 (Matthew Bender)\n33 California Forms of Pleading and Practice, Ch. 380, Negligence, §380.32[2], [5]\n(Matthew Bender)\n16 California Points and Authorities, Ch. 165, Negligence, §165.150 (Matthew\nBender)\nNEGLIGENCE CACI No. 450A\n331",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "2395",
+      "display": "Business and Professions Code section 2395",
+      "raw": "Business and Professions\nCode sections 2395",
+      "span": [
+        47,
+        90
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/2395"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "2727.5",
+      "display": "Business and Professions Code section 2727.5",
+      "raw": "Business and Professions Code sections\n2727.5, 2861.5",
+      "span": [
+        36,
+        89
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/2727.5"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "2861.5",
+      "display": "Business and Professions Code section 2861.5",
+      "raw": "Business and Professions Code sections\n2727.5, 2861.5",
+      "span": [
+        36,
+        89
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/2861.5"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "1627.5",
+      "display": "Business and Professions Code section 1627.5",
+      "raw": "Business and Professions Code section\n1627.5",
+      "span": [
+        38,
+        82
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/1627.5"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "HSC",
+      "section": "1317",
+      "display": "Health and Safety Code section 1317",
+      "raw": "Health and Safety Code section\n1317(f)",
+      "span": [
+        42,
+        80
+      ],
+      "role": "sources",
+      "statute_key": "CA/HSC/1317"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "HSC",
+      "section": "1317",
+      "display": "Health and Safety Code section 1317(f)",
+      "raw": "Health and Safety Code section\n1317(f)",
+      "span": [
+        42,
+        80
+      ],
+      "subsection": "f",
+      "role": "sources",
+      "statute_key": "CA/HSC/1317/f"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "HSC",
+      "section": "1799.102",
+      "display": "Health and Safety Code section 1799.102",
+      "raw": "Health and Safety Code section 1799.102",
+      "span": [
+        73,
+        112
+      ],
+      "role": "sources",
+      "statute_key": "CA/HSC/1799.102"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "HSC",
+      "section": "1799.104",
+      "display": "Health and Safety Code section 1799.104",
+      "raw": "Health and Safety Code section\n1799.104",
+      "span": [
+        40,
+        79
+      ],
+      "role": "sources",
+      "statute_key": "CA/HSC/1799.104"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "50086",
+      "display": "Government Code section 50086",
+      "raw": "Government Code section\n50086",
+      "span": [
+        51,
+        80
+      ],
+      "role": "sources",
+      "statute_key": "CA/GOV/50086"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "500",
+      "display": "Evidence Code section 500",
+      "raw": "Evid. Code, §500",
+      "span": [
+        551,
+        567
+      ],
+      "role": "directions",
+      "statute_key": "CA/EVID/500"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Horn v. Watson",
+      "year": 2008,
+      "volume": 45,
+      "reporter": "Cal.4th",
+      "page": 322,
+      "pin": "324",
+      "raw": "Horn v. Watson (2008) 45 Cal. 4th 322, 324",
+      "span": [
+        341,
+        383
+      ],
+      "role": "sources",
+      "case_key": "45 Cal.4th 322"
+    },
+    {
+      "name": "Williams v. State of California",
+      "year": 1983,
+      "volume": 34,
+      "reporter": "Cal.3d",
+      "page": 18,
+      "pin": "23",
+      "raw": "Williams v. State of California (1983) 34 Cal. 3d 18, 23",
+      "span": [
+        614,
+        670
+      ],
+      "role": "sources",
+      "case_key": "34 Cal.3d 18"
+    },
+    {
+      "name": "University of Southern California v. Superior Court",
+      "year": 2018,
+      "volume": 30,
+      "reporter": "Cal.App.5th",
+      "page": 429,
+      "pin": "450",
+      "raw": "University of Southern California v. Superior Court (2018) 30 Cal. App.5th 429, 450",
+      "span": [
+        102,
+        185
+      ],
+      "role": "sources",
+      "case_key": "30 Cal.App.5th 429"
+    },
+    {
+      "name": "Camp v. State of California",
+      "year": 2010,
+      "volume": 184,
+      "reporter": "Cal.App.4th",
+      "page": 967,
+      "pin": "975",
+      "raw": "Camp v. State of California (2010) 184 Cal. App.4th 967, 975",
+      "span": [
+        133,
+        193
+      ],
+      "role": "sources",
+      "case_key": "184 Cal.App.4th 967"
+    },
+    {
+      "name": "Arista v. County of Riverside",
+      "year": 2018,
+      "volume": 29,
+      "reporter": "Cal.App.5th",
+      "page": 1051,
+      "pin": "1060–1061",
+      "raw": "Arista v. County of Riverside (2018) 29 Cal. App.5th 1051, 1060–1061",
+      "span": [
+        192,
+        260
+      ],
+      "role": "sources",
+      "case_key": "29 Cal.App.5th 1051"
+    },
+    {
+      "name": "Greyhound Lines, Inc. v. Department of the California Highway Patrol",
+      "year": 2013,
+      "volume": 213,
+      "reporter": "Cal.App.4th",
+      "page": 1129,
+      "pin": "1136",
+      "raw": "Greyhound Lines, Inc. v. Department of the California Highway Patrol (2013) 213 Cal. App.4th 1129, 1136",
+      "span": [
+        1027,
+        1130
+      ],
+      "role": "sources",
+      "case_key": "213 Cal.App.4th 1129"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:09+00:00"
+}

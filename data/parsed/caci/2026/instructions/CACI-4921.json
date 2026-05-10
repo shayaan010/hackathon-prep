@@ -1,0 +1,55 @@
+{
+  "id": "CACI-4921",
+  "edition": "2026",
+  "number": "4921",
+  "title": "Wrongful Foreclosure—Tender Excused",
+  "title_full": "Wrongful Foreclosure—Tender Excused",
+  "title_statute": null,
+  "series": "4900",
+  "series_title": "Series 4900 Real Property Law",
+  "page_start": 3328,
+  "page_end": 3328,
+  "instruction_text": "4921. Wrongful Foreclosure–Tender Excused\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun] was not\nrequired to tender all amounts that were due under loan secured by the\n[mortgage/deed of trust]. Tender is excused if [ insert one or more of the\nfollowing]:\na. The underlying debt was not valid because [ specify reason(s) ];\nb. [ Name of plaintiff ] has a claim for money against [ name of\ndefendant] and the claim, if valid, would completely offset the\namount due on the loan secured by the [mortgage/deed of trust];\nc. It would be unfair to require tender of [ name of plaintiff ] because\n[specify reason(s) ];\nd. The trust deed is void on its face because [ specify reason(s) ];\ne. The loan was illegal or made in violation of [the loan agreement/\nan agreement to modify the loan] because [ specify reason(s) ]; or\nf. [ Name of plaintiff ] was not in default and there is no basis for a\nforeclosure.",
+  "directions_for_use": "Give this instruction if the plaintiff alleges that tender is excused in element 3 of\nCACI No. 4920, Wrongful Foreclosure–Essential Factual Elements .",
+  "sources_and_authority": [
+    {
+      "raw": "\"Courts have applied equitable exceptions to the tender rule, such as: '(1) where\nthe borrower's action attacks the validity of the underlying debt, tender is not\nrequired since it would constitute affirmation of the debt; (2) when the person\nwho seeks to set aside the trustee's sale has a counter-claim or set-off against the\nbeneﬁciary, the tender and the counter-claim offset each other and if the offset is\ngreater than or equal to the amount due, tender is not required; (3) a tender may\nnot be required if it would be 'inequitable' to impose such a condition on the\nparty challenging the sale; . . . (4) tender is not required where the trustor's\nattack is based not on principles of equity but on the basis that the trustee's deed\nis void on its face (such as where the original trustee had been substituted out\nbefore the sale occurred)[;] [(5)] when the loan was made in violation of\nsubstantive law, or in breach of the loan agreement or an agreement to modify\nthe loan[;] [and (6)] when the borrower is not in default and there is no basis for\nthe foreclosure . . . .' \" ( Turner v. Seterus, Inc. (2018) 27 Cal. App.5th 516,\n525–526 [238 Cal. Rptr.3d 528].)\n1442",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Turner v. Seterus, Inc.",
+          "year": 2018,
+          "volume": 27,
+          "reporter": "Cal.App.5th",
+          "page": 516,
+          "pin": "525–526",
+          "raw": "Turner v. Seterus, Inc. (2018) 27 Cal. App.5th 516, 525–526",
+          "span": [
+            1085,
+            1144
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Turner v. Seterus, Inc.",
+      "year": 2018,
+      "volume": 27,
+      "reporter": "Cal.App.5th",
+      "page": 516,
+      "pin": "525–526",
+      "raw": "Turner v. Seterus, Inc. (2018) 27 Cal. App.5th 516, 525–526",
+      "span": [
+        1085,
+        1144
+      ],
+      "role": "sources",
+      "case_key": "27 Cal.App.5th 516"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

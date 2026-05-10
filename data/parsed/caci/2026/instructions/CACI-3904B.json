@@ -1,0 +1,163 @@
+{
+  "id": "CACI-3904B",
+  "edition": "2026",
+  "number": "3904B",
+  "title": "Use of Present-Value Tables",
+  "title_full": "Use of Present-Value Tables",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2750,
+  "page_end": 2757,
+  "instruction_text": "3904B. Use of Present-Value Tables\n[For Table A: ]\n[Use Worksheet A and Table A to compute the present value of [ specify\nfuture damages that can be expressed as a regular dollar amount over a\ndeterminable period of time, e.g., lost future income or the cost of permanent\nmedical care].\n1. Determine the amount of [ name of plaintiff ]'s future loss for [ e.g.,\nlost income ] each year. Enter this amount into Worksheet A, Step\n1.\n2. Determine the number of years that this loss will continue. Enter\nthis amount into Worksheet A, Step 2.\n3. Select the interest rate that you decide [based on the expert\ntestimony that you have heard] represents the most likely rate of\nreturn on money invested today over that period of years. Enter\nthis amount into Worksheet A, Step 3.\n4. Select the appropriate Present Value Factor from Table A. To\nlocate this factor, use the Number of Years from Step 2 on the\nworksheet and the Interest Rate from Step 3 on the worksheet\nand ﬁnd the number that is the intersection of the Interest Rate\ncolumn and Number of Years row. (For example, if the number\nof years is 15 and the interest rate is 10 percent, the\ncorresponding Present Value Factor is 7.61.) Enter the factor into\nWorksheet A, Step 4.\n5. Multiply the amount of [ name of plaintiff ]'s annual future loss\nfrom Step 1 by the factor from Step 4. This is the present value\nof [ name of plaintiff ]'s total future loss for [ e.g., lost income ]. Enter\nthis amount into Worksheet A, Step 5.\nWORKSHEET A\nStep 1: Repeating identical annual\ndollar amount of future loss : $\nStep 2: Number of years that this\nloss will continue:\nStep 3: Interest rate that represents\na reasonable rate of return\non money invested today\nover that period of years: %\nStep 4: Present Value Factor from\nTable A:\n864\nStep 5: Amount from Step 1 times\nFactor from Step 4: $\nEnter the amount from Step 5 on your verdict form as [ name of\nplaintiff]'s total future economic loss for [ e.g., lost income ].]\n[For Table B: ]\n[Use Worksheet B and Table B to compute the present value of [ specify\nfuture damages that cannot be expressed as a repeating identical dollar\namount over a determinable period of time, e.g., future surgeries ].\n1. Determine the future years in which a future loss will occur. In\nColumn A, starting with the current year, enter each year\nthrough the last year that you determined a future loss will occur.\n2. Determine the amount of [ name of plaintiff ]'s future loss for [ e.g.,\nfuture surgeries ] for each year that you determine the loss will\noccur. Enter these future losses in Column B on the worksheet.\nEnter $0 if no future loss occurs in a given year.\n3. Select the interest rate that you decide [based on the expert\ntestimony that you have heard] represents a reasonable rate of\nreturn on money invested today over the number of years\ndetermined in Step 2. Enter this rate in Column C on the\nworksheet for each year that future-loss amounts are entered in\nColumn B.\n4. Select the appropriate Present Value Factor from Table B for\neach year for which you have determined that a loss will occur.\nTo locate this factor, use the Number of Years from Column A\non the worksheet and the Interest Rate in Column C on the\nworksheet and ﬁnd the number that is the intersection of the\nInterest Rate column and Number of Years row from the table.\n(For example, for year 15, if the interest rate is 10 percent, the\ncorresponding Present Value Factor is 0.239.) Enter the\nappropriate Present Value Factors in Column D. For the current\nyear, the Present Value Factor is 1.000. It is not necessary to\nselect an interest rate for the current year in Step 3.\n5. Multiply the amount in Column B by the factor in Column D for\neach year for which you determined that a loss will occur and\nenter these amounts in Column E.\n6. Add all of the entries in Column E and enter this sum into Total\nPresent Value of Future Loss.\nEnter the amount from Step 6 on your verdict form as [ name of\nDAMAGES CACI No. 3904B\n865\nplaintiff]'s total future economic loss for [ e.g., future surgeries ].]\nWORKSHEET B\nA B C D E\nY ear Dollar Amount\nof Future Loss\nEach Y ear\nInterest\nRate\nPresent Value\nFactor\nPresent\nValue of\nFuture Loss\nCurrent year\n(20___)\n$ Not\napplicable\n1.000 $\nY ear 1 (20___) $ % $\nY ear 2 (20___) $ % $\nY ear 3 (20___) $ % $\nY ear 4 (20___) $ % $\nY ear 5 (20___) $ % $\nY ear 6 (20___) $ % $\nY ear 7 (20___) $ % $\nY ear 8 (20___) $ % $\nY ear 9 (20___) $ % $\nY ear 10 (20___) $ % $\nY ear 11 (20___) $ % $\nY ear 12 (20___) $ % $\nY ear 13 (20___) $ % $\nY ear 14 (20___) $ % $\nY ear 15 (20___) $ % $\nY ear 16 (20___) $ % $\nY ear 17 (20___) $ % $\nY ear 18 (20___) $ % $\nY ear 19 (20___) $ % $\nY ear 20 (20___) $ % $\nY ear 21 (20___) $ % $\nY ear 22 (20___) $ % $\nY ear 23 (20___) $ % $\nY ear 24 (20___) $ % $\nY ear 25 (20___) $ % $\nTotal Present Value of Future Loss (add all amounts in Column\nE)\n$\nCACI No. 3904B DAMAGES\n866",
+  "directions_for_use": "Give this instruction if one of the accompanying tables is to be given to the jury.\nAlso give CACI No. 359, Present Cash V alue of Future Damages , in a contract\naction, or CACI No. 3904A, Present Cash V alue, in a tort action.\nUse Worksheet A and Table A if future economic loss will occur over multiple years\nand the amount of the loss will be the same every year. For example, lost future\nincome may be capable of being expressed in a ﬁxed annual dollar ﬁgure. Similarly,\nthe cost of future medical care may be reduced to present value under Table A if it\nwill be a regular amount over a determinable period of time.\nUse Worksheet B and Table B in all other instances of future economic loss. In\nsome cases, it may be necessary to give the jury both worksheets and tables if there\nare categories of both regular recurring future economic loss and irregular or\nvarying loss.\nThe interest rate to be used in the tables must be established by stipulation or by the\nevidence. Expert testimony will usually be required to accurately establish present\nvalues for future economic losses. It would appear that because reduction to present\nvalue beneﬁts the defendant, the defendant bears the burden of proof on the discount\nrate. (See Wilson v. Gilbert (1972) 25 Cal. App.3d 607, 613–614 [102 Cal. Rptr. 31]\n[no error to refuse instruction on reduction to present value when defendant\npresented no evidence].)\nTables should not be used for future noneconomic damages. (See Salgado v. County\nof L.A. (1998) 19 Cal. 4th 629, 646–647 [80 Cal. Rptr.2d 46, 967 P.2d 585]; CACI\nNo. 3904A, Present Cash V alue.)",
+  "sources_and_authority": [
+    {
+      "raw": "\"Neither party introduced any evidence of compounding or discounting factors,\nincluding how to calculate an appropriate rate of return throughout the relevant\nyears. Under such circumstances, the 'jury would have been put to sheer\nspeculation in determining . . . \"the present sum of money which . . . will pay\nto the plaintiff . . . the equivalent of his [future economic] loss . . . .\" ' \"\n(Schiernbeck v. Haight (1992) 7 Cal. App.4th 869, 877 [9 Cal. Rptr.2d 716],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Schiernbeck v. Haight",
+          "year": 1992,
+          "volume": 7,
+          "reporter": "Cal.App.4th",
+          "page": 869,
+          "pin": "877",
+          "raw": "Schiernbeck v. Haight (1992) 7 Cal. App.4th 869, 877",
+          "span": [
+            393,
+            445
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[W]e cannot presume that the jurors were unable to make the various\ncomputations without the proffered aid of court and counsel after ﬁrst reaching\nnecessary agreement on the various determinables comprising the formula.\nFurther, defendant's counsel took a calculated risk in this regard; he produced\nneither statistician nor economist to aid his cause in this regard. Too, we have\nfound no California cases which hold that use of the present table is\nindispensable to a proper award of damages for loss of future earning capacity\n. . . .\" ( Howard v. Global Marine, Inc. (1972) 28 Cal. App.3d 809, 816 [105\nCal. Rptr. 50].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Howard v. Global Marine, Inc.",
+          "year": 1972,
+          "volume": 28,
+          "reporter": "Cal.App.3d",
+          "page": 809,
+          "pin": "816",
+          "raw": "Howard v. Global Marine, Inc. (1972) 28 Cal. App.3d 809, 816",
+          "span": [
+            543,
+            603
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The trial court was also correct in refusing the proposed instruction, on its\nDAMAGES CACI No. 3904B\n867\nmerits, for lack of evidence which would have supported a jury ﬁnding of the\n'present cash value' of any sum assessed as the value of [plaintiff]'s future\nearning capacity . . . . The computation of such 'present cash value' is 'difficult\nand confusing . . . to present to a jury' and, in the pertinent cases, the\ncomputation was apparently reached by the respective juries upon the basis of\nreal evidence. Absent such evidence in the present case (and there was none),\nthis jury would have been put to sheer speculation in determining (as the\nproposed instruction would have had it do) 'the present sum of money which,\ntogether with interest thereon when invested so as to yield the highest rate of\ninterest consistent with reasonable security, will pay to the plaintiff . . . the\nequivalent of his loss of earning capacity . . . in the future . . . .' The\ninstruction would have required the jury to reach this result without the beneﬁt\nof evidence or advice as to the complicated factors of compounding and\ndiscounting which the instruction necessarily involved. There are 'present cash\nvalue' tables which might have assisted the jury in this regard, if judicially\nnoticed for instruction purposes, but the proposed instruction included no\nreference to them. For these reasons, and on the instruction's merits, the trial\ncourt did not err in refusing to give it.\" ( Wilson, supra, 25 Cal. App.3d at pp.\n613–614, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Anticipated future increases of medical costs may be presented to the jury.\nExpert testimony may be used with regard to a 'subject that is sufficiently\nbeyond common experience that the opinion of an expert would assist the trier\nof fact; . . .' Future medical expenses are such a subject. Testimony by actuaries\nis frequently used to show discount rates and the present value of future beneﬁts.\n[¶] The expert testimony was substantial evidence supporting the portion of the\naward relating to the future cost of attendant care. The substantial evidence test\nis applied in view of the entire record; other than a vigorous cross-examination\nof plaintiffs' expert, appellants presented no evidence on the cost of attendant\ncare. The elaborate economic arguments presented in the briefs of appellants and\namicus curiae might better have been presented to the jury in opposition to\nrespondents' expert testimony.\" ( Niles v. City of San Rafael (1974) 42\nCal. App.3d 230, 243 [116 Cal. Rptr. 733], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Niles v. City of San Rafael",
+          "year": 1974,
+          "volume": 42,
+          "reporter": "Cal.App.3d",
+          "page": 230,
+          "pin": "243",
+          "raw": "Niles v. City of San Rafael (1974) 42 Cal. App.3d 230, 243",
+          "span": [
+            913,
+            971
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Appellants claim that the 5 percent discount rate presented by the expert was\ntoo low. A discount rate, similar to an interest rate, is used to determine the\npresent value of future expenses. The expert, in arriving at a 5 percent rate, used\ncommercial investment studies pertaining to the riskiness of corporate bonds,\ncharts compiled by the Federal Reserve System showing interest yields on\nvarious bonds since 1920, and tables published by the United States Savings and\nLoan League showing interest rates on savings accounts since 1929. He took\ninto account the need for reasonable security of investment over the period of\n[plaintiff]'s life. All of this was apparently within the competence of the expert.\"\n(Niles, supra, 42 Cal. App.3d at pp. 243–244.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1719\nCACI No. 3904B DAMAGES\n868\nCalifornia Tort Damages (Cont.Ed.Bar) Bodily Injury, §1.96\n4 Levy et al., California Torts, Ch. 52, Medical Expenses and Economic Loss ,\n§§52.21, 52.22 (Matthew Bender)\n15 California Forms of Pleading and Practice, Ch. 177, Damages, §177.46\n(Matthew Bender)\n6 California Points and Authorities, Ch. 64, Damages: Tort, §64.40 et seq.\n(Matthew Bender)\nDAMAGES CACI No. 3904B\n869\nCACI No. 3904B DAMAGES\n870\nDAMAGES CACI No. 3904B\n871",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Schiernbeck v. Haight",
+      "year": 1992,
+      "volume": 7,
+      "reporter": "Cal.App.4th",
+      "page": 869,
+      "pin": "877",
+      "raw": "Schiernbeck v. Haight (1992) 7 Cal. App.4th 869, 877",
+      "span": [
+        393,
+        445
+      ],
+      "role": "sources",
+      "case_key": "7 Cal.App.4th 869"
+    },
+    {
+      "name": "Howard v. Global Marine, Inc.",
+      "year": 1972,
+      "volume": 28,
+      "reporter": "Cal.App.3d",
+      "page": 809,
+      "pin": "816",
+      "raw": "Howard v. Global Marine, Inc. (1972) 28 Cal. App.3d 809, 816",
+      "span": [
+        543,
+        603
+      ],
+      "role": "sources",
+      "case_key": "28 Cal.App.3d 809"
+    },
+    {
+      "name": "Niles v. City of San Rafael",
+      "year": 1974,
+      "volume": 42,
+      "reporter": "Cal.App.3d",
+      "page": 230,
+      "pin": "243",
+      "raw": "Niles v. City of San Rafael (1974) 42 Cal. App.3d 230, 243",
+      "span": [
+        913,
+        971
+      ],
+      "role": "sources",
+      "case_key": "42 Cal.App.3d 230"
+    },
+    {
+      "name": "See Wilson v. Gilbert",
+      "year": 1972,
+      "volume": 25,
+      "reporter": "Cal.App.3d",
+      "page": 607,
+      "pin": "613–614",
+      "raw": "See Wilson v. Gilbert (1972) 25 Cal. App.3d 607, 613–614",
+      "span": [
+        1226,
+        1282
+      ],
+      "role": "directions",
+      "case_key": "25 Cal.App.3d 607"
+    },
+    {
+      "name": "See Salgado v. County of L.A.",
+      "year": 1998,
+      "volume": 19,
+      "reporter": "Cal.4th",
+      "page": 629,
+      "pin": "646–647",
+      "raw": "See Salgado v. County of L.A. (1998) 19 Cal. 4th 629, 646–647",
+      "span": [
+        1464,
+        1525
+      ],
+      "role": "directions",
+      "case_key": "19 Cal.4th 629"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

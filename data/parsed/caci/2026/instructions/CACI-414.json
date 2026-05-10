@@ -1,0 +1,140 @@
+{
+  "id": "CACI-414",
+  "edition": "2026",
+  "number": "414",
+  "title": "Amount of Caution Required in Dangerous Situations",
+  "title_full": "Amount of Caution Required in Dangerous Situations",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 329,
+  "page_end": 330,
+  "instruction_text": "414. Amount of Caution Required in Dangerous Situations\nPeople must be extremely careful when they deal with dangerous items\nor participate in dangerous activities. [ Insert type of dangerous item or\nactivity] is dangerous in and of itself. The risk of harm is so great that\nthe failure to use extreme caution is negligence.",
+  "directions_for_use": "An instruction on the standard of care for extremely dangerous activities is proper\nonly \"in situations where the nature of the activity or substance is so inherently\ndangerous or complex, as such, that the hazard persists despite the exercise of\nordinary care.\" ( Benwell v. Dean (1964) 227 Cal. App.2d 226, 233 [38 Cal. Rptr.\n542]; see also Menchaca v. Helms Bakeries, Inc. (1968) 68 Cal. 2d 535, 544 [67\nCal. Rptr. 775, 439 P.2d 903].)\nThis instruction should not be given at the same time as an instruction pertaining to\nstandard of care for employees who have to work in dangerous situations. In\nappropriate cases, juries may be instructed that a person of ordinary prudence is\nrequired to exercise extreme caution when engaged in a dangerous activity.\n(Borenkraut v. Whitten (1961) 56 Cal. 2d 538, 544–546 [15 Cal. Rptr. 635, 364 P.2d\n467].) However, this rule does not apply when a person's lawful employment\nrequires that person to work in a dangerous situation. ( McDonald v. City of Oakland\n(1967) 255 Cal. App.2d 816, 827 [63 Cal. Rptr. 593].) This is because \"reasonable\n[employees] who are paid to give at least part of their attention to their job\" may\nnot be as able to maintain the same standards for personal safety as nonemployees.\n(Young v. Aro Corp. (1974) 36 Cal. App.3d 240, 245 [111 Cal. Rptr. 535].) (See\nCACI No. 415, Employee Required to Work in Dangerous Situations .)",
+  "sources_and_authority": [
+    {
+      "raw": "Even a slight deviation from the standards of care will constitute negligence in\ncases involving dangerous instrumentalities. ( Borenkraut, supra, 56 Cal. 2d at p.\n545.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Dangerous instrumentalities include ﬁre, ﬁrearms, explosive or highly\ninﬂammable materials, and corrosive or otherwise dangerous or noxious ﬂuids.\n(Warner v. Santa Catalina Island Co. (1955) 44 Cal. 2d 310, 317 [282 P.2d 12].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Warner v. Santa Catalina Island Co.",
+          "year": 1955,
+          "volume": 44,
+          "reporter": "Cal.2d",
+          "page": 310,
+          "pin": "317",
+          "raw": "Warner v. Santa Catalina Island Co. (1955) 44 Cal. 2d 310, 317",
+          "span": [
+            148,
+            210
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "In Menchaca, the Court held that \"[d]riving a motor vehicle may be sufficiently\ndangerous to warrant special instructions, but it is not so hazardous that it\nalways requires 'extreme caution.' \" ( Menchaca, supra, 68 Cal. 2d at p. 544.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1050–1054\n1 Levy et al., California Torts, Ch. 1, Negligence, §§1.02, 1.30 (Matthew Bender)\n255\nCalifornia Products Liability Actions, Ch. 2, Liability for Defective Products , §2.14\n(Matthew Bender)\n33 California Forms of Pleading and Practice, Ch. 380, Negligence (Matthew\nBender)\n16 California Points and Authorities, Ch. 165, Negligence (Matthew Bender)\nCACI No. 414 NEGLIGENCE\n256",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Warner v. Santa Catalina Island Co.",
+      "year": 1955,
+      "volume": 44,
+      "reporter": "Cal.2d",
+      "page": 310,
+      "pin": "317",
+      "raw": "Warner v. Santa Catalina Island Co. (1955) 44 Cal. 2d 310, 317",
+      "span": [
+        148,
+        210
+      ],
+      "role": "sources",
+      "case_key": "44 Cal.2d 310"
+    },
+    {
+      "name": "Benwell v. Dean",
+      "year": 1964,
+      "volume": 227,
+      "reporter": "Cal.App.2d",
+      "page": 226,
+      "pin": "233",
+      "raw": "Benwell v. Dean (1964) 227 Cal. App.2d 226, 233",
+      "span": [
+        265,
+        312
+      ],
+      "role": "directions",
+      "case_key": "227 Cal.App.2d 226"
+    },
+    {
+      "name": "Menchaca v. Helms Bakeries, Inc.",
+      "year": 1968,
+      "volume": 68,
+      "reporter": "Cal.2d",
+      "page": 535,
+      "pin": "544",
+      "raw": "Menchaca v. Helms Bakeries, Inc. (1968) 68 Cal. 2d 535, 544",
+      "span": [
+        343,
+        402
+      ],
+      "role": "directions",
+      "case_key": "68 Cal.2d 535"
+    },
+    {
+      "name": "Borenkraut v. Whitten",
+      "year": 1961,
+      "volume": 56,
+      "reporter": "Cal.2d",
+      "page": 538,
+      "pin": "544–546",
+      "raw": "Borenkraut v. Whitten (1961) 56 Cal. 2d 538, 544–546",
+      "span": [
+        759,
+        811
+      ],
+      "role": "directions",
+      "case_key": "56 Cal.2d 538"
+    },
+    {
+      "name": "McDonald v. City of Oakland",
+      "year": 1967,
+      "volume": 255,
+      "reporter": "Cal.App.2d",
+      "page": 816,
+      "pin": "827",
+      "raw": "McDonald v. City of Oakland (1967) 255 Cal. App.2d 816, 827",
+      "span": [
+        973,
+        1032
+      ],
+      "role": "directions",
+      "case_key": "255 Cal.App.2d 816"
+    },
+    {
+      "name": "Young v. Aro Corp.",
+      "year": 1974,
+      "volume": 36,
+      "reporter": "Cal.App.3d",
+      "page": 240,
+      "pin": "245",
+      "raw": "Young v. Aro Corp. (1974) 36 Cal. App.3d 240, 245",
+      "span": [
+        1251,
+        1300
+      ],
+      "role": "directions",
+      "case_key": "36 Cal.App.3d 240"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

@@ -1,0 +1,186 @@
+{
+  "id": "CACI-1813",
+  "edition": "2026",
+  "number": "1813",
+  "title": "Definition of “Access” (Pen. Code, § 502(b)(1))",
+  "title_full": "Definition of “Access” (Pen. Code, § 502(b)(1))",
+  "title_statute": null,
+  "series": "1800",
+  "series_title": "Series 1800 Right Of Privacy",
+  "page_start": 1235,
+  "page_end": 1235,
+  "instruction_text": "1813. Deﬁnition of \"Access\" (Pen. Code, §502(b)(1))\nThe term \"access\" means to gain entry to, instruct, cause input to, cause\noutput from, cause data processing with, or communicate with the\nlogical, arithmetical, or memory function resources of a computer,\ncomputer system, or computer network.\nA person can access a computer, computer system, or computer network\nin different ways. For example, access can be accomplished by sitting\ndown at a computer and using the mouse and keyboard, or by using a\nwireless network or some other method or tool to gain remote entry.",
+  "directions_for_use": "This instruction should be read with CACI No. 1812, Comprehensive Computer\nData and Access Fraud Act–Essential Factual Elements , for claims that require that\nthe defendant \"access\" a computer, computer system, or computer network. (See\nPen. Code, §502 (c)(1), (2), (4), (7), and (11).)",
+  "sources_and_authority": [
+    {
+      "raw": "\"Access\" Deﬁned. Penal Code section 502(b)(1).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "502",
+          "display": "Penal Code section 502",
+          "raw": "Penal Code section 502(b)(1)",
+          "span": [
+            17,
+            45
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "502",
+          "display": "Penal Code section 502(b)",
+          "raw": "Penal Code section 502(b)(1)",
+          "span": [
+            17,
+            45
+          ],
+          "subsection": "b"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "502",
+          "display": "Penal Code section 502(1)",
+          "raw": "Penal Code section 502(b)(1)",
+          "span": [
+            17,
+            45
+          ],
+          "subsection": "1"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Underscoring that 'accessing' a computer's 'logical, arithmetical, or memory\nfunction' is different from the ordinary, everyday use of a computer to which\npeople are accustomed when they speak of 'using' a computer, another\nsubdivision criminalizes 'us[ing] or caus[ing] to be used computer services'\nwithout permission. Principles of statutory interpretation obligate us to give\ndifferent meanings to the words 'use' and 'access' in order to avoid rendering\neither word redundant.\" ( Chrisman v. City of Los Angeles (2007) 155\nCal. App.4th 29, 34 [65 Cal. Rptr.3d 701], internal citation and footnote omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Chrisman v. City of Los Angeles",
+          "year": 2007,
+          "volume": 155,
+          "reporter": "Cal.App.4th",
+          "page": 29,
+          "pin": "34",
+          "raw": "Chrisman v. City of Los Angeles (2007) 155 Cal. App.4th 29, 34",
+          "span": [
+            486,
+            548
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Public access computer terminals are increasingly common in the offices of\nmany governmental bodies and agencies, from courthouses to tax assessors. We\nbelieve subdivision (c)(7) was designed to criminalize unauthorized access to the\nsoftware and data in such systems, even where none of the other illegal activities\nlisted in subdivision (c) have occurred.\" ( People v. Lawton (1996) 48\nCal. App.4th Supp. 11, 15 [56 Cal. Rptr.2d 521].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Lawton",
+          "year": 1996,
+          "volume": 48,
+          "reporter": "Cal.App.4th Supp.",
+          "page": 11,
+          "pin": "15",
+          "raw": "People v. Lawton (1996) 48 Cal. App.4th Supp. 11, 15",
+          "span": [
+            362,
+            414
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, California Criminal Law (4th ed. 2012) Crimes Against Property, §229 et\nseq.\n1161",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "502",
+      "display": "Penal Code section 502",
+      "raw": "Penal Code section 502(b)(1)",
+      "span": [
+        17,
+        45
+      ],
+      "role": "sources",
+      "statute_key": "CA/PEN/502"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "502",
+      "display": "Penal Code section 502(b)",
+      "raw": "Penal Code section 502(b)(1)",
+      "span": [
+        17,
+        45
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/PEN/502/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "502",
+      "display": "Penal Code section 502(1)",
+      "raw": "Penal Code section 502(b)(1)",
+      "span": [
+        17,
+        45
+      ],
+      "subsection": "1",
+      "role": "sources",
+      "statute_key": "CA/PEN/502/1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "502",
+      "display": "Penal Code section 502(c)",
+      "raw": "Pen. Code, §502 (c)(1)",
+      "span": [
+        237,
+        259
+      ],
+      "subsection": "c",
+      "role": "directions",
+      "statute_key": "CA/PEN/502/c"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Chrisman v. City of Los Angeles",
+      "year": 2007,
+      "volume": 155,
+      "reporter": "Cal.App.4th",
+      "page": 29,
+      "pin": "34",
+      "raw": "Chrisman v. City of Los Angeles (2007) 155 Cal. App.4th 29, 34",
+      "span": [
+        486,
+        548
+      ],
+      "role": "sources",
+      "case_key": "155 Cal.App.4th 29"
+    },
+    {
+      "name": "People v. Lawton",
+      "year": 1996,
+      "volume": 48,
+      "reporter": "Cal.App.4th Supp.",
+      "page": 11,
+      "pin": "15",
+      "raw": "People v. Lawton (1996) 48 Cal. App.4th Supp. 11, 15",
+      "span": [
+        362,
+        414
+      ],
+      "role": "sources",
+      "case_key": "48 Cal.App.4th Supp. 11"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:14+00:00"
+}

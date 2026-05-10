@@ -1,0 +1,105 @@
+{
+  "id": "CACI-3025",
+  "edition": "2026",
+  "number": "3025",
+  "title": "Affirmative Defense—Consent to Search",
+  "title_full": "Affirmative Defense—Consent to Search",
+  "title_statute": null,
+  "series": "3000",
+  "series_title": "Series 3000 Civil Rights",
+  "page_start": 2154,
+  "page_end": 2156,
+  "instruction_text": "3025. Affirmative Defense–Consent to Search\n[Name of defendant ] claims that the search was reasonable and that a\nsearch warrant was not required because [ name of plaintiff/third person ]\nconsented to the search. To succeed, [ name of defendant ] must prove both\nof the following:\n1. That [[ name of plaintiff ]/[name of third person ], who controlled or\nreasonably appeared to have control of the area,] knowingly and\nvoluntarily consented to the search; and\n2. That the search was reasonable under all of the circumstances.\n[[Name of third person ]'s consent is insufficient if [ name of plaintiff ] was\nphysically present and expressly refused to consent to the search.]\nIn deciding whether the search was reasonable, you should consider,\namong other factors, the following:\n(a) The extent of the particular intrusion;\n(b) The place in which the search was conducted; [and]\n(c) The manner in which the search was conducted; [and]\n(d) [ insert other applicable factor(s) ].\n\nDecember 2012",
+  "directions_for_use": "Give the optional paragraph after element 2 if the defendant relied on the consent of\nsomeone other than the plaintiff to initiate the search. (See Georgia v. Randolph\n(2006) 547 U.S. 103, 106 [126 S.Ct. 1515, 164 L.Ed.2d 208].)",
+  "sources_and_authority": [
+    {
+      "raw": "\"The Fourth Amendment generally prohibits the warrantless entry of a person's\nhome, whether to make an arrest or to search for speciﬁc objects. The\nprohibition does not apply, however, to situations in which voluntary consent has\nbeen obtained, either from the individual whose property is searched or from a\nthird party who possesses common authority over the premises.\" ( Illinois v.\nRodriguez (1990) 497 U.S. 177, 181 [110 S.Ct. 2793, 111 L.Ed.2d 148], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Illinois v. Rodriguez",
+          "year": 1990,
+          "volume": 497,
+          "reporter": "U.S.",
+          "page": 177,
+          "pin": "181",
+          "raw": "Illinois v. Rodriguez (1990) 497 U.S. 177, 181",
+          "span": [
+            374,
+            420
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" '[C]ommon authority' rests 'on mutual use of the property by persons generally\nhaving joint access or control for most purposes . . . .' The burden of\nestablishing that common authority rests upon the State.\" ( Illinois v. Rodriguez,\nsupra, 497 U.S. at p. 181, internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The Fourth Amendment recognizes a valid warrantless entry and search of\n268\npremises when police obtain the voluntary consent of an occupant who shares, or\nis reasonably believed to share, authority over the area in common with a co-\noccupant who later objects to the use of evidence so obtained. The question here\nis whether such an evidentiary seizure is likewise lawful with the permission of\none occupant when the other, who later seeks to suppress the evidence, is\npresent at the scene and expressly refuses to consent. We hold that, in the\ncircumstances here at issue, a physically present co-occupant's stated refusal to\npermit entry prevails, rendering the warrantless search unreasonable and invalid\nas to him.\" ( Georgia, supra, 547 U.S. at p. 106, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Where consent is relied upon to justify the lawfulness of a search, the\ngovernment 'has the burden of proving that the consent was, in fact, freely and\nvoluntarily given.' 'The issue of whether or not consent to search was freely and\nvoluntarily given is one of fact to be determined on the basis of the totality of\nthe circumstances.' \" ( U.S. v. Henry (9th Cir. 1980) 615 F.2d 1223, 1230,\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Whether consent was voluntarily given 'is to be determined from the totality of\nall the circumstances.' We consider the following factors to assess whether the\nconsent was voluntary: (1) whether the person was in custody; (2) whether the\nofficers had their guns drawn; (3) whether a Miranda warning had been given;\n(4) whether the person was told that he had the right not to consent; and (5)\nwhether the person was told that a search warrant could be obtained. Although\nno one factor is determinative in the equation, 'many of this court's decisions\nupholding consent as voluntary are supported by at least several of the factors.' \"\n(U.S. v. Reid (9th Cir. 2000) 226 F.3d 1020, 1026–1027, internal citations\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"According to [defendant], 'express refusal means verbal refusal.' We disagree,\nas this interpretation ﬁnds no support in either common sense or the case law.\"\n(Bonivert v. City of Clarkston (9th Cir. 2018) 883 F.3d 865, 875.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In determining whether a person consented to an intrusion into her home, we\ndistinguish between 'undercover' entries, where a person invites a government\nagent who is concealing that he is a government agent into her home, and 'ruse'\nentries, where a known government agent misrepresents his purpose in seeking\nentry. The former does not violate the Fourth Amendment, as long as the\nundercover agent does not exceed the scope of his invitation while inside the\nhome. But '[a] ruse entry when the suspect is informed that the person seeking\nentry is a government agent but is misinformed as to the purpose for which the\nagent seeks entry cannot be justiﬁed by consent.' \" ( Whalen v. McMullen (9th\nCir. 2018) 907 F.3d 1139, 1146–1147, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Because he entered the home while using a ruse and not while undercover, it is\nimmaterial that he stayed within [plaintiff]'s presence in the home and did not\nconduct a broader search. He did not have consent to be in the home for the\npurposes of his visit.\" ( Whalen, supra, 907 F.3d at p. 1150.)\nCIVIL RIGHTS CACI No. 3025\n269",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "8 Witkin, Summary of California Law (11th ed. 2017) Constitutional Law, §§888,\n892, 893\n11 California Forms of Pleading and Practice, Ch. 113, Civil Rights: The Post-Civil\nWar Civil Rights Statutes, §113.14 (Matthew Bender)\nCACI No. 3025 CIVIL RIGHTS\n270",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Illinois v. Rodriguez",
+      "year": 1990,
+      "volume": 497,
+      "reporter": "U.S.",
+      "page": 177,
+      "pin": "181",
+      "raw": "Illinois v. Rodriguez (1990) 497 U.S. 177, 181",
+      "span": [
+        374,
+        420
+      ],
+      "role": "sources",
+      "case_key": "497 U.S. 177"
+    },
+    {
+      "name": "See Georgia v. Randolph",
+      "year": 2006,
+      "volume": 547,
+      "reporter": "U.S.",
+      "page": 103,
+      "pin": "106",
+      "raw": "See Georgia v. Randolph (2006) 547 U.S. 103, 106",
+      "span": [
+        144,
+        192
+      ],
+      "role": "directions",
+      "case_key": "547 U.S. 103"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:20+00:00"
+}

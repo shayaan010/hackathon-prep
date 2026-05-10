@@ -1,0 +1,143 @@
+{
+  "id": "CACI-4405",
+  "edition": "2026",
+  "number": "4405",
+  "title": "Misappropriation by Acquisition",
+  "title_full": "Misappropriation by Acquisition",
+  "title_statute": null,
+  "series": "4400",
+  "series_title": "Series 4400 Trade Secrets",
+  "page_start": 3130,
+  "page_end": 3131,
+  "instruction_text": "4405. Misappropriation by Acquisition\n[Name of defendant ] misappropriated [ name of plaintiff ]'s trade secret[s]\nby acquisition if [ name of defendant ] acquired the trade secret[s] and\nknew or had reason to know that [he/she/ nonbinary pronoun/it/[name of\nthird party]] used improper means to acquire [it/them].",
+  "directions_for_use": "Read this instruction with CACI No. 4401 , Misappropriation of Trade\nSecrets–Essential Factual Elements, if the plaintiff claims that the defendant's\nacquisition of the information alleged to be a trade secret is a misappropriation.\nGive also CACI No. 4408, Improper Means of Acquiring Trade Secret .\nCivil Code section 3426.1(b)(1) deﬁnes \"misappropriation\" as improper\n\"[a]cquisition\" of a trade secret, and subsection (b)(2) deﬁnes it as improper\n\"[d]isclosure or use\" of a trade secret. In some cases, the mere acquisition of a trade\nsecret, as distinguished from a related disclosure or use, will not result in damages\nand will only be relevant to injunctive relief. Because generally the jury should only\nbe instructed on matters relevant to damage claims, this instruction should not be\ngiven unless there is evidence that the acquisition resulted in damages, other than\ndamages from related disclosure or use.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Misappropriation\" Deﬁned. Civil Code section 3426.1(b)(1).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1",
+          "raw": "Civil Code section 3426.1(b)(1)",
+          "span": [
+            27,
+            58
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1(b)",
+          "raw": "Civil Code section 3426.1(b)(1)",
+          "span": [
+            27,
+            58
+          ],
+          "subsection": "b"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1(1)",
+          "raw": "Civil Code section 3426.1(b)(1)",
+          "span": [
+            27,
+            58
+          ],
+          "subsection": "1"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Defendants . . . obtained these secrets improperly. Their tortious acts resulted\nfrom a breach of conﬁdence by [defendant] in copying or stealing plans, designs\nand other documents related to [plaintiff]'s products which defendants\nthemselves wanted to produce in competition with [plaintiff]. The protection\nwhich is extended to trade secrets fundamentally rests upon the theory that they\nare improperly acquired by a defendant, usually through theft or a breach of\nconﬁdence.\" ( V acco Indus. v. V an Den Berg (1992) 5 Cal. App.4th 34, 50 [6\nCal. Rptr.2d 602].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"One does not ordinarily 'acquire' a thing inadvertently; the term implies\nconduct directed to that objective. The choice of that term over 'receive'\nsuggests that inadvertently coming into possession of a trade secret will not\nconstitute acquisition. Thus one who passively receives a trade secret, but neither\ndiscloses nor uses it, would not be guilty of misappropriation. We need not\ndecide the outer limits of acquisition as contemplated by CUTSA, however, for\nthere is no suggestion here of acquisition even in the broadest sense, i.e., that\n[defendant] ever came into possession of the source code constituting the\nclaimed trade secrets. Indeed [plaintiff] does not directly argue that [defendant]\nacquired the trade secrets at issue but only that, under the terms of the statute, it\n1244\ncould have done so without itself having 'knowledge' of them. We doubt the\nsoundness of this suggestion, but assuming it is correct, it remains beside the\npoint unless [defendant] came into possession of the secret. Since there is no\nbasis to ﬁnd that it did, the mental state required for actionable acquisition\nappears to be academic.\" ( Silvaco Data Systems v. Intel Corp. (2010) 184\nCal. App.4th 210, 223 [109 Cal. Rptr.3d 27], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Silvaco Data Systems v. Intel Corp.",
+          "year": 2010,
+          "volume": 184,
+          "reporter": "Cal.App.4th",
+          "page": 210,
+          "pin": "223",
+          "raw": "Silvaco Data Systems v. Intel Corp. (2010) 184 Cal. App.4th 210, 223",
+          "span": [
+            1136,
+            1204
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.53[1][a] (Matthew Bender)\n49 California Forms of Pleading and Practice, Ch. 565, Unfair Competition ,\n§565.103[4][c] (Matthew Bender)\nEdelson & Kay, eds., Trade Secret Litigation and Protection in California (State Bar\nof California 2009) Chs. 2, 6, 12\nTRADE SECRETS CACI No. 4405\n1245",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1",
+      "raw": "Civil Code section 3426.1(b)(1)",
+      "span": [
+        27,
+        58
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1(b)",
+      "raw": "Civil Code section 3426.1(b)(1)",
+      "span": [
+        27,
+        58
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1(1)",
+      "raw": "Civil Code section 3426.1(b)(1)",
+      "span": [
+        27,
+        58
+      ],
+      "subsection": "1",
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1/1"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Silvaco Data Systems v. Intel Corp.",
+      "year": 2010,
+      "volume": 184,
+      "reporter": "Cal.App.4th",
+      "page": 210,
+      "pin": "223",
+      "raw": "Silvaco Data Systems v. Intel Corp. (2010) 184 Cal. App.4th 210, 223",
+      "span": [
+        1136,
+        1204
+      ],
+      "role": "sources",
+      "case_key": "184 Cal.App.4th 210"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

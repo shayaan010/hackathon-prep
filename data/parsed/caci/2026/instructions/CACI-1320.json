@@ -1,0 +1,89 @@
+{
+  "id": "CACI-1320",
+  "edition": "2026",
+  "number": "1320",
+  "title": "Intent",
+  "title_full": "Intent",
+  "title_statute": null,
+  "series": "1300",
+  "series_title": "Series 1300 Assault And Battery",
+  "page_start": 947,
+  "page_end": 947,
+  "instruction_text": "1320. Intent\n[Name of defendant ] acted intentionally if [he/she/ nonbinary pronoun]\nintended to [ insert facts, e.g., \"assault [name of plaintiff],\" \"commit a\nbattery\"] or if [he/she/ nonbinary pronoun] was substantially certain that\nthe [ insert facts, e.g., \"assault,\" \"battery\" ] would result from\n[his/her/nonbinary pronoun] conduct.",
+  "directions_for_use": "This instruction may be used to deﬁne intent for other intentional torts, where\nappropriate.",
+  "sources_and_authority": [
+    {
+      "raw": "\"In an action for civil battery the element of intent is satisﬁed if the evidence\nshows defendant acted with a 'willful disregard' of the plaintiff's rights.\"\n(Ashcraft v. King (1991) 228 Cal. App.3d 604, 613 [278 Cal. Rptr. 900], internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ashcraft v. King",
+          "year": 1991,
+          "volume": 228,
+          "reporter": "Cal.App.3d",
+          "page": 604,
+          "pin": "613",
+          "raw": "Ashcraft v. King (1991) 228 Cal. App.3d 604, 613",
+          "span": [
+            160,
+            208
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"As a general rule, California law recognizes that '. . . every person is\npresumed to intend the natural and probable consequences of his acts.' Thus, a\nperson who acts willfully may be said to intend ' \" 'those consequences which\n(a) represent the very purpose for which an act is done (regardless of the\nlikelihood of occurrence), or (b) are known to be substantially certain to result\n(regardless of desire).' \" ' The same deﬁnition is applied to many intentional\ntorts.\" ( Gomez v. Acquistapace (1996) 50 Cal. App.4th 740, 746 [57 Cal. Rptr.2d\n821], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Gomez v. Acquistapace",
+          "year": 1996,
+          "volume": 50,
+          "reporter": "Cal.App.4th",
+          "page": 740,
+          "pin": "746",
+          "raw": "Gomez v. Acquistapace (1996) 50 Cal. App.4th 740, 746",
+          "span": [
+            477,
+            530
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §455\n6 California Forms of Pleading and Practice, Ch. 58, Assault and Battery , §58.13[1]\n(Matthew Bender)\n2 California Points and Authorities, Ch. 21, Assault and Battery , §21.20 (Matthew\nBender)\n873",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Ashcraft v. King",
+      "year": 1991,
+      "volume": 228,
+      "reporter": "Cal.App.3d",
+      "page": 604,
+      "pin": "613",
+      "raw": "Ashcraft v. King (1991) 228 Cal. App.3d 604, 613",
+      "span": [
+        160,
+        208
+      ],
+      "role": "sources",
+      "case_key": "228 Cal.App.3d 604"
+    },
+    {
+      "name": "Gomez v. Acquistapace",
+      "year": 1996,
+      "volume": 50,
+      "reporter": "Cal.App.4th",
+      "page": 740,
+      "pin": "746",
+      "raw": "Gomez v. Acquistapace (1996) 50 Cal. App.4th 740, 746",
+      "span": [
+        477,
+        530
+      ],
+      "role": "sources",
+      "case_key": "50 Cal.App.4th 740"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

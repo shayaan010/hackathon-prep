@@ -1,0 +1,136 @@
+{
+  "id": "CACI-203",
+  "edition": "2026",
+  "number": "203",
+  "title": "Party Having Power to Produce Better Evidence",
+  "title_full": "Party Having Power to Produce Better Evidence",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 122,
+  "page_end": 122,
+  "instruction_text": "203. Party Having Power to Produce Better Evidence\nY ou may consider the ability of each party to provide evidence. If a\nparty provided weaker evidence when it could have provided stronger\nevidence, you may distrust the weaker evidence.",
+  "directions_for_use": "An instruction on failure to produce evidence should not be given if there is no\nevidence that the party producing inferior evidence had the power to produce\nsuperior evidence. ( Thomas v. Gates (1899) 126 Cal. 1, 6 [58 P.315]; Hansen v.\nWarco Steel Corp. (1965) 237 Cal. App.2d 870, 876 [47 Cal. Rptr. 428]; Holland v.\nKerr (1953) 116 Cal. App.2d 31, 37 [253 P.2d 88].)\nThe reference to \"stronger evidence\" applies to evidence that is admissible. This\ninstruction should not be construed to apply to evidence that the court has ruled\ninadmissible. ( Hansen, supra, 237 Cal. App.2d at p. 877.)\nFor willful suppression of evidence, see CACI No. 204, Willful Suppression of\nEvidence.",
+  "sources_and_authority": [
+    {
+      "raw": "Power to Produce Better Evidence. Evidence Code section 412.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "412",
+          "display": "Evidence Code section 412",
+          "raw": "Evidence Code section 412",
+          "span": [
+            34,
+            59
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Section 412 does not incorporate the \"best evidence rule,\" but instead deals with\n\"stronger and more satisfactory\" evidence. ( Largey v. Intrastate Radiotelephone,\nInc. (1982) 136 Cal. App.3d 660, 672 [186 Cal. Rptr. 520] (giving of instruction\nwas proper because corporate records concerning date of meeting could have\nbeen stronger evidence than recollection of participants several years later).)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Largey v. Intrastate Radiotelephone, Inc.",
+          "year": 1982,
+          "volume": 136,
+          "reporter": "Cal.App.3d",
+          "page": 660,
+          "pin": "672",
+          "raw": "Largey v. Intrastate Radiotelephone, Inc. (1982) 136 Cal. App.3d 660, 672",
+          "span": [
+            127,
+            200
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "This inference was a mandatory presumption under former Code of Civil\nProcedure section 1963(6). It is now considered a permissible inference. (See 3\nWitkin, California Evidence (4th ed. 2000) §114, p. 152.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "7 Witkin, California Procedure (6th ed. 2021) Trial, §317\n11 Witkin, California Evidence (6th ed. 2023) Presentation at Trial, §137\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §551.93[2] (Matthew\nBender)\nCalifornia Judges Benchbook: Civil Proceedings–Trial §11.10 (Cal CJER 2019)\n48",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "412",
+      "display": "Evidence Code section 412",
+      "raw": "Evidence Code section 412",
+      "span": [
+        34,
+        59
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/412"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Largey v. Intrastate Radiotelephone, Inc.",
+      "year": 1982,
+      "volume": 136,
+      "reporter": "Cal.App.3d",
+      "page": 660,
+      "pin": "672",
+      "raw": "Largey v. Intrastate Radiotelephone, Inc. (1982) 136 Cal. App.3d 660, 672",
+      "span": [
+        127,
+        200
+      ],
+      "role": "sources",
+      "case_key": "136 Cal.App.3d 660"
+    },
+    {
+      "name": "Thomas v. Gates",
+      "year": 1899,
+      "volume": 126,
+      "reporter": "Cal.",
+      "page": 1,
+      "pin": "6",
+      "raw": "Thomas v. Gates (1899) 126 Cal. 1, 6",
+      "span": [
+        179,
+        215
+      ],
+      "role": "directions",
+      "case_key": "126 Cal. 1"
+    },
+    {
+      "name": "Hansen v. Warco Steel Corp.",
+      "year": 1965,
+      "volume": 237,
+      "reporter": "Cal.App.2d",
+      "page": 870,
+      "pin": "876",
+      "raw": "Hansen v. Warco Steel Corp. (1965) 237 Cal. App.2d 870, 876",
+      "span": [
+        228,
+        287
+      ],
+      "role": "directions",
+      "case_key": "237 Cal.App.2d 870"
+    },
+    {
+      "name": "Holland v. Kerr",
+      "year": 1953,
+      "volume": 116,
+      "reporter": "Cal.App.2d",
+      "page": 31,
+      "pin": "37",
+      "raw": "Holland v. Kerr (1953) 116 Cal. App.2d 31, 37",
+      "span": [
+        309,
+        354
+      ],
+      "role": "directions",
+      "case_key": "116 Cal.App.2d 31"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

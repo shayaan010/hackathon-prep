@@ -1,0 +1,91 @@
+{
+  "id": "CACI-211",
+  "edition": "2026",
+  "number": "211",
+  "title": "Prior Conviction of a Felony",
+  "title_full": "Prior Conviction of a Felony",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 132,
+  "page_end": 132,
+  "instruction_text": "211. Prior Conviction of a Felony\nY ou have heard that a witness in this trial has been convicted of a\nfelony. Y ou were told about the conviction [only] to help you decide\nwhether you should believe the witness. [Y ou also may consider the\nevidence for the purpose of [ specify].] Y ou must not consider it for any\nother purpose.",
+  "directions_for_use": "Include the word \"only\" unless the court has admitted the evidence for some other\npurpose, in which case, include the next-to-last sentence. For example, a prior\nalcohol-related conviction might be relevant to show conscious disregard if the\nclaim involves conduct while under the inﬂuence.",
+  "sources_and_authority": [
+    {
+      "raw": "Admissibility of Evidence of Prior Felony Conviction. Evidence Code section\n788.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "788",
+          "display": "Evidence Code section 788",
+          "raw": "Evidence Code section\n788",
+          "span": [
+            54,
+            79
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "The standards governing admissibility of prior convictions in civil cases are\ndifferent from those in criminal proceedings. In Robbins v. Wong (1994) 27\nCal. App.4th 261, 273 [32 Cal. Rptr.2d 337], the court observed: \"Given the\nsigniﬁcant distinctions between the rights enjoyed by criminal defendants and\ncivil litigants, and the diminished level of prejudice attendant to felony\nimpeachment in civil proceedings, it is not unreasonable to require different\nstandards of admissibility in civil and criminal cases.\" ( Id. at p. 273.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "In Robbins v. Wong",
+          "year": 1994,
+          "volume": 27,
+          "reporter": "Cal.App.4th",
+          "page": 261,
+          "pin": "273",
+          "raw": "In Robbins v. Wong (1994) 27 Cal. App.4th 261, 273",
+          "span": [
+            124,
+            174
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "In Robbins, the court concluded that article I, section 28(f) of the California\nConstitution, as well as any Supreme Court cases on this topic in the criminal\narena, does not apply to civil cases. ( Robbins, supra, 27 Cal. App.4th at p. 274.)\nHowever, the court did hold that the trial court \"may utilize such decisions to\nformulate guidelines for the judicial weighing of probative value against\nprejudicial effect under section 352.\" ( Ibid.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "3 Witkin, California Evidence (5th ed. 2012) Presentation at Trial, §§304, 306, 307,\n320\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §551.123 (Matthew\nBender)\n1 Matthew Bender Practice Guide: California Trial and Post-Trial Civil Procedure,\nCh. 11, Questioning Witnesses and Objections , 11.64\nCalifornia Judges Benchbook: Civil Proceedings–Trial §8.74 (Cal CJER 2019)\n58",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "788",
+      "display": "Evidence Code section 788",
+      "raw": "Evidence Code section\n788",
+      "span": [
+        54,
+        79
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/788"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "In Robbins v. Wong",
+      "year": 1994,
+      "volume": 27,
+      "reporter": "Cal.App.4th",
+      "page": 261,
+      "pin": "273",
+      "raw": "In Robbins v. Wong (1994) 27 Cal. App.4th 261, 273",
+      "span": [
+        124,
+        174
+      ],
+      "role": "sources",
+      "case_key": "27 Cal.App.4th 261"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

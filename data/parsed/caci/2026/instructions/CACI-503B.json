@@ -1,0 +1,161 @@
+{
+  "id": "CACI-503B",
+  "edition": "2026",
+  "number": "503B",
+  "title": "Affirmative Defense—Psychotherapist’s Communication of Threat to Victim and Law Enforcement",
+  "title_full": "Affirmative Defense—Psychotherapist’s Communication of Threat to Victim and Law Enforcement",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 517,
+  "page_end": 518,
+  "instruction_text": "503B. Affirmative Defense–Psychotherapist's Communication of\nThreat to Victim and Law Enforcement\n[Name of defendant ] is not responsible for [[ name of plaintiff ]'s injury/the\ndeath of [ name of decedent ]] if [ name of defendant ] proves that [he/she/\nnonbinary pronoun] made reasonable efforts to communicate the threat to\n[name of plaintiff/decedent ] and to a law enforcement agency.\nDerived from former CACI No. 503 April 2007; Revised June 2013, May 2020",
+  "directions_for_use": "Read this instruction for a Tarasoff cause of action for professional negligence\nagainst a psychotherapist ( Tarasoff v. Regents of Univ. of Cal. (1976) 17 Cal. 3d 425\n[131 Cal. Rptr. 14, 551 P.2d 334]) if there is a dispute of fact regarding whether the\ndefendant made reasonable efforts to communicate to the victim and to a law\nenforcement agency a threat made by the defendant's patient. The therapist is\nimmune from liability under Tarasoff if the therapist makes reasonable efforts to\ncommunicate the threat to the victim and to a law enforcement agency. (Civ. Code,\n§43.92(b).) CACI No. 503A, Psychotherapist' s Duty to Protect Intended Victim\nFrom Patient' s Threat , sets forth the elements of a Tarasoff cause of action if the\ndefendant is not immune.\nIn a wrongful death case, insert the name of the decedent victim where applicable.",
+  "sources_and_authority": [
+    {
+      "raw": "Limited Psychotherapist Immunity. Civil Code section 43.92(b).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "43.92",
+          "display": "Civil Code section 43.92",
+          "raw": "Civil Code section 43.92(b)",
+          "span": [
+            34,
+            61
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "43.92",
+          "display": "Civil Code section 43.92(b)",
+          "raw": "Civil Code section 43.92(b)",
+          "span": [
+            34,
+            61
+          ],
+          "subsection": "b"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Failure to inform a law enforcement agency concerning a homicidal threat made\nby a patient against his work supervisor did not abrogate the \"ﬁreﬁghter's rule\"\nand, therefore, did not render the psychiatrist liable to a police officer who was\nsubsequently shot by the patient. ( Tilley v. Schulte (1999) 70 Cal. App.4th 79,\n85–86 [82 Cal. Rptr.2d 497].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Tilley v. Schulte",
+          "year": 1999,
+          "volume": 70,
+          "reporter": "Cal.App.4th",
+          "page": 79,
+          "pin": "85–86",
+          "raw": "Tilley v. Schulte (1999) 70 Cal. App.4th 79, 85–86",
+          "span": [
+            278,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"When the communication of the serious threat of physical violence is received\nby the therapist from a member of the patient's immediate family and is shared\nfor the purpose of facilitating and furthering the patient's treatment, the fact that\nthe family member is not technically a 'patient' is not crucial to the statute's\npurpose.\" ( Ewing v. Goldstein (2004) 120 Cal. App.4th 807, 817 [15 Cal. Rptr.3d\n864].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ewing v. Goldstein",
+          "year": 2004,
+          "volume": 120,
+          "reporter": "Cal.App.4th",
+          "page": 807,
+          "pin": "817",
+          "raw": "Ewing v. Goldstein (2004) 120 Cal. App.4th 807, 817",
+          "span": [
+            337,
+            388
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1189, 1190\n32 California Forms of Pleading and Practice, Ch. 361A, Mental Health and Mental\nDisabilities: Judicial Commitment, Health Services and Civil Rights , §361A.93\n(Matthew Bender)\n443\n11 California Points and Authorities, Ch. 154, Mental Health and Mental\nDisabilities, §154.30 (Matthew Bender)\nCACI No. 503B MEDICAL NEGLIGENCE\n444",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "43.92",
+      "display": "Civil Code section 43.92",
+      "raw": "Civil Code section 43.92(b)",
+      "span": [
+        34,
+        61
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/43.92"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "43.92",
+      "display": "Civil Code section 43.92(b)",
+      "raw": "Civil Code section 43.92(b)",
+      "span": [
+        34,
+        61
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/CIV/43.92/b"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Tilley v. Schulte",
+      "year": 1999,
+      "volume": 70,
+      "reporter": "Cal.App.4th",
+      "page": 79,
+      "pin": "85–86",
+      "raw": "Tilley v. Schulte (1999) 70 Cal. App.4th 79, 85–86",
+      "span": [
+        278,
+        328
+      ],
+      "role": "sources",
+      "case_key": "70 Cal.App.4th 79"
+    },
+    {
+      "name": "Ewing v. Goldstein",
+      "year": 2004,
+      "volume": 120,
+      "reporter": "Cal.App.4th",
+      "page": 807,
+      "pin": "817",
+      "raw": "Ewing v. Goldstein (2004) 120 Cal. App.4th 807, 817",
+      "span": [
+        337,
+        388
+      ],
+      "role": "sources",
+      "case_key": "120 Cal.App.4th 807"
+    },
+    {
+      "name": "Tarasoff v. Regents of Univ. of Cal.",
+      "year": 1976,
+      "volume": 17,
+      "reporter": "Cal.3d",
+      "page": 425,
+      "pin": null,
+      "raw": "Tarasoff v. Regents of Univ. of Cal. (1976) 17 Cal. 3d 425",
+      "span": [
+        109,
+        167
+      ],
+      "role": "directions",
+      "case_key": "17 Cal.3d 425"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:09+00:00"
+}

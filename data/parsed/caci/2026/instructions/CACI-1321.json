@@ -1,0 +1,55 @@
+{
+  "id": "CACI-1321",
+  "edition": "2026",
+  "number": "1321",
+  "title": "Transferred Intent",
+  "title_full": "Transferred Intent",
+  "title_statute": null,
+  "series": "1300",
+  "series_title": "Series 1300 Assault And Battery",
+  "page_start": 948,
+  "page_end": 948,
+  "instruction_text": "1321. Transferred Intent\nIf [ name of defendant ] intended to commit a battery or assault on one\nperson, but by mistake or accident committed the act on [ name of\nplaintiff], then the battery or assault is the same as if the intended person\nhad been the victim.",
+  "directions_for_use": "Use this instruction with CACI No. 1300, Battery–Essential Factual Elements , or\nCACI No. 1301, Assault–Essential Factual Elements, if it is alleged that the\ndefendant intended to batter or assault one person, and mistakenly or accidentally\nbattered or assaulted the plaintiff.",
+  "sources_and_authority": [
+    {
+      "raw": "\"While throwing rocks at trees or into the street ordinarily is an innocent and\nlawful pastime, that same act when directed at another person is wrongful. The\nevidence at bar . . . warrants an inference that [defendant] threw at [third party]\nand inadvertently struck [plaintiff]. In such circumstances the doctrine of\n\"transferred intent\" renders him liable to [plaintiff]. . . . 'If defendant unlawfully\naims at one person and hits another he is guilty of assault and battery on the\nparty he hit, the injury being the direct, natural and probable consequence of the\nwrongful act.' The rule is not conﬁned to criminal cases, as argued by\nrespondents.\" ( Singer v. Marx (1956) 144 Cal. App.2d 637, 642 [301 P.2d 440],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Singer v. Marx",
+          "year": 1956,
+          "volume": 144,
+          "reporter": "Cal.App.2d",
+          "page": 637,
+          "pin": "642",
+          "raw": "Singer v. Marx (1956) 144 Cal. App.2d 637, 642",
+          "span": [
+            655,
+            701
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §455\n3 Levy et al., California Torts, Ch. 41, Assault and Battery , §41.01[3][c] (Matthew\nBender)\n6 California Forms of Pleading and Practice, Ch. 58, Assault and Battery , §§58.13,\n58.15 (Matthew Bender)\n2 California Points and Authorities, Ch. 21, Assault and Battery , §21.22 (Matthew\nBender)\nCalifornia Civil Practice: Torts §12:8 (Thomson Reuters)\n1322–1399. Reserved for Future Use\n874",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Singer v. Marx",
+      "year": 1956,
+      "volume": 144,
+      "reporter": "Cal.App.2d",
+      "page": 637,
+      "pin": "642",
+      "raw": "Singer v. Marx (1956) 144 Cal. App.2d 637, 642",
+      "span": [
+        655,
+        701
+      ],
+      "role": "sources",
+      "case_key": "144 Cal.App.2d 637"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "CACI-1009D",
+  "edition": "2026",
+  "number": "1009D",
+  "title": "Liability to Employees of Independent Contractors for Unsafe Conditions—Defective Equipment",
+  "title_full": "Liability to Employees of Independent Contractors for Unsafe Conditions—Defective Equipment",
+  "title_statute": null,
+  "series": "1000",
+  "series_title": "Series 1000 Premises Liability",
+  "page_start": 736,
+  "page_end": 737,
+  "instruction_text": "1009D. Liability to Employees of Independent Contractors for\nUnsafe Conditions–Defective Equipment\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun] was harmed by\nan unsafe condition while employed by [ name of plaintiff' s employer ] and\nworking on [ name of defendant ]'s property. To establish this claim, [ name\nof plaintiff ] must prove all of the following:\n1. That [ name of defendant ] [owned/leased/occupied/controlled] the\nproperty;\n2. That [ name of defendant ] negligently provided unsafe equipment\nthat contributed to [ name of plaintiff ]'s injuries;\n3. That [ name of plaintiff ] was harmed; and\n4. That [ name of defendant ]'s conduct was a substantial factor in\ncausing [ name of plaintiff ]'s harm.\nDerived from CACI No. 1009B April 2009; Revised December 2011, November\n2024*",
+  "directions_for_use": "This instruction is for use if a dangerous condition on property causes injury to an\nemployee of an independent contractor hired to perform work on the property. The\nbasis of liability is that the defendant provided defective equipment. For an\ninstruction for injuries to others due to a concealed condition, see CACI No. 1003,\nUnsafe Conditions . For an instruction for injuries based on unsafe concealed\nconditions not discoverable by the plaintiff's employer, see CACI No. 1009A,\nLiability to Employees of Independent Contractors for Unsafe Concealed\nConditions. For an instruction for injuries based on the hirer's retained control over\nthe contractor's performance of work, see CACI No. 1009B, Liability to Employees\nof Independent Contractors for Unsafe Conditions–Retained Control .",
+  "sources_and_authority": [
+    {
+      "raw": "\"[W]hen a hirer of an independent contractor, by negligently furnishing unsafe\nequipment to the contractor, affirmatively contributes to the injury of an\nemployee of the contractor, the hirer should be liable to the employee for the\nconsequences of the hirer's own negligence.\" ( Elsner v. Uveges (2004) 34\nCal. 4th 915, 937 [22 Cal. Rptr.3d 530, 102 P.3d 915].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Elsner v. Uveges",
+          "year": 2004,
+          "volume": 34,
+          "reporter": "Cal.4th",
+          "page": 915,
+          "pin": "937",
+          "raw": "Elsner v. Uveges (2004) 34 Cal. 4th 915, 937",
+          "span": [
+            280,
+            324
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" '[W]here the hiring party actively contributes to the injury by supplying\ndefective equipment, it is the hiring party's own negligence that renders it liable,\nnot that of the contractor.' \" ( McKown v. Wal-Mart Stores, Inc. (2002) 27 Cal. 4th\n219, 225 [115 Cal. Rptr.2d 868, 38 P.3d 1094], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "McKown v. Wal-Mart Stores, Inc.",
+          "year": 2002,
+          "volume": 27,
+          "reporter": "Cal.4th",
+          "page": 219,
+          "pin": "225",
+          "raw": "McKown v. Wal-Mart Stores, Inc. (2002) 27 Cal. 4th 219, 225",
+          "span": [
+            194,
+            253
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "662\n6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1259\n1 Levy et al., California Torts, Ch. 15, General Premises Liability , §15.08\n(Matthew Bender)\n11 California Real Estate Law and Practice, Ch. 381, Tort Liability of Property\nOwners, §381.23 (Matthew Bender)\n36 California Forms of Pleading and Practice, Ch. 421, Premises Liability, §421.15\n(Matthew Bender)\n17 California Points and Authorities, Ch. 178, Premises Liability, §178.24 (Matthew\nBender)\nPREMISES LIABILITY CACI No. 1009D\n663",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Elsner v. Uveges",
+      "year": 2004,
+      "volume": 34,
+      "reporter": "Cal.4th",
+      "page": 915,
+      "pin": "937",
+      "raw": "Elsner v. Uveges (2004) 34 Cal. 4th 915, 937",
+      "span": [
+        280,
+        324
+      ],
+      "role": "sources",
+      "case_key": "34 Cal.4th 915"
+    },
+    {
+      "name": "McKown v. Wal-Mart Stores, Inc.",
+      "year": 2002,
+      "volume": 27,
+      "reporter": "Cal.4th",
+      "page": 219,
+      "pin": "225",
+      "raw": "McKown v. Wal-Mart Stores, Inc. (2002) 27 Cal. 4th 219, 225",
+      "span": [
+        194,
+        253
+      ],
+      "role": "sources",
+      "case_key": "27 Cal.4th 219"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:11+00:00"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "CACI-307",
+  "edition": "2026",
+  "number": "307",
+  "title": "Contract Formation—Offer",
+  "title_full": "Contract Formation—Offer",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 176,
+  "page_end": 177,
+  "instruction_text": "307. Contract Formation–Offer\nBoth an offer and an acceptance are required to create a contract. [ Name\nof defendant ] contends that a contract was not created because there was\nnever any offer. To overcome this contention, [ name of plaintiff ] must\nprove all of the following:\n1. That [ name of plaintiff ] communicated to [ name of defendant ] that\n[he/she/nonbinary pronoun /it] was willing to enter into a contract\nwith [ name of defendant ];\n2. That the communication contained speciﬁc terms; and\n3. That, based on the communication, [ name of defendant ] could have\nreasonably concluded that a contract with these terms would\nresult if [he/she/ nonbinary pronoun /it] accepted the offer.\nIf [ name of plaintiff ] did not prove all of the above, then a contract was\nnot created.",
+  "directions_for_use": "Do not give this instruction unless the defendant has testiﬁed or offered other\nevidence in support of the contention there was never any offer.\nThis instruction assumes that the defendant is claiming the plaintiff never made an\noffer. Change the identities of the parties in the indented paragraphs if, under the\nfacts of the case, the roles of the parties are switched (e.g., if defendant was the\nalleged offeror). If the existence of an offer is not contested, then this instruction is\nunnecessary.",
+  "sources_and_authority": [
+    {
+      "raw": "Courts have adopted the deﬁnition of \"offer\" found at Restatement Second of\nContracts, section 24: \"An offer is the manifestation of willingness to enter into\na bargain, so made as to justify another person in understanding that his assent\nto that bargain is invited and will conclude it.\" ( City of Moorpark v. Moorpark\nUniﬁed School Dist. (1991) 54 Cal. 3d 921, 930 [1 Cal. Rptr.2d 896, 819 P.2d\n854].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "City of Moorpark v. Moorpark Uniﬁed School Dist.",
+          "year": 1991,
+          "volume": 54,
+          "reporter": "Cal.3d",
+          "page": 921,
+          "pin": "930",
+          "raw": "City of Moorpark v. Moorpark Uniﬁed School Dist. (1991) 54 Cal. 3d 921, 930",
+          "span": [
+            292,
+            367
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Under basic contract law \" '[a]n offer must be sufficiently deﬁnite, or must call\nfor such deﬁnite terms in the acceptance that the performance promised is\nreasonably certain.' \" ( Ladas v. California State Automobile Assn. (1993) 19\nCal. App.4th 761, 770 [23 Cal. Rptr.2d 810].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ladas v. California State Automobile Assn.",
+          "year": 1993,
+          "volume": 19,
+          "reporter": "Cal.App.4th",
+          "page": 761,
+          "pin": "770",
+          "raw": "Ladas v. California State Automobile Assn. (1993) 19 Cal. App.4th 761, 770",
+          "span": [
+            181,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The trier of fact must determine 'whether a reasonable person would\nnecessarily assume . . . a willingness to enter into contract.' [Citation.]\" ( In re\n102\nFirst Capital Life Insurance Co. (1995) 34 Cal. App.4th 1283, 1287 [40\nCal. Rptr.2d 816].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Offers should be contrasted with preliminary negotiations: \"Preliminary\nnegotiations or an agreement for future negotiations are not the functional\nequivalent of a valid, subsisting agreement.\" ( Kruse v. Bank of America (1988)\n202 Cal. App.3d 38, 59 [248 Cal. Rptr. 217].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Kruse v. Bank of America",
+          "year": 1988,
+          "volume": 202,
+          "reporter": "Cal.App.3d",
+          "page": 38,
+          "pin": "59",
+          "raw": "Kruse v. Bank of America (1988) 202 Cal. App.3d 38, 59",
+          "span": [
+            196,
+            250
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§116, 117,\n125–137\n13 California Forms of Pleading and Practice, Ch. 140, Contracts, §140.22\n(Matthew Bender)\n27 California Legal Forms, Ch. 75, Formation of Contracts and Standard\nContractual Provisions, §75.210 (Matthew Bender)\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 13, Attacking\nor Defending Existence of Contract–Absence of Essential Element , 13.18–13.24\nCONTRACTS CACI No. 307\n103",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "City of Moorpark v. Moorpark Uniﬁed School Dist.",
+      "year": 1991,
+      "volume": 54,
+      "reporter": "Cal.3d",
+      "page": 921,
+      "pin": "930",
+      "raw": "City of Moorpark v. Moorpark Uniﬁed School Dist. (1991) 54 Cal. 3d 921, 930",
+      "span": [
+        292,
+        367
+      ],
+      "role": "sources",
+      "case_key": "54 Cal.3d 921"
+    },
+    {
+      "name": "Ladas v. California State Automobile Assn.",
+      "year": 1993,
+      "volume": 19,
+      "reporter": "Cal.App.4th",
+      "page": 761,
+      "pin": "770",
+      "raw": "Ladas v. California State Automobile Assn. (1993) 19 Cal. App.4th 761, 770",
+      "span": [
+        181,
+        255
+      ],
+      "role": "sources",
+      "case_key": "19 Cal.App.4th 761"
+    },
+    {
+      "name": "Kruse v. Bank of America",
+      "year": 1988,
+      "volume": 202,
+      "reporter": "Cal.App.3d",
+      "page": 38,
+      "pin": "59",
+      "raw": "Kruse v. Bank of America (1988) 202 Cal. App.3d 38, 59",
+      "span": [
+        196,
+        250
+      ],
+      "role": "sources",
+      "case_key": "202 Cal.App.3d 38"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

@@ -1,0 +1,179 @@
+{
+  "id": "CACI-412",
+  "edition": "2026",
+  "number": "412",
+  "title": "Duty of Care Owed Children",
+  "title_full": "Duty of Care Owed Children",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 326,
+  "page_end": 326,
+  "instruction_text": "412. Duty of Care Owed Children\nAn adult must anticipate the ordinary behavior of children. An adult\nmust be more careful when dealing with children than with other adults.",
+  "directions_for_use": "This instruction is to be used where the plaintiff seeks damages for injury to a\nminor.\nFor standard of care for minors, see CACI No. 402, Standard of Care for Minors .",
+  "sources_and_authority": [
+    {
+      "raw": "\" 'A child of immature years is expected to exercise only such care as pertains to\nchildhood, and all persons dealing with such a child are chargeable with such\nknowledge. As a result, one dealing with children is bound to exercise a greater\namount of caution than he would were he dealing with an adult.' [Citations].\"\n(Kataoka v. May Dept. Stores Co. (1943) 60 Cal. App.2d 177, 182–183 [140 P.2d\n467].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Kataoka v. May Dept. Stores Co.",
+          "year": 1943,
+          "volume": 60,
+          "reporter": "Cal.App.2d",
+          "page": 177,
+          "pin": "182–183",
+          "raw": "Kataoka v. May Dept. Stores Co. (1943) 60 Cal. App.2d 177, 182–183",
+          "span": [
+            321,
+            387
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Schwartz v. Helms Bakery, Ltd. (1967) 67 Cal. 2d 232, 240, 243 [60 Cal. Rptr.\n510, 430 P.2d 68]; Hilyar v. Union Ice Co. (1955) 45 Cal. 2d 30, 37 [286 P.2d\n21].",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Schwartz v. Helms Bakery, Ltd.",
+          "year": 1967,
+          "volume": 67,
+          "reporter": "Cal.2d",
+          "page": 232,
+          "pin": "240",
+          "raw": "Schwartz v. Helms Bakery, Ltd. (1967) 67 Cal. 2d 232, 240",
+          "span": [
+            0,
+            57
+          ]
+        },
+        {
+          "name": "Hilyar v. Union Ice Co.",
+          "year": 1955,
+          "volume": 45,
+          "reporter": "Cal.2d",
+          "page": 30,
+          "pin": "37",
+          "raw": "Hilyar v. Union Ice Co. (1955) 45 Cal. 2d 30, 37",
+          "span": [
+            97,
+            145
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A greater degree of care is generally owed to children because of their lack of\ncapacity to appreciate risks and to avoid danger.\" ( McDaniel v. Sunset Manor\nCo. (1990) 220 Cal. App.3d 1, 7 [269 Cal. Rptr. 196], citing Casas v. Maulhardt\nBuick, Inc. (1968) 258 Cal. App.2d 692, 697–700 [66 Cal. Rptr. 44].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "McDaniel v. Sunset Manor Co.",
+          "year": 1990,
+          "volume": 220,
+          "reporter": "Cal.App.3d",
+          "page": 1,
+          "pin": "7",
+          "raw": "McDaniel v. Sunset Manor Co. (1990) 220 Cal. App.3d 1, 7",
+          "span": [
+            134,
+            190
+          ]
+        },
+        {
+          "name": "Casas v. Maulhardt Buick, Inc.",
+          "year": 1968,
+          "volume": 258,
+          "reporter": "Cal.App.2d",
+          "page": 692,
+          "pin": "697–700",
+          "raw": "Casas v. Maulhardt Buick, Inc. (1968) 258 Cal. App.2d 692, 697–700",
+          "span": [
+            220,
+            286
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1136, 1137\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §1.19\n1 Levy et al., California Torts, Ch. 1, Negligence, §1.31 (Matthew Bender)\n4 California Trial Guide, Unit 90, Closing Argument, §90.88 (Matthew Bender)\nCalifornia Products Liability Actions, Ch. 10, Trial, §10.05 (Matthew Bender)\n32 California Forms of Pleading and Practice, Ch. 364, Minors (Matthew Bender)\n33 California Forms of Pleading and Practice, Ch. 380, Negligence (Matthew\nBender)\n16 California Points and Authorities, Ch. 165, Negligence, §165.120 (Matthew\nBender)\n252",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Kataoka v. May Dept. Stores Co.",
+      "year": 1943,
+      "volume": 60,
+      "reporter": "Cal.App.2d",
+      "page": 177,
+      "pin": "182–183",
+      "raw": "Kataoka v. May Dept. Stores Co. (1943) 60 Cal. App.2d 177, 182–183",
+      "span": [
+        321,
+        387
+      ],
+      "role": "sources",
+      "case_key": "60 Cal.App.2d 177"
+    },
+    {
+      "name": "Schwartz v. Helms Bakery, Ltd.",
+      "year": 1967,
+      "volume": 67,
+      "reporter": "Cal.2d",
+      "page": 232,
+      "pin": "240",
+      "raw": "Schwartz v. Helms Bakery, Ltd. (1967) 67 Cal. 2d 232, 240",
+      "span": [
+        0,
+        57
+      ],
+      "role": "sources",
+      "case_key": "67 Cal.2d 232"
+    },
+    {
+      "name": "Hilyar v. Union Ice Co.",
+      "year": 1955,
+      "volume": 45,
+      "reporter": "Cal.2d",
+      "page": 30,
+      "pin": "37",
+      "raw": "Hilyar v. Union Ice Co. (1955) 45 Cal. 2d 30, 37",
+      "span": [
+        97,
+        145
+      ],
+      "role": "sources",
+      "case_key": "45 Cal.2d 30"
+    },
+    {
+      "name": "McDaniel v. Sunset Manor Co.",
+      "year": 1990,
+      "volume": 220,
+      "reporter": "Cal.App.3d",
+      "page": 1,
+      "pin": "7",
+      "raw": "McDaniel v. Sunset Manor Co. (1990) 220 Cal. App.3d 1, 7",
+      "span": [
+        134,
+        190
+      ],
+      "role": "sources",
+      "case_key": "220 Cal.App.3d 1"
+    },
+    {
+      "name": "Casas v. Maulhardt Buick, Inc.",
+      "year": 1968,
+      "volume": 258,
+      "reporter": "Cal.App.2d",
+      "page": 692,
+      "pin": "697–700",
+      "raw": "Casas v. Maulhardt Buick, Inc. (1968) 258 Cal. App.2d 692, 697–700",
+      "span": [
+        220,
+        286
+      ],
+      "role": "sources",
+      "case_key": "258 Cal.App.2d 692"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

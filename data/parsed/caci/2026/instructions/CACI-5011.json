@@ -1,0 +1,99 @@
+{
+  "id": "CACI-5011",
+  "edition": "2026",
+  "number": "5011",
+  "title": "Reading Back of Trial Testimony in Jury Room",
+  "title_full": "Reading Back of Trial Testimony in Jury Room",
+  "title_statute": null,
+  "series": "5000",
+  "series_title": "Series 5000 Concluding Instructions",
+  "page_start": 3353,
+  "page_end": 3354,
+  "instruction_text": "5011. Reading Back of Trial Testimony in Jury Room\nY ou may request in writing that trial testimony be read to you. I will\nhave the court reporter read the testimony to you. Y ou may request that\nall or a part of a witness's testimony be read.\nY our request should be as speciﬁc as possible. It will be helpful if you\ncan state:\n1. The name of the witness;\n2. The subject of the testimony you would like to have read; and\n3. The name of the attorney or attorneys asking the questions when\nthe testimony was given.\nThe court reporter is not permitted to talk with you when she or he is\nreading the testimony you have requested.\nWhile the court reporter is reading the testimony, you may not\ndeliberate or discuss the case.\nY ou may not ask the court reporter to read testimony that was not\nspeciﬁcally mentioned in a written request. If your notes differ from the\ntestimony, you must accept the court reporter's record as accurate.",
+  "directions_for_use": "The read-back should not be conducted in the jury room unless the attorneys\nstipulate to that location.",
+  "sources_and_authority": [
+    {
+      "raw": "Jury Request for Additional Information During Deliberations. Code of Civil\nProcedure section 614.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Section 614 of the Code of Civil Procedure provides that if there is a\ndisagreement among jurors during their deliberations as to any part of the\ntestimony which they have heard they may return into court and secure from the\ncourt in the presence of counsel for all parties the desired information as to the\nrecord. If they ask for testimony relating to a speciﬁed subject, they are entitled\nto hear all of it. However, it is equally clear that the trial judge does not have to\norder read any part of the record which is not thus requested by the jury\nforeman.\" ( McGuire v. W. A. Thompson Distributing Co. (1963) 215 Cal. App.2d\n356, 365–366 [30 Cal. Rptr. 113], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "McGuire v. W. A. Thompson Distributing Co.",
+          "year": 1963,
+          "volume": 215,
+          "reporter": "Cal.App.2d",
+          "page": 356,
+          "pin": "365–366",
+          "raw": "McGuire v. W. A. Thompson Distributing Co. (1963) 215 Cal. App.2d 356, 365–366",
+          "span": [
+            565,
+            643
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"When the jury requests a repetition of certain testimony, the trial court is not\nrequired to furnish the jury with testimony not requested.\" ( Allen v. Toledo\n1467\n(1980) 109 Cal. App.3d 415, 422 [167 Cal. Rptr. 270], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Appellants assign as error the court's refusal to comply with their counsel's\nrequest for testimony reading. It was not. It is not the party to whom the law\ngives the right to select testimony to be read. And the law does not make the\nparty or his attorney the arbiter to determine the jury's wishes.\" ( Asplund v.\nDriskell (1964) 225 Cal. App.2d 705, 714 [37 Cal. Rptr. 652], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Asplund v. Driskell",
+          "year": 1964,
+          "volume": 225,
+          "reporter": "Cal.App.2d",
+          "page": 705,
+          "pin": "714",
+          "raw": "Asplund v. Driskell (1964) 225 Cal. App.2d 705, 714",
+          "span": [
+            305,
+            356
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "7 Witkin, California Procedure (6th ed. 2021) Trial, §337\n1 Matthew Bender Practice Guide: California Trial and Post-Trial Civil Procedure,\nCh. 17, Dealing With the Jury , 17.34\nWegner et al., California Practice Guide: Civil Trials & Evidence, Ch. 15-D, Juror\nRequests for Additional Information During Deliberations , ¶ 15:92 (The Rutter\nGroup)\n28 California Forms of Pleading and Practice, Ch. 326, Jury Instructions , §326.32\n(Matthew Bender)\n4 California Trial Guide, Unit 91, Jury Deliberations and Rendition of V erdict ,\n§91.01 (Matthew Bender)\nCalifornia Judges Benchbook: Civil Proceedings–Trial §13.37 (Cal CJER 2019)\nCACI No. 5011 CONCLUDING INSTRUCTIONS\n1468",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "McGuire v. W. A. Thompson Distributing Co.",
+      "year": 1963,
+      "volume": 215,
+      "reporter": "Cal.App.2d",
+      "page": 356,
+      "pin": "365–366",
+      "raw": "McGuire v. W. A. Thompson Distributing Co. (1963) 215 Cal. App.2d 356, 365–366",
+      "span": [
+        565,
+        643
+      ],
+      "role": "sources",
+      "case_key": "215 Cal.App.2d 356"
+    },
+    {
+      "name": "Asplund v. Driskell",
+      "year": 1964,
+      "volume": 225,
+      "reporter": "Cal.App.2d",
+      "page": 705,
+      "pin": "714",
+      "raw": "Asplund v. Driskell (1964) 225 Cal. App.2d 705, 714",
+      "span": [
+        305,
+        356
+      ],
+      "role": "sources",
+      "case_key": "225 Cal.App.2d 705"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

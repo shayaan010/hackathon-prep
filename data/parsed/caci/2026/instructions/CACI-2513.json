@@ -1,0 +1,130 @@
+{
+  "id": "CACI-2513",
+  "edition": "2026",
+  "number": "2513",
+  "title": "Business Judgment for “At-Will” Employment",
+  "title_full": "Business Judgment for “At-Will” Employment",
+  "title_statute": null,
+  "series": "2500",
+  "series_title": "Series 2500 Fair Employment And Housing Act",
+  "page_start": 1655,
+  "page_end": 1655,
+  "instruction_text": "2513. Business Judgment for \"At-Will\" Employment\nIn California, employment is presumed to be \"at will.\" This means that\nan employer may [discharge/[ other adverse action ]] an employee for no\nreason, or for a good, bad, mistaken, unwise, or even unfair reason, as\nlong as its action is not for a [discriminatory/retaliatory] reason.",
+  "directions_for_use": "Give this instruction to advise the jury that the employer's adverse action is not\nillegal just because it is ill-advised. It has been held to be error not to give this\ninstruction. (See V eronese v. Lucasﬁlm Ltd. (2012) 212 Cal. App.4th 1, 20–24 [151\nCal. Rptr.3d 41].)",
+  "sources_and_authority": [
+    {
+      "raw": "At-Will Employment. Labor Code section 2922.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "2922",
+          "display": "Labor Code section 2922",
+          "raw": "Labor Code section 2922",
+          "span": [
+            20,
+            43
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[A] plaintiff in a discrimination case must show discrimination, not just that the\nemployer's decision was wrong, mistaken, or unwise. . . . ' \"The employer may\nﬁre an employee for a good reason, a bad reason, a reason based on erroneous\nfacts, or for no reason at all, as long as its action is not for a discriminatory\nreason. . . . 'While an employer's judgment or course of action may seem poor\nor erroneous to outsiders, the relevant question is . . . whether the given reason\nwas a pretext for illegal discrimination. The employer's stated legitimate reason\n. . . does not have to be a reason that the judge or jurors would act on or\napprove.' \" ' \" ( V eronese, supra, 212 Cal. App.4th at p. 21, internal citation\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[I]f nondiscriminatory, [defendant]'s true reasons need not necessarily have\nbeen wise or correct. While the objective soundness of an employer's proffered\nreasons supports their credibility . . . , the ultimate issue is simply whether the\nemployer acted with a motive to discriminate illegally . Thus, 'legitimate' reasons\nin this context are reasons that are facially unrelated to prohibited bias , and\nwhich, if true, would thus preclude a ﬁnding of discrimination.\" ( Guz v. Bechtel\nNational, Inc. (2000) 24 Cal. 4th 317, 358 [100 Cal. Rptr.2d 352, 8 P.3d 1089],\noriginal italics, internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Guz v. Bechtel National, Inc.",
+          "year": 2000,
+          "volume": 24,
+          "reporter": "Cal.4th",
+          "page": 317,
+          "pin": "358",
+          "raw": "Guz v. Bechtel National, Inc. (2000) 24 Cal. 4th 317, 358",
+          "span": [
+            473,
+            530
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[U]nder the law [defendant] was entitled to exercise her business judgment,\nwithout second guessing. But [the court] refused to tell the jury that. That was\nerror.\" (V eronese, supra, 212 Cal. App.4th at p. 24.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"An employment decision based on political concerns, even if otherwise unfair,\nis not actionable under section 12940 so long as the employee's race or other\nprotected status is not a substantial factor in the decision.\" ( Diego v. City of Los\nAngeles (2017) 15 Cal. App.5th 338, 355 [223 Cal. Rptr.3d 173].)\n1581",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Diego v. City of Los Angeles",
+          "year": 2017,
+          "volume": 15,
+          "reporter": "Cal.App.5th",
+          "page": 338,
+          "pin": "355",
+          "raw": "Diego v. City of Los Angeles (2017) 15 Cal. App.5th 338, 355",
+          "span": [
+            222,
+            282
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "2922",
+      "display": "Labor Code section 2922",
+      "raw": "Labor Code section 2922",
+      "span": [
+        20,
+        43
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/2922"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Guz v. Bechtel National, Inc.",
+      "year": 2000,
+      "volume": 24,
+      "reporter": "Cal.4th",
+      "page": 317,
+      "pin": "358",
+      "raw": "Guz v. Bechtel National, Inc. (2000) 24 Cal. 4th 317, 358",
+      "span": [
+        473,
+        530
+      ],
+      "role": "sources",
+      "case_key": "24 Cal.4th 317"
+    },
+    {
+      "name": "Diego v. City of Los Angeles",
+      "year": 2017,
+      "volume": 15,
+      "reporter": "Cal.App.5th",
+      "page": 338,
+      "pin": "355",
+      "raw": "Diego v. City of Los Angeles (2017) 15 Cal. App.5th 338, 355",
+      "span": [
+        222,
+        282
+      ],
+      "role": "sources",
+      "case_key": "15 Cal.App.5th 338"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:17+00:00"
+}

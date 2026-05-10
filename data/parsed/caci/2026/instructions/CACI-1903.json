@@ -1,0 +1,460 @@
+{
+  "id": "CACI-1903",
+  "edition": "2026",
+  "number": "1903",
+  "title": "Negligent Misrepresentation",
+  "title_full": "Negligent Misrepresentation",
+  "title_statute": null,
+  "series": "1900",
+  "series_title": "Series 1900 Fraud Or Deceit",
+  "page_start": 1269,
+  "page_end": 1272,
+  "instruction_text": "1903. Negligent Misrepresentation\n[Name of plaintiff ] claims [he/she/ nonbinary pronoun/it] was harmed\nbecause [ name of defendant ] negligently misrepresented a fact. To\nestablish this claim, [ name of plaintiff ] must prove all of the following:\n1. That [ name of defendant ] represented to [ name of plaintiff ] that a\nfact was true;\n2. That [ name of defendant ]'s representation was not true;\n3. That [although [ name of defendant ] may have honestly believed\nthat the representation was true,] [[ name of\ndefendant]/he/she/nonbinary pronoun ] had no reasonable grounds\nfor believing the representation was true when [he/she/ nonbinary\npronoun] made it;\n4. That [ name of defendant ] intended that [ name of plaintiff ] rely on\nthis representation;\n5. That [ name of plaintiff ] reasonably relied on [ name of defendant ]'s\nrepresentation;\n6. That [ name of plaintiff ] was harmed; and\n7. That [ name of plaintiff ]'s reliance on [ name of defendant ]'s\nrepresentation was a substantial factor in causing\n[his/her/nonbinary pronoun /its] harm.",
+  "directions_for_use": "Give this instruction in a case in which it is alleged that the defendant made certain\nrepresentations with no reason to believe that they were true. (See Civ. Code,\n§1710(2).) If element 5 is contested, give CACI No. 1907, Reliance, and CACI No.\n1908, Reasonable Reliance .\nIf both negligent misrepresentation and intentional misrepresentation are alleged in\nthe alternative, give both this instruction and CACI No.1900, Intentional\nMisrepresentation. If only negligent misrepresentation is alleged, the bracketed\nreference to the defendant's honest belief in the truth of the representation in\nelement 3 may be omitted. (See Bily v. Arthur Young & Co. (1992) 3 Cal. 4th 370,\n407–408 [11 Cal. Rptr.2d 51, 834 P.2d 745].)",
+  "sources_and_authority": [
+    {
+      "raw": "Negligent Misrepresentation. Civil Code section 1710.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1710",
+          "display": "Civil Code section 1710",
+          "raw": "Civil Code section 1710",
+          "span": [
+            29,
+            52
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Negligent misrepresentation is a separate and distinct tort, a species of the tort\nof deceit. 'Where the defendant makes false statements, honestly believing that\n1195\nthey are true, but without reasonable ground for such belief, he may be liable for\nnegligent misrepresentation, a form of deceit.' \" ( Bily, supra, 3 Cal. 4th at p. 407,\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"This is not merely a case where the defendants made false representations of\nmatters within their personal knowledge which they had no reasonable grounds\nfor believing to be true . Such acts clearly would constitute actual fraud under\nCalifornia law. In such situations the defendant believes the representations to be\ntrue but is without reasonable grounds for such belief. His liability is based on\nnegligent misrepresentation which has been made a form of actionable deceit.\nOn the contrary, in the instant case, the court found that the defendants did not\nbelieve in the truth of the statements. Where a person makes statements which\nhe does not believe to be true, in a reckless manner without knowing whether\nthey are true or false, the element of scienter is satisﬁed and he is liable for\nintentional misrepresentation.\" ( Yellow Creek Logging Corp. v. Dare (1963) 216\nCal. App.2d 50, 57 [30 Cal. Rptr. 629], original italics, internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Yellow Creek Logging Corp. v. Dare",
+          "year": 1963,
+          "volume": 216,
+          "reporter": "Cal.App.2d",
+          "page": 50,
+          "pin": "57",
+          "raw": "Yellow Creek Logging Corp. v. Dare (1963) 216 Cal. App.2d 50, 57",
+          "span": [
+            831,
+            895
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Negligent misrepresentation requires an assertion of fact, falsity of that\nassertion, and the tortfeasor's lack of reasonable grounds for believing the\nassertion to be true. It also requires the tortfeasor's intent to induce reliance,\njustiﬁable reliance by the person to whom the false assertion of fact was made,\nand damages to that person. An implied assertion of fact is 'not enough' to\nsupport liability.\" (SI 59 LLC v. V ariel Warner V entures, LLC (2018) 29\nCal. App.5th 146, 154 [239 Cal. Rptr.3d 788], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'To be actionable deceit, the representation need not be made with knowledge\nof actual falsity, but need only be an \"assertion, as a fact, of that which is not\ntrue, by one who has no reasonable ground for believing it to be true\" and made\n\"with intent to induce [the recipient] to alter his position to his injury or his\nrisk. . . .' \" The elements of negligent misrepresentation also include justiﬁable\nreliance on the representation, and resulting damage.\" ( B.L.M. v. Sabo & Deitsch\n(1997) 55 Cal. App.4th 823, 834 [64 Cal. Rptr.2d 335], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[Plaintiffs] do not allege negligence. They allege negligent misrepresentation.\nThey are different torts, as the Supreme Court expressly observed in [ Bily, supra,\n3 Cal. 4th at p. 407]: '[N]either the courts (ourselves included), the\ncommentators, nor the authors of the Restatement Second of Torts have made\nclear or careful distinctions between the tort of negligence and the separate tort\nof negligent misrepresentation. The distinction is important not only because of\nthe different statutory bases of the two torts, but also because it has practical\nimplications for the trial of cases in complex areas . . . . [¶] Negligent\nmisrepresentation is a separate and distinct tort, a species of the tort of deceit.'\nIn short, the elements of each tort are different. Perhaps more importantly, the\npolicies behind each tort sometimes call for different results even when applied\nto the same conduct.\" ( Bock v. Hansen (2014) 225 Cal. App.4th 215, 227−228\n[170 Cal. Rptr.3d 293].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bock v. Hansen",
+          "year": 2014,
+          "volume": 225,
+          "reporter": "Cal.App.4th",
+          "page": 215,
+          "pin": "227",
+          "raw": "Bock v. Hansen (2014) 225 Cal. App.4th 215, 227",
+          "span": [
+            903,
+            950
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"As is true of negligence, responsibility for negligent misrepresentation rests\nupon the existence of a legal duty, imposed by contract, statute or otherwise,\nCACI No. 1903 FRAUD OR DECEIT\n1196\nowed by a defendant to the injured person. The determination of whether a duty\nexists is primarily a question of law.\" ( Eddy v. Sharp (1988) 199 Cal. App.3d\n858, 864 [245 Cal. Rptr. 211], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Eddy v. Sharp",
+          "year": 1988,
+          "volume": 199,
+          "reporter": "Cal.App.3d",
+          "page": 858,
+          "pin": "864",
+          "raw": "Eddy v. Sharp (1988) 199 Cal. App.3d 858, 864",
+          "span": [
+            315,
+            360
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The tort of negligent misrepresentation is similar to fraud, except that it does\nnot require scienter or an intent to defraud. . . . [T]he same elements of\nintentional fraud also comprise a cause of action for negligent misrepresentation,\nwith the exception that there is no requirement of intent to induce\nreliance . . . .\" ( Tenet Healthsystem Desert, Inc. v. Blue Cross of California\n(2016) 245 Cal. App.4th 821, 845 [199 Cal. Rptr.3d 901], internal citation\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Tenet Healthsystem Desert, Inc. v. Blue Cross of California",
+          "year": 2016,
+          "volume": 245,
+          "reporter": "Cal.App.4th",
+          "page": 821,
+          "pin": "845",
+          "raw": "Tenet Healthsystem Desert, Inc. v. Blue Cross of California (2016) 245 Cal. App.4th 821, 845",
+          "span": [
+            328,
+            420
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In our view, and to clarify, the proper formulation of the elements is that\nnegligent misrepresentation does require proof of ' \"intent to induce another's\nreliance on the fact misrepresented[.]\" ' However, negligent misrepresentation\ndoes not require proof of an intent to defraud.\" ( Borman v. Brown (2021) 59\nCal. App.5th 1048, 1061 [273 Cal. Rptr.3d 868], original italics, internal citation\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Borman v. Brown",
+          "year": 2021,
+          "volume": 59,
+          "reporter": "Cal.App.5th",
+          "page": 1048,
+          "pin": "1061",
+          "raw": "Borman v. Brown (2021) 59 Cal. App.5th 1048, 1061",
+          "span": [
+            287,
+            336
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" ' \"Where the defendant makes false statements, honestly believing that they are\ntrue, but without reasonable ground for such belief, he may be liable for\nnegligent misrepresentation, a form of deceit.\" ' If defendant's belief 'is both\nhonest and reasonable, the misrepresentation is innocent and there is no tort\nliability.' \" ( Diediker v. Peelle Financial Corp. (1997) 60 Cal. App.4th 288, 297\n[70 Cal. Rptr.2d 442], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Diediker v. Peelle Financial Corp.",
+          "year": 1997,
+          "volume": 60,
+          "reporter": "Cal.App.4th",
+          "page": 288,
+          "pin": "297",
+          "raw": "Diediker v. Peelle Financial Corp. (1997) 60 Cal. App.4th 288, 297",
+          "span": [
+            331,
+            397
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A] cause of action for misrepresentation requires an affirmative statement, not\nan implied assertion.\" ( RSB Vineyards, LLC v. Orsi (2017) 15 Cal. App.5th 1089,\n1102 [223 Cal. Rptr.3d 458].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "RSB Vineyards, LLC v. Orsi",
+          "year": 2017,
+          "volume": 15,
+          "reporter": "Cal.App.5th",
+          "page": 1089,
+          "pin": "1102",
+          "raw": "RSB Vineyards, LLC v. Orsi (2017) 15 Cal. App.5th 1089, 1102",
+          "span": [
+            107,
+            167
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Whether a defendant had reasonable ground for believing his or her false\nstatement to be true is ordinarily a question of fact.\" ( Quality Wash Group V ,\nLtd. v. Hallak (1996) 50 Cal. App.4th 1687, 1696 [58 Cal. Rptr.2d 592], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ltd. v. Hallak",
+          "year": 1996,
+          "volume": 50,
+          "reporter": "Cal.App.4th",
+          "page": 1687,
+          "pin": "1696",
+          "raw": "Ltd. v. Hallak (1996) 50 Cal. App.4th 1687, 1696",
+          "span": [
+            155,
+            203
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]here are two causation elements in a fraud cause of action. First, the\nplaintiff's actual and justiﬁable reliance on the defendant's misrepresentation\nmust have caused him to take a detrimental course of action. Second, the\ndetrimental action taken by the plaintiff must have caused his alleged damage.\"\n(Beckwith v. Dahl (2012) 205 Cal. App.4th 1039, 1062 [141 Cal. Rptr.3d 142].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Beckwith v. Dahl",
+          "year": 2012,
+          "volume": 205,
+          "reporter": "Cal.App.4th",
+          "page": 1039,
+          "pin": "1062",
+          "raw": "Beckwith v. Dahl (2012) 205 Cal. App.4th 1039, 1062",
+          "span": [
+            309,
+            360
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The law is well established that actionable misrepresentations must pertain to\npast or existing material facts. Statements or predictions regarding future events\nare deemed to be mere opinions which are not actionable.\" ( Cansino v. Bank of\nAmerica (2014) 224 Cal. App.4th 1462, 1469 [169 Cal. Rptr.3d 619], internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cansino v. Bank of America",
+          "year": 2014,
+          "volume": 224,
+          "reporter": "Cal.App.4th",
+          "page": 1462,
+          "pin": "1469",
+          "raw": "Cansino v. Bank of America (2014) 224 Cal. App.4th 1462, 1469",
+          "span": [
+            223,
+            284
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Where, as here, a negligent misrepresentation claim is brought against the\nprovider of a professional opinion based on special knowledge, information or\nexpertise regarding a company's value, the California Supreme Court requires\nFRAUD OR DECEIT CACI No. 1903\n1197\nthe following: 'The representation must have been made with the intent to\ninduce plaintiff, or a particular class of persons to which plaintiff belongs, to act\nin reliance upon the representation in a speciﬁc transaction, or a speciﬁc type of\ntransaction, that defendant intended to inﬂuence. Defendant is deemed to have\nintended to inﬂuence [its client's] transaction with plaintiff whenever defendant\nknows with substantial certainty that plaintiff, or the particular class of persons\nto which plaintiff belongs, will rely on the representation in the course of the\ntransaction. [However,] [i]f others become aware of the representation and act\nupon it, there is no liability even though defendant should reasonably have\nforeseen such a possibility.' \" ( Public Employees' Retirement System v. Moody' s\nInvestors Service, Inc. (2014) 226 Cal. App.4th 643, 667−668 [172 Cal. Rptr.3d\n238].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[P]laintiffs rely on section 311 of the Restatement Second of Torts (section\n311), which addresses negligent misrepresentation involving physical harm.\nUnder section 311(1), '[o]ne who negligently gives false information to another\nis subject to liability for physical harm caused by action taken by the other in\nreasonable reliance upon such information, where such harm results [¶] . . . [¶]\nto such third persons as the actor should expect to be put in peril by the action\ntaken.' [¶] Section 311's theory of liability is intended to be 'somewhat broader'\nthan that for mere pecuniary loss. It 'ﬁnds particular application where it is a\npart of the actor's business or profession to give information upon which the\nsafety of the recipient or a third person depends.' This court applied and\nfollowed section 311 . . .\" ( T.H. v. Novartis Pharmaceuticals Corp. (2017) 4\nCal. 5th 145, 162–163 [226 Cal. Rptr.3d 336, 407 P.3d 18], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "T.H. v. Novartis Pharmaceuticals Corp.",
+          "year": 2017,
+          "volume": 4,
+          "reporter": "Cal.5th",
+          "page": 145,
+          "pin": "162–163",
+          "raw": "T.H. v. Novartis Pharmaceuticals Corp. (2017) 4 Cal. 5th 145, 162–163",
+          "span": [
+            824,
+            893
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§940–942, 946–949\nChin et al., California Practice Guide: Employment Litigation, Ch. 5(I)-H, Negligent\nMisrepresentation, ¶ 5:781 et seq. (The Rutter Group)\nCroskey et al., California Practice Guide: Insurance Litigation, Ch. 11-D, Negligent\nMisrepresentation, ¶ 11:41 et seq. (The Rutter Group)\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.10 (Matthew Bender)\n23 California Forms of Pleading and Practice, Ch. 269, Fraud and Deceit , §269.14\n(Matthew Bender)\n10 California Points and Authorities, Ch. 105, Fraud and Deceit , §105.270 et seq.\n(Matthew Bender)\nCalifornia Civil Practice: Torts §§22:13–22:15 (Thomson Reuters)\nCACI No. 1903 FRAUD OR DECEIT\n1198",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1710",
+      "display": "Civil Code section 1710",
+      "raw": "Civil Code section 1710",
+      "span": [
+        29,
+        52
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1710"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1710",
+      "display": "Civil Code section 1710(2)",
+      "raw": "Civ. Code,\n§1710(2)",
+      "span": [
+        155,
+        174
+      ],
+      "subsection": "2",
+      "role": "directions",
+      "statute_key": "CA/CIV/1710/2"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Yellow Creek Logging Corp. v. Dare",
+      "year": 1963,
+      "volume": 216,
+      "reporter": "Cal.App.2d",
+      "page": 50,
+      "pin": "57",
+      "raw": "Yellow Creek Logging Corp. v. Dare (1963) 216 Cal. App.2d 50, 57",
+      "span": [
+        831,
+        895
+      ],
+      "role": "sources",
+      "case_key": "216 Cal.App.2d 50"
+    },
+    {
+      "name": "Bock v. Hansen",
+      "year": 2014,
+      "volume": 225,
+      "reporter": "Cal.App.4th",
+      "page": 215,
+      "pin": "227",
+      "raw": "Bock v. Hansen (2014) 225 Cal. App.4th 215, 227",
+      "span": [
+        903,
+        950
+      ],
+      "role": "sources",
+      "case_key": "225 Cal.App.4th 215"
+    },
+    {
+      "name": "Eddy v. Sharp",
+      "year": 1988,
+      "volume": 199,
+      "reporter": "Cal.App.3d",
+      "page": 858,
+      "pin": "864",
+      "raw": "Eddy v. Sharp (1988) 199 Cal. App.3d 858, 864",
+      "span": [
+        315,
+        360
+      ],
+      "role": "sources",
+      "case_key": "199 Cal.App.3d 858"
+    },
+    {
+      "name": "Tenet Healthsystem Desert, Inc. v. Blue Cross of California",
+      "year": 2016,
+      "volume": 245,
+      "reporter": "Cal.App.4th",
+      "page": 821,
+      "pin": "845",
+      "raw": "Tenet Healthsystem Desert, Inc. v. Blue Cross of California (2016) 245 Cal. App.4th 821, 845",
+      "span": [
+        328,
+        420
+      ],
+      "role": "sources",
+      "case_key": "245 Cal.App.4th 821"
+    },
+    {
+      "name": "Borman v. Brown",
+      "year": 2021,
+      "volume": 59,
+      "reporter": "Cal.App.5th",
+      "page": 1048,
+      "pin": "1061",
+      "raw": "Borman v. Brown (2021) 59 Cal. App.5th 1048, 1061",
+      "span": [
+        287,
+        336
+      ],
+      "role": "sources",
+      "case_key": "59 Cal.App.5th 1048"
+    },
+    {
+      "name": "Diediker v. Peelle Financial Corp.",
+      "year": 1997,
+      "volume": 60,
+      "reporter": "Cal.App.4th",
+      "page": 288,
+      "pin": "297",
+      "raw": "Diediker v. Peelle Financial Corp. (1997) 60 Cal. App.4th 288, 297",
+      "span": [
+        331,
+        397
+      ],
+      "role": "sources",
+      "case_key": "60 Cal.App.4th 288"
+    },
+    {
+      "name": "RSB Vineyards, LLC v. Orsi",
+      "year": 2017,
+      "volume": 15,
+      "reporter": "Cal.App.5th",
+      "page": 1089,
+      "pin": "1102",
+      "raw": "RSB Vineyards, LLC v. Orsi (2017) 15 Cal. App.5th 1089, 1102",
+      "span": [
+        107,
+        167
+      ],
+      "role": "sources",
+      "case_key": "15 Cal.App.5th 1089"
+    },
+    {
+      "name": "Ltd. v. Hallak",
+      "year": 1996,
+      "volume": 50,
+      "reporter": "Cal.App.4th",
+      "page": 1687,
+      "pin": "1696",
+      "raw": "Ltd. v. Hallak (1996) 50 Cal. App.4th 1687, 1696",
+      "span": [
+        155,
+        203
+      ],
+      "role": "sources",
+      "case_key": "50 Cal.App.4th 1687"
+    },
+    {
+      "name": "Beckwith v. Dahl",
+      "year": 2012,
+      "volume": 205,
+      "reporter": "Cal.App.4th",
+      "page": 1039,
+      "pin": "1062",
+      "raw": "Beckwith v. Dahl (2012) 205 Cal. App.4th 1039, 1062",
+      "span": [
+        309,
+        360
+      ],
+      "role": "sources",
+      "case_key": "205 Cal.App.4th 1039"
+    },
+    {
+      "name": "Cansino v. Bank of America",
+      "year": 2014,
+      "volume": 224,
+      "reporter": "Cal.App.4th",
+      "page": 1462,
+      "pin": "1469",
+      "raw": "Cansino v. Bank of America (2014) 224 Cal. App.4th 1462, 1469",
+      "span": [
+        223,
+        284
+      ],
+      "role": "sources",
+      "case_key": "224 Cal.App.4th 1462"
+    },
+    {
+      "name": "T.H. v. Novartis Pharmaceuticals Corp.",
+      "year": 2017,
+      "volume": 4,
+      "reporter": "Cal.5th",
+      "page": 145,
+      "pin": "162–163",
+      "raw": "T.H. v. Novartis Pharmaceuticals Corp. (2017) 4 Cal. 5th 145, 162–163",
+      "span": [
+        824,
+        893
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.5th 145"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:14+00:00"
+}

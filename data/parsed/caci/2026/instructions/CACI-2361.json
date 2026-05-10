@@ -1,0 +1,94 @@
+{
+  "id": "CACI-2361",
+  "edition": "2026",
+  "number": "2361",
+  "title": "Negligent Failure to Obtain Insurance Coverage—Essential Factual Elements",
+  "title_full": "Negligent Failure to Obtain Insurance Coverage—Essential Factual Elements",
+  "title_statute": null,
+  "series": "2300",
+  "series_title": "Series 2300 Insurance Litigation",
+  "page_start": 1518,
+  "page_end": 1518,
+  "instruction_text": "2361. Negligent Failure to Obtain Insurance Coverage–Essential\nFactual Elements\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun/it] was harmed\nby [ name of defendant ]'s negligent failure to obtain insurance requested\nby [him/her/ nonbinary pronoun/it]. To establish this claim, [ name of\nplaintiff] must prove all of the following:\n1. That [ name of plaintiff ] requested [ name of defendant ] to obtain\n[describe requested insurance ] and [ name of defendant ] promised to\nobtain that insurance for [him/her/ nonbinary pronoun /it];\n2. That [ name of defendant ] was negligent in failing to obtain the\npromised insurance;\n3. That [ name of plaintiff ] was harmed; and\n4. That [ name of defendant ]'s negligence was a substantial factor in\ncausing [ name of plaintiff ]'s harm.",
+  "directions_for_use": "The instructions in this series assume the plaintiff is the insured and the defendant is\nthe insurer. The party designations may be changed if appropriate to the facts of the\ncase.\nFor general tort instructions, including the deﬁnition of \"substantial factor,\" see the\nNegligence series (CACI No. 400 et seq.).",
+  "sources_and_authority": [
+    {
+      "raw": "\"California recognizes the general rule that an agent or broker who intentionally\nor negligently fails to procure insurance as requested by a client–either an\ninsured or an applicant for insurance–will be liable to the client in tort for the\nresulting damages.\" ( AMCO Ins. Co. v. All Solutions Ins. Agency, LLC (2016)\n244 Cal. App.4th 883, 890 [198 Cal. Rptr.3d 687].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "AMCO Ins. Co. v. All Solutions Ins. Agency, LLC",
+          "year": 2016,
+          "volume": 244,
+          "reporter": "Cal.App.4th",
+          "page": 883,
+          "pin": "890",
+          "raw": "AMCO Ins. Co. v. All Solutions Ins. Agency, LLC (2016) 244 Cal. App.4th 883, 890",
+          "span": [
+            264,
+            344
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A 'failure to deliver the agreed-upon coverage' case is actionable . . . . An\ninsurance agent has an 'obligation to use reasonable care, diligence, and\njudgment in procuring insurance requested by an insured.' A broker's failure to\nobtain the type of insurance requested by an insured may constitute actionable\nnegligence and the proximate cause of injury.\" ( Desai v. Farmers Insurance\nExchange (1996) 47 Cal. App.4th 1110, 1119–1120 [55 Cal. Rptr.2d 276], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Desai v. Farmers Insurance Exchange",
+          "year": 1996,
+          "volume": 47,
+          "reporter": "Cal.App.4th",
+          "page": 1110,
+          "pin": "1119–1120",
+          "raw": "Desai v. Farmers Insurance Exchange (1996) 47 Cal. App.4th 1110, 1119–1120",
+          "span": [
+            361,
+            435
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Absent some notice or warning, an insured should be able to rely on an agent's\nrepresentations of coverage without independently verifying the accuracy of\nthose representations by examining the relevant policy provisions.\" ( Clement v.\n1444",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "AMCO Ins. Co. v. All Solutions Ins. Agency, LLC",
+      "year": 2016,
+      "volume": 244,
+      "reporter": "Cal.App.4th",
+      "page": 883,
+      "pin": "890",
+      "raw": "AMCO Ins. Co. v. All Solutions Ins. Agency, LLC (2016) 244 Cal. App.4th 883, 890",
+      "span": [
+        264,
+        344
+      ],
+      "role": "sources",
+      "case_key": "244 Cal.App.4th 883"
+    },
+    {
+      "name": "Desai v. Farmers Insurance Exchange",
+      "year": 1996,
+      "volume": 47,
+      "reporter": "Cal.App.4th",
+      "page": 1110,
+      "pin": "1119–1120",
+      "raw": "Desai v. Farmers Insurance Exchange (1996) 47 Cal. App.4th 1110, 1119–1120",
+      "span": [
+        361,
+        435
+      ],
+      "role": "sources",
+      "case_key": "47 Cal.App.4th 1110"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:16+00:00"
+}

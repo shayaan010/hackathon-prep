@@ -1,0 +1,51 @@
+{
+  "id": "CACI-205",
+  "edition": "2026",
+  "number": "205",
+  "title": "Failure to Explain or Deny Evidence",
+  "title_full": "Failure to Explain or Deny Evidence",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 125,
+  "page_end": 125,
+  "instruction_text": "205. Failure to Explain or Deny Evidence\nIf a party failed to explain or deny evidence against [him/her/ nonbinary\npronoun/it] when [he/she/ nonbinary pronoun/it] could reasonably be\nexpected to have done so based on what [he/she/ nonbinary pronoun/it]\nknew, you may consider [his/her/ nonbinary pronoun/its] failure to explain\nor deny in evaluating that evidence.\nIt is up to you to decide the meaning and importance of the failure to\nexplain or deny evidence against the party.",
+  "directions_for_use": "This instruction should be given only if there is a failure to deny or explain a fact\nthat is material to the case.",
+  "sources_and_authority": [
+    {
+      "raw": "Failure to Explain or Deny. Evidence Code section 413.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "413",
+          "display": "Evidence Code section 413",
+          "raw": "Evidence Code section 413",
+          "span": [
+            28,
+            53
+          ]
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "3 Witkin, California Evidence (6th ed. 2023) Presentation at Trial, §138\n7 Witkin, California Procedure (6th ed. 2021) Trial, §317\nCotchett, California Courtroom Evidence, §11.04 (Matthew Bender)\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §551.93[3] (Matthew\nBender)\nCalifornia Judges Benchbook: Civil Proceedings–Trial §11.10 (Cal CJER 2019)\n51",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "413",
+      "display": "Evidence Code section 413",
+      "raw": "Evidence Code section 413",
+      "span": [
+        28,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/413"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

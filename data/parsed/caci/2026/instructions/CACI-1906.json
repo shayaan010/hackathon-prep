@@ -1,0 +1,124 @@
+{
+  "id": "CACI-1906",
+  "edition": "2026",
+  "number": "1906",
+  "title": "Misrepresentations Made to Persons Other Than the Plaintiff",
+  "title_full": "Misrepresentations Made to Persons Other Than the Plaintiff",
+  "title_statute": null,
+  "series": "1900",
+  "series_title": "Series 1900 Fraud Or Deceit",
+  "page_start": 1277,
+  "page_end": 1278,
+  "instruction_text": "1906. Misrepresentations Made to Persons Other Than the\nPlaintiff\n[Name of defendant ] is responsible for a representation that was not made\ndirectly to [ name of plaintiff ] if [he/she/ nonbinary pronoun/it] made the\nrepresentation [to a group of persons including [ name of plaintiff ]] [or]\n[to another person, intending or reasonably expecting that it would be\nrepeated to [ name of plaintiff ]].",
+  "directions_for_use": "An instruction on concealment made to a person other than the plaintiff is not\nnecessary; this point is covered by the third option of element 1 in CACI No. 1901,\nConcealment.",
+  "sources_and_authority": [
+    {
+      "raw": "Intent to Defraud Class. Civil Code section 1711.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1711",
+          "display": "Civil Code section 1711",
+          "raw": "Civil Code section 1711",
+          "span": [
+            25,
+            48
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"It is true that in order for a defendant to be liable for fraud, he or she must\nintend that a particular representation (or concealment) be relied upon by a\nspeciﬁc person or persons. However, it is also established that a defendant\ncannot escape liability if he or she makes a representation to one person while\nintending or having reason to expect that it will be repeated to and acted upon\nby the plaintiff (or someone in the class of persons of which plaintiff is a\nmember). This is the principle of indirect deception described in section 533 of\nthe Restatement Second of Torts (section 533): 'The maker of a fraudulent\nmisrepresentation is subject to liability for pecuniary loss to another who acts in\njustiﬁable reliance upon it if the misrepresentation, although not made directly to\nthe other, is made to a third person and the maker intends or has reason to\nexpect that its terms will be repeated or its substance communicated to the other,\nand that it will inﬂuence his conduct in the transaction or type of transaction\ninvolved.' Comment d to section 533 makes it clear the rule of section 533\napplies where the maker of the misrepresentation has information that gives him\nspecial reason to expect that the information will be communicated to others and\nwill inﬂuence their conduct. Comment g goes on to explain that it is not\nnecessary that the maker of the misrepresentation have the particular person in\nmind. It is enough that it is intended to be repeated to a particular class of\npersons.\" ( Shapiro v. Sutherland (1998) 64 Cal. App.4th 1534, 1548 [76\nCal. Rptr.2d 101], internal citations omitted; see also Geernaert v. Mitchell (1995)\n31 Cal. App.4th 601, 605–606 [37 Cal. Rptr.2d 483].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Shapiro v. Sutherland",
+          "year": 1998,
+          "volume": 64,
+          "reporter": "Cal.App.4th",
+          "page": 1534,
+          "pin": "1548",
+          "raw": "Shapiro v. Sutherland (1998) 64 Cal. App.4th 1534, 1548",
+          "span": [
+            1513,
+            1568
+          ]
+        },
+        {
+          "name": "Geernaert v. Mitchell",
+          "year": 1995,
+          "volume": 31,
+          "reporter": "Cal.App.4th",
+          "page": 601,
+          "pin": "605–606",
+          "raw": "Geernaert v. Mitchell (1995) 31 Cal. App.4th 601, 605–606",
+          "span": [
+            1629,
+            1686
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[L]iability for a fraud worked on an agent is imposed where it is the agent who\nnot only places reliance on the misrepresentations, but also makes the decision\nand takes action based upon the misrepresentations.\" ( Hasso v. Hapke (2014)\n1203\n227 Cal. App.4th 107, 129 [173 Cal. Rptr.3d 356].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The maker of a fraudulent misrepresentation is subject to liability for pecuniary\nloss to another who acts in justiﬁable reliance upon it if the misrepresentation,\nalthough not made directly to the other, is made to a third person and the maker\nintends or has reason to expect that its terms will be repeated or its substance\ncommunicated to the other, and that it will inﬂuence his conduct in the\ntransaction or type of transactions involved.\" ( Hasso, supra , 227 Cal. App.4th at\np. 130.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§922–926\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.05[3] (Matthew Bender)\n23 California Forms of Pleading and Practice, Ch. 269, Fraud and Deceit , §269.14\n(Matthew Bender)\nCalifornia Civil Practice: Torts, §22:34 (Thomson Reuters)\nCACI No. 1906 FRAUD OR DECEIT\n1204",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1711",
+      "display": "Civil Code section 1711",
+      "raw": "Civil Code section 1711",
+      "span": [
+        25,
+        48
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1711"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Shapiro v. Sutherland",
+      "year": 1998,
+      "volume": 64,
+      "reporter": "Cal.App.4th",
+      "page": 1534,
+      "pin": "1548",
+      "raw": "Shapiro v. Sutherland (1998) 64 Cal. App.4th 1534, 1548",
+      "span": [
+        1513,
+        1568
+      ],
+      "role": "sources",
+      "case_key": "64 Cal.App.4th 1534"
+    },
+    {
+      "name": "Geernaert v. Mitchell",
+      "year": 1995,
+      "volume": 31,
+      "reporter": "Cal.App.4th",
+      "page": 601,
+      "pin": "605–606",
+      "raw": "Geernaert v. Mitchell (1995) 31 Cal. App.4th 601, 605–606",
+      "span": [
+        1629,
+        1686
+      ],
+      "role": "sources",
+      "case_key": "31 Cal.App.4th 601"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:14+00:00"
+}

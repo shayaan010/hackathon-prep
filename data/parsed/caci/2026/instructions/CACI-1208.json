@@ -1,0 +1,120 @@
+{
+  "id": "CACI-1208",
+  "edition": "2026",
+  "number": "1208",
+  "title": "Component Parts Rule",
+  "title_full": "Component Parts Rule",
+  "title_statute": null,
+  "series": "1200",
+  "series_title": "Series 1200 Products Liability",
+  "page_start": 843,
+  "page_end": 844,
+  "instruction_text": "1208. Component Parts Rule\n[Name of defendant ] [manufactured/distributed/supplied] [a/an]\n[component part ], which was then integrated into [a/an] [ end product].\n[Name of defendant ] may be liable for harm caused by a defective [ end\nproduct] if [ name of plaintiff ] proves that (1) [ name of defendant ]\nsubstantially participated in the integration of its [ component part ] into\nthe design of the [ end product] and (2) as a result of the integration of\nthe [ component part ] into the [ end product], the [ end product] was\ndefective under the instruction(s) you have been given on [manufacturing\ndefect/design defect/failure to warn].",
+  "directions_for_use": "Give this instruction if the component parts rule is at issue. This rule generally\nrelieves a component parts manufacturer, distributor, or supplier of liability for\ninjuries caused by a defect in the product into which the component was integrated.\nHowever, there are two exceptions to the rule so that a component-parts defendant\nmay nevertheless be found liable. First, the component itself may have been\ndefective; or second, (a) the defendant may have substantially participated in the\nintegration of the component into the design of the end product, (b) the integration\nof the component caused the end product to be defective, and (c) the defect in the\nproduct causes the harm. ( Ramos v. Brenntag Specialties, Inc. (2016) 63 Cal. 4th\n500, 508 [203 Cal. Rptr.3d 273, 372 P.3d 200].) While the component parts rule is\nlabelled a defense (see Webb v. Special Electric Co., Inc. (2016) 63 Cal. 4th 167, 183\n[202 Cal. Rptr.3d 460, 370 P.3d 1022]; see also Romine v. Johnson Controls, Inc.\n(2014) 224 Cal. App.4th 990, 1006 fn. 6 [169 Cal. Rptr.3d 208]), the plaintiff has the\nburden of avoiding the defense by proving one of the exceptions.\nThis instruction is for use under the second exception. To prove that the end product\nwas defective or lacked a required warning, the plaintiff must prove a manufacturing\nor design defect, or a failure to warn, as with any other strict product liability claim,\nusing CACI No. 1201, Strict Liability–Manufacturing Defect–Essential Factual\nElements, CACI No. 1203, Strict Liability–Design Defect–Consumer Expectation\nTest–Essential Factual Elements, or CACI No. 1204, Strict Liability–Design\nDefect–Risk-Beneﬁt Test–Essential Factual Elements (or both) , or CACI No. 1205,\nStrict Liability–Failure to Warn–Essential Factual Elements . The plaintiff has the\nsame burden if the claim is that the component itself was defective or lacked a\nrequired warning.\nThe component parts rule does not apply if the injury is caused by the component\nwhen it is being used as intended before integration into another product. (See\nRamos, supra, 63 Cal. 4th at p. 504.)\n769",
+  "sources_and_authority": [
+    {
+      "raw": "\"Another defense protects manufacturers and sellers of component parts from\nliability to users of ﬁnished products incorporating their components. Under the\ncomponent parts doctrine, the supplier of a product component is not liable for\ninjuries caused by the ﬁnished product unless (1) the component itself was\ndefective and caused injury or (2) the supplier participated in integrating the\ncomponent into a product, the integration caused the product to be defective, and\nthat defect caused injury.\" ( Webb, supra, 63 Cal. 4th at p. 183.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In Webb [supra], we explained that the component parts doctrine . . . and as\naccurately reﬂected in section 5 of the Restatement Third of Torts, Products\nLiability–applies (1) when a supplier provides a component or raw material that\nis not itself defective (by virtue of a manufacturing, design, or warning defect),\n(2) the component or raw material is changed or transformed when incorporated\nthrough the manufacturing process into a different ﬁnished or end product, and\n(3) an end user of the ﬁnished product is allegedly injured by a defect in the\nﬁnished product.\" ( Ramos, supra, 63 Cal. 4th at pp. 507–508, internal citations\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he component parts doctrine provides protection to the supplier of the\ncomponent or raw material, subjecting that entity to liability for harm caused by\na product into which the component has been integrated only if the supplier\n\"(b)(1) . . . substantially participates in the integration of the component into the\ndesign of the product; and [¶] (2) the integration of the component causes the\nproduct to be defective . . . ; and [¶] (3) the defect in the product causes the\nharm.\" ( Ramos, supra, 63 Cal. 4th at p. 508.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'Component parts are products, whether sold or distributed separately or\nassembled with other component parts.' 'Product components include raw\nmaterials, bulk products, and other constituent products sold for integration into\nother products.' Component manufacturers and suppliers, as sellers of 'products,'\nare subject to products liability. 'Like manufacturers, suppliers, and retailers of\ncomplete products, component manufacturers and suppliers are \"an integral part\nof the overall producing and marketing enterprise,\" and may in a particular case\n\"be the only member of that enterprise reasonably available to the injured\nplaintiff,\" and may be in the best position to ensure product safety.' \" ( Johnson v.\nUnited States Steel Corp. (2015) 240 Cal. App.4th 22, 33 [192 Cal. Rptr.3d 158],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Johnson v. United States Steel Corp.",
+          "year": 2015,
+          "volume": 240,
+          "reporter": "Cal.App.4th",
+          "page": 22,
+          "pin": "33",
+          "raw": "Johnson v. United States Steel Corp. (2015) 240 Cal. App.4th 22, 33",
+          "span": [
+            705,
+            772
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he duty of a component manufacturer or supplier to warn about the hazards\nof its products is not unlimited. . . . 'Making suppliers of inherently safe raw\nmaterials and component parts pay for the mistakes of the ﬁnished product\nmanufacturer would not only be unfair, but it also would impose and [ sic]\nintolerable burden on the business world . . . . Suppliers of versatile materials\nlike chains, valves, sand gravel, etc., cannot be expected to become experts in\nthe inﬁnite number of ﬁnished products that might conceivably incorporate their\nmulti-use raw materials or components.' Thus, cases have subjected claims made\nagainst component suppliers to two related doctrines, the 'raw material supplier\nCACI No. 1208 PRODUCTS LIABILITY\n770",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Johnson v. United States Steel Corp.",
+      "year": 2015,
+      "volume": 240,
+      "reporter": "Cal.App.4th",
+      "page": 22,
+      "pin": "33",
+      "raw": "Johnson v. United States Steel Corp. (2015) 240 Cal. App.4th 22, 33",
+      "span": [
+        705,
+        772
+      ],
+      "role": "sources",
+      "case_key": "240 Cal.App.4th 22"
+    },
+    {
+      "name": "Ramos v. Brenntag Specialties, Inc.",
+      "year": 2016,
+      "volume": 63,
+      "reporter": "Cal.4th",
+      "page": 500,
+      "pin": "508",
+      "raw": "Ramos v. Brenntag Specialties, Inc. (2016) 63 Cal. 4th 500, 508",
+      "span": [
+        686,
+        749
+      ],
+      "role": "directions",
+      "case_key": "63 Cal.4th 500"
+    },
+    {
+      "name": "Webb v. Special Electric Co., Inc.",
+      "year": 2016,
+      "volume": 63,
+      "reporter": "Cal.4th",
+      "page": 167,
+      "pin": "183",
+      "raw": "Webb v. Special Electric Co., Inc. (2016) 63 Cal. 4th 167, 183",
+      "span": [
+        847,
+        909
+      ],
+      "role": "directions",
+      "case_key": "63 Cal.4th 167"
+    },
+    {
+      "name": "Romine v. Johnson Controls, Inc.",
+      "year": 2014,
+      "volume": 224,
+      "reporter": "Cal.App.4th",
+      "page": 990,
+      "pin": "1006",
+      "raw": "Romine v. Johnson Controls, Inc. (2014) 224 Cal. App.4th 990, 1006",
+      "span": [
+        958,
+        1024
+      ],
+      "role": "directions",
+      "case_key": "224 Cal.App.4th 990"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:11+00:00"
+}

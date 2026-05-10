@@ -1,0 +1,208 @@
+{
+  "id": "CACI-212",
+  "edition": "2026",
+  "number": "212",
+  "title": "Statements of a Party Opponent",
+  "title_full": "Statements of a Party Opponent",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 133,
+  "page_end": 134,
+  "instruction_text": "212. Statements of a Party Opponent\nA party may offer into evidence any oral or written statement made by\nan opposing party outside the courtroom.\nWhen you evaluate evidence of such a statement, you must consider\nthese questions:\n1. Do you believe that the party actually made the statement? If you\ndo not believe that the party made the statement, you may not\nconsider the statement at all.\n2. If you believe that the statement was made, do you believe it was\nreported accurately?\nY ou should view testimony about an oral statement made by a party\noutside the courtroom with caution.",
+  "directions_for_use": "Under Evidence Code section 403(c), the court must instruct the jury to disregard a\nstatement offered as evidence if it ﬁnds that the preliminary facts do not exist. For\nadoptive admissions, see CACI No. 213, Adoptive Admissions .",
+  "sources_and_authority": [
+    {
+      "raw": "Determination of Preliminary Facts. Evidence Code section 403.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "403",
+          "display": "Evidence Code section 403",
+          "raw": "Evidence Code section 403",
+          "span": [
+            36,
+            61
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Statements of Party. Evidence Code section 1220.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "1220",
+          "display": "Evidence Code section 1220",
+          "raw": "Evidence Code section 1220",
+          "span": [
+            21,
+            47
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "The Law Revision Commission comment to this section observes that \"[t]he\nrational underlying this exception is that the party cannot object to the lack of\nthe right to cross-examine the declarant since the party himself made the\nstatement.\"",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "There is no requirement that the prior statement of a party must have been\nagainst his or her interests when made in order to be admissible. Any prior\nstatement of a party may be offered against him or her in trial. (1 Witkin,\nCalifornia Evidence (4th ed. 2000) Hearsay §93.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "The cautionary instruction regarding admissions is derived from common law,\nformerly codiﬁed at Code of Civil Procedure section 2061. The repeal of this\nsection did not affect decisional law concerning the giving of the cautionary\ninstruction. ( People v. Beagle (1972) 6 Cal. 3d 441, 455, fn. 4 [99 Cal. Rptr. 313,\n492 P.2d 1].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Beagle",
+          "year": 1972,
+          "volume": 6,
+          "reporter": "Cal.3d",
+          "page": 441,
+          "pin": "455",
+          "raw": "People v. Beagle (1972) 6 Cal. 3d 441, 455",
+          "span": [
+            246,
+            288
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "The purpose of the cautionary instruction has been stated as follows: \"Ordinarily\nthere is strong reasoning behind the principle that a party's extrajudicial\nadmissions or declarations against interest should be viewed with caution. . . .\n59\nNo class of evidence is more subject to error or abuse inasmuch as witnesses\nhaving the best of motives are generally unable to state the exact language of an\nadmission and are liable, by the omission or the changing of words, to convey a\nfalse impression of the language used.\" ( Pittman v. Boiven (1967) 249\nCal. App.2d 207, 214 [57 Cal. Rptr. 319].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Pittman v. Boiven",
+          "year": 1967,
+          "volume": 249,
+          "reporter": "Cal.App.2d",
+          "page": 207,
+          "pin": "214",
+          "raw": "Pittman v. Boiven (1967) 249 Cal. App.2d 207, 214",
+          "span": [
+            523,
+            572
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "The need to give the cautionary instruction appears to apply to both civil and\ncriminal cases. (See People v. Livaditis (1992) 2 Cal. 4th 759, 789 [9 Cal. Rptr.2d\n72, 831 P.2d 297] (conc. opn. of Mosk, J.).)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "See People v. Livaditis",
+          "year": 1992,
+          "volume": 2,
+          "reporter": "Cal.4th",
+          "page": 759,
+          "pin": "789",
+          "raw": "See People v. Livaditis (1992) 2 Cal. 4th 759, 789",
+          "span": [
+            96,
+            146
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, California Evidence (5th ed. 2012) Hearsay, §§91–94, 126\n3 Witkin, California Evidence (5th ed. 2012) Presentation at Trial, §127\nJefferson, California Evidence Benchbook (3d ed. 1997) §§3.7–3.22\n2 California Trial Guide, Unit 40, Hearsay, §40.30 (Matthew Bender)\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §551.76 (Matthew\nBender)\nCACI No. 212 EVIDENCE\n60",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "403",
+      "display": "Evidence Code section 403",
+      "raw": "Evidence Code section 403",
+      "span": [
+        36,
+        61
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/403"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1220",
+      "display": "Evidence Code section 1220",
+      "raw": "Evidence Code section 1220",
+      "span": [
+        21,
+        47
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/1220"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "403",
+      "display": "Evidence Code section 403(c)",
+      "raw": "Evidence Code section 403(c)",
+      "span": [
+        6,
+        34
+      ],
+      "subsection": "c",
+      "role": "directions",
+      "statute_key": "CA/EVID/403/c"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "People v. Beagle",
+      "year": 1972,
+      "volume": 6,
+      "reporter": "Cal.3d",
+      "page": 441,
+      "pin": "455",
+      "raw": "People v. Beagle (1972) 6 Cal. 3d 441, 455",
+      "span": [
+        246,
+        288
+      ],
+      "role": "sources",
+      "case_key": "6 Cal.3d 441"
+    },
+    {
+      "name": "Pittman v. Boiven",
+      "year": 1967,
+      "volume": 249,
+      "reporter": "Cal.App.2d",
+      "page": 207,
+      "pin": "214",
+      "raw": "Pittman v. Boiven (1967) 249 Cal. App.2d 207, 214",
+      "span": [
+        523,
+        572
+      ],
+      "role": "sources",
+      "case_key": "249 Cal.App.2d 207"
+    },
+    {
+      "name": "See People v. Livaditis",
+      "year": 1992,
+      "volume": 2,
+      "reporter": "Cal.4th",
+      "page": 759,
+      "pin": "789",
+      "raw": "See People v. Livaditis (1992) 2 Cal. 4th 759, 789",
+      "span": [
+        96,
+        146
+      ],
+      "role": "sources",
+      "case_key": "2 Cal.4th 759"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

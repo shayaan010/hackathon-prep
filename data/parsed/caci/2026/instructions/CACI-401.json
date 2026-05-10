@@ -1,0 +1,108 @@
+{
+  "id": "CACI-401",
+  "edition": "2026",
+  "number": "401",
+  "title": "Basic Standard of Care",
+  "title_full": "Basic Standard of Care",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 311,
+  "page_end": 312,
+  "instruction_text": "401. Basic Standard of Care\nNegligence is the failure to use reasonable care to prevent harm to\noneself or to others.\nA person can be negligent by acting or by failing to act. A person is\nnegligent if that person does something that a reasonably careful person\nwould not do in the same situation or fails to do something that a\nreasonably careful person would do in the same situation.\nY ou must decide how a reasonably careful person would have acted in\n[name of plaintiff/defendant ]'s situation.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"The formulation of the standard of care is a question of law for the court. Once\nthe court has formulated the standard, its application to the facts of the case is a\ntask for the trier of fact if reasonable minds might differ as to whether a party's\nconduct has conformed to the standard.\" ( Ramirez v. Plough, Inc (1993) 6\nCal. 4th 539, 546 [25 Cal. Rptr.2d 97, 863 P.2d 167], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Restatement Second of Torts, section 282, deﬁnes negligence as \"conduct which\nfalls below the standard established by law for the protection of others against\nunreasonable risk of harm.\"",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Restatement Second of Torts, section 283, provides: \"Unless the actor is a child,\nthe standard of conduct to which he must conform to avoid being negligent is\nthat of a reasonable man under like circumstances.\"",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "The California Supreme Court has stated: \"Because application of [due care] is\ninherently situational, the amount of care deemed reasonable in any particular\ncase will vary, while at the same time the standard of conduct itself remains\nconstant, i.e., due care commensurate with the risk posed by the conduct taking\ninto consideration all relevant circumstances. [Citations].\" ( Flowers v. Torrance\nMemorial Hospital Medical Center (1994) 8 Cal. 4th 992, 997 [35 Cal. Rptr.2d\n685, 884 P.2d 142]; see also Tucker v. Lombardo (1956) 47 Cal. 2d 457, 464 [303\nP.2d 1041].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Flowers v. Torrance Memorial Hospital Medical Center",
+          "year": 1994,
+          "volume": 8,
+          "reporter": "Cal.4th",
+          "page": 992,
+          "pin": "997",
+          "raw": "Flowers v. Torrance Memorial Hospital Medical Center (1994) 8 Cal. 4th 992, 997",
+          "span": [
+            379,
+            458
+          ]
+        },
+        {
+          "name": "Tucker v. Lombardo",
+          "year": 1956,
+          "volume": 47,
+          "reporter": "Cal.2d",
+          "page": 457,
+          "pin": "464",
+          "raw": "Tucker v. Lombardo (1956) 47 Cal. 2d 457, 464",
+          "span": [
+            505,
+            550
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "The proper conduct of a reasonable person in a particular situation may become\nsettled by judicial decision or may be established by statute or administrative\nregulation. ( Ramirez, supra, 6 Cal. 4th at p. 547.) (See CACI Nos. 418 to 421 on\nnegligence per se.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Negligence can be found in the doing of an act, as well as in the failure to do an\nact. (Rest.2d Torts, §284.)\n237",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§998, 999\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §1.3\n1 Levy et al., California Torts, Ch. 1, Negligence: Duty and Breach , §§1.01, 1.02,\n1.30 (Matthew Bender)\n33 California Forms of Pleading and Practice, Ch. 380, Negligence (Matthew\nBender)\n16 California Points and Authorities, Ch. 165, Negligence, §165.31 (Matthew\nBender)\nCACI No. 401 NEGLIGENCE\n238",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Flowers v. Torrance Memorial Hospital Medical Center",
+      "year": 1994,
+      "volume": 8,
+      "reporter": "Cal.4th",
+      "page": 992,
+      "pin": "997",
+      "raw": "Flowers v. Torrance Memorial Hospital Medical Center (1994) 8 Cal. 4th 992, 997",
+      "span": [
+        379,
+        458
+      ],
+      "role": "sources",
+      "case_key": "8 Cal.4th 992"
+    },
+    {
+      "name": "Tucker v. Lombardo",
+      "year": 1956,
+      "volume": 47,
+      "reporter": "Cal.2d",
+      "page": 457,
+      "pin": "464",
+      "raw": "Tucker v. Lombardo (1956) 47 Cal. 2d 457, 464",
+      "span": [
+        505,
+        550
+      ],
+      "role": "sources",
+      "case_key": "47 Cal.2d 457"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

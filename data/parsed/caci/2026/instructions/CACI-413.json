@@ -1,0 +1,120 @@
+{
+  "id": "CACI-413",
+  "edition": "2026",
+  "number": "413",
+  "title": "Custom or Practice",
+  "title_full": "Custom or Practice",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 327,
+  "page_end": 328,
+  "instruction_text": "413. Custom or Practice\nY ou may consider customs or practices in the community in deciding\nwhether [ name of plaintiff/defendant ] acted reasonably. Customs and\npractices do not necessarily determine what a reasonable person would\nhave done in [ name of plaintiff/defendant ]'s situation. They are only\nfactors for you to consider.\nFollowing a custom or practice does not excuse conduct that is\nunreasonable. Y ou should consider whether the custom or practice itself\nis reasonable.",
+  "directions_for_use": "An instruction stating that evidence of custom is not controlling on the issue of\nstandard of care should not be given in professional malpractice cases in which\nexpert testimony is used to set the standard of care. (See Osborn v. Irwin Memorial\nBlood Bank (1992) 5 Cal. App.4th 234, 277 [7 Cal. Rptr.2d 101].) The instruction\nmay be used if the standard of care is within common knowledge. (See Leonard v.\nWatsonville Community Hospital (1956) 47 Cal. 2d 509, 519 [305 P.2d 36].)\nThis instruction is also inappropriate in cases involving strict liability ( Titus v.\nBethlehem Steel Corp. (1979) 91 Cal. App.3d 372, 378 [154 Cal. Rptr. 122]) or cases\ninvolving negligence in the use of public roads ( Shuff v. Irwindale Trucking Co.\n(1976) 62 Cal. App.3d 180, 187 [132 Cal. Rptr. 897]).",
+  "sources_and_authority": [
+    {
+      "raw": "Evidence of custom and practice is relevant, but not conclusive, on the issue of\nthe standard of care in cases of ordinary negligence. ( Holt v. Department of\nFood and Agriculture (1985) 171 Cal. App.3d 427, 435 [218 Cal. Rptr. 1].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Holt v. Department of Food and Agriculture",
+          "year": 1985,
+          "volume": 171,
+          "reporter": "Cal.App.3d",
+          "page": 427,
+          "pin": "435",
+          "raw": "Holt v. Department of Food and Agriculture (1985) 171 Cal. App.3d 427, 435",
+          "span": [
+            137,
+            211
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Restatement Second of Torts, section 295A, provides: \"In determining whether\nconduct is negligent, the customs of the community, or of others under like\ncircumstances, are factors to be taken into account, but are not controlling where\na reasonable man would not follow them.\"",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1029, 1030\n1 Levy et al., California Torts, Ch. 1, Negligence, §1.30, Ch. 3, Proof of\nNegligence, §3.33 (Matthew Bender)\nCalifornia Products Liability Actions, Ch. 2, Liability for Defective Products ,\n§§2.11, 2.21 (Matthew Bender)\n33 California Forms of Pleading and Practice, Ch. 380, Negligence (Matthew\nBender)\n253\n16 California Points and Authorities, Ch. 165, Negligence, §165.31 (Matthew\nBender)\nCACI No. 413 NEGLIGENCE\n254",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Holt v. Department of Food and Agriculture",
+      "year": 1985,
+      "volume": 171,
+      "reporter": "Cal.App.3d",
+      "page": 427,
+      "pin": "435",
+      "raw": "Holt v. Department of Food and Agriculture (1985) 171 Cal. App.3d 427, 435",
+      "span": [
+        137,
+        211
+      ],
+      "role": "sources",
+      "case_key": "171 Cal.App.3d 427"
+    },
+    {
+      "name": "See Osborn v. Irwin Memorial Blood Bank",
+      "year": 1992,
+      "volume": 5,
+      "reporter": "Cal.App.4th",
+      "page": 234,
+      "pin": "277",
+      "raw": "See Osborn v. Irwin Memorial Blood Bank (1992) 5 Cal. App.4th 234, 277",
+      "span": [
+        217,
+        287
+      ],
+      "role": "directions",
+      "case_key": "5 Cal.App.4th 234"
+    },
+    {
+      "name": "See Leonard v. Watsonville Community Hospital",
+      "year": 1956,
+      "volume": 47,
+      "reporter": "Cal.2d",
+      "page": 509,
+      "pin": "519",
+      "raw": "See Leonard v. Watsonville Community Hospital (1956) 47 Cal. 2d 509, 519",
+      "span": [
+        392,
+        464
+      ],
+      "role": "directions",
+      "case_key": "47 Cal.2d 509"
+    },
+    {
+      "name": "Titus v. Bethlehem Steel Corp.",
+      "year": 1979,
+      "volume": 91,
+      "reporter": "Cal.App.3d",
+      "page": 372,
+      "pin": "378",
+      "raw": "Titus v. Bethlehem Steel Corp. (1979) 91 Cal. App.3d 372, 378",
+      "span": [
+        558,
+        619
+      ],
+      "role": "directions",
+      "case_key": "91 Cal.App.3d 372"
+    },
+    {
+      "name": "Shuff v. Irwindale Trucking Co.",
+      "year": 1976,
+      "volume": 62,
+      "reporter": "Cal.App.3d",
+      "page": 180,
+      "pin": "187",
+      "raw": "Shuff v. Irwindale Trucking Co. (1976) 62 Cal. App.3d 180, 187",
+      "span": [
+        701,
+        763
+      ],
+      "role": "directions",
+      "case_key": "62 Cal.App.3d 180"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

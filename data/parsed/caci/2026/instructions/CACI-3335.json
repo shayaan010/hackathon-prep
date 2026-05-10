@@ -1,0 +1,112 @@
+{
+  "id": "CACI-3335",
+  "edition": "2026",
+  "number": "3335",
+  "title": "Affirmative Defense—“Good Faith” Explained",
+  "title_full": "Affirmative Defense—“Good Faith” Explained",
+  "title_statute": null,
+  "series": "3300",
+  "series_title": "Series 3300 Unfair Practices Act",
+  "page_start": 2456,
+  "page_end": 2456,
+  "instruction_text": "3335. Affirmative Defense–\"Good Faith\" Explained\nIn deciding whether [ name of defendant ] acted in good faith in attempting\nto meet competition, you must decide whether [his/her/ nonbinary\npronoun/its] belief was based on facts that would lead a reasonable\nperson to believe that the price [ name of defendant ] was offering would\nmeet the legal price of [ name of defendant ]'s competitor. Y ou must\nconsider all of the facts and circumstances present, including, but not\nlimited to:\n1. The nature and source of the information on which [ name of\ndefendant] relied;\n2. [ Name of defendant ]'s prior experience, if any, with similar\ninformation or with persons who provided the information;\n3. [ Name of defendant ]'s prior pricing practices; and\n4. [ Name of defendant ]'s general business practices.\n[Name of defendant ] does not have to prove that [his/her/ nonbinary\npronoun/its] price did actually meet the legal price of its competitor; only\nthat [he/she/ nonbinary pronoun/it] reasonably believed that\n[he/she/nonbinary pronoun/it] was offering a price that would meet the\ncompetitor's price.",
+  "directions_for_use": "This instruction provides the jury with a general listing of circumstances against\nwhich it might consider evidence in the record to decide whether a defendant's\nattempts to meet competition were in good faith. The ﬁnal paragraph eases the\ndefendant's burden of proof with respect to the \"meet but don't beat\" element\nbecause a defendant is required only to prove its reasonable belief that its prices\nwould meet, but not beat, a competitor's prices.",
+  "sources_and_authority": [
+    {
+      "raw": "Good-Faith Price to Meet Competition Permitted. Business and Professions Code\nsection 17050(d), (e).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "17050",
+          "display": "Business and Professions Code section 17050",
+          "raw": "Business and Professions Code\nsection 17050(d)",
+          "span": [
+            48,
+            94
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "17050",
+          "display": "Business and Professions Code section 17050(d)",
+          "raw": "Business and Professions Code\nsection 17050(d)",
+          "span": [
+            48,
+            94
+          ],
+          "subsection": "d"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The requirement [to ascertain the 'legal prices' of competitors] is not absolute.\nIt is merely that the defendants shall have endeavored 'in good faith' to meet the\nlegal prices of a competitor.\" ( People v. Pay Less Drug Store (1944) 25 Cal. 2d\n108, 117 [153 P.2d 9].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Pay Less Drug Store",
+          "year": 1944,
+          "volume": 25,
+          "reporter": "Cal.2d",
+          "page": 108,
+          "pin": "117",
+          "raw": "People v. Pay Less Drug Store (1944) 25 Cal. 2d 108, 117",
+          "span": [
+            199,
+            255
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§623–629\n570",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "17050",
+      "display": "Business and Professions Code section 17050",
+      "raw": "Business and Professions Code\nsection 17050(d)",
+      "span": [
+        48,
+        94
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/17050"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "17050",
+      "display": "Business and Professions Code section 17050(d)",
+      "raw": "Business and Professions Code\nsection 17050(d)",
+      "span": [
+        48,
+        94
+      ],
+      "subsection": "d",
+      "role": "sources",
+      "statute_key": "CA/BPC/17050/d"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "People v. Pay Less Drug Store",
+      "year": 1944,
+      "volume": 25,
+      "reporter": "Cal.2d",
+      "page": 108,
+      "pin": "117",
+      "raw": "People v. Pay Less Drug Store (1944) 25 Cal. 2d 108, 117",
+      "span": [
+        199,
+        255
+      ],
+      "role": "sources",
+      "case_key": "25 Cal.2d 108"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

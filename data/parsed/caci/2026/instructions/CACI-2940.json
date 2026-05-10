@@ -1,0 +1,55 @@
+{
+  "id": "CACI-2940",
+  "edition": "2026",
+  "number": "2940",
+  "title": "Income Tax Effects of Award",
+  "title_full": "Income Tax Effects of Award",
+  "title_statute": null,
+  "series": "2900",
+  "series_title": "Series 2900 Federal Employers’ Liability Act",
+  "page_start": 2090,
+  "page_end": 2090,
+  "instruction_text": "2940. Income Tax Effects of Award\n[Name of plaintiff ] will not be required to pay any federal or state income\ntaxes on any amount that you award.\n[When calculating lost earnings, if any, you should use after-tax\nearnings.]",
+  "directions_for_use": "The Eighth Circuit Model Jury Instructions state that the bracketed sentence should\nbe given if there is evidence of both gross and net earnings and there is any danger\nthat the jury may be confused as to the proper measure of damages.",
+  "sources_and_authority": [
+    {
+      "raw": "If requested, the jury must be instructed that the verdict will not be subject to\nincome taxes. ( Norfolk & W. Ry. Co. v. Liepelt (1980) 444 U.S. 490, 498 [100\nS.Ct. 755, 62 L.Ed.2d 689].) Further, the Supreme Court in the Liepelt case\nstated that the jury should base its award on the \"after-tax\" value of lost earnings\nin determining lost earnings. ( Id. at p. 493.)\n204",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "W. Ry. Co. v. Liepelt",
+          "year": 1980,
+          "volume": 444,
+          "reporter": "U.S.",
+          "page": 490,
+          "pin": "498",
+          "raw": "W. Ry. Co. v. Liepelt (1980) 444 U.S. 490, 498",
+          "span": [
+            108,
+            154
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "W. Ry. Co. v. Liepelt",
+      "year": 1980,
+      "volume": 444,
+      "reporter": "U.S.",
+      "page": 490,
+      "pin": "498",
+      "raw": "W. Ry. Co. v. Liepelt (1980) 444 U.S. 490, 498",
+      "span": [
+        108,
+        154
+      ],
+      "role": "sources",
+      "case_key": "444 U.S. 490"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:19+00:00"
+}

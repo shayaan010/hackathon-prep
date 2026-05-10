@@ -1,0 +1,81 @@
+{
+  "id": "CACI-1706",
+  "edition": "2026",
+  "number": "1706",
+  "title": "Definition of Statement",
+  "title_full": "Definition of Statement",
+  "title_statute": null,
+  "series": "1700",
+  "series_title": "Series 1700 Defamation",
+  "page_start": 1133,
+  "page_end": 1133,
+  "instruction_text": "1706. Deﬁnition of Statement\nThe word \"statement\" in these instructions refers to any form of\ncommunication or representation, including spoken or written words [or]\npictures [or] [ insert audible or visual representations ].",
+  "directions_for_use": "This instruction may be necessary in every case, but could be useful in cases where\ndefamatory material is not written or verbal.",
+  "sources_and_authority": [
+    {
+      "raw": "Libel. Civil Code section 45.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "45",
+          "display": "Civil Code section 45",
+          "raw": "Civil Code section 45",
+          "span": [
+            7,
+            28
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Slander. Civil Code section 46.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "46",
+          "display": "Civil Code section 46",
+          "raw": "Civil Code section 46",
+          "span": [
+            9,
+            30
+          ]
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§623–654\n4 Levy et al., California Torts, Ch. 45, Defamation, §45.02 (Matthew Bender)\n30 California Forms of Pleading and Practice, Ch. 340, Libel and Slander , §340.18\n(Matthew Bender)\n14 California Points and Authorities, Ch. 142, Libel and Slander (Defamation) ,\n§142.21 (Matthew Bender)\nCalifornia Civil Practice: Torts §21:2 (Thomson Reuters)\n1059",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "45",
+      "display": "Civil Code section 45",
+      "raw": "Civil Code section 45",
+      "span": [
+        7,
+        28
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/45"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "46",
+      "display": "Civil Code section 46",
+      "raw": "Civil Code section 46",
+      "span": [
+        9,
+        30
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/46"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:13+00:00"
+}

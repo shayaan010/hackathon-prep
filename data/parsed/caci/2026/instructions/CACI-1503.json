@@ -1,0 +1,112 @@
+{
+  "id": "CACI-1503",
+  "edition": "2026",
+  "number": "1503",
+  "title": "Affirmative Defense—Proceeding Initiated by Public Employee Within Scope of Employment",
+  "title_full": "Affirmative Defense—Proceeding Initiated by Public Employee Within Scope of Employment (Gov. Code, § 821.6)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "GOV",
+    "section": "821.6",
+    "display": "Government Code section 821.6",
+    "raw": "Gov. Code, § 821.6",
+    "span": [
+      0,
+      18
+    ]
+  },
+  "series": "1500",
+  "series_title": "Series 1500 Malicious Prosecution",
+  "page_start": 1027,
+  "page_end": 1028,
+  "instruction_text": "1503. Affirmative Defense–Proceeding Initiated by Public\nEmployee Within Scope of Employment (Gov. Code, §821.6)\n[Name of public entity defendant ] claims that it cannot be held responsible\nfor [ name of plaintiff ]'s harm, if any, because the [ specify proceeding, e.g.,\ncivil action ] was initiated by its employee who was acting within the\nscope of [his/her/ nonbinary pronoun] employment. To establish this\ndefense, [ name of defendant ] must prove that [ name of employee ] was\nacting within the scope of [his/her/ nonbinary pronoun] employment.\n\n2018",
+  "directions_for_use": "Give this instruction if there is an issue of fact as to whether the proceeding giving\nrise to the alleged malicious prosecution claim was initiated as a governmental\naction. Government Code section 821.6 provides immunity from liability for\nmalicious prosecution for a public employee who is acting within the scope of\nemployment, even if the employee acts maliciously and without probable cause. If\nthe employee is immune, then there can be no vicarious liability on the entity. (Gov.\nCode, §815.2.) This immunity is not unqualiﬁed, however; it applies only if the\nemployee was acting within the scope of employment. ( Tur v. City of Los Angeles\n(1996) 51 Cal. App.4th 897, 904 [59 Cal. Rptr.2d 470].)\nFor an instruction on scope of employment, see CACI No. 3720, Scope of\nEmployment, in the Vicarious Responsibility series.",
+  "sources_and_authority": [
+    {
+      "raw": "Public Entity Vicarious Liability for Acts of Employee. Government Code\nsection 815.2.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "815.2",
+          "display": "Government Code section 815.2",
+          "raw": "Government Code\nsection 815.2",
+          "span": [
+            56,
+            85
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Public Employee Immunity. Government Code section 821.6.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "821.6",
+          "display": "Government Code section 821.6",
+          "raw": "Government Code section 821.6",
+          "span": [
+            26,
+            55
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The defendants did not enjoy an unqualiﬁed immunity from suit. Their\nimmunity would have depended on their proving by a preponderance of the\nevidence [that] they were acting within the scope of their employment in doing\nthe acts alleged to constitute malicious prosecution.\" ( Tur, supra, 51 Cal. App.4th\nat p. 904 [failure to instruct jury under section 821.6 was prejudicial error].)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §434 et seq.\n4 Levy et al., California Torts, Ch. 43, Malicious Prosecution and Abuse of Process,\n§43.06 (Matthew Bender)\n31 California Forms of Pleading and Practice, Ch. 357, Malicious Prosecution and\nAbuse of Process , §357.23 (Matthew Bender)\n953\n14 California Points and Authorities, Ch. 147, Malicious Prosecution and Abuse of\nProcess, §147.31 (Matthew Bender)\nCACI No. 1503 MALICIOUS PROSECUTION\n954",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "821.6",
+      "display": "Government Code section 821.6",
+      "raw": "Gov. Code, § 821.6",
+      "span": [
+        0,
+        18
+      ],
+      "role": "title",
+      "statute_key": "CA/GOV/821.6"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "815.2",
+      "display": "Government Code section 815.2",
+      "raw": "Government Code\nsection 815.2",
+      "span": [
+        56,
+        85
+      ],
+      "role": "sources",
+      "statute_key": "CA/GOV/815.2"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Tur v. City of Los Angeles",
+      "year": 1996,
+      "volume": 51,
+      "reporter": "Cal.App.4th",
+      "page": 897,
+      "pin": "904",
+      "raw": "Tur v. City of Los Angeles (1996) 51 Cal. App.4th 897, 904",
+      "span": [
+        621,
+        679
+      ],
+      "role": "directions",
+      "case_key": "51 Cal.App.4th 897"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

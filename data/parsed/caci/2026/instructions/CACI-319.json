@@ -1,0 +1,154 @@
+{
+  "id": "CACI-319",
+  "edition": "2026",
+  "number": "319",
+  "title": "Interpretation—Reasonable Time",
+  "title_full": "Interpretation—Reasonable Time",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 198,
+  "page_end": 198,
+  "instruction_text": "319. Interpretation–Reasonable Time\nIf a contract does not state a speciﬁc time in which the parties are to\nmeet the requirements of the contract, then the parties must meet them\nwithin a reasonable time. What is a reasonable time depends on the facts\nof each case, including the subject matter of the contract, the reasons\neach party entered into the contract, and the intentions of the parties at\nthe time they entered the contract.",
+  "directions_for_use": "This instruction may be given with CACI No. 314, Interpretation–Disputed Words.\nSee the Directions for Use and Sources and Authority to that instruction for\ndiscussion of when contract interpretation may be a proper jury role.",
+  "sources_and_authority": [
+    {
+      "raw": "Time of Performance of Contract. Civil Code section 1657.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1657",
+          "display": "Civil Code section 1657",
+          "raw": "Civil Code section 1657",
+          "span": [
+            33,
+            56
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[A]s the contract was silent as to the time of delivery a reasonable time for\nperformance must be implied.\" ( Palmquist v. Palmquist (1963) 212 Cal. App.2d\n322, 331 [27 Cal. Rptr. 744].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Palmquist v. Palmquist",
+          "year": 1963,
+          "volume": 212,
+          "reporter": "Cal.App.2d",
+          "page": 322,
+          "pin": "331",
+          "raw": "Palmquist v. Palmquist (1963) 212 Cal. App.2d 322, 331",
+          "span": [
+            111,
+            165
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The question of what constituted a reasonable time was of course one of fact.\"\n(Lyon v. Goss (1942) 19 Cal. 2d 659, 673 [123 P.2d 11].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lyon v. Goss",
+          "year": 1942,
+          "volume": 19,
+          "reporter": "Cal.2d",
+          "page": 659,
+          "pin": "673",
+          "raw": "Lyon v. Goss (1942) 19 Cal. 2d 659, 673",
+          "span": [
+            81,
+            120
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[W]hat constitutes a reasonable time is a question of fact, depending upon the\nsituation of the parties, the nature of the transaction, and the facts of the\nparticular case.\" ( Sawday v. Vista Irrigation Dist. (1966) 64 Cal. 2d 833, 836 [52\nCal. Rptr. 1, 415 P.2d 816].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Sawday v. Vista Irrigation Dist.",
+          "year": 1966,
+          "volume": 64,
+          "reporter": "Cal.2d",
+          "page": 833,
+          "pin": "836",
+          "raw": "Sawday v. Vista Irrigation Dist. (1966) 64 Cal. 2d 833, 836",
+          "span": [
+            178,
+            237
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§785–787\n13 California Forms of Pleading and Practice, Ch. 140, Contracts, §140.41\n(Matthew Bender)\n27 California Legal Forms, Ch. 75, Formation of Contracts and Standard\nContractual Provisions, §75.15 (Matthew Bender)\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 13, Attacking\nor Defending Existence of Contract–Absence of Essential Element , 13.49\n2 Matthew Bender Practice Guide: California Contract Litigation, Ch. 21, Asserting\na Particular Construction of Contract , 21.30\n2 Matthew Bender Practice Guide: California Contract Litigation, Ch. 22, Suing or\nDefending Action for Breach of Contract , 22.46\n124",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1657",
+      "display": "Civil Code section 1657",
+      "raw": "Civil Code section 1657",
+      "span": [
+        33,
+        56
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1657"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Palmquist v. Palmquist",
+      "year": 1963,
+      "volume": 212,
+      "reporter": "Cal.App.2d",
+      "page": 322,
+      "pin": "331",
+      "raw": "Palmquist v. Palmquist (1963) 212 Cal. App.2d 322, 331",
+      "span": [
+        111,
+        165
+      ],
+      "role": "sources",
+      "case_key": "212 Cal.App.2d 322"
+    },
+    {
+      "name": "Lyon v. Goss",
+      "year": 1942,
+      "volume": 19,
+      "reporter": "Cal.2d",
+      "page": 659,
+      "pin": "673",
+      "raw": "Lyon v. Goss (1942) 19 Cal. 2d 659, 673",
+      "span": [
+        81,
+        120
+      ],
+      "role": "sources",
+      "case_key": "19 Cal.2d 659"
+    },
+    {
+      "name": "Sawday v. Vista Irrigation Dist.",
+      "year": 1966,
+      "volume": 64,
+      "reporter": "Cal.2d",
+      "page": 833,
+      "pin": "836",
+      "raw": "Sawday v. Vista Irrigation Dist. (1966) 64 Cal. 2d 833, 836",
+      "span": [
+        178,
+        237
+      ],
+      "role": "sources",
+      "case_key": "64 Cal.2d 833"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "CACI-VF-1720",
+  "edition": "2026",
+  "number": "VF-1720",
+  "title": "Slander of Title",
+  "title_full": "Slander of Title",
+  "title_statute": null,
+  "series": "VF-1700",
+  "series_title": "Series 1700 Defamation",
+  "page_start": 1185,
+  "page_end": 1187,
+  "instruction_text": "VF-1720. Slander of Title\nWe answer the questions submitted to us as follows:\n1. Did [ name of defendant ] [make a statement/[ specify other act, e.g.,\nrecord a deed ] that cast doubts about [ name of plaintiff ]'s\nownership of the property?\n1. Yes No\n1. If your answer to question 1 is yes, then answer question 2. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n2. [Was the statement made to a person other than [ name of\nplaintiff]/[Specify other publication, e.g., Did the deed become a\npublic record ]]?\n2. Yes No\n2. If your answer to question 2 is yes, then answer question 3. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n3. Did [ name of plaintiff ] in fact own the property?\n3. Yes No\n3. If your answer to question 3 is yes, then answer question 4. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n4. Did [ name of defendant ] [know that/act with reckless disregard of\nthe truth or falsity as to whether] [ name of plaintiff ] owned the\nproperty?\n4. Yes No\n4. If your answer to question 4 is yes, then answer question 5. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n5. Did [ name of defendant ] know or should [he/she/ nonbinary\npronoun] have recognized that someone else might act in reliance\non the [statement/ e.g., deed ], causing [ name of plaintiff ] ﬁnancial\nloss?\n5. Yes No\n5. If your answer to question 5 is yes, then answer question 6. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n1111\n6. Did [ name of plaintiff ] in fact suffer immediate and direct ﬁnancial\nharm because someone else acted in reliance on the [statement/\ne.g., deed ]?\n6. Yes No\n6. If your answer to question 6 is yes, then answer question 7. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n7. Was [ name of defendant ]'s conduct a substantial factor in causing\n[name of plaintiff ]'s harm?\n7. Yes No\n7. If your answer to question 7 is yes, then answer question 8. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n8. What are [ name of plaintiff ]'s damages?\n[a. Past economic loss: $ ]\n[b. Future economic loss: $ ]\n[b. TOTAL $\nSigned:\nPresiding Juror\nDated:\nAfter [this verdict form has/all verdict forms have] been signed, notify\nthe [clerk/bailiff/court attendant].",
+  "directions_for_use": "This verdict form is based on CACI No. 1730, Slander of Title–Essential Factual\nElements.\nThe special verdict forms in this section are intended only as models. They may\nneed to be modiﬁed depending on the facts of the case.\nSlander of title may be either by words or an act that clouds title to the property.\n(See, e.g., Alpha & Omega Development, LP v. Whillock Contracting, Inc. (2011)\n200 Cal. App.4th 656, 661 [132 Cal. Rptr.3d 781] [ﬁling of lis pendens].) If the\nslander is by words, select the ﬁrst option in question 2. If the slander is by means\nother than words, specify the means in question 1 and how it became known to\nothers in question 2.\nIf speciﬁcity is not required, users do not have to itemize all the damages listed in\nVF-1720 DEFAMA TION\n1112\nquestion 8 and do not have to categorize \"economic\" and \"noneconomic\" damages,\nespecially if it is not a Proposition 51 case. The breakdown of damages is optional;\ndepending on the circumstances.\nIf there are multiple causes of action, users may wish to combine the individual\nforms into one form. If different damages are recoverable on different causes of\naction, replace the damages tables in all of the verdict forms with CACI No. VF-\n3920, Damages on Multiple Legal Theories .\nIf the jury is given the discretion under Civil Code section 3288 to award\nprejudgment interest (see Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801,\n814 [148 Cal. Rptr. 22, 582 P.2d 109]), give CACI No. 3935, Prejudgment Interest.\nThis verdict form may need to be augmented for the jury to make any factual\nﬁndings that are required in order to calculate the amount of prejudgment interest.\nDEFAMA TION VF-1720\n1113",
+  "sources_and_authority": [],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3288",
+      "display": "Civil Code section 3288",
+      "raw": "Civil Code section 3288",
+      "span": [
+        1290,
+        1313
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3288"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "LP v. Whillock Contracting, Inc.",
+      "year": 2011,
+      "volume": 200,
+      "reporter": "Cal.App.4th",
+      "page": 656,
+      "pin": "661",
+      "raw": "LP v. Whillock Contracting, Inc. (2011) 200 Cal. App.4th 656, 661",
+      "span": [
+        349,
+        414
+      ],
+      "role": "directions",
+      "case_key": "200 Cal.App.4th 656"
+    },
+    {
+      "name": "Bullis v. Security Pac. Nat'l Bank",
+      "year": 1978,
+      "volume": 21,
+      "reporter": "Cal.3d",
+      "page": 801,
+      "pin": "814",
+      "raw": "Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801, 814",
+      "span": [
+        1349,
+        1410
+      ],
+      "role": "directions",
+      "case_key": "21 Cal.3d 801"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:14+00:00"
+}

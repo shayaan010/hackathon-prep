@@ -1,0 +1,243 @@
+{
+  "id": "CACI-4205",
+  "edition": "2026",
+  "number": "4205",
+  "title": "“Insolvency” Explained",
+  "title_full": "“Insolvency” Explained",
+  "title_statute": null,
+  "series": "4200",
+  "series_title": "Series 4200 Uniform Voidable Transactions Act",
+  "page_start": 2997,
+  "page_end": 2998,
+  "instruction_text": "4205. \"Insolvency\" Explained\n[[Name of debtor ] was insolvent [at the time/as a result] of the transaction\nif, at fair valuation, the total amount of [his/her/ nonbinary pronoun/its]\ndebts was greater than the total amount of [his/her/ nonbinary pronoun/its]\nassets.]\nIn determining [ name of debtor ]'s assets, do not include property that has\nbeen [transferred, concealed, or removed with intent to hinder, delay, or\ndefraud creditors/ [or] transferred [ specify grounds for voidable transfer\nbased on constructive fraud ]]. [In determining [ name of debtor ]'s debts, do\nnot include a debt to the extent it is secured by a valid lien on [his/her/\nnonbinary pronoun/its] property that is not included as an asset.]",
+  "directions_for_use": "Give this instruction with CACI No. 4203, Constructive Fraudulent\nTransfer–Insolvency–Essential Factual Elements . Give also CACI No. 4206,\nPresumption of Insolvency .\nProperty the transfer of which is potentially voidable under the Uniform V oidable\nTransactions Act (formerly the Uniform Fraudulent Transfer Act) is to be excluded\nfrom the computation of the debtor's assets for purposes of determining insolvency.\n(Civ. Code, §3439.02(c).) In the ﬁrst sentence of the second paragraph select the\nﬁrst option if there is property transferred and alleged to be voidable for actual\nfraud (see Civ. Code, §3439.04(a)(1).), and specify the grounds in the second\noption if there is property transferred and alleged to be voidable for constructive\nfraud. (See Civ. Code, §§3439.04(a)(2), 3904.05.) Read the bracketed last sentence\nif appropriate to the facts. (See Civ. Code, §3439.02(d).)",
+  "sources_and_authority": [
+    {
+      "raw": "When Debtor Is Insolvent. Civil Code section 3439.02.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3439.02",
+          "display": "Civil Code section 3439.02",
+          "raw": "Civil Code section 3439.02",
+          "span": [
+            26,
+            52
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Asset\" Deﬁned. Civil Code section 3439.01(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3439.01",
+          "display": "Civil Code section 3439.01",
+          "raw": "Civil Code section 3439.01(a)",
+          "span": [
+            16,
+            45
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3439.01",
+          "display": "Civil Code section 3439.01(a)",
+          "raw": "Civil Code section 3439.01(a)",
+          "span": [
+            16,
+            45
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"To determine solvency, the value of a debtor's assets and debts are compared.\nBy statutory deﬁnition, a debtor's assets exclude property that is exempt from\njudgment enforcement. Retirement accounts are generally exempt.\" ( Mejia v.\nReed (2003) 31 Cal. 4th 657, 670 [3 Cal. Rptr.3d 390, 74 P.3d 166], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Mejia v. Reed",
+          "year": 2003,
+          "volume": 31,
+          "reporter": "Cal.4th",
+          "page": 657,
+          "pin": "670",
+          "raw": "Mejia v. Reed (2003) 31 Cal. 4th 657, 670",
+          "span": [
+            225,
+            266
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"We conclude . . . that future child support payments should not be viewed as a\ndebt under the UFTA.\" ( Mejia, supra, 31 Cal. 4th at p. 671.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "Ahart, California Practice Guide: Enforcing Judgments & Debts, Ch. 3-C,\n1111\nPrelawsuit Considerations, ¶ 3:327 et seq. (The Rutter Group)\n23 California Forms of Pleading and Practice, Ch. 270, Fraudulent Conveyances ,\n§§270.42[3], 270.192 (Matthew Bender)\n26 California Forms of Pleading and Practice, Ch. 307, Insolvency, §307.32\n(Matthew Bender)\nCACI No. 4205 UNIFORM VOIDABLE TRANSACTIONS ACT\n1112",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.02",
+      "display": "Civil Code section 3439.02",
+      "raw": "Civil Code section 3439.02",
+      "span": [
+        26,
+        52
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3439.02"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.01",
+      "display": "Civil Code section 3439.01",
+      "raw": "Civil Code section 3439.01(a)",
+      "span": [
+        16,
+        45
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3439.01"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.01",
+      "display": "Civil Code section 3439.01(a)",
+      "raw": "Civil Code section 3439.01(a)",
+      "span": [
+        16,
+        45
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/CIV/3439.01/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.02",
+      "display": "Civil Code section 3439.02(c)",
+      "raw": "Civ. Code, §3439.02(c)",
+      "span": [
+        418,
+        440
+      ],
+      "subsection": "c",
+      "role": "directions",
+      "statute_key": "CA/CIV/3439.02/c"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.04",
+      "display": "Civil Code section 3439.04",
+      "raw": "Civ. Code, §3439.04(a)(1)",
+      "span": [
+        593,
+        618
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3439.04"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.04",
+      "display": "Civil Code section 3439.04(a)",
+      "raw": "Civ. Code, §3439.04(a)(1)",
+      "span": [
+        593,
+        618
+      ],
+      "subsection": "a",
+      "role": "directions",
+      "statute_key": "CA/CIV/3439.04/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.04",
+      "display": "Civil Code section 3439.04(1)",
+      "raw": "Civ. Code, §3439.04(a)(1)",
+      "span": [
+        593,
+        618
+      ],
+      "subsection": "1",
+      "role": "directions",
+      "statute_key": "CA/CIV/3439.04/1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.04",
+      "display": "Civil Code section 3439.04(2)",
+      "raw": "Civ. Code, §§3439.04(a)(2), 3904.05",
+      "span": [
+        756,
+        791
+      ],
+      "subsection": "2",
+      "role": "directions",
+      "statute_key": "CA/CIV/3439.04/2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3904.05",
+      "display": "Civil Code section 3904.05",
+      "raw": "Civ. Code, §§3439.04(a)(2), 3904.05",
+      "span": [
+        756,
+        791
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3904.05"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.02",
+      "display": "Civil Code section 3439.02(d)",
+      "raw": "Civ. Code, §3439.02(d)",
+      "span": [
+        861,
+        883
+      ],
+      "subsection": "d",
+      "role": "directions",
+      "statute_key": "CA/CIV/3439.02/d"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Mejia v. Reed",
+      "year": 2003,
+      "volume": 31,
+      "reporter": "Cal.4th",
+      "page": 657,
+      "pin": "670",
+      "raw": "Mejia v. Reed (2003) 31 Cal. 4th 657, 670",
+      "span": [
+        225,
+        266
+      ],
+      "role": "sources",
+      "case_key": "31 Cal.4th 657"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:24+00:00"
+}

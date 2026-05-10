@@ -1,0 +1,89 @@
+{
+  "id": "CACI-702",
+  "edition": "2026",
+  "number": "702",
+  "title": "Waiver of Right-of-Way",
+  "title_full": "Waiver of Right-of-Way",
+  "title_statute": null,
+  "series": "700",
+  "series_title": "Series 700 Motor Vehicles and Highway Safety",
+  "page_start": 626,
+  "page_end": 626,
+  "instruction_text": "702. Waiver of Right-of-Way\nA [driver/pedestrian] who has the right-of-way may give up that right\nand let another person go ﬁrst. If the other person reasonably believes\nthat a [driver/pedestrian] has given up the right-of-way, then the other\nperson may go ﬁrst.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"[I]f one who has the right of way 'conducts himself in such a deﬁnite manner\nas to create a reasonable belief in the mind of another person that the right-of-\nway has been waived, then such other person is entitled to assume that the right\nof way has been given up to him . . .'.\" ( Hopkins v. Tye (1959) 174 Cal. App.2d\n431, 433 [344 P.2d 640].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hopkins v. Tye",
+          "year": 1959,
+          "volume": 174,
+          "reporter": "Cal.App.2d",
+          "page": 431,
+          "pin": "433",
+          "raw": "Hopkins v. Tye (1959) 174 Cal. App.2d 431, 433",
+          "span": [
+            284,
+            330
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A conscious intentional act of waiver of the right of way by the pedestrian is\nnot required. Whether there is a waiver depends upon the acts of the pedestrian.\nIf they are such that a driver could reasonably believe that the pedestrian did not\nintend to assert her right of way, a waiver occurs.\" ( Cohen v. Bay Area Pie\nCompany (1963) 217 Cal. App.2d 69, 72–73 [31 Cal. Rptr. 426], internal citation\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cohen v. Bay Area Pie Company",
+          "year": 1963,
+          "volume": 217,
+          "reporter": "Cal.App.2d",
+          "page": 69,
+          "pin": "72–73",
+          "raw": "Cohen v. Bay Area Pie Company (1963) 217 Cal. App.2d 69, 72–73",
+          "span": [
+            300,
+            362
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1010, 1011\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §4.15\n2 Levy et al., California Torts, Ch. 20, Motor V ehicles, §20.68[1][c] (Matthew\nBender)\n552",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Hopkins v. Tye",
+      "year": 1959,
+      "volume": 174,
+      "reporter": "Cal.App.2d",
+      "page": 431,
+      "pin": "433",
+      "raw": "Hopkins v. Tye (1959) 174 Cal. App.2d 431, 433",
+      "span": [
+        284,
+        330
+      ],
+      "role": "sources",
+      "case_key": "174 Cal.App.2d 431"
+    },
+    {
+      "name": "Cohen v. Bay Area Pie Company",
+      "year": 1963,
+      "volume": 217,
+      "reporter": "Cal.App.2d",
+      "page": 69,
+      "pin": "72–73",
+      "raw": "Cohen v. Bay Area Pie Company (1963) 217 Cal. App.2d 69, 72–73",
+      "span": [
+        300,
+        362
+      ],
+      "role": "sources",
+      "case_key": "217 Cal.App.2d 69"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

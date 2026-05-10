@@ -1,0 +1,65 @@
+{
+  "id": "CACI-115",
+  "edition": "2026",
+  "number": "115",
+  "title": "“Class Action” Defined (Plaintiff Class)",
+  "title_full": "“Class Action” Defined (Plaintiff Class)",
+  "title_statute": null,
+  "series": "100",
+  "series_title": "Series 100 Pretrial",
+  "page_start": 108,
+  "page_end": 109,
+  "instruction_text": "115. \"Class Action\" Deﬁned (Plaintiff Class)\nA class action is a lawsuit that has been brought by one or more\nplaintiffs on behalf of a larger group of people who have similar legal\nclaims. All of these people together are called a \"class.\" [ Name of\nplaintiff] brings this action as the class representative.\nIn a class action, the claims of many individuals can be resolved at the\nsame time instead of requiring each member to sue separately. Because\nof the large number of claims that are at issue in this case, not everyone\nin the class will testify. Y ou may assume that the evidence at this [stage\nof the] trial applies to all class members [except as I speciﬁcally tell you\notherwise]. All members of the class will be bound by the result of this\ntrial.\nIn this case, the class(es) consist(s) of the following:\n[Describe each class, e.g.,\nOriginal Homebuyers: All current homeowners in the Happy V alley\nsubdivision in Pleasantville, California, who purchased homes that were\nconstructed and marketed by [name of defendant]. (\"Class of Original\nPurchasers\")\nSubsequent Homebuyers: All current homeowners in the Happy V alley\nsubdivisions in Pleasantville, California, who purchased homes that were\nconstructed and marketed by [name of defendant] from another homeowner .\n(\"Class of Later Purchasers\") ].",
+  "directions_for_use": "The ﬁrst paragraph may be modiﬁed for use with a defendant class. If in the course\nof the trial the court decertiﬁes the class or one of the classes as to some or all\nissues, a concluding instruction explaining the effect of the decertiﬁcation should be\ngiven.\nIn the second paragraph, if class evidence and individual evidence will be received\nin separate stages of the trial, include the ﬁrst bracketed language. If both class\nevidence and individual evidence will be received together, include the second\nbracketed language and specify the class evidence in a separate instruction.",
+  "sources_and_authority": [
+    {
+      "raw": "Right to Bring Class Action. Code of Civil Procedure section 382.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Courts long have acknowledged the importance of class actions as a means to\nprevent a failure of justice in our judicial system. ' \"By establishing a technique\nwhereby the claims of many individuals can be resolved at the same time, the\n34\nclass suit both eliminates the possibility of repetitious litigation and provides\nsmall claimants with a method of obtaining redress . . . .\" ' Generally, a class\nsuit is appropriate 'when numerous parties suffer injury of insufficient size to\nwarrant individual action and when denial of class relief would result in unjust\nadvantage to the wrongdoer.' 'But because group action also has the potential to\ncreate injustice, trial courts are required to ' \"carefully weigh respective beneﬁts\nand burdens and to allow maintenance of the class action only where substantial\nbeneﬁts accrue both to litigants and the courts.\" ' \" ( Linder v. Thrifty Oil Co.\n(2000) 23 Cal. 4th 429, 434–435 [97 Cal. Rptr.2d 179, 2 P.3d 27], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Linder v. Thrifty Oil Co.",
+          "year": 2000,
+          "volume": 23,
+          "reporter": "Cal.4th",
+          "page": 429,
+          "pin": "434–435",
+          "raw": "Linder v. Thrifty Oil Co. (2000) 23 Cal. 4th 429, 434–435",
+          "span": [
+            868,
+            925
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The cases uniformly hold that a plaintiff seeking to maintain a class action must\nbe a member of the class he claims to represent.\" ( La Sala v. American Sav. &\nLoan Assn. (1971) 5 Cal. 3d 864, 875 [97 Cal. Rptr 849, 489 P.2d 1113].)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "4 Witkin, California Procedure (6th ed. 2021) Pleading, §266 et seq.\nCabraser, California Class Actions and Coordinated Proceedings (2d ed.), Ch. 3,\nCalifornia' s Class Action Statute , §3.03 (Matthew Bender)\nCalifornia Deskbook on Complex Civil Litigation Management, Ch. 5, Specialized\nAreas, §5.80 et seq. (Matthew Bender)\n12 California Forms of Pleading and Practice, Ch. 120, Class Actions , §§120.11,\n120.14 (Matthew Bender)\n4 California Points and Authorities, Ch. 41, Class and Representative Actions ,\n§41.30 et seq. (Matthew Bender)\n2 California Pretrial Civil Procedure Practice Guide: The Wagstaffe Group, Ch. 37,\nClass Actions , §37-I et seq.\nPRETRIAL INSTRUCTIONS CACI No. 115\n35",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Linder v. Thrifty Oil Co.",
+      "year": 2000,
+      "volume": 23,
+      "reporter": "Cal.4th",
+      "page": 429,
+      "pin": "434–435",
+      "raw": "Linder v. Thrifty Oil Co. (2000) 23 Cal. 4th 429, 434–435",
+      "span": [
+        868,
+        925
+      ],
+      "role": "sources",
+      "case_key": "23 Cal.4th 429"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

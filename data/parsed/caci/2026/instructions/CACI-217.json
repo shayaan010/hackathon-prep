@@ -1,0 +1,176 @@
+{
+  "id": "CACI-217",
+  "edition": "2026",
+  "number": "217",
+  "title": "Evidence of Settlement",
+  "title_full": "Evidence of Settlement",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 141,
+  "page_end": 142,
+  "instruction_text": "217. Evidence of Settlement\nY ou have heard evidence that there was a settlement between [ insert\nnames of settling parties ]. Y ou must not consider this settlement to\ndetermine responsibility for any harm. Y ou may consider this evidence\nonly to decide whether [ insert name of witness who settled ] is biased or\nprejudiced and whether [his/her/ nonbinary pronoun] testimony is\nbelievable.",
+  "directions_for_use": "Evidence of prior settlement is not automatically admissible: \"Even if it appears that\na witness could have been inﬂuenced in his testimony by the payment of money or\nthe obtaining of a dismissal, the party resisting the admission of such evidence may\nstill appeal to the court's discretion to exclude it under section 352 of the code.\"\n(Granville v. Parsons (1968) 259 Cal. App.2d 298, 305 [66 Cal. Rptr. 149].)",
+  "sources_and_authority": [
+    {
+      "raw": "Evidence of Settlement. Evidence Code section 1152(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "1152",
+          "display": "Evidence Code section 1152",
+          "raw": "Evidence Code section 1152(a)",
+          "span": [
+            24,
+            53
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "1152",
+          "display": "Evidence Code section 1152(a)",
+          "raw": "Evidence Code section 1152(a)",
+          "span": [
+            24,
+            53
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"While evidence of a settlement agreement is inadmissible to prove liability, it is\nadmissible to show bias or prejudice of an adverse party. Relevant evidence\nincludes evidence relevant to the credibility of a witness.\" ( Moreno v. Sayre\n(1984) 162 Cal. App.3d 116, 126 [208 Cal. Rptr. 444], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Moreno v. Sayre",
+          "year": 1984,
+          "volume": 162,
+          "reporter": "Cal.App.3d",
+          "page": 116,
+          "pin": "126",
+          "raw": "Moreno v. Sayre (1984) 162 Cal. App.3d 116, 126",
+          "span": [
+            223,
+            270
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[E]vidence of a plaintiff's settlement with one or more defendants is admissible\nat trial to prove witness bias and to prevent collusion.\" ( Diamond v. Reshko\n(2015) 239 Cal. App.4th 828, 843 [191 Cal. Rptr.3d 438].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Diamond v. Reshko",
+          "year": 2015,
+          "volume": 239,
+          "reporter": "Cal.App.4th",
+          "page": 828,
+          "pin": "843",
+          "raw": "Diamond v. Reshko (2015) 239 Cal. App.4th 828, 843",
+          "span": [
+            142,
+            192
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A] term in a settlement agreement requiring the settling defendant to stay in\nthe case during trial is not per se improper, but the settling defendant's position\nshould be revealed to the court and jury to avoid committing a fraud on the\ncourt, and to permit the trier of fact to properly weigh the settling defendant's\ntestimony.\" (Diamond, supra , 239 Cal. App.4th at p. 844.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he good faith settlement determination did not limit the trial court's authority\nto admit evidence of that settlement at trial. To the contrary, . . . the decision\nwhether to admit evidence of the settlement was for the trial court to make.\"\n(Diamond, supra, 239 Cal. App.4th at p. 846.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The bias inherent in a settling defendant's realignment with the plaintiff's\ninterest may or may not affect the conduct of the plaintiff or settling defendant at\ntrial, but that is a question for the jury to decide.\" ( Diamond, supra , 239\nCal. App.4th at p. 848.)\n67",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, California Evidence (5th ed. 2012) Circumstantial Evidence, §§145–153\nJefferson, California Evidence Benchbook (3d ed. 1997) §§34.15–34.24\n3 California Trial Guide, Unit 50, Extrinsic Policies Affecting or Excluding\nEvidence, §50.20 (Matthew Bender)\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §551.68 (Matthew\nBender)\nCACI No. 217 EVIDENCE\n68",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1152",
+      "display": "Evidence Code section 1152",
+      "raw": "Evidence Code section 1152(a)",
+      "span": [
+        24,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/1152"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1152",
+      "display": "Evidence Code section 1152(a)",
+      "raw": "Evidence Code section 1152(a)",
+      "span": [
+        24,
+        53
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/EVID/1152/a"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Moreno v. Sayre",
+      "year": 1984,
+      "volume": 162,
+      "reporter": "Cal.App.3d",
+      "page": 116,
+      "pin": "126",
+      "raw": "Moreno v. Sayre (1984) 162 Cal. App.3d 116, 126",
+      "span": [
+        223,
+        270
+      ],
+      "role": "sources",
+      "case_key": "162 Cal.App.3d 116"
+    },
+    {
+      "name": "Diamond v. Reshko",
+      "year": 2015,
+      "volume": 239,
+      "reporter": "Cal.App.4th",
+      "page": 828,
+      "pin": "843",
+      "raw": "Diamond v. Reshko (2015) 239 Cal. App.4th 828, 843",
+      "span": [
+        142,
+        192
+      ],
+      "role": "sources",
+      "case_key": "239 Cal.App.4th 828"
+    },
+    {
+      "name": "Granville v. Parsons",
+      "year": 1968,
+      "volume": 259,
+      "reporter": "Cal.App.2d",
+      "page": 298,
+      "pin": "305",
+      "raw": "Granville v. Parsons (1968) 259 Cal. App.2d 298, 305",
+      "span": [
+        338,
+        390
+      ],
+      "role": "directions",
+      "case_key": "259 Cal.App.2d 298"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

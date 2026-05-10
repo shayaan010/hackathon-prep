@@ -1,0 +1,151 @@
+{
+  "id": "CACI-3515",
+  "edition": "2026",
+  "number": "3515",
+  "title": "Valuation Testimony",
+  "title_full": "Valuation Testimony",
+  "title_statute": null,
+  "series": "3500",
+  "series_title": "Series 3500 Eminent Domain",
+  "page_start": 2588,
+  "page_end": 2588,
+  "instruction_text": "3515. Valuation Testimony\nY ou must decide the value of property based solely on the testimony of\nthe witnesses who have given their opinion of fair market value. Y ou\nmay consider other evidence only to help you understand and weigh the\ntestimony of those witnesses.\nY ou may ﬁnd the same fair market value testiﬁed to by a witness, or you\nmay ﬁnd a value anywhere between the highest and lowest values stated\nby the witnesses.\nIf the witnesses disagreed with one another, you should weigh each\nopinion against the others based on the reasons given for each opinion,\nthe facts or other matters that each witness relied on, and the witnesses'\nqualiﬁcations.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "Evidence of V alue of Property. Evidence Code section 813(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "813",
+          "display": "Evidence Code section 813",
+          "raw": "Evidence Code section 813(a)",
+          "span": [
+            32,
+            60
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "813",
+          "display": "Evidence Code section 813(a)",
+          "raw": "Evidence Code section 813(a)",
+          "span": [
+            32,
+            60
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The only type of evidence which can be used to establish value in eminent\ndomain cases is the opinion of qualiﬁed experts and the property owners.\"\n(Aetna Life and Casualty Co. v. City of Los Angeles (1985) 170 Cal. App.3d 865,\n877 [216 Cal. Rptr. 831], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Aetna Life and Casualty Co. v. City of Los Angeles",
+          "year": 1985,
+          "volume": 170,
+          "reporter": "Cal.App.3d",
+          "page": 865,
+          "pin": "877",
+          "raw": "Aetna Life and Casualty Co. v. City of Los Angeles (1985) 170 Cal. App.3d 865, 877",
+          "span": [
+            150,
+            232
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A jury hearing a condemnation action may not disregard the evidence as to\nvalue and render a verdict which either exceeds or falls below the limits\nestablished by the testimony of the witnesses. The trier of fact in an eminent\ndomain action is not an appraiser, and does not make a determination of market\nvalue based on its opinion thereof. Instead it determines the market value of the\nproperty, based on the opinions of the valuation witnesses.\" ( Aetna Life and\nCasualty Co., supra, 170 Cal. App.3d at p. 877, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'The trier of fact may accept the evidence of any one expert or choose a ﬁgure\nbetween them based on all of the evidence.' There is insufficient evidence to\nsupport a verdict 'only when \"no reasonable interpretation of the record\"\nsupports the ﬁgure . . . .' \" ( San Diego Metropolitan Transit Development Bd. v.\nCushman (1997) 53 Cal. App.4th 918, 931 [62 Cal. Rptr.2d 121], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "San Diego Metropolitan Transit Development Bd. v. Cushman",
+          "year": 1997,
+          "volume": 53,
+          "reporter": "Cal.App.4th",
+          "page": 918,
+          "pin": "931",
+          "raw": "San Diego Metropolitan Transit Development Bd. v. Cushman (1997) 53 Cal. App.4th 918, 931",
+          "span": [
+            265,
+            354
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, California Evidence (5th ed. 2012) Opinion Evidence, §103\n1 Condemnation Practice in California (Cont.Ed.Bar 3d ed.) §§9.62–9.64\n5 Nichols on Eminent Domain, Ch. 23, Expert and Opinion Evidence ,\n§§23.01–23.11 (Matthew Bender)\n702",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "813",
+      "display": "Evidence Code section 813",
+      "raw": "Evidence Code section 813(a)",
+      "span": [
+        32,
+        60
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/813"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "813",
+      "display": "Evidence Code section 813(a)",
+      "raw": "Evidence Code section 813(a)",
+      "span": [
+        32,
+        60
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/EVID/813/a"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Aetna Life and Casualty Co. v. City of Los Angeles",
+      "year": 1985,
+      "volume": 170,
+      "reporter": "Cal.App.3d",
+      "page": 865,
+      "pin": "877",
+      "raw": "Aetna Life and Casualty Co. v. City of Los Angeles (1985) 170 Cal. App.3d 865, 877",
+      "span": [
+        150,
+        232
+      ],
+      "role": "sources",
+      "case_key": "170 Cal.App.3d 865"
+    },
+    {
+      "name": "San Diego Metropolitan Transit Development Bd. v. Cushman",
+      "year": 1997,
+      "volume": 53,
+      "reporter": "Cal.App.4th",
+      "page": 918,
+      "pin": "931",
+      "raw": "San Diego Metropolitan Transit Development Bd. v. Cushman (1997) 53 Cal. App.4th 918, 931",
+      "span": [
+        265,
+        354
+      ],
+      "role": "sources",
+      "case_key": "53 Cal.App.4th 918"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

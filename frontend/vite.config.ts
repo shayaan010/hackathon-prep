@@ -15,8 +15,12 @@ export default defineConfig({
   vite: {
     server: {
       proxy: {
+        // Default to the api/ FastAPI service on :8000 — that's the one
+        // wired into the rich ChatWrapper (CourtListener tool, prompt
+        // caching, adaptive thinking on Opus 4.7). new_api/ on :8001 is
+        // the simpler statute-only service. Override via env if needed.
         "/api": {
-          target: "http://localhost:8000",
+          target: process.env.VITE_API_PROXY_TARGET ?? "http://localhost:8000",
           changeOrigin: true,
         },
       },

@@ -1,0 +1,49 @@
+{
+  "id": "CACI-VF-1406",
+  "edition": "2026",
+  "number": "VF-1406",
+  "title": "False Arrest With Warrant—Peace Officer—Affirmative Defense—“Good-Faith” Exception",
+  "title_full": "False Arrest With Warrant—Peace Officer—Affirmative Defense—“Good-Faith” Exception",
+  "title_statute": null,
+  "series": "VF-1400",
+  "series_title": "Series 1400 False Imprisonment",
+  "page_start": 1003,
+  "page_end": 1005,
+  "instruction_text": "VF-1406. False Arrest With Warrant–Peace Officer–Affirmative\nDefense–\"Good-Faith\" Exception\nWe answer the questions submitted to us as follows:\n1. Did [ name of defendant ] arrest [ name of plaintiff ]?\n1. Yes No\n1. If your answer to question 1 is yes, then answer question 2. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n2. [ Insert question regarding facts supporting the invalidity of the\nwarrant or the unlawfulness of the arrest, e.g., \"Had the warrant for\n[name of plaintiff]'s arrest expired?\" ]\n2. Yes No\n2. If your answer to question 2 is yes, then answer question 3. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n3. Would the arrest warrant have appeared valid to a reasonably\nintelligent and informed person?\n3. Yes No\n3. If your answer to question 3 is yes, then answer question 4. If you\nanswered no, skip questions 4 and 5 and answer question 6.\n4. Did [ name of defendant ] believe the warrant was valid?\n4. Yes No\n4. If your answer to question 4 is yes, then answer question 5. If you\nanswered no, skip question 5 and answer question 6.\n5. Did [ name of defendant ] have a reasonable belief that [ name of\nplaintiff] was the person referred to in the warrant?\n5. Yes No\n5. If your answer to question 5 is no, then answer question 6. If you\nanswered yes, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n6. Was [ name of defendant ]'s conduct a substantial factor in causing\nharm to [ name of plaintiff ]?\n6. Yes No\n6. If your answer to question 6 is yes, then answer question 7. If you\n929\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n7. What are [ name of plaintiff ]'s damages?\n[a. Past economic loss\n[lost earnings $ ]\n[lost proﬁts $ ]\n[medical expenses $ ]\n[other past economic loss $ ]\n[a. Total Past Economic Damages: $ ]\n[b. Future economic loss\n[lost earnings $ ]\n[lost proﬁts $ ]\n[medical expenses $ ]\n[other future economic loss $ ]\n[b. Total Future Economic Damages: $ ]\n[c. Past noneconomic loss, including [physical\npain/mental suffering:] $ ]\n[d. Future noneconomic loss, including [physical\npain/mental suffering:] $ ]\n[d. TOTAL $\nSigned:\nPresiding Juror\nDated:\nAfter [this verdict form has/all verdict forms have] been signed, notify\nthe [clerk/bailiff/court attendant].\n\n2024",
+  "directions_for_use": "This verdict form is based on CACI No. 1405, False Arrest With Warrant–Essential\nFactual Elements, and CACI No. 1406, False Arrest With Warrant–Peace\nOffıcer–Affırmative Defense– \"Good-Faith\" Exception.\nThe special verdict forms in this section are intended only as models. They may\nVF-1406 FALSE IMPRISONMENT\n930\nneed to be modiﬁed depending on the facts of the case.\nIf the jury returns a verdict of no harm, the plaintiff is still entitled to an award of\nnominal damages, such as one dollar. If nominal damages are being sought, modify\nthe directions after question 6 to direct the jury to skip question 7 and answer\nquestion 8 if they ﬁnd no harm. Then add a new question 8: \"What amount of\nnominal damages do you award [ name of plaintiff ]?\" If this is done, add a direction\nafter question 7 that the jury should not answer question 8. Please note that the\ncommittee has found no cases requiring the jury to determine the amount of\nnominal damages.\nIf speciﬁcity is not required, users do not have to itemize all the damages listed in\nquestion 7 and do not have to categorize \"economic\" and \"noneconomic\" damages,\nespecially if it is not a Proposition 51 case. The breakdown of damages is optional\ndepending on the circumstances.\nIf there are multiple causes of action, users may wish to combine the individual\nforms into one form. If different damages are recoverable on different causes of\naction, replace the damages tables in all of the verdict forms with CACI No. VF-\n3920, Damages on Multiple Legal Theories .\nIf the jury is given the discretion under Civil Code section 3288 to award\nprejudgment interest (see Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801,\n814 [148 Cal. Rptr. 22, 582 P.2d 109]), give CACI No. 3935, Prejudgment Interest.\nThis verdict form may need to be augmented for the jury to make any factual\nﬁndings that are required in order to calculate the amount of prejudgment interest.\nFALSE IMPRISONMENT VF-1406\n931",
+  "sources_and_authority": [],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3288",
+      "display": "Civil Code section 3288",
+      "raw": "Civil Code section 3288",
+      "span": [
+        1564,
+        1587
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3288"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Bullis v. Security Pac. Nat'l Bank",
+      "year": 1978,
+      "volume": 21,
+      "reporter": "Cal.3d",
+      "page": 801,
+      "pin": "814",
+      "raw": "Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801, 814",
+      "span": [
+        1623,
+        1684
+      ],
+      "role": "directions",
+      "case_key": "21 Cal.3d 801"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

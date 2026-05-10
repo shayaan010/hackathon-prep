@@ -26,6 +26,9 @@ What's different vs. the prior single-shot /api/chat:
 """
 from __future__ import annotations
 
+import os
+import re
+from contextlib import contextmanager
 from typing import Any, Optional
 
 from anthropic import Anthropic
@@ -35,9 +38,50 @@ from store.db import Database
 
 
 DEFAULT_MODEL = "claude-opus-4-7"
+
+# Mirror of new_api/scripts/tag_statute_factors.py FACTOR_CATEGORIES — the 18
+# strings the classifier may emit. Used to enum-constrain the chat tool's
+# `factors` parameter so the model can't invent labels that won't match any
+# row.
+FACTOR_CATEGORIES: list[str] = [
+    "Improper Turning",
+    "Improper Passing",
+    "Failure to Yield the Right-of-Way",
+    "Improper Lane of Travel",
+    "Improper Stopping",
+    "DUI/DWI",
+    "Fleeing the Scene of a Collision",
+    "Failure to Maintain Lane",
+    "Driving Too Fast For Conditions",
+    "Using a Wireless Telephone/Texting While Driving",
+    "Fleeing a Police Officer",
+    "Failure to Obey Traffic Control Device",
+    "Following Too Closely",
+    "Failure to Yield at a Yield Sign",
+    "Improper Starting",
+    "Reckless Driving",
+    "Failure to Use/Activate Horn",
+    "Other",
+]
 DEFAULT_MAX_TOOL_ITERATIONS = 4
 DEFAULT_MAX_TOKENS = 2048
 DEFAULT_EFFORT = "high"
+
+# Curated multi-state statute Postgres (lives in `new_api/docker-compose.yml`).
+# Override with POSTGRES_DSN env var if you point at something else.
+DEFAULT_STATUTES_DSN = "postgresql://postgres:postgres@localhost:5433/new_api"
+
+# Mirror of api.main._PG_PUBLISHER_BY_JURISDICTION. Kept in sync manually since
+# importing api.main here would create a circular import.
+_PG_PUBLISHER_BY_JURISDICTION = {
+    "CA": "California Legislative Information",
+    "NY": "New York State Senate",
+    "TX": "Texas Legislature Online",
+    "CO": "Colorado General Assembly",
+    "FL": "The Florida Senate",
+    "NV": "Nevada Legislature",
+    "OR": "Oregon State Legislature",
+}
 
 
 SYSTEM_PROMPT = """\
@@ -55,22 +99,27 @@ police reports, contracts, depositions, or briefs. Search results from these \
 are tagged `[UPLOADED DOCUMENT: <filename>]`.
 
 Tools available:
-- `search_statutes`: Query both the statute corpus AND the attorney's uploaded \
-documents by topic, factor, code section, or fact pattern. Use it whenever the \
-answer depends on what a statute says, what's in an uploaded document, or which \
-statutes might apply to facts described in an upload.
+- `search_statutes`: Keyword-search the curated motor-vehicle statute database \
+(CA, NY, TX, CO, FL, NV, OR). Returns short snippets with citation + section. \
+Use this for any question about what a statute says or which statutes might \
+apply to a fact pattern. Filter by `jurisdiction` (2-letter) when the attorney \
+specifies a state.
+- `get_statute`: Fetch the full text of a specific statute by its UUID. Use \
+this when a `search_statutes` snippet isn't enough.
+- `list_jurisdictions`: List the jurisdictions and codes available, with \
+counts. Use when the attorney asks "what do you have?".
 - `search_courtlistener`: Query CourtListener for real published opinions. \
 Use this whenever the attorney asks for case law, prior opinions, similar cases, \
 or "find me a case where...". Each hit comes back with a permanent CourtListener \
 URL — ALWAYS include the URL when you cite a CourtListener result so the \
 attorney can click through.
 
-Skip both tools for casual chatter or follow-ups about material already in this \
-conversation.
+Skip these tools for casual chatter or follow-ups about material already in \
+this conversation.
 
-When uploaded-document hits come back:
-- Treat the file content as facts. Quote short phrases verbatim.
-- Then surface the applicable statutes (often a follow-up search is needed).
+When the attorney attaches a file inline (paperclip in chat), the file's text \
+is already in the user message. Treat it as facts, quote short phrases \
+verbatim, then run `search_statutes` to surface applicable law.
 
 Citation rules (NON-NEGOTIABLE):
 1. Quote a short verbatim phrase — never paraphrase a citation or a fact from a file.
@@ -83,10 +132,6 @@ sections, quotes, cases, or URLs.
 6. Distinguish "the corpus contains X" from "the law says X". You only have what's \
 in the corpus or what the tools just returned.
 
-When the user attaches a file inline (paperclip in chat):
-- Treat that attachment as primary context, the same way you'd treat an uploaded \
-document hit. Quote it verbatim. Run `search_statutes` to surface applicable law.
-
 Style:
 - Short. 1-3 paragraphs of plain prose. Bullets only for lists of items.
 - **Bold** for citations and key terms. No markdown headers.
@@ -96,14 +141,17 @@ Style:
 SEARCH_TOOL: dict[str, Any] = {
     "name": "search_statutes",
     "description": (
-        "Search the indexed corpus for excerpts matching a natural-language "
-        "query. The corpus contains BOTH motor-vehicle statutes AND any "
-        "documents the attorney has uploaded (police reports, contracts, "
-        "depositions, briefs, etc.). Uploaded-document hits are tagged "
-        "'[UPLOADED DOCUMENT: <filename>]' in the results. Use this for any "
-        "question that depends on what a statute says, what's in an uploaded "
-        "document, or which statutes apply to facts in an upload. Returns up "
-        "to top_k excerpts."
+        "Search the curated motor-vehicle statute database covering "
+        "California (CA), New York (NY), Texas (TX), Colorado (CO), Florida "
+        "(FL), Nevada (NV), and Oregon (OR). Pass keywords in `query`, "
+        "contributing-factor categories in `factors`, or both — at least "
+        "one must be set. `query` AND-tokens across title / citation / "
+        "full text; `factors` is any-of via array overlap. Use `factors` "
+        "whenever the attorney describes conduct that maps to a known PI "
+        "category (e.g. 'tailgating' → 'Following Too Closely', 'drunk' "
+        "→ 'DUI/DWI', 'ran a red light' → 'Failure to Obey Traffic Control "
+        "Device'). Returns id, citation, section, title, factors, and a "
+        "500-char snippet. Follow up with `get_statute(id)` if needed."
     ),
     "input_schema": {
         "type": "object",
@@ -111,21 +159,73 @@ SEARCH_TOOL: dict[str, Any] = {
             "query": {
                 "type": "string",
                 "description": (
-                    "Natural-language search query. Examples: 'reckless "
-                    "driving on a wet road', 'cell phone use while driving', "
-                    "'failure to yield at crosswalk', 'Cal. Veh. Code 22350'."
+                    "Whitespace-separated keywords (AND-ed). Examples: "
+                    "'reckless driving', 'cell phone driving', "
+                    "'failure to yield crosswalk', '22350'. Optional if "
+                    "`factors` is provided."
                 ),
+            },
+            "jurisdiction": {
+                "type": "string",
+                "description": (
+                    "Optional 2-letter filter: CA, NY, TX, CO, FL, NV, OR."
+                ),
+            },
+            "code": {
+                "type": "string",
+                "description": (
+                    "Optional code-name substring, e.g. 'Vehicle Code', "
+                    "'Transportation Code'."
+                ),
+            },
+            "factors": {
+                "type": "array",
+                "description": (
+                    "Optional contributing-factor categories to filter on "
+                    "(any-of). Use the EXACT strings from the enum."
+                ),
+                "items": {
+                    "type": "string",
+                    "enum": FACTOR_CATEGORIES,
+                },
             },
             "top_k": {
                 "type": "integer",
-                "description": "How many excerpts to return. Default 5; max 12.",
-                "default": 5,
+                "description": "How many results to return. Default 8; max 25.",
+                "default": 8,
                 "minimum": 1,
-                "maximum": 12,
+                "maximum": 25,
             },
         },
-        "required": ["query"],
     },
+}
+
+
+GET_STATUTE_TOOL: dict[str, Any] = {
+    "name": "get_statute",
+    "description": (
+        "Fetch the FULL text of a specific statute by its UUID. Use ids "
+        "returned from `search_statutes` when the snippet isn't enough to "
+        "answer the question."
+    ),
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "id": {"type": "string", "description": "Statute UUID."},
+        },
+        "required": ["id"],
+    },
+}
+
+
+LIST_JURISDICTIONS_TOOL: dict[str, Any] = {
+    "name": "list_jurisdictions",
+    "description": (
+        "List the jurisdictions and codes available in the statute database, "
+        "with statute counts. Use this when the attorney asks 'what do you "
+        "have?' or 'which states are covered?'."
+    ),
+    "input_schema": {"type": "object", "properties": {}},
 }
 
 
@@ -188,6 +288,7 @@ class ChatWrapper:
         max_tool_iterations: int = DEFAULT_MAX_TOOL_ITERATIONS,
         max_tokens: int = DEFAULT_MAX_TOKENS,
         effort: str = DEFAULT_EFFORT,
+        statutes_dsn: Optional[str] = None,
     ):
         self.index = index
         self.db = db
@@ -196,6 +297,12 @@ class ChatWrapper:
         self.max_tool_iterations = max_tool_iterations
         self.max_tokens = max_tokens
         self.effort = effort
+        self.statutes_dsn = (
+            statutes_dsn
+            or os.environ.get("POSTGRES_DSN")
+            or os.environ.get("DATABASE_URL")
+            or DEFAULT_STATUTES_DSN
+        )
 
     # ---------- public entry point ----------
 
@@ -206,9 +313,15 @@ class ChatWrapper:
         attached_files: Optional[list[dict[str, str]]] = None,
         matter_name: Optional[str] = None,
         matter_caption: Optional[str] = None,
-    ) -> str:
+    ) -> dict[str, Any]:
         """
         Run one conversational turn and return Claude's reply.
+
+        Returns a dict with the shape `{"text": str, "statutes": list[dict]}`.
+        `statutes` is the deduped list of statute rows that the model actually
+        retrieved this turn via `search_statutes` / `get_statute` (FE-shaped,
+        same schema as /api/statutes items). Empty when the model didn't run
+        a statute tool — the UI uses this to decide whether to render cards.
 
         Args:
             message: the user's latest message text.
@@ -218,6 +331,11 @@ class ChatWrapper:
             matter_name / matter_caption: optional case context (e.g. "Reyes v. Western
                 Logistics", "Rear-end collision, I-880"). Passed as a soft hint.
         """
+        # Per-turn accumulator for statute rows pulled by tool calls. We dedupe
+        # by id; `get_statute` results override `search_statutes` (richer payload).
+        self._statute_hits: list[dict] = []
+        self._statute_hit_ids: set[str] = set()
+
         messages = self._format_history(history or [])
         messages.append(self._format_user_turn(message, attached_files, matter_name, matter_caption))
 
@@ -226,7 +344,7 @@ class ChatWrapper:
             stop = response.stop_reason
 
             if stop == "end_turn":
-                return self._extract_text(response) or "(no reply)"
+                return self._make_reply(self._extract_text(response) or "(no reply)")
 
             if stop == "tool_use":
                 messages.append({"role": "assistant", "content": response.content})
@@ -235,15 +353,18 @@ class ChatWrapper:
                 continue
 
             if stop == "refusal":
-                return "I can't help with that request."
+                return self._make_reply("I can't help with that request.")
 
             # max_tokens, pause_turn, or anything unexpected: surface what we have.
-            return self._extract_text(response) or "(reply truncated)"
+            return self._make_reply(self._extract_text(response) or "(reply truncated)")
 
-        return (
+        return self._make_reply(
             "I hit the tool-use iteration cap before reaching a final answer. "
             "Try a more specific question, or break it into smaller pieces."
         )
+
+    def _make_reply(self, text: str) -> dict[str, Any]:
+        return {"text": text, "statutes": list(self._statute_hits)}
 
     # ---------- Claude call ----------
 
@@ -254,7 +375,7 @@ class ChatWrapper:
             thinking={"type": "adaptive"},
             output_config={"effort": self.effort},
             system=self._system_blocks(),
-            tools=[SEARCH_TOOL, COURTLISTENER_TOOL],
+            tools=[SEARCH_TOOL, GET_STATUTE_TOOL, LIST_JURISDICTIONS_TOOL, COURTLISTENER_TOOL],
             messages=messages,
         )
 
@@ -321,17 +442,33 @@ class ChatWrapper:
             if getattr(block, "type", None) != "tool_use":
                 continue
             name = block.name
+            args = dict(block.input or {})
             try:
                 if name == "search_statutes":
+                    raw_factors = args.get("factors") or []
+                    if not isinstance(raw_factors, list):
+                        raw_factors = []
+                    allowed = set(FACTOR_CATEGORIES)
+                    factor_list = [
+                        f for f in raw_factors
+                        if isinstance(f, str) and f in allowed
+                    ]
                     text = self._run_search(
-                        block.input.get("query", ""),
-                        int(block.input.get("top_k", 5)),
+                        args.get("query", ""),
+                        int(args.get("top_k") or 8),
+                        args.get("jurisdiction"),
+                        args.get("code"),
+                        factor_list or None,
                     )
+                elif name == "get_statute":
+                    text = self._run_get_statute(args.get("id", ""))
+                elif name == "list_jurisdictions":
+                    text = self._run_list_jurisdictions()
                 elif name == "search_courtlistener":
                     text = self._run_courtlistener(
-                        block.input.get("query", ""),
-                        block.input.get("court", "") or "",
-                        int(block.input.get("top_k", 5)),
+                        args.get("query", ""),
+                        args.get("court", "") or "",
+                        int(args.get("top_k") or 5),
                     )
                 else:
                     text = f"Unknown tool: {name}"
@@ -348,6 +485,82 @@ class ChatWrapper:
                     "is_error": True,
                 })
         return results
+
+    # ---------- Postgres helpers ----------
+
+    @contextmanager
+    def _pg_conn(self):
+        import psycopg
+        from psycopg.rows import dict_row
+
+        conn = psycopg.connect(self.statutes_dsn, row_factory=dict_row)
+        try:
+            yield conn
+        finally:
+            conn.close()
+
+    # Mirror of api.main._pg_row_to_statute. Duplicated here to avoid a circular
+    # import (api.main imports ChatWrapper lazily). Keep the two in sync.
+    @staticmethod
+    def _pg_row_to_statute(row: dict) -> dict:
+        citation = (row.get("canonical_citation") or "").strip()
+        title = (row.get("title") or "").strip() or citation or "(untitled)"
+        full = (row.get("complete_statute") or "").strip()
+
+        summary = (row.get("plain_english_summary") or "").strip()
+        if not summary:
+            summary = full[:240]
+            if len(full) > 240:
+                summary += "…"
+
+        jurisdiction_code = (row.get("jurisdiction_code") or "").strip()
+        publisher = (
+            (row.get("source_name") or "").strip()
+            or _PG_PUBLISHER_BY_JURISDICTION.get(jurisdiction_code)
+            or "Legislature"
+        )
+
+        updated_at = row.get("updated_at")
+        last_verified = str(updated_at).split(" ")[0] if updated_at else ""
+
+        return {
+            "id": str(row.get("id")),
+            "jurisdiction": jurisdiction_code,
+            "jurisdictionLabel": (row.get("jurisdiction_name") or jurisdiction_code).strip(),
+            "code": (row.get("code_name") or "").strip(),
+            "section": (row.get("section_number") or "").strip(),
+            "title": title,
+            "summary": summary,
+            "text": full,
+            "factors": list(row.get("factors") or []),
+            "related": [],
+            "cases": [],
+            "source": {
+                "publisher": publisher,
+                "url": (row.get("source_url") or "").strip(),
+            },
+            "lastVerified": last_verified,
+        }
+
+    def _record_statute_hit(self, row: dict, *, replace: bool = False) -> None:
+        """Append a statute row (FE-shaped) to the per-turn accumulator.
+
+        `replace=True` swaps any existing hit with the same id — used by
+        `get_statute` so the richer full-text payload wins over a prior
+        `search_statutes` snippet.
+        """
+        statute = self._pg_row_to_statute(row)
+        sid = statute["id"]
+        if sid in self._statute_hit_ids:
+            if not replace:
+                return
+            for i, existing in enumerate(self._statute_hits):
+                if existing["id"] == sid:
+                    self._statute_hits[i] = statute
+                    return
+            return
+        self._statute_hit_ids.add(sid)
+        self._statute_hits.append(statute)
 
     @staticmethod
     def _run_courtlistener(query: str, court: str, top_k: int) -> str:
@@ -420,53 +633,211 @@ class ChatWrapper:
 
         return "\n\n".join(lines)
 
-    def _run_search(self, query: str, top_k: int) -> str:
+    def _run_search(
+        self,
+        query: str,
+        top_k: int,
+        jurisdiction: Optional[str] = None,
+        code: Optional[str] = None,
+        factors: Optional[list[str]] = None,
+    ) -> str:
+        """Keyword + factor search over the curated Postgres statutes table.
+
+        At least one of ``query`` / ``factors`` must be set. Keyword tokens
+        AND-combine across title / citation / full text. Factors any-of via
+        Postgres array overlap. Returns at most ``top_k`` hits formatted for
+        Claude to cite.
+        """
         query = (query or "").strip()
-        if not query:
-            return "No query was provided."
+        top_k = max(1, min(int(top_k or 8), 25))
 
-        top_k = max(1, min(int(top_k or 5), 12))
-        hits = self.index.search(query, top_k=top_k)
-        if not hits:
-            return f"No statute excerpts found for query: {query!r}"
+        where_parts: list[str] = []
+        params: list[Any] = []
 
-        lines = [f"Found {len(hits)} excerpt(s) for query {query!r}:"]
-        for i, h in enumerate(hits, 1):
-            doc = self.db.get_document(h["doc_id"]) or {}
-            meta = doc.get("metadata") or {}
-            url = doc.get("source_url", "")
-            is_upload = bool(meta.get("upload"))
-            is_verdict = meta.get("kind") == "verdict"
+        tokens = [t for t in re.split(r"\s+", query) if t]
+        for tok in tokens:
+            like = f"%{tok}%"
+            where_parts.append(
+                "(title ILIKE %s OR canonical_citation ILIKE %s OR complete_statute ILIKE %s)"
+            )
+            params.extend([like, like, like])
 
-            if is_upload:
-                fn = (meta.get("filename") or url.replace("upload://", "") or "uploaded").strip()
-                header = f"[UPLOADED DOCUMENT: {fn}]"
-            elif is_verdict:
-                # Pull the structured Verdict extraction so chat sees the dollar amount.
-                exts = self.db.get_extractions_for_doc(h["doc_id"])
-                v = next((e["data"] for e in exts if e.get("schema_name") == "Verdict"), None) or {}
-                case = v.get("case_name") or meta.get("case_name") or "(case)"
-                amt = v.get("total_amount_usd")
-                amt_str = f"${amt:,.0f}" if isinstance(amt, (int, float)) and amt else "n/a"
-                jur = v.get("jurisdiction") or ""
-                tail = f" — {jur}" if jur else ""
-                header = f"[VERDICT: {case} — {amt_str}{tail}]"
-            else:
-                cit = (meta.get("citation") or "").strip()
-                sec = (meta.get("section") or "").strip()
-                header = f"{cit} § {sec}".strip(" §") or url or "(unknown)"
+        if jurisdiction:
+            where_parts.append("jurisdiction_code = %s")
+            params.append(jurisdiction.strip().upper())
+        if code:
+            where_parts.append("code_name ILIKE %s")
+            params.append(f"%{code.strip()}%")
+        if factors:
+            cleaned = [f for f in (s.strip() for s in factors) if f]
+            if cleaned:
+                where_parts.append("factors && %s::text[]")
+                params.append(cleaned)
 
-            excerpt = (h.get("text") or "").strip().replace("\n", " ")
-            if len(excerpt) > 800:
-                excerpt = excerpt[:800] + "…"
+        if not where_parts:
+            return (
+                "search_statutes requires at least one of `query` or `factors`."
+            )
+        where_sql = " AND ".join(where_parts)
 
+        params.append(top_k)
+        # Fetch the full row so we can both (a) format a snippet for Claude and
+        # (b) record an FE-shaped statute hit for the UI to render as a card.
+        sql = f"""
+            SELECT
+                id::text AS id,
+                jurisdiction_code,
+                jurisdiction_name,
+                code_name,
+                section_number,
+                canonical_citation,
+                title,
+                complete_statute,
+                plain_english_summary,
+                source_url,
+                source_name,
+                factors,
+                updated_at
+            FROM statutes
+            WHERE {where_sql}
+            ORDER BY jurisdiction_code, section_number
+            LIMIT %s
+        """
+
+        try:
+            with self._pg_conn() as c:
+                rows = c.execute(sql, params).fetchall()
+        except Exception as e:
+            return (
+                f"Statute database is unreachable ({e}). "
+                f"Verify Postgres is running on 5433 (new_api/docker-compose.yml)."
+            )
+
+        # Build a human-readable description of the filter set for the
+        # "no results" / header lines so Claude knows what was searched.
+        descr_parts: list[str] = []
+        if query:
+            descr_parts.append(f"query={query!r}")
+        if factors:
+            descr_parts.append(f"factors={factors}")
+        if jurisdiction:
+            descr_parts.append(f"jurisdiction={jurisdiction.upper()}")
+        if code:
+            descr_parts.append(f"code~={code!r}")
+        descr = ", ".join(descr_parts) or "(no filters)"
+
+        if not rows:
+            return f"No statutes matched: {descr}"
+
+        lines = [f"Found {len(rows)} statute(s) for {descr}:"]
+        for i, r in enumerate(rows, 1):
+            citation = (r.get("canonical_citation") or "").strip()
+            title = (r.get("title") or "").strip()
+            jc = r.get("jurisdiction_code") or ""
+            cn = r.get("code_name") or ""
+            sec = r.get("section_number") or ""
+            url = r.get("source_url") or ""
+            row_factors = list(r.get("factors") or [])
+            full_text = (r.get("complete_statute") or "").strip()
+            snippet = full_text[:500].replace("\n", " ")
+            if len(full_text) > 500:
+                snippet = snippet + "…"
+
+            header = citation or f"{jc} {cn} § {sec}".strip()
             block = [f"[{i}] {header}"]
-            if url and not is_upload:
+            block.append(f"    id: {r.get('id')}")
+            if title:
+                block.append(f"    title: {title}")
+            if row_factors:
+                block.append(f"    factors: {', '.join(row_factors)}")
+            if url:
                 block.append(f"    source: {url}")
-            block.append(f"    excerpt: {excerpt}")
+            block.append(f"    excerpt: {snippet}")
             lines.append("\n".join(block))
 
+            # Record this statute for the UI. `search_statutes` results don't
+            # overwrite an existing hit (a prior `get_statute` would be richer).
+            self._record_statute_hit(dict(r), replace=False)
+
         return "\n\n".join(lines)
+
+    def _run_get_statute(self, statute_id: str) -> str:
+        statute_id = (statute_id or "").strip()
+        if not statute_id:
+            return "No id was provided."
+
+        sql = """
+            SELECT
+                id::text AS id,
+                jurisdiction_code,
+                jurisdiction_name,
+                code_name,
+                section_number,
+                canonical_citation,
+                title,
+                complete_statute,
+                plain_english_summary,
+                source_url,
+                source_name,
+                factors,
+                updated_at
+            FROM statutes
+            WHERE id::text = %s
+        """
+        try:
+            with self._pg_conn() as c:
+                row = c.execute(sql, [statute_id]).fetchone()
+        except Exception as e:
+            return f"Statute database is unreachable ({e})."
+
+        if not row:
+            return f"No statute found with id {statute_id!r}."
+
+        # Record the full-text hit. `replace=True` so a prior search snippet
+        # (if any) is replaced by this richer payload.
+        self._record_statute_hit(dict(row), replace=True)
+
+        body = (row.get("complete_statute") or "").strip()
+        if len(body) > 6000:
+            body = body[:6000] + "\n…[truncated]"
+
+        return (
+            f"{row.get('canonical_citation') or ''}\n"
+            f"id: {row.get('id')}\n"
+            f"title: {row.get('title') or ''}\n"
+            f"jurisdiction: {row.get('jurisdiction_name')} ({row.get('jurisdiction_code')})\n"
+            f"code: {row.get('code_name')} § {row.get('section_number')}\n"
+            f"source: {row.get('source_url') or ''}\n\n"
+            f"--- full text ---\n{body}"
+        )
+
+    def _run_list_jurisdictions(self) -> str:
+        sql = """
+            SELECT
+                jurisdiction_code,
+                jurisdiction_name,
+                code_name,
+                COUNT(*) AS n
+            FROM statutes
+            GROUP BY jurisdiction_code, jurisdiction_name, code_name
+            ORDER BY jurisdiction_code, code_name
+        """
+        try:
+            with self._pg_conn() as c:
+                rows = c.execute(sql).fetchall()
+        except Exception as e:
+            return f"Statute database is unreachable ({e})."
+
+        if not rows:
+            return "No statutes loaded."
+
+        lines = ["Available jurisdictions / codes:"]
+        for r in rows:
+            lines.append(
+                f"  {r['jurisdiction_code']} ({r['jurisdiction_name']}) — "
+                f"{r['code_name']}: {r['n']} statutes"
+            )
+        return "\n".join(lines)
 
     # ---------- response parsing ----------
 

@@ -1,0 +1,80 @@
+{
+  "id": "CACI-552",
+  "edition": "2026",
+  "number": "552",
+  "title": "Affirmative Defense—Simple Procedure",
+  "title_full": "Affirmative Defense—Simple Procedure",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 568,
+  "page_end": 569,
+  "instruction_text": "552. Affirmative Defense–Simple Procedure\n[Name of defendant ] claims that [he/she/ nonbinary pronoun] did not have\nto inform [ name of plaintiff ] of the risks of [a/an] [ insert medical\nprocedure]. [A/An] [ insert type of medical practitioner ] is not required to\ntell a patient about the dangers of a simple procedure if it is commonly\nunderstood that the dangers are not likely to occur.\nIf [ name of defendant ] has proved that [a/an] [ insert medical procedure ] is\na simple procedure, and that it is commonly understood that any\ndangers are not likely to occur, then [ name of defendant ] was not required\nto inform [ name of plaintiff ] of the risks.",
+  "directions_for_use": "The court should instruct the jury on the defenses available to a doctor who has\nfailed to make the disclosure required by law. ( Cobbs v. Grant (1972) 8 Cal. 3d 229,\n245 [104 Cal. Rptr. 505, 502 P.2d 1].) This instruction could be modiﬁed to cover\n\"informed refusal\" cases (see CACI No. 534, Informed Refusal–Deﬁnition , and\nCACI No. 535, Risks of Nontreatment–Essential Factual Elements ) by redrafting it\nto state, in substance, that the risks of refusing the test were commonly understood\nto be unlikely to occur.",
+  "sources_and_authority": [
+    {
+      "raw": "\"[D]isclosure need not be made if the procedure is simple and the danger remote\nand commonly appreciated to be remote.\" ( Cobbs, supra , 8 Cal. 3d at p. 245.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]here is no physician's duty to discuss the relatively minor risks inherent in\ncommon procedures, when it is common knowledge that such risks inherent in\nthe procedure are of very low incidence.\" ( Cobbs, supra, 8 Cal. 3d at p. 244.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"We note that under our law justiﬁcation is regarded as an affirmative defense\nand that the defendant normally bears the burden of proof with respect to\naffirmative defenses.\" ( Mathis v. Morrissey (1992) 11 Cal. App.4th 332, 347, fn.\n9 [13 Cal. Rptr.2d 819].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Mathis v. Morrissey",
+          "year": 1992,
+          "volume": 11,
+          "reporter": "Cal.App.4th",
+          "page": 332,
+          "pin": "347",
+          "raw": "Mathis v. Morrissey (1992) 11 Cal. App.4th 332, 347",
+          "span": [
+            178,
+            229
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§466, 469\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §9.11\n3 Levy et al., California Torts, Ch. 31, Liability of Physicians and Other Medical\nPractitioners, §31.14 (Matthew Bender)\n6 California Forms of Pleading and Practice, Ch. 58, Assault and Battery , §58.14\n(Matthew Bender)\n36 California Forms of Pleading and Practice, Ch. 415, Physicians: Medical\n494\nMalpractice, §415.13 (Matthew Bender)\n33 California Legal Forms, Ch. 104, Health Care Transactions, Consents, and\nDirectives, §104.11 (Matthew Bender)\nMEDICAL NEGLIGENCE CACI No. 552\n495",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Mathis v. Morrissey",
+      "year": 1992,
+      "volume": 11,
+      "reporter": "Cal.App.4th",
+      "page": 332,
+      "pin": "347",
+      "raw": "Mathis v. Morrissey (1992) 11 Cal. App.4th 332, 347",
+      "span": [
+        178,
+        229
+      ],
+      "role": "sources",
+      "case_key": "11 Cal.App.4th 332"
+    },
+    {
+      "name": "Cobbs v. Grant",
+      "year": 1972,
+      "volume": 8,
+      "reporter": "Cal.3d",
+      "page": 229,
+      "pin": "245",
+      "raw": "Cobbs v. Grant (1972) 8 Cal. 3d 229, 245",
+      "span": [
+        130,
+        170
+      ],
+      "role": "directions",
+      "case_key": "8 Cal.3d 229"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

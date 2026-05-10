@@ -1,0 +1,314 @@
+{
+  "id": "CACI-4920",
+  "edition": "2026",
+  "number": "4920",
+  "title": "Wrongful Foreclosure—Essential Factual Elements",
+  "title_full": "Wrongful Foreclosure—Essential Factual Elements",
+  "title_statute": null,
+  "series": "4900",
+  "series_title": "Series 4900 Real Property Law",
+  "page_start": 3323,
+  "page_end": 3327,
+  "instruction_text": "4920. Wrongful Foreclosure–Essential Factual Elements\n[Name of plaintiff ] claims that [ name of defendant ] wrongly foreclosed on\n[name of plaintiff ]'s [home/ specify other real property ]. In order to\nestablish a wrongful foreclosure, [ name of plaintiff ] must prove all of the\nfollowing:\n1. That [ name of defendant ] caused a foreclosure sale of [ name of\nplaintiff]'s [home/ specify other real property ] under a power of sale\nin a [mortgage/deed of trust];\n2. That this sale was wrongful because [ specify reason(s) supporting\nillegality, fraud, or willful oppression ];\n3. That [ name of plaintiff ] [tendered all amounts that were due under\nthe loan secured by the [mortgage/deed of trust], but [ name of\ndefendant] refused the tender]/[was excused from tendering all\namounts that were due under loan secured by the [mortgage/deed\nof trust]];\n4. [That [ name of plaintiff ] was not materially in breach of any other\ncondition and had not failed to perform any other material\nrequirement of the loan agreement that would otherwise justify\nthe foreclosure;]\n5. That [ name of plaintiff ] was harmed; and\n6. That [ name of defendant ]'s actions were a substantial factor in\ncausing [ name of plaintiff ]'s harm.",
+  "directions_for_use": "Use this instruction for a claim for wrongful foreclosure.\nFor element 3, use the optional language depending on the circumstances. If plaintiff\nclaims that tender is excused, give CACI No. 4921, Wrongful Foreclosure–Tender\nExcused.\nThere is a split in authority as to whether the plaintiff must prove element 4.\n(Compare Turner v. Seterus, Inc. (2018) 27 Cal. App.5th 516, 525 [238 Cal. Rptr.3d\n528] [stating the elements of a wrongful foreclosure claim without element 4] with\nMajd v. Bank of America, N.A. (2015) 243 Cal. App.4th 1293, 1306–1307 [197\nCal. Rptr.3d 151] [including element 4 as a basic element of a wrongful foreclosure\nclaim].) If the defendant does not claim that the plaintiff is in material breach of\nsome loan condition, however, omit element 4.\n1437",
+  "sources_and_authority": [
+    {
+      "raw": "Curing Default. Civil Code section 2924c.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2924",
+          "display": "Civil Code section 2924",
+          "raw": "Civil Code section 2924",
+          "span": [
+            16,
+            39
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The elements of the tort of wrongful foreclosure are: ' \"(1) the trustee or\nmortgagee caused an illegal, fraudulent, or willfully oppressive sale of real\nproperty pursuant to a power of sale in a mortgage or deed of trust; (2) the party\nattacking the sale (usually but not always the trustor or mortgagor) was\nprejudiced or harmed; and (3) in cases where the trustor or mortgagor challenges\nthe sale, the trustor or mortgagor tendered the amount of the secured\nindebtedness or was excused from tendering\" '; and (4) ' \"no breach of condition\nor failure of performance existed on the mortgagor's or trustor's part which\nwould have authorized the foreclosure or exercise of the power of sale.\" ' \"\n(Majd, supra, 243 Cal. App.4th at pp. 1306–1307 [197 Cal. Rptr.3d 151].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'The basic elements of a tort cause of action for wrongful foreclosure track the\nelements of an equitable cause of action to set aside a foreclosure sale. They are:\n\"(1) the trustee or mortgagee caused an illegal, fraudulent, or willfully\noppressive sale of real property pursuant to a power of sale in a mortgage or\ndeed of trust; (2) the party attacking the sale (usually but not always the trustor\nor mortgagor) was prejudiced or harmed; and (3) in cases where the trustor or\nmortgagor challenges the sale, the trustor or mortgagor tendered the amount of\nthe secured indebtedness or was excused from tendering.\" ' \" ( Daniels v. Select\nPortfolio Servicing, Inc. (2016) 246 Cal. App.4th 1150, 1184–1185 [201\nCal. Rptr.3d 390].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Daniels v. Select Portfolio Servicing, Inc.",
+          "year": 2016,
+          "volume": 246,
+          "reporter": "Cal.App.4th",
+          "page": 1150,
+          "pin": "1184–1185",
+          "raw": "Daniels v. Select Portfolio Servicing, Inc. (2016) 246 Cal. App.4th 1150, 1184–1185",
+          "span": [
+            623,
+            706
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Justiﬁcations for setting aside a trustee's sale from the reported cases, which\nsatisfy the ﬁrst element, include the trustee's or the beneﬁciary's failure to\ncomply with the statutory procedural requirements for the notice or conduct of\nthe sale. Other grounds include proof that (1) the trustee did not have the power\nto foreclose; (2) the trustor was not in default, no breach had occurred, or the\nlender had waived the breach; or (3) the deed of trust was void.\" ( Lona v.\nCitibank, N.A. (2011) 202 Cal. App.4th 89, 104–105 [134 Cal. Rptr.3d 622],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Wrongful foreclosure is a common law tort claim.\" ( Turner , supra, 27\nCal. App.5th at p. 525.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[A] trustee or mortgagee may be liable to the trustor or mortgagor for damages\nsustained where there has been an illegal, fraudulent or wil[l]fully oppressive\nsale of property under a power of sale contained in a mortgage or deed of trust.\n[Citations.] This rule of liability is also applicable in California, we believe,\nupon the basic principle of tort liability declared in the Civil Code that every\nperson is bound by law not to injure the person or property of another or\ninfringe on any of his rights.\" ( Miles v. Deutsche Bank National Trust Co.\n(2015) 236 Cal. App.4th 394, 408 [186 Cal. Rptr.3d 625].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Miles v. Deutsche Bank National Trust Co.",
+          "year": 2015,
+          "volume": 236,
+          "reporter": "Cal.App.4th",
+          "page": 394,
+          "pin": "408",
+          "raw": "Miles v. Deutsche Bank National Trust Co. (2015) 236 Cal. App.4th 394, 408",
+          "span": [
+            512,
+            586
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"To successfully challenge a foreclosure sale based on a procedural irregularity,\nthe plaintiff must show both that there was a failure to comply with the\nprocedural requirements for the foreclosure sale and that the irregularity\nCACI No. 4920 REAL PROPERTY LAW\n1438\nprejudiced the plaintiff.\" ( Citrus El Dorado, LLC v. Chicago Title Co. (2019) 32\nCal. App.5th 943, 950 [244 Cal. Rptr.3d 372].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Citrus El Dorado, LLC v. Chicago Title Co.",
+          "year": 2019,
+          "volume": 32,
+          "reporter": "Cal.App.5th",
+          "page": 943,
+          "pin": "950",
+          "raw": "Citrus El Dorado, LLC v. Chicago Title Co. (2019) 32 Cal. App.5th 943, 950",
+          "span": [
+            296,
+            370
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[M]ere technical violations of the foreclosure process will not give rise to a tort\nclaim; the foreclosure must have been entirely unauthorized on the facts of the\ncase. This is a sound addition.\" ( Miles, supra, 236 Cal. App.4th at p. 409.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" '[O]nly the entity currently entitled to enforce a debt may foreclose on the\nmortgage or deed of trust securing that debt . . . .' 'It is no mere \"procedural\nnicety,\" from a contractual point of view, to insist that only those with authority\nto foreclose on a borrower be permitted to do so.' \" ( Sciarratta v. U.S. Bank\nNational Assn . (2016) 247 Cal. App.4th 552, 562 [202 Cal. Rptr.3d 219], internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]here a mortgagee or trustee makes an unauthorized sale under a power of\nsale he and his principal are liable to the mortgagor for the value of the property\nat the time of the sale in excess of the mortgages and liens against said\nproperty.\" (Miles, supra, 236 Cal. App.4th at p. 409.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[L]ost equity in the property . . . is a recoverable item of damages. It is not,\nhowever, the only recoverable item of damages. Wrongfully foreclosing on\nsomeone's home is likely to cause other sorts of damages, such as moving\nexpenses, lost rental income (which plaintiff claims here), and damage to credit.\nIt may also result in emotional distress (which plaintiff also claims here). As is\nthe case in a wrongful eviction cause of action, ' \"The recovery includes all\nconsequential damages occasioned by the wrongful eviction (personal injury,\nincluding inﬂiction of emotional distress, and property damage) . . . and, upon a\nproper showing . . . , punitive damages.\" ' \" ( Miles, supra, 236 Cal. App.4th at p.\n409.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Civil Code section 2924c thus limits the beneﬁciary's contractual power of sale\nby giving the trustor a right to cure a default and reinstate the loan within the\nstated time, even if the beneﬁciary does not voluntarily agree. ' \"The law does\nnot require plaintiff to tender the purchase price to a trustee who has no right to\nsell the property at all.\" ' To adequately plead a cause of action for wrongful\nforeclosure, all plaintiffs had to allege was that they met their statutory\nobligation by timely tendering the amount required by Civil Code section 2924c\nto stop the foreclosure sale, but [defendant] refused that tender and thus allowed\nthe foreclosure sale to go forward when [defendant] should have accepted their\ntender and canceled the sale. Plaintiffs did so. If [defendant] had accepted the\ntender, which [defendant's employee] stated was sufficient to cure the default, a\nrescission of the foreclosure sale and reinstatement of the loan was mandatory,\nand the subsequent sale was without legal basis and void . . . .\" ( Turner , supra,\n27 Cal. App.5th at pp. 530–531, original italics, internal citations omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2924",
+          "display": "Civil Code section 2924",
+          "raw": "Civil Code section 2924",
+          "span": [
+            1,
+            24
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2924",
+          "display": "Civil Code section 2924",
+          "raw": "Civil Code section 2924",
+          "span": [
+            537,
+            560
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\" '[A] tender is an offer of performance . . . .' Subdivision (a)(1) of Civil Code\nsection 2924c provides in pertinent part that '[w]henever all or a portion of the\nprincipal sum of any obligation secured by deed of trust . . . has . . . been\ndeclared due by reason of default in payment of interest or of any installment of\nREAL PROPERTY LAW CACI No. 4920\n1439\nprincipal . . . , the trustor . . . may pay to the beneﬁciary . . . the entire\namount due, at the time payment is tendered . . . other than the portion of\nprincipal as would not then be due had no default occurred, and thereby cure the\ndefault theretofore existing, and thereupon, all proceedings theretofore had or\ninstituted shall be dismissed or discontinued and the obligation and deed of trust\n. . . shall be reinstated and shall be and remain in force and effect . . . .' Here,\nfor purposes of Civil Code section 2924c, [plaintiff] effectively tendered\npayment of the amount then due when he told [an agent of defendant] that he\nwould like to pay off the entire amount of the default. Actual submission of a\npayment was not required.\" ( Turner , supra, 27 Cal. App.5th pp. 531–532.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2924",
+          "display": "Civil Code section 2924",
+          "raw": "Civil Code\nsection 2924",
+          "span": [
+            72,
+            95
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2924",
+          "display": "Civil Code section 2924",
+          "raw": "Civil Code section 2924",
+          "span": [
+            862,
+            885
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"A tender is an unconditional offer to perform an order to extinguish an\nobligation.\" ( Crossroads Investors, L.P . v. Federal National Mortgage\nAssociation (2017) 13 Cal. App.5th 757, 783 [222 Cal. Rptr.3d 1].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The third element–tender–requires the trustor to make 'an offer to pay the\nfull amount of the debt for which the property was security.' \" ( Ram v. OneWest\nBank, FSB (2015) 234 Cal. App.4th 1, 11 [183 Cal. Rptr.3d 638].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'A full tender must be made to set aside a foreclosure sale, based on equitable\nprinciples.' Courts, however, have not required tender when the lender has not\nyet foreclosed and has allegedly violated laws related to avoiding the necessity\nfor a foreclosure.\" ( Pfeifer v. Countrywide Home Loans, Inc. (2012) 211\nCal. App.4th 1250, 1280 [150 Cal. Rptr.3d 673], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Pfeifer v. Countrywide Home Loans, Inc.",
+          "year": 2012,
+          "volume": 211,
+          "reporter": "Cal.App.4th",
+          "page": 1250,
+          "pin": "1280",
+          "raw": "Pfeifer v. Countrywide Home Loans, Inc. (2012) 211 Cal. App.4th 1250, 1280",
+          "span": [
+            264,
+            338
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" Pfeifer[, supra, 211 Cal. App.4th 1250] and the other tender cases are\ninapplicable here because [plaintiff] has not sued to set aside or prevent a\nforeclosure sale. In the sixth cause of action, he sought to quiet title to the\nproperty, which he cannot do without paying the outstanding indebtedness.\"\n(Lueras v. BAC Home Loans Servicing, LP (2013) 221 Cal. App.4th 49, 87 [163\nCal. Rptr.3d 804].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Here, neither the deed of trust nor the governing statutes expressly create a duty\non the part of [defendant] to verify that the beneﬁciary received a valid\nassignment of the loan or to verify the authority of the person who signed the\nsubstitution of trustee. [Plaintiff] has not cited, and we have not discovered, any\nauthority holding a trustee liable for wrongful foreclosure or any other cause of\naction based on similar purported failures to investigate. To the contrary, the\ntrustee generally 'has no duty to take any action except on the express\ninstructions of the parties or as expressly provided in the deed of trust and the\napplicable statutes.' \" ( Citrus El Dorado, LLC, supra, 32 Cal. App.5th at pp.\n948–949.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "4 Witkin, Summary of California Law (11th ed. 2017) Secured Transactions in Real\nProperty, §153 et seq.\n5 California Real Estate Law and Practice, Ch. 123, Nonjudicial Foreclosure,\n§123.14 (Matthew Bender)\n48 California Forms of Pleading and Practice, Ch. 555, Trust Deeds and Real\nCACI No. 4920 REAL PROPERTY LAW\n1440\nProperty Mortgages, §555.54 (Matthew Bender)\n23 California Points and Authorities, Ch. 230, Trust Deeds and Real Property\nMortgages, §230.72 (Matthew Bender)\nREAL PROPERTY LAW CACI No. 4920\n1441",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "2924",
+      "display": "Civil Code section 2924",
+      "raw": "Civil Code section 2924",
+      "span": [
+        16,
+        39
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/2924"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Daniels v. Select Portfolio Servicing, Inc.",
+      "year": 2016,
+      "volume": 246,
+      "reporter": "Cal.App.4th",
+      "page": 1150,
+      "pin": "1184–1185",
+      "raw": "Daniels v. Select Portfolio Servicing, Inc. (2016) 246 Cal. App.4th 1150, 1184–1185",
+      "span": [
+        623,
+        706
+      ],
+      "role": "sources",
+      "case_key": "246 Cal.App.4th 1150"
+    },
+    {
+      "name": "Miles v. Deutsche Bank National Trust Co.",
+      "year": 2015,
+      "volume": 236,
+      "reporter": "Cal.App.4th",
+      "page": 394,
+      "pin": "408",
+      "raw": "Miles v. Deutsche Bank National Trust Co. (2015) 236 Cal. App.4th 394, 408",
+      "span": [
+        512,
+        586
+      ],
+      "role": "sources",
+      "case_key": "236 Cal.App.4th 394"
+    },
+    {
+      "name": "Citrus El Dorado, LLC v. Chicago Title Co.",
+      "year": 2019,
+      "volume": 32,
+      "reporter": "Cal.App.5th",
+      "page": 943,
+      "pin": "950",
+      "raw": "Citrus El Dorado, LLC v. Chicago Title Co. (2019) 32 Cal. App.5th 943, 950",
+      "span": [
+        296,
+        370
+      ],
+      "role": "sources",
+      "case_key": "32 Cal.App.5th 943"
+    },
+    {
+      "name": "Pfeifer v. Countrywide Home Loans, Inc.",
+      "year": 2012,
+      "volume": 211,
+      "reporter": "Cal.App.4th",
+      "page": 1250,
+      "pin": "1280",
+      "raw": "Pfeifer v. Countrywide Home Loans, Inc. (2012) 211 Cal. App.4th 1250, 1280",
+      "span": [
+        264,
+        338
+      ],
+      "role": "sources",
+      "case_key": "211 Cal.App.4th 1250"
+    },
+    {
+      "name": "Compare Turner v. Seterus, Inc.",
+      "year": 2018,
+      "volume": 27,
+      "reporter": "Cal.App.5th",
+      "page": 516,
+      "pin": "525",
+      "raw": "Compare Turner v. Seterus, Inc. (2018) 27 Cal. App.5th 516, 525",
+      "span": [
+        314,
+        377
+      ],
+      "role": "directions",
+      "case_key": "27 Cal.App.5th 516"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

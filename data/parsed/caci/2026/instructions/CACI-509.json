@@ -1,0 +1,128 @@
+{
+  "id": "CACI-509",
+  "edition": "2026",
+  "number": "509",
+  "title": "Abandonment of Patient",
+  "title_full": "Abandonment of Patient",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 527,
+  "page_end": 527,
+  "instruction_text": "509. Abandonment of Patient\n[Name of plaintiff ] claims [ name of defendant ] was negligent because [he/\nshe/nonbinary pronoun] did not give [ name of patient ] enough notice\nbefore withdrawing from the case. To succeed, [ name of plaintiff ] must\nprove both of the following:\n1. That [ name of defendant ] withdrew from [ name of patient ]'s care\nand treatment; and\n2. That [ name of defendant ] did not provide sufficient notice for\n[name of patient ] to obtain another medical practitioner.\nHowever, [name of defendant ] was not negligent if [he/she/ nonbinary\npronoun] proves that [ name of patient ] consented to the withdrawal or\ndeclined further medical care.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"[A] physician who abandons a patient may do so 'only . . . after due notice,\nand an ample opportunity afforded to secure the presence of other medical\nattendance.' \" ( Payton v. Weaver (1982) 131 Cal. App.3d 38, 45 [182 Cal. Rptr.\n225], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Payton v. Weaver",
+          "year": 1982,
+          "volume": 131,
+          "reporter": "Cal.App.3d",
+          "page": 38,
+          "pin": "45",
+          "raw": "Payton v. Weaver (1982) 131 Cal. App.3d 38, 45",
+          "span": [
+            169,
+            215
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A physician cannot just walk away from a patient after accepting the patient for\ntreatment. . . . In the absence of the patient's consent, the physician must notify\nthe patient he is withdrawing and allow ample opportunity to secure the presence\nof another physician.\" ( Hongsathavij v. Queen of Angels/Hollywood Presbyterian\nMedical Center (1998) 62 Cal. App.4th 1123, 1138 [73 Cal. Rptr.2d 695].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Abandonment as a theory warrants CACI No. 509 only where there is evidence\nthat the physician has accepted responsibility for the patient and then has\nwithdrawn without giving enough notice to ensure timely continuity of\ntreatment.\" ( Zannini v. Liker (2022) 74 Cal. App.5th 610, 627 [289 Cal. Rptr.3d\n712].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Zannini v. Liker",
+          "year": 2022,
+          "volume": 74,
+          "reporter": "Cal.App.5th",
+          "page": 610,
+          "pin": "627",
+          "raw": "Zannini v. Liker (2022) 74 Cal. App.5th 610, 627",
+          "span": [
+            236,
+            284
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"When a competent, informed adult directs the withholding or withdrawal of\nmedical treatment, even at the risk of hastening or causing death, medical\nprofessionals who respect that determination will not incur criminal or civil\nliability: the patient's decision discharges the physician's duty.\" ( Thor v. Superior\nCourt (1993) 5 Cal. 4th 725, 743 [21 Cal. Rptr.2d 357, 855 P.2d 375].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Thor v. Superior Court",
+          "year": 1993,
+          "volume": 5,
+          "reporter": "Cal.4th",
+          "page": 725,
+          "pin": "743",
+          "raw": "Thor v. Superior Court (1993) 5 Cal. 4th 725, 743",
+          "span": [
+            298,
+            347
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "California Tort Guide (Cont.Ed.Bar 3d ed.) §9.8\n3 Levy et al., California Torts, Ch. 31, Liability of Physicians and Other Medical\nPractitioners, §31.42 (Matthew Bender)\n453",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Payton v. Weaver",
+      "year": 1982,
+      "volume": 131,
+      "reporter": "Cal.App.3d",
+      "page": 38,
+      "pin": "45",
+      "raw": "Payton v. Weaver (1982) 131 Cal. App.3d 38, 45",
+      "span": [
+        169,
+        215
+      ],
+      "role": "sources",
+      "case_key": "131 Cal.App.3d 38"
+    },
+    {
+      "name": "Zannini v. Liker",
+      "year": 2022,
+      "volume": 74,
+      "reporter": "Cal.App.5th",
+      "page": 610,
+      "pin": "627",
+      "raw": "Zannini v. Liker (2022) 74 Cal. App.5th 610, 627",
+      "span": [
+        236,
+        284
+      ],
+      "role": "sources",
+      "case_key": "74 Cal.App.5th 610"
+    },
+    {
+      "name": "Thor v. Superior Court",
+      "year": 1993,
+      "volume": 5,
+      "reporter": "Cal.4th",
+      "page": 725,
+      "pin": "743",
+      "raw": "Thor v. Superior Court (1993) 5 Cal. 4th 725, 743",
+      "span": [
+        298,
+        347
+      ],
+      "role": "sources",
+      "case_key": "5 Cal.4th 725"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

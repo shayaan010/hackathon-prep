@@ -1,0 +1,154 @@
+{
+  "id": "CACI-1605",
+  "edition": "2026",
+  "number": "1605",
+  "title": "Intentional Infliction of Emotional Distress—Affirmative Defense—Privileged Conduct",
+  "title_full": "Intentional Infliction of Emotional Distress—Affirmative Defense—Privileged Conduct",
+  "title_statute": null,
+  "series": "1600",
+  "series_title": "Series 1600 Emotional Distress",
+  "page_start": 1063,
+  "page_end": 1063,
+  "instruction_text": "1605. Intentional Inﬂiction of Emotional Distress–Affirmative\nDefense–Privileged Conduct\n[Name of defendant ] claims that [he/she/ nonbinary pronoun] is not\nresponsible for [ name of plaintiff ]'s harm, if any, because [ name of\ndefendant]'s conduct was permissible. To succeed, [ name of defendant ]\nmust prove all of the following:\n1. That [ name of defendant ] was [exercising [his/her/ nonbinary\npronoun] legal right to [ insert legal right ]] [or] [protecting [his/her/\nnonbinary pronoun ] economic interests];\n2. That [ name of defendant ]'s conduct was lawful and consistent with\ncommunity standards; and\n3. That [ name of defendant ] had a good-faith belief that\n[he/she/nonbinary pronoun ] had a legal right to engage in the\nconduct.\nIf you ﬁnd all of the above, then [ name of defendant ]'s conduct was\npermissible.",
+  "directions_for_use": "Whether a given communication is within the privileges afforded by Civil Code\nsection 47 is a legal question for the judge.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Whether treated as an element of the prima facie case or as a matter of defense,\nit must also appear that the defendants' conduct was unprivileged.\" ( Fletcher v.\nWestern National Life Insurance Co. (1970) 10 Cal. App.3d 376, 394 [89\nCal. Rptr. 78].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Fletcher v. Western National Life Insurance Co.",
+          "year": 1970,
+          "volume": 10,
+          "reporter": "Cal.App.3d",
+          "page": 376,
+          "pin": "394",
+          "raw": "Fletcher v. Western National Life Insurance Co. (1970) 10 Cal. App.3d 376, 394",
+          "span": [
+            152,
+            230
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "The statutory privileges that Civil Code section 47 affords to certain oral and\nwritten communications are applicable to claims for intentional inﬂiction of\nemotional distress. ( Agostini v. Strycula (1965) 231 Cal. App.2d 804, 808 [42\nCal. Rptr. 314].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "47",
+          "display": "Civil Code section 47",
+          "raw": "Civil Code section 47",
+          "span": [
+            30,
+            51
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Agostini v. Strycula",
+          "year": 1965,
+          "volume": 231,
+          "reporter": "Cal.App.2d",
+          "page": 804,
+          "pin": "808",
+          "raw": "Agostini v. Strycula (1965) 231 Cal. App.2d 804, 808",
+          "span": [
+            179,
+            231
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The usual formulation is that the [litigation] privilege applies to any\ncommunication (1) made in judicial or quasi-judicial proceedings; (2) by litigants\nor other participants authorized by law; (3) to achieve the objects of the\nlitigation; and (4) that have some connection or logical relation to the action.\"\n(Silberg v. Anderson (1990) 50 Cal. 3d 205, 212 [266 Cal. Rptr. 638, 786 P.2d\n365].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Silberg v. Anderson",
+          "year": 1990,
+          "volume": 50,
+          "reporter": "Cal.3d",
+          "page": 205,
+          "pin": "212",
+          "raw": "Silberg v. Anderson (1990) 50 Cal. 3d 205, 212",
+          "span": [
+            314,
+            360
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Where an employer seeks to protect his own self-interest and that of his\nemployees in good faith and without abusing the privilege afforded him, the\n989",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "47",
+      "display": "Civil Code section 47",
+      "raw": "Civil Code section 47",
+      "span": [
+        30,
+        51
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/47"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Fletcher v. Western National Life Insurance Co.",
+      "year": 1970,
+      "volume": 10,
+      "reporter": "Cal.App.3d",
+      "page": 376,
+      "pin": "394",
+      "raw": "Fletcher v. Western National Life Insurance Co. (1970) 10 Cal. App.3d 376, 394",
+      "span": [
+        152,
+        230
+      ],
+      "role": "sources",
+      "case_key": "10 Cal.App.3d 376"
+    },
+    {
+      "name": "Agostini v. Strycula",
+      "year": 1965,
+      "volume": 231,
+      "reporter": "Cal.App.2d",
+      "page": 804,
+      "pin": "808",
+      "raw": "Agostini v. Strycula (1965) 231 Cal. App.2d 804, 808",
+      "span": [
+        179,
+        231
+      ],
+      "role": "sources",
+      "case_key": "231 Cal.App.2d 804"
+    },
+    {
+      "name": "Silberg v. Anderson",
+      "year": 1990,
+      "volume": 50,
+      "reporter": "Cal.3d",
+      "page": 205,
+      "pin": "212",
+      "raw": "Silberg v. Anderson (1990) 50 Cal. 3d 205, 212",
+      "span": [
+        314,
+        360
+      ],
+      "role": "sources",
+      "case_key": "50 Cal.3d 205"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:13+00:00"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "CACI-3961",
+  "edition": "2026",
+  "number": "3961",
+  "title": "Duty to Mitigate Damages for Past Lost Earnings",
+  "title_full": "Duty to Mitigate Damages for Past Lost Earnings",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2886,
+  "page_end": 2887,
+  "instruction_text": "3961. Duty to Mitigate Damages for Past Lost Earnings\n[Name of plaintiff ] is not entitled to recover damages for economic losses\nthat [ name of defendant ] proves [ name of plaintiff ] could have avoided by\nreturning to gainful employment as soon as it was reasonable for [him/\nher/nonbinary pronoun] to do so.\nTo calculate the amount of damages you must:\n1. Determine the amount [ name of plaintiff ] would have earned from\nthe job [he/she/ nonbinary pronoun ] held at the time\n[he/she/nonbinary pronoun ] was injured; and\n2. Subtract the amount [ name of plaintiff ] earned or could have\nearned by returning to gainful employment.\nThe resulting amount is [ name of plaintiff ]'s damages for past lost\nearnings.",
+  "directions_for_use": "For an instruction on mitigation of damages involving personal injury, see CACI\nNo. 3930, Mitigation of Damages (Personal Injury) .",
+  "sources_and_authority": [
+    {
+      "raw": "\"A plaintiff has a duty to mitigate damages and cannot recover losses it could\nhave avoided through reasonable efforts.\" ( Thrifty-Tel, Inc. v. Bezenek (1996) 46\nCal. App.4th 1559, 1568 [54 Cal. Rptr.2d 468].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Thrifty-Tel, Inc. v. Bezenek",
+          "year": 1996,
+          "volume": 46,
+          "reporter": "Cal.App.4th",
+          "page": 1559,
+          "pin": "1568",
+          "raw": "Thrifty-Tel, Inc. v. Bezenek (1996) 46 Cal. App.4th 1559, 1568",
+          "span": [
+            123,
+            185
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The doctrine of mitigation of damages holds that '[a] plaintiff who suffers\ndamage as a result of either a breach of contract or a tort has a duty to take\nreasonable steps to mitigate those damages and will not be able to recover for\nany losses which could have been thus avoided.' A plaintiff may not recover for\ndamages avoidable through ordinary care and reasonable exertion. The duty to\nmitigate damages does not require an injured party to do what is unreasonable or\nimpracticable. 'The rule of mitigation of damages has no application where its\neffect would be to require the innocent party to sacriﬁce and surrender important\nand valuable rights.' \" ( V alle de Oro Bank v. Gamboa (1994) 26 Cal. App.4th\n1686, 1691 [32 Cal. Rptr.2d 329], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Oro Bank v. Gamboa",
+          "year": 1994,
+          "volume": 26,
+          "reporter": "Cal.App.4th",
+          "page": 1686,
+          "pin": "1691",
+          "raw": "Oro Bank v. Gamboa (1994) 26 Cal. App.4th 1686, 1691",
+          "span": [
+            670,
+            722
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Whether a plaintiff acted reasonably to mitigate damages, however, is a factual\nmatter to be determined by the trier of fact, and is reviewed under the substantial\nevidence test. The burden of proving a plaintiff failed to mitigate damages,\nhowever, is on the defendant, not the other way around.\" ( Powerhouse\nMotorsports Group, Inc. v. Yamaha Motor Corp., U.S.A. (2013) 221 Cal. App.4th\n867, 884 [164 Cal. Rptr.3d 811].)\n1000",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §945\n6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1798\n4 Levy et al., California Torts, Ch. 53, Mitigation of Damages (Avoidable\nConsequences) and the Collateral Source Rule , §53.02 (Matthew Bender)\n15 California Forms of Pleading and Practice, Ch. 177, Damages, §177.48\n(Matthew Bender)\n6 California Points and Authorities, Ch. 64, Damages: Tort, §64.170 et seq.\n(Matthew Bender)\nDAMAGES CACI No. 3961\n1001",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Thrifty-Tel, Inc. v. Bezenek",
+      "year": 1996,
+      "volume": 46,
+      "reporter": "Cal.App.4th",
+      "page": 1559,
+      "pin": "1568",
+      "raw": "Thrifty-Tel, Inc. v. Bezenek (1996) 46 Cal. App.4th 1559, 1568",
+      "span": [
+        123,
+        185
+      ],
+      "role": "sources",
+      "case_key": "46 Cal.App.4th 1559"
+    },
+    {
+      "name": "Oro Bank v. Gamboa",
+      "year": 1994,
+      "volume": 26,
+      "reporter": "Cal.App.4th",
+      "page": 1686,
+      "pin": "1691",
+      "raw": "Oro Bank v. Gamboa (1994) 26 Cal. App.4th 1686, 1691",
+      "span": [
+        670,
+        722
+      ],
+      "role": "sources",
+      "case_key": "26 Cal.App.4th 1686"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:24+00:00"
+}

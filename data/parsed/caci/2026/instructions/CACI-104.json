@@ -1,0 +1,121 @@
+{
+  "id": "CACI-104",
+  "edition": "2026",
+  "number": "104",
+  "title": "Nonperson Party",
+  "title_full": "Nonperson Party",
+  "title_statute": null,
+  "series": "100",
+  "series_title": "Series 100 Pretrial",
+  "page_start": 92,
+  "page_end": 92,
+  "instruction_text": "104. Nonperson Party\nA [corporation/partnership/city/county/[other entity ]], [ name of entity ], is a\nparty in this lawsuit. [ Name of entity ] is entitled to the same fair and\nimpartial treatment that you would give to an individual. Y ou must\ndecide this case with the same fairness that you would use if you were\ndeciding the case between individuals.\nWhen I use words like \"person\" or \"he\" or \"she\" in these instructions to\nrefer to a party, those instructions also apply to [ name of entity ].",
+  "directions_for_use": "This instruction should be given as an introductory instruction if one of the parties\nis an entity. Select the type of entity and insert the name of the entity where\nindicated in the instruction.",
+  "sources_and_authority": [
+    {
+      "raw": "Corporations Have Powers of Natural Person. Corporations Code section 207.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CORP",
+          "section": "207",
+          "display": "Corporations Code section 207",
+          "raw": "Corporations Code section 207",
+          "span": [
+            44,
+            73
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Person\" Includes Corporation. Civil Code section 14.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "14",
+          "display": "Civil Code section 14",
+          "raw": "Civil Code section 14",
+          "span": [
+            31,
+            52
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "As a general rule, a corporation is considered to be a legal entity that has an\nexistence separate from that of its shareholders. ( Erkenbrecher v. Grant (1921)\n187 Cal. 7, 9 [200 P.641].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Erkenbrecher v. Grant",
+          "year": 1921,
+          "volume": 187,
+          "reporter": "Cal.",
+          "page": 7,
+          "pin": "9",
+          "raw": "Erkenbrecher v. Grant (1921) 187 Cal. 7, 9",
+          "span": [
+            132,
+            174
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In general, any person or entity has capacity to sue or defend a civil action in\nthe California courts. This includes artiﬁcial 'persons' such as corporations,\npartnerships and associations.\" ( American Alternative Energy Partners II, 1985 v.\nWindridge, Inc. (1996) 42 Cal. App.4th 551, 559 [49 Cal. Rptr.2d 686], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "9 Witkin, Summary of California Law (11th ed. 2017) Corporations, §1, p. 775\n1 California Pretrial Civil Procedure Practice Guide: The Wagstaffe Group, Ch. 10,\nDetermining Initial Parties to the Action , §§10-V[E]–10-V[I]\n18",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CORP",
+      "section": "207",
+      "display": "Corporations Code section 207",
+      "raw": "Corporations Code section 207",
+      "span": [
+        44,
+        73
+      ],
+      "role": "sources",
+      "statute_key": "CA/CORP/207"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "14",
+      "display": "Civil Code section 14",
+      "raw": "Civil Code section 14",
+      "span": [
+        31,
+        52
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/14"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Erkenbrecher v. Grant",
+      "year": 1921,
+      "volume": 187,
+      "reporter": "Cal.",
+      "page": 7,
+      "pin": "9",
+      "raw": "Erkenbrecher v. Grant (1921) 187 Cal. 7, 9",
+      "span": [
+        132,
+        174
+      ],
+      "role": "sources",
+      "case_key": "187 Cal. 7"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

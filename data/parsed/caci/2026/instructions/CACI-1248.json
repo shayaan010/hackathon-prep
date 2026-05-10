@@ -1,0 +1,192 @@
+{
+  "id": "CACI-1248",
+  "edition": "2026",
+  "number": "1248",
+  "title": "Affirmative Defense—Inherently Unsafe Consumer Product",
+  "title_full": "Affirmative Defense—Inherently Unsafe Consumer Product (Civ. Code, § 1714.45)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "CIV",
+    "section": "1714.45",
+    "display": "Civil Code section 1714.45",
+    "raw": "Civ. Code, § 1714.45",
+    "span": [
+      0,
+      20
+    ]
+  },
+  "series": "1200",
+  "series_title": "Series 1200 Products Liability",
+  "page_start": 894,
+  "page_end": 895,
+  "instruction_text": "1248. Affirmative Defense–Inherently Unsafe Consumer Product\n(Civ. Code, §1714.45)\n[Name of defendant ] claims that it is not responsible for [ name of\nplaintiff]'s claimed harm because [ specify product] is an inherently unsafe\nconsumer product. To succeed on this defense, [ name of defendant ] must\nprove all of the following:\n1. That [ product] is a common consumer product intended for\npersonal consumption; and\n2. That [ product] is inherently unsafe;\n3. But [ product] is no more dangerous than what an ordinary\nconsumer of the product with knowledge common to the\ncommunity would expect.",
+  "directions_for_use": "This instruction sets forth an immunity defense to product liability for a product that\nis clearly recognizable as inherently dangerous. (See Civ. Code, §1714.45(a).) The\nstatute requires that the product be \"a common consumer product intended for\npersonal consumption, such as sugar, castor oil, alcohol, and butter, as identiﬁed in\ncomment i to Section 402A of the Restatement (Second) of Torts.\" (Civ. Code,\n§1714.45(a)(2).) This reference is perhaps somewhat confusing because the\nRestatement comment makes it clear that sugar, castor oil, alcohol, and butter are\nnot unreasonably dangerous. The implication from the statutory references is that\nalthough they are not unreasonably dangerous, they are inherently unsafe and thus\nwithin the protection provided to the manufacturer by the statute.",
+  "sources_and_authority": [
+    {
+      "raw": "Nonliability for Inherently Unsafe Consumer Product. Civil Code section\n1714.45.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1714.45",
+          "display": "Civil Code section 1714.45",
+          "raw": "Civil Code section\n1714.45",
+          "span": [
+            53,
+            79
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Comment i to Section 402A of the Restatement (Second) of Torts provides:\n\"Unreasonably dangerous. The rule stated in this Section applies only where the\ndefective condition of the product makes it unreasonably dangerous to the user\nor consumer. Many products cannot possibly be made entirely safe for all\nconsumption, and any food or drug necessarily involves some risk of harm, if\nonly from over-consumption. Ordinary sugar is a deadly poison to diabetics, and\ncastor oil found use under Mussolini as an instrument of torture. That is not\nwhat is meant by \"unreasonably dangerous\" in this Section. The article sold\nmust be dangerous to an extent beyond that which would be contemplated by the\nordinary consumer who purchases it, with the ordinary knowledge common to\nthe community as to its characteristics. Good whiskey is not unreasonably\n820\ndangerous merely because it will make some people drunk, and is especially\ndangerous to alcoholics; but bad whiskey, containing a dangerous amount of\nfusel oil, is unreasonably dangerous. Good tobacco is not unreasonably\ndangerous merely because the effects of smoking may be harmful; but tobacco\ncontaining something like marijuana may be unreasonably dangerous. Good\nbutter is not unreasonably dangerous merely because, if such be the case, it\ndeposits cholesterol in the arteries and leads to heart attacks; but bad butter,\ncontaminated with poisonous ﬁsh oil, is unreasonably dangerous.\"",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Additional limitations on the scope of the immunity may be deduced from the\nhistory and purpose of the Immunity Statute . . . .The statute's express premise\n. . . was 'that suppliers of certain products which are \"inherently unsafe,\" but\nwhich the public wishes to have available despite awareness of their dangers,\nshould not be responsible in tort for resulting harm to those who voluntarily\nconsumed the products despite such knowledge.' . . . [T]he Immunity Statute\n[is] based on the principle that 'if a product is pure and unadulterated, its\ninherent or unavoidable danger, commonly known to the community which\nconsumes it anyway, does not expose the seller to liability for resulting harm to\na voluntary user.' \" ( Naegele v. R.J. Reynolds Tobacco Co. (2002) 28 Cal. 4th\n856, 862 [123 Cal. Rptr.2d 61, 50 P.3d 769], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Naegele v. R.J. Reynolds Tobacco Co.",
+          "year": 2002,
+          "volume": 28,
+          "reporter": "Cal.4th",
+          "page": 856,
+          "pin": "862",
+          "raw": "Naegele v. R.J. Reynolds Tobacco Co. (2002) 28 Cal. 4th 856, 862",
+          "span": [
+            724,
+            788
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The law should not ignore interactive effects that might render a product more\ndangerous than is contemplated by the ordinary consumer who purchases it and\npossesses the ordinary knowledge common to the community as to the product's\ncharacteristics. Therefore, when a court addresses whether a multi-ingredient\nproduct is a common consumer product for purposes of Civil Code section\n1714.45 and the ingredients have an interactive effect, the product and its\ninherent dangers must be considered as a whole so that the interactive effects of\nits ingredients are not overlooked or trivialized.\" ( Fiorini v. City Brewing Co.,\nLLC (2014) 231 Cal. App.4th 306, 325 [179 Cal. Rptr.3d 827].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1714.45",
+          "display": "Civil Code section 1714.45",
+          "raw": "Civil Code section\n1714.45",
+          "span": [
+            365,
+            391
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Fiorini v. City Brewing Co., LLC",
+          "year": 2014,
+          "volume": 231,
+          "reporter": "Cal.App.4th",
+          "page": 306,
+          "pin": "325",
+          "raw": "Fiorini v. City Brewing Co., LLC (2014) 231 Cal. App.4th 306, 325",
+          "span": [
+            596,
+            661
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The foregoing inferences preclude us from ﬁnding, as a matter of law, that\n[product] was a common consumer product for purposes of Civil Code section\n1714.45, subdivision (a). As a result, that factual question should be presented to\nthe trier of fact.\" ( Fiorini, supra , 231 Cal. App.4th at p. 326, footnote omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1714.45",
+          "display": "Civil Code section 1714.45",
+          "raw": "Civil Code section\n1714.45",
+          "span": [
+            132,
+            158
+          ]
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Torts, §1930 et seq.\nCalifornia Products Liability Actions, Ch. 2, Liability for Defective Products ,\n§2.11[5] (Matthew Bender)\n5 Levy et al., California Torts, Ch. 74, Resolving Multiparty Tort Litigation , §74.04\n(Matthew Bender)\n40 California Forms of Pleading and Practice, Ch. 460, Products Liability,\n§§460.11, 460.70 (Matthew Bender)\n19 California Points and Authorities, Ch. 190, Products Liability, §190.80A et seq.\n(Matthew Bender)\nPRODUCTS LIABILITY CACI No. 1248\n821",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1714.45",
+      "display": "Civil Code section 1714.45",
+      "raw": "Civ. Code, § 1714.45",
+      "span": [
+        0,
+        20
+      ],
+      "role": "title",
+      "statute_key": "CA/CIV/1714.45"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1714.45",
+      "display": "Civil Code section 1714.45(a)",
+      "raw": "Civ. Code, §1714.45(a)",
+      "span": [
+        142,
+        164
+      ],
+      "subsection": "a",
+      "role": "directions",
+      "statute_key": "CA/CIV/1714.45/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1714.45",
+      "display": "Civil Code section 1714.45(2)",
+      "raw": "Civ. Code,\n§1714.45(a)(2)",
+      "span": [
+        400,
+        425
+      ],
+      "subsection": "2",
+      "role": "directions",
+      "statute_key": "CA/CIV/1714.45/2"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Naegele v. R.J. Reynolds Tobacco Co.",
+      "year": 2002,
+      "volume": 28,
+      "reporter": "Cal.4th",
+      "page": 856,
+      "pin": "862",
+      "raw": "Naegele v. R.J. Reynolds Tobacco Co. (2002) 28 Cal. 4th 856, 862",
+      "span": [
+        724,
+        788
+      ],
+      "role": "sources",
+      "case_key": "28 Cal.4th 856"
+    },
+    {
+      "name": "Fiorini v. City Brewing Co., LLC",
+      "year": 2014,
+      "volume": 231,
+      "reporter": "Cal.App.4th",
+      "page": 306,
+      "pin": "325",
+      "raw": "Fiorini v. City Brewing Co., LLC (2014) 231 Cal. App.4th 306, 325",
+      "span": [
+        596,
+        661
+      ],
+      "role": "sources",
+      "case_key": "231 Cal.App.4th 306"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

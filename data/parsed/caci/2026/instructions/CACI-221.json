@@ -1,0 +1,108 @@
+{
+  "id": "CACI-221",
+  "edition": "2026",
+  "number": "221",
+  "title": "Conflicting Expert Testimony",
+  "title_full": "Conflicting Expert Testimony",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 149,
+  "page_end": 149,
+  "instruction_text": "221. Conﬂicting Expert Testimony\nIf the expert witnesses disagreed with one another, you should weigh\neach opinion against the others. Y ou should examine the reasons given\nfor each opinion and the facts or other matters that each witness relied\non. Y ou may also compare the experts' qualiﬁcations.",
+  "directions_for_use": "Unless the issue is one that can be resolved only with expert testimony, the jury\nshould not be instructed that they must accept the entire testimony of the expert\nwhose testimony appears to be entitled to greater weight. ( Santa Clara County\nFlood Control and Water Conservation Dist. v. Freitas (1960) 177 Cal. App.2d 264,\n268–269 [2 Cal. Rptr. 129].)\nFor an instruction on expert witnesses generally, see CACI No. 219, Expert Witness\nTestimony. For an instruction on hypothetical questions, see CACI No. 220,\nExperts–Questions Containing Assumed Facts .",
+  "sources_and_authority": [
+    {
+      "raw": "\"[C]redibility of expert witnesses is a matter for the jury after proper instructions\nfrom the court.\" ( Williams v. V olkswagenwerk Aktiengesellschaft (1986) 180\nCal. App.3d 1244, 1265 [226 Cal. Rptr. 306].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]e rely upon the rule of Sargon [Sargon Enterprises, Inc. v. University of\nSouthern California (2012) 55 Cal. 4th 747 [149 Cal. Rptr.3d 614, 288 P.3d\n1237]] that although trial courts 'have a substantial \"gatekeeping\" responsibility'\nin evaluating proposed expert opinion, the gate tended is not a partisan\ncheckpoint.\" ( Davis v. Honeywell Internat. Inc. (2016) 245 Cal. App.4th 477, 492\n[199 Cal. Rptr.3d 583], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Sargon Enterprises, Inc. v. University of Southern California",
+          "year": 2012,
+          "volume": 55,
+          "reporter": "Cal.4th",
+          "page": 747,
+          "pin": null,
+          "raw": "Sargon Enterprises, Inc. v. University of Southern California (2012) 55 Cal. 4th 747",
+          "span": [
+            36,
+            120
+          ]
+        },
+        {
+          "name": "Davis v. Honeywell Internat. Inc.",
+          "year": 2016,
+          "volume": 245,
+          "reporter": "Cal.App.4th",
+          "page": 477,
+          "pin": "492",
+          "raw": "Davis v. Honeywell Internat. Inc. (2016) 245 Cal. App.4th 477, 492",
+          "span": [
+            325,
+            391
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Complex questions of medical causation are prone to uncertainty. . . . It is\ntherefore imperative that the party without the burden of proof be allowed to\nsuggest alternative causes, or the uncertainty of causation, to less than a\nreasonable medical probability. To withhold such information from the jury is to\ndeprive it of relevant information in assessing whether the plaintiff has met its\nultimate burden of persuasion. And, it would improperly transfer from the jury to\nthe court the responsibility for resolving conﬂicts between competing expert\nopinions.\" ( Kline v. Zimmer , Inc. (2022) 79 Cal. App.5th 123, 133–134 [294\nCal. Rptr.3d 500], internal citation and footnote omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "7 Witkin, California Procedure (6th ed. 2021) Trial, §315\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §551.70 (Matthew\nBender)\n75",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Sargon Enterprises, Inc. v. University of Southern California",
+      "year": 2012,
+      "volume": 55,
+      "reporter": "Cal.4th",
+      "page": 747,
+      "pin": null,
+      "raw": "Sargon Enterprises, Inc. v. University of Southern California (2012) 55 Cal. 4th 747",
+      "span": [
+        36,
+        120
+      ],
+      "role": "sources",
+      "case_key": "55 Cal.4th 747"
+    },
+    {
+      "name": "Davis v. Honeywell Internat. Inc.",
+      "year": 2016,
+      "volume": 245,
+      "reporter": "Cal.App.4th",
+      "page": 477,
+      "pin": "492",
+      "raw": "Davis v. Honeywell Internat. Inc. (2016) 245 Cal. App.4th 477, 492",
+      "span": [
+        325,
+        391
+      ],
+      "role": "sources",
+      "case_key": "245 Cal.App.4th 477"
+    },
+    {
+      "name": "Santa Clara County Flood Control and Water Conservation Dist. v. Freitas",
+      "year": 1960,
+      "volume": 177,
+      "reporter": "Cal.App.2d",
+      "page": 264,
+      "pin": "268–269",
+      "raw": "Santa Clara County Flood Control and Water Conservation Dist. v. Freitas (1960) 177 Cal. App.2d 264, 268–269",
+      "span": [
+        224,
+        332
+      ],
+      "role": "directions",
+      "case_key": "177 Cal.App.2d 264"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

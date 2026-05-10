@@ -1,0 +1,104 @@
+{
+  "id": "CACI-1530",
+  "edition": "2026",
+  "number": "1530",
+  "title": "Apportionment of Attorney Fees and Costs Between Properand Improper Claims",
+  "title_full": "Apportionment of Attorney Fees and Costs Between Properand Improper Claims",
+  "title_statute": null,
+  "series": "1500",
+  "series_title": "Series 1500 Malicious Prosecution",
+  "page_start": 1037,
+  "page_end": 1037,
+  "instruction_text": "1530. Apportionment of Attorney Fees and Costs Between Proper\nand Improper Claims\n[Name of plaintiff ] claims damages for attorney fees and costs reasonably\nand necessarily incurred in defending the underlying lawsuit .\nIf you ﬁnd that [ name of plaintiff ] is entitled to recover damages from\n[name of defendant ], [ name of plaintiff ] is only entitled to attorney fees and\ncosts reasonably and necessarily incurred in defending those claims that\nwere brought without reasonable grounds. Those claims are [ specify].\n[Name of plaintiff ] is not entitled to recover attorney fees and costs\nincurred in defending against the following claims: [ specify].\n[Name of defendant ] must prove the amount of attorney fees and costs\nthat should be apportioned to those claims for which recovery is not\nallowed.",
+  "directions_for_use": "Give this instruction if the court has found as a matter of law that some, but not all,\nof the claims in the underlying action were brought without probable cause. The\nelements of probable cause and favorable termination are to be decided by the court\nas a matter of law. (See Sheldon Appel Co. v. Albert & Oliker (1989) 47 Cal. 3d 863,\n881 [254 Cal. Rptr. 336, 765 P.2d 498] [probable cause]; Sierra Club Found. v.\nGraham (1999) 72 Cal. App.4th 1135, 1159 [85 Cal. Rptr.2d 726] [favorable\ntermination]; see also the Directions for Use to CACI No. 1501, Wrongful Use of\nCivil Proceedings.)\nIf there are disputed facts that the jury must resolve before the court can make a\nﬁnding on probable cause, this instruction should not be presented to the jury until\nafter it has determined the facts on which the court's ﬁnding will be based.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Having established the liability of . . . defendants . . . , the [plaintiffs] were\nentitled to recover as part of their compensatory damage award the costs of\ndefending the [underlying] action including their reasonable attorney fees.\"\n(Jackson v. Yarbray (2009) 179 Cal. App.4th 75, 90 [101 Cal. Rptr.3d 303].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Jackson v. Yarbray",
+          "year": 2009,
+          "volume": 179,
+          "reporter": "Cal.App.4th",
+          "page": 75,
+          "pin": "90",
+          "raw": "Jackson v. Yarbray (2009) 179 Cal. App.4th 75, 90",
+          "span": [
+            238,
+            287
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"As in the case of the assertion of a maliciously prosecuted complaint with one\nfor which there was probable cause, the burden of proving such an\napportionment must rest with the party whose malicious conduct created the\nproblem. To place the burden on the injured party rather than upon the\nwrongdoer would, in effect, clothe the transgressor with immunity when, because\nof the interrelationship of the defense and cross-action, the injured party could\nnot apportion his damages.\"( Bertero v. National General Corp. (1974) 13 Cal. 3d\n963",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bertero v. National General Corp.",
+          "year": 1974,
+          "volume": 13,
+          "reporter": "Cal.3d",
+          "page": 963,
+          "pin": null,
+          "raw": "Bertero v. National General Corp. (1974) 13 Cal. 3d 963",
+          "span": [
+            483,
+            538
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Jackson v. Yarbray",
+      "year": 2009,
+      "volume": 179,
+      "reporter": "Cal.App.4th",
+      "page": 75,
+      "pin": "90",
+      "raw": "Jackson v. Yarbray (2009) 179 Cal. App.4th 75, 90",
+      "span": [
+        238,
+        287
+      ],
+      "role": "sources",
+      "case_key": "179 Cal.App.4th 75"
+    },
+    {
+      "name": "Bertero v. National General Corp.",
+      "year": 1974,
+      "volume": 13,
+      "reporter": "Cal.3d",
+      "page": 963,
+      "pin": null,
+      "raw": "Bertero v. National General Corp. (1974) 13 Cal. 3d 963",
+      "span": [
+        483,
+        538
+      ],
+      "role": "sources",
+      "case_key": "13 Cal.3d 963"
+    },
+    {
+      "name": "Sierra Club Found. v. Graham",
+      "year": 1999,
+      "volume": 72,
+      "reporter": "Cal.App.4th",
+      "page": 1135,
+      "pin": "1159",
+      "raw": "Sierra Club Found. v. Graham (1999) 72 Cal. App.4th 1135, 1159",
+      "span": [
+        394,
+        456
+      ],
+      "role": "directions",
+      "case_key": "72 Cal.App.4th 1135"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

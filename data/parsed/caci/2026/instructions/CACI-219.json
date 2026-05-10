@@ -1,0 +1,447 @@
+{
+  "id": "CACI-219",
+  "edition": "2026",
+  "number": "219",
+  "title": "Expert Witness Testimony",
+  "title_full": "Expert Witness Testimony",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 144,
+  "page_end": 146,
+  "instruction_text": "219. Expert Witness Testimony\nDuring the trial you heard testimony from expert witnesses. The law\nallows an expert to state opinions about matters in the expert's ﬁeld of\nexpertise even if the expert has not witnessed any of the events involved\nin the trial.\nY ou do not have to accept an expert's opinion. As with any other\nwitness, it is up to you to decide whether you believe the expert's\ntestimony and choose to use it as a basis for your decision. Y ou may\nbelieve all, part, or none of an expert's testimony. In deciding whether to\nbelieve an expert's testimony, you should consider:\na. The expert's training and experience;\nb. The facts the expert relied on; and\nc. The reasons for the expert's opinion.",
+  "directions_for_use": "This instruction should not be given for expert witness testimony on the standard of\ncare in professional malpractice cases if the testimony is uncontradicted.\nUncontradicted testimony of an expert witness on the standard of care in a\nprofessional malpractice case is conclusive. ( Howard v. Owens Corning (1999) 72\nCal. App.4th 621, 632–633 [85 Cal. Rptr.2d 386]; Conservatorship of McKeown\n(1994) 25 Cal. App.4th 502, 509 [30 Cal. Rptr.2d 542]; Lysick v. Walcom (1968) 258\nCal. App.2d 136, 156 [65 Cal. Rptr. 406].) In all other cases, the jury may reject\nexpert testimony, provided that the jury does not act arbitrarily. ( McKeown, supra,\n25 Cal. App.4th at p. 509.)\nDo not use this instruction in eminent domain and inverse condemnation cases. (See\nAetna Life and Casualty Co. v. City of Los Angeles (1985) 170 Cal. App.3d 865, 877\n[216 Cal. Rptr. 831]; CACI No. 3515, V aluation Testimony.)\nFor an instruction on hypothetical questions, see CACI No. 220, Experts–Questions\nContaining Assumed Facts . For an instruction on conﬂicting expert testimony, see\nCACI No. 221, Conﬂicting Expert Testimony .",
+  "sources_and_authority": [
+    {
+      "raw": "Qualiﬁcation as Expert. Evidence Code section 720(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "720",
+          "display": "Evidence Code section 720",
+          "raw": "Evidence Code section 720(a)",
+          "span": [
+            24,
+            52
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "720",
+          "display": "Evidence Code section 720(a)",
+          "raw": "Evidence Code section 720(a)",
+          "span": [
+            24,
+            52
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\" 'A properly qualiﬁed expert may offer an opinion relating to a subject that is\nbeyond common experience, if that expert's opinion will assist the trier of fact.'\n'However, even when the witness qualiﬁes as an expert, he or she does not\npossess a carte blanche to express any opinion within the area of expertise.\n[Citation.] For example, an expert's opinion based on assumptions of fact\n70\nwithout evidentiary support [citation], or on speculative or conjectural factors\n[citation], has no evidentiary value [citation] and may be excluded from\nevidence. [Citations.] Similarly, when an expert's opinion is purely conclusory\nbecause unaccompanied by a reasoned explanation connecting the factual\npredicates to the ultimate conclusion, that opinion has no evidentiary value\nbecause an \"expert opinion is worth no more than the reasons upon which it\nrests.\" ' 'An expert who gives only a conclusory opinion does not assist the jury\nto determine what occurred, but instead supplants the jury by declaring what\noccurred.' \" ( Property California SCJLW One Corp. v. Leamy (2018) 25\nCal. App.5th 1155, 1163 [236 Cal. Rptr.3d 500], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Property California SCJLW One Corp. v. Leamy",
+          "year": 2018,
+          "volume": 25,
+          "reporter": "Cal.App.5th",
+          "page": 1155,
+          "pin": "1163",
+          "raw": "Property California SCJLW One Corp. v. Leamy (2018) 25 Cal. App.5th 1155, 1163",
+          "span": [
+            1023,
+            1101
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Under Evidence Code section 720, subdivision (a), a person is qualiﬁed to\ntestify as an expert if he or she 'has special knowledge, skill, experience,\ntraining, or education sufficient to qualify him as an expert on the subject to\nwhich his testimony relates.' '[T]he determinative issue in each case must be\nwhether the witness has sufficient skill or experience in the ﬁeld so that his\ntestimony would be likely to assist the jury in the search for the truth . . . .\n[Citation.] Where a witness has disclosed sufficient knowledge, the question of\nthe degree of knowledge goes more to the weight of the evidence than its\nadmissibility. [Citation.]' \" ( Lattimore v. Dickey (2015) 239 Cal. App.4th 959, 969\n[191 Cal. Rptr.3d 766].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "720",
+          "display": "Evidence Code section 720",
+          "raw": "Evidence Code section 720",
+          "span": [
+            7,
+            32
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Lattimore v. Dickey",
+          "year": 2015,
+          "volume": 239,
+          "reporter": "Cal.App.4th",
+          "page": 959,
+          "pin": "969",
+          "raw": "Lattimore v. Dickey (2015) 239 Cal. App.4th 959, 969",
+          "span": [
+            655,
+            707
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "The \"credibility of expert witnesses is a matter for the jury after proper\ninstructions from the court.\" ( Williams v. V olkswagenwerk Aktiengesellschaft\n(1986) 180 Cal. App.3d 1244, 1265 [226 Cal. Rptr. 306].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[U]nder Evidence Code sections 801, subdivision (b), and 802, the trial court\nacts as a gatekeeper to exclude expert opinion testimony that is (1) based on\nmatter of a type on which an expert may not reasonably rely, (2) based on\nreasons unsupported by the material on which the expert relies, or (3)\nspeculative. Other provisions of law, including decisional law, may also provide\nreasons for excluding expert opinion testimony. [¶] But courts must also be\ncautious in excluding expert testimony. The trial court's gatekeeping role does\nnot involve choosing between competing expert opinions.\" ( Sargon Enterprises,\nInc. v. University of Southern California (2012) 55 Cal. 4th 747, 771−772 [149\nCal. Rptr.3d 614, 288 P.3d 1237], footnote omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "801",
+          "display": "Evidence Code section 801",
+          "raw": "Evidence Code sections 801",
+          "span": [
+            9,
+            35
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Sargon Enterprises, Inc. v. University of Southern California",
+          "year": 2012,
+          "volume": 55,
+          "reporter": "Cal.4th",
+          "page": 747,
+          "pin": "771",
+          "raw": "Sargon Enterprises, Inc. v. University of Southern California (2012) 55 Cal. 4th 747, 771",
+          "span": [
+            598,
+            687
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'Generally, the opinion of an expert is admissible when it is \"[r]elated to a\nsubject that is sufficiently beyond common experience that the opinion of an\nexpert would assist the trier of fact . . . .\" [Citations.] Also, \"[t]estimony in the\nform of an opinion that is otherwise admissible is not objectionable because it\nembraces the ultimate issue to be decided by the trier of fact.\" [Citation.]\nHowever, \" 'Where the jury is just as competent as the expert to consider and\nweigh the evidence and draw the necessary conclusions, then the need for expert\ntestimony evaporates.' \" ' Expert testimony will be excluded ' \" 'when it would\nadd nothing at all to the jury's common fund of information, i.e., when 'the\nsubject of inquiry is one of such common knowledge that men of ordinary\neducation could reach a conclusion as intelligently as the witness.\" ' \" ' \" ( Burton\nEVIDENCE CACI No. 219\n71\nv. Sanner (2012) 207 Cal. App.4th 12, 19 [142 Cal. Rptr.3d 782], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Under Evidence Code section 801(a), expert witness testimony \"must relate to a\nsubject that is sufficiently beyond common experience that the opinion of an\nexpert would assist the trier of fact.\" ( New v. Consolidated Rock Products Co.\n(1985) 171 Cal. App.3d 681, 692 [217 Cal. Rptr. 522].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "801",
+          "display": "Evidence Code section 801",
+          "raw": "Evidence Code section 801(a)",
+          "span": [
+            6,
+            34
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "801",
+          "display": "Evidence Code section 801(a)",
+          "raw": "Evidence Code section 801(a)",
+          "span": [
+            6,
+            34
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": [
+        {
+          "name": "New v. Consolidated Rock Products Co.",
+          "year": 1985,
+          "volume": 171,
+          "reporter": "Cal.App.3d",
+          "page": 681,
+          "pin": "692",
+          "raw": "New v. Consolidated Rock Products Co. (1985) 171 Cal. App.3d 681, 692",
+          "span": [
+            198,
+            267
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Expert witnesses are qualiﬁed by special knowledge to form opinions on facts\nthat they have not personally witnessed. ( Manney v. Housing Authority of The\nCity of Richmond (1947) 79 Cal. App.2d 453, 460 [180 P.2d 69].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Manney v. Housing Authority of The City of Richmond",
+          "year": 1947,
+          "volume": 79,
+          "reporter": "Cal.App.2d",
+          "page": 453,
+          "pin": "460",
+          "raw": "Manney v. Housing Authority of The City of Richmond (1947) 79 Cal. App.2d 453, 460",
+          "span": [
+            120,
+            202
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Although a jury may not arbitrarily or unreasonably disregard the testimony of\nan expert, it is not bound by the expert's opinion. Instead, it must give to each\nopinion the weight which it ﬁnds the opinion deserves. So long as it does not do\nso arbitrarily, a jury may entirely reject the testimony of a plaintiff's expert, even\nwhere the defendant does not call any opposing expert and the expert testimony\nis not contradicted.\" ( Howard, supra, 72 Cal. App.4th at p. 633, citations\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"When any expert relates to the jury case-speciﬁc out-of-court statements, and\ntreats the content of those statements as true and accurate to support the expert's\nopinion, the statements are hearsay. It cannot logically be maintained that the\nstatements are not being admitted for their truth.\" ( People v. Sanchez (2016) 63\nCal. 4th 665, 686 [204 Cal. Rptr.3d 102, 374 P.3d 320].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Sanchez",
+          "year": 2016,
+          "volume": 63,
+          "reporter": "Cal.4th",
+          "page": 665,
+          "pin": "686",
+          "raw": "People v. Sanchez (2016) 63 Cal. 4th 665, 686",
+          "span": [
+            297,
+            342
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Any expert may still rely on hearsay in forming an opinion, and may tell the\njury in general terms that he did so. Because the jury must independently\nevaluate the probative value of an expert's testimony, Evidence Code section 802\nproperly allows an expert to relate generally the kind and source of the 'matter'\nupon which his opinion rests. A jury may repose greater conﬁdence in an expert\nwho relies upon well-established scientiﬁc principles. It may accord less weight\nto the views of an expert who relies on a single article from an obscure journal\nor on a lone experiment whose results cannot be replicated. There is a distinction\nto be made between allowing an expert to describe the type or source of the\nmatter relied upon as opposed to presenting, as fact, case-speciﬁc hearsay that\ndoes not otherwise fall under a statutory exception.\" ( People v. Sanchez , supra,\n63 Cal. 4th at pp. 685–686, original italics.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "802",
+          "display": "Evidence Code section 802",
+          "raw": "Evidence Code section 802",
+          "span": [
+            207,
+            232
+          ]
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, California Evidence (5th ed. 2012) Opinion Evidence, §§26–44\nJefferson, California Evidence Benchbook (3d ed. 1997) §§29.18–29.55\n1 Levy et al., California Torts, Ch. 3, Proof of Negligence , §3.04 (Matthew Bender)\n3A California Trial Guide, Unit 60, Opinion Testimony, §60.05 (Matthew Bender)\nCalifornia Products Liability Actions, Ch. 4, The Role of the Expert , §4.03\n(Matthew Bender)\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §§551.70, 551.113\n(Matthew Bender)\nCACI No. 219 EVIDENCE\n72",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "720",
+      "display": "Evidence Code section 720",
+      "raw": "Evidence Code section 720(a)",
+      "span": [
+        24,
+        52
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/720"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "720",
+      "display": "Evidence Code section 720(a)",
+      "raw": "Evidence Code section 720(a)",
+      "span": [
+        24,
+        52
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/EVID/720/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "801",
+      "display": "Evidence Code section 801",
+      "raw": "Evidence Code sections 801",
+      "span": [
+        9,
+        35
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/801"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "801",
+      "display": "Evidence Code section 801(a)",
+      "raw": "Evidence Code section 801(a)",
+      "span": [
+        6,
+        34
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/EVID/801/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "802",
+      "display": "Evidence Code section 802",
+      "raw": "Evidence Code section 802",
+      "span": [
+        207,
+        232
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/802"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Property California SCJLW One Corp. v. Leamy",
+      "year": 2018,
+      "volume": 25,
+      "reporter": "Cal.App.5th",
+      "page": 1155,
+      "pin": "1163",
+      "raw": "Property California SCJLW One Corp. v. Leamy (2018) 25 Cal. App.5th 1155, 1163",
+      "span": [
+        1023,
+        1101
+      ],
+      "role": "sources",
+      "case_key": "25 Cal.App.5th 1155"
+    },
+    {
+      "name": "Lattimore v. Dickey",
+      "year": 2015,
+      "volume": 239,
+      "reporter": "Cal.App.4th",
+      "page": 959,
+      "pin": "969",
+      "raw": "Lattimore v. Dickey (2015) 239 Cal. App.4th 959, 969",
+      "span": [
+        655,
+        707
+      ],
+      "role": "sources",
+      "case_key": "239 Cal.App.4th 959"
+    },
+    {
+      "name": "Sargon Enterprises, Inc. v. University of Southern California",
+      "year": 2012,
+      "volume": 55,
+      "reporter": "Cal.4th",
+      "page": 747,
+      "pin": "771",
+      "raw": "Sargon Enterprises, Inc. v. University of Southern California (2012) 55 Cal. 4th 747, 771",
+      "span": [
+        598,
+        687
+      ],
+      "role": "sources",
+      "case_key": "55 Cal.4th 747"
+    },
+    {
+      "name": "New v. Consolidated Rock Products Co.",
+      "year": 1985,
+      "volume": 171,
+      "reporter": "Cal.App.3d",
+      "page": 681,
+      "pin": "692",
+      "raw": "New v. Consolidated Rock Products Co. (1985) 171 Cal. App.3d 681, 692",
+      "span": [
+        198,
+        267
+      ],
+      "role": "sources",
+      "case_key": "171 Cal.App.3d 681"
+    },
+    {
+      "name": "Manney v. Housing Authority of The City of Richmond",
+      "year": 1947,
+      "volume": 79,
+      "reporter": "Cal.App.2d",
+      "page": 453,
+      "pin": "460",
+      "raw": "Manney v. Housing Authority of The City of Richmond (1947) 79 Cal. App.2d 453, 460",
+      "span": [
+        120,
+        202
+      ],
+      "role": "sources",
+      "case_key": "79 Cal.App.2d 453"
+    },
+    {
+      "name": "People v. Sanchez",
+      "year": 2016,
+      "volume": 63,
+      "reporter": "Cal.4th",
+      "page": 665,
+      "pin": "686",
+      "raw": "People v. Sanchez (2016) 63 Cal. 4th 665, 686",
+      "span": [
+        297,
+        342
+      ],
+      "role": "sources",
+      "case_key": "63 Cal.4th 665"
+    },
+    {
+      "name": "Howard v. Owens Corning",
+      "year": 1999,
+      "volume": 72,
+      "reporter": "Cal.App.4th",
+      "page": 621,
+      "pin": "632–633",
+      "raw": "Howard v. Owens Corning (1999) 72 Cal. App.4th 621, 632–633",
+      "span": [
+        282,
+        341
+      ],
+      "role": "directions",
+      "case_key": "72 Cal.App.4th 621"
+    },
+    {
+      "name": "Lysick v. Walcom",
+      "year": 1968,
+      "volume": 258,
+      "reporter": "Cal.App.2d",
+      "page": 136,
+      "pin": "156",
+      "raw": "Lysick v. Walcom (1968) 258 Cal. App.2d 136, 156",
+      "span": [
+        447,
+        495
+      ],
+      "role": "directions",
+      "case_key": "258 Cal.App.2d 136"
+    },
+    {
+      "name": "See Aetna Life and Casualty Co. v. City of Los Angeles",
+      "year": 1985,
+      "volume": 170,
+      "reporter": "Cal.App.3d",
+      "page": 865,
+      "pin": "877",
+      "raw": "See Aetna Life and Casualty Co. v. City of Los Angeles (1985) 170 Cal. App.3d 865, 877",
+      "span": [
+        750,
+        836
+      ],
+      "role": "directions",
+      "case_key": "170 Cal.App.3d 865"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

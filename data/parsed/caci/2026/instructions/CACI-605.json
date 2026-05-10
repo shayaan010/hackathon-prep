@@ -1,0 +1,88 @@
+{
+  "id": "CACI-605",
+  "edition": "2026",
+  "number": "605",
+  "title": "Reserved for Future Use",
+  "title_full": "Reserved for Future Use",
+  "title_statute": null,
+  "series": "600",
+  "series_title": "Series 600 Professional Negligence",
+  "page_start": 603,
+  "page_end": 603,
+  "instruction_text": "604. Referral to Legal Specialist\nIf a reasonably careful attorney in a similar situation would have\nreferred [name of plaintiff ] to a legal specialist, then [ name of defendant ]\nwas negligent if [he/she/ nonbinary pronoun] did not do so.\nHowever, if [ name of defendant ] handled the matter with as much skill\nand care as a reasonable legal specialist would have, then [ name of\ndefendant] was not negligent.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "This type of an instruction was approved for use in legal malpractice cases in\nHorne v. Peckham (1979) 97 Cal. App.3d 404, 414–415 [158 Cal. Rptr. 714],\ndisapproved on other grounds in ITT Small Business Finance Corp. v. Niles\n(1994) 9 Cal. 4th 245, 256 [36 Cal. Rptr.2d 552, 885 P.2d 965].",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Horne v. Peckham",
+          "year": 1979,
+          "volume": 97,
+          "reporter": "Cal.App.3d",
+          "page": 404,
+          "pin": "414–415",
+          "raw": "Horne v. Peckham (1979) 97 Cal. App.3d 404, 414–415",
+          "span": [
+            79,
+            130
+          ]
+        },
+        {
+          "name": "ITT Small Business Finance Corp. v. Niles",
+          "year": 1994,
+          "volume": 9,
+          "reporter": "Cal.4th",
+          "page": 245,
+          "pin": "256",
+          "raw": "ITT Small Business Finance Corp. v. Niles (1994) 9 Cal. 4th 245, 256",
+          "span": [
+            185,
+            253
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Failing to Act Competently. Rule of Professional Conduct: Rule 3-110(C).",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, California Procedure (5th ed. 2008) Attorneys, §294\n605. Reserved for Future Use\n529",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Horne v. Peckham",
+      "year": 1979,
+      "volume": 97,
+      "reporter": "Cal.App.3d",
+      "page": 404,
+      "pin": "414–415",
+      "raw": "Horne v. Peckham (1979) 97 Cal. App.3d 404, 414–415",
+      "span": [
+        79,
+        130
+      ],
+      "role": "sources",
+      "case_key": "97 Cal.App.3d 404"
+    },
+    {
+      "name": "ITT Small Business Finance Corp. v. Niles",
+      "year": 1994,
+      "volume": 9,
+      "reporter": "Cal.4th",
+      "page": 245,
+      "pin": "256",
+      "raw": "ITT Small Business Finance Corp. v. Niles (1994) 9 Cal. 4th 245, 256",
+      "span": [
+        185,
+        253
+      ],
+      "role": "sources",
+      "case_key": "9 Cal.4th 245"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

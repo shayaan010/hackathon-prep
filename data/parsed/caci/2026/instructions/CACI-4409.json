@@ -1,0 +1,196 @@
+{
+  "id": "CACI-4409",
+  "edition": "2026",
+  "number": "4409",
+  "title": "Remedies for Misappropriation of Trade Secret",
+  "title_full": "Remedies for Misappropriation of Trade Secret",
+  "title_statute": null,
+  "series": "4400",
+  "series_title": "Series 4400 Trade Secrets",
+  "page_start": 3141,
+  "page_end": 3143,
+  "instruction_text": "4409. Remedies for Misappropriation of Trade Secret\nIf [ name of plaintiff ] proves that [ name of defendant ] misappropriated [his/\nher/nonbinary pronoun/its] trade secret[s], then [ name of plaintiff ] is\nentitled to recover damages if the misappropriation caused [[ name of\nplaintiff] to suffer an actual loss/ [or] [ name of defendant ] to be unjustly\nenriched].\n[If [ name of defendant ]'s misappropriation did not cause [[ name of\nplaintiff] to suffer an actual loss/ [or] [ name of defendant ] to be unjustly\nenriched], [ name of plaintiff ] may still be entitled to a reasonable royalty\nfor no longer than the period of time the use could have been prohibited.\nHowever, I will calculate the amount of any royalty.]",
+  "directions_for_use": "Give this instruction with CACI No. 4401, Misappropriation of Trade\nSecrets–Essential Factual Elements , if the plaintiff is seeking damages. For\nsimplicity, this instruction uses the term \"damages\" to refer to both actual loss and\nunjust enrichment, even though, strictly speaking, unjust enrichment may be\nconsidered a form of restitution rather than damages.\nSelect the nature of the recovery sought; either for the plaintiff's actual loss or for\nthe defendant's unjust enrichment, or both. If the plaintiff's claim of actual injury or\nloss is based on lost proﬁts, give CACI No. 3903N, Lost Proﬁts (Economic\nDamage). If unjust enrichment is alleged, give CACI No. 4410, Unjust Enrichment .\nIf neither actual loss nor unjust enrichment is provable, Civil Code section\n3426.3(b) provides for a third, alternate remedy: a reasonable royalty for no longer\nthan the period of time the use could have been prohibited. Both the statute and\ncase law indicate that the question of a reasonable royalty should not be presented\nto the jury. (See Civ. Code, §3426.3(b) [ the court may order the payment of a\nreasonable royalty]; Applied Medical Distribution Corp. v. Jarrells (2024) 100\nCal. App.5th 556, 571–572 [319 Cal. Rptr.3d 205] [only the court had statutory\nauthority to impose an injunction or assess a reasonable royalty]; see also Civ.\nCode, §3426.2(b) [court may issue an injunction that conditions future use of a\ntrade secret on payment of a reasonable royalty].) Include the optional second\nparagraph if the court wants to advise the jury that even if it ﬁnds that the plaintiff\nsuffered no actual loss and that the defendant was not unjustly enriched, the plaintiff\nmay still be entitled to some recovery.",
+  "sources_and_authority": [
+    {
+      "raw": "Remedies for Misappropriation of Trade Secret. Civil Code section 3426.3.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.3",
+          "display": "Civil Code section 3426.3",
+          "raw": "Civil Code section 3426.3",
+          "span": [
+            47,
+            72
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Under subdivision (a), a complainant may recover damages for the actual loss\n1255\ncaused by misappropriation, as well as for any unjust enrichment not taken into\naccount in computing actual loss damages. Subdivision (b) provides for an\nalternative remedy of the payment of royalties from future proﬁts where 'neither\ndamages nor unjust enrichment caused by misappropriation [is] provable.' \"\n(Ajaxo Inc. v. E*Trade Group Inc. (2005) 135 Cal. App.4th 21, 61 [37\nCal. Rptr.3d 221].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In sum, the jury found [defendant] misappropriated [plaintiff's] trade secrets by\nacquiring, using, or disclosing them by improper means. That constituted a\nﬁnding by the trier of fact that misappropriation occurred, which in turn\npermitted the trial court to consider whether to impose an injunction or assess a\nreasonable royalty. The court had statutory authority to impose those remedies\neven though the jury found that the legal remedies submitted to it–damages or\nunjust enrichment–were not proven.\" ( Applied Medical Distribution Corp.,\nsupra, 100 Cal. App.5th at p. 572, fn. omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"To adopt a reasonable royalty as the measure of damages is to adopt and\ninterpret, as well as may be, the ﬁction that a license was to be granted at the\ntime of beginning the infringement, and then to determine what the license price\nshould have been. In effect, the court assumes the existence ab initio of, and\ndeclares the equitable terms of, a supposititious license, and does this nunc pro\ntunc; it creates and applies retrospectively a compulsory license.\" ( Altavion, Inc.\nv. Konica Minolta Systems Laboratory, Inc. (2014) 226 Cal. App.4th 26, 68 [171\nCal. Rptr.3d 714], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Altavion, Inc. v. Konica Minolta Systems Laboratory, Inc.",
+          "year": 2014,
+          "volume": 226,
+          "reporter": "Cal.App.4th",
+          "page": 26,
+          "pin": "68",
+          "raw": "Altavion, Inc. v. Konica Minolta Systems Laboratory, Inc. (2014) 226 Cal. App.4th 26, 68",
+          "span": [
+            466,
+            554
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Nor was it necessary to submit the liability issue to the jury in order to allow\nthe trial court thereafter to determine a reasonable royalty or to impose an\ninjunction. Just as [cross complainant] presented no evidence of the degree of\n[cross defendant]'s enrichment, [cross complainant] likewise presented no\nevidence that would allow the court to determine what royalty, if any, would be\nreasonable under the circumstances.\" ( Unilogic, Inc. v. Burroughs Corp. (1992)\n10 Cal. App.4th 612, 628 [12 Cal. Rptr.2d 741].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Unilogic, Inc. v. Burroughs Corp.",
+          "year": 1992,
+          "volume": 10,
+          "reporter": "Cal.App.4th",
+          "page": 612,
+          "pin": "628",
+          "raw": "Unilogic, Inc. v. Burroughs Corp. (1992) 10 Cal. App.4th 612, 628",
+          "span": [
+            431,
+            496
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"It is settled that, in fashioning a pecuniary remedy under the CUTSA for past\nuse of a misappropriated trade secret, the trial court may order a reasonable\nroyalty only where 'neither actual damages to the holder of the trade secret nor\nunjust enrichment to the user is provable.' 'California law differs on this point\nfrom both the [Uniform Act] and Federal patent law, neither of which require[s]\nactual damages and unjust enrichment to be unprovable before a reasonable\nroyalty may be imposed.' \" ( Ajaxo Inc. v. E*Trade Financial Corp. (2010) 187\nCal. App.4th 1295, 1308 [115 Cal. Rptr.3d 168], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]here a defendant has not realized a proﬁt or other calculable beneﬁt as a\nresult of his or her misappropriation of a trade secret, unjust enrichment is not\nprovable within the meaning of section 3426.3, subdivision (b), whether the lack\nof beneﬁt is determined as a matter of law or as a matter of fact. To hold\notherwise would place the risk of loss on the wronged plaintiff, thereby\ndiscouraging innovation and potentially encouraging corporate thievery where\nanticipated proﬁts might be minimal but other valuable but nonmeasureable\n4409 TRADE SECRETS\n1256\nbeneﬁts could accrue.\" ( Ajaxo Inc. , supra, 187 Cal. App.4th at p. 1313 [jury's\nﬁnding that defendant did not proﬁt from its misappropriation of trade secrets\nmeans that unjust enrichment is not \"provable\" within the meaning of section\n3426.3(b)].)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "13 Witkin, Summary of California Law (11th ed. 2017) Equity, §§92–93\nGaab & Reese, California Practice Guide: Civil Procedure Before Trial–Claims &\nDefenses, Ch. 10(II)-E ¶¶ 10:370–10:372 (The Rutter Group)\n1 Milgrim on Trade Secrets, Ch. 15, Trial Considerations, §15.02 (Matthew\nBender)\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.54 (Matthew Bender)\n49 California Forms of Pleading and Practice, Ch. 565, Unfair Competition ,\n§565.103[6], [7] (Matthew Bender)\nEdelson & Kay, eds., Trade Secret Litigation and Protection in California (State Bar\nof California 2009) Ch. 11\nTRADE SECRETS 4409\n1257",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.3",
+      "display": "Civil Code section 3426.3",
+      "raw": "Civil Code section 3426.3",
+      "span": [
+        47,
+        72
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.3"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.3",
+      "display": "Civil Code section 3426.3(b)",
+      "raw": "Civil Code section\n3426.3(b)",
+      "span": [
+        752,
+        780
+      ],
+      "subsection": "b",
+      "role": "directions",
+      "statute_key": "CA/CIV/3426.3/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.2",
+      "display": "Civil Code section 3426.2",
+      "raw": "Civ.\nCode, §3426.2(b)",
+      "span": [
+        1334,
+        1355
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3426.2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.2",
+      "display": "Civil Code section 3426.2(b)",
+      "raw": "Civ.\nCode, §3426.2(b)",
+      "span": [
+        1334,
+        1355
+      ],
+      "subsection": "b",
+      "role": "directions",
+      "statute_key": "CA/CIV/3426.2/b"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Altavion, Inc. v. Konica Minolta Systems Laboratory, Inc.",
+      "year": 2014,
+      "volume": 226,
+      "reporter": "Cal.App.4th",
+      "page": 26,
+      "pin": "68",
+      "raw": "Altavion, Inc. v. Konica Minolta Systems Laboratory, Inc. (2014) 226 Cal. App.4th 26, 68",
+      "span": [
+        466,
+        554
+      ],
+      "role": "sources",
+      "case_key": "226 Cal.App.4th 26"
+    },
+    {
+      "name": "Unilogic, Inc. v. Burroughs Corp.",
+      "year": 1992,
+      "volume": 10,
+      "reporter": "Cal.App.4th",
+      "page": 612,
+      "pin": "628",
+      "raw": "Unilogic, Inc. v. Burroughs Corp. (1992) 10 Cal. App.4th 612, 628",
+      "span": [
+        431,
+        496
+      ],
+      "role": "sources",
+      "case_key": "10 Cal.App.4th 612"
+    },
+    {
+      "name": "Applied Medical Distribution Corp. v. Jarrells",
+      "year": 2024,
+      "volume": 100,
+      "reporter": "Cal.App.5th",
+      "page": 556,
+      "pin": "571–572",
+      "raw": "Applied Medical Distribution Corp. v. Jarrells (2024) 100 Cal. App.5th 556, 571–572",
+      "span": [
+        1121,
+        1204
+      ],
+      "role": "directions",
+      "case_key": "100 Cal.App.5th 556"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

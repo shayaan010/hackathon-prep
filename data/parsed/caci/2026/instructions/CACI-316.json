@@ -1,0 +1,86 @@
+{
+  "id": "CACI-316",
+  "edition": "2026",
+  "number": "316",
+  "title": "Interpretation—Meaning of Technical Words",
+  "title_full": "Interpretation—Meaning of Technical Words",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 193,
+  "page_end": 193,
+  "instruction_text": "316. Interpretation–Meaning of Technical Words\nY ou should assume that the parties intended technical words used in the\ncontract to have the meaning that is usually given to them by people\nwho work in that technical ﬁeld, unless you decide that the parties\nclearly used the words in a different sense.",
+  "directions_for_use": "This instruction may be given with CACI No. 314, Interpretation–Disputed Words.\nSee the Directions for Use and Sources and Authority to that instruction for\ndiscussion of when contract interpretation may be a proper jury role.",
+  "sources_and_authority": [
+    {
+      "raw": "Technical Words. Civil Code section 1645.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1645",
+          "display": "Civil Code section 1645",
+          "raw": "Civil Code section 1645",
+          "span": [
+            17,
+            40
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The 'clear and explicit' meaning of these provisions, interpreted in their\n'ordinary and popular sense,' unless 'used by the parties in a technical sense or a\nspecial meaning is given to them by usage' [citation], controls judicial\ninterpretation.\" ( Cooper Companies, Inc. v. Transcontinental Insurance Co.\n(1995) 31 Cal. App.4th 1094, 1101 [37 Cal. Rptr.2d 508].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cooper Companies, Inc. v. Transcontinental Insurance Co.",
+          "year": 1995,
+          "volume": 31,
+          "reporter": "Cal.App.4th",
+          "page": 1094,
+          "pin": "1101",
+          "raw": "Cooper Companies, Inc. v. Transcontinental Insurance Co. (1995) 31 Cal. App.4th 1094, 1101",
+          "span": [
+            252,
+            342
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §768\n13 California Forms of Pleading and Practice, Ch. 140, Contracts, §140.32\n(Matthew Bender)\n27 California Legal Forms, Ch. 75, Formation of Contracts and Standard\nContractual Provisions, §75.15 (Matthew Bender)\n2 Matthew Bender Practice Guide: California Contract Litigation, Ch. 21, Asserting\na Particular Construction of Contract , 21.22\n119",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1645",
+      "display": "Civil Code section 1645",
+      "raw": "Civil Code section 1645",
+      "span": [
+        17,
+        40
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1645"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Cooper Companies, Inc. v. Transcontinental Insurance Co.",
+      "year": 1995,
+      "volume": 31,
+      "reporter": "Cal.App.4th",
+      "page": 1094,
+      "pin": "1101",
+      "raw": "Cooper Companies, Inc. v. Transcontinental Insurance Co. (1995) 31 Cal. App.4th 1094, 1101",
+      "span": [
+        252,
+        342
+      ],
+      "role": "sources",
+      "case_key": "31 Cal.App.4th 1094"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

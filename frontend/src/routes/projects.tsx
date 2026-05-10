@@ -14,7 +14,7 @@ import {
 import { AppHeader } from "@/components/AppHeader";
 import { StatuteDetail } from "@/components/StatuteDetail";
 import { Sheet, SheetContent } from "@/components/ui/sheet";
-import { STATUTES, type Statute } from "@/lib/statutes";
+import { type Statute } from "@/lib/statutes";
 import { api } from "@/lib/api";
 import {
   useProjects,
@@ -40,12 +40,12 @@ export const Route = createFileRoute("/projects")({
 });
 
 function ProjectsPage() {
-  const { data: statutes = STATUTES } = useQuery({
+  const { data } = useQuery({
     queryKey: ["statutes"],
-    queryFn: api.statutes,
+    queryFn: () => api.statutes(),
     staleTime: 60_000,
-    placeholderData: STATUTES,
   });
+  const statutes = data?.items ?? [];
 
   const projects = useProjects();
   const statutesById = useMemo(

@@ -1,0 +1,128 @@
+{
+  "id": "CACI-1303",
+  "edition": "2026",
+  "number": "1303",
+  "title": "Invalid Consent",
+  "title_full": "Invalid Consent",
+  "title_statute": null,
+  "series": "1300",
+  "series_title": "Series 1300 Assault And Battery",
+  "page_start": 932,
+  "page_end": 933,
+  "instruction_text": "1303. Invalid Consent\n[Name of plaintiff ] claims that [his/her/ nonbinary pronoun] consent [was\nobtained by fraud/mistake/duress] [was obtained as a result of [his/her/\nnonbinary pronoun] incapacity] [or that [ name of defendant ]'s conduct\nwent beyond the scope of [his/her/ nonbinary pronoun] limited consent].\nIf [ name of plaintiff ] proves that [his/her/ nonbinary pronoun] consent was\n[insert ground for vitiating consent, e.g., \"obtained by fraud,\" \"exceeded\" ],\nthen you must ﬁnd that [he/she/ nonbinary pronoun] did not consent.",
+  "directions_for_use": "For instructions on fraud, mistake, and duress, see other instructions in the\nContracts and Fraud or Deceit series.",
+  "sources_and_authority": [
+    {
+      "raw": "Restatement Second of Torts, section 892B provides:\n(1) Except as stated in subsection (2), consent to conduct of another\nis effective for all consequences of the conduct and for the invasion\nof any interests resulting from it.\n(2) If the person consenting to the conduct of another is induced to\nconsent by a substantial mistake concerning the nature of the invasion\nof his interests or the extent of the harm to be expected from it and\nthe mistake is known to the other or is induced by the other's\nmisrepresentation, the consent is not effective for the unexpected\ninvasion or harm.\n(3) Consent is not effective if it is given under duress.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Consent may be invalidated if the act exceeds the scope of the consent or if the\nconsent is fraudulently induced. ( Barbara A. v. John G. (1983) 145 Cal. App.3d\n369, 375 [193 Cal. Rptr. 422].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Barbara A. v. John G.",
+          "year": 1983,
+          "volume": 145,
+          "reporter": "Cal.App.3d",
+          "page": 369,
+          "pin": "375",
+          "raw": "Barbara A. v. John G. (1983) 145 Cal. App.3d 369, 375",
+          "span": [
+            116,
+            169
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Liability may be found where a physician \"intentionally deceive[s] another into\nsubmitting to otherwise offensive touching to achieve a nontherapeutic purpose\nknown only to the physician.\" ( Rains v. Superior Court (1984) 150 Cal. App.3d\n933, 941 [198 Cal. Rptr. 249].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Rains v. Superior Court",
+          "year": 1984,
+          "volume": 150,
+          "reporter": "Cal.App.3d",
+          "page": 933,
+          "pin": "941",
+          "raw": "Rains v. Superior Court (1984) 150 Cal. App.3d 933, 941",
+          "span": [
+            191,
+            246
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"As a general rule, one who consents to a touching cannot recover in an action\nfor battery. . . . However, it is well-recognized a person may place conditions on\nthe consent. If the actor exceeds the terms or conditions of the consent, the\nconsent does not protect the actor from liability for the excessive act.\" ( Ashcraft\nv. King (1991) 228 Cal. App.3d 604, 609–610 [278 Cal. Rptr. 900].)\n858",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ashcraft v. King",
+          "year": 1991,
+          "volume": 228,
+          "reporter": "Cal.App.3d",
+          "page": 604,
+          "pin": "609–610",
+          "raw": "Ashcraft v. King (1991) 228 Cal. App.3d 604, 609–610",
+          "span": [
+            316,
+            368
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§457–488\n3 Levy et al., California Torts, Ch. 41, Assault and Battery , §41.20 (Matthew\nBender)\n6 California Forms of Pleading and Practice, Ch. 58, Assault and Battery , §§58.57,\n58.91 (Matthew Bender)\n2 California Points and Authorities, Ch. 21, Assault and Battery , §21.24 (Matthew\nBender)\nCalifornia Civil Practice: Torts §§12:9, 12:18–12:19 (Thomson Reuters)\nASSAULT AND BA TTERY CACI No. 1303\n859",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Barbara A. v. John G.",
+      "year": 1983,
+      "volume": 145,
+      "reporter": "Cal.App.3d",
+      "page": 369,
+      "pin": "375",
+      "raw": "Barbara A. v. John G. (1983) 145 Cal. App.3d 369, 375",
+      "span": [
+        116,
+        169
+      ],
+      "role": "sources",
+      "case_key": "145 Cal.App.3d 369"
+    },
+    {
+      "name": "Rains v. Superior Court",
+      "year": 1984,
+      "volume": 150,
+      "reporter": "Cal.App.3d",
+      "page": 933,
+      "pin": "941",
+      "raw": "Rains v. Superior Court (1984) 150 Cal. App.3d 933, 941",
+      "span": [
+        191,
+        246
+      ],
+      "role": "sources",
+      "case_key": "150 Cal.App.3d 933"
+    },
+    {
+      "name": "Ashcraft v. King",
+      "year": 1991,
+      "volume": 228,
+      "reporter": "Cal.App.3d",
+      "page": 604,
+      "pin": "609–610",
+      "raw": "Ashcraft v. King (1991) 228 Cal. App.3d 604, 609–610",
+      "span": [
+        316,
+        368
+      ],
+      "role": "sources",
+      "case_key": "228 Cal.App.3d 604"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

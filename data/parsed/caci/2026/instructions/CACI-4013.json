@@ -1,0 +1,95 @@
+{
+  "id": "CACI-4013",
+  "edition": "2026",
+  "number": "4013",
+  "title": "Disqualification From Voting",
+  "title_full": "Disqualification From Voting",
+  "title_statute": null,
+  "series": "4000",
+  "series_title": "Series 4000 Lanterman-Petris-Short Act",
+  "page_start": 2938,
+  "page_end": 2938,
+  "instruction_text": "4013. Disqualiﬁcation From Voting\nIf you ﬁnd that [ name of respondent ] is gravely disabled, then you must\nalso decide whether [he/she/ nonbinary pronoun] should also be\ndisqualiﬁed from voting. To disqualify [ name of respondent ] from voting,\nall 12 jurors must ﬁnd, by clear and convincing evidence, that [he/she/\nnonbinary pronoun] cannot communicate, with or without reasonable\naccommodations, a desire to participate in the voting process.",
+  "directions_for_use": "Give this instruction with CACI No. 4000, Conservatorship–Essential Factual\nElements, in proceedings subject to Elections Code section 2208(b) if the petition\nprays for this relief.",
+  "sources_and_authority": [
+    {
+      "raw": "Disqualiﬁcation from V oting. Elections Code section 2208.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "ELEC",
+          "section": "2208",
+          "display": "Elections Code section 2208",
+          "raw": "Elections Code section 2208",
+          "span": [
+            30,
+            57
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Affidavit of V oter Registration. Elections Code section 2150.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "ELEC",
+          "section": "2150",
+          "display": "Elections Code section 2150",
+          "raw": "Elections Code section 2150",
+          "span": [
+            34,
+            61
+          ]
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "2 California Conservatorship Practice (Cont.Ed.Bar) §11.34\n32 California Forms of Pleading and Practice, Ch. 361A, Mental Health and Mental\nDisabilities: Judicial Commitment, Health Services, and Civil Rights , §361A.42\n(Matthew Bender)\n4014–4099. Reserved for Future Use\n1052",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "ELEC",
+      "section": "2208",
+      "display": "Elections Code section 2208",
+      "raw": "Elections Code section 2208",
+      "span": [
+        30,
+        57
+      ],
+      "role": "sources",
+      "statute_key": "CA/ELEC/2208"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "ELEC",
+      "section": "2150",
+      "display": "Elections Code section 2150",
+      "raw": "Elections Code section 2150",
+      "span": [
+        34,
+        61
+      ],
+      "role": "sources",
+      "statute_key": "CA/ELEC/2150"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "ELEC",
+      "section": "2208",
+      "display": "Elections Code section 2208(b)",
+      "raw": "Elections Code section 2208(b)",
+      "span": [
+        112,
+        142
+      ],
+      "subsection": "b",
+      "role": "directions",
+      "statute_key": "CA/ELEC/2208/b"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:24+00:00"
+}

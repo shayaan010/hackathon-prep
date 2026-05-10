@@ -1,0 +1,200 @@
+{
+  "id": "CACI-3724",
+  "edition": "2026",
+  "number": "3724",
+  "title": "Social or Recreational Activities",
+  "title_full": "Social or Recreational Activities",
+  "title_statute": null,
+  "series": "3700",
+  "series_title": "Series 3700 Vicarious Responsibility",
+  "page_start": 2669,
+  "page_end": 2670,
+  "instruction_text": "3724. Social or Recreational Activities\nSocial or recreational activities that occur after work hours are within\nthe scope of employment if:\n(a) They are carried out with the employer's stated or implied\npermission; and\n(b) They either provide a beneﬁt to the employer or have become\ncustomary.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "This aspect of the scope-of-employment analysis was expressly adopted for use\nin respondeat superior cases in Rodgers v. Kemper Construction Co. (1975) 50\nCal. App.3d 608, 620 [124 Cal. Rptr. 143], and reiterated in Childers v. Shasta\nLivestock Auction Yard, Inc. (1987) 190 Cal. App.3d 792, 804 [235 Cal. Rptr.\n641]. It is derived from the workers' compensation case of McCarty v.\nWorkmen' s Compensation Appeals Bd. (1974) 12 Cal. 3d 677, 681–683 [117\nCal. Rptr. 65, 527 P.2d 617].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Rodgers v. Kemper Construction Co.",
+          "year": 1975,
+          "volume": 50,
+          "reporter": "Cal.App.3d",
+          "page": 608,
+          "pin": "620",
+          "raw": "Rodgers v. Kemper Construction Co. (1975) 50 Cal. App.3d 608, 620",
+          "span": [
+            110,
+            175
+          ]
+        },
+        {
+          "name": "Childers v. Shasta Livestock Auction Yard, Inc.",
+          "year": 1987,
+          "volume": 190,
+          "reporter": "Cal.App.3d",
+          "page": 792,
+          "pin": "804",
+          "raw": "Childers v. Shasta Livestock Auction Yard, Inc. (1987) 190 Cal. App.3d 792, 804",
+          "span": [
+            216,
+            295
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[W]here social or recreational pursuits on the employer's premises after hours\nare endorsed by the express or implied permission of the employer and are\n'conceivably' of some beneﬁt to the employer or, even in the absence of proof of\nbeneﬁt, if such activities have become 'a customary incident of the employment\nrelationship,' an employee engaged in such pursuits after hours is still acting\nwithin the scope of his employment.\" ( Rodgers, supra, 50 Cal. App.3d at 620.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "McCarty has been overruled by statute in the context of workers' compensation\n(see Lab. Code, §3600(a)(9)). However, courts have acknowledged that \"it has\nbeen adopted as a test in establishing liability under respondeat superior.\" ( West\nAmerican Insurance Co. v. California Mutual Insurance Co. (1987) 195\nCal. App.3d 314, 322 [240 Cal. Rptr. 540].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3600",
+          "display": "Labor Code section 3600",
+          "raw": "Lab. Code, §3600(a)(9)",
+          "span": [
+            83,
+            105
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3600",
+          "display": "Labor Code section 3600(a)",
+          "raw": "Lab. Code, §3600(a)(9)",
+          "span": [
+            83,
+            105
+          ],
+          "subsection": "a"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3600",
+          "display": "Labor Code section 3600(9)",
+          "raw": "Lab. Code, §3600(a)(9)",
+          "span": [
+            83,
+            105
+          ],
+          "subsection": "9"
+        }
+      ],
+      "cases": [
+        {
+          "name": "West American Insurance Co. v. California Mutual Insurance Co.",
+          "year": 1987,
+          "volume": 195,
+          "reporter": "Cal.App.3d",
+          "page": 314,
+          "pin": "322",
+          "raw": "West American Insurance Co. v. California Mutual Insurance Co. (1987) 195 Cal. App.3d 314, 322",
+          "span": [
+            234,
+            328
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "3 Witkin, Summary of California Law (11th ed. 2017) Agency and Employment,\n§§193, 196, 201\n1 Levy et al., California Torts, Ch. 8, Vicarious Liability, §8.03[3][c] (Matthew\nBender)\n2 California Employment Law, Ch. 30, Employers' Tort Liability to Third Parties for\nConduct of Employees , §30.05 (Matthew Bender)\n21 California Forms of Pleading and Practice, Ch. 248, Employer' s Liability for\nEmployee' s Torts, §248.16 (Matthew Bender)\n37 California Forms of Pleading and Practice, Ch. 427, Principal and Agent\n(Matthew Bender)\n783\n10 California Points and Authorities, Ch. 100A, Employer and Employee:\nRespondeat Superior (Matthew Bender)\nCACI No. 3724 VICARIOUS RESPONSIBILITY\n784",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3600",
+      "display": "Labor Code section 3600",
+      "raw": "Lab. Code, §3600(a)(9)",
+      "span": [
+        83,
+        105
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/3600"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3600",
+      "display": "Labor Code section 3600(a)",
+      "raw": "Lab. Code, §3600(a)(9)",
+      "span": [
+        83,
+        105
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/LAB/3600/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3600",
+      "display": "Labor Code section 3600(9)",
+      "raw": "Lab. Code, §3600(a)(9)",
+      "span": [
+        83,
+        105
+      ],
+      "subsection": "9",
+      "role": "sources",
+      "statute_key": "CA/LAB/3600/9"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Rodgers v. Kemper Construction Co.",
+      "year": 1975,
+      "volume": 50,
+      "reporter": "Cal.App.3d",
+      "page": 608,
+      "pin": "620",
+      "raw": "Rodgers v. Kemper Construction Co. (1975) 50 Cal. App.3d 608, 620",
+      "span": [
+        110,
+        175
+      ],
+      "role": "sources",
+      "case_key": "50 Cal.App.3d 608"
+    },
+    {
+      "name": "Childers v. Shasta Livestock Auction Yard, Inc.",
+      "year": 1987,
+      "volume": 190,
+      "reporter": "Cal.App.3d",
+      "page": 792,
+      "pin": "804",
+      "raw": "Childers v. Shasta Livestock Auction Yard, Inc. (1987) 190 Cal. App.3d 792, 804",
+      "span": [
+        216,
+        295
+      ],
+      "role": "sources",
+      "case_key": "190 Cal.App.3d 792"
+    },
+    {
+      "name": "West American Insurance Co. v. California Mutual Insurance Co.",
+      "year": 1987,
+      "volume": 195,
+      "reporter": "Cal.App.3d",
+      "page": 314,
+      "pin": "322",
+      "raw": "West American Insurance Co. v. California Mutual Insurance Co. (1987) 195 Cal. App.3d 314, 322",
+      "span": [
+        234,
+        328
+      ],
+      "role": "sources",
+      "case_key": "195 Cal.App.3d 314"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

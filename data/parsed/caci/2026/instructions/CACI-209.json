@@ -1,0 +1,60 @@
+{
+  "id": "CACI-209",
+  "edition": "2026",
+  "number": "209",
+  "title": "Use of Interrogatories of a Party",
+  "title_full": "Use of Interrogatories of a Party",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 130,
+  "page_end": 130,
+  "instruction_text": "209. Use of Interrogatories of a Party\nBefore trial, each party has the right to ask the other parties to answer\nwritten questions. These questions are called interrogatories. The\nanswers are also in writing and are given under oath. Y ou must consider\nthe questions and answers that were read to you the same as if the\nquestions and answers had been given in court.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "Use of Interrogatories at Trial. Code of Civil Procedure section 2030.410.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Admissions contained in depositions and interrogatories are admissible in\nevidence to establish any material fact.\" ( Leasman v. Beech Aircraft Corp.\n(1975) 48 Cal. App.3d 376, 380 [121 Cal. Rptr. 768].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Leasman v. Beech Aircraft Corp.",
+          "year": 1975,
+          "volume": 48,
+          "reporter": "Cal.App.3d",
+          "page": 376,
+          "pin": "380",
+          "raw": "Leasman v. Beech Aircraft Corp. (1975) 48 Cal. App.3d 376, 380",
+          "span": [
+            119,
+            181
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "3 Witkin, California Evidence (6th ed. 2023) Presentation at Trial, §187\n7 Witkin, California Procedure (6th ed. 2021) Trial, §308\n1A California Trial Guide, Unit 20, Procedural Rules for Presentation of Evidence ,\n§20.50 (Matthew Bender)\n16 California Forms of Pleading and Practice, Ch. 194, Discovery: Interrogatories,\n§194.26 (Matthew Bender)\n2 California Pretrial Civil Procedure Practice Guide: The Wagstaffe Group, Ch. 41,\nInterrogatories, §41-V\n56",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Leasman v. Beech Aircraft Corp.",
+      "year": 1975,
+      "volume": 48,
+      "reporter": "Cal.App.3d",
+      "page": 376,
+      "pin": "380",
+      "raw": "Leasman v. Beech Aircraft Corp. (1975) 48 Cal. App.3d 376, 380",
+      "span": [
+        119,
+        181
+      ],
+      "role": "sources",
+      "case_key": "48 Cal.App.3d 376"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

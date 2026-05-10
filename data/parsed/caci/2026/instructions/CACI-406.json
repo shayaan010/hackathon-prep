@@ -1,0 +1,482 @@
+{
+  "id": "CACI-406",
+  "edition": "2026",
+  "number": "406",
+  "title": "Apportionment of Responsibility",
+  "title_full": "Apportionment of Responsibility",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 319,
+  "page_end": 322,
+  "instruction_text": "406. Apportionment of Responsibility\n[[Name of defendant ] claims that the [negligence/fault] of [ insert name(s)\nor description(s) of nonparty tortfeasor(s) ] [also] contributed to [ name of\nplaintiff]'s harm. To succeed on this claim, [ name of defendant ] must\nprove both of the following:\n1. That [ insert name(s) or description(s) of nonparty tortfeasor(s) ]\n[was/were] [negligent/at fault]; and\n2. That the [negligence/fault] of [ insert name(s) or description(s) of\nnonparty tortfeasor(s) ] was a substantial factor in causing [name of\nplaintiff]'s harm.]\nIf you ﬁnd that the [negligence/fault] of more than one person including\n[name of defendant ] [and] [[ name of plaintiff ]/ [and] [ name(s) or\ndescription(s) of nonparty tortfeasor(s) ]] was a substantial factor in causing\n[name of plaintiff ]'s harm, you must then decide how much responsibility\neach has by assigning percentages of responsibility to each person listed\non the verdict form. The percentages must total 100 percent.\nY ou will make a separate ﬁnding of [ name of plaintiff ]'s total damages, if\nany. In determining an amount of damages, you should not consider any\nperson's assigned percentage of responsibility.\n[\"Person\" can mean an individual or a business entity.]\n\n2011",
+  "directions_for_use": "This instruction is designed to assist the jury in completing CACI No. VF-402,\nNegligence–Fault of Plaintiff and Others at Issue, which must be given in a\nmultiple-tortfeasor case to determine comparative fault. VF-402 is designed to\ncompare the conduct of all defendants, the conduct of the plaintiff, and the conduct\nof any nonparty tortfeasors.\nThroughout, select \"fault\" if there is a need to allocate responsibility between\ntortfeasors whose alleged liability is based on conduct other than negligence, e.g.,\nstrict products liability.\nInclude the ﬁrst paragraph if the defendant has presented evidence that the conduct\nof one or more nonparties contributed to the plaintiff's harm. (See Stewart v. Union\nCarbide Corp. (2010) 190 Cal. App.4th 23, 33 [117 Cal. Rptr.3d 791] [defendant has\nburden to establish concurrent or alternate causes].) \"Nonparties\" include the\nuniverse of tortfeasors who are not present at trial, including defendants who settled\nbefore trial and nonjoined alleged tortfeasors. ( Dafonte v. Up-Right (1992) 2 Cal. 4th\n245\n593, 603 [7 Cal. Rptr.2d 238, 828 P.2d 140].) Include \"also\" if the defendant\nconcedes some degree of liability.\nIf the plaintiff's comparative fault is also at issue, give CACI No. 405, Comparative\nFault of Plaintiff , in addition to this instruction.\nInclude the last paragraph if any of the defendants or others alleged to have\ncontributed to the plaintiff's harm is not an individual.",
+  "sources_and_authority": [
+    {
+      "raw": "Proposition 51. Civil Code section 1431.2.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1431.2",
+          "display": "Civil Code section 1431.2",
+          "raw": "Civil Code section 1431.2",
+          "span": [
+            16,
+            41
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]e hold that after Li, a concurrent tortfeasor whose negligence is a proximate\ncause of an indivisible injury remains liable for the total amount of damages,\ndiminished only 'in proportion to the amount of negligence attributable to the\nperson recovering.' \" ( American Motorcycle Assn. v. Superior Court (1978) 20\nCal. 3d 578, 590 [146 Cal. Rptr. 182, 578 P.2d 899], citing Li v. Yellow Cab Co.\n(1975) 13 Cal. 3d 804, 829 [119 Cal. Rptr. 858, 532 P.2d 1226].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "American Motorcycle Assn. v. Superior Court",
+          "year": 1978,
+          "volume": 20,
+          "reporter": "Cal.3d",
+          "page": 578,
+          "pin": "590",
+          "raw": "American Motorcycle Assn. v. Superior Court (1978) 20 Cal. 3d 578, 590",
+          "span": [
+            264,
+            334
+          ]
+        },
+        {
+          "name": "Li v. Yellow Cab Co.",
+          "year": 1975,
+          "volume": 13,
+          "reporter": "Cal.3d",
+          "page": 804,
+          "pin": "829",
+          "raw": "Li v. Yellow Cab Co. (1975) 13 Cal. 3d 804, 829",
+          "span": [
+            378,
+            425
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In light of Li, however, we think that the long-recognized common law\nequitable indemnity doctrine should be modiﬁed to permit, in appropriate cases,\na right of partial indemnity, under which liability among multiple tortfeasors may\nbe apportioned on a comparative negligence basis. . . . Such a doctrine\nconforms to Li' s objective of establishing 'a system under which liability for\ndamage will be borne by those whose negligence caused it in direct proportion\nto their respective fault.' \" ( American Motorcycle Assn., supra , 20 Cal. 3d at p.\n583.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]e hold that section 1431.2, subdivision (a), does not authorize a reduction in\nthe liability of intentional tortfeasors for noneconomic damages based on the\nextent to which the negligence of other actors–including the plaintiffs, any\ncodefendants, injured parties, and nonparties–contributed to the injuries in\nquestion.\" ( B.B. v. County of Los Angeles (2020) 10 Cal. 5th 1, 29 [267\nCal. Rptr.3d 203, 471 P.3d 329].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "B.B. v. County of Los Angeles",
+          "year": 2020,
+          "volume": 10,
+          "reporter": "Cal.5th",
+          "page": 1,
+          "pin": "29",
+          "raw": "B.B. v. County of Los Angeles (2020) 10 Cal. 5th 1, 29",
+          "span": [
+            328,
+            382
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The comparative fault doctrine 'is designed to permit the trier of fact to\nconsider all relevant criteria in apportioning liability. The doctrine \"is a ﬂexible,\ncommonsense concept, under which a jury properly may consider and evaluate\nthe relative responsibility of various parties for an injury (whether their\nresponsibility for the injury rests on negligence, strict liability, or other theories\nof responsibility), in order to arrive at an 'equitable apportionment or allocation\nof loss.' \" [Citation.]' \" ( Pfeifer v. John Crane, Inc. (2013) 220 Cal. App.4th\n1270, 1285 [164 Cal. Rptr.3d 112].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Pfeifer v. John Crane, Inc.",
+          "year": 2013,
+          "volume": 220,
+          "reporter": "Cal.App.4th",
+          "page": 1270,
+          "pin": "1285",
+          "raw": "Pfeifer v. John Crane, Inc. (2013) 220 Cal. App.4th 1270, 1285",
+          "span": [
+            513,
+            575
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'Generally, a defendant has the burden of establishing that some nonzero\npercentage of fault is properly attributed to the plaintiff, other defendants, or\nnonparties to the action.' More speciﬁcally, a defendant has 'the burden to\nestablish concurrent or alternate causes by proving: that [the plaintiff] was\nexposed to defective asbestos-containing products of other companies; that the\ndefective designs of the other companies' products were legal causes of the\nCACI No. 406 NEGLIGENCE\n246\nplaintiffs' injuries; and the percentage of legal cause attributable to the other\ncompanies.' \" ( Phipps v. Copeland Corp. LLC (2021) 64 Cal. App.5th 319, 332\n[278 Cal. Rptr.3d 688], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Phipps v. Copeland Corp. LLC",
+          "year": 2021,
+          "volume": 64,
+          "reporter": "Cal.App.5th",
+          "page": 319,
+          "pin": "332",
+          "raw": "Phipps v. Copeland Corp. LLC (2021) 64 Cal. App.5th 319, 332",
+          "span": [
+            592,
+            652
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A] 'defendant['s]' liability for noneconomic damages cannot exceed his or her\nproportionate share of fault as compared with all fault responsible for the\nplaintiff' s injuries , not merely that of 'defendant[s]' present in the lawsuit.\"\n(Dafonte, supra, 2 Cal. 4th at p. 603, original italics.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The proposition that a jury may apportion liability to a nonparty has been\nadopted in the Judicial Council of California Civil Jury Instructions (CACI)\nspecial verdict form applicable to negligence cases. (See CACI V erdict Form 402\nand CACI Instruction No. 406 ['[V erdict Form] 402 is designed to compare the\nconduct of all defendants, the conduct of the plaintiff, and the conduct of any\nnonparty tortfeasors. [¶] . . . [¶] . . . \"Nonparties\" include the universe of\ntortfeasors who are not present at trial, including defendants who settled before\ntrial and nonjoined alleged tortfeasors.'].\" ( V ollaro v. Lispi (2014) 224\nCal. App.4th 93, 100 fn. 5 [168 Cal. Rptr.3d 323], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[U]nder Proposition 51, fault will be allocated to an entity that is immune from\npaying for its tortious acts, but will not be allocated to an entity that is not a\ntortfeasor, that is, one whose actions have been declared not to be tortious.\"\n(Taylor v. John Crane, Inc. (2003) 113 Cal. App.4th 1063, 1071 [6 Cal. Rptr.3d\n695], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Taylor v. John Crane, Inc.",
+          "year": 2003,
+          "volume": 113,
+          "reporter": "Cal.App.4th",
+          "page": 1063,
+          "pin": "1071",
+          "raw": "Taylor v. John Crane, Inc. (2003) 113 Cal. App.4th 1063, 1071",
+          "span": [
+            245,
+            306
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A defendant bears the burden of proving affirmative defenses and indemnity\ncross-claims. Apportionment of noneconomic damages is a form of equitable\nindemnity in which a defendant may reduce his or her damages by establishing\nothers are also at fault for the plaintiff's injuries. Placing the burden on\ndefendant to prove fault as to nonparty tortfeasors is not unjustiﬁed or unduly\nonerous.\" ( Wilson v. Ritto (2003) 105 Cal. App.4th 361, 369 [129 Cal. Rptr.2d\n336].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Wilson v. Ritto",
+          "year": 2003,
+          "volume": 105,
+          "reporter": "Cal.App.4th",
+          "page": 361,
+          "pin": "369",
+          "raw": "Wilson v. Ritto (2003) 105 Cal. App.4th 361, 369",
+          "span": [
+            396,
+            444
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]here must be substantial evidence that a nonparty is at fault before damages\ncan be apportioned to that nonparty.\" ( Scott v. C. R. Bard, Inc. (2014) 231\nCal. App.4th 763, 785 [180 Cal. Rptr.3d 479].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Scott v. C. R. Bard, Inc.",
+          "year": 2014,
+          "volume": 231,
+          "reporter": "Cal.App.4th",
+          "page": 763,
+          "pin": "785",
+          "raw": "Scott v. C. R. Bard, Inc. (2014) 231 Cal. App.4th 763, 785",
+          "span": [
+            121,
+            179
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"When a defendant is liable only by reason of a derivative nondelegable duty\narising from his status as employer or landlord or vehicle owner or\ncoconspirator, or from his role in the chain of distribution of a single product in\na products liability action, his liability is secondary (vicarious) to that of the\nactor and he is not entitled to the beneﬁts of Proposition 51.\" ( Bayer-Bel v.\nLitovsky (2008) 159 Cal. App.4th 396, 400 [71 Cal. Rptr.3d 518], original italics,\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bayer-Bel v. Litovsky",
+          "year": 2008,
+          "volume": 159,
+          "reporter": "Cal.App.4th",
+          "page": 396,
+          "pin": "400",
+          "raw": "Bayer-Bel v. Litovsky (2008) 159 Cal. App.4th 396, 400",
+          "span": [
+            378,
+            432
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Under the doctrine of strict products liability, all defendants in the chain of\ndistribution are jointly and severally liable, meaning that each defendant can be\nheld liable to the plaintiff for all damages the defective product caused.\"\n(Romine v. Johnson Controls, Inc. (2014) 224 Cal. App.4th 990, 1010 [169\nCal. Rptr.3d 208].)\nNEGLIGENCE CACI No. 406\n247",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Romine v. Johnson Controls, Inc.",
+          "year": 2014,
+          "volume": 224,
+          "reporter": "Cal.App.4th",
+          "page": 990,
+          "pin": "1010",
+          "raw": "Romine v. Johnson Controls, Inc. (2014) 224 Cal. App.4th 990, 1010",
+          "span": [
+            240,
+            306
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Proposition 51 does not apply in a strict products liability action when a single\ndefective product produced a single injury to the plaintiff. That is, all the\ndefendants in the stream of commerce of that single product remain jointly and\nseverally liable. . . . [I]n strict products liability asbestos exposure actions, . . .\nProposition 51 applies when there are multiple products that caused the\nplaintiff's injuries and there is evidence that provides a basis to allocate fault for\nnoneconomic damages between the defective products.\" ( Romine, supra, 224\nCal. App.4th at pp. 1011–1012, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he jury found that defendants are parties to a joint venture. The incidents of\na joint venture are in all important respects the same as those of a partnership.\nOne such incident of partnership is that all partners are jointly and severally\nliable for partnership obligations, irrespective of their individual partnership\ninterests. Because joint and several liability arises from the partnership or joint\nventure, Civil Code section 1431.2 is not applicable.\" ( Myrick v. Mastagni\n(2010) 185 Cal. App.4th 1082, 1091 [111 Cal. Rptr.3d 165], internal citations\nomitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1431.2",
+          "display": "Civil Code section 1431.2",
+          "raw": "Civil Code section 1431.2",
+          "span": [
+            419,
+            444
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Myrick v. Mastagni",
+          "year": 2010,
+          "volume": 185,
+          "reporter": "Cal.App.4th",
+          "page": 1082,
+          "pin": "1091",
+          "raw": "Myrick v. Mastagni (2010) 185 Cal. App.4th 1082, 1091",
+          "span": [
+            467,
+            520
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§156, 158–163, 167,\n168, 171, 172, 176\nHaning et al., California Practice Guide: Personal Injury, Ch. 9-M, V erdicts And\nJudgment, ¶ 9:662.3 (The Rutter Group)\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §§1.52–1.59\n1 Levy et al., California Torts, Ch. 4, Comparative Negligence, Assumption of the\nRisk, and Related Defenses , §§4.04–4.03, 4.07–4.08 (Matthew Bender)\n5 Levy et al., California Torts, Ch. 74, Resolving Multiparty Tort Litigation , §74.03\n(Matthew Bender)\n4 California Trial Guide, Unit 90, Closing Argument, §90.91 (Matthew Bender)\nCalifornia Products Liability Actions, Ch. 2, Liability for Defective Products ,\n§2.14A, Ch. 9, Damages, §9.01 (Matthew Bender)\n25 California Forms of Pleading and Practice, Ch. 300, Indemnity and Contribution ,\n§300.61 (Matthew Bender)\n11 California Points and Authorities, Ch. 115, Indemnity and Contribution , §115.04\net seq. (Matthew Bender)\n16 California Points and Authorities, Ch. 165, Negligence, §§165.284, 165.380\n(Matthew Bender)\nCACI No. 406 NEGLIGENCE\n248",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1431.2",
+      "display": "Civil Code section 1431.2",
+      "raw": "Civil Code section 1431.2",
+      "span": [
+        16,
+        41
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1431.2"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "American Motorcycle Assn. v. Superior Court",
+      "year": 1978,
+      "volume": 20,
+      "reporter": "Cal.3d",
+      "page": 578,
+      "pin": "590",
+      "raw": "American Motorcycle Assn. v. Superior Court (1978) 20 Cal. 3d 578, 590",
+      "span": [
+        264,
+        334
+      ],
+      "role": "sources",
+      "case_key": "20 Cal.3d 578"
+    },
+    {
+      "name": "Li v. Yellow Cab Co.",
+      "year": 1975,
+      "volume": 13,
+      "reporter": "Cal.3d",
+      "page": 804,
+      "pin": "829",
+      "raw": "Li v. Yellow Cab Co. (1975) 13 Cal. 3d 804, 829",
+      "span": [
+        378,
+        425
+      ],
+      "role": "sources",
+      "case_key": "13 Cal.3d 804"
+    },
+    {
+      "name": "B.B. v. County of Los Angeles",
+      "year": 2020,
+      "volume": 10,
+      "reporter": "Cal.5th",
+      "page": 1,
+      "pin": "29",
+      "raw": "B.B. v. County of Los Angeles (2020) 10 Cal. 5th 1, 29",
+      "span": [
+        328,
+        382
+      ],
+      "role": "sources",
+      "case_key": "10 Cal.5th 1"
+    },
+    {
+      "name": "Pfeifer v. John Crane, Inc.",
+      "year": 2013,
+      "volume": 220,
+      "reporter": "Cal.App.4th",
+      "page": 1270,
+      "pin": "1285",
+      "raw": "Pfeifer v. John Crane, Inc. (2013) 220 Cal. App.4th 1270, 1285",
+      "span": [
+        513,
+        575
+      ],
+      "role": "sources",
+      "case_key": "220 Cal.App.4th 1270"
+    },
+    {
+      "name": "Phipps v. Copeland Corp. LLC",
+      "year": 2021,
+      "volume": 64,
+      "reporter": "Cal.App.5th",
+      "page": 319,
+      "pin": "332",
+      "raw": "Phipps v. Copeland Corp. LLC (2021) 64 Cal. App.5th 319, 332",
+      "span": [
+        592,
+        652
+      ],
+      "role": "sources",
+      "case_key": "64 Cal.App.5th 319"
+    },
+    {
+      "name": "Taylor v. John Crane, Inc.",
+      "year": 2003,
+      "volume": 113,
+      "reporter": "Cal.App.4th",
+      "page": 1063,
+      "pin": "1071",
+      "raw": "Taylor v. John Crane, Inc. (2003) 113 Cal. App.4th 1063, 1071",
+      "span": [
+        245,
+        306
+      ],
+      "role": "sources",
+      "case_key": "113 Cal.App.4th 1063"
+    },
+    {
+      "name": "Wilson v. Ritto",
+      "year": 2003,
+      "volume": 105,
+      "reporter": "Cal.App.4th",
+      "page": 361,
+      "pin": "369",
+      "raw": "Wilson v. Ritto (2003) 105 Cal. App.4th 361, 369",
+      "span": [
+        396,
+        444
+      ],
+      "role": "sources",
+      "case_key": "105 Cal.App.4th 361"
+    },
+    {
+      "name": "Scott v. C. R. Bard, Inc.",
+      "year": 2014,
+      "volume": 231,
+      "reporter": "Cal.App.4th",
+      "page": 763,
+      "pin": "785",
+      "raw": "Scott v. C. R. Bard, Inc. (2014) 231 Cal. App.4th 763, 785",
+      "span": [
+        121,
+        179
+      ],
+      "role": "sources",
+      "case_key": "231 Cal.App.4th 763"
+    },
+    {
+      "name": "Bayer-Bel v. Litovsky",
+      "year": 2008,
+      "volume": 159,
+      "reporter": "Cal.App.4th",
+      "page": 396,
+      "pin": "400",
+      "raw": "Bayer-Bel v. Litovsky (2008) 159 Cal. App.4th 396, 400",
+      "span": [
+        378,
+        432
+      ],
+      "role": "sources",
+      "case_key": "159 Cal.App.4th 396"
+    },
+    {
+      "name": "Romine v. Johnson Controls, Inc.",
+      "year": 2014,
+      "volume": 224,
+      "reporter": "Cal.App.4th",
+      "page": 990,
+      "pin": "1010",
+      "raw": "Romine v. Johnson Controls, Inc. (2014) 224 Cal. App.4th 990, 1010",
+      "span": [
+        240,
+        306
+      ],
+      "role": "sources",
+      "case_key": "224 Cal.App.4th 990"
+    },
+    {
+      "name": "Myrick v. Mastagni",
+      "year": 2010,
+      "volume": 185,
+      "reporter": "Cal.App.4th",
+      "page": 1082,
+      "pin": "1091",
+      "raw": "Myrick v. Mastagni (2010) 185 Cal. App.4th 1082, 1091",
+      "span": [
+        467,
+        520
+      ],
+      "role": "sources",
+      "case_key": "185 Cal.App.4th 1082"
+    },
+    {
+      "name": "See Stewart v. Union Carbide Corp.",
+      "year": 2010,
+      "volume": 190,
+      "reporter": "Cal.App.4th",
+      "page": 23,
+      "pin": "33",
+      "raw": "See Stewart v. Union Carbide Corp. (2010) 190 Cal. App.4th 23, 33",
+      "span": [
+        689,
+        754
+      ],
+      "role": "directions",
+      "case_key": "190 Cal.App.4th 23"
+    },
+    {
+      "name": "Dafonte v. Up-Right",
+      "year": 1992,
+      "volume": 2,
+      "reporter": "Cal.4th",
+      "page": 245,
+      "pin": null,
+      "raw": "Dafonte v. Up-Right (1992) 2 Cal. 4th 245",
+      "span": [
+        1009,
+        1050
+      ],
+      "role": "directions",
+      "case_key": "2 Cal.4th 245"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

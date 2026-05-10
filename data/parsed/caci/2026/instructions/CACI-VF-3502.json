@@ -1,0 +1,64 @@
+{
+  "id": "CACI-VF-3502",
+  "edition": "2026",
+  "number": "VF-3502",
+  "title": "Fair Market Value Plus Loss of Inventory/PersonalProperty",
+  "title_full": "Fair Market Value Plus Loss of Inventory/PersonalProperty",
+  "title_statute": null,
+  "series": "VF-3500",
+  "series_title": "Series 3500 Eminent Domain",
+  "page_start": 2594,
+  "page_end": 2594,
+  "instruction_text": "VF-3502. Fair Market Value Plus Loss of Inventory/Personal\nProperty\nWe answer the questions submitted to us as follows:\n1. What was the fair market value of the property taken on [ insert\ndate of valuation ]? $\n[Answer question 2.\n2. What was the retail value on [ insert date of valuation ] of the\nportion of the lost inventory or personal property that was\nunique and not readily replaceable? $ ]\n[Answer question 3.\n3. What was the wholesale value on [ insert date of valuation ] of the\nportion of the lost inventory or personal property that was\nreadily replaceable and not unique? $ ]\nSigned:\nPresiding Juror\nDated:\nAfter [this verdict form has/all verdict forms have] been signed, notify\nthe [clerk/bailiff/court attendant].\n\nMay 2024",
+  "directions_for_use": "This verdict form is based on CACI No. 3501, \"Fair Market V alue\" Explained, and\nCACI No. 3507, Personal Property and Inventory.\nThe special verdict forms in this section are intended only as models. They may\nneed to be modiﬁed depending on the facts of the case.\nIn an eminent domain action, the jury ﬁnds only the amount of compensation.\n(Emeryville Redevelopment v. Harcros Pigments (2002) 101 Cal. App.4th 1083, 1116\n[125 Cal. Rptr.2d 12].) The court should determine whether there is inventory or\npersonal property that is unique and not readily replaceable. The jury should then\ndetermine the value of that property.\nIf the jury is given the discretion under Civil Code section 3288 to award\nprejudgment interest (see Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801,\n814 [148 Cal. Rptr. 22, 582 P.2d 109]), give CACI No. 3935, Prejudgment Interest.\n708",
+  "sources_and_authority": [],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3288",
+      "display": "Civil Code section 3288",
+      "raw": "Civil Code section 3288",
+      "span": [
+        665,
+        688
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3288"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Emeryville Redevelopment v. Harcros Pigments",
+      "year": 2002,
+      "volume": 101,
+      "reporter": "Cal.App.4th",
+      "page": 1083,
+      "pin": "1116",
+      "raw": "Emeryville Redevelopment v. Harcros Pigments (2002) 101 Cal. App.4th 1083, 1116",
+      "span": [
+        341,
+        420
+      ],
+      "role": "directions",
+      "case_key": "101 Cal.App.4th 1083"
+    },
+    {
+      "name": "Bullis v. Security Pac. Nat'l Bank",
+      "year": 1978,
+      "volume": 21,
+      "reporter": "Cal.3d",
+      "page": 801,
+      "pin": "814",
+      "raw": "Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801, 814",
+      "span": [
+        724,
+        785
+      ],
+      "role": "directions",
+      "case_key": "21 Cal.3d 801"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

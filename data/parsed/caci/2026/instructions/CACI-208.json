@@ -1,0 +1,262 @@
+{
+  "id": "CACI-208",
+  "edition": "2026",
+  "number": "208",
+  "title": "Deposition as Substantive Evidence",
+  "title_full": "Deposition as Substantive Evidence",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 129,
+  "page_end": 129,
+  "instruction_text": "208. Deposition as Substantive Evidence\nDuring the trial, you received deposition testimony that was [read from\nthe deposition transcript/[ describe other manner presented, e.g., shown by\nvideo]]. A deposition is the testimony of a person taken before trial. At a\ndeposition the person is sworn to tell the truth and is questioned by the\nattorneys. Y ou must consider the deposition testimony that was presented\nto you in the same way as you consider testimony given in court.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "How Testimony is Taken. Code of Civil Procedure section 2002.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Use of Deposition at Trial. Code of Civil Procedure section 2025.620.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Admissibility of Former Testimony. Evidence Code sections 1291(a), 1292(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "1291",
+          "display": "Evidence Code section 1291",
+          "raw": "Evidence Code sections 1291(a), 1292(a)",
+          "span": [
+            35,
+            74
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "1291",
+          "display": "Evidence Code section 1291(a)",
+          "raw": "Evidence Code sections 1291(a), 1292(a)",
+          "span": [
+            35,
+            74
+          ],
+          "subsection": "a"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "1292",
+          "display": "Evidence Code section 1292",
+          "raw": "Evidence Code sections 1291(a), 1292(a)",
+          "span": [
+            35,
+            74
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "1292",
+          "display": "Evidence Code section 1292(a)",
+          "raw": "Evidence Code sections 1291(a), 1292(a)",
+          "span": [
+            35,
+            74
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Former Testimony\" Deﬁned. Evidence Code section 1290(c).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "1290",
+          "display": "Evidence Code section 1290",
+          "raw": "Evidence Code section 1290(c)",
+          "span": [
+            27,
+            56
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "1290",
+          "display": "Evidence Code section 1290(c)",
+          "raw": "Evidence Code section 1290(c)",
+          "span": [
+            27,
+            56
+          ],
+          "subsection": "c"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Admissions contained in depositions and interrogatories are admissible in\nevidence to establish any material fact.\" ( Leasman v. Beech Aircraft Corp.\n(1975) 48 Cal. App.3d 376, 380 [121 Cal. Rptr. 768].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Leasman v. Beech Aircraft Corp.",
+          "year": 1975,
+          "volume": 48,
+          "reporter": "Cal.App.3d",
+          "page": 376,
+          "pin": "380",
+          "raw": "Leasman v. Beech Aircraft Corp. (1975) 48 Cal. App.3d 376, 380",
+          "span": [
+            119,
+            181
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The deposition of a witness, whether or not a party, may be used by any party\nfor any purpose if the court ﬁnds the witness unavailable as a witness within the\nmeaning of section 240 of the Evidence Code.\" ( Chavez v. Zapata Ocean\nResources, Inc. (1984) 155 Cal. App.3d 115, 118 [201 Cal. Rptr. 887], citation\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Chavez v. Zapata Ocean Resources, Inc.",
+          "year": 1984,
+          "volume": 155,
+          "reporter": "Cal.App.3d",
+          "page": 115,
+          "pin": "118",
+          "raw": "Chavez v. Zapata Ocean Resources, Inc. (1984) 155 Cal. App.3d 115, 118",
+          "span": [
+            209,
+            279
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "3 Witkin, California Evidence (6th ed. 2023) Presentation at Trial, §§177–186\n7 Witkin, California Procedure (6th ed. 2021) Trial, §308\n1A California Trial Guide, Unit 20, Procedural Rules for Presentation of Evidence ,\n§§20.30–20.38, Unit 40, Hearsay, §§40.60–40.61 (Matthew Bender)\n5 Levy et al., California Torts, Ch. 72, Discovery, §72.41 (Matthew Bender)\n16 California Forms of Pleading and Practice, Ch. 193, Discovery: Depositions ,\n§§193.90–193.97 (Matthew Bender)\n2 California Pretrial Civil Procedure Practice Guide: The Wagstaffe Group, Ch. 45,\nDepositions and Subpoenas in California , §45-IX\n55",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1291",
+      "display": "Evidence Code section 1291",
+      "raw": "Evidence Code sections 1291(a), 1292(a)",
+      "span": [
+        35,
+        74
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/1291"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1291",
+      "display": "Evidence Code section 1291(a)",
+      "raw": "Evidence Code sections 1291(a), 1292(a)",
+      "span": [
+        35,
+        74
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/EVID/1291/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1292",
+      "display": "Evidence Code section 1292",
+      "raw": "Evidence Code sections 1291(a), 1292(a)",
+      "span": [
+        35,
+        74
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/1292"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1292",
+      "display": "Evidence Code section 1292(a)",
+      "raw": "Evidence Code sections 1291(a), 1292(a)",
+      "span": [
+        35,
+        74
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/EVID/1292/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1290",
+      "display": "Evidence Code section 1290",
+      "raw": "Evidence Code section 1290(c)",
+      "span": [
+        27,
+        56
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/1290"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1290",
+      "display": "Evidence Code section 1290(c)",
+      "raw": "Evidence Code section 1290(c)",
+      "span": [
+        27,
+        56
+      ],
+      "subsection": "c",
+      "role": "sources",
+      "statute_key": "CA/EVID/1290/c"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Leasman v. Beech Aircraft Corp.",
+      "year": 1975,
+      "volume": 48,
+      "reporter": "Cal.App.3d",
+      "page": 376,
+      "pin": "380",
+      "raw": "Leasman v. Beech Aircraft Corp. (1975) 48 Cal. App.3d 376, 380",
+      "span": [
+        119,
+        181
+      ],
+      "role": "sources",
+      "case_key": "48 Cal.App.3d 376"
+    },
+    {
+      "name": "Chavez v. Zapata Ocean Resources, Inc.",
+      "year": 1984,
+      "volume": 155,
+      "reporter": "Cal.App.3d",
+      "page": 115,
+      "pin": "118",
+      "raw": "Chavez v. Zapata Ocean Resources, Inc. (1984) 155 Cal. App.3d 115, 118",
+      "span": [
+        209,
+        279
+      ],
+      "role": "sources",
+      "case_key": "155 Cal.App.3d 115"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

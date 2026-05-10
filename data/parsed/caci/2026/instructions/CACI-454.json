@@ -1,0 +1,377 @@
+{
+  "id": "CACI-454",
+  "edition": "2026",
+  "number": "454",
+  "title": "Affirmative Defense—Statute of Limitations",
+  "title_full": "Affirmative Defense—Statute of Limitations",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 425,
+  "page_end": 427,
+  "instruction_text": "454. Affirmative Defense–Statute of Limitations\n[Name of defendant ] contends that [ name of plaintiff ]'s lawsuit was not\nﬁled within the time set by law. To succeed on this defense, [ name of\ndefendant] must prove that [ name of plaintiff ]'s claimed harm occurred\nbefore [ insert date from applicable statute of limitation ].",
+  "directions_for_use": "This instruction states the common-law rule that an action accrues on the date of\ninjury. (Jolly v. Eli Lilly & Co. (1988) 44 Cal. 3d 1103, 1109 [245 Cal. Rptr. 658, 751\nP.2d 923].) The date to be inserted is the applicable limitation period before the\nﬁling date. For example, if the limitation period is two years and the ﬁling date is\nAugust 31, 2007, the date is August 31, 2005.\nFor an instruction on the delayed-discovery rule, see CACI No. 455, Statute of\nLimitations–Delayed Discovery . See also verdict form CACI No. VF-410, Statute\nof Limitations–Delayed Discovery–Reasonable Investigation Would Not Have\nDisclosed Pertinent Facts .\nDo not use this instruction for attorney malpractice. (See CACI No. 610, Affırmative\nDefense–Statute of Limitations–Attorney Malpractice–One-Year Limit, and CACI\nNo. 611, Affırmative Defense–Statute of Limitations–Attorney Malpractice–Four-\nYear Limit.)\n\"Claimed harm\" refers to all of the elements of the cause of action, which must\nhave occurred before the cause of action accrues and the limitation period begins.\n(Glue-Fold, Inc. v. Slautterback Corp. (2000) 82 Cal. App.4th 1018, 1029 [98\nCal. Rptr.2d 661].) In some cases, it may be necessary to modify this term to refer to\nspeciﬁc facts that give rise to the cause of action.",
+  "sources_and_authority": [
+    {
+      "raw": "Two-Y ear Statute of Limitations. Code of Civil Procedure section 335.1.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Three-Y ear Statute of Limitations. Code of Civil Procedure section 338(c).",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "One-Y ear Statute of Limitations. Code of Civil Procedure section 340.2(c).",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A limitation period does not begin until a cause of action accrues, i.e., all\nessential elements are present and a claim becomes legally actionable.\" ( Glue-\nFold, Inc., supra , 82 Cal. App.4th at p. 1029, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" ' \" ' \"Ordinarily this is when the wrongful act is done and the obligation or the\nliability arises, but it does not 'accrue until the party owning it is entitled to\nbegin and prosecute an action thereon.' \" . . . In other words, \"[a] cause of\naction accrues 'upon the occurrence of the last element essential to the cause of\naction.' \" ' \" ' \" ( Choi v. Sagemark Consulting (2017) 18 Cal. App.5th 308, 323\n[226 Cal. Rptr.3d 267], original italics.)\n351",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Choi v. Sagemark Consulting",
+          "year": 2017,
+          "volume": 18,
+          "reporter": "Cal.App.5th",
+          "page": 308,
+          "pin": "323",
+          "raw": "Choi v. Sagemark Consulting (2017) 18 Cal. App.5th 308, 323",
+          "span": [
+            348,
+            407
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"It is undisputed that plaintiffs discovered shortly after the accident in 2010 that\n[defendant] had failed to secure the insurance coverage plaintiffs requested.\nThus, this case does not involve the delayed discovery doctrine, which makes\n'accrual of a cause of action contingent on when a party discovered or should\nhave discovered that his or her injury had a wrongful cause.' In delayed\ndiscovery cases, 'plaintiffs are required to conduct a reasonable investigation\nafter becoming aware of an injury, and are charged with knowledge of the\ninformation that would have been revealed by such an investigation.' Here, the\nquestion is when plaintiffs incurred 'actual injury'–not when they discovered\n[defendant]'s negligence. The trial court erred to the extent that it relied on the\ndelayed discovery doctrine to determine when plaintiffs incurred actual injury.\"\n(Lederer v. Gursey Schneider LLP (2018) 22 Cal. App.5th 508, 521 [231\nCal. Rptr.3d 518], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lederer v. Gursey Schneider LLP",
+          "year": 2018,
+          "volume": 22,
+          "reporter": "Cal.App.5th",
+          "page": 508,
+          "pin": "521",
+          "raw": "Lederer v. Gursey Schneider LLP (2018) 22 Cal. App.5th 508, 521",
+          "span": [
+            867,
+            930
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Where, as here, 'damages are an element of a cause of action, the cause of\naction does not accrue until the damages have been sustained. . . . \"Mere threat\nof future harm, not yet realized, is not enough.\" . . . \"Basic public policy is best\nserved by recognizing that damage is necessary to mature such a cause of\naction.\" . . . Therefore, when the wrongful act does not result in immediate\ndamage, \"the cause of action does not accrue prior to the maturation of\nperceptible harm.\" ' \" ( Thomson v. Canyon (2011) 198 Cal. App.4th 594, 604\n[129 Cal. Rptr.3d 525].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Thomson v. Canyon",
+          "year": 2011,
+          "volume": 198,
+          "reporter": "Cal.App.4th",
+          "page": 594,
+          "pin": "604",
+          "raw": "Thomson v. Canyon (2011) 198 Cal. App.4th 594, 604",
+          "span": [
+            489,
+            539
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[W]hen a defendant asserts a statute of limitations defense against a FEHA\nfailure to promote claim, the burden is on the defendant to prove when the\nplaintiff knew or should have known of the adverse promotion decision. ( Pollock\nv. Tri-Modal Distribution Services, Inc. (2021) 11 Cal. 5th 918, 947 [281\nCal. Rptr.3d 498, 491 P.3d 290].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Pollock v. Tri-Modal Distribution Services, Inc.",
+          "year": 2021,
+          "volume": 11,
+          "reporter": "Cal.5th",
+          "page": 918,
+          "pin": "947",
+          "raw": "Pollock v. Tri-Modal Distribution Services, Inc. (2021) 11 Cal. 5th 918, 947",
+          "span": [
+            224,
+            300
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" '[O]nce plaintiff has suffered actual and appreciable harm, neither the\nspeculative nor uncertain character of damages nor the difficulty of proof will\ntoll the period of limitation.' Cases contrast actual and appreciable harm with\nnominal damages, speculative harm or the threat of future harm. The mere\nbreach of duty–causing only nominal damages, speculative harm or the threat\nof future harm not yet realized–normally does not suffice to create a cause of\naction.\" ( San Francisco Uniﬁed School Dist. v. W. R. Grace & Co. (1995) 37\nCal. App.4th 1318, 1326 [44 Cal. Rptr.2d 305], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Violations of a continuing or recurring obligation may give rise to 'continuous\naccrual' of causes of action, meaning that ' \"a cause of action accrues each time\na wrongful act occurs, triggering a new limitations period.\" [Citation.]' \"\n(Esparza v. Safeway, Inc. (2019) 36 Cal. App.5th 42, 59 [247 Cal. Rptr.3d 875].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Esparza v. Safeway, Inc.",
+          "year": 2019,
+          "volume": 36,
+          "reporter": "Cal.App.5th",
+          "page": 42,
+          "pin": "59",
+          "raw": "Esparza v. Safeway, Inc. (2019) 36 Cal. App.5th 42, 59",
+          "span": [
+            240,
+            294
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Generally, the bar of the statute of limitations is raised as an affirmative\ndefense, subject to proof by the defendant.\" ( Czajkowski v. Haskell & White\n(2012) 208 Cal. App.4th 166, 174 [144 Cal. Rptr.3d 522].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" '[R]esolution of the statute of limitations issue is normally a question of\nfact . . . .' \" ( Romano v. Rockwell Int'l, Inc. (1996) 14 Cal. 4th 479, 487 [59\nCal. Rptr.2d 20, 926 P.2d 1114].)\nCACI No. 454 NEGLIGENCE\n352",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Romano v. Rockwell Int'l, Inc.",
+          "year": 1996,
+          "volume": 14,
+          "reporter": "Cal.4th",
+          "page": 479,
+          "pin": "487",
+          "raw": "Romano v. Rockwell Int'l, Inc. (1996) 14 Cal. 4th 479, 487",
+          "span": [
+            96,
+            154
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Commencement of the statute of limitations is usually a factual question, but\ncan be resolved as a matter of law when, as here, the material facts are not\ndisputed.\" Moss v. Duncan (2019) 36 Cal. App.5th 569, 574 [248 Cal. Rptr.3d\n689].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Moss v. Duncan",
+          "year": 2019,
+          "volume": 36,
+          "reporter": "Cal.App.5th",
+          "page": 569,
+          "pin": "574",
+          "raw": "Moss v. Duncan (2019) 36 Cal. App.5th 569, 574",
+          "span": [
+            167,
+            213
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Because the relevant facts are not in dispute, the application of the statute of\nlimitations may be decided as a question of law.\" ( Lederer , supra, 22\nCal. App.5th at p. 521.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Based upon our review of legal precedent and our understanding of the\nprinciples and policies of the continuous accrual theory, we conclude that the\ntheory is not limited in its application to cases in which a payor has acted\n'wrongfully' in the sense of failing or refusing to make a periodic payment to a\npayee.\" ( Blaser v. State Teachers' Retirement System (2019) 37 Cal. App.5th 349,\n372 [249 Cal. Rptr.3d 701].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Blaser v. State Teachers' Retirement System",
+          "year": 2019,
+          "volume": 37,
+          "reporter": "Cal.App.5th",
+          "page": 349,
+          "pin": "372",
+          "raw": "Blaser v. State Teachers' Retirement System (2019) 37 Cal. App.5th 349, 372",
+          "span": [
+            318,
+            393
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"So long as the time allowed for ﬁling an action is not inherently unreasonable,\nCalifornia courts afford 'contracting parties considerable freedom to modify the\nlength of a statute of limitations.' \" ( Wind Dancer Production Group v. Walt\nDisney Pictures (2017) 10 Cal. App.5th 56, 74 [215 Cal. Rptr.3d 835].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Wind Dancer Production Group v. Walt Disney Pictures",
+          "year": 2017,
+          "volume": 10,
+          "reporter": "Cal.App.5th",
+          "page": 56,
+          "pin": "74",
+          "raw": "Wind Dancer Production Group v. Walt Disney Pictures (2017) 10 Cal. App.5th 56, 74",
+          "span": [
+            203,
+            285
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "4 Witkin, California Procedure (6th ed. 2021) Actions, §473 et seq.\n5 Levy et al., California Torts, Ch. 71, Commencement, Prosecution, and Dismissal\nof Tort Actions , §§71.01–71.06 (Matthew Bender)\n30 California Forms of Pleading and Practice, Ch. 345, Limitation of Actions ,\n§345.10 et seq., 345.20 (Matthew Bender)\n14 California Points and Authorities, Ch. 143, Limitation of Actions , §143.20 et seq.\n(Matthew Bender)\n1 California Pretrial Civil Procedure Practice Guide: The Wagstaffe Group, Ch. 17,\nPreparing the Answer , §17-IV[I]\nNEGLIGENCE CACI No. 454\n353",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Choi v. Sagemark Consulting",
+      "year": 2017,
+      "volume": 18,
+      "reporter": "Cal.App.5th",
+      "page": 308,
+      "pin": "323",
+      "raw": "Choi v. Sagemark Consulting (2017) 18 Cal. App.5th 308, 323",
+      "span": [
+        348,
+        407
+      ],
+      "role": "sources",
+      "case_key": "18 Cal.App.5th 308"
+    },
+    {
+      "name": "Lederer v. Gursey Schneider LLP",
+      "year": 2018,
+      "volume": 22,
+      "reporter": "Cal.App.5th",
+      "page": 508,
+      "pin": "521",
+      "raw": "Lederer v. Gursey Schneider LLP (2018) 22 Cal. App.5th 508, 521",
+      "span": [
+        867,
+        930
+      ],
+      "role": "sources",
+      "case_key": "22 Cal.App.5th 508"
+    },
+    {
+      "name": "Thomson v. Canyon",
+      "year": 2011,
+      "volume": 198,
+      "reporter": "Cal.App.4th",
+      "page": 594,
+      "pin": "604",
+      "raw": "Thomson v. Canyon (2011) 198 Cal. App.4th 594, 604",
+      "span": [
+        489,
+        539
+      ],
+      "role": "sources",
+      "case_key": "198 Cal.App.4th 594"
+    },
+    {
+      "name": "Pollock v. Tri-Modal Distribution Services, Inc.",
+      "year": 2021,
+      "volume": 11,
+      "reporter": "Cal.5th",
+      "page": 918,
+      "pin": "947",
+      "raw": "Pollock v. Tri-Modal Distribution Services, Inc. (2021) 11 Cal. 5th 918, 947",
+      "span": [
+        224,
+        300
+      ],
+      "role": "sources",
+      "case_key": "11 Cal.5th 918"
+    },
+    {
+      "name": "Esparza v. Safeway, Inc.",
+      "year": 2019,
+      "volume": 36,
+      "reporter": "Cal.App.5th",
+      "page": 42,
+      "pin": "59",
+      "raw": "Esparza v. Safeway, Inc. (2019) 36 Cal. App.5th 42, 59",
+      "span": [
+        240,
+        294
+      ],
+      "role": "sources",
+      "case_key": "36 Cal.App.5th 42"
+    },
+    {
+      "name": "Romano v. Rockwell Int'l, Inc.",
+      "year": 1996,
+      "volume": 14,
+      "reporter": "Cal.4th",
+      "page": 479,
+      "pin": "487",
+      "raw": "Romano v. Rockwell Int'l, Inc. (1996) 14 Cal. 4th 479, 487",
+      "span": [
+        96,
+        154
+      ],
+      "role": "sources",
+      "case_key": "14 Cal.4th 479"
+    },
+    {
+      "name": "Moss v. Duncan",
+      "year": 2019,
+      "volume": 36,
+      "reporter": "Cal.App.5th",
+      "page": 569,
+      "pin": "574",
+      "raw": "Moss v. Duncan (2019) 36 Cal. App.5th 569, 574",
+      "span": [
+        167,
+        213
+      ],
+      "role": "sources",
+      "case_key": "36 Cal.App.5th 569"
+    },
+    {
+      "name": "Blaser v. State Teachers' Retirement System",
+      "year": 2019,
+      "volume": 37,
+      "reporter": "Cal.App.5th",
+      "page": 349,
+      "pin": "372",
+      "raw": "Blaser v. State Teachers' Retirement System (2019) 37 Cal. App.5th 349, 372",
+      "span": [
+        318,
+        393
+      ],
+      "role": "sources",
+      "case_key": "37 Cal.App.5th 349"
+    },
+    {
+      "name": "Wind Dancer Production Group v. Walt Disney Pictures",
+      "year": 2017,
+      "volume": 10,
+      "reporter": "Cal.App.5th",
+      "page": 56,
+      "pin": "74",
+      "raw": "Wind Dancer Production Group v. Walt Disney Pictures (2017) 10 Cal. App.5th 56, 74",
+      "span": [
+        203,
+        285
+      ],
+      "role": "sources",
+      "case_key": "10 Cal.App.5th 56"
+    },
+    {
+      "name": "Glue-Fold, Inc. v. Slautterback Corp.",
+      "year": 2000,
+      "volume": 82,
+      "reporter": "Cal.App.4th",
+      "page": 1018,
+      "pin": "1029",
+      "raw": "Glue-Fold, Inc. v. Slautterback Corp. (2000) 82 Cal. App.4th 1018, 1029",
+      "span": [
+        1061,
+        1132
+      ],
+      "role": "directions",
+      "case_key": "82 Cal.App.4th 1018"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:09+00:00"
+}

@@ -1,0 +1,170 @@
+{
+  "id": "CACI-705",
+  "edition": "2026",
+  "number": "705",
+  "title": "Turning",
+  "title_full": "Turning (Veh. Code, § 22107)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "VEH",
+    "section": "22107",
+    "display": "Vehicle Code section 22107",
+    "raw": "Veh. Code, § 22107",
+    "span": [
+      0,
+      18
+    ]
+  },
+  "series": "700",
+  "series_title": "Series 700 Motor Vehicles and Highway Safety",
+  "page_start": 629,
+  "page_end": 629,
+  "instruction_text": "705. Turning (Veh. Code, §22107)\nA driver must use reasonable care when turning [or moving to the right\nor to the left].",
+  "directions_for_use": "An instruction on this point should be given only if the jury is instructed on Vehicle\nCode section 22107. It should be read after that section has been given. ( Anderson\nv. Latimer (1985) 166 Cal. App.3d 667, 672–673 [212 Cal. Rptr. 544].)",
+  "sources_and_authority": [
+    {
+      "raw": "Turning and Changing Lanes. Vehicle Code section 22107.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22107",
+          "display": "Vehicle Code section 22107",
+          "raw": "Vehicle Code section 22107",
+          "span": [
+            28,
+            54
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"This provision does not require the driver to know that a turn can be made with\nsafety but only that he must exercise reasonable care, and whether such care has\nbeen exercised is normally a question of fact.\" ( Butigan v. Yellow Cab Co.\n(1958) 49 Cal. 2d 652, 656 [320 P.2d 500].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Butigan v. Yellow Cab Co.",
+          "year": 1958,
+          "volume": 49,
+          "reporter": "Cal.2d",
+          "page": 652,
+          "pin": "656",
+          "raw": "Butigan v. Yellow Cab Co. (1958) 49 Cal. 2d 652, 656",
+          "span": [
+            212,
+            264
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Courts have held that a reading of section 22107 should be followed by an\ninstruction clarifying that the driver is under a duty to exercise only as much\ncare as a reasonably prudent person when making a turn or movement: \"An\ninstruction to a jury concerning Vehicle Code, section 544 [now 22107] must\nmake it clear that the driver who is about to turn must exercise such care as\nwould a reasonably prudent man under similar circumstances, no more and no\nless.\" ( Lewis v. Franklin (1958) 161 Cal. App.2d 177, 184 [326 P.2d 625].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "544",
+          "display": "Vehicle Code section 544",
+          "raw": "Vehicle Code, section 544",
+          "span": [
+            259,
+            284
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Lewis v. Franklin",
+          "year": 1958,
+          "volume": 161,
+          "reporter": "Cal.App.2d",
+          "page": 177,
+          "pin": "184",
+          "raw": "Lewis v. Franklin (1958) 161 Cal. App.2d 177, 184",
+          "span": [
+            464,
+            513
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1014, 1015, 1017\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §§4.10–4.11\n2 Levy et al., California Torts, Ch. 20, Motor V ehicles, §20.67 (Matthew Bender)\n8 California Forms of Pleading and Practice, Ch. 82, Automobiles: Causes of Action ,\n§§82.66, 82.67 (Matthew Bender)\n555",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "22107",
+      "display": "Vehicle Code section 22107",
+      "raw": "Veh. Code, § 22107",
+      "span": [
+        0,
+        18
+      ],
+      "role": "title",
+      "statute_key": "CA/VEH/22107"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "544",
+      "display": "Vehicle Code section 544",
+      "raw": "Vehicle Code, section 544",
+      "span": [
+        259,
+        284
+      ],
+      "role": "sources",
+      "statute_key": "CA/VEH/544"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Butigan v. Yellow Cab Co.",
+      "year": 1958,
+      "volume": 49,
+      "reporter": "Cal.2d",
+      "page": 652,
+      "pin": "656",
+      "raw": "Butigan v. Yellow Cab Co. (1958) 49 Cal. 2d 652, 656",
+      "span": [
+        212,
+        264
+      ],
+      "role": "sources",
+      "case_key": "49 Cal.2d 652"
+    },
+    {
+      "name": "Lewis v. Franklin",
+      "year": 1958,
+      "volume": 161,
+      "reporter": "Cal.App.2d",
+      "page": 177,
+      "pin": "184",
+      "raw": "Lewis v. Franklin (1958) 161 Cal. App.2d 177, 184",
+      "span": [
+        464,
+        513
+      ],
+      "role": "sources",
+      "case_key": "161 Cal.App.2d 177"
+    },
+    {
+      "name": "Anderson v. Latimer",
+      "year": 1985,
+      "volume": 166,
+      "reporter": "Cal.App.3d",
+      "page": 667,
+      "pin": "672–673",
+      "raw": "Anderson v. Latimer (1985) 166 Cal. App.3d 667, 672–673",
+      "span": [
+        162,
+        217
+      ],
+      "role": "directions",
+      "case_key": "166 Cal.App.3d 667"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

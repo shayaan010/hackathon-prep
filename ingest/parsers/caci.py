@@ -219,23 +219,37 @@ def _split_sections(blob: str) -> list[tuple[str, list[str]]]:
 
 # Reporters we care about (CA + Federal common ones).
 # We anchor on (year) volume reporter page  which is a very strong signal.
+# PDF extraction may insert spaces between Cal.|App. or other reporter parts,
+# so allow optional whitespace between every component.
 _REPORTER_ALT = (
-    r"Cal\.\s*\d?d?h?(?:rd|st|nd|th)?(?:\s*Supp\.)?"
-    r"|Cal\.App\.\s*\d?(?:rd|st|nd|th)?(?:\s*Supp\.)?"
-    r"|Cal\.4th"
-    r"|Cal\.5th"
-    r"|U\.S\."
-    r"|F\.\s*(?:Supp\.|3d|2d|4th)"
-    r"|F\.\s*\d+(?:rd|st|nd|th)?"
+    # California: Cal., Cal.App., Cal.2d, Cal.4th, Cal. App. 2d, Cal.App.5th, etc.
+    r"Cal\.(?:\s*App\.)?(?:\s*\d(?:d|st|nd|rd|th))?(?:\s*Supp\.)?"
+    # U.S. Supreme Court
+    r"|U\.\s*S\."
+    # Federal Reporter & supplements
+    r"|F\.(?:\s*\d(?:d|st|nd|rd|th))?(?:\s*Supp\.(?:\s*\d(?:d|st|nd|rd|th))?)?"
+    # State / regional reporters occasionally cited in CACI
+    r"|N\.\s*Y\.(?:\s*\d(?:d|st|nd|rd|th))?"
+    r"|N\.\s*W\.(?:\s*\d(?:d|st|nd|rd|th))?"
+    r"|S\.\s*W\.(?:\s*\d(?:d|st|nd|rd|th))?"
+    r"|N\.\s*E\.(?:\s*\d(?:d|st|nd|rd|th))?"
+    r"|S\.\s*E\.(?:\s*\d(?:d|st|nd|rd|th))?"
+    r"|P\.(?:\s*\d(?:d|st|nd|rd|th))?"
+    r"|A\.(?:\s*\d(?:d|st|nd|rd|th))?"
+    # Cal.Rptr. (treated as primary in some older cites)
+    r"|Cal\.\s*Rptr\.(?:\s*\d(?:d|st|nd|rd|th))?"
 )
 
 CASE_RE = re.compile(
     # Party-A v. Party-B (year) vol Reporter page[, pin]
-    r"(?P<name>[A-Z][\w'’.\-]+(?:\s+(?:[A-Z][\w'’.\-]*|of|the|and|de|la|del|von)\.?)*"
-    r"(?:,?\s+(?:Inc\.|LLC|Co\.|Corp\.|Ltd\.|L\.P\.|L\.L\.C\.))?)"
+    # Allow line breaks inside party names (PDF wraps lines).
+    r"(?P<name>[A-Z][\w'’.\-]+"
+    r"(?:[\s\n]+(?:[A-Z][\w'’.\-]*|of|the|and|de|la|del|von)\.?)*"
+    r"(?:,?[\s\n]+(?:Inc\.|LLC|Co\.|Corp\.|Ltd\.|L\.P\.|L\.L\.C\.|Co))?)"
     r"\s+v\.\s+"
-    r"(?P<name2>[A-Z][\w'’.\-]+(?:\s+(?:[A-Z][\w'’.\-]*|of|the|and|de|la|del|von)\.?)*"
-    r"(?:,?\s+(?:Inc\.|LLC|Co\.|Corp\.|Ltd\.|L\.P\.|L\.L\.C\.))?)"
+    r"(?P<name2>[A-Z][\w'’.\-]+"
+    r"(?:[\s\n]+(?:[A-Z][\w'’.\-]*|of|the|and|de|la|del|von)\.?)*"
+    r"(?:,?[\s\n]+(?:Inc\.|LLC|Co\.|Corp\.|Ltd\.|L\.P\.|L\.L\.C\.|Co))?)"
     r"\s*\((?P<year>\d{4})\)\s+"
     r"(?P<vol>\d+)\s+"
     r"(?P<reporter>" + _REPORTER_ALT + r")"
@@ -442,14 +456,24 @@ def extract_statutes(text: str) -> list[dict]:
 def extract_cases(text: str) -> list[dict]:
     out: list[dict] = []
     for m in CASE_RE.finditer(text):
+        # Collapse intra-name whitespace (PDF line wraps) so the case name
+        # round-trips cleanly.
+        name1 = re.sub(r"\s+", " ", m.group("name")).strip()
+        name2 = re.sub(r"\s+", " ", m.group("name2")).strip()
+        # Reporter: strip duplicate spaces and the kerning artifact between
+        # 'Cal.' and 'App.' to canonicalize.
+        reporter_raw = re.sub(r"\s+", " ", m.group("reporter")).strip()
+        # Canonical reporter form: 'Cal. App.2d' -> 'Cal.App.2d',
+        # 'Cal. 4th' -> 'Cal.4th'.
+        reporter = re.sub(r"\.\s+", ".", reporter_raw)
         out.append({
-            "name": f"{m.group('name')} v. {m.group('name2')}",
+            "name": f"{name1} v. {name2}",
             "year": int(m.group("year")),
             "volume": int(m.group("vol")),
-            "reporter": re.sub(r"\s+", " ", m.group("reporter")).strip(),
+            "reporter": reporter,
             "page": int(m.group("page")),
             "pin": m.group("pin"),
-            "raw": m.group(0),
+            "raw": re.sub(r"\s+", " ", m.group(0)).strip(),
             "span": [m.start(), m.end()],
         })
     return out

@@ -1,0 +1,81 @@
+{
+  "id": "CACI-224",
+  "edition": "2026",
+  "number": "224",
+  "title": "Testimony of Child",
+  "title_full": "Testimony of Child",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 153,
+  "page_end": 154,
+  "instruction_text": "224. Testimony of Child\nY ou have heard testimony from a witness who is [ ] years old. As\nwith any other witness, you must decide whether the child gave truthful\nand accurate testimony.\nIn evaluating a child's testimony, you should consider all of the factors\nsurrounding that testimony, including the child's age and ability to\nperceive, understand, remember, and communicate.\nY ou should not discount or distrust testimony just because a witness is a\nchild.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "Minors Qualiﬁed to Testify. Evidence Code section 700.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "700",
+          "display": "Evidence Code section 700",
+          "raw": "Evidence Code section 700",
+          "span": [
+            28,
+            53
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Evaluation of Child's Testimony in Criminal Trial. Penal Code section 1127f.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "1127",
+          "display": "Penal Code section 1127",
+          "raw": "Penal Code section 1127",
+          "span": [
+            51,
+            74
+          ]
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "3 Witkin, California Evidence (5th ed. 2012) Presentation, §§13, 100, 232\nWegner et al., California Practice Guide: Civil Trial and Evidence, Ch. 8C-A,\nTestimony, ¶¶ 8:228–8:233 (The Rutter Group)\nJefferson's California Evidence Benchbook (Cont.Ed.Bar 3d ed.) §26.2\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §§551.111, 551.113,\n551.122 (Matthew Bender)\n1 Cotchett, California Courtroom Evidence, Ch. 16, Competency, Oath,\nConfrontation, Experts, Interpreters, Credibility, and Hypnosis , §16.01 (Matthew\nBender)\nCalifornia Judges Benchbook: Civil Proceedings–Trial §8.105 (Cal CJER 2019)\n225–299. Reserved for Future Use\n79",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "700",
+      "display": "Evidence Code section 700",
+      "raw": "Evidence Code section 700",
+      "span": [
+        28,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/700"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "1127",
+      "display": "Penal Code section 1127",
+      "raw": "Penal Code section 1127",
+      "span": [
+        51,
+        74
+      ],
+      "role": "sources",
+      "statute_key": "CA/PEN/1127"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

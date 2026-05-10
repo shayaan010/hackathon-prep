@@ -1,0 +1,232 @@
+{
+  "id": "CACI-708",
+  "edition": "2026",
+  "number": "708",
+  "title": "Maximum Speed Limit",
+  "title_full": "Maximum Speed Limit (Veh. Code, §§ 22349, 22356)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "VEH",
+    "section": "22349",
+    "display": "Vehicle Code section 22349",
+    "raw": "Veh. Code, §§ 22349, 22356",
+    "span": [
+      0,
+      26
+    ]
+  },
+  "series": "700",
+  "series_title": "Series 700 Motor Vehicles and Highway Safety",
+  "page_start": 633,
+  "page_end": 633,
+  "instruction_text": "708. Maximum Speed Limit (Veh. Code, §§22349, 22356)\nThe maximum speed limit where the accident occurred was [ insert\nnumber] miles per hour.",
+  "directions_for_use": "An instruction on maximum speed limits could be useful to help frame the issue for\nthe jury. On the other hand, a speciﬁc instruction on the maximum speed limits may\nbe unnecessary. In the event that there is sufficient evidence to support an\ninstruction that one of the parties violated the maximum speed limit, the judge could\ngive the negligence per se instructions while reciting the speciﬁc code section. In\nthat event, the judge would not give an instruction on the basic speed law. (See\nHargrave v. Winquist (1982) 134 Cal. App.3d 916 [185 Cal. Rptr. 30].)",
+  "sources_and_authority": [
+    {
+      "raw": "General Maximum Speed is 65 Miles Per Hour. Vehicle Code section 22349(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22349",
+          "display": "Vehicle Code section 22349",
+          "raw": "Vehicle Code section 22349(a)",
+          "span": [
+            44,
+            73
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22349",
+          "display": "Vehicle Code section 22349(a)",
+          "raw": "Vehicle Code section 22349(a)",
+          "span": [
+            44,
+            73
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Basic Maximum Speed for Two-Lane Undivided Highways is 55 Miles Per\nHour. Vehicle Code section 22349(b).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22349",
+          "display": "Vehicle Code section 22349",
+          "raw": "Vehicle Code section 22349(b)",
+          "span": [
+            74,
+            103
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22349",
+          "display": "Vehicle Code section 22349(b)",
+          "raw": "Vehicle Code section 22349(b)",
+          "span": [
+            74,
+            103
+          ],
+          "subsection": "b"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Maximum Speed at Selected Locations is 70 Miles Per Hour. Vehicle Code\nsection 22356.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22356",
+          "display": "Vehicle Code section 22356",
+          "raw": "Vehicle Code\nsection 22356",
+          "span": [
+            58,
+            84
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Driving Too Slowly. Vehicle Code section 22400(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22400",
+          "display": "Vehicle Code section 22400",
+          "raw": "Vehicle Code section 22400(a)",
+          "span": [
+            20,
+            49
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22400",
+          "display": "Vehicle Code section 22400(a)",
+          "raw": "Vehicle Code section 22400(a)",
+          "span": [
+            20,
+            49
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1009\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §4.17\n2 Levy et al., California Torts, Ch. 20, Motor V ehicles, §20.63[2][b], [4][b][iii]\n(Matthew Bender)\n559",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "22349",
+      "display": "Vehicle Code section 22349",
+      "raw": "Veh. Code, §§ 22349, 22356",
+      "span": [
+        0,
+        26
+      ],
+      "role": "title",
+      "statute_key": "CA/VEH/22349"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "22349",
+      "display": "Vehicle Code section 22349(a)",
+      "raw": "Vehicle Code section 22349(a)",
+      "span": [
+        44,
+        73
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/VEH/22349/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "22349",
+      "display": "Vehicle Code section 22349(b)",
+      "raw": "Vehicle Code section 22349(b)",
+      "span": [
+        74,
+        103
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/VEH/22349/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "22356",
+      "display": "Vehicle Code section 22356",
+      "raw": "Vehicle Code\nsection 22356",
+      "span": [
+        58,
+        84
+      ],
+      "role": "sources",
+      "statute_key": "CA/VEH/22356"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "22400",
+      "display": "Vehicle Code section 22400",
+      "raw": "Vehicle Code section 22400(a)",
+      "span": [
+        20,
+        49
+      ],
+      "role": "sources",
+      "statute_key": "CA/VEH/22400"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "22400",
+      "display": "Vehicle Code section 22400(a)",
+      "raw": "Vehicle Code section 22400(a)",
+      "span": [
+        20,
+        49
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/VEH/22400/a"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "See Hargrave v. Winquist",
+      "year": 1982,
+      "volume": 134,
+      "reporter": "Cal.App.3d",
+      "page": 916,
+      "pin": null,
+      "raw": "See Hargrave v. Winquist (1982) 134 Cal. App.3d 916",
+      "span": [
+        490,
+        541
+      ],
+      "role": "directions",
+      "case_key": "134 Cal.App.3d 916"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

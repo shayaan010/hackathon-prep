@@ -1,0 +1,304 @@
+{
+  "id": "CACI-3708",
+  "edition": "2026",
+  "number": "3708",
+  "title": "Peculiar-Risk Doctrine",
+  "title_full": "Peculiar-Risk Doctrine",
+  "title_statute": null,
+  "series": "3700",
+  "series_title": "Series 3700 Vicarious Responsibility",
+  "page_start": 2637,
+  "page_end": 2640,
+  "instruction_text": "3708. Peculiar-Risk Doctrine\n[Name of plaintiff ] claims that even if [ name of independent contractor ] was\nnot an employee, [ name of defendant ] is responsible for [ name of\nindependent contractor ]'s conduct because the work involved a special\nrisk of harm.\nA special risk of harm is a recognizable danger that arises out of the\nnature of the work or the place where it is done and requires speciﬁc\nsafety measures appropriate to the danger. A special risk of harm may\nalso arise out of a planned but unsafe method of doing the work. A\nspecial risk of harm does not include a risk that is unusual, abnormal, or\nnot related to the normal or expected risks associated with the work.\nTo establish this claim, [ name of plaintiff ] must prove each of the\nfollowing:\n1. That the work was likely to involve a special risk of harm to\nothers;\n2. That [ name of defendant ] knew or should have known that the\nwork was likely to involve this risk;\n3. That [ name of independent contractor ] failed to use reasonable care\nto take speciﬁc safety measures appropriate to the danger to\navoid this risk; and\n4. That [ name of independent contractor ]'s failure was a cause of\nharm to [ name of plaintiff ].\n[In deciding whether [ name of defendant ] should have known the risk,\nyou should consider [his/her/ nonbinary pronoun/its] knowledge and\nexperience in the ﬁeld of work to be done.]",
+  "directions_for_use": "This instruction may be used if the plaintiff seeks to hold the hirer of an\nindependent contractor vicariously liable for the independent contractor's torts\nbecause the work for which the contractor was hired involves a special risk arising\nout of the nature of the work or its location.\nHowever, do not give this instruction if an independent contractor (or its employee)\nseeks to hold the hirer or general contractor vicariously liable for injuries arising\nfrom the work performed by the independent contractor for the hirer. ( Gonzalez v.\nMathis (2021) 12 Cal. 5th 29, 52 [282 Cal. Rptr.3d 658, 493 P.3d 212].) Give instead,\nif applicable, CACI No. 1009B, Liability to Employees of Independent Contractors\nfor Unsafe Conditions–Retained Control .\n751",
+  "sources_and_authority": [
+    {
+      "raw": "\"The doctrine of peculiar risk is an exception to the common law rule that a\nhirer was not liable for the torts of an independent contractor. Under this\ndoctrine, 'a person who hires an independent contractor to perform work that is\ninherently dangerous can be held liable for tort damages when the contractor's\nnegligent performance of the work causes injuries to others. By imposing such\nliability without fault on the person who hires the independent contractor, the\ndoctrine seeks to ensure that injuries caused by inherently dangerous work will\nbe compensated, that the person for whose beneﬁt the contracted work is done\nbears responsibility for any risks of injury to others, and that adequate\nsafeguards are taken to prevent such injuries.' This doctrine of peculiar risk thus\nrepresents a limitation on the common law rule and a corresponding expansion\nof hirer vicarious liability.\" ( V argas v. FMI, Inc. (2015) 233 Cal. App.4th 638,\n646−647 [182 Cal. Rptr.3d 803], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A critical inquiry in determining the applicability of the doctrine of peculiar\nrisk is whether the work for which the contractor was hired involves a risk that\nis 'peculiar to the work to be done,' arising either from the nature or the location\nof the work and ' \"against which a reasonable person would recognize the\nnecessity of taking special precautions.\" ' \" ( Privette v. Superior Court (1993) 5\nCal. 4th 689, 695 [21 Cal. Rptr.2d 72, 854 P.2d 721], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Privette v. Superior Court",
+          "year": 1993,
+          "volume": 5,
+          "reporter": "Cal.4th",
+          "page": 689,
+          "pin": "695",
+          "raw": "Privette v. Superior Court (1993) 5 Cal. 4th 689, 695",
+          "span": [
+            368,
+            421
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The courts created this exception in the late 19th century to ensure that\ninnocent third parties injured by inherently dangerous work performed by an\nindependent contractor for the beneﬁt of the hiring person could sue not only the\ncontractor, but also the hiring person, so that in the event of the contractor's\ninsolvency, the injured person would still have a source of recovery.\" ( Toland v.\nSunland Housing Group, Inc. (1998) 18 Cal. 4th 253, 258 [74 Cal. Rptr.2d 878,\n955 P.2d 504].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Toland v. Sunland Housing Group, Inc.",
+          "year": 1998,
+          "volume": 18,
+          "reporter": "Cal.4th",
+          "page": 253,
+          "pin": "258",
+          "raw": "Toland v. Sunland Housing Group, Inc. (1998) 18 Cal. 4th 253, 258",
+          "span": [
+            387,
+            452
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The analysis of the applicability of the peculiar risk doctrine to a particular fact\nsituation can be broken down into two elements: (1) whether the work is likely\nto create a peculiar risk of harm unless special precautions are taken; and (2)\nwhether the employer should have recognized that the work was likely to create\nsuch a risk.\" ( Jimenez v. Paciﬁc Western Construction Co. (1986) 185\nCal. App.3d 102, 110 [229 Cal. Rptr. 575] [proper in this case for trial court to\nﬁnd peculiar risk as a matter of law].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Jimenez v. Paciﬁc Western Construction Co.",
+          "year": 1986,
+          "volume": 185,
+          "reporter": "Cal.App.3d",
+          "page": 102,
+          "pin": "110",
+          "raw": "Jimenez v. Paciﬁc Western Construction Co. (1986) 185 Cal. App.3d 102, 110",
+          "span": [
+            340,
+            414
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Whether the particular work which the independent contractor has been hired to\nperform is likely to create a peculiar risk of harm to others unless special\nprecautions are taken is ordinarily a question of fact.\" ( Castro v. State of\nCalifornia (1981) 114 Cal. App.3d 503, 511 [170 Cal. Rptr. 734], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Castro v. State of California",
+          "year": 1981,
+          "volume": 114,
+          "reporter": "Cal.App.3d",
+          "page": 503,
+          "pin": "511",
+          "raw": "Castro v. State of California (1981) 114 Cal. App.3d 503, 511",
+          "span": [
+            216,
+            277
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he hiring person's liability is cast in the form of the hiring person's breach\nof a duty to see to it that special precautions are taken to prevent injuries to\nothers; in that sense, the liability is 'direct.' Y et, peculiar risk liability is not a\ntraditional theory of direct liability for the risks created by one's own conduct:\nCACI No. 3708 VICARIOUS RESPONSIBILITY\n752\nLiability . . . is in essence 'vicarious' or 'derivative' in the sense that it derives\nfrom the 'act or omission' of the hired contractor, because it is the hired\ncontractor who has caused the injury by failing to use reasonable care in\nperforming the work . . . . 'The conclusion that peculiar risk is a form of\nvicarious liability is unaffected by the characterization of the doctrine as \"direct\"\nliability in situations when the person hiring an independent contractor \"fails to\nprovide in the contract that the contractor shall take [special]\nprecautions.\" ' \"( Toland, supra, 18 Cal. 4th at p. 265.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A peculiar risk may arise out of a contemplated and unsafe method of work\nadopted by the independent contractor.\" ( Mackey v. Campbell Construction Co .\n(1980) 101 Cal. App.3d 774, 785–786 [162 Cal. Rptr. 64].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The term 'peculiar risk' means neither a risk that is abnormal to the type of\nwork done, nor a risk that is abnormally great; it simply means 'a special,\nrecognizable danger arising out of the work itself.' For that reason, as this court\nhas pointed out, the term 'special risk' is probably a more accurate description\nthan 'peculiar risk,' which is the terminology used in the Restatement.\" ( Privette,\nsupra, 5 Cal. 4th at p. 695, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Even when work performed by an independent contractor poses a special or\npeculiar risk of harm, . . . the person who hired the contractor will not be liable\nfor injury to others if the injury results from the contractor's 'collateral' or\n'casual' negligence.\" ( Privette, supra, 5 Cal. 4th at p. 696.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'Casual' or 'collateral' negligence has sometimes been described as negligence\nin the operative detail of the work, as distinguished from the general plan or\nmethod to be followed. Although this distinction can frequently be made, since\nnegligence in the operative details will often not be within the contemplation of\nthe employer when the contract is made, the distinction is not essentially one\nbetween operative detail and general method. 'It is rather one of negligence\nwhich is unusual or abnormal, or foreign to the normal or contemplated risks of\ndoing the work, as distinguished from negligence which creates only the normal\nor contemplated risk.' \" ( Aceves v. Regal Pale Brewing Co. (1979) 24 Cal. 3d\n502, 510 [156 Cal. Rptr. 41, 595 P.2d 619], overruled on other grounds in\nPrivette, supra , 5 Cal. 4th at p. 702, fn. 4.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Aceves v. Regal Pale Brewing Co.",
+          "year": 1979,
+          "volume": 24,
+          "reporter": "Cal.3d",
+          "page": 502,
+          "pin": "510",
+          "raw": "Aceves v. Regal Pale Brewing Co. (1979) 24 Cal. 3d 502, 510",
+          "span": [
+            663,
+            722
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he question is whether appellant's alleged injuries resulted from negligence\nwhich was unusual or abnormal, creating a new risk not inherent in the work\nitself or in the ordinary or prescribed way of doing it, and not reasonably\nforeseeable by respondent; or whether the injuries were caused by normal\nnegligence which precipitated a contemplated special risk of harm which was\nitself 'peculiar to the work to be done, and arising out of its character, or out of\nthe place where it is to be done, against which a reasonable man would\nrecognize the necessity of taking special precautions.' This question, like the\nbroader issue of whether there was a peculiar risk inherent in the work being\nperformed, is a question of fact to be resolved by the trier of fact.\" ( Caudel v.\nEast Bay Municipal Utility Dist. (1985) 165 Cal. App.3d 1, 9 [211 Cal. Rptr.\n222].)\nVICARIOUS RESPONSIBILITY CACI No. 3708\n753",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Caudel v. East Bay Municipal Utility Dist.",
+          "year": 1985,
+          "volume": 165,
+          "reporter": "Cal.App.3d",
+          "page": 1,
+          "pin": "9",
+          "raw": "Caudel v. East Bay Municipal Utility Dist. (1985) 165 Cal. App.3d 1, 9",
+          "span": [
+            769,
+            839
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he dispositive issue for purposes of applying the peculiar risk doctrine to the\npresent case is whether there was a direct relationship between the accident and\nthe 'particular work performed' by [contractor]. In other words, if the 'character'\nof the work contributed to the accident, the peculiar risk doctrine applies. If the\naccident resulted from 'ordinary' use of the vehicle, the peculiar risk doctrine\ndoes not apply, notwithstanding the vehicle's size and weight.\" ( Bowman v.\nWyatt (2010) 186 Cal. App.4th 286, 309 [111 Cal. Rptr.3d 787], internal citation\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bowman v. Wyatt",
+          "year": 2010,
+          "volume": 186,
+          "reporter": "Cal.App.4th",
+          "page": 286,
+          "pin": "309",
+          "raw": "Bowman v. Wyatt (2010) 186 Cal. App.4th 286, 309",
+          "span": [
+            480,
+            528
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Nevertheless, we determined that the doctrine of peculiar risk does not apply\nwhen an independent contractor 'seeks to hold the general contractor vicariously\nliable for injuries arising from risks inherent in the nature or the location of the\nhired work over which the independent contractor has, through the chain of\ndelegation, been granted control.' \" ( Gonzalez, supra , 12 Cal. 5th at p. 52,\noriginal italics.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1394–1395\n1 Levy et al., California Torts, Ch. 8, Vicarious Liability, §8.05[3][b] (Matthew\nBender)\n2 Wilcox, California Employment Law, Ch. 30, Employers' Tort Liability to Third\nParties for Conduct of Employees , §30.10[2][b] (Matthew Bender)\n21 California Forms of Pleading and Practice, Ch. 248, Employer' s Liability for\nEmployee' s Torts, §248.22[b] (Matthew Bender)\n10 California Points and Authorities, Ch. 100A, Employer and Employee:\nRespondeat Superior , §100A.41 et seq. (Matthew Bender)\nCalifornia Civil Practice: Torts §3:22 (Thomson Reuters)\nCACI No. 3708 VICARIOUS RESPONSIBILITY\n754",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Privette v. Superior Court",
+      "year": 1993,
+      "volume": 5,
+      "reporter": "Cal.4th",
+      "page": 689,
+      "pin": "695",
+      "raw": "Privette v. Superior Court (1993) 5 Cal. 4th 689, 695",
+      "span": [
+        368,
+        421
+      ],
+      "role": "sources",
+      "case_key": "5 Cal.4th 689"
+    },
+    {
+      "name": "Toland v. Sunland Housing Group, Inc.",
+      "year": 1998,
+      "volume": 18,
+      "reporter": "Cal.4th",
+      "page": 253,
+      "pin": "258",
+      "raw": "Toland v. Sunland Housing Group, Inc. (1998) 18 Cal. 4th 253, 258",
+      "span": [
+        387,
+        452
+      ],
+      "role": "sources",
+      "case_key": "18 Cal.4th 253"
+    },
+    {
+      "name": "Jimenez v. Paciﬁc Western Construction Co.",
+      "year": 1986,
+      "volume": 185,
+      "reporter": "Cal.App.3d",
+      "page": 102,
+      "pin": "110",
+      "raw": "Jimenez v. Paciﬁc Western Construction Co. (1986) 185 Cal. App.3d 102, 110",
+      "span": [
+        340,
+        414
+      ],
+      "role": "sources",
+      "case_key": "185 Cal.App.3d 102"
+    },
+    {
+      "name": "Castro v. State of California",
+      "year": 1981,
+      "volume": 114,
+      "reporter": "Cal.App.3d",
+      "page": 503,
+      "pin": "511",
+      "raw": "Castro v. State of California (1981) 114 Cal. App.3d 503, 511",
+      "span": [
+        216,
+        277
+      ],
+      "role": "sources",
+      "case_key": "114 Cal.App.3d 503"
+    },
+    {
+      "name": "Aceves v. Regal Pale Brewing Co.",
+      "year": 1979,
+      "volume": 24,
+      "reporter": "Cal.3d",
+      "page": 502,
+      "pin": "510",
+      "raw": "Aceves v. Regal Pale Brewing Co. (1979) 24 Cal. 3d 502, 510",
+      "span": [
+        663,
+        722
+      ],
+      "role": "sources",
+      "case_key": "24 Cal.3d 502"
+    },
+    {
+      "name": "Caudel v. East Bay Municipal Utility Dist.",
+      "year": 1985,
+      "volume": 165,
+      "reporter": "Cal.App.3d",
+      "page": 1,
+      "pin": "9",
+      "raw": "Caudel v. East Bay Municipal Utility Dist. (1985) 165 Cal. App.3d 1, 9",
+      "span": [
+        769,
+        839
+      ],
+      "role": "sources",
+      "case_key": "165 Cal.App.3d 1"
+    },
+    {
+      "name": "Bowman v. Wyatt",
+      "year": 2010,
+      "volume": 186,
+      "reporter": "Cal.App.4th",
+      "page": 286,
+      "pin": "309",
+      "raw": "Bowman v. Wyatt (2010) 186 Cal. App.4th 286, 309",
+      "span": [
+        480,
+        528
+      ],
+      "role": "sources",
+      "case_key": "186 Cal.App.4th 286"
+    },
+    {
+      "name": "Gonzalez v. Mathis",
+      "year": 2021,
+      "volume": 12,
+      "reporter": "Cal.5th",
+      "page": 29,
+      "pin": "52",
+      "raw": "Gonzalez v. Mathis (2021) 12 Cal. 5th 29, 52",
+      "span": [
+        530,
+        574
+      ],
+      "role": "directions",
+      "case_key": "12 Cal.5th 29"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

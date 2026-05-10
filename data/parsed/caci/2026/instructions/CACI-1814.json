@@ -1,0 +1,117 @@
+{
+  "id": "CACI-1814",
+  "edition": "2026",
+  "number": "1814",
+  "title": "Damages for Investigating Violations of Comprehensive Computer Data and Access Fraud Act (Pen. Code, § 502(e)(1))",
+  "title_full": "Damages for Investigating Violations of Comprehensive Computer Data and Access Fraud Act (Pen. Code, § 502(e)(1))",
+  "title_statute": null,
+  "series": "1800",
+  "series_title": "Series 1800 Right Of Privacy",
+  "page_start": 1236,
+  "page_end": 1236,
+  "instruction_text": "1814. Damages for Investigating Violations of Comprehensive\nComputer Data and Access Fraud Act (Pen. Code, §502(e)(1))\nTo recover damages for money spent to investigate or verify whether\n[name of plaintiff ]'s computer system, computer network, computer\nprogram, or data was or was not altered, damaged, or deleted by [ specify\nwrongful conduct under section 502(c) that led to accessing the plaintiff' s\ncomputer system, computer network, or computer program ], [ name of\nplaintiff] must prove the amount of money reasonably and necessarily\nspent to conduct such an investigation.",
+  "directions_for_use": "Give this instruction for violations of the Comprehensive Computer Data and Access\nFraud Act in which there is evidence that the plaintiff spent money to investigate or\nverify the defendant's wrongful conduct. (See Pen. Code, §502; CACI No. 1812,\nComprehensive Computer Data and Access Fraud Act–Essential Factual Elements .)\nIn some cases, it may be appropriate to tailor the instruction to specify the\ntechnology or data at issue (e.g., the name of a computer program or the plaintiff's\ndata ﬁles).\nFor other damages instructions, see the Damages series, CACI No. 3900 et seq.\nPunitive or exemplary damages are available for willful violations. (Pen. Code,\n§502(e)(4).) For instructions on punitive damages, see CACI Nos. 3940–3949.",
+  "sources_and_authority": [
+    {
+      "raw": "Compensatory Damages. Penal Code section 502(e)(1).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "502",
+          "display": "Penal Code section 502",
+          "raw": "Penal Code section 502(e)(1)",
+          "span": [
+            22,
+            50
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "502",
+          "display": "Penal Code section 502(e)",
+          "raw": "Penal Code section 502(e)(1)",
+          "span": [
+            22,
+            50
+          ],
+          "subsection": "e"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "502",
+          "display": "Penal Code section 502(1)",
+          "raw": "Penal Code section 502(e)(1)",
+          "span": [
+            22,
+            50
+          ],
+          "subsection": "1"
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, California Criminal Law (4th ed. 2012) Crimes Against Property, §229 et\nseq.\n31 California Forms of Pleading and Practice, Ch. 349, Literary Property and\nCopyright, §349.91 (Matthew Bender)\n1815–1819. Reserved for Future Use\n1162",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "502",
+      "display": "Penal Code section 502",
+      "raw": "Penal Code section 502(e)(1)",
+      "span": [
+        22,
+        50
+      ],
+      "role": "sources",
+      "statute_key": "CA/PEN/502"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "502",
+      "display": "Penal Code section 502(e)",
+      "raw": "Penal Code section 502(e)(1)",
+      "span": [
+        22,
+        50
+      ],
+      "subsection": "e",
+      "role": "sources",
+      "statute_key": "CA/PEN/502/e"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "502",
+      "display": "Penal Code section 502(1)",
+      "raw": "Penal Code section 502(e)(1)",
+      "span": [
+        22,
+        50
+      ],
+      "subsection": "1",
+      "role": "sources",
+      "statute_key": "CA/PEN/502/1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "502",
+      "display": "Penal Code section 502(4)",
+      "raw": "Pen. Code,\n§502(e)(4)",
+      "span": [
+        648,
+        669
+      ],
+      "subsection": "4",
+      "role": "directions",
+      "statute_key": "CA/PEN/502/4"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:14+00:00"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "CACI-531",
+  "edition": "2026",
+  "number": "531",
+  "title": "Consent on Behalf of Another",
+  "title_full": "Consent on Behalf of Another",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 554,
+  "page_end": 554,
+  "instruction_text": "531. Consent on Behalf of Another\nIn this case [ name of patient ] could not consent to the [ insert medical\nprocedure] because [he/she/ nonbinary pronoun] was [ insert reason–e.g., a\nminor/incompetent/unconscious]. In this situation, the law allows [ name of\nauthorized person ] to give consent on behalf of [ name of patient ].\nY ou must decide whether [ name of authorized person ] consented to the\n[insert medical procedure ] performed on [ name of patient ].",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "Parent Delegation of Right to Authorize Medical Care. Family Code section\n6910.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "FAM",
+          "section": "6910",
+          "display": "Family Code section 6910",
+          "raw": "Family Code section\n6910",
+          "span": [
+            54,
+            78
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"If the patient is a minor or incompetent, the authority to consent is transferred\nto the patient's legal guardian or closest available relative.\" ( Cobbs v. Grant\n(1972) 8 Cal. 3d 229, 244 [104 Cal. Rptr. 505, 502 P.2d 1]; Farber v. Olkon\n(1953) 40 Cal. 2d 503, 509 [254 P.2d 520].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cobbs v. Grant",
+          "year": 1972,
+          "volume": 8,
+          "reporter": "Cal.3d",
+          "page": 229,
+          "pin": "244",
+          "raw": "Cobbs v. Grant (1972) 8 Cal. 3d 229, 244",
+          "span": [
+            149,
+            189
+          ]
+        },
+        {
+          "name": "Farber v. Olkon",
+          "year": 1953,
+          "volume": 40,
+          "reporter": "Cal.2d",
+          "page": 503,
+          "pin": "509",
+          "raw": "Farber v. Olkon (1953) 40 Cal. 2d 503, 509",
+          "span": [
+            224,
+            266
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§460, 463\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §9.16\n3 Levy et al., California Torts, Ch. 31, Liability of Physicians and Other Medical\nPractitioners, §31.14 (Matthew Bender)\n6 California Forms of Pleading and Practice, Ch. 58, Assault and Battery , §58.14\n32 California Forms of Pleading and Practice, Ch. 365, Minors: Contract Actions ,\n§365.13; Ch. 366, Minors: Court Consent for Medical Care or Enlistment , §366.10\n(Matthew Bender)\n34 California Forms of Pleading and Practice, Ch. 394, Parent and Child , §394.54\n(Matthew Bender)\n36 California Forms of Pleading and Practice, Ch. 415, Physicians: Medical\nMalpractice, §415.13 (Matthew Bender)\n33 California Legal Forms, Ch. 104, Health Care Transactions, Consents, and\nDirectives, §104.11 (Matthew Bender)\n480",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "FAM",
+      "section": "6910",
+      "display": "Family Code section 6910",
+      "raw": "Family Code section\n6910",
+      "span": [
+        54,
+        78
+      ],
+      "role": "sources",
+      "statute_key": "CA/FAM/6910"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Cobbs v. Grant",
+      "year": 1972,
+      "volume": 8,
+      "reporter": "Cal.3d",
+      "page": 229,
+      "pin": "244",
+      "raw": "Cobbs v. Grant (1972) 8 Cal. 3d 229, 244",
+      "span": [
+        149,
+        189
+      ],
+      "role": "sources",
+      "case_key": "8 Cal.3d 229"
+    },
+    {
+      "name": "Farber v. Olkon",
+      "year": 1953,
+      "volume": 40,
+      "reporter": "Cal.2d",
+      "page": 503,
+      "pin": "509",
+      "raw": "Farber v. Olkon (1953) 40 Cal. 2d 503, 509",
+      "span": [
+        224,
+        266
+      ],
+      "role": "sources",
+      "case_key": "40 Cal.2d 503"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

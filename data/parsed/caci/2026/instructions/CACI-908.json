@@ -1,0 +1,99 @@
+{
+  "id": "CACI-908",
+  "edition": "2026",
+  "number": "908",
+  "title": "Duty to Protect Passengers From Assault",
+  "title_full": "Duty to Protect Passengers From Assault",
+  "title_statute": null,
+  "series": "900",
+  "series_title": "Series 900 Common Carriers",
+  "page_start": 697,
+  "page_end": 697,
+  "instruction_text": "908. Duty to Protect Passengers From Assault\n[Name of plaintiff ] claims that [ name of defendant ] was negligent in failing\nto prevent an attack by another. To establish this claim, [ name of\nplaintiff] must prove both of the following:\n1. That [ name of defendant ] knew or, by using the highest care,\nshould have known that a passenger was reasonably likely to\nattack another passenger; and\n2. That by using the highest care, [ name of defendant ] could have\nprevented or reduced the harm from the attack.",
+  "directions_for_use": "This instruction must be used in conjunction with the instructions in the negligence\nseries.",
+  "sources_and_authority": [
+    {
+      "raw": "Restatement Second of Torts, section 315 states:\nAs a general rule, one owes no duty to control the conduct of another, nor to\nwarn those endangered by such conduct. Such a duty may arise, however, if\n(a) a special relation exists between the actor and the third person\nwhich imposes a duty upon the actor to control the third person's\nconduct, or\n(b) a special relation exists between the actor and the other which\ngives the other a right of protection.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "The Supreme Court has held that \"[t]he relationship between a common carrier\nand its passengers is . . . a special relationship.\" ( Lopez v. Southern Cal. Rapid\nTransit Dist. (1985) 40 Cal. 3d 780, 789 [221 Cal. Rptr. 840, 710 P.2d 907].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lopez v. Southern Cal. Rapid Transit Dist.",
+          "year": 1985,
+          "volume": 40,
+          "reporter": "Cal.3d",
+          "page": 780,
+          "pin": "789",
+          "raw": "Lopez v. Southern Cal. Rapid Transit Dist. (1985) 40 Cal. 3d 780, 789",
+          "span": [
+            132,
+            201
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "The common carrier standard of \"utmost care\" applies to the duty of a carrier to\nprotect a passenger from assaults by fellow passengers. ( Terrell v. Key System\n(1945) 69 Cal. App.2d 682, 686 [159 P.2d 704].) However, the duty can only\narise if \"in the exercise of the required degree of care the carrier has or should\nhave knowledge of conditions from which it may reasonably be apprehended\nthat an assault on a passenger may occur, and has the ability in the exercise of\nthat degree of care to prevent the injury.\" ( Ibid., internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Terrell v. Key System",
+          "year": 1945,
+          "volume": 69,
+          "reporter": "Cal.App.2d",
+          "page": 682,
+          "pin": "686",
+          "raw": "Terrell v. Key System (1945) 69 Cal. App.2d 682, 686",
+          "span": [
+            139,
+            191
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "The Lopez court stated the standard of care as follows: \"[C]arriers are not\ninsurers of their passenger's safety and will not automatically be liable,\nregardless of the circumstances, for any injury suffered by a passenger at the\nhands of a fellow passenger. Rather, a carrier is liable for injuries resulting from\nan assault by one passenger upon another only where, in the exercise of the\n623",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Lopez v. Southern Cal. Rapid Transit Dist.",
+      "year": 1985,
+      "volume": 40,
+      "reporter": "Cal.3d",
+      "page": 780,
+      "pin": "789",
+      "raw": "Lopez v. Southern Cal. Rapid Transit Dist. (1985) 40 Cal. 3d 780, 789",
+      "span": [
+        132,
+        201
+      ],
+      "role": "sources",
+      "case_key": "40 Cal.3d 780"
+    },
+    {
+      "name": "Terrell v. Key System",
+      "year": 1945,
+      "volume": 69,
+      "reporter": "Cal.App.2d",
+      "page": 682,
+      "pin": "686",
+      "raw": "Terrell v. Key System (1945) 69 Cal. App.2d 682, 686",
+      "span": [
+        139,
+        191
+      ],
+      "role": "sources",
+      "case_key": "69 Cal.App.2d 682"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

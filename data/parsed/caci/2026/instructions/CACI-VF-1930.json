@@ -1,0 +1,76 @@
+{
+  "id": "CACI-VF-1930",
+  "edition": "2026",
+  "number": "VF-1930",
+  "title": "Receiving Stolen Property—Civil Liability",
+  "title_full": "Receiving Stolen Property—Civil Liability",
+  "title_statute": null,
+  "series": "VF-1900",
+  "series_title": "Series 1900 Fraud Or Deceit",
+  "page_start": 1319,
+  "page_end": 1320,
+  "instruction_text": "VF-1930. Receiving Stolen Property–Civil Liability\nWe answer the questions submitted to us as follows:\n1. Did [ name of defendant ] [buy/receive/[ specify other conduct ]]\nproperty that was [stolen/obtained by extortion]?\n1. Yes No\n1. If your answer to question 1 is yes, then answer question 2. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n2. Did [ name of defendant ] know the property was [stolen/obtained\nby extortion] at the time [he/she/ nonbinary pronoun ]\n[bought/received/[specify other conduct ]] the property?\n2. Yes No\n2. If your answer to question 2 is yes, then answer question 3. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n3. Was [ name of plaintiff ] harmed?\n3. Yes No\n3. If your answer to question 3 is yes, then answer question 4. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n4. Was [ name of defendant ]'s conduct a substantial factor in causing\n[name of plaintiff ]'s harm?\n4. Yes No\n4. If your answer to question 4 is yes, then answer question 5. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n5. What are [ name of plaintiff ]'s damages?\n[a. Past economic loss\n[lost earnings $ ]\n[lost proﬁts $ ]\n[medical expenses $ ]\n[other past economic loss $ ]\n[a. Total Past Economic Damages: $ ]\n[b. Future economic loss\n1245\n[b. [lost earnings $ ]\n[b. [lost proﬁts $ ]\n[b. [medical expenses $ ]\n[b. [other future economic loss $ ]\n5. Total Future Economic Damages: $ ]\n[c. Past noneconomic loss, including [physical\npain/mental suffering:] $ ]\n[d. Future noneconomic loss, including [physical\npain/mental suffering:] $ ]\n[d. TOTAL $\nSigned:\nPresiding Juror\nDated:\nAfter this verdict form has/After all verdict forms have] been signed,\nnotify the [clerk/bailiff/court attendant].",
+  "directions_for_use": "This verdict form is based on CACI No. 1930, Receiving Stolen Property–Civil\nLiability.\nThe special verdict forms in this section are intended only as models. They may\nneed to be modiﬁed depending on the facts of the case.\nIf speciﬁcity is not required, users do not have to itemize all the damages listed in\nquestion 5. The breakdown is optional depending on the circumstances. If the jury\nﬁnds the defendant liable for actual damages, Penal Code section 496 authorizes an\naward of three times the amount of actual damages sustained by the plaintiff, costs\nof suit, and reasonable attorney's fees. (Pen. Code, §496(c).)\nIf there are multiple causes of action, users may wish to combine the individual\nforms into one form. If different damages are recoverable on different causes of\naction, replace the damages tables in all of the verdict forms with CACI No. VF-\n3920, Damages on Multiple Legal Theories .\nIf the jury is given the discretion under Civil Code section 3288 to award\nprejudgment interest (see Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801,\n814 [148 Cal. Rptr. 22, 582 P.2d 109]), give CACI No. 3935, Prejudgment Interest.\nVF-1930 FRAUD OR DECEIT\n1246",
+  "sources_and_authority": [],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "496",
+      "display": "Penal Code section 496",
+      "raw": "Penal Code section 496",
+      "span": [
+        437,
+        459
+      ],
+      "role": "directions",
+      "statute_key": "CA/PEN/496"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "496",
+      "display": "Penal Code section 496(c)",
+      "raw": "Pen. Code, §496(c)",
+      "span": [
+        600,
+        618
+      ],
+      "subsection": "c",
+      "role": "directions",
+      "statute_key": "CA/PEN/496/c"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3288",
+      "display": "Civil Code section 3288",
+      "raw": "Civil Code section 3288",
+      "span": [
+        949,
+        972
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3288"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Bullis v. Security Pac. Nat'l Bank",
+      "year": 1978,
+      "volume": 21,
+      "reporter": "Cal.3d",
+      "page": 801,
+      "pin": "814",
+      "raw": "Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801, 814",
+      "span": [
+        1008,
+        1069
+      ],
+      "role": "directions",
+      "case_key": "21 Cal.3d 801"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:15+00:00"
+}

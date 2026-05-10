@@ -1,0 +1,308 @@
+{
+  "id": "CACI-1925",
+  "edition": "2026",
+  "number": "1925",
+  "title": "Affirmative Defense—Statute of Limitations—Fraud or Mistake",
+  "title_full": "Affirmative Defense—Statute of Limitations—Fraud or Mistake",
+  "title_statute": null,
+  "series": "1900",
+  "series_title": "Series 1900 Fraud Or Deceit",
+  "page_start": 1300,
+  "page_end": 1301,
+  "instruction_text": "1925. Affirmative Defense–Statute of Limitations–Fraud or\nMistake\n[Name of defendant ] contends that [ name of plaintiff ]'s lawsuit was not\nﬁled within the time set by law. To succeed on this defense, [ name of\ndefendant] must prove that [ name of plaintiff ]'s claimed harm occurred\nbefore [ insert date three years before date of ﬁling ].\n[If [ name of defendant ] proves that [ name of plaintiff ]'s claimed harm\noccurred before [ insert date three years before date of ﬁling ], [ name of\nplaintiff]'s lawsuit was still ﬁled on time if [ name of plaintiff ] proves that\nbefore that date, [he/she/ nonbinary pronoun/it] did not discover facts\nconstituting the fraud or mistake, and with reasonable diligence could\nnot have discovered those facts.]",
+  "directions_for_use": "This instruction is for use if the defendant claims that the plaintiff's action was not\nﬁled within the applicable three-year period for fraud or mistake. (See Code Civ.\nProc., §338(d).) Include the second paragraph if the plaintiff alleges that the\ndelayed-discovery rule applies to avoid the limitation defense. The plaintiff bears the\nburden of pleading and proving delayed discovery. (See E-Fab, Inc. v. Accountants,\nInc. Services (2007) 153 Cal. App.4th 1308, 1319 [64 Cal. Rptr.3d 9] [regardless of\nwhich limitation statute applied to case, burden was on plaintiff].)",
+  "sources_and_authority": [
+    {
+      "raw": "Statute of Limitations for Fraud or Mistake. Code of Civil Procedure section\n338(d).",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The [Code of Civil Procedure section 338(d) three-year] limitations period . . .\n'does not begin to run until the discovery, by the aggrieved party, of the facts\nconstituting the fraud or mistake.' \" ( Sun'n Sand, Inc. v. United California Bank\n(1978) 21 Cal. 3d 671, 701 [148 Cal. Rptr. 329, 582 P.2d 920].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Sun'n Sand, Inc. v. United California Bank",
+          "year": 1978,
+          "volume": 21,
+          "reporter": "Cal.3d",
+          "page": 671,
+          "pin": "701",
+          "raw": "Sun'n Sand, Inc. v. United California Bank (1978) 21 Cal. 3d 671, 701",
+          "span": [
+            203,
+            272
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The discovery rule 'may be expressed by the Legislature or implied by the\ncourts.' By statute, the discovery rule applies to fraud actions. (Code Civ. Proc.,\n§338, subd. (d).) In addition, 'judicial decisions have declared the discovery rule\napplicable in situations where the plaintiff is unable to see or appreciate a breach\nhas occurred.' \" ( E-Fab, Inc., supra, 153 Cal. App.4th at p. 1318, internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Code of Civil Procedure section 338, subdivision (d), effectively codiﬁes the\ndelayed discovery rule in connection with actions for fraud, providing that a\ncause of action for fraud 'is not to be deemed to have accrued until the\ndiscovery, by the aggrieved party, of the facts constituting the fraud or mistake.'\n1226\nIn a case such as this, that date is the date the complaining party learns, or at\nleast is put on notice, that a representation was false.\" ( Brandon G. v. Gray\n(2003) 111 Cal. App.4th 29, 35 [3 Cal. Rptr.3d 330].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Brandon G. v. Gray",
+          "year": 2003,
+          "volume": 111,
+          "reporter": "Cal.App.4th",
+          "page": 29,
+          "pin": "35",
+          "raw": "Brandon G. v. Gray (2003) 111 Cal. App.4th 29, 35",
+          "span": [
+            461,
+            510
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"This discovery element has been interpreted to mean 'the discovery by the\naggrieved party of the fraud or facts that would lead a reasonably prudent person\nto suspect fraud.' \" ( Doe v. Roman Catholic Bishop of Sacramento (2010) 189\nCal. App.4th 1423, 1430 [117 Cal. Rptr.3d 597], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Doe v. Roman Catholic Bishop of Sacramento",
+          "year": 2010,
+          "volume": 189,
+          "reporter": "Cal.App.4th",
+          "page": 1423,
+          "pin": "1430",
+          "raw": "Doe v. Roman Catholic Bishop of Sacramento (2010) 189 Cal. App.4th 1423, 1430",
+          "span": [
+            180,
+            257
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Case law has interpreted this accrual provision to mean that 'a cause of action\n[under Code Civ. Proc., §338(d)] accrues, and the limitations period commences\nto run, when the aggrieved party could have discovered the . . . mistake through\nthe exercise of reasonable diligence.' \" ( Creditors Collection Serv. v. Castaldi\n(1995) 38 Cal. App.4th 1039, 1044 [45 Cal. Rptr. 2d 511].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Creditors Collection Serv. v. Castaldi",
+          "year": 1995,
+          "volume": 38,
+          "reporter": "Cal.App.4th",
+          "page": 1039,
+          "pin": "1044",
+          "raw": "Creditors Collection Serv. v. Castaldi (1995) 38 Cal. App.4th 1039, 1044",
+          "span": [
+            284,
+            356
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"One [exception to the limitations period] is the doctrine of fraudulent\nconcealment, which tolls the statute of limitations if a defendant's deceptive\nconduct 'has caused a claim to grow stale.' \" ( Fuller v. First Franklin Financial\nCorp. (2013) 216 Cal. App.4th 955, 962 [163 Cal. Rptr.3d 44].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Fuller v. First Franklin Financial Corp.",
+          "year": 2013,
+          "volume": 216,
+          "reporter": "Cal.App.4th",
+          "page": 955,
+          "pin": "962",
+          "raw": "Fuller v. First Franklin Financial Corp. (2013) 216 Cal. App.4th 955, 962",
+          "span": [
+            200,
+            273
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'Technical rules as to when a cause of action accrues apply therefore only in\nthose cases which are free from fraud committed by the defendant. Said section\n338, subdivision 4, . . . recognizes the nonapplicability of those technical rules\nwhere the fraud of the defendant may be so concealed that in the absence of\ncircumstances imposing greater diligence on the plaintiff, the cause of action is\ndeemed not to accrue until the fraud is discovered. Otherwise, in such cases, the\ndefendant by concealing his fraud, would effectively block recovery by the\nplaintiff because of the intervention of the statute of limitations.' \" ( Snow v. A.\nH. Robins Co. (1985) 165 Cal. App.3d 120, 127–128 [211 Cal. Rptr. 271], internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Snow v. A. H. Robins Co.",
+          "year": 1985,
+          "volume": 165,
+          "reporter": "Cal.App.3d",
+          "page": 120,
+          "pin": "127–128",
+          "raw": "Snow v. A. H. Robins Co. (1985) 165 Cal. App.3d 120, 127–128",
+          "span": [
+            631,
+            691
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[C]ourts have relied on the nature of the relationship between defendant and\nplaintiff to explain application of the delayed accrual rule. The rule is generally\napplicable to conﬁdential or ﬁduciary relationships. The ﬁduciary relationship\ncarries a duty of full disclosure, and application of the discovery rule 'prevents\nthe ﬁduciary from obtaining immunity for an initial breach of duty by a\nsubsequent breach of the obligation of disclosure.' \" ( Parsons v. Tickner (1995)\n31 Cal. App.4th 1513, 1526 [37 Cal. Rptr. 2d 810], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Parsons v. Tickner",
+          "year": 1995,
+          "volume": 31,
+          "reporter": "Cal.App.4th",
+          "page": 1513,
+          "pin": "1526",
+          "raw": "Parsons v. Tickner (1995) 31 Cal. App.4th 1513, 1526",
+          "span": [
+            452,
+            504
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'The provision tolling operation of [section 338(d)] until discovery of the fraud\nhas long been treated as an exception and, accordingly, this court has held that if\nan action is brought more than three years after commission of the fraud,\nplaintiff has the burden of pleading and proving that he did not make the\ndiscovery until within three years prior to the ﬁling of his complaint.' \" ( Samuels\nv. Mix (1999) 22 Cal. 4th 1, 14 [91 Cal. Rptr.2d 273, 989 P.2d 701], internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Samuels v. Mix",
+          "year": 1999,
+          "volume": 22,
+          "reporter": "Cal.4th",
+          "page": 1,
+          "pin": "14",
+          "raw": "Samuels v. Mix (1999) 22 Cal. 4th 1, 14",
+          "span": [
+            393,
+            432
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Only causes of action based on actual fraud are governed by section 338,\nsubdivision (d). This includes . . . causes of action based on fraudulent\nconcealment, which 'is a species of fraud or deceit. [Citations.]' \" ( Stueve Bros.\nFRAUD OR DECEIT CACI No. 1925\n1227",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Sun'n Sand, Inc. v. United California Bank",
+      "year": 1978,
+      "volume": 21,
+      "reporter": "Cal.3d",
+      "page": 671,
+      "pin": "701",
+      "raw": "Sun'n Sand, Inc. v. United California Bank (1978) 21 Cal. 3d 671, 701",
+      "span": [
+        203,
+        272
+      ],
+      "role": "sources",
+      "case_key": "21 Cal.3d 671"
+    },
+    {
+      "name": "Brandon G. v. Gray",
+      "year": 2003,
+      "volume": 111,
+      "reporter": "Cal.App.4th",
+      "page": 29,
+      "pin": "35",
+      "raw": "Brandon G. v. Gray (2003) 111 Cal. App.4th 29, 35",
+      "span": [
+        461,
+        510
+      ],
+      "role": "sources",
+      "case_key": "111 Cal.App.4th 29"
+    },
+    {
+      "name": "Doe v. Roman Catholic Bishop of Sacramento",
+      "year": 2010,
+      "volume": 189,
+      "reporter": "Cal.App.4th",
+      "page": 1423,
+      "pin": "1430",
+      "raw": "Doe v. Roman Catholic Bishop of Sacramento (2010) 189 Cal. App.4th 1423, 1430",
+      "span": [
+        180,
+        257
+      ],
+      "role": "sources",
+      "case_key": "189 Cal.App.4th 1423"
+    },
+    {
+      "name": "Creditors Collection Serv. v. Castaldi",
+      "year": 1995,
+      "volume": 38,
+      "reporter": "Cal.App.4th",
+      "page": 1039,
+      "pin": "1044",
+      "raw": "Creditors Collection Serv. v. Castaldi (1995) 38 Cal. App.4th 1039, 1044",
+      "span": [
+        284,
+        356
+      ],
+      "role": "sources",
+      "case_key": "38 Cal.App.4th 1039"
+    },
+    {
+      "name": "Fuller v. First Franklin Financial Corp.",
+      "year": 2013,
+      "volume": 216,
+      "reporter": "Cal.App.4th",
+      "page": 955,
+      "pin": "962",
+      "raw": "Fuller v. First Franklin Financial Corp. (2013) 216 Cal. App.4th 955, 962",
+      "span": [
+        200,
+        273
+      ],
+      "role": "sources",
+      "case_key": "216 Cal.App.4th 955"
+    },
+    {
+      "name": "Snow v. A. H. Robins Co.",
+      "year": 1985,
+      "volume": 165,
+      "reporter": "Cal.App.3d",
+      "page": 120,
+      "pin": "127–128",
+      "raw": "Snow v. A. H. Robins Co. (1985) 165 Cal. App.3d 120, 127–128",
+      "span": [
+        631,
+        691
+      ],
+      "role": "sources",
+      "case_key": "165 Cal.App.3d 120"
+    },
+    {
+      "name": "Parsons v. Tickner",
+      "year": 1995,
+      "volume": 31,
+      "reporter": "Cal.App.4th",
+      "page": 1513,
+      "pin": "1526",
+      "raw": "Parsons v. Tickner (1995) 31 Cal. App.4th 1513, 1526",
+      "span": [
+        452,
+        504
+      ],
+      "role": "sources",
+      "case_key": "31 Cal.App.4th 1513"
+    },
+    {
+      "name": "Samuels v. Mix",
+      "year": 1999,
+      "volume": 22,
+      "reporter": "Cal.4th",
+      "page": 1,
+      "pin": "14",
+      "raw": "Samuels v. Mix (1999) 22 Cal. 4th 1, 14",
+      "span": [
+        393,
+        432
+      ],
+      "role": "sources",
+      "case_key": "22 Cal.4th 1"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:15+00:00"
+}

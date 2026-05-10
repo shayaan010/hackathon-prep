@@ -1,0 +1,104 @@
+{
+  "id": "CACI-3903K",
+  "edition": "2026",
+  "number": "3903K",
+  "title": "Loss or Destruction of Personal Property (EconomicDamage)",
+  "title_full": "Loss or Destruction of Personal Property (EconomicDamage)",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2734,
+  "page_end": 2734,
+  "instruction_text": "3903K. Loss or Destruction of Personal Property (Economic\nDamage)\n[Insert number , e.g., \"11.\"] The [loss/destruction] of [ name of plaintiff ]'s\n[item of personal property ].\nTo recover damages for the [loss/destruction], [ name of plaintiff ] must\nprove the fair market value of the [ item of personal property ] just before\nthe harm occurred.\n\"Fair market value\" is the highest price that a willing buyer would have\npaid to a willing seller, assuming:\n1. That there is no pressure on either one to buy or sell; and\n2. That both buyer and seller have reasonable knowledge of all\nrelevant facts about the condition and quality of the [ item of\npersonal property ].",
+  "directions_for_use": "The deﬁnition of \"fair market value\" has been adapted from Treasury regulations.\n(See 26 C.F.R. §20.2031-1(b); United States v. Cartwright (1973) 411 U.S. 546,\n550 [93 S.Ct. 1713, 36 L.Ed.2d 528]; see also CACI No. 3501, \" Fair Market\nV alue\" Explained; Code Civ. Proc., §1263.320 [deﬁnition for eminent domain].)",
+  "sources_and_authority": [
+    {
+      "raw": "\" 'As a general rule the measure of damage for the loss or destruction of\npersonal property is the value of the property at the time of such loss or\ndestruction.' \" ( Hand Electronics, Inc. v. Snowline Joint Uniﬁed School Dist.\n(1994) 21 Cal. App.4th 862, 870 [26 Cal. Rptr.2d 446], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hand Electronics, Inc. v. Snowline Joint Uniﬁed School Dist.",
+          "year": 1994,
+          "volume": 21,
+          "reporter": "Cal.App.4th",
+          "page": 862,
+          "pin": "870",
+          "raw": "Hand Electronics, Inc. v. Snowline Joint Uniﬁed School Dist. (1994) 21 Cal. App.4th 862, 870",
+          "span": [
+            167,
+            259
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"It is well established that under [Civil Code] section 3333, the measure of\ndamages for the loss or destruction of personal property is generally determined\nby the value of the property at the time of such loss or destruction.\" ( Pelletier v.\nEisenberg (1986) 177 Cal. App.3d 558, 567 [223 Cal. Rptr. 84].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Pelletier v. Eisenberg",
+          "year": 1986,
+          "volume": 177,
+          "reporter": "Cal.App.3d",
+          "page": 558,
+          "pin": "567",
+          "raw": "Pelletier v. Eisenberg (1986) 177 Cal. App.3d 558, 567",
+          "span": [
+            231,
+            285
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1904\nCalifornia Tort Damages (Cont.Ed.Bar) V ehicles & Other Personal Property, §13.6\n4 Levy et al., California Torts, Ch. 52, Medical Expenses and Economic Loss ,\n§52.32 (Matthew Bender)\n15 California Forms of Pleading and Practice, Ch. 177, Damages (Matthew Bender)\n6 California Points and Authorities, Ch. 64, Damages: Tort (Matthew Bender)\nCalifornia Civil Practice: Torts §5:17 (Thomson Reuters)\n848",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Hand Electronics, Inc. v. Snowline Joint Uniﬁed School Dist.",
+      "year": 1994,
+      "volume": 21,
+      "reporter": "Cal.App.4th",
+      "page": 862,
+      "pin": "870",
+      "raw": "Hand Electronics, Inc. v. Snowline Joint Uniﬁed School Dist. (1994) 21 Cal. App.4th 862, 870",
+      "span": [
+        167,
+        259
+      ],
+      "role": "sources",
+      "case_key": "21 Cal.App.4th 862"
+    },
+    {
+      "name": "Pelletier v. Eisenberg",
+      "year": 1986,
+      "volume": 177,
+      "reporter": "Cal.App.3d",
+      "page": 558,
+      "pin": "567",
+      "raw": "Pelletier v. Eisenberg (1986) 177 Cal. App.3d 558, 567",
+      "span": [
+        231,
+        285
+      ],
+      "role": "sources",
+      "case_key": "177 Cal.App.3d 558"
+    },
+    {
+      "name": "United States v. Cartwright",
+      "year": 1973,
+      "volume": 411,
+      "reporter": "U.S.",
+      "page": 546,
+      "pin": "550",
+      "raw": "United States v. Cartwright (1973) 411 U.S. 546, 550",
+      "span": [
+        111,
+        163
+      ],
+      "role": "directions",
+      "case_key": "411 U.S. 546"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "CACI-338",
+  "edition": "2026",
+  "number": "338",
+  "title": "Affirmative Defense—Statute of Limitations",
+  "title_full": "Affirmative Defense—Statute of Limitations",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 236,
+  "page_end": 236,
+  "instruction_text": "338. Affirmative Defense–Statute of Limitations\n[Name of defendant ] contends that [ name of plaintiff ]'s lawsuit was not\nﬁled within the time set by law. To succeed on this defense, [ name of\ndefendant] must prove that [ name of plaintiff ]'s claimed harm occurred\nbefore [ insert date two or four years before date of ﬁling ].",
+  "directions_for_use": "This instruction is for use if the defendant claims that the plaintiff's action was not\nﬁled within the applicable four-year period for breach of a written contract (see\nCode Civ. Proc., §337(1)) or two-year period for breach of an oral contract. (See\nCode Civ. Proc., §339(1).) Do not use this instruction for breach of a California\nUniform Commercial Code sales contract. (See Com. Code, §2725.)\nIf the contract either shortens or extends the limitation period, use the applicable\nperiod from the contract instead of two years or four years.\nIf the plaintiff alleges that the delayed-discovery rule applies to avoid the limitation\ndefense, CACI No. 455, Statute of Limitations–Delayed Discovery, may be adapted\nfor use.",
+  "sources_and_authority": [
+    {
+      "raw": "Four-Y ear Statute of Limitations: Contract. Code of Civil Procedure section\n337(a).",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Two-Y ear Statute of Limitations: Contract. Code of Civil Procedure section\n339(1).",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In general, California courts have permitted contracting parties to modify the\nlength of the otherwise applicable California statute of limitations, whether the\ncontract has extended or shortened the limitations period.\" ( Hambrecht & Quist\nV enture Partners v. Am. Medical Internat. (1995) 38 Cal. App.4th 1532, 1547 [46\nCal. Rptr.2d 33].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Partners v. Am. Medical Internat.",
+          "year": 1995,
+          "volume": 38,
+          "reporter": "Cal.App.4th",
+          "page": 1532,
+          "pin": "1547",
+          "raw": "Partners v. Am. Medical Internat. (1995) 38 Cal. App.4th 1532, 1547",
+          "span": [
+            251,
+            318
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A contract cause of action does not accrue until the contract has been\nbreached.\" ( Spear v. Cal. State Automobile Assn. (1992) 2 Cal. 4th 1035, 1042 [9\nCal. Rptr.2d 381, 831 P.2d 821].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Spear v. Cal. State Automobile Assn.",
+          "year": 1992,
+          "volume": 2,
+          "reporter": "Cal.4th",
+          "page": 1035,
+          "pin": "1042",
+          "raw": "Spear v. Cal. State Automobile Assn. (1992) 2 Cal. 4th 1035, 1042",
+          "span": [
+            85,
+            150
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The claim accrues when the plaintiff discovers, or could have discovered\nthrough reasonable diligence, the injury and its cause.\" ( Angeles Chem. Co. v.\nSpencer & Jones (1996) 44 Cal. App.4th 112, 119 [51 Cal. Rptr.2d 594].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he discovery rule may be applied to breaches [of contract] which can be,\nand are, committed in secret and, moreover, where the harm ﬂowing from those\nbreaches will not be reasonably discoverable by plaintiffs until a future time.\"\n(Gryczman v. 4550 Pico Partners, Ltd. (2003) 107 Cal. App.4th 1, 4–5 [131\n162",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "COM",
+      "section": "2725",
+      "display": "Commercial Code section 2725",
+      "raw": "Com. Code, §2725",
+      "span": [
+        379,
+        395
+      ],
+      "role": "directions",
+      "statute_key": "CA/COM/2725"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Partners v. Am. Medical Internat.",
+      "year": 1995,
+      "volume": 38,
+      "reporter": "Cal.App.4th",
+      "page": 1532,
+      "pin": "1547",
+      "raw": "Partners v. Am. Medical Internat. (1995) 38 Cal. App.4th 1532, 1547",
+      "span": [
+        251,
+        318
+      ],
+      "role": "sources",
+      "case_key": "38 Cal.App.4th 1532"
+    },
+    {
+      "name": "Spear v. Cal. State Automobile Assn.",
+      "year": 1992,
+      "volume": 2,
+      "reporter": "Cal.4th",
+      "page": 1035,
+      "pin": "1042",
+      "raw": "Spear v. Cal. State Automobile Assn. (1992) 2 Cal. 4th 1035, 1042",
+      "span": [
+        85,
+        150
+      ],
+      "role": "sources",
+      "case_key": "2 Cal.4th 1035"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

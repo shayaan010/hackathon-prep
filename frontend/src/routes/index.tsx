@@ -1,15 +1,28 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { useQuery } from "@tanstack/react-query";
+import { keepPreviousData, useQuery } from "@tanstack/react-query";
 import { useEffect, useMemo, useState } from "react";
 import { AppHeader } from "@/components/AppHeader";
 import { StatuteListItem } from "@/components/StatuteListItem";
 import { StatuteDetail } from "@/components/StatuteDetail";
 import { MainChat } from "@/components/MainChat";
 import { Sheet, SheetContent } from "@/components/ui/sheet";
-import { FACTOR_CATEGORIES, STATUTES } from "@/lib/statutes";
+import { FACTOR_CATEGORIES, type Statute } from "@/lib/statutes";
 import { api } from "@/lib/api";
 import { useProjects } from "@/lib/projects";
 import { Search, Sparkles } from "lucide-react";
+
+// Map of human label → 2-letter code for the jurisdictions the curated
+// Postgres covers. Keys must match what /api/statutes returns in
+// `jurisdictionLabel` so the chip filter round-trips cleanly.
+const JURISDICTION_LABEL_TO_CODE: Record<string, string> = {
+  California: "CA",
+  "New York": "NY",
+  Texas: "TX",
+  Colorado: "CO",
+  Florida: "FL",
+  Nevada: "NV",
+  Oregon: "OR",
+};
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -28,25 +41,75 @@ export const Route = createFileRoute("/")({
 });
 
 function HarvesterPage() {
-  // Statutes come from the FastAPI backend (/api/statutes). Falls back to the
-  // bundled mock list if the backend isn't running, so the UI never breaks.
-  const { data: statutes = STATUTES } = useQuery({
-    queryKey: ["statutes"],
-    queryFn: api.statutes,
-    staleTime: 60_000,
-    placeholderData: STATUTES,
-  });
-
-  const jurisdictions = useMemo(
-    () => Array.from(new Set(statutes.map((s) => s.jurisdictionLabel))),
-    [statutes],
-  );
-
   const [query, setQuery] = useState("");
   const [debouncedQuery, setDebouncedQuery] = useState("");
-  const [activeFactors, setActiveFactors] = useState<string[]>([]);
   const [activeJurisdictions, setActiveJurisdictions] = useState<string[]>([]);
+  const [activeFactors, setActiveFactors] = useState<string[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  // Statutes the chat assistant pulled via tool calls — kept in a separate
+  // map so the drawer can resolve a card click even when the sidebar's
+  // search/filter state would have hidden the statute.
+  const [chatStatutes, setChatStatutes] = useState<Map<string, Statute>>(
+    () => new Map(),
+  );
+  const mergeChatStatutes = (incoming: Statute[]) => {
+    if (incoming.length === 0) return;
+    setChatStatutes((prev) => {
+      const next = new Map(prev);
+      for (const s of incoming) next.set(s.id, s);
+      return next;
+    });
+  };
+
+  // Debounce typing → backend search (avoid hitting Postgres every keystroke).
+  useEffect(() => {
+    const t = setTimeout(() => setDebouncedQuery(query.trim()), 350);
+    return () => clearTimeout(t);
+  }, [query]);
+
+  // Translate label-based chips ("California") into the CSV of codes ("CA")
+  // that the backend filter expects. Stable string → stable query key.
+  const jurisdictionParam = useMemo(() => {
+    const codes = activeJurisdictions
+      .map((label) => JURISDICTION_LABEL_TO_CODE[label])
+      .filter(Boolean);
+    return codes.sort().join(",");
+  }, [activeJurisdictions]);
+
+  // Factor chips: server-side filter via `factors=CSV`. Sort for query-key
+  // stability (otherwise [A,B] and [B,A] would refetch needlessly).
+  const factorParam = useMemo(
+    () => activeFactors.slice().sort().join(","),
+    [activeFactors],
+  );
+
+  // One server call drives the list. Empty filters → top-50 default.
+  // `items` is capped at 50 server-side; `total` is the full match count
+  // across the table so we can show "50 of 1,234".
+  const { data, isFetching: searching } = useQuery({
+    queryKey: ["statutes", debouncedQuery, jurisdictionParam, factorParam],
+    queryFn: () =>
+      api.statutes({
+        q: debouncedQuery || undefined,
+        jurisdiction: jurisdictionParam || undefined,
+        factors: factorParam || undefined,
+        limit: 50,
+      }),
+    staleTime: 30_000,
+    placeholderData: keepPreviousData,
+  });
+  const statutes = data?.items ?? [];
+  const totalStatutes = data?.total ?? 0;
+
+  // Jurisdictions chip list: union of (a) the static codes the backend covers
+  // and (b) anything the current result set actually contains. Keeping (a)
+  // visible means the chips don't disappear when the user types into a
+  // narrowing query and the result set drops to a single state.
+  const jurisdictions = useMemo(() => {
+    const set = new Set<string>(Object.keys(JURISDICTION_LABEL_TO_CODE));
+    for (const s of statutes) if (s.jurisdictionLabel) set.add(s.jurisdictionLabel);
+    return Array.from(set).sort();
+  }, [statutes]);
 
   const projects = useProjects();
   const savedIds = useMemo(() => {
@@ -57,64 +120,17 @@ function HarvesterPage() {
     return set;
   }, [projects]);
 
-  // Debounce typing → semantic search (avoid hitting /api/search every keystroke).
-  useEffect(() => {
-    const t = setTimeout(() => setDebouncedQuery(query.trim()), 350);
-    return () => clearTimeout(t);
-  }, [query]);
-
   const useSemantic = debouncedQuery.length >= 2;
-  const { data: searchHits, isFetching: searching } = useQuery({
-    queryKey: ["search", debouncedQuery],
-    queryFn: () => api.search(debouncedQuery, 20),
-    enabled: useSemantic,
-    staleTime: 30_000,
-  });
-
-  const semanticOrdered = useMemo(() => {
-    if (!useSemantic || !searchHits) return null;
-    const bestByDoc = new Map<number, number>();
-    for (const h of searchHits) {
-      const prev = bestByDoc.get(h.doc_id);
-      if (prev === undefined || h.score > prev) bestByDoc.set(h.doc_id, h.score);
-    }
-    const byId = new Map(statutes.map((s) => [s.id, s]));
-    const ranked: typeof statutes = [];
-    for (const [docId] of [...bestByDoc.entries()].sort((a, b) => b[1] - a[1])) {
-      // Real DB statutes have id "ca-vc-<section-slug>"; SearchHit only carries doc_id.
-      // Match by URL/section using the seed/list mapping built below.
-      const stat = statutes.find((s) =>
-        searchHits.find(
-          (h) => h.doc_id === docId && h.source_url === s.source.url,
-        ),
-      );
-      if (stat && !ranked.find((r) => r.id === stat.id)) ranked.push(stat);
-    }
-    return ranked;
-  }, [searchHits, statutes, useSemantic]);
-
-  const filtered = useMemo(() => {
-    const base = semanticOrdered ?? statutes;
-    return base.filter((s) => {
-      const q = useSemantic ? "" : query.trim().toLowerCase();
-      const matchesQuery =
-        !q ||
-        s.title.toLowerCase().includes(q) ||
-        s.section.includes(q) ||
-        s.summary.toLowerCase().includes(q) ||
-        s.text.toLowerCase().includes(q) ||
-        s.factors.some((f) => f.toLowerCase().includes(q));
-      const matchesFactor =
-        activeFactors.length === 0 || activeFactors.some((f) => s.factors.includes(f));
-      const matchesJ =
-        activeJurisdictions.length === 0 || activeJurisdictions.includes(s.jurisdictionLabel);
-      return matchesQuery && matchesFactor && matchesJ;
-    });
-  }, [semanticOrdered, statutes, query, activeFactors, activeJurisdictions, useSemantic]);
 
   // Only show detail when the user explicitly clicked something — no auto-select,
   // otherwise the Sheet would pop open as filters/search results change.
-  const selected = selectedId ? statutes.find((s) => s.id === selectedId) ?? null : null;
+  // Resolution order: the visible result set, then anything the chat pulled
+  // via tool calls (covers off-page jurisdictions / fresh searches).
+  const selected = selectedId
+    ? statutes.find((s) => s.id === selectedId) ??
+      chatStatutes.get(selectedId) ??
+      null
+    : null;
 
   const toggle = (list: string[], v: string, set: (l: string[]) => void) =>
     set(list.includes(v) ? list.filter((x) => x !== v) : [...list, v]);
@@ -133,16 +149,16 @@ function HarvesterPage() {
               <input
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
-                placeholder="Search statutes, citations, factors…"
+                placeholder="Search statutes, citations…"
                 className="w-full h-11 pl-9 pr-3 rounded-lg border border-border bg-background text-sm focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary/50 font-medium"
               />
             </div>
 
-            {useSemantic && (
+            {(useSemantic || searching) && (
               <div className="mt-3 flex items-center gap-2">
                 <span className="text-[10px] font-mono uppercase tracking-widest text-gold flex items-center gap-1">
                   <Sparkles className="h-2.5 w-2.5" />
-                  {searching ? "searching…" : "semantic"}
+                  {searching ? "searching…" : "live"}
                 </span>
               </div>
             )}
@@ -179,7 +195,11 @@ function HarvesterPage() {
                 Contributing Factor
               </div>
               <div className="flex flex-wrap gap-1 max-h-24 overflow-y-auto scrollbar-thin">
-                {FACTOR_CATEGORIES.map((f) => {
+                {/* "Other" is intentionally hidden — it's a tagging fallback
+                    for definitional/administrative statutes, not something a
+                    user would meaningfully filter on. The chat tool can still
+                    pass it. */}
+                {FACTOR_CATEGORIES.filter((f) => f !== "Other").map((f) => {
                   const on = activeFactors.includes(f);
                   return (
                     <button
@@ -200,15 +220,21 @@ function HarvesterPage() {
             </div>
           </div>
 
-          {/* Results count */}
+          {/* Results count — `total` is the full DB match count for the
+              current filter set; `statutes` is the server-capped page. */}
           <div className="px-4 py-2 border-b border-border flex items-center justify-between text-[11px] font-mono uppercase tracking-widest text-muted-foreground bg-secondary/50">
-            <span>{filtered.length} results</span>
+            <span>
+              {statutes.length}
+              {totalStatutes > statutes.length
+                ? ` of ${totalStatutes.toLocaleString()}`
+                : " results"}
+            </span>
             <span>{savedIds.size} saved</span>
           </div>
 
           {/* Result list */}
           <div className="flex-1 overflow-y-auto scrollbar-thin divide-y divide-border/50">
-            {filtered.map((s) => (
+            {statutes.map((s) => (
               <StatuteListItem
                 key={s.id}
                 statute={s}
@@ -217,7 +243,7 @@ function HarvesterPage() {
                 onSelect={() => setSelectedId(s.id)}
               />
             ))}
-            {filtered.length === 0 && (
+            {statutes.length === 0 && !searching && (
               <div className="p-8 text-center text-sm text-muted-foreground">
                 No statutes match your query.
               </div>
@@ -227,7 +253,10 @@ function HarvesterPage() {
 
         {/* RIGHT: Chat */}
         <main className="min-h-0 bg-background">
-          <MainChat statutes={statutes} onSelectStatute={setSelectedId} />
+          <MainChat
+            onSelectStatute={setSelectedId}
+            onChatStatutes={mergeChatStatutes}
+          />
         </main>
       </div>
 

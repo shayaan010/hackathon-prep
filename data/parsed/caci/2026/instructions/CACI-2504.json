@@ -1,0 +1,104 @@
+{
+  "id": "CACI-2504",
+  "edition": "2026",
+  "number": "2504",
+  "title": "Disparate Impact—Rebuttal to Business Necessity/Job Relatedness Defense",
+  "title_full": "Disparate Impact—Rebuttal to Business Necessity/Job Relatedness Defense",
+  "title_statute": null,
+  "series": "2500",
+  "series_title": "Series 2500 Fair Employment And Housing Act",
+  "page_start": 1620,
+  "page_end": 1621,
+  "instruction_text": "2504. Disparate Impact–Rebuttal to Business Necessity/Job\nRelatedness Defense\nIf [ name of defendant ] proves that the [employment practice/ selection\npolicy] is necessary to [his/her/ nonbinary pronoun/its] business, then the\n[employment practice/selection policy] is lawful unless [ name of plaintiff ]\nproves both of the following:\n1. That there was an alternative [employment practice/ selection\npolicy] that would have accomplished the business purpose\nequally well; and\n2. That the alternative [employment practice/selection policy] would\nhave had less adverse impact on [ describe members of protected\ngroup–for example, \"persons over the age of 40\" ].",
+  "directions_for_use": "Federal title VII requires a plaintiff to demonstrate that the employer refused to\nadopt the alternative employment practice (see 42 U.S.C. §2000e-2(K)(1)(A)(ii)).\nThere are no published court opinions determining if a similar requirement exists\nunder California law.\nThis instruction must be given if defendant asserts the defense of business necessity\nto a disparate impact employment discrimination claim. (See CACI No. 2503,\nAffırmative Defense–Business Necessity/Job Relatedness .)",
+  "sources_and_authority": [
+    {
+      "raw": "Justiﬁcation for Disparate Impact. Cal. Code Regs., tit. 2, §11010(b).",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Disparate Impact Under Federal Law. 42 U.S.C. §2000e-2(k)(1)(A).",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'The test [of the business necessity defense] is whether there exists an\noverriding legitimate business purpose such that the practice is necessary to the\nsafe and efficient operation of the business. Thus, the business purpose must be\nsufficiently compelling to override any [discriminatory] impact; the challenged\npractice must effectively carry out the business purpose it is alleged to serve;\nand there must be available no acceptable alternative policies or practices which\nwould better accomplish the business purpose advanced, or accomplish it equally\nwell with a lesser differential [discriminatory] impact.' \" ( City and County of San\nFrancisco v. Fair Employment and Housing Com. (1987) 191 Cal. App.3d 976,\n989–990 [236 Cal. Rptr. 716].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "City and County of San Francisco v. Fair Employment and Housing Com.",
+          "year": 1987,
+          "volume": 191,
+          "reporter": "Cal.App.3d",
+          "page": 976,
+          "pin": "989–990",
+          "raw": "City and County of San Francisco v. Fair Employment and Housing Com. (1987) 191 Cal. App.3d 976, 989–990",
+          "span": [
+            623,
+            727
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he standards established by the FEHC for evaluating a facially neutral\nselection criterion which has a discriminatory impact on a protected group are\nidentical to federal standards under Title VII.\" ( City and County of San\n1546\nFrancisco, supra, 191 Cal. App.3d at p. 986.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"If an employer does then meet the burden of proving that its tests are 'job\nrelated,' it remains open to the complaining party to show that other tests or\nselection devices, without a similarly undesirable [discriminatory] effect, would\nalso serve the employer's legitimate interest in 'efficient and trustworthy\nworkmanship.' \" ( Albemarle Paper Co. v. Moody (1975) 422 U.S. 405, 425 [95\nS.Ct. 2362, 45 L.Ed.2d 280], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Albemarle Paper Co. v. Moody",
+          "year": 1975,
+          "volume": 422,
+          "reporter": "U.S.",
+          "page": 405,
+          "pin": "425",
+          "raw": "Albemarle Paper Co. v. Moody (1975) 422 U.S. 405, 425",
+          "span": [
+            332,
+            385
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "Chin et al., California Practice Guide: Employment Litigation, Ch.5(I)-E,\nDefamation, ¶¶ 7:581, 7:590, 7:591, 7:915 (The Rutter Group)\nChin et al., California Practice Guide: Employment Litigation, Ch. 5(I)-L, Invasion\nof Privacy , ¶ 7:915 (The Rutter Group)\n2 Wilcox, California Employment Law, Ch. 41, Substantive Requirements Under\nEqual Employment Opportunity Laws , §41.21[2] (Matthew Bender)\n3 Wilcox, California Employment Law, Ch. 43, Civil Actions Under Equal\nEmployment Opportunity Laws , §43.01[2][d] (Matthew Bender)\n11 California Forms of Pleading and Practice, Ch. 115, Civil Rights: Employment\nDiscrimination, §115.23[2][c] (Matthew Bender)\nCalifornia Civil Practice: Employment Litigation §2:26 (Thomson Reuters)\nFAIR EMPLOYMENT AND HOUSING ACT CACI No. 2504\n1547",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "City and County of San Francisco v. Fair Employment and Housing Com.",
+      "year": 1987,
+      "volume": 191,
+      "reporter": "Cal.App.3d",
+      "page": 976,
+      "pin": "989–990",
+      "raw": "City and County of San Francisco v. Fair Employment and Housing Com. (1987) 191 Cal. App.3d 976, 989–990",
+      "span": [
+        623,
+        727
+      ],
+      "role": "sources",
+      "case_key": "191 Cal.App.3d 976"
+    },
+    {
+      "name": "Albemarle Paper Co. v. Moody",
+      "year": 1975,
+      "volume": 422,
+      "reporter": "U.S.",
+      "page": 405,
+      "pin": "425",
+      "raw": "Albemarle Paper Co. v. Moody (1975) 422 U.S. 405, 425",
+      "span": [
+        332,
+        385
+      ],
+      "role": "sources",
+      "case_key": "422 U.S. 405"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:17+00:00"
+}

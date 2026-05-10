@@ -1,0 +1,172 @@
+{
+  "id": "CACI-3114",
+  "edition": "2026",
+  "number": "3114",
+  "title": "“Malice” Explained",
+  "title_full": "“Malice” Explained",
+  "title_statute": null,
+  "series": "3100",
+  "series_title": "Series 3100 Elder Abuse and Dependent Adult Civil Protection Act",
+  "page_start": 2326,
+  "page_end": 2326,
+  "instruction_text": "3114. \"Malice\" Explained\n\"Malice\" means that [[ name of individual defendant ]/[name of employer\ndefendant]'s employee] acted with intent to cause injury or that [his/her/\nnonbinary pronoun] conduct was despicable and was done with a willful\nand knowing disregard of the rights or safety of another. A person acts\nwith knowing disregard when the person is aware of the probable\ndangerous consequences of the person's conduct and deliberately fails to\navoid those consequences.\n\"Despicable conduct\" is conduct that is so vile, base, or contemptible\nthat it would be looked down on and despised by reasonable people.",
+  "directions_for_use": "If the individual responsible for the elder abuse is a defendant in the case, use\n\"[name of individual defendant ].\" If only the individual's employer is a defendant,\nuse \"[ name of employer defendant ]'s employee.\"",
+  "sources_and_authority": [
+    {
+      "raw": "\"Malice\" for Punitive Damages Deﬁned. Civil Code section 3294(c)(1).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3294",
+          "display": "Civil Code section 3294",
+          "raw": "Civil Code section 3294(c)(1)",
+          "span": [
+            38,
+            67
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3294",
+          "display": "Civil Code section 3294(c)",
+          "raw": "Civil Code section 3294(c)(1)",
+          "span": [
+            38,
+            67
+          ],
+          "subsection": "c"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3294",
+          "display": "Civil Code section 3294(1)",
+          "raw": "Civil Code section 3294(c)(1)",
+          "span": [
+            38,
+            67
+          ],
+          "subsection": "1"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Used in its ordinary sense, the adjective 'despicable' is a powerful term that\nrefers to circumstances that are 'base,' 'vile,' or 'contemptible.' As amended to\ninclude this word, the statute plainly indicates that absent an intent to injure the\nplaintiff, 'malice' requires more than a 'willful and conscious' disregard of the\nplaintiffs' interests. The additional component of 'despicable conduct' must be\nfound.\" ( College Hospital, Inc. v. Superior Court (1994) 8 Cal. 4th 704, 725 [34\nCal. Rptr.2d 898, 882 P.2d 894], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "College Hospital, Inc. v. Superior Court",
+          "year": 1994,
+          "volume": 8,
+          "reporter": "Cal.4th",
+          "page": 704,
+          "pin": "725",
+          "raw": "College Hospital, Inc. v. Superior Court (1994) 8 Cal. 4th 704, 725",
+          "span": [
+            419,
+            486
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Under the statute, 'malice does not require actual intent to harm. [Citation.]\nConscious disregard for the safety of another may be sufficient where the\ndefendant is aware of the probable dangerous consequences of his or her conduct\nand he or she willfully fails to avoid such consequences. [Citation.] Malice may\nbe proved either expressly through direct evidence or by implication through\nindirect evidence from which the jury draws inferences. [Citation.]' \" ( Pfeifer v.\nJohn Crane, Inc. (2013) 220 Cal. App.4th 1270, 1299 [164 Cal. Rptr.3d 112].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Pfeifer v. John Crane, Inc.",
+          "year": 2013,
+          "volume": 220,
+          "reporter": "Cal.App.4th",
+          "page": 1270,
+          "pin": "1299",
+          "raw": "Pfeifer v. John Crane, Inc. (2013) 220 Cal. App.4th 1270, 1299",
+          "span": [
+            465,
+            527
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1727, 1729\n1 California Forms of Pleading and Practice, Ch. 5, Abuse of Minors and Elderly ,\n§5.33[1] (Matthew Bender)\n440",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3294",
+      "display": "Civil Code section 3294",
+      "raw": "Civil Code section 3294(c)(1)",
+      "span": [
+        38,
+        67
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3294"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3294",
+      "display": "Civil Code section 3294(c)",
+      "raw": "Civil Code section 3294(c)(1)",
+      "span": [
+        38,
+        67
+      ],
+      "subsection": "c",
+      "role": "sources",
+      "statute_key": "CA/CIV/3294/c"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3294",
+      "display": "Civil Code section 3294(1)",
+      "raw": "Civil Code section 3294(c)(1)",
+      "span": [
+        38,
+        67
+      ],
+      "subsection": "1",
+      "role": "sources",
+      "statute_key": "CA/CIV/3294/1"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "College Hospital, Inc. v. Superior Court",
+      "year": 1994,
+      "volume": 8,
+      "reporter": "Cal.4th",
+      "page": 704,
+      "pin": "725",
+      "raw": "College Hospital, Inc. v. Superior Court (1994) 8 Cal. 4th 704, 725",
+      "span": [
+        419,
+        486
+      ],
+      "role": "sources",
+      "case_key": "8 Cal.4th 704"
+    },
+    {
+      "name": "Pfeifer v. John Crane, Inc.",
+      "year": 2013,
+      "volume": 220,
+      "reporter": "Cal.App.4th",
+      "page": 1270,
+      "pin": "1299",
+      "raw": "Pfeifer v. John Crane, Inc. (2013) 220 Cal. App.4th 1270, 1299",
+      "span": [
+        465,
+        527
+      ],
+      "role": "sources",
+      "case_key": "220 Cal.App.4th 1270"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "CACI-419",
+  "edition": "2026",
+  "number": "419",
+  "title": "Presumption of Negligence per se (Causation Only at Issue)",
+  "title_full": "Presumption of Negligence per se (Causation Only at Issue)",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 342,
+  "page_end": 342,
+  "instruction_text": "419. Presumption of Negligence per se (Causation Only at Issue)\n[Insert citation to statute, regulation, or ordinance ] states:\n.\nA violation of this law has been established and is not an issue for you to\ndecide.\n[However, you must decide whether the violation was excused. If it was\nnot excused, then you] [Y ou] must decide whether the violation was a\nsubstantial factor in harming [ name of plaintiff ].\nIf you decide that the violation was a substantial factor, then you must\nﬁnd that [ name of plaintiff/defendant ] was negligent.",
+  "directions_for_use": "The California Law Revision Commission comment on Evidence Code section 669\nstates that the trier of fact usually decides the question of whether the violation\noccurred. However, \"if a party admits the violation or if the evidence of the\nviolation is undisputed, it is appropriate for the judge to instruct the jury that a\nviolation of the statute, ordinance, or regulation has been established as a matter of\nlaw.\" In such cases, the jury would decide causation and, if applicable, the existence\nof any justiﬁcation or excuse. For an instruction on excuse, see CACI No. 420,\nNegligence per se: Rebuttal of the Presumption of Negligence–Violation Excused.\nSee also Sources and Authority to CACI No. 418, Presumption of Negligence per\nse.",
+  "sources_and_authority": [
+    {
+      "raw": "Presumption of Negligence per se. Evidence Code section 669(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "669",
+          "display": "Evidence Code section 669",
+          "raw": "Evidence Code section 669(a)",
+          "span": [
+            34,
+            62
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "669",
+          "display": "Evidence Code section 669(a)",
+          "raw": "Evidence Code section 669(a)",
+          "span": [
+            34,
+            62
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Under the doctrine of negligence per se, the plaintiff 'borrows' statutes to prove\nduty of care and standard of care. [Citation.] The plaintiff still has the burden of\nproving causation.\" ( David v. Hernandez (2014) 226 Cal. App.4th 578, 584 [172\nCal. Rptr.3d 204].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "David v. Hernandez",
+          "year": 2014,
+          "volume": 226,
+          "reporter": "Cal.App.4th",
+          "page": 578,
+          "pin": "584",
+          "raw": "David v. Hernandez (2014) 226 Cal. App.4th 578, 584",
+          "span": [
+            191,
+            242
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1002–1028\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §§1.28–1.31\n1 Levy et al., California Torts, Ch. 3, Proof of Negligence , §3.10 (Matthew Bender)\n4 California Trial Guide, Unit 90, Closing Argument, §90.89 (Matthew Bender)\n33 California Forms of Pleading and Practice, Ch. 380, Negligence, §380.110\n(Matthew Bender)\n16 California Points and Authorities, Ch. 165, Negligence, §§165.70, 165.80\n(Matthew Bender)\n268",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "669",
+      "display": "Evidence Code section 669",
+      "raw": "Evidence Code section 669(a)",
+      "span": [
+        34,
+        62
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/669"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "669",
+      "display": "Evidence Code section 669(a)",
+      "raw": "Evidence Code section 669(a)",
+      "span": [
+        34,
+        62
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/EVID/669/a"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "David v. Hernandez",
+      "year": 2014,
+      "volume": 226,
+      "reporter": "Cal.App.4th",
+      "page": 578,
+      "pin": "584",
+      "raw": "David v. Hernandez (2014) 226 Cal. App.4th 578, 584",
+      "span": [
+        191,
+        242
+      ],
+      "role": "sources",
+      "case_key": "226 Cal.App.4th 578"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "CACI-603",
+  "edition": "2026",
+  "number": "603",
+  "title": "Alternative Legal Decisions or Strategies",
+  "title_full": "Alternative Legal Decisions or Strategies",
+  "title_statute": null,
+  "series": "600",
+  "series_title": "Series 600 Professional Negligence",
+  "page_start": 602,
+  "page_end": 602,
+  "instruction_text": "603. Alternative Legal Decisions or Strategies\nAn attorney is not necessarily negligent just because the attorney\n[chooses one legal strategy/makes a decision/makes a recommendation]\nand it turns out that another [strategy/decision/recommendation] would\nhave been a better choice.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"We recognize, of course, that an attorney engaging in litigation may have\noccasion to choose among various alternative strategies available to his\nclient . . . .\" ( Smith v. Lewis (1975) 13 Cal. 3d 349, 359 [118 Cal. Rptr. 621, 530\nP.2d 589], overruled in part on other grounds in In re Marriage of Brown (1976)\n15 Cal. 3d 838, 851 [126 Cal. Rptr. 633, 544 P.2d 561].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Smith v. Lewis",
+          "year": 1975,
+          "volume": 13,
+          "reporter": "Cal.3d",
+          "page": 349,
+          "pin": "359",
+          "raw": "Smith v. Lewis (1975) 13 Cal. 3d 349, 359",
+          "span": [
+            166,
+            207
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'In view of the complexity of the law and the circumstances which call for\ndifficult choices among possible courses of action, the attorney cannot be held\nlegally responsible for an honest and reasonable mistake of law or an\nunfortunate selection of remedy or other procedural step .' [Citation.]\" ( Banerian\nv. O'Malley (1974) 42 Cal. App.3d 604, 613 [116 Cal. Rptr. 919].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Banerian v. O'Malley",
+          "year": 1974,
+          "volume": 42,
+          "reporter": "Cal.App.3d",
+          "page": 604,
+          "pin": "613",
+          "raw": "Banerian v. O'Malley (1974) 42 Cal. App.3d 604, 613",
+          "span": [
+            302,
+            353
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "3 Levy et al., California Torts, Ch. 32, Liability of Attorneys , §32.11 (Matthew\nBender)\n7 California Forms of Pleading and Practice, Ch. 76, Attorney Professional Liability\n(Matthew Bender)\n2A California Points and Authorities, Ch. 24A, Attorneys at Law: Malpractice\n(Matthew Bender)\n528",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Smith v. Lewis",
+      "year": 1975,
+      "volume": 13,
+      "reporter": "Cal.3d",
+      "page": 349,
+      "pin": "359",
+      "raw": "Smith v. Lewis (1975) 13 Cal. 3d 349, 359",
+      "span": [
+        166,
+        207
+      ],
+      "role": "sources",
+      "case_key": "13 Cal.3d 349"
+    },
+    {
+      "name": "Banerian v. O'Malley",
+      "year": 1974,
+      "volume": 42,
+      "reporter": "Cal.App.3d",
+      "page": 604,
+      "pin": "613",
+      "raw": "Banerian v. O'Malley (1974) 42 Cal. App.3d 604, 613",
+      "span": [
+        302,
+        353
+      ],
+      "role": "sources",
+      "case_key": "42 Cal.App.3d 604"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

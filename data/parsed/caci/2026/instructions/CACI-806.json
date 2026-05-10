@@ -1,0 +1,241 @@
+{
+  "id": "CACI-806",
+  "edition": "2026",
+  "number": "806",
+  "title": "Comparative Fault—Duty to Approach Crossing With Care",
+  "title_full": "Comparative Fault—Duty to Approach Crossing With Care",
+  "title_statute": null,
+  "series": "800",
+  "series_title": "Series 800 Railroad Crossings",
+  "page_start": 680,
+  "page_end": 680,
+  "instruction_text": "806. Comparative Fault–Duty to Approach Crossing With Care\nA driver approaching a railroad crossing is required to use reasonable\ncare to discover whether a train is approaching. The amount of care that\nis reasonable will depend on the circumstances. A railroad track is itself\na warning of danger. If the driver's view of approaching trains is\nblocked, the driver must use greater care than when the view is clear.\nIf a bell or signal has been placed to warn drivers of danger, a driver is\nnot required to use as much care as when there are no such warnings.\nHowever, even if the warning devices are not activated, a driver must\nuse reasonable care in looking and listening for approaching trains.",
+  "directions_for_use": "For an instruction regarding the prima facie speed limits set by Vehicle Code section\n22352, see CACI No. 707, Speed Limit. For an instruction on the duty of care of a\npassenger, see CACI No. 711, The Passenger' s Duty of Care for Own Safety. For\ninstructions on negligence per se, see CACI Nos. 418 to 421.",
+  "sources_and_authority": [
+    {
+      "raw": "Vehicle Proceeding at Railroad Crossing. Vehicle Code section 22451.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22451",
+          "display": "Vehicle Code section 22451",
+          "raw": "Vehicle Code section 22451",
+          "span": [
+            41,
+            67
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Speed Limit at Railroad Crossing. Vehicle Code section 22352(a)(1).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22352",
+          "display": "Vehicle Code section 22352",
+          "raw": "Vehicle Code section 22352(a)(1)",
+          "span": [
+            34,
+            66
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22352",
+          "display": "Vehicle Code section 22352(a)",
+          "raw": "Vehicle Code section 22352(a)(1)",
+          "span": [
+            34,
+            66
+          ],
+          "subsection": "a"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22352",
+          "display": "Vehicle Code section 22352(1)",
+          "raw": "Vehicle Code section 22352(a)(1)",
+          "span": [
+            34,
+            66
+          ],
+          "subsection": "1"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]hat the driver's view is somewhat obstructed does not make him\ncontributorily negligent as a matter of law; whether his failure to stop, the place\nfrom which he looks and the character and extent of the obstruction to his view\nare such that a reasonably prudent person would not have so conducted himself\nare questions for the jury in determining whether he was guilty of contributory\nnegligence.\" ( Lucas v. Southern Paciﬁc Co. (1971) 19 Cal. App.3d 124, 139 [96\nCal. Rptr. 356].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lucas v. Southern Paciﬁc Co.",
+          "year": 1971,
+          "volume": 19,
+          "reporter": "Cal.App.3d",
+          "page": 124,
+          "pin": "139",
+          "raw": "Lucas v. Southern Paciﬁc Co. (1971) 19 Cal. App.3d 124, 139",
+          "span": [
+            404,
+            463
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A railroad track is itself a warning of danger and a driver intending to cross\nmust avail himself of every opportunity to look and listen; if there are\nobstructions to the view, he is required to take greater care.\" ( Wilkinson v.\nSouthern Paciﬁc Co. (1964) 224 Cal. App.2d 478, 488 [36 Cal. Rptr. 689],\ninternal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Wilkinson v. Southern Paciﬁc Co.",
+          "year": 1964,
+          "volume": 224,
+          "reporter": "Cal.App.2d",
+          "page": 478,
+          "pin": "488",
+          "raw": "Wilkinson v. Southern Paciﬁc Co. (1964) 224 Cal. App.2d 478, 488",
+          "span": [
+            219,
+            283
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A railroad company will not be permitted to encourage persons to relax their\nvigil concerning the dangers that lurk in railroad crossings by assuring them,\nthrough the erection of safety devices, that the danger has been removed or\nminimized, and, at the same time, to hold them to the same degree of care as\nwould be required if those devices had not been provided.\" ( Will v. Southern\nPaciﬁc Co. (1941) 18 Cal. 2d 468, 474 [116 P.2d 44], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Will v. Southern Paciﬁc Co.",
+          "year": 1941,
+          "volume": 18,
+          "reporter": "Cal.2d",
+          "page": 468,
+          "pin": "474",
+          "raw": "Will v. Southern Paciﬁc Co. (1941) 18 Cal. 2d 468, 474",
+          "span": [
+            371,
+            425
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A] driver may not cross tracks in reliance upon the safety appliances installed\n606",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "22451",
+      "display": "Vehicle Code section 22451",
+      "raw": "Vehicle Code section 22451",
+      "span": [
+        41,
+        67
+      ],
+      "role": "sources",
+      "statute_key": "CA/VEH/22451"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "22352",
+      "display": "Vehicle Code section 22352",
+      "raw": "Vehicle Code section 22352(a)(1)",
+      "span": [
+        34,
+        66
+      ],
+      "role": "sources",
+      "statute_key": "CA/VEH/22352"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "22352",
+      "display": "Vehicle Code section 22352(a)",
+      "raw": "Vehicle Code section 22352(a)(1)",
+      "span": [
+        34,
+        66
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/VEH/22352/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "22352",
+      "display": "Vehicle Code section 22352(1)",
+      "raw": "Vehicle Code section 22352(a)(1)",
+      "span": [
+        34,
+        66
+      ],
+      "subsection": "1",
+      "role": "sources",
+      "statute_key": "CA/VEH/22352/1"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Lucas v. Southern Paciﬁc Co.",
+      "year": 1971,
+      "volume": 19,
+      "reporter": "Cal.App.3d",
+      "page": 124,
+      "pin": "139",
+      "raw": "Lucas v. Southern Paciﬁc Co. (1971) 19 Cal. App.3d 124, 139",
+      "span": [
+        404,
+        463
+      ],
+      "role": "sources",
+      "case_key": "19 Cal.App.3d 124"
+    },
+    {
+      "name": "Wilkinson v. Southern Paciﬁc Co.",
+      "year": 1964,
+      "volume": 224,
+      "reporter": "Cal.App.2d",
+      "page": 478,
+      "pin": "488",
+      "raw": "Wilkinson v. Southern Paciﬁc Co. (1964) 224 Cal. App.2d 478, 488",
+      "span": [
+        219,
+        283
+      ],
+      "role": "sources",
+      "case_key": "224 Cal.App.2d 478"
+    },
+    {
+      "name": "Will v. Southern Paciﬁc Co.",
+      "year": 1941,
+      "volume": 18,
+      "reporter": "Cal.2d",
+      "page": 468,
+      "pin": "474",
+      "raw": "Will v. Southern Paciﬁc Co. (1941) 18 Cal. 2d 468, 474",
+      "span": [
+        371,
+        425
+      ],
+      "role": "sources",
+      "case_key": "18 Cal.2d 468"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

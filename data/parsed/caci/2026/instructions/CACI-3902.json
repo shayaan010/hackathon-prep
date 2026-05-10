@@ -1,0 +1,150 @@
+{
+  "id": "CACI-3902",
+  "edition": "2026",
+  "number": "3902",
+  "title": "Economic and Noneconomic Damages",
+  "title_full": "Economic and Noneconomic Damages",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2703,
+  "page_end": 2704,
+  "instruction_text": "3902. Economic and Noneconomic Damages\nThe damages claimed by [ name of plaintiff ] for the harm caused by [ name\nof defendant ] fall into two categories called economic damages and\nnoneconomic damages. Y ou will be asked on the verdict form to state the\ntwo categories of damages separately.",
+  "directions_for_use": "This instruction may not be necessary in every case.",
+  "sources_and_authority": [
+    {
+      "raw": "Proposition 51. Civil Code section 1431.2.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1431.2",
+          "display": "Civil Code section 1431.2",
+          "raw": "Civil Code section 1431.2",
+          "span": [
+            16,
+            41
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "MICRA Limitation on Noneconomic Damages From Health Care Provider. Civil\nCode section 3333.2.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3333.2",
+          "display": "Civil Code section 3333.2",
+          "raw": "Civil\nCode section 3333.2",
+          "span": [
+            67,
+            92
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "The Supreme Court has noted that section 1431.2 \"carefully\" deﬁnes the\n\"important distinction\" between economic and noneconomic damages. ( DaFonte\nv. Up-Right, Inc. (1992) 2 Cal. 4th 593, 600 [7 Cal. Rptr.2d 238, 828 P.2d 140].)\nThe court stated: \"Proposition 51 . . . retains the joint liability of all tortfeasors,\nregardless of their respective shares of fault, with respect to all objectively\nprovable expenses and monetary losses. On the other hand, the more intangible\nand subjective categories of damages were limited by Proposition 51 to a rule of\nstrict proportionate liability. With respect to these noneconomic damages, the\nplaintiff alone now assumes the risk that a proportionate contribution cannot be\nobtained from each person responsible for the injury.\" ( Ibid., internal citation\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "DaFonte v. Up-Right, Inc.",
+          "year": 1992,
+          "volume": 2,
+          "reporter": "Cal.4th",
+          "page": 593,
+          "pin": "600",
+          "raw": "DaFonte v. Up-Right, Inc. (1992) 2 Cal. 4th 593, 600",
+          "span": [
+            139,
+            191
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Proposition 51 . . . allows an injured plaintiff to recover the full amount of\neconomic damages suffered, regardless of which tortfeaser [sic] or tortfeasors are\nnamed as defendants. The tortfeasors are left to sort out payment in proportion\nto fault amongst themselves, and they must bear the risk of nonrecovery from\nimpecunious tortfeasors. As to noneconomic damages, however, the plaintiff\nmust sue all the tortfeasors to enable a full recovery. Failure to name a defendant\nwill preclude recovery of that defendant's proportional share of damages, and the\nplaintiff will bear the risk of nonrecovery from an impecunious tortfeasor.\"\n(Aetna Health Plans of California, Inc. v. Yucaipa-Calimesa Joint Uniﬁed School\nDist. (1999) 72 Cal. App.4th 1175, 1190 [85 Cal. Rptr.2d 672].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Aetna Health Plans of California, Inc. v. Yucaipa-Calimesa Joint Uniﬁed School Dist.",
+          "year": 1999,
+          "volume": 72,
+          "reporter": "Cal.App.4th",
+          "page": 1175,
+          "pin": "1190",
+          "raw": "Aetna Health Plans of California, Inc. v. Yucaipa-Calimesa Joint Uniﬁed School Dist. (1999) 72 Cal. App.4th 1175, 1190",
+          "span": [
+            639,
+            757
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§159, 169, 170\nCalifornia Tort Damages (Cont.Ed.Bar) Bodily Injury, §1.5\n4 Levy et al., California Torts, Ch. 74, Resolving Multiparty Tort Litigation , §74.04\n817\n(Matthew Bender)\n15 California Forms of Pleading and Practice, Ch. 177, Damages, §177.44\n(Matthew Bender)\n6 California Points and Authorities, Ch. 64, Damages: Tort, §64.20 et seq.\n(Matthew Bender)\nCalifornia Civil Practice: Torts §5:4 (Thomson Reuters)\nCACI No. 3902 DAMAGES\n818",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1431.2",
+      "display": "Civil Code section 1431.2",
+      "raw": "Civil Code section 1431.2",
+      "span": [
+        16,
+        41
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1431.2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3333.2",
+      "display": "Civil Code section 3333.2",
+      "raw": "Civil\nCode section 3333.2",
+      "span": [
+        67,
+        92
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3333.2"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "DaFonte v. Up-Right, Inc.",
+      "year": 1992,
+      "volume": 2,
+      "reporter": "Cal.4th",
+      "page": 593,
+      "pin": "600",
+      "raw": "DaFonte v. Up-Right, Inc. (1992) 2 Cal. 4th 593, 600",
+      "span": [
+        139,
+        191
+      ],
+      "role": "sources",
+      "case_key": "2 Cal.4th 593"
+    },
+    {
+      "name": "Aetna Health Plans of California, Inc. v. Yucaipa-Calimesa Joint Uniﬁed School Dist.",
+      "year": 1999,
+      "volume": 72,
+      "reporter": "Cal.App.4th",
+      "page": 1175,
+      "pin": "1190",
+      "raw": "Aetna Health Plans of California, Inc. v. Yucaipa-Calimesa Joint Uniﬁed School Dist. (1999) 72 Cal. App.4th 1175, 1190",
+      "span": [
+        639,
+        757
+      ],
+      "role": "sources",
+      "case_key": "72 Cal.App.4th 1175"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

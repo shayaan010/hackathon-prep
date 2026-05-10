@@ -1,0 +1,49 @@
+{
+  "id": "CACI-VF-3306",
+  "edition": "2026",
+  "number": "VF-3306",
+  "title": "Secret Rebates",
+  "title_full": "Secret Rebates",
+  "title_statute": null,
+  "series": "VF-3300",
+  "series_title": "Series 3300 Unfair Practices Act",
+  "page_start": 2470,
+  "page_end": 2471,
+  "instruction_text": "VF-3306. Secret Rebates\nWe answer the questions submitted to us as follows:\n1. Did [ name of defendant ] secretly [[give/receive] [payments/rebates/\nrefunds/commissions/unearned discounts]] [or] [[give to some\nbuyers/receive] services or privileges that were not given to other\nbuyers purchasing on like terms and conditions]?\n1. Yes No\n1. If your answer to question 1 is yes, then answer question 2. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n2. Was a competitor harmed?\n2. Yes No\n2. If your answer to question 2 is yes, then answer question 3. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n3. Did the [payment/allowance] have a tendency to destroy\ncompetition?\n3. Yes No\n3. If your answer to question 3 is yes, then answer question 4. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n4. Was [ name of defendant ]'s conduct a substantial factor in causing\n[name of plaintiff ]'s harm?\n4. Yes No\n4. If your answer to question 4 is yes, then answer question 5. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n5. What are [ name of plaintiff ]'s damages? $\nSigned:\nPresiding Juror\nDated:\nAfter [this verdict form has/all verdict forms have] been signed, notify\nthe [clerk/bailiff/court attendant].\n584",
+  "directions_for_use": "This verdict form is based on CACI No. 3320, Secret Rebates–Essential Factual\nElements.\nThe special verdict forms in this section are intended only as models. They may\nneed to be modiﬁed depending on the facts of the case.\nQuestion 2 should be omitted if the plaintiff is a competitor of the defendant,\nbecause that issue is covered by question 4.\nIf there are multiple causes of action, users may wish to combine the individual\nforms into one form. If different damages are recoverable on different causes of\naction, replace the damages tables in all of the verdict forms with CACI No. VF-\n3920, Damages on Multiple Legal Theories .\nIf the jury is given the discretion under Civil Code section 3288 to award\nprejudgment interest (see Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801,\n814 [148 Cal. Rptr. 22, 582 P.2d 109]), give CACI No. 3935, Prejudgment Interest.\nThis verdict form may need to be augmented for the jury to make any factual\nﬁndings that are required in order to calculate the amount of prejudgment interest.\nUNFAIR PRACTICES ACT VF-3306\n585",
+  "sources_and_authority": [],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3288",
+      "display": "Civil Code section 3288",
+      "raw": "Civil Code section 3288",
+      "span": [
+        676,
+        699
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3288"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Bullis v. Security Pac. Nat'l Bank",
+      "year": 1978,
+      "volume": 21,
+      "reporter": "Cal.3d",
+      "page": 801,
+      "pin": "814",
+      "raw": "Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801, 814",
+      "span": [
+        735,
+        796
+      ],
+      "role": "directions",
+      "case_key": "21 Cal.3d 801"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "CACI-3934",
+  "edition": "2026",
+  "number": "3934",
+  "title": "Damages on Multiple Legal Theories",
+  "title_full": "Damages on Multiple Legal Theories",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2803,
+  "page_end": 2806,
+  "instruction_text": "3934. Damages on Multiple Legal Theories\n[Name of plaintiff ] seeks damages from [ name of defendant ] under more\nthan one legal theory. However, each item of damages may be awarded\nonly once, regardless of the number of legal theories alleged.\nY ou will be asked to decide whether [ name of defendant ] is liable to [ name\nof plaintiff ] under the following legal theories [ list]:\n1. [ e.g., breach of employment contract ];\n2. [ e.g., wrongful termination in violation of public policy ];\n3. [ continue].\nThe following items of damages are recoverable only once under all of\nthe above legal theories:\n1. [ e.g., lost past income ];\n2. [ e.g., medical expenses ];\n3. [ continue].\n[The following additional items of damages are recoverable only once for\n[specify legal theories ]:\n1. [ e.g., emotional distress ];\n2. [ continue].\n[Continue until all items of damages recoverable under any legal theory have\nbeen listed. ]]",
+  "directions_for_use": "This instruction is to guide the jury in awarding damages in a case involving\nmultiple claims, causes of action, or counts in which different damages are\nrecoverable under different legal theories. It should be used with CACI No. VF-\n3920, Damages on Multiple Legal Theories .\nThis instruction and verdict form are designed to help avoid juror confusion in\nﬁlling out the damages table or tables when multiple causes of action, counts, or\nlegal theories are to be decided and the potential damages are different on some or\nall of them. (See, e.g., Roby v. McKesson Corp . (2009) 47 Cal. 4th 686, 701–705\n[101 Cal. Rptr.3d 773, 219 P.3d 749].) It is not necessary to give this instruction if\nthe same damages are recoverable on all causes of action, counts, or legal theories,\nalthough giving only the opening paragraph might be appropriate.\nFirst list all of the causes of action, counts, or legal theories that the jury must\n917\naddress. Then list the items of damages recoverable under all of the theories. Then\nlist the additional damages that may be awarded on each of the other causes of\naction. Each item of damages should be listed somewhere, but only once.\nIf there are multiple plaintiffs with different claims for different damages, repeat the\nentire instruction for each plaintiff except for the opening paragraph.\nOften it will be necessary to identify items of damages with considerable speciﬁcity.\nFor example, instead of just \"emotional distress,\" it may be necessary to specify\n\"emotional distress from harassment before termination of employment\" and\n\"additional emotional distress because of termination of employment.\" (See, e.g.,\nRoby, supra, 47 Cal. 4th at pp. 701–705.)",
+  "sources_and_authority": [
+    {
+      "raw": "\"Regardless of the nature or number of legal theories advanced by the plaintiff,\nhe is not entitled to more than a single recovery for each distinct item of\ncompensable damage supported by the evidence. [Citation.] Double or\nduplicative recovery for the same items of damage amounts to overcompensation\nand is therefore prohibited. [Citation.] [¶] . . . [¶] In contrast, where separate\nitems of compensable damage are shown by distinct and independent evidence,\nthe plaintiff is entitled to recover the entire amount of his damages, whether that\namount is expressed by the jury in a single verdict or multiple verdicts referring\nto different claims or legal theories.\" ( Roby, supra, 47 Cal. 4th at p. 702.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"As for the Court of Appeal's statement that under the instructions plaintiff was\nentitled to recover the same amount of damages under any of plaintiff's various\ntheories, we have reviewed the instructions and none of them would preclude a\nﬁnding of differing amounts of damage for each theory of recovery. Indeed, as a\nmatter of logic, it would seem unlikely that plaintiff's damages from being\ndefamed by defendants would be identical to the damages he incurred from\nbeing ousted from [the] board of directors. . . . [T]hese theories of recovery\nseem based on different 'primary' rights and duties of the parties.\" ( Tavaglione v.\nBillings (1993) 4 Cal. 4th 1150, 1158 [17 Cal. Rptr.2d 608, 847 P.2d 574.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Tavaglione v. Billings",
+          "year": 1993,
+          "volume": 4,
+          "reporter": "Cal.4th",
+          "page": 1150,
+          "pin": "1158",
+          "raw": "Tavaglione v. Billings (1993) 4 Cal. 4th 1150, 1158",
+          "span": [
+            619,
+            670
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The trial court instructed the jury . . . that [plaintiff] could not be awarded\nduplicative damages on different counts, thus suggesting that it was the jury's\nresponsibility to avoid awarding duplicative damages. But neither the instructions\nnor the special verdict form told the jury how to avoid awarding duplicative\ndamages. With a single general verdict or a general verdict with special ﬁndings,\nwhere the verdict includes a total damages award, the jury presumably will\nfollow the instruction (such as the one given here) and ensure that the total\ndamages award includes no duplicative amounts. A special verdict on multiple\ncounts, however, is different. If the jury ﬁnds the amount of damages separately\nfor each count and does not calculate the total damages award, as here, the jury\nhas no opportunity to eliminate any duplicative amounts in calculating the total\naward. Absent any instruction speciﬁcally informing the jury how to properly\navoid awarding duplicative damages, it might have attempted to do so by ﬁnding\nno liability or no damages on certain counts, resulting in an inconsistent\nCACI No. 3934 DAMAGES\n918\nverdict.\" ( Singh v. Southland Stone, U.S.A., Inc. (2010) 186 Cal. App.4th 338,\n360 [112 Cal. Rptr.3d 455].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A special verdict must present the jury's conclusions of facts, 'and those\nconclusions of fact must be so presented as that nothing shall remain to the\nCourt but to draw from them conclusions of law.' In our view, a special verdict\non multiple counts should include factual ﬁndings identifying any duplicative\namounts, or a ﬁnding as to the total amount of damages eliminating any\nduplicative amounts, so as to allow the trial court to avoid awarding duplicative\ndamages in the judgment.\" ( Singh, supra, 186 Cal. App.4th at p. 360, internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'In California the phrase \"cause of action\" is often used indiscriminately . . .\nto mean counts which state [according to different legal theories] the same cause\nof action . . . .' But for purposes of applying the doctrine of res judicata, the\nphrase 'cause of action' has a more precise meaning: The cause of action is the\nright to obtain redress for a harm suffered, regardless of the speciﬁc remedy\nsought or the legal theory (common law or statutory) advanced. . . . '[T]he\n\"cause of action\" is based upon the harm suffered, as opposed to the particular\ntheory asserted by the litigant. [Citation.] Even where there are multiple legal\ntheories upon which recovery might be predicated, one injury gives rise to only\none claim for relief. 'Hence a judgment for the defendant is a bar to a\nsubsequent action by the plaintiff based on the same injury to the same right,\neven though he presents a different legal ground for relief.\" [Citations.]' Thus,\nunder the primary rights theory, the determinative factor is the harm suffered.\nWhen two actions involving the same parties seek compensation for the same\nharm, they generally involve the same primary right.\" ( Boeken v. Philip Morris\nUSA, Inc. (2010) 48 Cal. 4th 788, 798 [108 Cal. Rptr.3d 806, 230 P.3d 342],\noriginal italics, internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Boeken v. Philip Morris USA, Inc.",
+          "year": 2010,
+          "volume": 48,
+          "reporter": "Cal.4th",
+          "page": 788,
+          "pin": "798",
+          "raw": "Boeken v. Philip Morris USA, Inc. (2010) 48 Cal. 4th 788, 798",
+          "span": [
+            1166,
+            1227
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Here the jury was properly instructed that it could not award damages under\nboth contract and tort theories, but must select which theory, if either, was\nsubstantiated by the evidence, and that punitive damages could be assessed if\ndefendant committed a tort with malice or intent to oppress plaintiffs, but that\nsuch damages could not be allowed in an action based on breach of contract,\neven though the breach was wilful.\" ( Acadia, California, Ltd. v. Herbert (1960)\n54 Cal. 2d 328, 336–337 [5 Cal. Rptr. 686, 353 P.2d 294].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "California, Ltd. v. Herbert",
+          "year": 1960,
+          "volume": 54,
+          "reporter": "Cal.2d",
+          "page": 328,
+          "pin": "336–337",
+          "raw": "California, Ltd. v. Herbert (1960) 54 Cal. 2d 328, 336–337",
+          "span": [
+            436,
+            494
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Ordinarily, a plaintiff asserting both a contract and tort theory arising from the\nsame factual setting cannot recover damages under both theories, and the jury\nshould be so instructed. Here, the court did not speciﬁcally instruct that damages\ncould be awarded on only one theory, but did direct that punitive damages could\nbe awarded only if the jury ﬁrst determined that appellant had proved his tort\naction.\" ( Pugh v. See' s Candies, Inc. (1988) 203 Cal. App.3d 743, 760, fn. 13\n[250 Cal. Rptr. 195], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The trial court would have been better advised to make an explicit instruction\nthat duplicate damages could not be awarded. Indeed, it had a duty to do so.\"\n(Dubarry International, Inc. v. Southwest Forest Industries, Inc. (1991) 231\nDAMAGES CACI No. 3934\n919\nCal. App.3d 552, 565, fn. 16 [282 Cal. Rptr. 181], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1717\n2 Levy et al., California Torts, Ch. 17, Nuisance and Trespass , §17.23 (Matthew\nBender)\n15 California Forms of Pleading and Practice, Ch. 177, Damages, §177.50\n(Matthew Bender)\n6 California Points and Authorities, Ch. 64, Damages: Tort, §64.150 (Matthew\nBender)\nCACI No. 3934 DAMAGES\n920",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Tavaglione v. Billings",
+      "year": 1993,
+      "volume": 4,
+      "reporter": "Cal.4th",
+      "page": 1150,
+      "pin": "1158",
+      "raw": "Tavaglione v. Billings (1993) 4 Cal. 4th 1150, 1158",
+      "span": [
+        619,
+        670
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.4th 1150"
+    },
+    {
+      "name": "Boeken v. Philip Morris USA, Inc.",
+      "year": 2010,
+      "volume": 48,
+      "reporter": "Cal.4th",
+      "page": 788,
+      "pin": "798",
+      "raw": "Boeken v. Philip Morris USA, Inc. (2010) 48 Cal. 4th 788, 798",
+      "span": [
+        1166,
+        1227
+      ],
+      "role": "sources",
+      "case_key": "48 Cal.4th 788"
+    },
+    {
+      "name": "California, Ltd. v. Herbert",
+      "year": 1960,
+      "volume": 54,
+      "reporter": "Cal.2d",
+      "page": 328,
+      "pin": "336–337",
+      "raw": "California, Ltd. v. Herbert (1960) 54 Cal. 2d 328, 336–337",
+      "span": [
+        436,
+        494
+      ],
+      "role": "sources",
+      "case_key": "54 Cal.2d 328"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

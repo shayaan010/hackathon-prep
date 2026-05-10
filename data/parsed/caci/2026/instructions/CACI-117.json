@@ -1,0 +1,124 @@
+{
+  "id": "CACI-117",
+  "edition": "2026",
+  "number": "117",
+  "title": "Wealth of Parties",
+  "title_full": "Wealth of Parties",
+  "title_statute": null,
+  "series": "100",
+  "series_title": "Series 100 Pretrial",
+  "page_start": 112,
+  "page_end": 113,
+  "instruction_text": "117. Wealth of Parties\nIn reaching a verdict, you may not consider the wealth or poverty of any\nparty. The parties' wealth or poverty is not relevant to any of the issues\nthat you must decide.",
+  "directions_for_use": "This instruction may be given unless liability and punitive damages are to be\ndecided in a nonbifurcated trial. The defendant's wealth is relevant to punitive\ndamages. ( Adams v. Murakami (1991) 54 Cal. 3d 105, 108 [284 Cal. Rptr. 318, 813\nP.2d 1348].) Otherwise, the wealth or lack of it is not relevant. ( Hoffman v. Brandt\n(1966) 65 Cal. 2d 549, 552–553 [55 Cal. Rptr. 417, 421 P.2d 425].) If this instruction\nis given in a nonbifurcated trial, it should be modiﬁed to clarify that the prohibition\non considering wealth applies only to liability and compensatory damages, and not\nto punitive damages. For discussion of the role of a defendant's ﬁnancial condition\nwith regard to punitive damages, see the punitive damages instructions in the\nDamages series, CACI Nos. 3940–3949.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Justice is to be accorded to rich and poor alike, and a deliberate attempt by\ncounsel to appeal to social or economic prejudices of the jury, including the\nwealth or poverty of the litigants, is misconduct where the asserted wealth or\npoverty is not relevant to the issues of the case. The possibility, even if true, that\na judgment for plaintiffs would mean that defendant would have to go to the\nLaguna Honda Home, had no relevance to the issues of the case, and the\nargument of defense counsel was clearly a transparent attempt to appeal to the\nsympathies of the jury on the basis of the claimed lack of wealth of the\ndefendant. As such, it was clearly misconduct.\" ( Hoffman, supra, 65 Cal. 2d at\npp. 552–553, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]here liability and punitive damages are tried in a single proceeding,\nevidence of wealth is admissible. '[W]hile in the ordinary action for damages\ninformation regarding the adversary's ﬁnancial status is inadmissible, this is not\nso in an action for punitive damages. In such a case evidence of defendant's\nﬁnancial condition is admissible at the trial for the purpose of determining the\namount that it is proper to award [citations]. The relevancy of such evidence lies\nin the fact that punitive damages are not awarded for the purpose of rewarding\nthe plaintiff but to punish the defendant. Obviously, the trier of fact cannot\nmeasure the 'punishment' without knowledge of defendant's ability to respond to\na given award.' \" ( Las Palmas Associates v. Las Palmas Center Associates\n(1991) 235 Cal. App.3d 1220, 1243 [1 Cal. Rptr.2d 301], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Las Palmas Associates v. Las Palmas Center Associates",
+          "year": 1991,
+          "volume": 235,
+          "reporter": "Cal.App.3d",
+          "page": 1220,
+          "pin": "1243",
+          "raw": "Las Palmas Associates v. Las Palmas Center Associates (1991) 235 Cal. App.3d 1220, 1243",
+          "span": [
+            734,
+            821
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In an action for damages, a showing of poverty of the plaintiff is highly\n38\nprejudicial; if such evidence is deliberately introduced, it may constitute\nreversible error.\" ( Hart v. Wielt (1970) 4 Cal. App.3d 224, 234 [84 Cal. Rptr.\n220].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hart v. Wielt",
+          "year": 1970,
+          "volume": 4,
+          "reporter": "Cal.App.3d",
+          "page": 224,
+          "pin": "234",
+          "raw": "Hart v. Wielt (1970) 4 Cal. App.3d 224, 234",
+          "span": [
+            175,
+            218
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "7 Witkin, California Procedure (6th ed. 2021) Trial, §§312, 313, 216\n4 Levy et al., California Torts, Ch. 54, Punitive Damages , §54.24 (Matthew\nBender)\n15 California Forms of Pleading and Practice, Ch. 177, Damages, §177.51[16]\n(Matthew Bender)\n6 California Points and Authorities, Ch. 64, Damages: Tort, §64.141 et seq.\n(Matthew Bender)\nPRETRIAL INSTRUCTIONS CACI No. 117\n39",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Las Palmas Associates v. Las Palmas Center Associates",
+      "year": 1991,
+      "volume": 235,
+      "reporter": "Cal.App.3d",
+      "page": 1220,
+      "pin": "1243",
+      "raw": "Las Palmas Associates v. Las Palmas Center Associates (1991) 235 Cal. App.3d 1220, 1243",
+      "span": [
+        734,
+        821
+      ],
+      "role": "sources",
+      "case_key": "235 Cal.App.3d 1220"
+    },
+    {
+      "name": "Hart v. Wielt",
+      "year": 1970,
+      "volume": 4,
+      "reporter": "Cal.App.3d",
+      "page": 224,
+      "pin": "234",
+      "raw": "Hart v. Wielt (1970) 4 Cal. App.3d 224, 234",
+      "span": [
+        175,
+        218
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.App.3d 224"
+    },
+    {
+      "name": "Adams v. Murakami",
+      "year": 1991,
+      "volume": 54,
+      "reporter": "Cal.3d",
+      "page": 105,
+      "pin": "108",
+      "raw": "Adams v. Murakami (1991) 54 Cal. 3d 105, 108",
+      "span": [
+        170,
+        214
+      ],
+      "role": "directions",
+      "case_key": "54 Cal.3d 105"
+    },
+    {
+      "name": "Hoffman v. Brandt",
+      "year": 1966,
+      "volume": 65,
+      "reporter": "Cal.2d",
+      "page": 549,
+      "pin": "552–553",
+      "raw": "Hoffman v. Brandt (1966) 65 Cal. 2d 549, 552–553",
+      "span": [
+        308,
+        356
+      ],
+      "role": "directions",
+      "case_key": "65 Cal.2d 549"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

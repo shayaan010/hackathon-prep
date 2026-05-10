@@ -1,0 +1,85 @@
+{
+  "id": "CACI-4106B",
+  "edition": "2026",
+  "number": "4106B",
+  "title": "Negligent Breach of Fiduciary Duty by Attorney—Essential Factual Elements",
+  "title_full": "Negligent Breach of Fiduciary Duty by Attorney—Essential Factual Elements",
+  "title_statute": null,
+  "series": "4100",
+  "series_title": "Series 4100 Breach of Fiduciary Duty",
+  "page_start": 2960,
+  "page_end": 2961,
+  "instruction_text": "4106B. Negligent Breach of Fiduciary Duty by Attorney–Essential\nFactual Elements\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun/it] was harmed\nbecause [ name of defendant ] negligently breached an attorney's duty\n[describe duty, e.g., \"not to represent clients with conﬂicting interests\" ]. To\nestablish this claim, [ name of plaintiff ] must prove all of the following:\n1. That [ name of defendant ] negligently breached the duty of an\nattorney [ describe duty ];\n2. That [ name of plaintiff ] was harmed; and\n3. That [ name of plaintiff ] would not have suffered the harm if [ name\nof defendant ] had acted as a reasonably careful attorney.",
+  "directions_for_use": "Give CACI No. 601, Legal Malpractice–Causation , with this instruction. (See\nViner v. Sweet (2003) 30 Cal. 4th 1232, 1242 [135 Cal. Rptr.2d 629, 70 P.3d 1046]\n[\"In both litigation and transactional malpractice cases, the crucial causation inquiry\nis what would have happened if the defendant attorney had not been negligent.\"].)\nIf the plaintiff alleges both intentional or fraudulent breach and negligent breach of\nﬁduciary duty by an attorney, give both this instruction and CACI No. 4106A,\nIntentional Breach of Fiduciary Duty by Attorney–Essential Factual Elements .\nDifferent causation standards apply to these claims. (See Viner , supra,30 Cal. 4th at\np. 1242 [\"In both litigation and transactional malpractice cases, the crucial causation\ninquiry is what would have happened if the defendant attorney had not been\nnegligent.\"].) The jury must be instructed on both causation standards and it should\nbe made clear which causation standard applies to which claim.",
+  "sources_and_authority": [
+    {
+      "raw": "\" 'The relation between attorney and client is a ﬁduciary relation of the very\nhighest character.' \" ( Neel v. Magana, Olney, Levy, Cathcart & Gelfand (1971) 6\nCal. 3d 176, 189 [98 Cal. Rptr. 837, 491 P.2d 421].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'The breach of ﬁduciary duty can be based upon either negligence or fraud\ndepending on the circumstances. It has been referred to as a species of tort\ndistinct from causes of action for professional negligence [citation] and from\nfraud [citation].' 'The elements of a cause of action for breach of ﬁduciary duty\nare the existence of a ﬁduciary relationship, breach of ﬁduciary duty, and\ndamages.' \" ( Knutson v. Foster (2018), 25 Cal. App.5th 1075, 1093–1094 [23\nCal. Rptr.3d 473], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Expert testimony is not required, but is admissible to establish the duty and\n1074\nbreach elements of a cause of action for breach of ﬁduciary duty where the\nattorney conduct is a matter beyond common knowledge.\" ( Stanley v. Richmond\n(1995) 35 Cal. App.4th 1070, 1087 [41 Cal. Rptr.2d 768], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Stanley v. Richmond",
+          "year": 1995,
+          "volume": 35,
+          "reporter": "Cal.App.4th",
+          "page": 1070,
+          "pin": "1087",
+          "raw": "Stanley v. Richmond (1995) 35 Cal. App.4th 1070, 1087",
+          "span": [
+            216,
+            269
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The scope of an attorney's ﬁduciary duty may be determined as a matter of law\nbased on the Rules of Professional Conduct which, 'together with statutes and\ngeneral principles relating to other ﬁduciary relationships, all help deﬁne the\nduty component of the ﬁduciary duty which an attorney owes to his [or her]\nclient.' \" ( Stanley, supra, 35 Cal. App.4th at p. 1087.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, California Procedure (5th ed. 2008) Attorneys, §87 et al.\nV apnek et al., California Practice Guide: Professional Responsibility ¶ 6:425 (The\nRutter Group)\n3 Levy et al., California Torts, Ch. 32, Liability of Attorneys , §32.02[4] (Matthew\nBender)\n7 California Forms of Pleading and Practice, Ch. 76, Attorney Professional Liability ,\n§76.150 (Matthew Bender)\n2A California Points and Authorities, Ch. 24A, Attorneys at Law: Malpractice , §§24A.43, 24A.56B (Matthew Bender)\nBREACH OF FIDUCIARY DUTY CACI No. 4106B\n1075",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Stanley v. Richmond",
+      "year": 1995,
+      "volume": 35,
+      "reporter": "Cal.App.4th",
+      "page": 1070,
+      "pin": "1087",
+      "raw": "Stanley v. Richmond (1995) 35 Cal. App.4th 1070, 1087",
+      "span": [
+        216,
+        269
+      ],
+      "role": "sources",
+      "case_key": "35 Cal.App.4th 1070"
+    },
+    {
+      "name": "See Viner v. Sweet",
+      "year": 2003,
+      "volume": 30,
+      "reporter": "Cal.4th",
+      "page": 1232,
+      "pin": "1242",
+      "raw": "See Viner v. Sweet (2003) 30 Cal. 4th 1232, 1242",
+      "span": [
+        73,
+        121
+      ],
+      "role": "directions",
+      "case_key": "30 Cal.4th 1232"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:24+00:00"
+}

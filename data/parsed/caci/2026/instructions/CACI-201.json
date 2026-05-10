@@ -1,0 +1,172 @@
+{
+  "id": "CACI-201",
+  "edition": "2026",
+  "number": "201",
+  "title": "Highly Probable—Clear and Convincing Proof",
+  "title_full": "Highly Probable—Clear and Convincing Proof",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 118,
+  "page_end": 119,
+  "instruction_text": "201. Highly Probable–Clear and Convincing Proof\nCertain facts must be proved by clear and convincing evidence, which is\na higher burden of proof. This means the party must persuade you that\nit is highly probable that the fact is true. I will tell you speciﬁcally which\nfacts must be proved by clear and convincing evidence.",
+  "directions_for_use": "Evidence Code section 502 requires the court to instruct the jury regarding which\nparty bears the burden of proof on each issue and the requisite degree of proof.\nThis instruction should be read immediately after CACI No. 200, Obligation to\nProve–More Likely True Than Not True , if the jury will have to decide an issue by\nmeans of the clear-and-convincing evidence standard.",
+  "sources_and_authority": [
+    {
+      "raw": "Burden of Proof. Evidence Code section 115.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "115",
+          "display": "Evidence Code section 115",
+          "raw": "Evidence Code section 115",
+          "span": [
+            17,
+            42
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Party With Burden of Proof. Evidence Code section 500.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "500",
+          "display": "Evidence Code section 500",
+          "raw": "Evidence Code section 500",
+          "span": [
+            28,
+            53
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Proof by clear and convincing evidence is required 'where particularly\nimportant individual interests or rights are at stake,' such as the termination of\nparental rights, involuntary commitment, and deportation. However, 'imposition\nof even severe civil sanctions that do not implicate such interests has been\npermitted after proof by a preponderance of the evidence.' \" ( Weiner v.\nFleischman (1991) 54 Cal. 3d 476, 487 [286 Cal. Rptr. 40, 816 P.2d 892] (quoting\nHerman & MacLean v. Huddleston (1983) 459 U.S. 375, 389–390).)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Weiner v. Fleischman",
+          "year": 1991,
+          "volume": 54,
+          "reporter": "Cal.3d",
+          "page": 476,
+          "pin": "487",
+          "raw": "Weiner v. Fleischman (1991) 54 Cal. 3d 476, 487",
+          "span": [
+            374,
+            421
+          ]
+        },
+        {
+          "name": "MacLean v. Huddleston",
+          "year": 1983,
+          "volume": 459,
+          "reporter": "U.S.",
+          "page": 375,
+          "pin": "389–390",
+          "raw": "MacLean v. Huddleston (1983) 459 U.S. 375, 389–390",
+          "span": [
+            474,
+            524
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'Clear and convincing' evidence requires a ﬁnding of high probability.\" ( In re\nAngelia P . (1981) 28 Cal. 3d 908, 919 [171 Cal. Rptr. 637, 623 P.2d 198].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Under the clear and convincing standard, the evidence must be ' \" ' \"so clear as\nto leave no substantial doubt\" ' \" ' and ' \" ' \"sufficiently strong to command the\nunhesitating assent of every reasonable mind.\" ' \" ' \" ( Butte Fire Cases (2018)\n24 Cal. App.5th 1150, 1158 [235 Cal. Rptr.3d 228].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"We decline to hold that CACI No. 201 should be augmented to require that 'the\nevidence must be \"so clear as to leave no substantial doubt\" and \"sufficiently\nstrong as to command the unhesitating assent of every reasonable mind.\" '\nNeither In re Angelia P ., supra , 28 Cal. 3d 908, nor any more recent authority\nmandates that augmentation, and the proposed additional language is dangerously\nsimilar to that describing the burden of proof in criminal cases.\" ( Nevarrez v.\nSan Marino Skilled Nursing & Wellness Center (2013) 221 Cal. App.4th 102, 114\n[163 Cal. Rptr.3d 874].)\n44",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, California Evidence (5th ed. 2012) Burden of Proof and Presumptions,\n§§39, 40\nJefferson, California Evidence Benchbook (3d ed. 1997) §§45.4, 45.21\n4 California Trial Guide, Unit 91, Jury Deliberations and Rendition of V erdict ,\n§91.20 (Matthew Bender)\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §§551.90, 551.92\n(Matthew Bender)\n1 Cathcart et al., Matthew Bender Practice Guide: California Debt Collection and\nEnforcement of Judgments, Ch. 9, Burdens of Proof and Persuasion , 9.16\nEVIDENCE CACI No. 201\n45",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "115",
+      "display": "Evidence Code section 115",
+      "raw": "Evidence Code section 115",
+      "span": [
+        17,
+        42
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/115"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "500",
+      "display": "Evidence Code section 500",
+      "raw": "Evidence Code section 500",
+      "span": [
+        28,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/500"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "502",
+      "display": "Evidence Code section 502",
+      "raw": "Evidence Code section 502",
+      "span": [
+        0,
+        25
+      ],
+      "role": "directions",
+      "statute_key": "CA/EVID/502"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Weiner v. Fleischman",
+      "year": 1991,
+      "volume": 54,
+      "reporter": "Cal.3d",
+      "page": 476,
+      "pin": "487",
+      "raw": "Weiner v. Fleischman (1991) 54 Cal. 3d 476, 487",
+      "span": [
+        374,
+        421
+      ],
+      "role": "sources",
+      "case_key": "54 Cal.3d 476"
+    },
+    {
+      "name": "MacLean v. Huddleston",
+      "year": 1983,
+      "volume": 459,
+      "reporter": "U.S.",
+      "page": 375,
+      "pin": "389–390",
+      "raw": "MacLean v. Huddleston (1983) 459 U.S. 375, 389–390",
+      "span": [
+        474,
+        524
+      ],
+      "role": "sources",
+      "case_key": "459 U.S. 375"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

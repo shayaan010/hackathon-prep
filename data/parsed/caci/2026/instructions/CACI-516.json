@@ -1,0 +1,123 @@
+{
+  "id": "CACI-516",
+  "edition": "2026",
+  "number": "516",
+  "title": "Duty of Hospital to Screen Medical Staff",
+  "title_full": "Duty of Hospital to Screen Medical Staff",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 541,
+  "page_end": 541,
+  "instruction_text": "516. Duty of Hospital to Screen Medical Staff\nA hospital is negligent if it does not use reasonable care to select and\nperiodically evaluate its medical staff so that its patients are provided\nadequate medical care.",
+  "directions_for_use": "Always read CACI No. 514, Duty of Hospital , in conjunction with this instruction.",
+  "sources_and_authority": [
+    {
+      "raw": "\"[W]e hold a hospital is accountable for negligently screening the competency of\nits medical staff to insure the adequacy of medical care rendered to patients at its\nfacility.\" (Elam v. College Park Hospital (1982) 132 Cal. App.3d 332, 346 [183\nCal. Rptr. 156].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Elam v. College Park Hospital",
+          "year": 1982,
+          "volume": 132,
+          "reporter": "Cal.App.3d",
+          "page": 332,
+          "pin": "346",
+          "raw": "Elam v. College Park Hospital (1982) 132 Cal. App.3d 332, 346",
+          "span": [
+            178,
+            239
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A] hospital generally owes a duty to screen the competency of its medical staff\nand to evaluate the quality of medical treatment rendered on its premises. Thus,\na hospital could be found liable for injury to a patient caused by the hospital's\nnegligent failure 'to insure the competence of its medical staff through careful\nselection and review,' thereby creating an unreasonable risk of harm to the\npatient.\" (Walker v. Sonora Regional Medical Center (2012) 202 Cal. App.4th\n948, 959–960 [135 Cal. Rptr.3d 876], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Walker v. Sonora Regional Medical Center",
+          "year": 2012,
+          "volume": 202,
+          "reporter": "Cal.App.4th",
+          "page": 948,
+          "pin": "959–960",
+          "raw": "Walker v. Sonora Regional Medical Center (2012) 202 Cal. App.4th 948, 959–960",
+          "span": [
+            413,
+            490
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The hospital has 'a direct and independent responsibility to its patients of\ninsuring the competency of its medical staff and the quality of medical care\nprovided . . . .' [Citation.] Hospitals must be able to establish high standards of\nprofessional work and to maintain those standards through careful selection and\nreview of staff. And they are required to do so by both state and federal law.\n[Citations.]\" ( Rhee v. El Camino Hospital Dist. (1988) 201 Cal. App.3d 477, 489\n[247 Cal. Rptr. 244].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Rhee v. El Camino Hospital Dist.",
+          "year": 1988,
+          "volume": 201,
+          "reporter": "Cal.App.3d",
+          "page": 477,
+          "pin": "489",
+          "raw": "Rhee v. El Camino Hospital Dist. (1988) 201 Cal. App.3d 477, 489",
+          "span": [
+            414,
+            478
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1120–1123\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §§9.55–9.62\n3 Levy et al., California Torts, Ch. 31, Liability of Physicians and Other Medical\nPractitioners, §31.81 (Matthew Bender)\n25 California Forms of Pleading and Practice, Ch. 295, Hospitals, §295.13\n(Matthew Bender)\n467",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Elam v. College Park Hospital",
+      "year": 1982,
+      "volume": 132,
+      "reporter": "Cal.App.3d",
+      "page": 332,
+      "pin": "346",
+      "raw": "Elam v. College Park Hospital (1982) 132 Cal. App.3d 332, 346",
+      "span": [
+        178,
+        239
+      ],
+      "role": "sources",
+      "case_key": "132 Cal.App.3d 332"
+    },
+    {
+      "name": "Walker v. Sonora Regional Medical Center",
+      "year": 2012,
+      "volume": 202,
+      "reporter": "Cal.App.4th",
+      "page": 948,
+      "pin": "959–960",
+      "raw": "Walker v. Sonora Regional Medical Center (2012) 202 Cal. App.4th 948, 959–960",
+      "span": [
+        413,
+        490
+      ],
+      "role": "sources",
+      "case_key": "202 Cal.App.4th 948"
+    },
+    {
+      "name": "Rhee v. El Camino Hospital Dist.",
+      "year": 1988,
+      "volume": 201,
+      "reporter": "Cal.App.3d",
+      "page": 477,
+      "pin": "489",
+      "raw": "Rhee v. El Camino Hospital Dist. (1988) 201 Cal. App.3d 477, 489",
+      "span": [
+        414,
+        478
+      ],
+      "role": "sources",
+      "case_key": "201 Cal.App.3d 477"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

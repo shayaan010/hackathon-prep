@@ -41,25 +41,20 @@ export type UploadResponse = {
   chunks: number;
 };
 
-export type Comparable = {
-  id: string;
-  case_name: string;
-  citation: string;
-  jurisdiction: string;
-  jurisdictionLabel: string;
-  year: number | null;
-  kind: "verdict" | "settlement";
-  plaintiff: string | null;
-  defendant: string | null;
-  factors: string[];
-  injuries: string[];
-  fact_pattern: string;
-  award_total_usd: number;
-  economic_usd: number;
-  non_economic_usd: number;
-  punitive_usd: number;
-  source_url: string;
-  source_quote: string;
+export type StatutesQuery = {
+  q?: string;
+  // CSV of 2-letter codes, e.g. "CA,NY,TX". Backend caps results at 50.
+  jurisdiction?: string;
+  // CSV of contributing-factor strings (must match FACTOR_CATEGORIES). Any-of.
+  factors?: string;
+  limit?: number;
+};
+
+export type StatuteList = {
+  items: Statute[];
+  // Total number of statutes matching the query across the whole DB
+  // (i.e. the count without LIMIT). `items.length` is capped server-side at 50.
+  total: number;
 };
 
 export const api = {
@@ -67,9 +62,22 @@ export const api = {
     jsonFetch<{ documents: number; chunks: number; extractions: number }>(
       "/api/stats",
     ),
+<<<<<<< Updated upstream
   statutes: () => jsonFetch<Statute[]>("/api/statutes"),
   comparables: () => jsonFetch<Comparable[]>("/api/comparables"),
   search: (query: string, top_k = 10, jurisdictions: string[] = []) =>
+=======
+  statutes: (params: StatutesQuery = {}) => {
+    const sp = new URLSearchParams();
+    if (params.q?.trim()) sp.set("q", params.q.trim());
+    if (params.jurisdiction?.trim()) sp.set("jurisdiction", params.jurisdiction.trim());
+    if (params.factors?.trim()) sp.set("factors", params.factors.trim());
+    if (params.limit) sp.set("limit", String(params.limit));
+    const qs = sp.toString();
+    return jsonFetch<StatuteList>(`/api/statutes${qs ? `?${qs}` : ""}`);
+  },
+  search: (query: string, top_k = 10) =>
+>>>>>>> Stashed changes
     jsonFetch<SearchHit[]>("/api/search", {
       method: "POST",
       body: JSON.stringify({ query, top_k, jurisdictions }),
@@ -81,7 +89,9 @@ export const api = {
     matter_caption?: string;
     attached_files?: AttachedFile[];
   }) =>
-    jsonFetch<{ text: string }>("/api/chat", {
+    // `statutes` is the list of statute rows the model actually pulled this
+    // turn via search_statutes / get_statute (empty when no statute tool ran).
+    jsonFetch<{ text: string; statutes?: Statute[] }>("/api/chat", {
       method: "POST",
       body: JSON.stringify(params),
     }),

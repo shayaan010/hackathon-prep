@@ -1,0 +1,176 @@
+{
+  "id": "CACI-403",
+  "edition": "2026",
+  "number": "403",
+  "title": "Standard of Care for Person with a Physical Disability",
+  "title_full": "Standard of Care for Person with a Physical Disability",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 315,
+  "page_end": 315,
+  "instruction_text": "403. Standard of Care for Person with a Physical Disability\nA person with a physical disability is required to use the amount of care\nthat a reasonably careful person who has the same physical disability\nwould use in the same situation.",
+  "directions_for_use": "By \"same\" disability, this instruction is referring to the effect of the disability, not\nthe cause.",
+  "sources_and_authority": [
+    {
+      "raw": "Liability of Person of \"Unsound Mind.\" Civil Code section 41.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "41",
+          "display": "Civil Code section 41",
+          "raw": "Civil Code section 41",
+          "span": [
+            39,
+            60
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[A] person [whose faculties are impaired] is bound to use that care which a\nperson of ordinary prudence with faculties so impaired would use in the same\ncircumstances.\" ( Conjorsky v. Murray (1955) 135 Cal. App.2d 478, 482 [287 P.2d\n505].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Conjorsky v. Murray",
+          "year": 1955,
+          "volume": 135,
+          "reporter": "Cal.App.2d",
+          "page": 478,
+          "pin": "482",
+          "raw": "Conjorsky v. Murray (1955) 135 Cal. App.2d 478, 482",
+          "span": [
+            172,
+            223
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The jury was properly instructed that negligence is failure to use ordinary care\nand that ordinary care is that care which persons of ordinary prudence exercise\nin the management of their own affairs. A person with faculties impaired is held\nto the same degree of care and no higher. He is bound to use that care which a\nperson of ordinary prudence with faculties so impaired would use in the same\ncircumstances.\" ( Jones v. Bayley (1942) 49 Cal. App.2d 647, 654 [122 P.2d 293].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Jones v. Bayley",
+          "year": 1942,
+          "volume": 49,
+          "reporter": "Cal.App.2d",
+          "page": 647,
+          "pin": "654",
+          "raw": "Jones v. Bayley (1942) 49 Cal. App.2d 647, 654",
+          "span": [
+            417,
+            463
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"We conclude sudden mental illness may not be posed as a defense to harmful\nconduct and that the harm caused by such individual's behavior shall be judged\non the objective reasonable person standard in the context of a negligence action\nas expressed in Civil Code section 41.\" ( Bashi v. Wodarz (1996) 45 Cal. App.4th\n1314, 1323 [53 Cal. Rptr.2d 635].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "41",
+          "display": "Civil Code section 41",
+          "raw": "Civil Code section 41",
+          "span": [
+            253,
+            274
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Bashi v. Wodarz",
+          "year": 1996,
+          "volume": 45,
+          "reporter": "Cal.App.4th",
+          "page": 1314,
+          "pin": "1323",
+          "raw": "Bashi v. Wodarz (1996) 45 Cal. App.4th 1314, 1323",
+          "span": [
+            279,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Restatement Second of Torts, section 283B, provides: \"Unless the actor is a\nchild, his insanity or other mental deﬁciency does not relieve the actor from\nliability for conduct which does not conform to the standard of a reasonable man\nunder like circumstances.\"",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Restatement Second of Torts, section 283C, provides: \"If the actor is ill or\notherwise physically disabled, the standard of conduct to which he must conform\nto avoid being negligent is that of a reasonable man under like disability.\"",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "California Tort Guide (Cont.Ed.Bar 3d ed.) §1.21.2\n33 California Forms of Pleading and Practice, Ch. 380, Negligence (Matthew\nBender)\n241",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "41",
+      "display": "Civil Code section 41",
+      "raw": "Civil Code section 41",
+      "span": [
+        39,
+        60
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/41"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Conjorsky v. Murray",
+      "year": 1955,
+      "volume": 135,
+      "reporter": "Cal.App.2d",
+      "page": 478,
+      "pin": "482",
+      "raw": "Conjorsky v. Murray (1955) 135 Cal. App.2d 478, 482",
+      "span": [
+        172,
+        223
+      ],
+      "role": "sources",
+      "case_key": "135 Cal.App.2d 478"
+    },
+    {
+      "name": "Jones v. Bayley",
+      "year": 1942,
+      "volume": 49,
+      "reporter": "Cal.App.2d",
+      "page": 647,
+      "pin": "654",
+      "raw": "Jones v. Bayley (1942) 49 Cal. App.2d 647, 654",
+      "span": [
+        417,
+        463
+      ],
+      "role": "sources",
+      "case_key": "49 Cal.App.2d 647"
+    },
+    {
+      "name": "Bashi v. Wodarz",
+      "year": 1996,
+      "volume": 45,
+      "reporter": "Cal.App.4th",
+      "page": 1314,
+      "pin": "1323",
+      "raw": "Bashi v. Wodarz (1996) 45 Cal. App.4th 1314, 1323",
+      "span": [
+        279,
+        328
+      ],
+      "role": "sources",
+      "case_key": "45 Cal.App.4th 1314"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

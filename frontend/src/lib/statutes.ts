@@ -14,8 +14,10 @@ export type Statute = {
   lastVerified: string;
 };
 
-// The 17 contributing-factor categories used by the eval CSV gold labels and
-// by scripts/tag_statutes.py. Keep this in sync with both.
+// The 17 PI contributing-factor categories plus the explicit "Other" fallback
+// for statutes that don't directly govern any of them (definitions,
+// registration, licensing, administrative, etc.). Keep this list IN SYNC with
+// new_api/scripts/tag_statute_factors.py FACTOR_CATEGORIES.
 export const FACTOR_CATEGORIES = [
   "Improper Turning",
   "Improper Passing",
@@ -34,6 +36,7 @@ export const FACTOR_CATEGORIES = [
   "Improper Starting",
   "Reckless Driving",
   "Failure to Use/Activate Horn",
+  "Other",
 ] as const;
 
 export const STATUTES: Statute[] = [

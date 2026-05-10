@@ -1,0 +1,135 @@
+{
+  "id": "CACI-1124",
+  "edition": "2026",
+  "number": "1124",
+  "title": "Loss of Design Immunity (Cornette)",
+  "title_full": "Loss of Design Immunity (Cornette)",
+  "title_statute": null,
+  "series": "1100",
+  "series_title": "Series 1100 Dangerous Condition of Public Property",
+  "page_start": 792,
+  "page_end": 794,
+  "instruction_text": "1124. Loss of Design Immunity ( Cornette)\n[Name of defendant ] is responsible for harm to [ name of plaintiff ] caused\nby the plan or design of the [ insert type of property, e.g., \"highway\" ] if\n[name of plaintiff ] proves all of the following:\n1. That the [ insert type of property, e.g., \"highway\" ]'s plan[s] or\ndesign[s] had become dangerous because of a change in physical\nconditions;\n2. That [ name of defendant ] had notice of the dangerous condition\ncreated because of the change in physical conditions; and\n3. [That [ name of defendant ] had a reasonable time to obtain the\nfunds and carry out the necessary corrective work to conform the\nproperty to a reasonable design or plan;]\n3. [or]\n3. [That [ name of defendant ] was unable to correct the condition due\nto practical impossibility or lack of funds but did not reasonably\nattempt to provide adequate warnings of the dangerous\ncondition.]",
+  "directions_for_use": "Give this instruction if the plaintiff claims that the public entity defendant has lost\nits design immunity because of changed conditions since the design or plan was\noriginally adopted. Read either or both options for element 3 depending on the facts\nof the case.\nIf the applicability of design immunity in the ﬁrst instance is disputed, give CACI\nNo. 1123, Affırmative Defense–Design Immunity . Also in this case, the introductory\nparagraph might begin with \"Even if [ name of defendant ] proves both of these\nelements\" (from CACI No. 1123).\nUsers should include CACI No. 1102, Deﬁnition of \"Dangerous Condition,\" and\nCACI No. 1103, Notice, to deﬁne \"dangerous condition\" and \"notice\" in connection\nwith this instruction. Additionally, the meaning and legal requirements for a \"change\nof physical condition\" have been the subject of numerous decisions involving\nspeciﬁc contexts. Appropriate additional instructions to account for these decisions\nmay be necessary.",
+  "sources_and_authority": [
+    {
+      "raw": "Design Immunity. Government Code section 830.6.\n718",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "830.6",
+          "display": "Government Code section 830.6",
+          "raw": "Government Code section 830.6",
+          "span": [
+            17,
+            46
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]here a plan or design of a construction of, or improvement to, public\nproperty, although shown to have been reasonably approved in advance or\nprepared in conformity with standards previously so approved, as being safe,\nnevertheless in its actual operation under changed physical conditions produces a\ndangerous condition of public property and causes injury, the public entity does\nnot retain the statutory immunity from liability conferred on it by section 830.6.\"\n(Dammann v. Golden Gate Bridge, Highway & Transportation Dist. (2012) 212\nCal. App.4th 335, 343 [150 Cal. Rptr.3d 829], quoting Baldwin v. State (1972) 6\nCal. 3d 424, 438 [99 Cal. Rptr. 145, 491 P.2d 1121], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Baldwin v. State",
+          "year": 1972,
+          "volume": 6,
+          "reporter": "Cal.3d",
+          "page": 424,
+          "pin": "438",
+          "raw": "Baldwin v. State (1972) 6 Cal. 3d 424, 438",
+          "span": [
+            598,
+            640
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Design immunity does not necessarily continue in perpetuity. To demonstrate\nloss of design immunity a plaintiff must also establish three elements: (1) the\nplan or design has become dangerous because of a change in physical\nconditions; (2) the public entity had actual or constructive notice of the\ndangerous condition thus created; and (3) the public entity had a reasonable time\nto obtain the funds and carry out the necessary remedial work to bring the\nproperty back into conformity with a reasonable design or plan, or the public\nentity, unable to remedy the condition due to practical impossibility or lack of\nfunds, had not reasonably attempted to provide adequate warnings.\" ( Cornette v.\nDept. of Transportation (2001) 26 Cal. 4th 63, 66 [109 Cal. Rptr.2d 1, 26 P.3d\n332], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cornette v. Dept. of Transportation",
+          "year": 2001,
+          "volume": 26,
+          "reporter": "Cal.4th",
+          "page": 63,
+          "pin": "66",
+          "raw": "Cornette v. Dept. of Transportation (2001) 26 Cal. 4th 63, 66",
+          "span": [
+            685,
+            746
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The rationale for design immunity is to prevent a jury from second-guessing the\ndecision of a public entity by reviewing the identical questions of risk that had\npreviously been considered by the government officers who adopted or approved\nthe plan or design.\" ( Cornette, supra, 26 Cal. 4th at p. 69, internal citation\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Section 830.6 makes it quite clear that 'the trial or appellate court' is to\ndetermine whether 'there is any substantial evidence upon the basis of which (a)\na reasonable public employee could have adopted the plan or design or the\nstandards therefor or (b) a reasonable legislative body or other body or employee\ncould have approved the plan or design or the standards therefor.' The question\npresented by this case is whether the Legislature intended that the three issues\ninvolved in determining whether a public entity has lost its design immunity\nshould also be tried by the court. Our examination of the text of section 830.6,\nthe legislative history of that section, and our prior decisions leads us to the\nconclusion that, where triable issues of material fact are presented, as they were\nhere, a plaintiff has a right to a jury trial as to the issues involved in loss of\ndesign immunity.\" ( Cornette, supra, 26 Cal. 4th at pp. 66–67.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]echnological advances . . . do not constitute the 'changed physical\nconditions' necessary to defeat the [defendant]'s defense of design immunity\nunder Baldwin and Cornette .\" ( Dammann, supra, 22 Cal. App.4th at p. 351.)\nDANGEROUS CONDITION OF PUBLIC PROPERTY CACI No. 1124\n719",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §338 et seq.\nHaning et al., California Practice Guide: Personal Injury, Ch. 2(III)-D, Liability For\n\"Dangerous Conditions\" Of Public Property , ¶ 2:2865 et seq. (The Rutter Group)\n5 Levy et al., California Torts, Ch. 61, Particular Liabilities and Immunities of\nPublic Entities and Public Employees , §61.03[3][b] (Matthew Bender)\n40 California Forms of Pleading and Practice, Ch. 464, Public Entities and Offıcers:\nCalifornia Government Claims Act , §464.85 (Matthew Bender)\n19A California Points and Authorities, Ch. 196, Public Entities , §196.12 (Matthew\nBender)\nCACI No. 1124 DANGEROUS CONDITION OF PUBLIC PROPERTY\n720",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "830.6",
+      "display": "Government Code section 830.6",
+      "raw": "Government Code section 830.6",
+      "span": [
+        17,
+        46
+      ],
+      "role": "sources",
+      "statute_key": "CA/GOV/830.6"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Baldwin v. State",
+      "year": 1972,
+      "volume": 6,
+      "reporter": "Cal.3d",
+      "page": 424,
+      "pin": "438",
+      "raw": "Baldwin v. State (1972) 6 Cal. 3d 424, 438",
+      "span": [
+        598,
+        640
+      ],
+      "role": "sources",
+      "case_key": "6 Cal.3d 424"
+    },
+    {
+      "name": "Cornette v. Dept. of Transportation",
+      "year": 2001,
+      "volume": 26,
+      "reporter": "Cal.4th",
+      "page": 63,
+      "pin": "66",
+      "raw": "Cornette v. Dept. of Transportation (2001) 26 Cal. 4th 63, 66",
+      "span": [
+        685,
+        746
+      ],
+      "role": "sources",
+      "case_key": "26 Cal.4th 63"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:11+00:00"
+}

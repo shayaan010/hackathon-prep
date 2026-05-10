@@ -1,0 +1,94 @@
+{
+  "id": "CACI-329",
+  "edition": "2026",
+  "number": "329",
+  "title": "Reserved for Future Use",
+  "title_full": "Reserved for Future Use",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 217,
+  "page_end": 217,
+  "instruction_text": "This instruction may be adapted for use as an affirmative defense if the defendant\nasserts that the plaintiff is not entitled to recover on the contract because of the\nplaintiff's failure to perform its duties competently. (See Roscoe Moss Co. v. Jenkins\n(1942) 55 Cal. App.2d 369, 376–378 [130 P.2d 477].)\nFor discussion of issues with the options for elements 2 and 3, see the Directions\nfor Use to CACI No. 303, Breach of Contract–Essential Factual Elements .",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"[E]xpress contractual terms give rise to implied duties, violations of which may\nthemselves constitute breaches of contract. ' \"Accompanying every contract is a\ncommon-law duty to perform with care, skill, reasonable expedience, and\nfaithfulness the thing agreed to be done, and a negligent failure to observe any\nof these conditions is a tort, as well as a breach of the contract.\" The rule which\nimposes this duty is of universal application as to all persons who by contract\nundertake professional or other business engagements requiring the exercise of\ncare, skill and knowledge; the obligation is implied by law and need not be\nstated in the agreement [citation].' \" ( Holguin, supra, 229 Cal. App.4th at p.\n1324.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A contract to perform services gives rise to a duty of care which requires that\nsuch services be performed in a competent and reasonable manner.\" ( North\nAmerican Chemical Co. v. Superior Court (1997) 59 Cal. App.4th 764, 774 [69\nCal. Rptr.2d 466].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "North American Chemical Co. v. Superior Court",
+          "year": 1997,
+          "volume": 59,
+          "reporter": "Cal.App.4th",
+          "page": 764,
+          "pin": "774",
+          "raw": "North American Chemical Co. v. Superior Court (1997) 59 Cal. App.4th 764, 774",
+          "span": [
+            149,
+            226
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he statement in the written contract that it contains the entire agreement of\nthe parties cannot furnish the appellants an avenue of escape from the entirely\nreasonable obligation implied in all contracts to the effect that the work\nperformed 'shall be ﬁt and proper for its said intended use,' as stated by the trial\ncourt.\" ( Kuitems v. Covell (1951) 104 Cal. App.2d 482, 485 [231 P.2d 552].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Kuitems v. Covell",
+          "year": 1951,
+          "volume": 104,
+          "reporter": "Cal.App.2d",
+          "page": 482,
+          "pin": "485",
+          "raw": "Kuitems v. Covell (1951) 104 Cal. App.2d 482, 485",
+          "span": [
+            332,
+            381
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§822, 824\n13 California Forms of Pleading and Practice, Ch. 140, Contracts, §140.12\n(Matthew Bender)\n27 California Legal Forms, Ch. 75, Formation of Contracts and Standard\nContractual Provisions, §75.230 (Matthew Bender)\n2 Crompton et al., Matthew Bender Practice Guide: California Contract Litigation,\nCh. 21, Asserting a Particular Construction of Contract , 21.79\n329. Reserved for Future Use\nCONTRACTS CACI No. 328\n143",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "North American Chemical Co. v. Superior Court",
+      "year": 1997,
+      "volume": 59,
+      "reporter": "Cal.App.4th",
+      "page": 764,
+      "pin": "774",
+      "raw": "North American Chemical Co. v. Superior Court (1997) 59 Cal. App.4th 764, 774",
+      "span": [
+        149,
+        226
+      ],
+      "role": "sources",
+      "case_key": "59 Cal.App.4th 764"
+    },
+    {
+      "name": "Kuitems v. Covell",
+      "year": 1951,
+      "volume": 104,
+      "reporter": "Cal.App.2d",
+      "page": 482,
+      "pin": "485",
+      "raw": "Kuitems v. Covell (1951) 104 Cal. App.2d 482, 485",
+      "span": [
+        332,
+        381
+      ],
+      "role": "sources",
+      "case_key": "104 Cal.App.2d 482"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "CACI-4103",
+  "edition": "2026",
+  "number": "4103",
+  "title": "Duty of Confidentiality—Essential Factual Elements",
+  "title_full": "Duty of Confidentiality—Essential Factual Elements",
+  "title_statute": null,
+  "series": "4100",
+  "series_title": "Series 4100 Breach of Fiduciary Duty",
+  "page_start": 2952,
+  "page_end": 2953,
+  "instruction_text": "4103. Duty of Conﬁdentiality–Essential Factual Elements\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun/it] was harmed\nby [ name of defendant ]'s breach of the ﬁduciary duty of conﬁdentiality.\nTo establish this claim, [ name of plaintiff ] must prove all of the following:\n1. That [ name of defendant ] was [ name of plaintiff ]'s\n[agent/stockbroker/real estate agent/real estate broker/corporate\nofficer/partner/[insert other ﬁduciary relationship ]];\n2. That [ name of defendant ] had information relating to [ name of\nplaintiff] that [he/she/ nonbinary pronoun /it] knew or should have\nknown was conﬁdential;\n3. That [ name of defendant ] [ insert one of the following: ]\n3. [used [ name of plaintiff ]'s conﬁdential information for [his/her/\nnonbinary pronoun /its] own beneﬁt;]\n3. [communicated [ name of plaintiff ]'s conﬁdential information to\nthird parties;]\n4. That [ name of plaintiff ] did not give informed consent to [ name of\ndefendant]'s conduct;\n5. That the conﬁdential information was not a matter of general\nknowledge;\n6. That [ name of plaintiff ] was harmed; and\n7. That [ name of defendant ]'s conduct was a substantial factor in\ncausing [ name of plaintiff ]'s harm.",
+  "directions_for_use": "The instructions in this series are intended for lawsuits brought by or on behalf of\nthe principal. They also assume that the plaintiff is bringing a legal cause of action,\nnot an action in equity. (See V an de Kamp v. Bank of America (1988) 204\nCal. App.3d 819 [251 Cal. Rptr. 530].)\nFor a breach of ﬁduciary duty instruction in cases involving attorney defendants, see\nCACI No. 4106, Breach of Fiduciary Duty by Attorney–Essential Factual\nElements.\nWhile the advisory committee has not included \"employee\" as an option for\nidentifying the defendant agent in element 1, there may be cases in which certain\nemployees qualify as \"agents,\" thereby subjecting them to liability for breach of\nﬁduciary duty.\n1066\nA cause of action relating to the misuse of conﬁdential information may also be\nbrought, in certain circumstances, against non-ﬁduciaries. This instruction may be\nmodiﬁed to apply to such cases.",
+  "sources_and_authority": [
+    {
+      "raw": "Restatement Second of Agency, section 395, states: \"Unless otherwise agreed, an\nagent is subject to a duty to the principal not to use or to communicate\ninformation conﬁdentially given him by the principal or acquired by him during\nthe course of or on account of his agency or in violation of his duties as agent,\nin competition with or to the injury of the principal, on his own account or on\nbehalf of another, although such information does not relate to the transaction in\nwhich he is then employed, unless the information is a matter of general\nknowledge.\"",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'The law of conﬁdential relationships governs duties of trust that one is not\nobligated to assume. Once a person commits himself to a conﬁdential\nrelationship, the law requires him to fulﬁll the duties attendant to the\nrelationship. Conﬁdential relations protect the trust that is implicit in\nrelationships between employers and employees, between masters and servants,\nand between principals and agents, rather than the information that may pass\nbetween these parties.' \" ( Balboa Ins. Co. v. Trans Global Equities (1990) 218\nCal. App.3d 1327, 1350–1351 [267 Cal. Rptr. 787], original italics, internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Balboa Ins. Co. v. Trans Global Equities",
+          "year": 1990,
+          "volume": 218,
+          "reporter": "Cal.App.3d",
+          "page": 1327,
+          "pin": "1350–1351",
+          "raw": "Balboa Ins. Co. v. Trans Global Equities (1990) 218 Cal. App.3d 1327, 1350–1351",
+          "span": [
+            477,
+            556
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "37 California Forms of Pleading and Practice, Ch. 427, Principal and Agent ,\n§427.12[3] (Matthew Bender)\nBREACH OF FIDUCIARY DUTY CACI No. 4103\n1067",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Balboa Ins. Co. v. Trans Global Equities",
+      "year": 1990,
+      "volume": 218,
+      "reporter": "Cal.App.3d",
+      "page": 1327,
+      "pin": "1350–1351",
+      "raw": "Balboa Ins. Co. v. Trans Global Equities (1990) 218 Cal. App.3d 1327, 1350–1351",
+      "span": [
+        477,
+        556
+      ],
+      "role": "sources",
+      "case_key": "218 Cal.App.3d 1327"
+    },
+    {
+      "name": "Kamp v. Bank of America",
+      "year": 1988,
+      "volume": 204,
+      "reporter": "Cal.App.3d",
+      "page": 819,
+      "pin": null,
+      "raw": "Kamp v. Bank of America (1988) 204 Cal. App.3d 819",
+      "span": [
+        211,
+        261
+      ],
+      "role": "directions",
+      "case_key": "204 Cal.App.3d 819"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:24+00:00"
+}

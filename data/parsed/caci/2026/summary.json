@@ -1,0 +1,231 @@
+{
+  "edition": "2026",
+  "pdf_path": "data/raw/caci_pdfs/2026/caci_2026.pdf",
+  "n_instructions": 1155,
+  "instructions_with_statutes": 683,
+  "unique_statute_keys": 997,
+  "total_statute_edges": 2185,
+  "by_code_counts": {
+    "CIV": 1016,
+    "GOV": 427,
+    "LAB": 199,
+    "EVID": 113,
+    "BPC": 105,
+    "WIC": 83,
+    "COM": 65,
+    "PEN": 55,
+    "VEH": 55,
+    "INS": 23,
+    "HSC": 21,
+    "EDC": 7,
+    "CORP": 5,
+    "PCC": 4,
+    "ELEC": 3,
+    "FAM": 2,
+    "MVC": 1,
+    "UIC": 1
+  },
+  "top_statute_keys": [
+    {
+      "statute_key": "CA/CIV/3288",
+      "count": 160
+    },
+    {
+      "statute_key": "CA/GOV/12926",
+      "count": 35
+    },
+    {
+      "statute_key": "CA/GOV/12940",
+      "count": 35
+    },
+    {
+      "statute_key": "CA/CIV/3294",
+      "count": 20
+    },
+    {
+      "statute_key": "CA/GOV/12940/a",
+      "count": 20
+    },
+    {
+      "statute_key": "CA/GOV/12926/o",
+      "count": 19
+    },
+    {
+      "statute_key": "CA/GOV/12940/1",
+      "count": 14
+    },
+    {
+      "statute_key": "CA/EVID/500",
+      "count": 13
+    },
+    {
+      "statute_key": "CA/CIV/47",
+      "count": 13
+    },
+    {
+      "statute_key": "CA/CIV/52",
+      "count": 13
+    },
+    {
+      "statute_key": "CA/LAB/226.7",
+      "count": 11
+    },
+    {
+      "statute_key": "CA/CIV/51",
+      "count": 11
+    },
+    {
+      "statute_key": "CA/CIV/1794",
+      "count": 11
+    },
+    {
+      "statute_key": "CA/CIV/1946.2",
+      "count": 11
+    },
+    {
+      "statute_key": "CA/CIV/47/c",
+      "count": 10
+    },
+    {
+      "statute_key": "CA/GOV/12940/j",
+      "count": 10
+    },
+    {
+      "statute_key": "CA/WIC/15657",
+      "count": 10
+    },
+    {
+      "statute_key": "CA/CIV/47/d",
+      "count": 9
+    },
+    {
+      "statute_key": "CA/GOV/12926/j",
+      "count": 9
+    },
+    {
+      "statute_key": "CA/CIV/52/a",
+      "count": 9
+    },
+    {
+      "statute_key": "CA/CIV/3426.1",
+      "count": 9
+    },
+    {
+      "statute_key": "CA/CIV/45",
+      "count": 8
+    },
+    {
+      "statute_key": "CA/GOV/12923",
+      "count": 8
+    },
+    {
+      "statute_key": "CA/GOV/12926/i",
+      "count": 8
+    },
+    {
+      "statute_key": "CA/CIV/1793.2",
+      "count": 8
+    },
+    {
+      "statute_key": "CA/CIV/1793.2/d",
+      "count": 8
+    },
+    {
+      "statute_key": "CA/BPC/16720",
+      "count": 8
+    },
+    {
+      "statute_key": "CA/CIV/1946.2/a",
+      "count": 8
+    },
+    {
+      "statute_key": "CA/CIV/3300",
+      "count": 7
+    },
+    {
+      "statute_key": "CA/CIV/1431.2",
+      "count": 7
+    },
+    {
+      "statute_key": "CA/CIV/47/b",
+      "count": 7
+    },
+    {
+      "statute_key": "CA/CIV/48",
+      "count": 7
+    },
+    {
+      "statute_key": "CA/GOV/12926/d",
+      "count": 7
+    },
+    {
+      "statute_key": "CA/GOV/12940/4",
+      "count": 7
+    },
+    {
+      "statute_key": "CA/GOV/12940/A",
+      "count": 7
+    },
+    {
+      "statute_key": "CA/GOV/12940/5",
+      "count": 7
+    },
+    {
+      "statute_key": "CA/GOV/12923/a",
+      "count": 7
+    },
+    {
+      "statute_key": "CA/GOV/12945.2",
+      "count": 7
+    },
+    {
+      "statute_key": "CA/CIV/1794/b",
+      "count": 7
+    },
+    {
+      "statute_key": "CA/EVID/312",
+      "count": 6
+    },
+    {
+      "statute_key": "CA/CIV/1567",
+      "count": 6
+    },
+    {
+      "statute_key": "CA/CIV/1568",
+      "count": 6
+    },
+    {
+      "statute_key": "CA/PEN/830",
+      "count": 6
+    },
+    {
+      "statute_key": "CA/GOV/835",
+      "count": 6
+    },
+    {
+      "statute_key": "CA/LAB/2922",
+      "count": 6
+    },
+    {
+      "statute_key": "CA/GOV/12940/C",
+      "count": 6
+    },
+    {
+      "statute_key": "CA/GOV/12940/i",
+      "count": 6
+    },
+    {
+      "statute_key": "CA/LAB/512",
+      "count": 6
+    },
+    {
+      "statute_key": "CA/CIV/51.7",
+      "count": 6
+    },
+    {
+      "statute_key": "CA/CIV/52/b",
+      "count": 6
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

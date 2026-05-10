@@ -27,6 +27,12 @@ CREATE TABLE IF NOT EXISTS statutes (
     UNIQUE (jurisdiction_code, code_name, section_number)
 );
 
+-- Contributing-factor tags (multi-label). Populated by
+-- scripts/tag_statute_factors.py via the Anthropic API. Empty array (not
+-- NULL) for untagged rows so the API never has to coalesce nulls.
+ALTER TABLE statutes
+    ADD COLUMN IF NOT EXISTS factors TEXT[] NOT NULL DEFAULT '{}';
+
 CREATE TABLE IF NOT EXISTS documents (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
 
@@ -48,6 +54,9 @@ CREATE TABLE IF NOT EXISTS documents (
 
 CREATE INDEX IF NOT EXISTS idx_statutes_jurisdiction_section
 ON statutes (jurisdiction_code, section_number);
+
+CREATE INDEX IF NOT EXISTS idx_statutes_factors
+ON statutes USING GIN (factors);
 
 CREATE INDEX IF NOT EXISTS idx_documents_statute_id
 ON documents (statute_id);

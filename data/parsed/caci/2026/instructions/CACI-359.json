@@ -1,0 +1,106 @@
+{
+  "id": "CACI-359",
+  "edition": "2026",
+  "number": "359",
+  "title": "Present Cash Value of Future Damages",
+  "title_full": "Present Cash Value of Future Damages",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 262,
+  "page_end": 263,
+  "instruction_text": "359. Present Cash Value of Future Damages\nTo recover for future harm, [ name of plaintiff ] must prove that the harm\nis reasonably certain to occur and must prove the amount of those future\ndamages. The amount of damages for future harm must be reduced to\npresent cash value. This is necessary because money received now will,\nthrough investment, grow to a larger amount in the future. [ Name of\ndefendant] must prove the amount by which future damages should be\nreduced to present value.\nTo ﬁnd present cash value, you must determine the amount of money\nthat, if reasonably invested today, will provide [ name of plaintiff ] with the\namount of [his/her/ nonbinary pronoun/its] future damages.\n[Y ou may consider expert testimony in determining the present cash\nvalue of future damages.] [Y ou must use [the interest rate of\npercent/ [and] [ specify other stipulated information ]] agreed to by the\nparties in determining the present cash value of future damages.]",
+  "directions_for_use": "Give this instruction if future damages are sought and there is evidence from which\na reduction to present value can be made. Give the next-to-last sentence if there has\nbeen expert testimony on reduction to present value. Unless there is a stipulation,\nexpert testimony will usually be required to accurately establish present values for\nfuture losses. Give the last sentence if there has been a stipulation as to the interest\nrate to use or any other facts related to present cash value.\nIt would appear that because reduction to present value beneﬁts the defendant, the\ndefendant bears the burden of proof on the discount rate. (See Wilson v. Gilbert\n(1972) 25 Cal. App.3d 607, 613–614 [102 Cal. Rptr. 31] [no error to refuse\ninstruction on reduction to present value when defendant presented no evidence].)\nPresent-value tables may assist the jury in making its determination of present cash\nvalue. Tables, worksheets, and an instruction on how to use them are provided in\nCACI No. 3904B, Use of Present-V alue Tables.",
+  "sources_and_authority": [
+    {
+      "raw": "Future Damages. Civil Code section 3283.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3283",
+          "display": "Civil Code section 3283",
+          "raw": "Civil Code section 3283",
+          "span": [
+            16,
+            39
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"In an action for damages for such a breach, the plaintiff in that one action\nrecovers all his damages, past and prospective. A judgment for the plaintiff in\nsuch an action absolves the defendant from any duty, continuing or otherwise, to\nperform the contract. The judgment for damages is substituted for the\nwrongdoer's duty to perform the contract.\" ( Coughlin v. Blair (1953) 41 Cal. 2d\n587, 598 [262 P.2d 305], internal citations omitted.)\n188",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Coughlin v. Blair",
+          "year": 1953,
+          "volume": 41,
+          "reporter": "Cal.2d",
+          "page": 587,
+          "pin": "598",
+          "raw": "Coughlin v. Blair (1953) 41 Cal. 2d 587, 598",
+          "span": [
+            354,
+            398
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"If the breach is partial only, the injured party may recover damages for non-\nperformance only to the time of trial and may not recover damages for\nanticipated future non-performance. Furthermore, even if a breach is total, the\ninjured party may treat it as partial, unless the wrongdoer has repudiated the\ncontract. The circumstances of each case determine whether an injured party\nmay treat a breach of contract as total.\" ( Coughlin, supra , 41 Cal. 2d at pp.\n598–599, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1719\n15 California Forms of Pleading and Practice, Ch. 177, Damages, §177.46\n(Matthew Bender)\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 7, Seeking or\nOpposing Damages in Contract Actions , 7.09[3]\nCONTRACTS CACI No. 359\n189",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3283",
+      "display": "Civil Code section 3283",
+      "raw": "Civil Code section 3283",
+      "span": [
+        16,
+        39
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3283"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Coughlin v. Blair",
+      "year": 1953,
+      "volume": 41,
+      "reporter": "Cal.2d",
+      "page": 587,
+      "pin": "598",
+      "raw": "Coughlin v. Blair (1953) 41 Cal. 2d 587, 598",
+      "span": [
+        354,
+        398
+      ],
+      "role": "sources",
+      "case_key": "41 Cal.2d 587"
+    },
+    {
+      "name": "See Wilson v. Gilbert",
+      "year": 1972,
+      "volume": 25,
+      "reporter": "Cal.App.3d",
+      "page": 607,
+      "pin": "613–614",
+      "raw": "See Wilson v. Gilbert (1972) 25 Cal. App.3d 607, 613–614",
+      "span": [
+        632,
+        688
+      ],
+      "role": "directions",
+      "case_key": "25 Cal.App.3d 607"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

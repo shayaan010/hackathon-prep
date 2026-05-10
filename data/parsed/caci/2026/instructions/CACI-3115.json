@@ -1,0 +1,138 @@
+{
+  "id": "CACI-3115",
+  "edition": "2026",
+  "number": "3115",
+  "title": "“Oppression” Explained",
+  "title_full": "“Oppression” Explained",
+  "title_statute": null,
+  "series": "3100",
+  "series_title": "Series 3100 Elder Abuse and Dependent Adult Civil Protection Act",
+  "page_start": 2327,
+  "page_end": 2327,
+  "instruction_text": "3115. \"Oppression\" Explained\n\"Oppression\" means that [[ name of individual defendant ]'s/[ name of\nemployer defendant ]'s employee's] conduct was despicable and subjected\n[name of plaintiff/decedent ] to cruel and unjust hardship in knowing\ndisregard of [his/her/ nonbinary pronoun] rights.\n\"Despicable conduct\" is conduct that is so vile, base, or contemptible\nthat it would be looked down on and despised by reasonable people.",
+  "directions_for_use": "If the individual responsible for the elder abuse is a defendant in the case, use\n\"[name of individual defendant ]'s.\" If only the individual's employer is a defendant,\nuse \"[ name of employer defendant ]'s employee's.\"",
+  "sources_and_authority": [
+    {
+      "raw": "\"Oppression\" for Punitive Damages. Civil Code section 3294(c)(2).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3294",
+          "display": "Civil Code section 3294",
+          "raw": "Civil Code section 3294(c)(2)",
+          "span": [
+            35,
+            64
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3294",
+          "display": "Civil Code section 3294(c)",
+          "raw": "Civil Code section 3294(c)(2)",
+          "span": [
+            35,
+            64
+          ],
+          "subsection": "c"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3294",
+          "display": "Civil Code section 3294(2)",
+          "raw": "Civil Code section 3294(c)(2)",
+          "span": [
+            35,
+            64
+          ],
+          "subsection": "2"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Used in its ordinary sense, the adjective 'despicable' is a powerful term that\nrefers to circumstances that are 'base,' 'vile,' or 'contemptible.' As amended to\ninclude this word, the statute plainly indicates that absent an intent to injure the\nplaintiff, 'malice' requires more than a 'willful and conscious' disregard of the\nplaintiffs' interests. The additional component of 'despicable conduct' must be\nfound.\" ( College Hospital, Inc. v. Superior Court (1994) 8 Cal. 4th 704, 725 [34\nCal. Rptr.2d 898, 882 P.2d 894], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "College Hospital, Inc. v. Superior Court",
+          "year": 1994,
+          "volume": 8,
+          "reporter": "Cal.4th",
+          "page": 704,
+          "pin": "725",
+          "raw": "College Hospital, Inc. v. Superior Court (1994) 8 Cal. 4th 704, 725",
+          "span": [
+            419,
+            486
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 California Forms of Pleading and Practice, Ch. 5, Abuse of Minors and Elderly ,\n§5.33[1] (Matthew Bender)\n441",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3294",
+      "display": "Civil Code section 3294",
+      "raw": "Civil Code section 3294(c)(2)",
+      "span": [
+        35,
+        64
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3294"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3294",
+      "display": "Civil Code section 3294(c)",
+      "raw": "Civil Code section 3294(c)(2)",
+      "span": [
+        35,
+        64
+      ],
+      "subsection": "c",
+      "role": "sources",
+      "statute_key": "CA/CIV/3294/c"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3294",
+      "display": "Civil Code section 3294(2)",
+      "raw": "Civil Code section 3294(c)(2)",
+      "span": [
+        35,
+        64
+      ],
+      "subsection": "2",
+      "role": "sources",
+      "statute_key": "CA/CIV/3294/2"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "College Hospital, Inc. v. Superior Court",
+      "year": 1994,
+      "volume": 8,
+      "reporter": "Cal.4th",
+      "page": 704,
+      "pin": "725",
+      "raw": "College Hospital, Inc. v. Superior Court (1994) 8 Cal. 4th 704, 725",
+      "span": [
+        419,
+        486
+      ],
+      "role": "sources",
+      "case_key": "8 Cal.4th 704"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

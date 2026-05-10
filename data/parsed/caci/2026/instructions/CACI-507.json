@@ -1,0 +1,128 @@
+{
+  "id": "CACI-507",
+  "edition": "2026",
+  "number": "507",
+  "title": "Duty to Warn Patient",
+  "title_full": "Duty to Warn Patient",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 524,
+  "page_end": 525,
+  "instruction_text": "507. Duty to Warn Patient\n[Name of plaintiff ] claims that [ name of defendant ] was negligent because\n[he/she/nonbinary pronoun] did not warn [ name of patient ] that [his/her/\nnonbinary pronoun] condition presented a danger to others.\n[Name of defendant ] was negligent if [ name of plaintiff ] proves that [he/\nshe/nonbinary prounoun] did not take reasonable steps to warn [ name of\npatient] that [his/her/ nonbinary prounoun] condition presented a danger to\nothers.",
+  "directions_for_use": "This instruction is intended to cover situations where a patient's condition\nforeseeably causes harm to a third party.",
+  "sources_and_authority": [
+    {
+      "raw": "\"To avoid liability in this case, [defendants] should have taken whatever steps\nwere reasonable under the circumstances to protect [plaintiff] and other\nforeseeable victims of [patient]'s dangerous conduct. What is a reasonable step\nto take will vary from case to case.\" ( Myers v. Quesenberry (1983) 144\nCal. App.3d 888, 894 [193 Cal. Rptr. 733], internal citations omitted.) \"Our\nholding does not require the physician to do anything other than what he was\nalready obligated to do for the protection of the patient. Thus, even though it\nmay appear that the scope of liability has been expanded to include injuries to\nforeseeable victims other than the patient, the standard of medical care to the\npatient remains the same.\" ( Ibid.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Myers v. Quesenberry",
+          "year": 1983,
+          "volume": 144,
+          "reporter": "Cal.App.3d",
+          "page": 888,
+          "pin": "894",
+          "raw": "Myers v. Quesenberry (1983) 144 Cal. App.3d 888, 894",
+          "span": [
+            273,
+            325
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"When the avoidance of foreseeable harm to a third person requires a defendant\nto control the conduct of a person with whom the defendant has a special\nrelationship (such as physician and patient) or to warn the person of the risks\ninvolved in certain conduct, the defendant's duty extends to a third person with\nwhom the defendant does not have a special relationship.\" ( Reisner v. Regents of\nUniv. of California (1995) 31 Cal. App.4th 1195, 1198–1199 [37 Cal. Rptr.2d 518]\n[infected sex partner could maintain action against his partner's physicians for\nfailing to tell the young woman that she had received HIV-tainted blood].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Reisner v. Regents of Univ. of California",
+          "year": 1995,
+          "volume": 31,
+          "reporter": "Cal.App.4th",
+          "page": 1195,
+          "pin": "1198–1199",
+          "raw": "Reisner v. Regents of Univ. of California (1995) 31 Cal. App.4th 1195, 1198–1199",
+          "span": [
+            373,
+            453
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Proof of causation is still required: \"[Defendants] will be liable only if [plaintiff]\nis able to prove their failure to warn [patient] not to drive in an irrational and\nuncontrolled diabetic condition was a substantial factor in causing his injuries.\"\n(Myers, supra, 144 Cal. App.3d at p. 895.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "This obligation to third parties appears to be limited to healthcare professionals\nand does not apply to ordinary citizens. ( Koepke v. Loo (1993) 18 Cal. App.4th\n1444, 1456–1457 [23 Cal. Rptr.2d 34].)\n450",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Koepke v. Loo",
+          "year": 1993,
+          "volume": 18,
+          "reporter": "Cal.App.4th",
+          "page": 1444,
+          "pin": "1456–1457",
+          "raw": "Koepke v. Loo (1993) 18 Cal. App.4th 1444, 1456–1457",
+          "span": [
+            126,
+            178
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "3 Levy et al., California Torts, Ch. 31, Liability of Physicians and Other Medical\nPractitioners, §31.16 (Matthew Bender)\n36 California Forms of Pleading and Practice, Ch. 415, Physicians: Medical\nMalpractice, §415.13 (Matthew Bender)\n17 California Points and Authorities, Ch. 175, Physicians and Surgeons , §§175.22,\n175.23 (Matthew Bender)\nMEDICAL NEGLIGENCE CACI No. 507\n451",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Myers v. Quesenberry",
+      "year": 1983,
+      "volume": 144,
+      "reporter": "Cal.App.3d",
+      "page": 888,
+      "pin": "894",
+      "raw": "Myers v. Quesenberry (1983) 144 Cal. App.3d 888, 894",
+      "span": [
+        273,
+        325
+      ],
+      "role": "sources",
+      "case_key": "144 Cal.App.3d 888"
+    },
+    {
+      "name": "Reisner v. Regents of Univ. of California",
+      "year": 1995,
+      "volume": 31,
+      "reporter": "Cal.App.4th",
+      "page": 1195,
+      "pin": "1198–1199",
+      "raw": "Reisner v. Regents of Univ. of California (1995) 31 Cal. App.4th 1195, 1198–1199",
+      "span": [
+        373,
+        453
+      ],
+      "role": "sources",
+      "case_key": "31 Cal.App.4th 1195"
+    },
+    {
+      "name": "Koepke v. Loo",
+      "year": 1993,
+      "volume": 18,
+      "reporter": "Cal.App.4th",
+      "page": 1444,
+      "pin": "1456–1457",
+      "raw": "Koepke v. Loo (1993) 18 Cal. App.4th 1444, 1456–1457",
+      "span": [
+        126,
+        178
+      ],
+      "role": "sources",
+      "case_key": "18 Cal.App.4th 1444"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:09+00:00"
+}

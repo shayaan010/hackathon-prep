@@ -1,0 +1,196 @@
+{
+  "id": "CACI-3304",
+  "edition": "2026",
+  "number": "3304",
+  "title": "Presumptions Concerning Costs—Manufacturer",
+  "title_full": "Presumptions Concerning Costs—Manufacturer",
+  "title_statute": null,
+  "series": "3300",
+  "series_title": "Series 3300 Unfair Practices Act",
+  "page_start": 2438,
+  "page_end": 2439,
+  "instruction_text": "3304. Presumptions Concerning Costs–Manufacturer\nA manufacturer's costs include the cost of raw materials and the cost of\nmanufacturing.\nThe cost of manufacturing is the average cost of manufacture over a\nreasonable time, rather than the cost of one item at a particular time.\n[If [ name of defendant ]'s cost for raw materials cannot be computed, the\ncost is presumed to be the prevailing price for similar raw materials at\nthe time and place those materials would usually be purchased.]\n[If [ name of defendant ]'s trade or industry has an established cost study\nor survey for the geographic area in this case, that cost survey may be\nconsidered in calculating [ name of defendant ]'s costs.]\n[[Name of defendant ]'s delivery costs are presumed to be the tariffs set by\nthe California Public Utilities Commission, but this presumption may be\novercome by other evidence.]",
+  "directions_for_use": "The bracketed sentences should be inserted as necessary.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Cost\" Deﬁned. Business and Professions Code section 17026.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "17026",
+          "display": "Business and Professions Code section 17026",
+          "raw": "Business and Professions Code section 17026",
+          "span": [
+            15,
+            58
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Cost Survey Is Competent Evidence. Business and Professions Code section\n17072.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "17072",
+          "display": "Business and Professions Code section 17072",
+          "raw": "Business and Professions Code section\n17072",
+          "span": [
+            35,
+            78
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Presumptive Evidence of Cost. Business and Professions Code section 17073.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "17073",
+          "display": "Business and Professions Code section 17073",
+          "raw": "Business and Professions Code section 17073",
+          "span": [
+            30,
+            73
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Transportation Tariffs Are Presumptive Evidence of Delivery Costs. Business and\nProfessions Code section 17074.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Prevailing Market Price Is Presumptive Evidence of Cost of Raw Materials.\nBusiness and Professions Code section 17077.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "17077",
+          "display": "Business and Professions Code section 17077",
+          "raw": "Business and Professions Code section 17077",
+          "span": [
+            74,
+            117
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Determination of the defendant's cost has always been treated as an issue of\nfact.\" ( Pan Asia V enture Capital Corp. v. Hearst Corp. (1999) 74 Cal. App.4th\n424, 432 [88 Cal. Rptr.2d 118].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Capital Corp. v. Hearst Corp.",
+          "year": 1999,
+          "volume": 74,
+          "reporter": "Cal.App.4th",
+          "page": 424,
+          "pin": "432",
+          "raw": "Capital Corp. v. Hearst Corp. (1999) 74 Cal. App.4th 424, 432",
+          "span": [
+            105,
+            166
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"California appears to have adopted a very expansive approach to the evidence\nthat may be used to establish cost; no formula has been expressly sustained or\ndenounced.\" ( Pan Asia V enture Capital Corp., supra, 74 Cal. App.4th at p. 436.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"These statutes embody California's fully allocated cost standard, that is, a fair\nallocation of all ﬁxed or variable costs associated with production of the article\nor product.\" ( Pan Asia V enture Capital Corp., supra, 74 Cal. App.4th at p. 432,\nfootnote omitted.)\n552",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Cost is to be measured as 'the fair average cost of production over a reasonable\ntime, rather than the cost of one item on a particular occasion.' \" ( Pan Asia\nV enture Capital Corp., supra, 74 Cal. App.4th at p. 432, fn. 6, internal citation\nomitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§623–629\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.153 (Matthew Bender)\n49 California Forms of Pleading and Practice, Ch. 565, Unfair Competition ,\n§565.52 (Matthew Bender)\n23 California Points and Authorities, Ch. 235, Unfair Competition , §235.22 et seq.\n(Matthew Bender)\nUNFAIR PRACTICES ACT CACI No. 3304\n553",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "17026",
+      "display": "Business and Professions Code section 17026",
+      "raw": "Business and Professions Code section 17026",
+      "span": [
+        15,
+        58
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/17026"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "17072",
+      "display": "Business and Professions Code section 17072",
+      "raw": "Business and Professions Code section\n17072",
+      "span": [
+        35,
+        78
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/17072"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "17073",
+      "display": "Business and Professions Code section 17073",
+      "raw": "Business and Professions Code section 17073",
+      "span": [
+        30,
+        73
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/17073"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "17077",
+      "display": "Business and Professions Code section 17077",
+      "raw": "Business and Professions Code section 17077",
+      "span": [
+        74,
+        117
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/17077"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Capital Corp. v. Hearst Corp.",
+      "year": 1999,
+      "volume": 74,
+      "reporter": "Cal.App.4th",
+      "page": 424,
+      "pin": "432",
+      "raw": "Capital Corp. v. Hearst Corp. (1999) 74 Cal. App.4th 424, 432",
+      "span": [
+        105,
+        166
+      ],
+      "role": "sources",
+      "case_key": "74 Cal.App.4th 424"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

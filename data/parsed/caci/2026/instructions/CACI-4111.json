@@ -1,0 +1,145 @@
+{
+  "id": "CACI-4111",
+  "edition": "2026",
+  "number": "4111",
+  "title": "Constructive Fraud",
+  "title_full": "Constructive Fraud (Civ. Code, § 1573)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "CIV",
+    "section": "1573",
+    "display": "Civil Code section 1573",
+    "raw": "Civ. Code, § 1573",
+    "span": [
+      0,
+      17
+    ]
+  },
+  "series": "4100",
+  "series_title": "Series 4100 Breach of Fiduciary Duty",
+  "page_start": 2974,
+  "page_end": 2975,
+  "instruction_text": "4111. Constructive Fraud (Civ. Code, §1573)\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun] was harmed\nbecause [ name of defendant ] misled [him/her/ nonbinary pronoun] by failing\nto provide [ name of plaintiff ] with complete and accurate information. To\nestablish this claim, [ name of plaintiff ] must prove all of the following:\n1. That [ name of defendant ] was [ name of plaintiff ]'s\n[agent/stockbroker/real estate agent/real estate broker/corporate\nofficer/partner/[insert other ﬁduciary relationship ]];\n2. That [ name of defendant ] acted on [ name of plaintiff ]'s behalf for\npurposes of [ insert description of transaction, e.g., purchasing a\nresidential property ];\n3. That [ name of defendant ] knew, or should have known, that\n[specify information at issue ];\n4. That [ name of defendant ] misled [ name of plaintiff ] by [failing to\ndisclose this information/providing [ name of plaintiff ] with\ninformation that was inaccurate or incomplete];\n5. That [ name of plaintiff ] was harmed; and\n6. That [ name of defendant ]'s conduct was a substantial factor in\ncausing [ name of plaintiff ]'s harm.",
+  "directions_for_use": "Give this instruction for a claim of constructive fraud under Civil Code section\n1573. Under the statute, constructive fraud is a particular kind of breach of ﬁduciary\nduty in which the defendant has misled the plaintiff to the plaintiff's prejudice or\ndetriment. Constructive fraud differs from actual fraud (see CACI Nos. 1900−1903\non different claims involving actual fraud) in that no fraudulent intent is required.\n(Civ. Code, §1573(1).) Thus, if one who is under a ﬁduciary duty to provide\ncomplete and accurate information to the plaintiff fails to do so and the plaintiff is\nmisled to the plaintiff's prejudice, there is a claim for constructive fraud despite the\nlack of any intent to mislead or deceive.\nIn element 4, choose the ﬁrst option if it was the defendant's failure to disclose\ninformation that misled the plaintiff. Choose the second option if the defendant\nprovided information to the plaintiff, but the plaintiff was misled because the\ninformation was inaccurate or incomplete.\nIn a ﬁduciary relationship, there is a rebuttable presumption of reasonable reliance.\nThe defendant bears the burden of rebutting the presumption by proving by\nsubstantial evidence that the plaintiff could not have reasonably relied on the\n1088\nmisleading information or omission. ( Edmunds v. V alley Circle Estates (1993) 16\nCal. App.4th 1290, 1301–1302 [20 Cal. Rptr.2d 701].)\nThere are cases that set forth the elements of constructive fraud as \"(1) a ﬁduciary\nor conﬁdential relationship; (2) nondisclosure (breach of ﬁduciary duty); (3) intent\nto deceive, and (4) reliance and resulting injury (causation).\" (See, e.g., Younan v.\nEquifax Inc. (1980) 111 Cal. App.3d 498, 516 fn. 14 [169 Cal. Rptr. 478]; see also\nPrakashpalan v. Engstrom, Lipscomb & Lack (2014) 223 Cal. App.4th 1105, 1131\n[167 Cal. Rptr.3d 832].) However, these elements conﬂict with the statute in at least\ntwo ways. First, the statute clearly states that no fraudulent intent (or intent to\ndeceive) is required. Second, the statute is not limited to nondisclosure; it extends to\ninformation that is disclosed, but misleading.\nFor discussion of the statute of limitations for constructive fraud, see CACI No.\n4120, Affırmative Defense–Statute of Limitations .",
+  "sources_and_authority": [
+    {
+      "raw": "Constructive Fraud. Civil Code section 1573.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1573",
+          "display": "Civil Code section 1573",
+          "raw": "Civil Code section 1573",
+          "span": [
+            20,
+            43
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"A ﬁduciary must tell its principal of all information it possesses that is material\nto the principal's interests. A ﬁduciary's failure to share material information\nwith the principal is constructive fraud, a term of art obviating actual fraudulent\nintent.\" ( Michel v. Moore & Associates, Inc. (2007) 156 Cal. App.4th 756, 762\n[67 Cal. Rptr.3d 797], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In its generic sense, constructive fraud comprises all acts, omissions and\nconcealments involving a breach of legal or equitable duty, trust, or conﬁdence,\nand resulting in damages to another. [Citations.] Constructive fraud exists in\ncases in which conduct, although not actually fraudulent, ought to be so\ntreated–that is, in which such conduct is a constructive or quasi fraud, having\nall the actual consequences and all the legal effects of actual fraud.\"\n(Prakashpalan, supra, 223 Cal. App.4th at p. 1131.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The failure of the ﬁduciary to disclose a material fact to his principal which\nmight affect the ﬁduciary's motives or the principal's decision, which is known\n(or should be known) to the ﬁduciary, may constitute constructive fraud. Also, a\ncareless misstatement may constitute constructive fraud even though there is no\nfraudulent intent.\" ( Assilzadeh v. Cal. Fed. Bank (2000) 82 Cal. App.4th 399, 415\n[98 Cal. Rptr.2d 176].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Assilzadeh v. Cal. Fed. Bank",
+          "year": 2000,
+          "volume": 82,
+          "reporter": "Cal.App.4th",
+          "page": 399,
+          "pin": "415",
+          "raw": "Assilzadeh v. Cal. Fed. Bank (2000) 82 Cal. App.4th 399, 415",
+          "span": [
+            343,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A] representation in the context of a trust or ﬁduciary relationship creates a\nrebuttable presumption of reasonable reliance subject to being overcome by\nsubstantial evidence to the contrary.\" ( Edmunds, supra, 16 Cal. App.4th at p.\n1302.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"This rebuttable presumption implements the long recognized public policy of\nimposing ﬁduciary duties upon partners in their relationship to one another.\nIndeed, this policy is lodged in the statutory and case law of this state. It is more\nthan the simple shifting of the burden of proof to facilitate the determination of\na particular action. Consequently, [defendant] had the burden of proving by\nBREACH OF FIDUCIARY DUTY CACI No. 4111\n1089",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1573",
+      "display": "Civil Code section 1573",
+      "raw": "Civ. Code, § 1573",
+      "span": [
+        0,
+        17
+      ],
+      "role": "title",
+      "statute_key": "CA/CIV/1573"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1573",
+      "display": "Civil Code section 1573(1)",
+      "raw": "Civ. Code, §1573(1)",
+      "span": [
+        421,
+        440
+      ],
+      "subsection": "1",
+      "role": "directions",
+      "statute_key": "CA/CIV/1573/1"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Assilzadeh v. Cal. Fed. Bank",
+      "year": 2000,
+      "volume": 82,
+      "reporter": "Cal.App.4th",
+      "page": 399,
+      "pin": "415",
+      "raw": "Assilzadeh v. Cal. Fed. Bank (2000) 82 Cal. App.4th 399, 415",
+      "span": [
+        343,
+        403
+      ],
+      "role": "sources",
+      "case_key": "82 Cal.App.4th 399"
+    },
+    {
+      "name": "Younan v. Equifax Inc.",
+      "year": 1980,
+      "volume": 111,
+      "reporter": "Cal.App.3d",
+      "page": 498,
+      "pin": "516",
+      "raw": "Younan v. Equifax Inc. (1980) 111 Cal. App.3d 498, 516",
+      "span": [
+        1626,
+        1680
+      ],
+      "role": "directions",
+      "case_key": "111 Cal.App.3d 498"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:24+00:00"
+}

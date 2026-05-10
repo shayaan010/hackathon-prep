@@ -1,0 +1,72 @@
+{
+  "id": "CACI-VF-4600",
+  "edition": "2026",
+  "number": "VF-4600",
+  "title": "False Claims Act: Whistleblower Protection",
+  "title_full": "False Claims Act: Whistleblower Protection (Gov. Code,§ 12653)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "GOV",
+    "section": "12653",
+    "display": "Government Code section 12653",
+    "raw": "Gov. Code,§ 12653",
+    "span": [
+      0,
+      17
+    ]
+  },
+  "series": "VF-4600",
+  "series_title": "Series 4600 Whistleblower Protection",
+  "page_start": 3278,
+  "page_end": 3280,
+  "instruction_text": "VF-4600. False Claims Act: Whistleblower Protection (Gov. Code,\n§12653)\nWe answer the questions submitted to us as follows:\n1. Was [ name of plaintiff ] an employee of [ name of defendant ]?\n1. Yes No\n1. If your answer to question 1 is yes, then answer question 2. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n2. Did [ name of plaintiff ] [ specify acts done in furthering the false\nclaims action or to stop a false claim ]?\n2. Yes No\n2. If your answer to question 2 is yes, then answer question 3. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n3. Did [ name of plaintiff ] act [in furtherance of a false claims action/\nto stop a false claim]?\n3. Yes No\n3. If your answer to question 3 is yes, then answer question 4. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n4. Did [ name of defendant ] [discharge /specify other adverse action ]\n[name of plaintiff ]?\n4. Yes No\n4. If your answer to question 4 is yes, then answer question 5. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n5. Were [ name of plaintiff ]'s acts [in furtherance of a false claims\naction/to stop a false claim] a substantial motivating reason for\n[name of defendant ]'s decision to [discharge/ other adverse action ]\n[him/her/nonbinary pronoun ]?\n5. Yes No\n5. If your answer to question 5 is yes, then answer question 6. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n6. Was [ name of defendant ]'s conduct a substantial factor in causing\n1392\nharm to [ name of plaintiff ]?\n6. Yes No\n6. If your answer to question 6 is yes, then answer question 7. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n7. What are [ name of plaintiff ]'s damages?\n[a. Past economic loss\n[lost earnings $ ]\n[lost proﬁts $ ]\n[medical expenses $ ]\n[other past economic loss $ ]\n[a. Total Past Economic Damages: $ ]\n[b. Future economic loss\n[lost earnings $ ]\n[lost proﬁts $ ]\n[medical expenses $ ]\n[other future economic loss $ ]\n[b. Total Future Economic Damages: $ ]\n[c. Past noneconomic loss, including [physical\npain/mental suffering:] $ ]\n[d. Future noneconomic loss, including [physical\npain/mental suffering:] $ ]\n[d. TOTAL $\nSigned:\nPresiding Juror\nDated:\nAfter [this verdict form has/all verdict forms have] been signed, notify\nthe [clerk/bailiff/court attendant].",
+  "directions_for_use": "This verdict form is based on CACI No. 4600, False Claims Act: Whistleblower\nProtection–Essential Factual Elements .\nWHISTLEBLOWER PROTECTION VF-4600\n1393\nThe special verdict forms in this section are intended only as models. They may\nneed to be modiﬁed depending on the facts of the case.\nQuestions 4 and 5 may be modiﬁed to allege constructive discharge. Questions 2\nthrough 5 of CACI No. VF-2408, Constructive Discharge in Violation of Public\nPolicy–Plaintiff Required to Endure Intolerable Conditions for Improper Purpose\nThat Violates Public Policy , should be adapted and included in such a case.\nIf speciﬁcity is not required, users do not have to itemize all the damages listed in\nquestion 7 and do not have to categorize \"economic\" and \"noneconomic\" damages,\nespecially if it is not a Proposition 51 case. The breakdown of damages is optional\ndepending on the circumstances.\nIf there are multiple causes of action, users may wish to combine the individual\nforms into one form. If different damages are recoverable on different causes of\naction, replace the damages tables in all of the verdict forms with CACI No. VF-\n3920, Damages on Multiple Legal Theories .\nIf the jury is given the discretion under Civil Code section 3288 to award\nprejudgment interest (see Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801,\n814 [148 Cal. Rptr. 22, 582 P.2d 109]), give CACI No. 3935, Prejudgment Interest.\nThis verdict form may need to be augmented for the jury to make any factual\nﬁndings that are required in order to calculate the amount of prejudgment interest.\nVF-4600 WHISTLEBLOWER PROTECTION\n1394",
+  "sources_and_authority": [],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "12653",
+      "display": "Government Code section 12653",
+      "raw": "Gov. Code,§ 12653",
+      "span": [
+        0,
+        17
+      ],
+      "role": "title",
+      "statute_key": "CA/GOV/12653"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3288",
+      "display": "Civil Code section 3288",
+      "raw": "Civil Code section 3288",
+      "span": [
+        1212,
+        1235
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3288"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Bullis v. Security Pac. Nat'l Bank",
+      "year": 1978,
+      "volume": 21,
+      "reporter": "Cal.3d",
+      "page": 801,
+      "pin": "814",
+      "raw": "Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801, 814",
+      "span": [
+        1271,
+        1332
+      ],
+      "role": "directions",
+      "case_key": "21 Cal.3d 801"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

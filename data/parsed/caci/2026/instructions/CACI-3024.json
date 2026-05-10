@@ -1,0 +1,143 @@
+{
+  "id": "CACI-3024",
+  "edition": "2026",
+  "number": "3024",
+  "title": "Affirmative Defense—Search Incident to Lawful Arrest",
+  "title_full": "Affirmative Defense—Search Incident to Lawful Arrest",
+  "title_statute": null,
+  "series": "3000",
+  "series_title": "Series 3000 Civil Rights",
+  "page_start": 2152,
+  "page_end": 2153,
+  "instruction_text": "3024. Affirmative Defense–Search Incident to Lawful Arrest\n[Name of defendant ] claims that the search was reasonable and that a\nsearch warrant was not required. To succeed, [ name of defendant ] must\nprove all of the following:\n1. That the search was conducted as part of a lawful arrest of [ name\nof plaintiff ];\n2. That [ name of defendant ] searched only [ name of plaintiff ] and the\narea within which [he/she/ nonbinary pronoun ] might have gained\npossession of a weapon or might have destroyed or hidden\nevidence; and\n3. That the search was reasonable under the circumstances.\nIn deciding whether the search was reasonable, you should consider,\namong other factors, the following:\n(a) The extent of the particular intrusion;\n(b) The place in which the search was conducted; [and]\n(c) The manner in which the search was conducted; [and]\n(d) [ insert other applicable factor ].",
+  "directions_for_use": "For instructions regarding whether an arrest is lawful, see instructions in the False\nImprisonment series (CACI Nos. 1400–1409).\nThis instruction is not intended for use in cases involving automobile searches:\n\"[W]e hold that when a policeman has made a lawful custodial arrest of the\noccupant of an automobile, he may, as a contemporaneous incident of that arrest,\nsearch the passenger compartment of that automobile.\" ( New York v. Belton (1981)\n453 U.S. 454, 460 [101 S.Ct. 2860, 69 L.Ed.2d 768], footnotes omitted.)",
+  "sources_and_authority": [
+    {
+      "raw": "\"Searches incident to lawful arrest constitute a well-established exception to the\nwarrant requirement of the Fourth Amendment.\" ( Hallstrom v. Garden City (9th\nCir. 1993) 991 F.2d 1473, 1477, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Under applicable federal law, a lawful custodial arrest creates a situation which\njustiﬁes the full contemporaneous search without a warrant of the person arrested\nand of the immediately surrounding area. Such searches are considered valid\nbecause of the need to remove weapons and to prevent the concealment or\ndestruction of evidence.\" ( People v. Gutierrez (1984) 163 Cal. App.3d 332,\n266\n334–335 [209 Cal. Rptr. 376], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Gutierrez",
+          "year": 1984,
+          "volume": 163,
+          "reporter": "Cal.App.3d",
+          "page": 332,
+          "pin": "266",
+          "raw": "People v. Gutierrez (1984) 163 Cal. App.3d 332, 266",
+          "span": [
+            341,
+            392
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Law enforcement officers are permitted to search the entire passenger\ncompartment of a car, including the inside of containers, during a 'search\nincident to arrest.' \" ( United States v. Tank (2000) 200 F.3d 627, 631, fn. 6,\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "United States v. Tank",
+          "year": 2000,
+          "volume": 200,
+          "reporter": "F.3d",
+          "page": 627,
+          "pin": "631",
+          "raw": "United States v. Tank (2000) 200 F.3d 627, 631",
+          "span": [
+            171,
+            217
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In New York v. Belton, we determined that the lower courts 'have found no\nworkable deﬁnition of \"the area within the immediate control of the arrestee\"\nwhen that area arguably includes the interior of an automobile and the arrestee is\nits recent occupant.' In order to provide a 'workable rule,' we held that 'articles\ninside the relatively narrow compass of the passenger compartment of an\nautomobile are in fact generally, even if not inevitably, within \"the area into\nwhich an arrestee might reach in order to grab a weapon\" . . . .' We also held\nthat the police may examine the contents of any open or closed container found\nwithin the passenger compartment, 'for if the passenger compartment is within\nthe reach of the arrestee, so will containers in it be within his reach.' \"\n(Michigan v. Long (1983) 463 U.S. 1032, 1048–1049 [103 S.Ct. 3469, 77\nL.Ed.2d 1201], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Michigan v. Long",
+          "year": 1983,
+          "volume": 463,
+          "reporter": "U.S.",
+          "page": 1032,
+          "pin": "1048–1049",
+          "raw": "Michigan v. Long (1983) 463 U.S. 1032, 1048–1049",
+          "span": [
+            785,
+            833
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "8 Witkin, Summary of California Law (11th ed. 2017) Constitutional Law, §§888,\n892, 893\n11 California Forms of Pleading and Practice, Ch. 113, Civil Rights: The Post-Civil\nWar Civil Rights Statutes, §113.14 (Matthew Bender)\nCIVIL RIGHTS CACI No. 3024\n267",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "People v. Gutierrez",
+      "year": 1984,
+      "volume": 163,
+      "reporter": "Cal.App.3d",
+      "page": 332,
+      "pin": "266",
+      "raw": "People v. Gutierrez (1984) 163 Cal. App.3d 332, 266",
+      "span": [
+        341,
+        392
+      ],
+      "role": "sources",
+      "case_key": "163 Cal.App.3d 332"
+    },
+    {
+      "name": "United States v. Tank",
+      "year": 2000,
+      "volume": 200,
+      "reporter": "F.3d",
+      "page": 627,
+      "pin": "631",
+      "raw": "United States v. Tank (2000) 200 F.3d 627, 631",
+      "span": [
+        171,
+        217
+      ],
+      "role": "sources",
+      "case_key": "200 F.3d 627"
+    },
+    {
+      "name": "Michigan v. Long",
+      "year": 1983,
+      "volume": 463,
+      "reporter": "U.S.",
+      "page": 1032,
+      "pin": "1048–1049",
+      "raw": "Michigan v. Long (1983) 463 U.S. 1032, 1048–1049",
+      "span": [
+        785,
+        833
+      ],
+      "role": "sources",
+      "case_key": "463 U.S. 1032"
+    },
+    {
+      "name": "New York v. Belton",
+      "year": 1981,
+      "volume": 453,
+      "reporter": "U.S.",
+      "page": 454,
+      "pin": "460",
+      "raw": "New York v. Belton (1981) 453 U.S. 454, 460",
+      "span": [
+        422,
+        465
+      ],
+      "role": "directions",
+      "case_key": "453 U.S. 454"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:20+00:00"
+}

@@ -1,0 +1,151 @@
+{
+  "id": "CACI-463",
+  "edition": "2026",
+  "number": "463",
+  "title": "Dog Bite Statute (Civ. Code, § 3342)—Essential Factual Elements",
+  "title_full": "Dog Bite Statute (Civ. Code, § 3342)—Essential Factual Elements",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 452,
+  "page_end": 452,
+  "instruction_text": "463. Dog Bite Statute (Civ. Code, §3342)–Essential Factual\nElements\n[Name of plaintiff ] claims that [ name of defendant ]'s dog bit\n[him/her/nonbinary pronoun] and that [ name of defendant ] is responsible\nfor that harm.\nPeople who own dogs can be held responsible for the harm from a dog\nbite, no matter how carefully they guard or restrain their dogs.\nTo establish [his/her/ nonbinary pronoun] claim, [ name of plaintiff ] must\nprove all of the following:\n1. That [ name of defendant ] owned a dog;\n2. That the dog bit [ name of plaintiff ] while [he/she/ nonbinary\npronoun] was in a public place or lawfully on private property;\n3. That [ name of plaintiff ] was harmed; and\n4. That [ name of defendant ]'s dog was a substantial factor in causing\n[name of plaintiff ]'s harm.\n[[Name of plaintiff ] was lawfully on private property of the owner if [he/\nshe/nonbinary pronoun] was performing any duty required by law or was\non the property at the invitation, express or implied, of the owner.]",
+  "directions_for_use": "Read the last optional paragraph if there is an issue regarding whether the plaintiff\nwas lawfully on private property when the plaintiff was bitten.\nFor an instruction on common-law liability based on the defendant's knowledge of\nhis or her pet's dangerous propensities, see CACI No. 462, Strict Liability for Injury\nCaused by Domestic Animal With Dangerous Propensities–Essential Factual\nElements.",
+  "sources_and_authority": [
+    {
+      "raw": "Liability for Dog Bites. Civil Code section 3342(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3342",
+          "display": "Civil Code section 3342",
+          "raw": "Civil Code section 3342(a)",
+          "span": [
+            25,
+            51
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3342",
+          "display": "Civil Code section 3342(a)",
+          "raw": "Civil Code section 3342(a)",
+          "span": [
+            25,
+            51
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "This statute creates an exception to the general rule that an owner is not strictly\nliable for harm caused by a domestic animal absent knowledge of the animal's\nvicious propensity . (Hicks v. Sullivan (1932) 122 Cal. App. 635, 639 [10 P.2d\n516].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hicks v. Sullivan",
+          "year": 1932,
+          "volume": 122,
+          "reporter": "Cal.App.",
+          "page": 635,
+          "pin": "639",
+          "raw": "Hicks v. Sullivan (1932) 122 Cal. App. 635, 639",
+          "span": [
+            183,
+            230
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "It is not necessary that the skin be broken in order for the statute to apply.\n(Johnson v. McMahan (1998) 68 Cal. App.4th 173, 176 [80 Cal. Rptr.2d 173].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Johnson v. McMahan",
+          "year": 1998,
+          "volume": 68,
+          "reporter": "Cal.App.4th",
+          "page": 173,
+          "pin": "176",
+          "raw": "Johnson v. McMahan (1998) 68 Cal. App.4th 173, 176",
+          "span": [
+            80,
+            130
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The defenses of assumption of the risk and contributory negligence may still be\n378",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3342",
+      "display": "Civil Code section 3342",
+      "raw": "Civil Code section 3342(a)",
+      "span": [
+        25,
+        51
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3342"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3342",
+      "display": "Civil Code section 3342(a)",
+      "raw": "Civil Code section 3342(a)",
+      "span": [
+        25,
+        51
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/CIV/3342/a"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Hicks v. Sullivan",
+      "year": 1932,
+      "volume": 122,
+      "reporter": "Cal.App.",
+      "page": 635,
+      "pin": "639",
+      "raw": "Hicks v. Sullivan (1932) 122 Cal. App. 635, 639",
+      "span": [
+        183,
+        230
+      ],
+      "role": "sources",
+      "case_key": "122 Cal.App. 635"
+    },
+    {
+      "name": "Johnson v. McMahan",
+      "year": 1998,
+      "volume": 68,
+      "reporter": "Cal.App.4th",
+      "page": 173,
+      "pin": "176",
+      "raw": "Johnson v. McMahan (1998) 68 Cal. App.4th 173, 176",
+      "span": [
+        80,
+        130
+      ],
+      "role": "sources",
+      "case_key": "68 Cal.App.4th 173"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:09+00:00"
+}

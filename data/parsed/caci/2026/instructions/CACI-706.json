@@ -1,0 +1,210 @@
+{
+  "id": "CACI-706",
+  "edition": "2026",
+  "number": "706",
+  "title": "Basic Speed Law",
+  "title_full": "Basic Speed Law (Veh. Code, § 22350)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "VEH",
+    "section": "22350",
+    "display": "Vehicle Code section 22350",
+    "raw": "Veh. Code, § 22350",
+    "span": [
+      0,
+      18
+    ]
+  },
+  "series": "700",
+  "series_title": "Series 700 Motor Vehicles and Highway Safety",
+  "page_start": 630,
+  "page_end": 631,
+  "instruction_text": "706. Basic Speed Law (Veh. Code, §22350)\nA person must drive at a reasonable speed. Whether a particular speed\nis reasonable depends on the circumstances such as traffic, weather,\nvisibility, and road conditions. Drivers must not drive so fast that they\ncreate a danger to people or property.\nIf [ name of plaintiff/defendant ] has proved that [ name of defendant/plaintiff ]\nwas not driving at a reasonable speed at the time of the accident, then\n[name of defendant/plaintiff ] was negligent.",
+  "directions_for_use": "Driving at an unreasonable speed is negligence per se (see Hert v. Firestone Tire &\nRubber Co. (1935) 4 Cal. App.2d 598, 599 [41 P.2d 369]), which establishes the ﬁrst\nelement of CACI No. 400, Negligence–Essential Factual Elements. Plaintiff must\nstill prove the other two elements of harm and causation. (See CACI No. 430,\nCausation: Substantial Factor .)",
+  "sources_and_authority": [
+    {
+      "raw": "Speeding. Vehicle Code section 22350.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22350",
+          "display": "Vehicle Code section 22350",
+          "raw": "Vehicle Code section 22350",
+          "span": [
+            10,
+            36
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The so-called basic speed law is primarily a regulation of the conduct of the\noperators of vehicles. They are bound to know the conditions which dictate the\nspeeds at which they can drive with a reasonable degree of safety. They know,\nor should know, their cars and their own ability to handle them, and especially\ntheir ability to come to a stop at different speeds and under different conditions\nof the surface of the highway.\" ( Wilding v. Norton (1957) 156 Cal. App.2d 374,\n379 [319 P.2d 440].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Wilding v. Norton",
+          "year": 1957,
+          "volume": 156,
+          "reporter": "Cal.App.2d",
+          "page": 374,
+          "pin": "379",
+          "raw": "Wilding v. Norton (1957) 156 Cal. App.2d 374, 379",
+          "span": [
+            433,
+            482
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Whether Vehicle Code section 22350 has been violated is a question of fact.\"\n(Leighton v. Dodge (1965) 236 Cal. App.2d 54, 57 [45 Cal. Rptr. 820], internal\ncitation omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22350",
+          "display": "Vehicle Code section 22350",
+          "raw": "Vehicle Code section 22350",
+          "span": [
+            9,
+            35
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Leighton v. Dodge",
+          "year": 1965,
+          "volume": 236,
+          "reporter": "Cal.App.2d",
+          "page": 54,
+          "pin": "57",
+          "raw": "Leighton v. Dodge (1965) 236 Cal. App.2d 54, 57",
+          "span": [
+            79,
+            126
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A number of cases have held that it is proper to give an instruction in the terms\nof this section and to inform the jury that a violation of the statute is\nnegligence.\" ( Hardin v. San Jose City Lines, Inc. (1953) 41 Cal. 2d 432, 438 [260\nP.2d 63].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hardin v. San Jose City Lines, Inc.",
+          "year": 1953,
+          "volume": 41,
+          "reporter": "Cal.2d",
+          "page": 432,
+          "pin": "438",
+          "raw": "Hardin v. San Jose City Lines, Inc. (1953) 41 Cal. 2d 432, 438",
+          "span": [
+            172,
+            234
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Compliance with the posted speed law does not negate negligence as a matter of\nlaw. (Maxwell v. Colburn (1980) 105 Cal. App.3d 180, 186 [163 Cal. Rptr. 912].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Maxwell v. Colburn",
+          "year": 1980,
+          "volume": 105,
+          "reporter": "Cal.App.3d",
+          "page": 180,
+          "pin": "186",
+          "raw": "Maxwell v. Colburn (1980) 105 Cal. App.3d 180, 186",
+          "span": [
+            85,
+            135
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1009\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §4.16\n556\n2 Levy et al., California Torts, Ch. 20, Motor V ehicles, §20.63[3][a] (Matthew\nBender)\nMOTOR VEHICLES AND HIGHW AY SAFETY CACI No. 706\n557",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "22350",
+      "display": "Vehicle Code section 22350",
+      "raw": "Veh. Code, § 22350",
+      "span": [
+        0,
+        18
+      ],
+      "role": "title",
+      "statute_key": "CA/VEH/22350"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Wilding v. Norton",
+      "year": 1957,
+      "volume": 156,
+      "reporter": "Cal.App.2d",
+      "page": 374,
+      "pin": "379",
+      "raw": "Wilding v. Norton (1957) 156 Cal. App.2d 374, 379",
+      "span": [
+        433,
+        482
+      ],
+      "role": "sources",
+      "case_key": "156 Cal.App.2d 374"
+    },
+    {
+      "name": "Leighton v. Dodge",
+      "year": 1965,
+      "volume": 236,
+      "reporter": "Cal.App.2d",
+      "page": 54,
+      "pin": "57",
+      "raw": "Leighton v. Dodge (1965) 236 Cal. App.2d 54, 57",
+      "span": [
+        79,
+        126
+      ],
+      "role": "sources",
+      "case_key": "236 Cal.App.2d 54"
+    },
+    {
+      "name": "Hardin v. San Jose City Lines, Inc.",
+      "year": 1953,
+      "volume": 41,
+      "reporter": "Cal.2d",
+      "page": 432,
+      "pin": "438",
+      "raw": "Hardin v. San Jose City Lines, Inc. (1953) 41 Cal. 2d 432, 438",
+      "span": [
+        172,
+        234
+      ],
+      "role": "sources",
+      "case_key": "41 Cal.2d 432"
+    },
+    {
+      "name": "Maxwell v. Colburn",
+      "year": 1980,
+      "volume": 105,
+      "reporter": "Cal.App.3d",
+      "page": 180,
+      "pin": "186",
+      "raw": "Maxwell v. Colburn (1980) 105 Cal. App.3d 180, 186",
+      "span": [
+        85,
+        135
+      ],
+      "role": "sources",
+      "case_key": "105 Cal.App.3d 180"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

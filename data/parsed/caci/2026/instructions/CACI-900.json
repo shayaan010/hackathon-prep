@@ -1,0 +1,128 @@
+{
+  "id": "CACI-900",
+  "edition": "2026",
+  "number": "900",
+  "title": "Introductory Instruction",
+  "title_full": "Introductory Instruction",
+  "title_statute": null,
+  "series": "900",
+  "series_title": "Series 900 Common Carriers",
+  "page_start": 684,
+  "page_end": 684,
+  "instruction_text": "900. Introductory Instruction\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun] was harmed by\n[name of defendant ]'s negligence while [he/she/ nonbinary pronoun] was a\npassenger on [ name of defendant ]'s [ insert type of carrier , e.g., train ].\n[In this case, [ name of defendant ] was a common carrier at the time of\nthe incident. A common carrier provides transportation to the general\npublic.]\n[or]\n[[Name of plaintiff ] also claims that [ name of defendant ] was a common\ncarrier at the time of the incident.]",
+  "directions_for_use": "Give either one of the bracketed sentences, depending on whether the defendant's\nstatus as a common carrier is contested or not.\nThis instruction is intended as an introductory instruction to frame the issues. CACI\nNo. 400, Negligence–Essential Factual Elements , would still be given to set forth\nthe elements that plaintiff has to prove in order to recover (i.e., negligence, harm,\nand causation).",
+  "sources_and_authority": [
+    {
+      "raw": "\"Common Carrier\" Deﬁned. Civil Code section 2168.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2168",
+          "display": "Civil Code section 2168",
+          "raw": "Civil Code section 2168",
+          "span": [
+            25,
+            48
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Carriage\" Deﬁned. Civil Code section 2085.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2085",
+          "display": "Civil Code section 2085",
+          "raw": "Civil Code section 2085",
+          "span": [
+            19,
+            42
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[A] common carrier within the meaning of Civil Code section 2168 is any\nentity which holds itself out to the public generally and indifferently to transport\ngoods or persons from place to place for proﬁt.\" ( Squaw V alley Ski Corporation\nv. Superior Court (1992) 2 Cal. App.4th 1499, 1508 [3 Cal. Rptr.2d 897].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2168",
+          "display": "Civil Code section 2168",
+          "raw": "Civil Code section 2168",
+          "span": [
+            42,
+            65
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Ski Corporation v. Superior Court",
+          "year": 1992,
+          "volume": 2,
+          "reporter": "Cal.App.4th",
+          "page": 1499,
+          "pin": "1508",
+          "raw": "Ski Corporation v. Superior Court (1992) 2 Cal. App.4th 1499, 1508",
+          "span": [
+            223,
+            289
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1055–1064\n2 Levy et al., California Torts, Ch. 23, Carriers, §23.01 (Matthew Bender)\n11 California Forms of Pleading and Practice, Ch. 109, Carriers, §109.32 et seq.\n(Matthew Bender)\nCalifornia Civil Practice: Torts §28:1 (Thomson Reuters)\n610",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "2168",
+      "display": "Civil Code section 2168",
+      "raw": "Civil Code section 2168",
+      "span": [
+        25,
+        48
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/2168"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "2085",
+      "display": "Civil Code section 2085",
+      "raw": "Civil Code section 2085",
+      "span": [
+        19,
+        42
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/2085"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Ski Corporation v. Superior Court",
+      "year": 1992,
+      "volume": 2,
+      "reporter": "Cal.App.4th",
+      "page": 1499,
+      "pin": "1508",
+      "raw": "Ski Corporation v. Superior Court (1992) 2 Cal. App.4th 1499, 1508",
+      "span": [
+        223,
+        289
+      ],
+      "role": "sources",
+      "case_key": "2 Cal.App.4th 1499"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

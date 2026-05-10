@@ -1,0 +1,89 @@
+{
+  "id": "CACI-905",
+  "edition": "2026",
+  "number": "905",
+  "title": "Duty of Common Carrier Toward Minor Passengers",
+  "title_full": "Duty of Common Carrier Toward Minor Passengers",
+  "title_statute": null,
+  "series": "900",
+  "series_title": "Series 900 Common Carriers",
+  "page_start": 693,
+  "page_end": 693,
+  "instruction_text": "905. Duty of Common Carrier Toward Minor Passengers\nIf a common carrier voluntarily accepts a child as a passenger, it must\nuse as much additional care as is reasonably necessary to ensure the\nchild's safety.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "A common carrier owes a greater duty of care to minor passengers: \"It is settled\nlaw that a carrier owes a greater quantum of care to a child of tender years\naccepted by it as a passenger than it would to an adult.\" ( Brizzolari v. Market\nStreet Ry. Co. (1935) 7 Cal. App.2d 246, 248 [46 P.2d 783].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Brizzolari v. Market Street Ry. Co.",
+          "year": 1935,
+          "volume": 7,
+          "reporter": "Cal.App.2d",
+          "page": 246,
+          "pin": "248",
+          "raw": "Brizzolari v. Market Street Ry. Co. (1935) 7 Cal. App.2d 246, 248",
+          "span": [
+            218,
+            283
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In this instruction, the court admonished the jury that a carrier of passengers\nowes to children who are passengers on its cars a greater degree of care than it\nowes to adults. Such an instruction is proper.\" ( Mudrick v. Market Street Ry. Co.\n(1938) 11 Cal. 2d 724, 734 [81 P.2d 950].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Mudrick v. Market Street Ry. Co.",
+          "year": 1938,
+          "volume": 11,
+          "reporter": "Cal.2d",
+          "page": 724,
+          "pin": "734",
+          "raw": "Mudrick v. Market Street Ry. Co. (1938) 11 Cal. 2d 724, 734",
+          "span": [
+            212,
+            271
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "2 Levy et al., California Torts, Ch. 23, Carriers, §23.02[6] (Matthew Bender)\n11 California Forms of Pleading and Practice, Ch. 109, Carriers (Matthew Bender)\nCalifornia Civil Practice: Torts §28:6 (Thomson Reuters)\n619",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Brizzolari v. Market Street Ry. Co.",
+      "year": 1935,
+      "volume": 7,
+      "reporter": "Cal.App.2d",
+      "page": 246,
+      "pin": "248",
+      "raw": "Brizzolari v. Market Street Ry. Co. (1935) 7 Cal. App.2d 246, 248",
+      "span": [
+        218,
+        283
+      ],
+      "role": "sources",
+      "case_key": "7 Cal.App.2d 246"
+    },
+    {
+      "name": "Mudrick v. Market Street Ry. Co.",
+      "year": 1938,
+      "volume": 11,
+      "reporter": "Cal.2d",
+      "page": 724,
+      "pin": "734",
+      "raw": "Mudrick v. Market Street Ry. Co. (1938) 11 Cal. 2d 724, 734",
+      "span": [
+        212,
+        271
+      ],
+      "role": "sources",
+      "case_key": "11 Cal.2d 724"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

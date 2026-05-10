@@ -1,0 +1,86 @@
+{
+  "id": "CACI-3330",
+  "edition": "2026",
+  "number": "3330",
+  "title": "Affirmative Defense to Locality Discrimination Claim—CostJustification",
+  "title_full": "Affirmative Defense to Locality Discrimination Claim—CostJustification",
+  "title_statute": null,
+  "series": "3300",
+  "series_title": "Series 3300 Unfair Practices Act",
+  "page_start": 2447,
+  "page_end": 2447,
+  "instruction_text": "3330. Affirmative Defense to Locality Discrimination Claim–Cost\nJustiﬁcation\n[Name of defendant ] claims that any locality discrimination proven by\n[name of plaintiff ] is within the law. To succeed, [ name of defendant ] must\nprove that the difference in [his/her/ nonbinary pronoun/its] price is\njustiﬁed by: [ insert one or more of the following: ]\n[A difference in the [grade/quality/quantity] of the [ product] [he/she/\nnonbinary pronoun/it] sold in the different locations;] [or]\n[The difference in the cost of the [manufacture/sale/delivery] of [his/\nher/nonbinary pronoun/its] [ product] in the different locations;] [or]\n[A difference in the actual cost of transportation from the place the\n[product] was [produced/manufactured/shipped] to the place where\nthe [ product] was sold.]",
+  "directions_for_use": "This defense applies to locality discrimination only.",
+  "sources_and_authority": [
+    {
+      "raw": "Costs Justiﬁcation for Locality Discrimination. Business and Professions Code\nsection 17041.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "17041",
+          "display": "Business and Professions Code section 17041",
+          "raw": "Business and Professions Code\nsection 17041",
+          "span": [
+            48,
+            91
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"We . . . conclude that appellants are not required to negative the exception for\ndifferences in grade or other enumerated factors found in section 17041, and\ndeem the complaint sufficient to withstand demurrer without such allegations.\"\n(G.H.I.I. v. Mts, Inc. (1983) 147 Cal. App.3d 256, 273 [195 Cal. Rptr. 211],\ninternal citations and footnote omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "G.H.I.I. v. Mts, Inc.",
+          "year": 1983,
+          "volume": 147,
+          "reporter": "Cal.App.3d",
+          "page": 256,
+          "pin": "273",
+          "raw": "G.H.I.I. v. Mts, Inc. (1983) 147 Cal. App.3d 256, 273",
+          "span": [
+            239,
+            292
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§623–629\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.153 (Matthew Bender)\n49 California Forms of Pleading and Practice, Ch. 565, Unfair Competition ,\n§565.53 (Matthew Bender)\n23 California Points and Authorities, Ch. 235, Unfair Competition , §235.20\n(Matthew Bender)\n1 Matthew Bender Practice Guide: California Unfair Competition and Business\nTorts, Ch. 5, Antitrust, 5.46[2], 5.100[2]\n561",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "17041",
+      "display": "Business and Professions Code section 17041",
+      "raw": "Business and Professions Code\nsection 17041",
+      "span": [
+        48,
+        91
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/17041"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "G.H.I.I. v. Mts, Inc.",
+      "year": 1983,
+      "volume": 147,
+      "reporter": "Cal.App.3d",
+      "page": 256,
+      "pin": "273",
+      "raw": "G.H.I.I. v. Mts, Inc. (1983) 147 Cal. App.3d 256, 273",
+      "span": [
+        239,
+        292
+      ],
+      "role": "sources",
+      "case_key": "147 Cal.App.3d 256"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

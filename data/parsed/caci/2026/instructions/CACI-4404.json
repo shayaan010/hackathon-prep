@@ -1,0 +1,65 @@
+{
+  "id": "CACI-4404",
+  "edition": "2026",
+  "number": "4404",
+  "title": "Reasonable Efforts to Protect Secrecy",
+  "title_full": "Reasonable Efforts to Protect Secrecy",
+  "title_statute": null,
+  "series": "4400",
+  "series_title": "Series 4400 Trade Secrets",
+  "page_start": 3128,
+  "page_end": 3129,
+  "instruction_text": "4404. Reasonable Efforts to Protect Secrecy\nTo establish that the [ select short term to describe, e.g., information ] [is/\nare] [a] trade secret[s], [ name of plaintiff ] must prove that\n[he/she/nonbinary pronoun/it] made reasonable efforts under the\ncircumstances to keep it secret. \"Reasonable efforts\" are the efforts that\nwould be made by a reasonable [person/business] in the same situation\nand having the same knowledge and resources as [ name of plaintiff ],\nexercising due care to protect important information of the same kind.\n[This requirement applies separately to each item that [ name of plaintiff ]\nclaims to be a trade secret.]\nIn determining whether or not [ name of plaintiff ] made reasonable efforts\nto keep the [ e.g., information ] secret, you should consider all of the facts\nand circumstances. Among the factors you may consider are the\nfollowing:\n[a. Whether documents or computer ﬁles containing the [ e.g.,\ninformation] were marked with conﬁdentiality warnings;]\n[b. Whether [ name of plaintiff ] instructed [his/her/ nonbinary pronoun /\nits] employees to treat the [ e.g., information ] as conﬁdential;]\n[c. Whether [ name of plaintiff ] restricted access to the [ e.g.,\ninformation] to persons who had a business reason to know the\ninformation;]\n[d. Whether [ name of plaintiff ] kept the [ e.g., information ] in a\nrestricted or secured area;]\n[e. Whether [ name of plaintiff ] required employees or others with\naccess to the [ e.g., information ] to sign conﬁdentiality or\nnondisclosure agreements;]\n[f. Whether [ name of plaintiff ] took any action to protect the speciﬁc\n[e.g., information ], or whether it relied on general measures taken\nto protect its business information or assets;]\n[g. The extent to which any general measures taken by [ name of\nplaintiff] would prevent the unauthorized disclosure of the [ e.g.,\ninformation];]\n[h. Whether there were other reasonable measures available to [ name\nof plaintiff ] that [he/she/ nonbinary pronoun /it] did not take;]\n[i. Specify other factor(s). ]\nThe presence or absence of any one or more of these factors is not\nnecessarily determinative.\n1242",
+  "directions_for_use": "Give this instruction with CACI No. 4402, \"Trade Secret\" Deﬁned , to guide the\njury with regard to element 3 of that instruction, that the plaintiff made reasonable\nefforts to keep the information secret. Read only the factors supported by the\nevidence in the case. Use factor i to present additional factors.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Reasonable efforts to maintain secrecy have been held to include advising\nemployees of the existence of a trade secret, limiting access to a trade secret on\n'need to know basis,' and controlling plant access. [¶] . . . Requiring employees\nto sign conﬁdentiality agreements is a reasonable step to ensure secrecy.\" ( Whyte\nv. Schlage Lock Co. (2002) 101 Cal. App.4th 1443, 1454 [125 Cal. Rptr.2d 277,\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Whyte v. Schlage Lock Co.",
+          "year": 2002,
+          "volume": 101,
+          "reporter": "Cal.App.4th",
+          "page": 1443,
+          "pin": "1454",
+          "raw": "Whyte v. Schlage Lock Co. (2002) 101 Cal. App.4th 1443, 1454",
+          "span": [
+            317,
+            377
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A person or entity claiming a trade secret is also required to make 'efforts that\nare reasonable under the circumstances to maintain its secrecy.' A leading treatise\nhas collected the cases of successful and unsuccessful claims of secrecy\nprotection; among the factors repeatedly noted are restricting access and physical\nsegregation of the information, conﬁdentiality agreements with employees, and\nmarking documents with warnings or reminders of conﬁdentiality.\" ( In re\nProvidian Credit Card Cases (2002) 96 Cal. App.4th 292, 304 [116 Cal. Rptr.2d\n833], referring to Trade Secrets Practice in California (Cont.Ed.Bar 2d ed.)\n§§4.9–4.10.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In addition to possessing actual or potential economic value, the other part of\nthe deﬁnition of a trade secret is that the information must have been protected\nby 'efforts that are reasonable under the circumstances to maintain its secrecy.'\n[W]hether a party claiming a trade secret undertook reasonable efforts to\nmaintain secrecy is a question of fact, and it may be implicit in a determination\nthat the information does not qualify as a trade secret, also a question of fact.\"\n(In re Providian Credit Card Cases, supra, 96 Cal. App.4th at p. 306, internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "Advising California Employers and Employees (Cont.Ed.Bar) Ch. 11, Reasonable\nEffort to Maintain Secrecy, §11.6\nTrade Secrets Practice in California (Cont.Ed.Bar 2d ed.) §§4.9–4.10\n1 Milgrim on Trade Secrets, Ch. 1, Deﬁnitional Aspects , §§1.03–1.05 (Matthew\nBender)\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.52 (Matthew Bender)\nEdelson & Kay, eds., Trade Secret Litigation and Protection in California (State Bar\nof California 2009) §1.03(4)\nTRADE SECRETS CACI No. 4404\n1243",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Whyte v. Schlage Lock Co.",
+      "year": 2002,
+      "volume": 101,
+      "reporter": "Cal.App.4th",
+      "page": 1443,
+      "pin": "1454",
+      "raw": "Whyte v. Schlage Lock Co. (2002) 101 Cal. App.4th 1443, 1454",
+      "span": [
+        317,
+        377
+      ],
+      "role": "sources",
+      "case_key": "101 Cal.App.4th 1443"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

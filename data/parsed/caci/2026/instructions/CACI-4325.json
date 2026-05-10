@@ -1,0 +1,120 @@
+{
+  "id": "CACI-4325",
+  "edition": "2026",
+  "number": "4325",
+  "title": "Affirmative Defense—Failure to Comply With Rent Control Ordinance/Tenant Protection Act",
+  "title_full": "Affirmative Defense—Failure to Comply With Rent Control Ordinance/Tenant Protection Act",
+  "title_statute": null,
+  "series": "4300",
+  "series_title": "Series 4300 Unlawful Detainer",
+  "page_start": 3079,
+  "page_end": 3080,
+  "instruction_text": "4325. Affirmative Defense–Failure to Comply With Rent Control\nOrdinance/Tenant Protection Act\n[Name of defendant ] claims that [ name of plaintiff ] is not entitled to evict\n[him/her/nonbinary pronoun] because [ name of plaintiff ] violated [[ insert\nname of local governmental entity ]'s rent control law]/[the Tenant\nProtection Act]. To succeed on this defense, [ name of defendant ] must\nprove the following:\n[Insert elements of rent control defense. ]",
+  "directions_for_use": "Insert the elements of the Tenant Protection Act of 2019 and/or the relevant local\nrent control law into this instruction.",
+  "sources_and_authority": [
+    {
+      "raw": "Tenant Protection Act of 2019. Civil Code section 1946.2.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1946.2",
+          "display": "Civil Code section 1946.2",
+          "raw": "Civil Code section 1946.2",
+          "span": [
+            31,
+            56
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he statutory remedies for recovery of possession and of unpaid rent do not\npreclude a defense based on municipal rent control legislation enacted pursuant\nto the police power imposing rent ceilings and limiting the grounds for eviction\nfor the purpose of enforcing those rent ceilings.\" ( Birkenfeld v. Berkeley (1976)\n17 Cal. 3d 129, 149 [130 Cal. Rptr. 465, 550 P.2d 1001], internal citations and\nfootnote omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Birkenfeld v. Berkeley",
+          "year": 1976,
+          "volume": 17,
+          "reporter": "Cal.3d",
+          "page": 129,
+          "pin": "149",
+          "raw": "Birkenfeld v. Berkeley (1976) 17 Cal. 3d 129, 149",
+          "span": [
+            293,
+            342
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Although municipalities have power to enact ordinances creating substantive\ndefenses to eviction, such legislation is invalid to the extent it conﬂicts with\ngeneral state law.\" ( Fisher v. City of Berkeley (1984) 37 Cal. 3d 644, 697 [209\nCal. Rptr. 682, 693 P.2d 261], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Fisher v. City of Berkeley",
+          "year": 1984,
+          "volume": 37,
+          "reporter": "Cal.3d",
+          "page": 644,
+          "pin": "697",
+          "raw": "Fisher v. City of Berkeley (1984) 37 Cal. 3d 644, 697",
+          "span": [
+            180,
+            233
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "12 Witkin, Summary of California Law (11th ed. 2017) Real Property, §618\n1 California Landlord-Tenant Practice (Cont.Ed.Bar 2d ed.) §§7.53–7.76\n2 California Eviction Defense Manual (Cont.Ed.Bar 2d ed.) Ch. 17\n7 California Real Estate Law and Practice, Ch. 200, Termination: Causes and\nProcedures, §200.21 (Matthew Bender)\n7 California Real Estate Law and Practice, Ch. 210, Unlawful Detainer , §210.64\n(Matthew Bender)\nMatthew Bender Practice Guide: California Landlord-Tenant Litigation, Ch. 5,\nUnlawful Detainer , 5.21\n29 California Forms of Pleading and Practice, Ch. 332, Landlord and Tenant: The\nTenancy Actions, §332.28 (Matthew Bender)\n29 California Forms of Pleading and Practice, Ch. 333, Landlord and Tenant:\n1193\nEviction Actions , §333.10 (Matthew Bender)\n23 California Points and Authorities, Ch. 236, Unlawful Detainer , §236.74\n(Matthew Bender)\nMiller & Starr California Real Estate 4th, §§34:204, 34:256 (Thomson Reuters)\nCACI No. 4325 UNLAWFUL DETAINER\n1194",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1946.2",
+      "display": "Civil Code section 1946.2",
+      "raw": "Civil Code section 1946.2",
+      "span": [
+        31,
+        56
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1946.2"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Birkenfeld v. Berkeley",
+      "year": 1976,
+      "volume": 17,
+      "reporter": "Cal.3d",
+      "page": 129,
+      "pin": "149",
+      "raw": "Birkenfeld v. Berkeley (1976) 17 Cal. 3d 129, 149",
+      "span": [
+        293,
+        342
+      ],
+      "role": "sources",
+      "case_key": "17 Cal.3d 129"
+    },
+    {
+      "name": "Fisher v. City of Berkeley",
+      "year": 1984,
+      "volume": 37,
+      "reporter": "Cal.3d",
+      "page": 644,
+      "pin": "697",
+      "raw": "Fisher v. City of Berkeley (1984) 37 Cal. 3d 644, 697",
+      "span": [
+        180,
+        233
+      ],
+      "role": "sources",
+      "case_key": "37 Cal.3d 644"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

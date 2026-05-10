@@ -1,0 +1,77 @@
+{
+  "id": "CACI-3516",
+  "edition": "2026",
+  "number": "3516",
+  "title": "View",
+  "title_full": "View",
+  "title_statute": null,
+  "series": "3500",
+  "series_title": "Series 3500 Eminent Domain",
+  "page_start": 2589,
+  "page_end": 2589,
+  "instruction_text": "3516. View\nY ou have viewed the property and its surrounding area. The purpose of\nthis view was to help you understand and weigh the testimony of the\nwitnesses.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "View of Property. Evidence Code section 813(b).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "813",
+          "display": "Evidence Code section 813",
+          "raw": "Evidence Code section 813(b)",
+          "span": [
+            18,
+            46
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "813",
+          "display": "Evidence Code section 813(b)",
+          "raw": "Evidence Code section 813(b)",
+          "span": [
+            18,
+            46
+          ],
+          "subsection": "b"
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "2 Witkin, California Evidence (5th ed. 2012) Demonstrative, Experimental, and\nScientiﬁc Evidence, §33\n1 Condemnation Practice in California (Cont.Ed.Bar 3d ed.) §9.95\n703",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "813",
+      "display": "Evidence Code section 813",
+      "raw": "Evidence Code section 813(b)",
+      "span": [
+        18,
+        46
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/813"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "813",
+      "display": "Evidence Code section 813(b)",
+      "raw": "Evidence Code section 813(b)",
+      "span": [
+        18,
+        46
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/EVID/813/b"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

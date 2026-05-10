@@ -1,0 +1,151 @@
+{
+  "id": "CACI-712",
+  "edition": "2026",
+  "number": "712",
+  "title": "Affirmative Defense—Failure to Wear a Seat Belt",
+  "title_full": "Affirmative Defense—Failure to Wear a Seat Belt",
+  "title_statute": null,
+  "series": "700",
+  "series_title": "Series 700 Motor Vehicles and Highway Safety",
+  "page_start": 639,
+  "page_end": 639,
+  "instruction_text": "712. Affirmative Defense–Failure to Wear a Seat Belt\n[Name of defendant ] claims that [ name of plaintiff ] was negligent because\n[he/she/nonbinary pronoun] failed to wear a seat belt. To succeed, [ name of\ndefendant] must prove all of the following:\n1. That a working seat belt was available;\n2. That a reasonably careful person in [ name of plaintiff ]'s situation\nwould have used the seat belt;\n3. That [ name of plaintiff ] failed to wear a seat belt; and\n4. That [ name of plaintiff ]'s injuries would have been avoided or less\nsevere if [he/she/ nonbinary pronoun ] had used the seat belt.\n[In deciding whether a reasonably careful person would have used a seat\nbelt, you may consider Vehicle Code section 27315, which states: [ insert\npertinent provision].]",
+  "directions_for_use": "Note that the Motor Vehicle Safety Act (V eh. Code, §27315) applies only to\npersons 16 years or older. (V eh. Code, §27315(d)(1).) No case law regarding\nwhether persons under 16 can be found comparatively negligent for failing to wear\na seat belt has been found.",
+  "sources_and_authority": [
+    {
+      "raw": "Failure to Wear Seat Belt as Negligence. Vehicle Code section 27315(i).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "27315",
+          "display": "Vehicle Code section 27315",
+          "raw": "Vehicle Code section 27315(i)",
+          "span": [
+            41,
+            70
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "27315",
+          "display": "Vehicle Code section 27315(i)",
+          "raw": "Vehicle Code section 27315(i)",
+          "span": [
+            41,
+            70
+          ],
+          "subsection": "i"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Defendants . . . are required to prove two issues of fact: (1) the defendant must\nshow whether in the exercise of ordinary care the plaintiff should have used the\nseat belt which was available to him. . . . (2) The defendant must show what the\nconsequence to the plaintiff would have been had seat belts been used.\"\n(Franklin v. Gibson (1982) 138 Cal. App.3d 340, 343 [188 Cal. Rptr. 23].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Franklin v. Gibson",
+          "year": 1982,
+          "volume": 138,
+          "reporter": "Cal.App.3d",
+          "page": 340,
+          "pin": "343",
+          "raw": "Franklin v. Gibson (1982) 138 Cal. App.3d 340, 343",
+          "span": [
+            318,
+            368
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Upon a retrial the court or jury will determine whether in the exercise of\nordinary care [plaintiff] should have used the seat belt; expert testimony will be\nrequired to prove whether [plaintiff] would have been injured, and, if so, the\nextent of the injuries he would have sustained if he had been using the seat\nbelt . . . .\" ( Truman v. V argas (1969) 275 Cal. App.2d 976, 983 [80 Cal. Rptr.\n373].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "In Housley v. Godinez (1992) 4 Cal. App.4th 737, 747 [6 Cal. Rptr.2d 111], the\ncourt approved of the following jury instruction, which was read in addition to\nsection 27315: \"The Defendants have raised the seat belt defense in this case.\nFirst, you must decide whether in the exercise of ordinary care, the Plaintiff\n565",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "In Housley v. Godinez",
+          "year": 1992,
+          "volume": 4,
+          "reporter": "Cal.App.4th",
+          "page": 737,
+          "pin": "747",
+          "raw": "In Housley v. Godinez (1992) 4 Cal. App.4th 737, 747",
+          "span": [
+            0,
+            52
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "27315",
+      "display": "Vehicle Code section 27315",
+      "raw": "Vehicle Code section 27315(i)",
+      "span": [
+        41,
+        70
+      ],
+      "role": "sources",
+      "statute_key": "CA/VEH/27315"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "27315",
+      "display": "Vehicle Code section 27315(i)",
+      "raw": "Vehicle Code section 27315(i)",
+      "span": [
+        41,
+        70
+      ],
+      "subsection": "i",
+      "role": "sources",
+      "statute_key": "CA/VEH/27315/i"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Franklin v. Gibson",
+      "year": 1982,
+      "volume": 138,
+      "reporter": "Cal.App.3d",
+      "page": 340,
+      "pin": "343",
+      "raw": "Franklin v. Gibson (1982) 138 Cal. App.3d 340, 343",
+      "span": [
+        318,
+        368
+      ],
+      "role": "sources",
+      "case_key": "138 Cal.App.3d 340"
+    },
+    {
+      "name": "In Housley v. Godinez",
+      "year": 1992,
+      "volume": 4,
+      "reporter": "Cal.App.4th",
+      "page": 737,
+      "pin": "747",
+      "raw": "In Housley v. Godinez (1992) 4 Cal. App.4th 737, 747",
+      "span": [
+        0,
+        52
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.App.4th 737"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

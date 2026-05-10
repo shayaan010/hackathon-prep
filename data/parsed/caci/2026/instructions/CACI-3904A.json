@@ -1,0 +1,168 @@
+{
+  "id": "CACI-3904A",
+  "edition": "2026",
+  "number": "3904A",
+  "title": "Present Cash Value",
+  "title_full": "Present Cash Value",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2747,
+  "page_end": 2749,
+  "instruction_text": "3904A. Present Cash Value\n[Name of defendant ] claims that [ name of plaintiff ]'s future [economic]\ndamages for [loss of earnings/future medical expenses/lost proﬁts/[ insert\nother economic damages ]], if any, should be reduced to present cash\nvalue. This is because money received now will, through investment,\ngrow to a larger amount in the future. Present cash value is the amount\nof money that, if reasonably invested today, will provide [ name of\nplaintiff] with the amount of [his/her/ nonbinary pronoun/its] future\ndamages.\n[[Name of defendant ] must prove, through expert testimony, the present\ncash value of [ name of plaintiff ]'s future [economic] damages. It is up to\nyou to decide the present cash value of [ name of plaintiff ]'s future\n[economic] damages in light of all the evidence presented by the parties.]\n[If you decide that [ name of plaintiff ]'s harm includes future [economic]\ndamages for [loss of earnings/future medical expenses/lost proﬁts/[ insert\nother economic damages ]], then you must reduce the amount of those\nfuture damages to their present cash value. Y ou must [use the interest\nrate of percent/ [and] [ specify other stipulated information ]] as\nagreed to by the parties in determining the present cash value of future\n[economic] damages.]\n\nCACI No. 3904 December 2010; Revised June 2013, May 2020, May 2021",
+  "directions_for_use": "Give this instruction if future economic damages are sought and there is evidence\nfrom which a reduction to present value can be made. Include \"economic\" if future\nnoneconomic damages are also sought. Future noneconomic damages are not\nreduced to present cash value because the amount that the jury is to award should\nalready encompass the idea of today's dollars for tomorrow's loss. (See Salgado v.\nCounty of Los Angeles (1998) 19 Cal. 4th 629, 646–647 [80 Cal. Rptr.2d 46, 967 P.2d\n585]; CACI No. 3905A, Physical Pain, Mental Suffering, and Emotional Distress\n(Noneconomic Damage) .)\nThe defendant bears the burden of presenting expert evidence of an appropriate\npresent value calculation, including the appropriate discount rate, to enable the fact\nﬁnder to make a rational determination on the issue. ( Lewis v. Ukran (2019) 36\nCal. App.5th 886, 896 [248 Cal. Rptr.3d 839].) Unless there is a stipulation, expert\ntestimony is required to accurately establish present values for future economic\nlosses. ( Id.)\nGive the last bracketed paragraph if there has been a stipulation as to the interest\nrate to use or any other facts related to present cash value, and omit the second\n861\nparagraph to account for the parties' stipulation.\nThe parties may stipulate to use present-value tables to assist the jury in making its\ndetermination of present cash value. Tables, worksheets, and an instruction on how\nto use them are provided in CACI No. 3904B, Use of Present-V alue Tables.",
+  "sources_and_authority": [
+    {
+      "raw": "\"The present value of a gross award of future damages is that sum of money\nprudently invested at the time of judgment which will return, over the period the\nfuture damages are incurred, the gross amount of the award. 'The concept of\npresent value recognizes that money received after a given period is worth less\nthan the same amount received today. This is the case in part because money\nreceived today can be used to generate additional value in the interim.' The\npresent value of an award of future damages will vary depending on the gross\namount of the award, and the timing and amount of the individual payments.\"\n(Holt v. Regents of the University of California (1999) 73 Cal. App.4th 871, 878\n[86 Cal. Rptr.2d 752], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Holt v. Regents of the University of California",
+          "year": 1999,
+          "volume": 73,
+          "reporter": "Cal.App.4th",
+          "page": 871,
+          "pin": "878",
+          "raw": "Holt v. Regents of the University of California (1999) 73 Cal. App.4th 871, 878",
+          "span": [
+            620,
+            699
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]n a contested case, a party (typically a defendant) seeking to reduce an award\nof future damages to present value bears the burden of proving an appropriate\nmethod of doing so, including an appropriate discount rate. A party (typically a\nplaintiff) who seeks an upward adjustment of a future damages award to account\nfor inﬂation bears the burden of proving an appropriate method of doing so,\nincluding an appropriate inﬂation rate. This aligns the burdens of proof with the\nparties' respective economic interests. A trier of fact should not reduce damages\nto present value, or adjust for inﬂation, absent such evidence or a stipulation of\nthe parties.\" ( Lewis, supra, 36 Cal. App.5th at p. 889.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]e hold a defendant seeking reduction to present value of a sum awarded for\nfuture damages has the burden of presenting expert evidence of an appropriate\npresent value calculation, including the appropriate discount rate, to enable the\nfact ﬁnder to make a rational determination on the issue.\" ( Lewis, supra, 36\nCal. App.5th at p. 896.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Exact actuarial computation should result in a lump-sum, present-value award\nwhich if prudently invested will provide the beneﬁciaries with an investment\nreturn allowing them to regularly withdraw matching support money so that, by\nreinvesting the surplus earnings during the earlier years of the expected support\nperiod, they may maintain the anticipated future support level throughout the\nperiod and, upon the last withdrawal, have depleted both principal and interest.\"\n(Canavin v. Paciﬁc Southwest Airlines (1983) 148 Cal. App.3d 512, 521 [196\nCal. Rptr. 82].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Canavin v. Paciﬁc Southwest Airlines",
+          "year": 1983,
+          "volume": 148,
+          "reporter": "Cal.App.3d",
+          "page": 512,
+          "pin": "521",
+          "raw": "Canavin v. Paciﬁc Southwest Airlines (1983) 148 Cal. App.3d 512, 521",
+          "span": [
+            476,
+            544
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]t is not a violation of the plaintiff's jury trial right for the court to submit\nonly the issue of the gross amount of future economic damages to the jury, with\nthe timing of periodic payments–and hence their present value–to be set by\nthe court in the exercise of its sound discretion.\" ( Salgado, supra, 19 Cal. 4th at\np. 649, internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Neither party introduced any evidence of compounding or discounting factors,\nCACI No. 3904A DAMAGES\n862\nincluding how to calculate an appropriate rate of return throughout the relevant\nyears. Under such circumstances, the 'jury would have been put to sheer\nspeculation in determining . . . \"the present sum of money which . . . will pay\nto the plaintiff . . . the equivalent of his [future economic] loss . . . .\" ' \"\n(Schiernbeck v. Haight (1992) 7 Cal. App.4th 869, 877 [9 Cal. Rptr.2d 716],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Schiernbeck v. Haight",
+          "year": 1992,
+          "volume": 7,
+          "reporter": "Cal.App.4th",
+          "page": 869,
+          "pin": "877",
+          "raw": "Schiernbeck v. Haight (1992) 7 Cal. App.4th 869, 877",
+          "span": [
+            420,
+            472
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1719\nCalifornia Tort Damages (Cont.Ed.Bar) Bodily Injury, §1.96\n4 Levy et al., California Torts, Ch. 52, Medical Expenses and Economic Loss ,\n§§52.21–52.22 (Matthew Bender)\n15 California Forms of Pleading and Practice, Ch. 177, Damages, §177.46\n(Matthew Bender)\n1 California Civil Practice: Torts §5:22 (Thomson Reuters)\nDAMAGES CACI No. 3904A\n863",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Holt v. Regents of the University of California",
+      "year": 1999,
+      "volume": 73,
+      "reporter": "Cal.App.4th",
+      "page": 871,
+      "pin": "878",
+      "raw": "Holt v. Regents of the University of California (1999) 73 Cal. App.4th 871, 878",
+      "span": [
+        620,
+        699
+      ],
+      "role": "sources",
+      "case_key": "73 Cal.App.4th 871"
+    },
+    {
+      "name": "Canavin v. Paciﬁc Southwest Airlines",
+      "year": 1983,
+      "volume": 148,
+      "reporter": "Cal.App.3d",
+      "page": 512,
+      "pin": "521",
+      "raw": "Canavin v. Paciﬁc Southwest Airlines (1983) 148 Cal. App.3d 512, 521",
+      "span": [
+        476,
+        544
+      ],
+      "role": "sources",
+      "case_key": "148 Cal.App.3d 512"
+    },
+    {
+      "name": "Schiernbeck v. Haight",
+      "year": 1992,
+      "volume": 7,
+      "reporter": "Cal.App.4th",
+      "page": 869,
+      "pin": "877",
+      "raw": "Schiernbeck v. Haight (1992) 7 Cal. App.4th 869, 877",
+      "span": [
+        420,
+        472
+      ],
+      "role": "sources",
+      "case_key": "7 Cal.App.4th 869"
+    },
+    {
+      "name": "See Salgado v. County of Los Angeles",
+      "year": 1998,
+      "volume": 19,
+      "reporter": "Cal.4th",
+      "page": 629,
+      "pin": "646–647",
+      "raw": "See Salgado v. County of Los Angeles (1998) 19 Cal. 4th 629, 646–647",
+      "span": [
+        386,
+        454
+      ],
+      "role": "directions",
+      "case_key": "19 Cal.4th 629"
+    },
+    {
+      "name": "Lewis v. Ukran",
+      "year": 2019,
+      "volume": 36,
+      "reporter": "Cal.App.5th",
+      "page": 886,
+      "pin": "896",
+      "raw": "Lewis v. Ukran (2019) 36 Cal. App.5th 886, 896",
+      "span": [
+        808,
+        854
+      ],
+      "role": "directions",
+      "case_key": "36 Cal.App.5th 886"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

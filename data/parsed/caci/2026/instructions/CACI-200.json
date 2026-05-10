@@ -1,0 +1,202 @@
+{
+  "id": "CACI-200",
+  "edition": "2026",
+  "number": "200",
+  "title": "Obligation to Prove—More Likely True Than Not True",
+  "title_full": "Obligation to Prove—More Likely True Than Not True",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 116,
+  "page_end": 117,
+  "instruction_text": "200. Obligation to Prove–More Likely True Than Not True\nThe parties must persuade you, by the evidence presented in court, that\nwhat they are required to prove is more likely to be true than not true.\nThis is referred to as \"the burden of proof.\"\nAfter weighing all of the evidence, if you cannot decide that something is\nmore likely to be true than not true, you must conclude that the party\ndid not prove it. Y ou should consider all the evidence, no matter which\nparty produced the evidence.\nIn criminal trials, the prosecution must prove that the defendant is guilty\nbeyond a reasonable doubt. But in civil trials, such as this one, the party\nwho is required to prove something need prove only that it is more likely\nto be true than not true.",
+  "directions_for_use": "Evidence Code section 502 requires the court to instruct the jury regarding which\nparty bears the burden of proof on each issue and the requisite degree of proof.\nFor an instruction on clear and convincing evidence, see CACI No. 201, Highly\nProbable–Clear and Convincing Proof.",
+  "sources_and_authority": [
+    {
+      "raw": "Burden of Proof–Preponderance of Evidence. Evidence Code section 115.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "115",
+          "display": "Evidence Code section 115",
+          "raw": "Evidence Code section 115",
+          "span": [
+            43,
+            68
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Party With Burden of Proof. Evidence Code section 500.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "500",
+          "display": "Evidence Code section 500",
+          "raw": "Evidence Code section 500",
+          "span": [
+            28,
+            53
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Each party is entitled to the beneﬁt of all the evidence, including the evidence\nproduced by an adversary. ( Williams v. Barnett (1955) 135 Cal. App.2d 607, 612\n[287 P.2d 789]; 7 Witkin, California Procedure (4th ed. 1997) Trial, §305, p.\n352.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Williams v. Barnett",
+          "year": 1955,
+          "volume": 135,
+          "reporter": "Cal.App.2d",
+          "page": 607,
+          "pin": "612",
+          "raw": "Williams v. Barnett (1955) 135 Cal. App.2d 607, 612",
+          "span": [
+            109,
+            160
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "The general rule in California is that \" '[i]ssues of fact in civil cases are\ndetermined by a preponderance of testimony.' \" ( Weiner v. Fleischman (1991) 54\nCal. 3d 476, 483 [286 Cal. Rptr. 40, 816 P.2d 892], citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Weiner v. Fleischman",
+          "year": 1991,
+          "volume": 54,
+          "reporter": "Cal.3d",
+          "page": 476,
+          "pin": "483",
+          "raw": "Weiner v. Fleischman (1991) 54 Cal. 3d 476, 483",
+          "span": [
+            127,
+            174
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "The preponderance-of-the-evidence standard \"simply requires the trier of fact 'to\nbelieve that the existence of a fact is more probable than its nonexistence.' \" ( In\nre Angelia P . (1981) 28 Cal. 3d 908, 918 [171 Cal. Rptr. 637, 623 P.2d 198],\ncitation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Preponderance of the evidence\" \" 'means what it says, viz., that the evidence\non one side outweighs, preponderates over, is more than, the evidence on the\nother side, not necessarily in number of witnesses or quantity, but in its effect on\nthose to whom it is addressed.' \" ( Glage v. Hawes Firearms Co. (1990) 226\n42\nCal. App.3d 314, 325 [276 Cal. Rptr. 430] (quoting People v. Miller (1916) 171\nCal. 649, 652 [154 P.468] and holding that it was prejudicial misconduct for\njurors to refer to the dictionary for deﬁnition of the word \"preponderance\").)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Miller",
+          "year": 1916,
+          "volume": 171,
+          "reporter": "Cal.",
+          "page": 649,
+          "pin": "652",
+          "raw": "People v. Miller (1916) 171 Cal. 649, 652",
+          "span": [
+            370,
+            411
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, California Evidence (6th ed. 2023) Burden of Proof and Presumptions,\n§39\nJefferson, California Evidence Benchbook (3d ed. 1997) Ch. 45, Burdens of Proof\nand of Producing Evidence; Presumptions\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §§551.90, 551.92\n(Matthew Bender)\nEVIDENCE CACI No. 200\n43",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "115",
+      "display": "Evidence Code section 115",
+      "raw": "Evidence Code section 115",
+      "span": [
+        43,
+        68
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/115"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "500",
+      "display": "Evidence Code section 500",
+      "raw": "Evidence Code section 500",
+      "span": [
+        28,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/500"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "502",
+      "display": "Evidence Code section 502",
+      "raw": "Evidence Code section 502",
+      "span": [
+        0,
+        25
+      ],
+      "role": "directions",
+      "statute_key": "CA/EVID/502"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Williams v. Barnett",
+      "year": 1955,
+      "volume": 135,
+      "reporter": "Cal.App.2d",
+      "page": 607,
+      "pin": "612",
+      "raw": "Williams v. Barnett (1955) 135 Cal. App.2d 607, 612",
+      "span": [
+        109,
+        160
+      ],
+      "role": "sources",
+      "case_key": "135 Cal.App.2d 607"
+    },
+    {
+      "name": "Weiner v. Fleischman",
+      "year": 1991,
+      "volume": 54,
+      "reporter": "Cal.3d",
+      "page": 476,
+      "pin": "483",
+      "raw": "Weiner v. Fleischman (1991) 54 Cal. 3d 476, 483",
+      "span": [
+        127,
+        174
+      ],
+      "role": "sources",
+      "case_key": "54 Cal.3d 476"
+    },
+    {
+      "name": "People v. Miller",
+      "year": 1916,
+      "volume": 171,
+      "reporter": "Cal.",
+      "page": 649,
+      "pin": "652",
+      "raw": "People v. Miller (1916) 171 Cal. 649, 652",
+      "span": [
+        370,
+        411
+      ],
+      "role": "sources",
+      "case_key": "171 Cal. 649"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

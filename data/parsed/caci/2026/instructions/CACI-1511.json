@@ -1,0 +1,41 @@
+{
+  "id": "CACI-1511",
+  "edition": "2026",
+  "number": "1511",
+  "title": "Wrongful Use of Civil Proceedings—Affirmative Defense—Attorney’s Reliance on Information Provided by Client",
+  "title_full": "Wrongful Use of Civil Proceedings—Affirmative Defense—Attorney’s Reliance on Information Provided by Client",
+  "title_statute": null,
+  "series": "1500",
+  "series_title": "Series 1500 Malicious Prosecution",
+  "page_start": 1032,
+  "page_end": 1032,
+  "instruction_text": "1511. Wrongful Use of Civil Proceedings–Affirmative\nDefense–Attorney's Reliance on Information Provided by Client\nWhen ﬁling a lawsuit for a client, an attorney is entitled to rely on the\nfacts and information provided by the client.\n[Name of attorney defendant ] claims that [he/she/ nonbinary pronoun] had\nreasonable grounds for bringing the lawsuit against [ name of plaintiff ]\nbecause [he/she/ nonbinary pronoun] was relying on facts and information\nprovided by [his/her/ nonbinary pronoun] client. To succeed on this\ndefense, [ name of attorney defendant ] must prove all of the following:\n1. That [ name of client ] provided [ name of attorney defendant ] with\nthe following information: [ specify information on which attorney\nrelied];\n2. That [ name of attorney defendant ] did not know that this\ninformation was false or inaccurate; and\n3. That [ name of attorney defendant ] relied on the facts and\ninformation provided by the client.",
+  "directions_for_use": "Give this instruction if an attorney defendant alleges reliance on information\nprovided by the client to establish probable cause. If a civil proceeding other than a\nlawsuit is involved, substitute the appropriate word for \"lawsuit\" throughout.\nThe presence or absence of probable cause on undisputed facts is a question of law\nfor the court. (See Sheldon Appel Co. v. Albert & Oliker (1989) 47 Cal. 3d 863, 881\n[254 Cal. Rptr. 336, 765 P.2d 498]; CACI No. 1501, Wrongful Use of Civil\nProceedings.) The questions here for the jury to resolve are what information was\ncommunicated to the attorney that established apparent probable cause, and whether\nthe attorney knew that the information was inaccurate.\nThe attorney generally has no obligation to investigate the information provided by\nthe client before ﬁling suit. (See Sheldon Appel Co., supra , 47 Cal. 3d at pp.\n882–883.) Therefore, there is no liability under a theory that the attorney should\nhave known that the information was false. Actual knowledge is required. But if the\nattorney later learns that the client has not been truthful, the attorney may no longer\nrely on the client's information to continue the lawsuit. ( Daniels v. Robbins (2010)\n182 Cal. App.4th 204, 223 [105 Cal. Rptr.3d 683].)",
+  "sources_and_authority": [
+    {
+      "raw": "\"In general, a lawyer 'is entitled to rely on information provided by the client.'\nIf the lawyer discovers the client's statements are false, the lawyer cannot rely\n958",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Daniels v. Robbins",
+      "year": 2010,
+      "volume": 182,
+      "reporter": "Cal.App.4th",
+      "page": 204,
+      "pin": "223",
+      "raw": "Daniels v. Robbins (2010) 182 Cal. App.4th 204, 223",
+      "span": [
+        1184,
+        1235
+      ],
+      "role": "directions",
+      "case_key": "182 Cal.App.4th 204"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

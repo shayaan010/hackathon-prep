@@ -1,0 +1,214 @@
+{
+  "id": "CACI-106",
+  "edition": "2026",
+  "number": "106",
+  "title": "Evidence",
+  "title_full": "Evidence",
+  "title_statute": null,
+  "series": "100",
+  "series_title": "Series 100 Pretrial",
+  "page_start": 95,
+  "page_end": 96,
+  "instruction_text": "106. Evidence\nY ou must decide what the facts are in this case only from the evidence\nyou see or hear during the trial. Sworn testimony, documents, or\nanything else may be admitted into evidence. Y ou may not consider as\nevidence anything that you see or hear when court is not in session, even\nsomething done or said by one of the parties, attorneys, or witnesses.\nWhat the attorneys say during the trial is not evidence. In their opening\nstatements and closing arguments, the attorneys will talk to you about\nthe law and the evidence. What the lawyers say may help you\nunderstand the law and the evidence, but their statements and\narguments are not evidence.\nThe attorneys' questions are not evidence. Only the witnesses' answers\nare evidence. Y ou should not think that something is true just because an\nattorney's question suggests that it is true. However, the attorneys for\nboth sides can agree that certain facts are true. This agreement is called\na \"stipulation.\" No other proof is needed and you must accept those facts\nas true in this trial.\nEach side has the right to object to evidence offered by the other side. If\nI do not agree with the objection, I will say it is overruled. If I overrule\nan objection, the witness will answer and you may consider the evidence.\nIf I agree with the objection, I will say it is sustained. If I sustain an\nobjection, you must ignore the question. If the witness did not answer,\nyou must not guess what that witness might have said or why I sustained\nthe objection. If the witness has already answered, you must ignore the\nanswer.\nAn attorney may make a motion to strike testimony that you have\nheard. If I grant the motion, you must totally disregard that testimony.\nY ou must treat it as though it did not exist.\n\nMay 2020",
+  "directions_for_use": "This instruction should be given as an introductory instruction.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Evidence\" Deﬁned. Evidence Code section 140.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "140",
+          "display": "Evidence Code section 140",
+          "raw": "Evidence Code section 140",
+          "span": [
+            19,
+            44
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Jury to Decide Questions of Fact. Evidence Code section 312.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "312",
+          "display": "Evidence Code section 312",
+          "raw": "Evidence Code section 312",
+          "span": [
+            34,
+            59
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Miscarriage of Justice. Evidence Code section 353.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "353",
+          "display": "Evidence Code section 353",
+          "raw": "Evidence Code section 353",
+          "span": [
+            24,
+            49
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "A stipulation in proper form is binding on the parties if it is within the authority\n21\nof the attorney. Properly stipulated facts may not be contradicted. ( Palmer v. City\nof Long Beach (1948) 33 Cal. 2d 134, 141–142 [199 P.2d 952].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Palmer v. City of Long Beach",
+          "year": 1948,
+          "volume": 33,
+          "reporter": "Cal.2d",
+          "page": 134,
+          "pin": "141–142",
+          "raw": "Palmer v. City of Long Beach (1948) 33 Cal. 2d 134, 141–142",
+          "span": [
+            158,
+            217
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Courts have held that \"attempts to suggest matters of an evidentiary nature to a\njury other than by the legitimate introduction into evidence is misconduct\nwhether by questions on cross-examination, argument or other means.\" ( Smith v.\nCovell (1980) 100 Cal. App.3d 947, 960 [161 Cal. Rptr. 377].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Smith v. Covell",
+          "year": 1980,
+          "volume": 100,
+          "reporter": "Cal.App.3d",
+          "page": 947,
+          "pin": "960",
+          "raw": "Smith v. Covell (1980) 100 Cal. App.3d 947, 960",
+          "span": [
+            227,
+            274
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Courts have stated that \"[t]he right to object on appeal to misconduct or\nimproper argument, even when prejudicial, is generally waived in the absence of\na proper objection and request the jury be admonished.\" ( Atkins v. Bisigier\n(1971) 16 Cal. App.3d 414, 427 [94 Cal. Rptr. 49]; Horn v. Atchison, Topeka &\nSanta Fe Ry. Co . (1964) 61 Cal. 2d 602, 610 [39 Cal. Rptr. 721, 394 P.2d 561].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Atkins v. Bisigier",
+          "year": 1971,
+          "volume": 16,
+          "reporter": "Cal.App.3d",
+          "page": 414,
+          "pin": "427",
+          "raw": "Atkins v. Bisigier (1971) 16 Cal. App.3d 414, 427",
+          "span": [
+            212,
+            261
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "3 Witkin, California Evidence (6th ed. 2023) Presentation at Trial, §1\n7 Witkin, California Procedure (6th ed. 2023) Trial, §304 et al.\n27 California Forms of Pleading and Practice, Ch. 322, Juries and Jury Selection ,\n§§322.56–322.57 (Matthew Bender)\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §§551.61, 551.77\n(Matthew Bender)\nCalifornia Judges Benchbook: Civil Proceedings–Trial §§2.37, 2.38, 3.99, 5.21,\n5.29, 5.39, 11.9, 11.35 (Cal CJER 2019)\nCACI No. 106 PRETRIAL INSTRUCTIONS\n22",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "140",
+      "display": "Evidence Code section 140",
+      "raw": "Evidence Code section 140",
+      "span": [
+        19,
+        44
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/140"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "312",
+      "display": "Evidence Code section 312",
+      "raw": "Evidence Code section 312",
+      "span": [
+        34,
+        59
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/312"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "353",
+      "display": "Evidence Code section 353",
+      "raw": "Evidence Code section 353",
+      "span": [
+        24,
+        49
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/353"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Palmer v. City of Long Beach",
+      "year": 1948,
+      "volume": 33,
+      "reporter": "Cal.2d",
+      "page": 134,
+      "pin": "141–142",
+      "raw": "Palmer v. City of Long Beach (1948) 33 Cal. 2d 134, 141–142",
+      "span": [
+        158,
+        217
+      ],
+      "role": "sources",
+      "case_key": "33 Cal.2d 134"
+    },
+    {
+      "name": "Smith v. Covell",
+      "year": 1980,
+      "volume": 100,
+      "reporter": "Cal.App.3d",
+      "page": 947,
+      "pin": "960",
+      "raw": "Smith v. Covell (1980) 100 Cal. App.3d 947, 960",
+      "span": [
+        227,
+        274
+      ],
+      "role": "sources",
+      "case_key": "100 Cal.App.3d 947"
+    },
+    {
+      "name": "Atkins v. Bisigier",
+      "year": 1971,
+      "volume": 16,
+      "reporter": "Cal.App.3d",
+      "page": 414,
+      "pin": "427",
+      "raw": "Atkins v. Bisigier (1971) 16 Cal. App.3d 414, 427",
+      "span": [
+        212,
+        261
+      ],
+      "role": "sources",
+      "case_key": "16 Cal.App.3d 414"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

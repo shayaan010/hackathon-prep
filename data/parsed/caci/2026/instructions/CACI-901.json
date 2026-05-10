@@ -1,0 +1,415 @@
+{
+  "id": "CACI-901",
+  "edition": "2026",
+  "number": "901",
+  "title": "Status of Common Carrier Disputed",
+  "title_full": "Status of Common Carrier Disputed",
+  "title_statute": null,
+  "series": "900",
+  "series_title": "Series 900 Common Carriers",
+  "page_start": 685,
+  "page_end": 687,
+  "instruction_text": "901. Status of Common Carrier Disputed\nTo prove that [ name of defendant ] was a common carrier, [ name of\nplaintiff] must prove that it was in the business of transporting [the\nproperty of] the general public.\nIn deciding this issue, you may consider whether any of the following\nfactors apply. These factors suggest that a carrier is a common carrier:\n(a) The carrier maintains a regular place of business for the purpose\nof transporting passengers [or property].\n(b) The carrier advertises its services to the general public.\n(c) The carrier charges standard fees for its services.\n(d) [ Insert other applicable factor(s) .]\nA carrier can be a common carrier even if it does not have a regular\nschedule of departures, a ﬁxed route, or a transportation license.\nIf you ﬁnd that [ name of defendant ] was not a common carrier, then\n[name of defendant ] did not have the duty of a common carrier, only a\nduty of ordinary care.",
+  "directions_for_use": "The court should give the ordinary negligence instructions in conjunction with this\none. Ordinary negligence is the standard applicable to private carriers.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Common Carrier\" Deﬁned. Civil Code section 2168.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2168",
+          "display": "Civil Code section 2168",
+          "raw": "Civil Code section 2168",
+          "span": [
+            25,
+            48
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Contract of Carriage. Civil Code section 2085.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2085",
+          "display": "Civil Code section 2085",
+          "raw": "Civil Code section 2085",
+          "span": [
+            22,
+            45
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[A] common carrier within the meaning of Civil Code section 2168 is any\nentity which holds itself out to the public generally and indifferently to transport\ngoods or persons from place to place for proﬁt.\" ( Squaw V alley Ski Corp. v.\nSuperior Court (1992) 2 Cal. App.4th 1499, 1508 [3 Cal. Rptr.2d 897], internal\ncitations omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2168",
+          "display": "Civil Code section 2168",
+          "raw": "Civil Code section 2168",
+          "span": [
+            42,
+            65
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Ski Corp. v. Superior Court",
+          "year": 1992,
+          "volume": 2,
+          "reporter": "Cal.App.4th",
+          "page": 1499,
+          "pin": "1508",
+          "raw": "Ski Corp. v. Superior Court (1992) 2 Cal. App.4th 1499, 1508",
+          "span": [
+            223,
+            283
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Whether a party is a common carrier for reward may be decided as a matter of\nlaw when the material facts are not in dispute. When the material facts are\ndisputed, it is a question of fact for the jury.\" ( Huang v. The Bicycle Casino, Inc.\n(2016) 4 Cal. App.5th 329, 339 [208 Cal. Rptr.3d 591 [citing this instruction].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Huang v. The Bicycle Casino, Inc.",
+          "year": 2016,
+          "volume": 4,
+          "reporter": "Cal.App.5th",
+          "page": 329,
+          "pin": "339",
+          "raw": "Huang v. The Bicycle Casino, Inc. (2016) 4 Cal. App.5th 329, 339",
+          "span": [
+            206,
+            270
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Factors bearing on a party's common carrier status include (1) whether the\nparty maintained an established place of business for the purpose of transporting\npassengers; (2) whether the party engaged in transportation as a regular business\n611\nand not as a casual or occasional undertaking; (3) whether the party advertised\nits transportation services to the general public; and (4) whether the party\ncharged standard rates for its service. The party need not have a regular schedule\nor a ﬁxed route to be a common carrier, nor need the party have a transportation\nlicense. [¶] Not all these factors need be present for the party to be a common\ncarrier subject to the heightened duty of care.\" ( Huang, supra , 4 Cal. App.5th at\np. 339, internal citations omitted; see also Gradus v. Hanson Aviation, Inc.\n(1984) 158 Cal. App.3d 1038, 1047–1048 [205 Cal. Rptr. 211] [approving jury\ninstruction].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Gradus v. Hanson Aviation, Inc.",
+          "year": 1984,
+          "volume": 158,
+          "reporter": "Cal.App.3d",
+          "page": 1038,
+          "pin": "1047–1048",
+          "raw": "Gradus v. Hanson Aviation, Inc. (1984) 158 Cal. App.3d 1038, 1047–1048",
+          "span": [
+            774,
+            844
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In deciding whether [defendant] is a common carrier, a court may properly\nconsider whether (1) the defendant maintains a regular place of business for the\npurpose of transportation; (2) the defendant advertises its services to the general\npublic; and (3) the defendant charges standard fees for its services.\" ( Martine v.\nHeavenly V alley Limited Partnership (2018) 27 Cal. App.5th 715, 725 [238\nCal. Rptr.3d 237, citing this instruction].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Common carrier status emerged in California in the mid-19th century as a\nnarrow concept involving stagecoaches hired purely for transportation. Over\ntime, however, the concept expanded to include a wide array of recreational\ntransport like scenic airplane and railway tours, ski lifts, and roller coasters. This\nexpansion reﬂects the policy determination that a passenger's purpose, be it\nrecreation, thrill-seeking, or simply conveyance from point A to B, should not\ncontrol whether the operator should bear a higher duty to protect the passenger.\"\n(Grotheer v. Escape Adventures, Inc. (2017) 14 Cal. App.5th 1283, 1294 [222\nCal. Rptr.3d 633], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Grotheer v. Escape Adventures, Inc.",
+          "year": 2017,
+          "volume": 14,
+          "reporter": "Cal.App.5th",
+          "page": 1283,
+          "pin": "1294",
+          "raw": "Grotheer v. Escape Adventures, Inc. (2017) 14 Cal. App.5th 1283, 1294",
+          "span": [
+            552,
+            621
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he key inquiry in the common carrier analysis is whether passengers expect\nthe transportation to be safe because the operator is reasonably capable of\ncontrolling the risk of injury.\" ( Grotheer, supra, 14 Cal. App.5th at p. 1295 [hot\nair balloon is not a common carrier].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A private carrier . . . is bound only to accept carriage pursuant to special\nagreement.\" ( Webster v. Ebright (1992) 3 Cal. App.4th 784, 787 [4 Cal. Rptr.2d\n714].) Private carriers \" 'make no public profession that they will carry for all\nwho apply, but . . . occasionally or upon the particular occasion undertake for\ncompensation to carry the goods of others upon such terms as may be agreed\nupon.' \" ( Id. at p. 788, internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Webster v. Ebright",
+          "year": 1992,
+          "volume": 3,
+          "reporter": "Cal.App.4th",
+          "page": 784,
+          "pin": "787",
+          "raw": "Webster v. Ebright (1992) 3 Cal. App.4th 784, 787",
+          "span": [
+            92,
+            141
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" '[T]he law applicable to common carriers is peculiarly rigorous, and it ought\nnot to be extended to persons who have not expressly assumed that character, or\nby their conduct and from the nature of their business justiﬁed the belief on the\npart of the public that they intended to assume it.' \" ( Samuelson v. Public\nUtilities Com. (1951) 36 Cal. 2d 722, 730 [227 P.2d 256], internal citation\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Samuelson v. Public Utilities Com.",
+          "year": 1951,
+          "volume": 36,
+          "reporter": "Cal.2d",
+          "page": 722,
+          "pin": "730",
+          "raw": "Samuelson v. Public Utilities Com. (1951) 36 Cal. 2d 722, 730",
+          "span": [
+            299,
+            360
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"To be a common carrier, the entity merely must be of the character that\nmembers of the general public may, if they choose, avail themselves of it.\"\n(Squaw V alley Ski Corp., supra , 2 Cal. App.4th at pp. 1509–1510, internal\ncitation omitted.)\nCACI No. 901 COMMON CARRIERS\n612",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Given the fact [defendant] indiscriminately offers its Shirley Lake chair lift to\nthe public to carry skiers at a ﬁxed rate from the bottom to the top of the Shirley\nLake run, it logically comes within the Civil Code section 2168 deﬁnition of a\ncommon carrier.\" ( Squaw V alley Ski Corp., supra , 2 Cal. App.4th at p. 1508.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2168",
+          "display": "Civil Code section 2168",
+          "raw": "Civil Code section 2168",
+          "span": [
+            207,
+            230
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he 'reward' contemplated by the statutory scheme need not be a fee charged\nfor the transportation service. The reward may be the proﬁt generated indirectly\nby easing customers' way through the carriers' premises.\" ( Huang, supra , 4\nCal. App.5th at p. 339, internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" '[T]he \"public\" does not mean everyone all of the time; naturally, passengers\nare restricted by the type of transportation the carrier affords. [Citations.] \"One\nmay be a common carrier though the nature of the service rendered is\nsufficiently specialized as to be of possible use to only a fraction of the total\npopulation.\" . . . To be a common carrier, the entity merely must be of the\ncharacter that members of the general public may, if they choose, avail\nthemselves of it.' \" ( Huang, supra , 4 Cal. App.5th at p. 339, internal citation\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Plaintiff also argues the public policy of protecting passengers of a common\ncarrier for reward, as expressed in Civil Code section 2100, precludes limiting\ndefendant's duty to riders on [bumper cars]. In Gomez v. Superior Court [(2005)\n35 Cal. 4th 1125, 1136, fn. 5 [29 Cal. Rptr. 3d 352, 113 P.3d 41]], we held that\nan operator of a 'roller coaster or similar amusement park ride can be a carrier\nof persons for reward' for purposes of Civil Code section 2100. At the same\ntime, however, we expressed no opinion 'whether other, dissimilar, amusement\nrides or attractions can be carriers of persons for reward.' \" ( Nalwa v. Cedar\nFair , L.P .(2012) 55 Cal. 4th 1148, 1160 [150 Cal. Rptr.3d 551, 290 P.3d 1158]\n[bumper car ride is not common carrier].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2100",
+          "display": "Civil Code section 2100",
+          "raw": "Civil Code section 2100",
+          "span": [
+            114,
+            137
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2100",
+          "display": "Civil Code section 2100",
+          "raw": "Civil Code section 2100",
+          "span": [
+            439,
+            462
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"In the situation at bar, [defendant]'s motor cars were customarily and daily\ncruising the streets for patronage or awaiting calls of the public. It was a\ncommon carrier in transporting such patrons. But when it agreed to act as carrier\nof handicapped school children under agreement for its operators to escort the\npupils to and from their schools and homes to the cab and to render such service\nexclusively for them at designated hours, the company ceased to be a common\ncarrier while transporting the speciﬁed children during such hours.\" ( Hopkins v.\nYellow Cab Co. (1952) 114 Cal. App.2d 394, 398 [250 P.2d 330].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hopkins v. Yellow Cab Co.",
+          "year": 1952,
+          "volume": 114,
+          "reporter": "Cal.App.2d",
+          "page": 394,
+          "pin": "398",
+          "raw": "Hopkins v. Yellow Cab Co. (1952) 114 Cal. App.2d 394, 398",
+          "span": [
+            544,
+            601
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1056\n2 Levy et al., California Torts, Ch. 23, Carriers, §23.01 (Matthew Bender)\n11 California Forms of Pleading and Practice, Ch. 109, Carriers, §109.14 (Matthew\nBender)\n3 California Points and Authorities, Ch. 33, Carriers, §33.29 (Matthew Bender)\nCalifornia Civil Practice: Torts §§28:1–28:2 (Thomson Reuters)\nCOMMON CARRIERS CACI No. 901\n613",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "2168",
+      "display": "Civil Code section 2168",
+      "raw": "Civil Code section 2168",
+      "span": [
+        25,
+        48
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/2168"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "2085",
+      "display": "Civil Code section 2085",
+      "raw": "Civil Code section 2085",
+      "span": [
+        22,
+        45
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/2085"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "2100",
+      "display": "Civil Code section 2100",
+      "raw": "Civil Code section 2100",
+      "span": [
+        114,
+        137
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/2100"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Ski Corp. v. Superior Court",
+      "year": 1992,
+      "volume": 2,
+      "reporter": "Cal.App.4th",
+      "page": 1499,
+      "pin": "1508",
+      "raw": "Ski Corp. v. Superior Court (1992) 2 Cal. App.4th 1499, 1508",
+      "span": [
+        223,
+        283
+      ],
+      "role": "sources",
+      "case_key": "2 Cal.App.4th 1499"
+    },
+    {
+      "name": "Huang v. The Bicycle Casino, Inc.",
+      "year": 2016,
+      "volume": 4,
+      "reporter": "Cal.App.5th",
+      "page": 329,
+      "pin": "339",
+      "raw": "Huang v. The Bicycle Casino, Inc. (2016) 4 Cal. App.5th 329, 339",
+      "span": [
+        206,
+        270
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.App.5th 329"
+    },
+    {
+      "name": "Gradus v. Hanson Aviation, Inc.",
+      "year": 1984,
+      "volume": 158,
+      "reporter": "Cal.App.3d",
+      "page": 1038,
+      "pin": "1047–1048",
+      "raw": "Gradus v. Hanson Aviation, Inc. (1984) 158 Cal. App.3d 1038, 1047–1048",
+      "span": [
+        774,
+        844
+      ],
+      "role": "sources",
+      "case_key": "158 Cal.App.3d 1038"
+    },
+    {
+      "name": "Grotheer v. Escape Adventures, Inc.",
+      "year": 2017,
+      "volume": 14,
+      "reporter": "Cal.App.5th",
+      "page": 1283,
+      "pin": "1294",
+      "raw": "Grotheer v. Escape Adventures, Inc. (2017) 14 Cal. App.5th 1283, 1294",
+      "span": [
+        552,
+        621
+      ],
+      "role": "sources",
+      "case_key": "14 Cal.App.5th 1283"
+    },
+    {
+      "name": "Webster v. Ebright",
+      "year": 1992,
+      "volume": 3,
+      "reporter": "Cal.App.4th",
+      "page": 784,
+      "pin": "787",
+      "raw": "Webster v. Ebright (1992) 3 Cal. App.4th 784, 787",
+      "span": [
+        92,
+        141
+      ],
+      "role": "sources",
+      "case_key": "3 Cal.App.4th 784"
+    },
+    {
+      "name": "Samuelson v. Public Utilities Com.",
+      "year": 1951,
+      "volume": 36,
+      "reporter": "Cal.2d",
+      "page": 722,
+      "pin": "730",
+      "raw": "Samuelson v. Public Utilities Com. (1951) 36 Cal. 2d 722, 730",
+      "span": [
+        299,
+        360
+      ],
+      "role": "sources",
+      "case_key": "36 Cal.2d 722"
+    },
+    {
+      "name": "Hopkins v. Yellow Cab Co.",
+      "year": 1952,
+      "volume": 114,
+      "reporter": "Cal.App.2d",
+      "page": 394,
+      "pin": "398",
+      "raw": "Hopkins v. Yellow Cab Co. (1952) 114 Cal. App.2d 394, 398",
+      "span": [
+        544,
+        601
+      ],
+      "role": "sources",
+      "case_key": "114 Cal.App.2d 394"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

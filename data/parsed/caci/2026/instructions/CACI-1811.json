@@ -1,0 +1,81 @@
+{
+  "id": "CACI-1811",
+  "edition": "2026",
+  "number": "1811",
+  "title": "Reserved for Future Use",
+  "title_full": "Reserved for Future Use",
+  "title_statute": null,
+  "series": "1800",
+  "series_title": "Series 1800 Right Of Privacy",
+  "page_start": 1231,
+  "page_end": 1231,
+  "instruction_text": "",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "Right of Action Against Distributor of Private Sexually Explicit Material. Civil\nCode section 1708.85",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1708.85",
+          "display": "Civil Code section 1708.85",
+          "raw": "Civil\nCode section 1708.85",
+          "span": [
+            75,
+            101
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "General and Special Damages. Civil Code section 48a(d)(1), (2)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "48",
+          "display": "Civil Code section 48",
+          "raw": "Civil Code section 48",
+          "span": [
+            29,
+            50
+          ]
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "4 Levy et al., California Torts, Ch. 46, Invasion of Privacy , §46.07 (Matthew\nBender)\n37 California Forms of Pleading and Practice, Ch. 429, Privacy, §429.36A\n(Matthew Bender)\n18 California Points and Authorities, Ch. 184, Privacy: Invasion of Privacy ,\n§184.25B (Matthew Bender)\n1811. Reserved for Future Use\nRIGHT OF PRIV ACY CACI No. 1810\n1157",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1708.85",
+      "display": "Civil Code section 1708.85",
+      "raw": "Civil\nCode section 1708.85",
+      "span": [
+        75,
+        101
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1708.85"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "48",
+      "display": "Civil Code section 48",
+      "raw": "Civil Code section 48",
+      "span": [
+        29,
+        50
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/48"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:14+00:00"
+}

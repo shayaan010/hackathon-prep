@@ -1,0 +1,138 @@
+{
+  "id": "CACI-3306",
+  "edition": "2026",
+  "number": "3306",
+  "title": "Methods of Allocating Costs to an Individual Product",
+  "title_full": "Methods of Allocating Costs to an Individual Product",
+  "title_statute": null,
+  "series": "3300",
+  "series_title": "Series 3300 Unfair Practices Act",
+  "page_start": 2442,
+  "page_end": 2442,
+  "instruction_text": "3306. Methods of Allocating Costs to an Individual Product\nAlthough no formula for determining the appropriate cost of a\nparticular [product/service] is set by law, [ insert one of the following: ]\n[the determination of the appropriate cost of [manufacture/distribution]\nof a particular product must be reasonably related to the burden the\nproduct puts on [ name of defendant ]'s overall cost of doing business.]\n[the determination of the cost of providing particular services must be\nreasonably related to the burden the service puts on [ name of defendant ]'s\noverall cost of doing business.]",
+  "directions_for_use": "Regarding the ﬁrst bracketed sentence, if all of the defendant's products are\napproximately the same, there is no need to allocate the indirect expense, i.e.,\noverhead, according to the unique \"burden\" each product generates. In such cases,\nthis paragraph could unnecessarily confuse the jury and should be modiﬁed or\ndeleted.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Determination of the defendant's cost has always been treated as an issue of\nfact.\" ( Pan Asia V enture Capital Corp. v. Hearst Corp. (1999) 74 Cal. App.4th\n424, 432 [88 Cal. Rptr.2d 118].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Capital Corp. v. Hearst Corp.",
+          "year": 1999,
+          "volume": 74,
+          "reporter": "Cal.App.4th",
+          "page": 424,
+          "pin": "432",
+          "raw": "Capital Corp. v. Hearst Corp. (1999) 74 Cal. App.4th 424, 432",
+          "span": [
+            105,
+            166
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"These statutes embody California's fully allocated cost standard, that is, a fair\nallocation of all ﬁxed or variable costs associated with production of the article\nor product.\" ( Pan Asia V enture Capital Corp., supra, 74 Cal. App.4th at p. 432,\nfootnote omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Cost is to be measured as 'the fair average cost of production over a reasonable\ntime, rather than the cost of one item on a particular occasion.' \" ( Pan Asia\nV enture Capital Corp., supra, 74 Cal. App.4th at p. 432, fn. 6, internal citation\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"V ariable costs are costs that vary with changes in output, while ﬁxed costs are\nthose that do not vary with changes in output.\" ( Turnbull & Turnbull v. ARA\nTransportation Inc. (1990) 219 Cal. App.3d 811, 820 [268 Cal. Rptr. 856].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Turnbull v. ARA Transportation Inc.",
+          "year": 1990,
+          "volume": 219,
+          "reporter": "Cal.App.3d",
+          "page": 811,
+          "pin": "820",
+          "raw": "Turnbull v. ARA Transportation Inc. (1990) 219 Cal. App.3d 811, 820",
+          "span": [
+            143,
+            210
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"California employs a fully allocated cost standard to determine whether a sale\nhas violated section 17043. Under sections 17026 and 17029 . . . cost means\ninvoice cost plus the vendor's full cost of doing business or six percent.\"\n(G.H.I.I. v. MTS, Inc. (1983) 147 Cal. App.3d 256, 275 [195 Cal. Rptr. 211],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "G.H.I.I. v. MTS, Inc.",
+          "year": 1983,
+          "volume": 147,
+          "reporter": "Cal.App.3d",
+          "page": 256,
+          "pin": "275",
+          "raw": "G.H.I.I. v. MTS, Inc. (1983) 147 Cal. App.3d 256, 275",
+          "span": [
+            233,
+            286
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"We ﬁnd the use of the fully allocated cost method, when viewed in conjunction\n556",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Capital Corp. v. Hearst Corp.",
+      "year": 1999,
+      "volume": 74,
+      "reporter": "Cal.App.4th",
+      "page": 424,
+      "pin": "432",
+      "raw": "Capital Corp. v. Hearst Corp. (1999) 74 Cal. App.4th 424, 432",
+      "span": [
+        105,
+        166
+      ],
+      "role": "sources",
+      "case_key": "74 Cal.App.4th 424"
+    },
+    {
+      "name": "Turnbull v. ARA Transportation Inc.",
+      "year": 1990,
+      "volume": 219,
+      "reporter": "Cal.App.3d",
+      "page": 811,
+      "pin": "820",
+      "raw": "Turnbull v. ARA Transportation Inc. (1990) 219 Cal. App.3d 811, 820",
+      "span": [
+        143,
+        210
+      ],
+      "role": "sources",
+      "case_key": "219 Cal.App.3d 811"
+    },
+    {
+      "name": "G.H.I.I. v. MTS, Inc.",
+      "year": 1983,
+      "volume": 147,
+      "reporter": "Cal.App.3d",
+      "page": 256,
+      "pin": "275",
+      "raw": "G.H.I.I. v. MTS, Inc. (1983) 147 Cal. App.3d 256, 275",
+      "span": [
+        233,
+        286
+      ],
+      "role": "sources",
+      "case_key": "147 Cal.App.3d 256"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

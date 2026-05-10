@@ -1,0 +1,157 @@
+{
+  "id": "CACI-506",
+  "edition": "2026",
+  "number": "506",
+  "title": "Alternative Methods of Care",
+  "title_full": "Alternative Methods of Care",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 523,
+  "page_end": 523,
+  "instruction_text": "506. Alternative Methods of Care\n[A/An] [ insert type of medical practitioner ] is not necessarily negligent just\nbecause [he/she/ nonbinary pronoun] chooses one medically accepted\nmethod of treatment or diagnosis and it turns out that another medically\naccepted method would have been a better choice.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"A difference of medical opinion concerning the desirability of one particular\nmedical procedure over another does not . . . establish that the determination to\nuse one of the procedures was negligent.\" ( Clemens v. Regents of Univ. of\nCalifornia (1970) 8 Cal. App.3d 1, 13 [87 Cal. Rptr. 108].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Clemens v. Regents of Univ. of California",
+          "year": 1970,
+          "volume": 8,
+          "reporter": "Cal.App.3d",
+          "page": 1,
+          "pin": "13",
+          "raw": "Clemens v. Regents of Univ. of California (1970) 8 Cal. App.3d 1, 13",
+          "span": [
+            205,
+            273
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Medicine is not a ﬁeld of absolutes. There is not ordinarily only one correct\nroute to be followed at any given time. There is always the need for professional\njudgment as to what course of conduct would be most appropriate with regard to\nthe patient's condition.\" ( Barton v. Owen (1977) 71 Cal. App.3d 484, 501–502\n[139 Cal. Rptr. 494].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Barton v. Owen",
+          "year": 1977,
+          "volume": 71,
+          "reporter": "Cal.App.3d",
+          "page": 484,
+          "pin": "501–502",
+          "raw": "Barton v. Owen (1977) 71 Cal. App.3d 484, 501–502",
+          "span": [
+            268,
+            317
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "This type of instruction may be important in arriving at a fair decision: \"[I]n\ndetermining whether defendants breached a standard of care owed decedent, the\njury may not engage in 'but for' reasoning.\" ( Meier v. Ross General Hospital\n(1968) 69 Cal. 2d 420, 435 [71 Cal. Rptr. 903, 445 P.2d 519].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Meier v. Ross General Hospital",
+          "year": 1968,
+          "volume": 69,
+          "reporter": "Cal.2d",
+          "page": 420,
+          "pin": "435",
+          "raw": "Meier v. Ross General Hospital (1968) 69 Cal. 2d 420, 435",
+          "span": [
+            205,
+            262
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]n order for CACI No. 506 to be given, there must have been expert\ntestimony presented to the jury to the effect that a medical practitioner chose a\nmedically accepted method of diagnosis (or treatment) from among alternative\nmedically accepted methods of diagnosis (or treatment).\" ( Ayala v. Arroyo Vista\nFamily Health Center (2008) 160 Cal. App.4th 1350, 1353 [73 Cal. Rptr.3d 486].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ayala v. Arroyo Vista Family Health Center",
+          "year": 2008,
+          "volume": 160,
+          "reporter": "Cal.App.4th",
+          "page": 1350,
+          "pin": "1353",
+          "raw": "Ayala v. Arroyo Vista Family Health Center (2008) 160 Cal. App.4th 1350, 1353",
+          "span": [
+            288,
+            365
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "3 Levy et al., California Torts, Ch. 31, Liability of Physicians and Other Medical\nPractitioners, §31.11 (Matthew Bender)\n36 California Forms of Pleading and Practice, Ch. 415, Physicians: Medical\nMalpractice, §415.13 (Matthew Bender)\n17 California Points and Authorities, Ch. 175, Physicians and Surgeons: Medical\nMalpractice, §175.34 (Matthew Bender)\n449",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Clemens v. Regents of Univ. of California",
+      "year": 1970,
+      "volume": 8,
+      "reporter": "Cal.App.3d",
+      "page": 1,
+      "pin": "13",
+      "raw": "Clemens v. Regents of Univ. of California (1970) 8 Cal. App.3d 1, 13",
+      "span": [
+        205,
+        273
+      ],
+      "role": "sources",
+      "case_key": "8 Cal.App.3d 1"
+    },
+    {
+      "name": "Barton v. Owen",
+      "year": 1977,
+      "volume": 71,
+      "reporter": "Cal.App.3d",
+      "page": 484,
+      "pin": "501–502",
+      "raw": "Barton v. Owen (1977) 71 Cal. App.3d 484, 501–502",
+      "span": [
+        268,
+        317
+      ],
+      "role": "sources",
+      "case_key": "71 Cal.App.3d 484"
+    },
+    {
+      "name": "Meier v. Ross General Hospital",
+      "year": 1968,
+      "volume": 69,
+      "reporter": "Cal.2d",
+      "page": 420,
+      "pin": "435",
+      "raw": "Meier v. Ross General Hospital (1968) 69 Cal. 2d 420, 435",
+      "span": [
+        205,
+        262
+      ],
+      "role": "sources",
+      "case_key": "69 Cal.2d 420"
+    },
+    {
+      "name": "Ayala v. Arroyo Vista Family Health Center",
+      "year": 2008,
+      "volume": 160,
+      "reporter": "Cal.App.4th",
+      "page": 1350,
+      "pin": "1353",
+      "raw": "Ayala v. Arroyo Vista Family Health Center (2008) 160 Cal. App.4th 1350, 1353",
+      "span": [
+        288,
+        365
+      ],
+      "role": "sources",
+      "case_key": "160 Cal.App.4th 1350"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:09+00:00"
+}

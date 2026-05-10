@@ -1,0 +1,228 @@
+{
+  "id": "CACI-707",
+  "edition": "2026",
+  "number": "707",
+  "title": "Speed Limit",
+  "title_full": "Speed Limit (Veh. Code, § 22352)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "VEH",
+    "section": "22352",
+    "display": "Vehicle Code section 22352",
+    "raw": "Veh. Code, § 22352",
+    "span": [
+      0,
+      18
+    ]
+  },
+  "series": "700",
+  "series_title": "Series 700 Motor Vehicles and Highway Safety",
+  "page_start": 632,
+  "page_end": 632,
+  "instruction_text": "707. Speed Limit (Veh. Code, §22352)\nThe speed limit where the accident occurred was [ insert number ] miles\nper hour.\nThe speed limit is a factor to consider when you decide whether or not\n[name of plaintiff/name of defendant ] was negligent. A driver is not\nnecessarily negligent just because the driver was driving faster than the\nspeed limit. However, a driver may be negligent even if the driver was\ndriving at or below the speed limit.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "Speed Limits. Vehicle Code section 22352.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "22352",
+          "display": "Vehicle Code section 22352",
+          "raw": "Vehicle Code section 22352",
+          "span": [
+            14,
+            40
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Speeding as Negligence. Vehicle Code section 40831.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "40831",
+          "display": "Vehicle Code section 40831",
+          "raw": "Vehicle Code section 40831",
+          "span": [
+            24,
+            50
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "A party is entitled to an instruction that the prima facie speed limit is a factor\nfor the jury to consider in making its negligence determination. ( Hardin v. San\nJose City Lines, Inc. (1953) 41 Cal. 2d 432, 439 [260 P.2d 63].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hardin v. San Jose City Lines, Inc.",
+          "year": 1953,
+          "volume": 41,
+          "reporter": "Cal.2d",
+          "page": 432,
+          "pin": "439",
+          "raw": "Hardin v. San Jose City Lines, Inc. (1953) 41 Cal. 2d 432, 439",
+          "span": [
+            150,
+            212
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The mere driving of an automobile in excess of the speed limit does not show\nnegligence as a matter of law. The jury was free to ﬁnd [defendant] not guilty of\nnegligence even if they found that he was exceeding the speed limit.\" ( Williams\nv. Cole (1960) 181 Cal. App.2d 70, 74 [5 Cal. Rptr. 24], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Williams v. Cole",
+          "year": 1960,
+          "volume": 181,
+          "reporter": "Cal.App.2d",
+          "page": 70,
+          "pin": "74",
+          "raw": "Williams v. Cole (1960) 181 Cal. App.2d 70, 74",
+          "span": [
+            232,
+            278
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "The burden of proving negligence in a civil action is on the party charging\nnegligence, and even if such party has established speed in excess of the\napplicable prima facie limit the party must establish negligence under the\ncircumstances. ( Faselli v. Southern Paciﬁc Co. (1957) 150 Cal. App.2d 644, 648\n[310 P.2d 698].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Faselli v. Southern Paciﬁc Co.",
+          "year": 1957,
+          "volume": 150,
+          "reporter": "Cal.App.2d",
+          "page": 644,
+          "pin": "648",
+          "raw": "Faselli v. Southern Paciﬁc Co. (1957) 150 Cal. App.2d 644, 648",
+          "span": [
+            242,
+            304
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Even though the Texaco truck was traveling at a speed less than the maximum\nspeciﬁed in the Vehicle Code, the reasonableness of its speed was a question of\nfact under all the circumstances, and circumstances may make travel at a speed\nless than the maximum rate a negligent operation of a motor vehicle.\" ( Scott v.\nTexaco, Inc. (1966) 239 Cal. App.2d 431, 436–437 [48 Cal. Rptr. 785], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Scott v. Texaco, Inc.",
+          "year": 1966,
+          "volume": 239,
+          "reporter": "Cal.App.2d",
+          "page": 431,
+          "pin": "436–437",
+          "raw": "Scott v. Texaco, Inc. (1966) 239 Cal. App.2d 431, 436–437",
+          "span": [
+            308,
+            365
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1009\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §4.18\n2 Levy et al., California Torts, Ch. 20, Motor V ehicles, §20.63[2][c], [4] (Matthew\nBender)\n8 California Forms of Pleading and Practice, Ch. 82, Automobiles: Causes of Action ,\n§82.10 (Matthew Bender)\n558",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "22352",
+      "display": "Vehicle Code section 22352",
+      "raw": "Veh. Code, § 22352",
+      "span": [
+        0,
+        18
+      ],
+      "role": "title",
+      "statute_key": "CA/VEH/22352"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "40831",
+      "display": "Vehicle Code section 40831",
+      "raw": "Vehicle Code section 40831",
+      "span": [
+        24,
+        50
+      ],
+      "role": "sources",
+      "statute_key": "CA/VEH/40831"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Hardin v. San Jose City Lines, Inc.",
+      "year": 1953,
+      "volume": 41,
+      "reporter": "Cal.2d",
+      "page": 432,
+      "pin": "439",
+      "raw": "Hardin v. San Jose City Lines, Inc. (1953) 41 Cal. 2d 432, 439",
+      "span": [
+        150,
+        212
+      ],
+      "role": "sources",
+      "case_key": "41 Cal.2d 432"
+    },
+    {
+      "name": "Williams v. Cole",
+      "year": 1960,
+      "volume": 181,
+      "reporter": "Cal.App.2d",
+      "page": 70,
+      "pin": "74",
+      "raw": "Williams v. Cole (1960) 181 Cal. App.2d 70, 74",
+      "span": [
+        232,
+        278
+      ],
+      "role": "sources",
+      "case_key": "181 Cal.App.2d 70"
+    },
+    {
+      "name": "Faselli v. Southern Paciﬁc Co.",
+      "year": 1957,
+      "volume": 150,
+      "reporter": "Cal.App.2d",
+      "page": 644,
+      "pin": "648",
+      "raw": "Faselli v. Southern Paciﬁc Co. (1957) 150 Cal. App.2d 644, 648",
+      "span": [
+        242,
+        304
+      ],
+      "role": "sources",
+      "case_key": "150 Cal.App.2d 644"
+    },
+    {
+      "name": "Scott v. Texaco, Inc.",
+      "year": 1966,
+      "volume": 239,
+      "reporter": "Cal.App.2d",
+      "page": 431,
+      "pin": "436–437",
+      "raw": "Scott v. Texaco, Inc. (1966) 239 Cal. App.2d 431, 436–437",
+      "span": [
+        308,
+        365
+      ],
+      "role": "sources",
+      "case_key": "239 Cal.App.2d 431"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

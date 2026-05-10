@@ -1,0 +1,157 @@
+{
+  "id": "CACI-801",
+  "edition": "2026",
+  "number": "801",
+  "title": "Duty to Comply With Safety Regulations",
+  "title_full": "Duty to Comply With Safety Regulations",
+  "title_statute": null,
+  "series": "800",
+  "series_title": "Series 800 Railroad Crossings",
+  "page_start": 672,
+  "page_end": 672,
+  "instruction_text": "801. Duty to Comply With Safety Regulations\nAn [ordinance/regulation] of the [ insert name of entity ] provides as\nfollows: [ insert text of ordinance or regulation ]\nRailroad companies must obey safety regulations. Regulations state only\nthe minimum measure of care required of a railroad company.\nParticular conditions and situations may require a company to use more\ncare than the regulations require.",
+  "directions_for_use": "Regulations adopted by the Secretary of Transportation pursuant to the Federal\nRailroad Safety Act preempt state common-law negligence claims based on general\nallegations of \"excessive speed.\" ( CSX Transportation, Inc. v. Easterwood (1993)\n507 U.S. 658, 675 [113 S.Ct. 1732, 123 L.Ed.2d 387].) Also, claims alleging\ninadequate warning devices are preempted where federally funded grade crossing\nimprovements have been installed. ( Norfolk Southern Railway Co. v. Shanklin\n(2000) 529 U.S. 344, 359 [120 S.Ct. 1467, 146 L.Ed.2d 374].) This instruction is\nnot intended to apply to situations in which a railroad's compliance with these\nfederal safety regulations would preempt state law negligence claims.",
+  "sources_and_authority": [
+    {
+      "raw": "\" ' \"It is well settled that such statutory regulations constitute only the minimum\nmeasure of care required by the railroad, and it is usually a matter for the jury to\ndetermine whether something more than the minimum was required under the\nevidence in the case.\" ' A railroad company is not necessarily free from\nnegligence, even though it may have literally complied with safety statutes or\nrules. The circumstances may require it to do more.\" ( Hogue v. Southern Paciﬁc\nCo. (1969) 1 Cal. 3d 253, 258 [81 Cal. Rptr. 765, 460 P.2d 965], internal citations\nomitted; Peri v. Los Angeles Junction Ry. Co. (1943) 22 Cal. 2d 111, 126 [137\nP.2d 441].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hogue v. Southern Paciﬁc Co.",
+          "year": 1969,
+          "volume": 1,
+          "reporter": "Cal.3d",
+          "page": 253,
+          "pin": "258",
+          "raw": "Hogue v. Southern Paciﬁc Co. (1969) 1 Cal. 3d 253, 258",
+          "span": [
+            449,
+            503
+          ]
+        },
+        {
+          "name": "Peri v. Los Angeles Junction Ry. Co.",
+          "year": 1943,
+          "volume": 22,
+          "reporter": "Cal.2d",
+          "page": 111,
+          "pin": "126",
+          "raw": "Peri v. Los Angeles Junction Ry. Co. (1943) 22 Cal. 2d 111, 126",
+          "span": [
+            567,
+            630
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"If the peculiar characteristics of a crossing call for the installation of automatic\nprotection–or the upgrading of existing automatic protection–the railroad may\nbe guilty of negligence in failing to provide such protection.\" ( Romo v. Southern\nPaciﬁc Transportation Co. (1977) 71 Cal. App.3d 909, 916 [139 Cal. Rptr. 787],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Romo v. Southern Paciﬁc Transportation Co.",
+          "year": 1977,
+          "volume": 71,
+          "reporter": "Cal.App.3d",
+          "page": 909,
+          "pin": "916",
+          "raw": "Romo v. Southern Paciﬁc Transportation Co. (1977) 71 Cal. App.3d 909, 916",
+          "span": [
+            230,
+            303
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"We hold that . . . federal regulations adopted by the Secretary of\nTransportation pre-empt respondent's negligence action only insofar as it asserts\nthat petitioner's train was traveling at an excessive speed.\" ( CSX Transportation,\nInc., supra, 507 U.S. at p. 676.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"When the [Federal Highway Administration] approves a crossing improvement\n598",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Hogue v. Southern Paciﬁc Co.",
+      "year": 1969,
+      "volume": 1,
+      "reporter": "Cal.3d",
+      "page": 253,
+      "pin": "258",
+      "raw": "Hogue v. Southern Paciﬁc Co. (1969) 1 Cal. 3d 253, 258",
+      "span": [
+        449,
+        503
+      ],
+      "role": "sources",
+      "case_key": "1 Cal.3d 253"
+    },
+    {
+      "name": "Peri v. Los Angeles Junction Ry. Co.",
+      "year": 1943,
+      "volume": 22,
+      "reporter": "Cal.2d",
+      "page": 111,
+      "pin": "126",
+      "raw": "Peri v. Los Angeles Junction Ry. Co. (1943) 22 Cal. 2d 111, 126",
+      "span": [
+        567,
+        630
+      ],
+      "role": "sources",
+      "case_key": "22 Cal.2d 111"
+    },
+    {
+      "name": "Romo v. Southern Paciﬁc Transportation Co.",
+      "year": 1977,
+      "volume": 71,
+      "reporter": "Cal.App.3d",
+      "page": 909,
+      "pin": "916",
+      "raw": "Romo v. Southern Paciﬁc Transportation Co. (1977) 71 Cal. App.3d 909, 916",
+      "span": [
+        230,
+        303
+      ],
+      "role": "sources",
+      "case_key": "71 Cal.App.3d 909"
+    },
+    {
+      "name": "CSX Transportation, Inc. v. Easterwood",
+      "year": 1993,
+      "volume": 507,
+      "reporter": "U.S.",
+      "page": 658,
+      "pin": "675",
+      "raw": "CSX Transportation, Inc. v. Easterwood (1993) 507 U.S. 658, 675",
+      "span": [
+        195,
+        258
+      ],
+      "role": "directions",
+      "case_key": "507 U.S. 658"
+    },
+    {
+      "name": "Norfolk Southern Railway Co. v. Shanklin",
+      "year": 2000,
+      "volume": 529,
+      "reporter": "U.S.",
+      "page": 344,
+      "pin": "359",
+      "raw": "Norfolk Southern Railway Co. v. Shanklin (2000) 529 U.S. 344, 359",
+      "span": [
+        432,
+        497
+      ],
+      "role": "directions",
+      "case_key": "529 U.S. 344"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "CACI-553",
+  "edition": "2026",
+  "number": "553",
+  "title": "Affirmative Defense—Emotional State of Patient",
+  "title_full": "Affirmative Defense—Emotional State of Patient",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 570,
+  "page_end": 571,
+  "instruction_text": "553. Affirmative Defense–Emotional State of Patient\n[Name of defendant ] claims that [he/she/ nonbinary pronoun] did not have\nto inform [ name of plaintiff ] of the risks of the [ insert medical procedure ].\n[A/An] [ insert type of medical practitioner ] does not have to provide\ninformation about risks if the information will so seriously upset the\npatient that the patient will not be able to reasonably consider the risks\nof refusing to have the medical procedure.\nIf [ name of defendant ] has proved that [ name of plaintiff ] would have been\nso seriously upset by being told of the risks that [he/she/ nonbinary\npronoun] would not have been able to reasonably consider the risks of\nrefusing to have the [ insert medical procedure ], then [ name of defendant ]\nwas not required to inform [ name of plaintiff ] of the risks.",
+  "directions_for_use": "\"Whenever appropriate, the court should instruct the jury on the defenses available\nto a doctor who has failed to make the disclosure required by law.\" ( Cobbs v. Grant\n(1972) 8 Cal. 3d 229, 245 [104 Cal. Rptr. 505, 502 P.2d 1].) This instruction could be\nmodiﬁed to cover \"informed refusal\" cases by redrafting it to state, in substance,\nthat the information regarding the risks of refusing the test would have seriously\nupset the patient.",
+  "sources_and_authority": [
+    {
+      "raw": "\"A disclosure need not be made beyond that required within the medical\ncommunity when a doctor can prove by a preponderance of the evidence he\nrelied upon facts which would demonstrate to a reasonable man the disclosure\nwould have so seriously upset the patient that the patient would not have been\nable to dispassionately weigh the risks of refusing to undergo the recommended\ntreatment.\" ( Cobbs, supra, 8 Cal. 3d at p. 246.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "This defense is considered a \"justiﬁcation.\" Justiﬁcation for failure to disclose is\nan affirmative defense on which the defendant has the burden of proof. ( Mathis\nv. Morrissey (1992) 11 Cal. App.4th 332, 347, fn. 9 [13 Cal. Rptr.2d 819].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Mathis v. Morrissey",
+          "year": 1992,
+          "volume": 11,
+          "reporter": "Cal.App.4th",
+          "page": 332,
+          "pin": "347",
+          "raw": "Mathis v. Morrissey (1992) 11 Cal. App.4th 332, 347",
+          "span": [
+            158,
+            209
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§466, 469\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §9.11\n3 Levy et al., California Torts, Ch. 31, Liability of Physicians and Other Medical\nPractitioners, §31.14 (Matthew Bender)\n36 California Forms of Pleading and Practice, Ch. 415, Physicians: Medical\nMalpractice, §415.13 (Matthew Bender)\n17 California Points and Authorities, Ch. 175, Physicians and Surgeons (Matthew\n496\nBender)\n33 California Legal Forms, Ch. 104, Health Care Transactions, Consents, and\nDirectives, §104.11 (Matthew Bender)\nMEDICAL NEGLIGENCE CACI No. 553\n497",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Mathis v. Morrissey",
+      "year": 1992,
+      "volume": 11,
+      "reporter": "Cal.App.4th",
+      "page": 332,
+      "pin": "347",
+      "raw": "Mathis v. Morrissey (1992) 11 Cal. App.4th 332, 347",
+      "span": [
+        158,
+        209
+      ],
+      "role": "sources",
+      "case_key": "11 Cal.App.4th 332"
+    },
+    {
+      "name": "Cobbs v. Grant",
+      "year": 1972,
+      "volume": 8,
+      "reporter": "Cal.3d",
+      "page": 229,
+      "pin": "245",
+      "raw": "Cobbs v. Grant (1972) 8 Cal. 3d 229, 245",
+      "span": [
+        154,
+        194
+      ],
+      "role": "directions",
+      "case_key": "8 Cal.3d 229"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

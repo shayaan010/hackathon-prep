@@ -1,0 +1,89 @@
+{
+  "id": "CACI-906",
+  "edition": "2026",
+  "number": "906",
+  "title": "Duty of Passenger for Own Safety",
+  "title_full": "Duty of Passenger for Own Safety",
+  "title_statute": null,
+  "series": "900",
+  "series_title": "Series 900 Common Carriers",
+  "page_start": 694,
+  "page_end": 694,
+  "instruction_text": "906. Duty of Passenger for Own Safety\nWhile a common carrier must use the highest care for its passengers'\nsafety, passengers need only use reasonable care for their own safety.",
+  "directions_for_use": "This instruction is intended to clarify that passengers and common carriers have\ndifferent standards of care.",
+  "sources_and_authority": [
+    {
+      "raw": "\"As applied to the standard of care imposed upon the common carrier as\ncompared to the standard imposed on the passenger it is both erroneous and\nmisleading to tell the jury, as was done here, that there are no degrees of\nnegligence or contributory negligence in California, since the common carrier is\nin fact held to a higher degree of care than is the passenger. To follow this\nerroneous and misleading statement with the instruction, in the identical\nlanguage used in another instruction concerning the defendant carrier's duty of\ncare, that 'any negligence, however slight,' of the decedent proximately\ncontributing to her death would bar a recovery, was to inform the jury that in\ndetermining negligence and contributory negligence they must apply the same\nstandard of care.\" ( Wilson v. City and County of San Francisco (1959) 174\nCal. App.2d 273, 276 [344 P.2d 828].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Wilson v. City and County of San Francisco",
+          "year": 1959,
+          "volume": 174,
+          "reporter": "Cal.App.2d",
+          "page": 273,
+          "pin": "276",
+          "raw": "Wilson v. City and County of San Francisco (1959) 174 Cal. App.2d 273, 276",
+          "span": [
+            784,
+            858
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "'Whether unidentiﬁed passengers might be primarily or partially responsible for\n[plaintiff]'s injury, or whether she bears some responsibility for it herself, are\nquestions for the trier of fact in considering causation.\" ( Huang v. The Bicycle\nCasino, Inc. (2016) 4 Cal. App.5th 329, 346 [208 Cal. Rptr.3d 591].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Huang v. The Bicycle Casino, Inc.",
+          "year": 2016,
+          "volume": 4,
+          "reporter": "Cal.App.5th",
+          "page": 329,
+          "pin": "346",
+          "raw": "Huang v. The Bicycle Casino, Inc. (2016) 4 Cal. App.5th 329, 346",
+          "span": [
+            224,
+            288
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "2 Levy et al., California Torts, Ch. 23, Carriers, §23.07[1] (Matthew Bender)\n11 California Forms of Pleading and Practice, Ch. 109, Carriers (Matthew Bender)\n2 California Civil Practice: Torts §28:32 (Thomson Reuters)\n620",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Wilson v. City and County of San Francisco",
+      "year": 1959,
+      "volume": 174,
+      "reporter": "Cal.App.2d",
+      "page": 273,
+      "pin": "276",
+      "raw": "Wilson v. City and County of San Francisco (1959) 174 Cal. App.2d 273, 276",
+      "span": [
+        784,
+        858
+      ],
+      "role": "sources",
+      "case_key": "174 Cal.App.2d 273"
+    },
+    {
+      "name": "Huang v. The Bicycle Casino, Inc.",
+      "year": 2016,
+      "volume": 4,
+      "reporter": "Cal.App.5th",
+      "page": 329,
+      "pin": "346",
+      "raw": "Huang v. The Bicycle Casino, Inc. (2016) 4 Cal. App.5th 329, 346",
+      "span": [
+        224,
+        288
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.App.5th 329"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

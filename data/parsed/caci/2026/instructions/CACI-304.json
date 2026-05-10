@@ -1,0 +1,193 @@
+{
+  "id": "CACI-304",
+  "edition": "2026",
+  "number": "304",
+  "title": "Oral or Written Contract Terms",
+  "title_full": "Oral or Written Contract Terms",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 170,
+  "page_end": 171,
+  "instruction_text": "304. Oral or Written Contract Terms\n[Contracts may be written or oral.]\n[Contracts may be partly written and partly oral.]\nOral contracts are just as valid as written contracts.",
+  "directions_for_use": "Give the bracketed alternative that is most applicable to the facts of the case.\nIf the written agreement is fully integrated, the second option may not be\nappropriate. Parol evidence is inadmissible if the judge ﬁnds that the written\nagreement is fully integrated. (Code Civ. Proc., §1856(d).) The parol evidence rule\ngenerally prohibits the introduction of extrinsic evidence–oral or written–to vary\nor contradict the terms of an integrated written instrument. ( EP A Real Estate\nPartnership v. Kang (1992) 12 Cal. App.4th 171, 175 [15 Cal. Rptr.2d 209]; see Civ.\nCode, §1625; Code Civ. Proc., §1856(a).)\nThere are, however, exceptions to the parol evidence rule. (See, e.g., Riverisland\nCold Storage, Inc. v. Fresno-Madera Production Credit Assn. (2013) 55 Cal. 4th\n1169, 1174−1175 [151 Cal. Rptr.3d 93, 291 P.3d 316] [fraud exception]; see also\nCode Civ. Proc., §1856.) If an exception has been found as a matter of law, the\nsecond option may be given. If there are questions of fact regarding the applicability\nof an exception, additional instructions on the exception will be necessary.",
+  "sources_and_authority": [
+    {
+      "raw": "Oral Contracts. Civil Code section 1622.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1622",
+          "display": "Civil Code section 1622",
+          "raw": "Civil Code section 1622",
+          "span": [
+            16,
+            39
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Statute of Frauds. Civil Code section 1624.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1624",
+          "display": "Civil Code section 1624",
+          "raw": "Civil Code section 1624",
+          "span": [
+            19,
+            42
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"This question posed by defendant [may a contract be partly written and partly\noral] must be answered in the affirmative in this sense: that a contract or\nagreement in legal contemplation is neither written nor oral, but oral or written\nevidence may be received to establish the terms of the contract or agreement\nbetween the parties. . . . A so-called partly written and partly oral contract is in\nlegal effect a contract, the terms of which may be proven by both written and\noral evidence.\" ( Lande v. Southern California Freight Lines (1948) 85\nCal. App.2d 416, 420–421 [193 P.2d 144].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lande v. Southern California Freight Lines",
+          "year": 1948,
+          "volume": 85,
+          "reporter": "Cal.App.2d",
+          "page": 416,
+          "pin": "420–421",
+          "raw": "Lande v. Southern California Freight Lines (1948) 85 Cal. App.2d 416, 420–421",
+          "span": [
+            495,
+            572
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"When the parties to a written contract have agreed to it as an 'integration'–a\ncomplete and ﬁnal embodiment of the terms of an agreement–parol evidence\ncannot be used to add to or vary its terms . . . [However,] '[w]hen only part of\nthe agreement is integrated, the same rule applies to that part, but parol evidence\nmay be used to prove elements of the agreement not reduced to writing.' \"\n(Masterson v. Sine (1968) 68 Cal. 2d 222, 225 [65 Cal. Rptr. 545, 436 P.2d 561].)\n96",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Masterson v. Sine",
+          "year": 1968,
+          "volume": 68,
+          "reporter": "Cal.2d",
+          "page": 222,
+          "pin": "225",
+          "raw": "Masterson v. Sine (1968) 68 Cal. 2d 222, 225",
+          "span": [
+            393,
+            437
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts §117\nWegner et al., California Practice Guide: Civil Trials & Evidence, Ch. 8E-G, Parol\nEvidence Rule , ¶ 8:3145 (The Rutter Group)\n13 California Forms of Pleading and Practice, Ch. 140, Contracts, §140.83\n(Matthew Bender)\n27 California Legal Forms Transaction Guide, Ch. 75, Formation of Contracts and\nStandard Contractual Provisions , §75.12 (Matthew Bender)\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 13, Attacking\nor Defending Existence of Contract–Absence of Essential Element , 13.03–13.17\nCONTRACTS CACI No. 304\n97",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1622",
+      "display": "Civil Code section 1622",
+      "raw": "Civil Code section 1622",
+      "span": [
+        16,
+        39
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1622"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1624",
+      "display": "Civil Code section 1624",
+      "raw": "Civil Code section 1624",
+      "span": [
+        19,
+        42
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1624"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1625",
+      "display": "Civil Code section 1625",
+      "raw": "Civ.\nCode, §1625",
+      "span": [
+        561,
+        577
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/1625"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Lande v. Southern California Freight Lines",
+      "year": 1948,
+      "volume": 85,
+      "reporter": "Cal.App.2d",
+      "page": 416,
+      "pin": "420–421",
+      "raw": "Lande v. Southern California Freight Lines (1948) 85 Cal. App.2d 416, 420–421",
+      "span": [
+        495,
+        572
+      ],
+      "role": "sources",
+      "case_key": "85 Cal.App.2d 416"
+    },
+    {
+      "name": "Masterson v. Sine",
+      "year": 1968,
+      "volume": 68,
+      "reporter": "Cal.2d",
+      "page": 222,
+      "pin": "225",
+      "raw": "Masterson v. Sine (1968) 68 Cal. 2d 222, 225",
+      "span": [
+        393,
+        437
+      ],
+      "role": "sources",
+      "case_key": "68 Cal.2d 222"
+    },
+    {
+      "name": "EP A Real Estate Partnership v. Kang",
+      "year": 1992,
+      "volume": 12,
+      "reporter": "Cal.App.4th",
+      "page": 171,
+      "pin": "175",
+      "raw": "EP A Real Estate Partnership v. Kang (1992) 12 Cal. App.4th 171, 175",
+      "span": [
+        465,
+        533
+      ],
+      "role": "directions",
+      "case_key": "12 Cal.App.4th 171"
+    },
+    {
+      "name": "Riverisland Cold Storage, Inc. v. Fresno-Madera Production Credit Assn.",
+      "year": 2013,
+      "volume": 55,
+      "reporter": "Cal.4th",
+      "page": 1169,
+      "pin": "1174",
+      "raw": "Riverisland Cold Storage, Inc. v. Fresno-Madera Production Credit Assn. (2013) 55 Cal. 4th 1169, 1174",
+      "span": [
+        678,
+        779
+      ],
+      "role": "directions",
+      "case_key": "55 Cal.4th 1169"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

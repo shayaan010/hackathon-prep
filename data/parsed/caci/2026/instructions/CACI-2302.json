@@ -1,0 +1,159 @@
+{
+  "id": "CACI-2302",
+  "edition": "2026",
+  "number": "2302",
+  "title": "Breach of Contract for Temporary Life Insurance—Essential Factual Elements",
+  "title_full": "Breach of Contract for Temporary Life Insurance—Essential Factual Elements",
+  "title_statute": null,
+  "series": "2300",
+  "series_title": "Series 2300 Insurance Litigation",
+  "page_start": 1450,
+  "page_end": 1451,
+  "instruction_text": "2302. Breach of Contract for Temporary Life Insurance–Essential\nFactual Elements\n[Name of plaintiff ] claims that [ name of defendant ] breached an agreement\nto pay life insurance beneﬁts. To establish this claim, [ name of plaintiff ]\nmust prove all of the following:\n1. That [ name of defendant ] or its authorized agent received [ name of\ndecedent]'s application for life insurance;\n2. That [ name of decedent ] paid the ﬁrst insurance premium;\n3. That [ name of decedent ] died [on/after/before] [ insert relevant\ndate]; and\n4. The amount of the insurance beneﬁts that [ name of defendant ]\nfailed to pay.",
+  "directions_for_use": "The instructions in this series assume the plaintiff is the insured and the defendant is\nthe insurer. The party designations may be changed if appropriate to the facts of the\ncase.\nThis instruction is intended for an alleged breach of a contract of temporary life\ninsurance coverage. The court must interpret as a matter of law whether an ordinary\nperson in the applicant's circumstances would conclude, based on the language of\nthe application, that coverage began immediately. Do not use this instruction unless\nthe court has decided this issue.",
+  "sources_and_authority": [
+    {
+      "raw": "Death of Insured Before Issuance of Policy. Insurance Code section 10115.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "10115",
+          "display": "Insurance Code section 10115",
+          "raw": "Insurance Code section 10115",
+          "span": [
+            44,
+            72
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"We are of the view that a contract of insurance arose upon defendant's receipt\nof the completed application and the ﬁrst premium payment. . . . The\nunderstanding of an ordinary person is the standard [that] must be used in\nconstruing the contract, and such a person upon reading the application would\nbelieve that he would secure the beneﬁt of immediate coverage by paying the\npremium in advance of delivery of the policy.\" ( Ransom v. The Penn Mutual Life\nInsurance Co. (1954) 43 Cal. 2d 420, 425 [274 P.2d 633].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ransom v. The Penn Mutual Life Insurance Co.",
+          "year": 1954,
+          "volume": 43,
+          "reporter": "Cal.2d",
+          "page": 420,
+          "pin": "425",
+          "raw": "Ransom v. The Penn Mutual Life Insurance Co. (1954) 43 Cal. 2d 420, 425",
+          "span": [
+            427,
+            498
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A]n insurance company is not precluded from imposing conditions precedent\nto the effectiveness of insurance coverage despite the advance payment of the\nﬁrst premium. However, . . . any such condition must be stated in conspicuous,\nunambiguous and unequivocal language which an ordinary layman can\nunderstand.\" ( Thompson v. Occidental Life Insurance Co. of California (1973) 9\nCal. 3d 904, 912 [109 Cal. Rptr. 473, 513 P.2d 353].)\n1376",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Thompson v. Occidental Life Insurance Co. of California",
+          "year": 1973,
+          "volume": 9,
+          "reporter": "Cal.3d",
+          "page": 904,
+          "pin": "912",
+          "raw": "Thompson v. Occidental Life Insurance Co. of California (1973) 9 Cal. 3d 904, 912",
+          "span": [
+            314,
+            395
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Temporary life insurance coverage \"is not terminated until the applicant receives\nfrom the insurer both a notice of the rejection of his application and a refund of\nhis premium.\" ( Smith v. Westland Life Insurance Co . (1975) 15 Cal. 3d 111, 120\n[123 Cal. Rptr. 649, 539 P.2d 433].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Under California law, a contract of temporary insurance may arise from\ncompletion of an application for insurance and payment of the ﬁrst premium if\nthe language of the application would lead an ordinary lay person to conclude\nthat coverage was immediate.\" ( Ahern v. Dillenback (1991) 1 Cal. App.4th 36, 47\n[1 Cal. Rptr.2d 339] [automobile insurance].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ahern v. Dillenback",
+          "year": 1991,
+          "volume": 1,
+          "reporter": "Cal.App.4th",
+          "page": 36,
+          "pin": "47",
+          "raw": "Ahern v. Dillenback (1991) 1 Cal. App.4th 36, 47",
+          "span": [
+            260,
+            308
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "2 Witkin, Summary of California Law (11th ed. 2017) Insurance, §§54–56\nCroskey et al., California Practice Guide: Insurance Litigation, Ch. 2-D, When\nInsurance Effective; Coverage of Losses Before Policy Issued , ¶¶ 2:134–2:137,\n6:428–6:448 (The Rutter Group)\n2 California Insurance Law & Practice, Ch. 9, Issuance of Insurance Policies , §9.07\n(Matthew Bender)\n26 California Forms of Pleading and Practice, Ch. 308, Insurance (Matthew Bender)\n12 California Points and Authorities, Ch. 120, Insurance, §§120.19–120.20\n(Matthew Bender)\nINSURANCE LITIGA TION CACI No. 2302\n1377",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "10115",
+      "display": "Insurance Code section 10115",
+      "raw": "Insurance Code section 10115",
+      "span": [
+        44,
+        72
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/10115"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Ransom v. The Penn Mutual Life Insurance Co.",
+      "year": 1954,
+      "volume": 43,
+      "reporter": "Cal.2d",
+      "page": 420,
+      "pin": "425",
+      "raw": "Ransom v. The Penn Mutual Life Insurance Co. (1954) 43 Cal. 2d 420, 425",
+      "span": [
+        427,
+        498
+      ],
+      "role": "sources",
+      "case_key": "43 Cal.2d 420"
+    },
+    {
+      "name": "Thompson v. Occidental Life Insurance Co. of California",
+      "year": 1973,
+      "volume": 9,
+      "reporter": "Cal.3d",
+      "page": 904,
+      "pin": "912",
+      "raw": "Thompson v. Occidental Life Insurance Co. of California (1973) 9 Cal. 3d 904, 912",
+      "span": [
+        314,
+        395
+      ],
+      "role": "sources",
+      "case_key": "9 Cal.3d 904"
+    },
+    {
+      "name": "Ahern v. Dillenback",
+      "year": 1991,
+      "volume": 1,
+      "reporter": "Cal.App.4th",
+      "page": 36,
+      "pin": "47",
+      "raw": "Ahern v. Dillenback (1991) 1 Cal. App.4th 36, 47",
+      "span": [
+        260,
+        308
+      ],
+      "role": "sources",
+      "case_key": "1 Cal.App.4th 36"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:16+00:00"
+}

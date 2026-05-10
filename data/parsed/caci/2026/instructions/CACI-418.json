@@ -1,0 +1,454 @@
+{
+  "id": "CACI-418",
+  "edition": "2026",
+  "number": "418",
+  "title": "Presumption of Negligence per se",
+  "title_full": "Presumption of Negligence per se",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 338,
+  "page_end": 341,
+  "instruction_text": "418. Presumption of Negligence per se\n[Insert citation to statute, regulation, or ordinance ] states:\n.\nIf [ name of plaintiff/defendant ] proves\n1. That [ name of defendant/plaintiff ] violated this law and\n2. That the violation was a substantial factor in bringing about the\nharm,\nthen you must ﬁnd that [ name of defendant/plaintiff ] was negligent [unless\nyou also ﬁnd that the violation was excused].\nIf you ﬁnd that [ name of defendant/plaintiff ] did not violate this law or\nthat the violation was not a substantial factor in bringing about the\nharm [or if you ﬁnd the violation was excused], then you must still\ndecide whether [ name of defendant/plaintiff ] was negligent in light of the\nother instructions.",
+  "directions_for_use": "This jury instruction addresses the establishment of the two factual elements\nunderlying the presumption of negligence. If they are not established, then a ﬁnding\nof negligence cannot be based on the alleged statutory violation. However,\nnegligence can still be proven by other means. (See Nunneley v. Edgar Hotel (1950)\n36 Cal. 2d 493, 500–501 [225 P.2d 497].)\nIf a rebuttal is offered on the ground that the violation was excused, then the\nbracketed portion in the second and last paragraphs should be read. For an\ninstruction on excuse, see CACI No. 420, Negligence per se: Rebuttal of the\nPresumption of Negligence–Violation Excused.\nIf the statute is lengthy, the judge may want to read it at the end of this instruction\ninstead of at the beginning. The instruction would then need to be revised, to tell\nthe jury that they will be hearing the statute at the end.\nRebuttal of the presumption of negligence is addressed in the instructions that\nfollow (see CACI Nos. 420 and 421).",
+  "sources_and_authority": [
+    {
+      "raw": "Negligence per se. Evidence Code section 669.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "669",
+          "display": "Evidence Code section 669",
+          "raw": "Evidence Code section 669",
+          "span": [
+            19,
+            44
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Although compliance with the law does not prove the absence of negligence,\nviolation of the law does raise a presumption that the violator was negligent.\nThis is called negligence per se.\" ( Jacobs Farm/Del Cabo, Inc. v. Western Farm\nService, Inc . (2010) 190 Cal. App.4th 1502, 1526 [119 Cal. Rptr.3d 529]; see also\n264\nCal. Law Revision Com. com. to Evid. Code, §669.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "669",
+          "display": "Evidence Code section 669",
+          "raw": "Evid. Code, §669",
+          "span": [
+            353,
+            369
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\" 'The negligence per se doctrine is codiﬁed in Evidence Code section 669,\nsubdivision (a), under which negligence is presumed if the plaintiff establishes\nfour elements: (1) the defendant violated a statute, ordinance, or regulation; (2)\nthe violation proximately caused death or injury to person or property; (3) the\ndeath or injury resulted from an occurrence the nature of which the statute,\nordinance, or regulation was designed to prevent; and (4) the person suffering\nthe death or the injury to his person or property was one of the class of persons\nfor whose protection the statute, ordinance, or regulation was adopted.' 'The\nburden is on the proponent of a negligence per se instruction to demonstrate that\nthese elements are met.' \" ( Taulbee v. EJ Distribution Corp . (2019) 35\nCal. App.5th 590, 596 [247 Cal. Rptr.3d 538], internal citations omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "669",
+          "display": "Evidence Code section 669",
+          "raw": "Evidence Code section 669",
+          "span": [
+            48,
+            73
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The ﬁrst two elements are normally questions for the trier of fact and the last\ntwo are determined by the trial court as a matter of law. That is, the trial court\ndecides whether a statute or regulation deﬁnes the standard of care in a\nparticular case.\" ( Jacobs Farm/Del Cabo, Inc., supra, 190 Cal. App.4th at p.\n1526, internal citations omitted; see also Cal. Law Revision Com. com. to Evid.\nCode, §669.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "669",
+          "display": "Evidence Code section 669",
+          "raw": "Evid.\nCode, §669",
+          "span": [
+            389,
+            405
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he doctrine of negligence per se is not a separate cause of action, but creates\nan evidentiary presumption that affects the standard of care in a cause of action\nfor negligence.\" ( Turner v. Seterus, Inc. (2018) 27 Cal. App.5th 516, 534 [238\nCal. Rptr.3d 528].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Turner v. Seterus, Inc.",
+          "year": 2018,
+          "volume": 27,
+          "reporter": "Cal.App.5th",
+          "page": 516,
+          "pin": "534",
+          "raw": "Turner v. Seterus, Inc. (2018) 27 Cal. App.5th 516, 534",
+          "span": [
+            185,
+            240
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Providing the jury with the contents of [] statutes alone does not adequately\nelucidate how the statutes pertain to the analysis the jury must undertake. Jurors\nwill know what the statute says, but not its signiﬁcance or how it applies to the\ncase they must decide. Jurors here were told only what section 21801 said–not\nwhat they should do with it. A negligence per se instruction, where appropriate,\nprovides the needed linkage and ensures the plaintiff gets the beneﬁt of the\nnegligence per se presumption.\" ( Drury v. Ryan (2025) 109 Cal. App.5th 1102,\n1112 [331 Cal. Rptr.3d 113].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Drury v. Ryan",
+          "year": 2025,
+          "volume": 109,
+          "reporter": "Cal.App.5th",
+          "page": 1102,
+          "pin": "1112",
+          "raw": "Drury v. Ryan (2025) 109 Cal. App.5th 1102, 1112",
+          "span": [
+            514,
+            562
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Under the doctrine of negligence per se, the plaintiff 'borrows' statutes to prove\nduty of care and standard of care. [Citation.] The plaintiff still has the burden of\nproving causation.\" ( David v. Hernandez (2014) 226 Cal. App.4th 578, 584 [172\nCal. Rptr.3d 204].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "David v. Hernandez",
+          "year": 2014,
+          "volume": 226,
+          "reporter": "Cal.App.4th",
+          "page": 578,
+          "pin": "584",
+          "raw": "David v. Hernandez (2014) 226 Cal. App.4th 578, 584",
+          "span": [
+            191,
+            242
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Where a statute establishes a party's duty, ' \"proof of the [party's] violation of a\nstatutory standard of conduct raises a presumption of negligence that may be\nrebutted only by evidence establishing a justiﬁcation or excuse for the statutory\nviolation.\" ' This rule, generally known as the doctrine of negligence per se,\nmeans that where the court has adopted the conduct prescribed by statute as the\nstandard of care for a reasonable person, a violation of the statute is presumed to\nbe negligence.\" ( Spriesterbach v. Holland (2013) 215 Cal. App.4th 255, 263 [155\nCal. Rptr.3d 306], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Spriesterbach v. Holland",
+          "year": 2013,
+          "volume": 215,
+          "reporter": "Cal.App.4th",
+          "page": 255,
+          "pin": "263",
+          "raw": "Spriesterbach v. Holland (2013) 215 Cal. App.4th 255, 263",
+          "span": [
+            506,
+            563
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]n negligence per se actions, the plaintiff must produce evidence of a violation\nNEGLIGENCE CACI No. 418\n265\nof a statute and a substantial probability that the plaintiff's injury was caused by\nthe violation of the statute before the burden of proof shifts to the defendant to\nprove the violation of the statute did not cause the plaintiff's injury.\" ( Toste v.\nCalPortland Construction (2016) 245 Cal. App.4th 362, 371 [199 Cal. Rptr.3d\n522].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Toste v. CalPortland Construction",
+          "year": 2016,
+          "volume": 245,
+          "reporter": "Cal.App.4th",
+          "page": 362,
+          "pin": "371",
+          "raw": "Toste v. CalPortland Construction (2016) 245 Cal. App.4th 362, 371",
+          "span": [
+            356,
+            422
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'The signiﬁcance of a statute in a civil suit for negligence lies in its\nformulation of a standard of conduct that the court adopts in the determination\nof such liability. The decision as to what the civil standard should be still rests\nwith the court, and the standard formulated by a legislative body in a police\nregulation or criminal statute becomes the standard to determine civil liability\nonly because the court accepts it. In the absence of such a standard the case goes\nto the jury, which must determine whether the defendant has acted as a\nreasonably prudent man would act in similar circumstances. The jury then has\nthe burden of deciding not only what the facts are but what the unformulated\nstandard is of reasonable conduct. When a legislative body has generalized a\nstandard from the experience of the community and prohibits conduct that is\nlikely to cause harm, the court accepts the formulated standards and applies them\n[citations], except where they would serve to impose liability without fault.' \"\n(Ramirez v. Plough, Inc. (1993) 6 Cal. 4th 539, 547 [25 Cal. Rptr.2d 97, 863 P.2d\n167].), internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ramirez v. Plough, Inc.",
+          "year": 1993,
+          "volume": 6,
+          "reporter": "Cal.4th",
+          "page": 539,
+          "pin": "547",
+          "raw": "Ramirez v. Plough, Inc. (1993) 6 Cal. 4th 539, 547",
+          "span": [
+            1023,
+            1073
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"There is no doubt in this state that a federal statute or regulation may be\nadopted as a standard of care.\" ( DiRosa v. Showa Denko K. K. (1996) 44\nCal. App.4th 799, 808 [52 Cal. Rptr.2d 128].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "DiRosa v. Showa Denko K. K.",
+          "year": 1996,
+          "volume": 44,
+          "reporter": "Cal.App.4th",
+          "page": 799,
+          "pin": "808",
+          "raw": "DiRosa v. Showa Denko K. K. (1996) 44 Cal. App.4th 799, 808",
+          "span": [
+            111,
+            170
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he courts and the Legislature may create a negligence duty of care, but an\nadministrative agency cannot independently impose a duty of care if that\nauthority has not been properly delegated to the agency by the Legislature.\"\n(Cal. Serv. Station Etc. Ass'n v. Am. Home Assur . Co. (1998) 62 Cal. App.4th\n1166, 1175 [73 Cal. Rptr.2d 182].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In combination, the [1999] language and the deletion [to Lab. Code, §6304.5]\nindicate that henceforth, Cal-OSHA provisions are to be treated like any other\nstatute or regulation and may be admitted to establish a standard or duty of care\nin all negligence and wrongful death actions, including third party actions.\"\n(Elsner v. Uveges (2004) 34 Cal. 4th 915, 928 [22 Cal. Rptr.3d 530, 102 P.3d\n915].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "6304.5",
+          "display": "Labor Code section 6304.5",
+          "raw": "Lab. Code, §6304.5",
+          "span": [
+            58,
+            76
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Elsner v. Uveges",
+          "year": 2004,
+          "volume": 34,
+          "reporter": "Cal.4th",
+          "page": 915,
+          "pin": "928",
+          "raw": "Elsner v. Uveges (2004) 34 Cal. 4th 915, 928",
+          "span": [
+            318,
+            362
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"While courts have applied negligence per se to building code violations, it has\nonly been applied in limited situations.\" ( Jones v. Awad (2019) 39 Cal. App.5th\n1200, 1212 [252 Cal. Rptr.3d 596].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Jones v. Awad",
+          "year": 2019,
+          "volume": 39,
+          "reporter": "Cal.App.5th",
+          "page": 1200,
+          "pin": "1212",
+          "raw": "Jones v. Awad (2019) 39 Cal. App.5th 1200, 1212",
+          "span": [
+            125,
+            172
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1002–1028\nHaning et al., California Practice Guide: Personal Injury, Ch. 2(II)-H, Negligence\nPredicated On Statutory Violation (\"Negligence Per Se\" ), ¶ 2:1845 (The Rutter\nGroup)\nWegner et al., California Practice Guide: Civil Trials & Evidence, Ch. 8G-C,\nCACI No. 418 NEGLIGENCE\n266\nProcedural Considerations–Presumptions, ¶ 8:3604 (The Rutter Group)\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §§1.28–1.31\n1 Levy et al., California Torts, Ch. 3, Proof of Negligence , §§3.10, 3.13 (Matthew\nBender)\n4 California Trial Guide, Unit 90, Closing Argument, §§90.88, 90.89 (Matthew\nBender)\nCalifornia Products Liability Actions, Ch. 7, Proof, §7.04 (Matthew Bender)\n33 California Forms of Pleading and Practice, Ch. 380, Negligence, §380.50\n(Matthew Bender)\n16 California Points and Authorities, Ch. 165, Negligence, §§165.70, 165.80,\n165.81 (Matthew Bender)\nNEGLIGENCE CACI No. 418\n267",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "669",
+      "display": "Evidence Code section 669",
+      "raw": "Evidence Code section 669",
+      "span": [
+        19,
+        44
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/669"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "6304.5",
+      "display": "Labor Code section 6304.5",
+      "raw": "Lab. Code, §6304.5",
+      "span": [
+        58,
+        76
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/6304.5"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Turner v. Seterus, Inc.",
+      "year": 2018,
+      "volume": 27,
+      "reporter": "Cal.App.5th",
+      "page": 516,
+      "pin": "534",
+      "raw": "Turner v. Seterus, Inc. (2018) 27 Cal. App.5th 516, 534",
+      "span": [
+        185,
+        240
+      ],
+      "role": "sources",
+      "case_key": "27 Cal.App.5th 516"
+    },
+    {
+      "name": "Drury v. Ryan",
+      "year": 2025,
+      "volume": 109,
+      "reporter": "Cal.App.5th",
+      "page": 1102,
+      "pin": "1112",
+      "raw": "Drury v. Ryan (2025) 109 Cal. App.5th 1102, 1112",
+      "span": [
+        514,
+        562
+      ],
+      "role": "sources",
+      "case_key": "109 Cal.App.5th 1102"
+    },
+    {
+      "name": "David v. Hernandez",
+      "year": 2014,
+      "volume": 226,
+      "reporter": "Cal.App.4th",
+      "page": 578,
+      "pin": "584",
+      "raw": "David v. Hernandez (2014) 226 Cal. App.4th 578, 584",
+      "span": [
+        191,
+        242
+      ],
+      "role": "sources",
+      "case_key": "226 Cal.App.4th 578"
+    },
+    {
+      "name": "Spriesterbach v. Holland",
+      "year": 2013,
+      "volume": 215,
+      "reporter": "Cal.App.4th",
+      "page": 255,
+      "pin": "263",
+      "raw": "Spriesterbach v. Holland (2013) 215 Cal. App.4th 255, 263",
+      "span": [
+        506,
+        563
+      ],
+      "role": "sources",
+      "case_key": "215 Cal.App.4th 255"
+    },
+    {
+      "name": "Toste v. CalPortland Construction",
+      "year": 2016,
+      "volume": 245,
+      "reporter": "Cal.App.4th",
+      "page": 362,
+      "pin": "371",
+      "raw": "Toste v. CalPortland Construction (2016) 245 Cal. App.4th 362, 371",
+      "span": [
+        356,
+        422
+      ],
+      "role": "sources",
+      "case_key": "245 Cal.App.4th 362"
+    },
+    {
+      "name": "Ramirez v. Plough, Inc.",
+      "year": 1993,
+      "volume": 6,
+      "reporter": "Cal.4th",
+      "page": 539,
+      "pin": "547",
+      "raw": "Ramirez v. Plough, Inc. (1993) 6 Cal. 4th 539, 547",
+      "span": [
+        1023,
+        1073
+      ],
+      "role": "sources",
+      "case_key": "6 Cal.4th 539"
+    },
+    {
+      "name": "DiRosa v. Showa Denko K. K.",
+      "year": 1996,
+      "volume": 44,
+      "reporter": "Cal.App.4th",
+      "page": 799,
+      "pin": "808",
+      "raw": "DiRosa v. Showa Denko K. K. (1996) 44 Cal. App.4th 799, 808",
+      "span": [
+        111,
+        170
+      ],
+      "role": "sources",
+      "case_key": "44 Cal.App.4th 799"
+    },
+    {
+      "name": "Elsner v. Uveges",
+      "year": 2004,
+      "volume": 34,
+      "reporter": "Cal.4th",
+      "page": 915,
+      "pin": "928",
+      "raw": "Elsner v. Uveges (2004) 34 Cal. 4th 915, 928",
+      "span": [
+        318,
+        362
+      ],
+      "role": "sources",
+      "case_key": "34 Cal.4th 915"
+    },
+    {
+      "name": "Jones v. Awad",
+      "year": 2019,
+      "volume": 39,
+      "reporter": "Cal.App.5th",
+      "page": 1200,
+      "pin": "1212",
+      "raw": "Jones v. Awad (2019) 39 Cal. App.5th 1200, 1212",
+      "span": [
+        125,
+        172
+      ],
+      "role": "sources",
+      "case_key": "39 Cal.App.5th 1200"
+    },
+    {
+      "name": "See Nunneley v. Edgar Hotel",
+      "year": 1950,
+      "volume": 36,
+      "reporter": "Cal.2d",
+      "page": 493,
+      "pin": "500–501",
+      "raw": "See Nunneley v. Edgar Hotel (1950) 36 Cal. 2d 493, 500–501",
+      "span": [
+        286,
+        344
+      ],
+      "role": "directions",
+      "case_key": "36 Cal.2d 493"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

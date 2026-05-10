@@ -1,0 +1,96 @@
+{
+  "id": "CACI-1403",
+  "edition": "2026",
+  "number": "1403",
+  "title": "False Arrest Without Warrant by Private Citizen—Essential Factual Elements",
+  "title_full": "False Arrest Without Warrant by Private Citizen—Essential Factual Elements",
+  "title_statute": null,
+  "series": "1400",
+  "series_title": "Series 1400 False Imprisonment",
+  "page_start": 972,
+  "page_end": 973,
+  "instruction_text": "1403. False Arrest Without Warrant by Private Citizen–Essential\nFactual Elements\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun] was wrongfully\narrested by [ name of defendant ]. To establish this claim, [ name of plaintiff ]\nmust prove all of the following:\n1. That [ name of defendant ] intentionally caused [ name of plaintiff ] to\nbe arrested without a warrant; [and]\n2. That [ name of plaintiff ] was [actually] harmed; and\n3. That [ name of defendant ]'s conduct was a substantial factor in\ncausing [ name of plaintiff ]'s harm.\n[A private person does not need to physically restrain a suspect in order\nto make a citizen's arrest. A private person can make a citizen's arrest\nby calling for a peace officer, reporting the offense, and pointing out the\nsuspect.]",
+  "directions_for_use": "Give CACI No. 1404, False Arrest Without Warrant–Affırmative Defense–Private\nCitizen–Probable Cause to Arrest , if applicable, immediately after this instruction.\nIf the plaintiff is seeking nominal damages as an alternative to actual damages,\ninsert the following paragraph above element 2:\nIf you ﬁnd the above, then the law assumes that [ name of plaintiff ] has been\nharmed and [he/she/ nonbinary pronoun] is entitled to a nominal sum such as\none dollar. [ Name of plaintiff ] is also entitled to additional damages if [he/she/\nnonbinary pronoun] proves the following:\nThe second sentence, along with the ﬁnal two elements of this instruction, should be\nomitted if plaintiff is seeking nominal damages only. Read \"actually\" in the second\nelement only if nominal damages are also being sought.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Arrest\" Deﬁned. Penal Code section 834.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "834",
+          "display": "Penal Code section 834",
+          "raw": "Penal Code section 834",
+          "span": [
+            17,
+            39
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"False arrest and false imprisonment are the same tort. False arrest is a way of\ncommitting false imprisonment.\" ( Cox v. Griffın (2019) 34 Cal. App.5th 440, 446,\nfn. 6 [246 Cal. Rptr.3d 185].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cox v. Griffın",
+          "year": 2019,
+          "volume": 34,
+          "reporter": "Cal.App.5th",
+          "page": 440,
+          "pin": "446",
+          "raw": "Cox v. Griffın (2019) 34 Cal. App.5th 440, 446",
+          "span": [
+            115,
+            161
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"It has long been the law that a cause of action for false imprisonment is stated\nwhere it is alleged that there was an arrest without process, followed by\nimprisonment and damages. Upon proof of those facts the burden is on the\ndefendant to prove justiﬁcation for the arrest.\" ( Cervantez v. J.C. Penney Co.\n898\n(1979) 24 Cal. 3d 579, 592 [156 Cal. Rptr. 198, 595 P.2d 975].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" '[T]he delegation of the physical act of arrest need not be express, but may be\nimplied from the citizen's act of summoning an officer, reporting the offense, and\npointing out the suspect.' \" ( Johanson v. Dept. of Motor V ehicles (1995) 36\nCal. App.4th 1209, 1216 [43 Cal. Rptr.2d 42], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§511, 512\n3 Levy et al., California Torts, Ch. 42, False Imprisonment and False Arrest ,\n§42.22 (Matthew Bender)\n22 California Forms of Pleading and Practice, Ch. 257, False Imprisonment\n(Matthew Bender)\nCalifornia Civil Practice: Torts §§13:8–13:10 (Thomson Reuters)\nFALSE IMPRISONMENT CACI No. 1403\n899",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "834",
+      "display": "Penal Code section 834",
+      "raw": "Penal Code section 834",
+      "span": [
+        17,
+        39
+      ],
+      "role": "sources",
+      "statute_key": "CA/PEN/834"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Cox v. Griffın",
+      "year": 2019,
+      "volume": 34,
+      "reporter": "Cal.App.5th",
+      "page": 440,
+      "pin": "446",
+      "raw": "Cox v. Griffın (2019) 34 Cal. App.5th 440, 446",
+      "span": [
+        115,
+        161
+      ],
+      "role": "sources",
+      "case_key": "34 Cal.App.5th 440"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

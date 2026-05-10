@@ -1,0 +1,168 @@
+{
+  "id": "CACI-311",
+  "edition": "2026",
+  "number": "311",
+  "title": "Contract Formation—Rejection of Offer",
+  "title_full": "Contract Formation—Rejection of Offer",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 183,
+  "page_end": 184,
+  "instruction_text": "311. Contract Formation–Rejection of Offer\n[Name of defendant ] contends that the offer to enter into a contract\nterminated because [ name of plaintiff ] rejected it. To overcome this\ncontention, [ name of plaintiff ] must prove both of the following:\n1. That [ name of plaintiff ] did not reject [ name of defendant ]'s offer;\nand\n2. That [ name of plaintiff ] did not make any additions or changes to\nthe terms of [ name of defendant ]'s offer.\nIf [ name of plaintiff ] did not prove both of the above, then a contract was\nnot created.",
+  "directions_for_use": "Do not give this instruction unless the defendant has testiﬁed or offered other\nevidence in support of the contention that the plaintiff rejected the offer.\nNote that rejections of a contract offer, or proposed alterations to an offer, are\neffective only if they are communicated to the other party. (See Beverly Way\nAssociates v. Barham (1990) 226 Cal. App.3d 49, 55 [276 Cal. Rptr. 240].) If it is\nnecessary for the jury to make a ﬁnding regarding the issue of communication then\nthis instruction may need to be modiﬁed.\nThis instruction assumes that the defendant is claiming plaintiff rejected defendant's\noffer. Change the identities of the parties in the indented paragraphs if, under the\nfacts of the case, the roles of the parties are switched (e.g., if defendant was the\nalleged offeree).\nConceptually, this instruction dovetails with CACI No. 309, Contract\nFormation–Acceptance. This instruction is designed for the situation where a party\nhas rejected an offer by not accepting it on its terms.",
+  "sources_and_authority": [
+    {
+      "raw": "Acceptance. Civil Code section 1585.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1585",
+          "display": "Civil Code section 1585",
+          "raw": "Civil Code section 1585",
+          "span": [
+            12,
+            35
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Cases provide that \"a qualiﬁed acceptance amounts to a new proposal or\ncounter-offer putting an end to the original offer. . . . A counter-offer containing\na condition different from that in the original offer is a new proposal and, if not\naccepted by the original offeror, amounts to nothing.\" ( Apablasa v. Merritt and\nCo. (1959) 176 Cal. App.2d 719, 726 [1 Cal. Rptr. 500], internal citations\nomitted.) More succinctly: \"The rejection of an offer kills the offer.\" ( Stanley v.\nRobert S. Odell and Co. (1950) 97 Cal. App.2d 521, 534 [218 P.2d 162].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Apablasa v. Merritt and Co.",
+          "year": 1959,
+          "volume": 176,
+          "reporter": "Cal.App.2d",
+          "page": 719,
+          "pin": "726",
+          "raw": "Apablasa v. Merritt and Co. (1959) 176 Cal. App.2d 719, 726",
+          "span": [
+            297,
+            356
+          ]
+        },
+        {
+          "name": "Stanley v. Robert S. Odell and Co.",
+          "year": 1950,
+          "volume": 97,
+          "reporter": "Cal.App.2d",
+          "page": 521,
+          "pin": "534",
+          "raw": "Stanley v. Robert S. Odell and Co. (1950) 97 Cal. App.2d 521, 534",
+          "span": [
+            470,
+            535
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]erms proposed in an offer must be met exactly, precisely and unequivocally\nfor its acceptance to result in the formation of a binding contract; and a qualiﬁed\n109\nacceptance amounts to a new proposal or counteroffer putting an end to the\noriginal offer.\" ( Panagotacos v. Bank of America (1998) 60 Cal. App.4th 851,\n855–856 [70 Cal. Rptr.2d 595].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Panagotacos v. Bank of America",
+          "year": 1998,
+          "volume": 60,
+          "reporter": "Cal.App.4th",
+          "page": 851,
+          "pin": "855–856",
+          "raw": "Panagotacos v. Bank of America (1998) 60 Cal. App.4th 851, 855–856",
+          "span": [
+            261,
+            327
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "The original offer terminates as soon as the rejection is communicated to the\nofferor: \"It is hornbook law that an unequivocal rejection by an offeree,\ncommunicated to the offeror, terminates the offer; even if the offeror does no\nfurther act, the offeree cannot later purport to accept the offer and thereby create\nenforceable contractual rights against the offeror.\" ( Beverly Way Associates,\nsupra, 226 Cal. App.3d at p. 55.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §163\n13 California Forms of Pleading and Practice, Ch. 140, Contracts, §140.22\n(Matthew Bender)\n5 California Points and Authorities, Ch. 50, Contracts, §50.352 (Matthew Bender)\n27 California Legal Forms, Ch. 75, Formation of Contracts and Standard\nContractual Provisions, §§75.212–75.214 (Matthew Bender)\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 13, Attacking\nor Defending Existence of Contract–Absence of Essential Element , 13.23–13.24\nCACI No. 311 CONTRACTS\n110",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1585",
+      "display": "Civil Code section 1585",
+      "raw": "Civil Code section 1585",
+      "span": [
+        12,
+        35
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1585"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Apablasa v. Merritt and Co.",
+      "year": 1959,
+      "volume": 176,
+      "reporter": "Cal.App.2d",
+      "page": 719,
+      "pin": "726",
+      "raw": "Apablasa v. Merritt and Co. (1959) 176 Cal. App.2d 719, 726",
+      "span": [
+        297,
+        356
+      ],
+      "role": "sources",
+      "case_key": "176 Cal.App.2d 719"
+    },
+    {
+      "name": "Stanley v. Robert S. Odell and Co.",
+      "year": 1950,
+      "volume": 97,
+      "reporter": "Cal.App.2d",
+      "page": 521,
+      "pin": "534",
+      "raw": "Stanley v. Robert S. Odell and Co. (1950) 97 Cal. App.2d 521, 534",
+      "span": [
+        470,
+        535
+      ],
+      "role": "sources",
+      "case_key": "97 Cal.App.2d 521"
+    },
+    {
+      "name": "Panagotacos v. Bank of America",
+      "year": 1998,
+      "volume": 60,
+      "reporter": "Cal.App.4th",
+      "page": 851,
+      "pin": "855–856",
+      "raw": "Panagotacos v. Bank of America (1998) 60 Cal. App.4th 851, 855–856",
+      "span": [
+        261,
+        327
+      ],
+      "role": "sources",
+      "case_key": "60 Cal.App.4th 851"
+    },
+    {
+      "name": "See Beverly Way Associates v. Barham",
+      "year": 1990,
+      "volume": 226,
+      "reporter": "Cal.App.3d",
+      "page": 49,
+      "pin": "55",
+      "raw": "See Beverly Way Associates v. Barham (1990) 226 Cal. App.3d 49, 55",
+      "span": [
+        301,
+        367
+      ],
+      "role": "directions",
+      "case_key": "226 Cal.App.3d 49"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

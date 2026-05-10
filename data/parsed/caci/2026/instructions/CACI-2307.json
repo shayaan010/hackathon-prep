@@ -1,0 +1,321 @@
+{
+  "id": "CACI-2307",
+  "edition": "2026",
+  "number": "2307",
+  "title": "Insurance Agency Relationship Disputed",
+  "title_full": "Insurance Agency Relationship Disputed",
+  "title_statute": null,
+  "series": "2300",
+  "series_title": "Series 2300 Insurance Litigation",
+  "page_start": 1460,
+  "page_end": 1462,
+  "instruction_text": "2307. Insurance Agency Relationship Disputed\n[Name of plaintiff ] claims that [ name of agent ] was [ name of defendant ]'s\nagent and that [ name of defendant ] is therefore [responsible for/bound by]\n[name of agent ]'s [conduct/ representations].\nIf [ name of plaintiff ] proves that [ name of defendant ] gave [ name of agent ]\nthe [authority/apparent authority] to act on behalf of [ name of defendant ],\nthen [ name of agent ] was [ name of defendant ]'s agent. This authority may\nbe shown by words or may be implied by the parties' conduct. This\nauthority cannot be shown by the words of [ name of agent ] alone.\n[In some circumstances, an individual can be the agent of both the\ninsured and the insurance company. [ Name of plaintiff ] claims that [ name\nof agent ] was [[ name of defendant ]/[name of plaintiff ]]'s agent for the\npurpose of [ describe limited agency; e.g., \"collecting insurance payments\" ]\nand therefore [ describe dispute; e.g., \"the insurer received plaintiff' s\npayment\"]. [ Name of defendant ] claims that [ name of agent ] was [[ name of\ndefendant]/[name of plaintiff ]]'s agent for the purpose of [ describe limited\nagency] and therefore [ describe dispute ].]",
+  "directions_for_use": "The instructions in this series assume the plaintiff is the insured and the defendant is\nthe insurer. The party designations may be changed if appropriate to the facts of the\ncase.\nThis instruction must be modiﬁed based on the evidence presented and theories of\nliability in the case. The distinction between an agent and a broker relationship may\nbe crucial in determining, for example, whether an insurance salesperson's\nrepresentations bind the insurer, or whether the insurance salesperson has assumed a\nspeciﬁc duty to the insured.\nIf ostensible agency is an issue, the court may modify and give CACI No. 3709,\nOstensible Agent , in the Vicarious Responsibility series.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Insurance Agent\" Deﬁned. Insurance Code section 31.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "31",
+          "display": "Insurance Code section 31",
+          "raw": "Insurance Code section 31",
+          "span": [
+            26,
+            51
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Insurance Broker\" Deﬁned. Insurance Code section 33.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "33",
+          "display": "Insurance Code section 33",
+          "raw": "Insurance Code section 33",
+          "span": [
+            27,
+            52
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Actual or Ostensible Authority of Agent. Civil Code section 2315.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2315",
+          "display": "Civil Code section 2315",
+          "raw": "Civil Code section 2315",
+          "span": [
+            41,
+            64
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"An individual cannot act as an insurance agent in California without a valid\nlicense issued by the commissioner of insurance. In addition to possessing a\nlicense, an insurance agent must be authorized by an insurance carrier to transact\ninsurance business on the carrier's behalf. This authorization must be evidenced\n1386\nby a notice of agency appointment on ﬁle with the Department of Insurance. An\nagent is generally not limited in the number of agency appointments that he or\nshe may have; thus, an agent may solicit business on behalf of a variety of\ndifferent insurance carriers, and still technically be an agent of each of those\ncarriers.\" ( Loehr v. Great Republic Insurance Co. (1990) 226 Cal. App.3d 727,\n732–733 [276 Cal. Rptr. 667], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Loehr v. Great Republic Insurance Co.",
+          "year": 1990,
+          "volume": 226,
+          "reporter": "Cal.App.3d",
+          "page": 727,
+          "pin": "732–733",
+          "raw": "Loehr v. Great Republic Insurance Co. (1990) 226 Cal. App.3d 727, 732–733",
+          "span": [
+            651,
+            724
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"An agent's primary duty is to represent the insurer in transactions with\ninsurance applicants and policyholders. Each company the agent represents must\nﬁle a notice of appointment with the DOI's commissioner. Because an agent\nrepresents the insurer, an agent's representations to an insured regarding\ncoverage are treated as representations by the insurer. Generally, some hallmarks\nof an insurance agent (as opposed to a broker) are licensure, notice of\nappointment as an agent and the power to bind the insurer. In contrast, a\nbroker's primary duty is to represent the applicant/insured, and his or her actions\nare not generally binding on the insurer. 'Put quite simply, insurance brokers,\nwith no binding authority, are not agents of insurance companies, but are rather\nindependent contractors . . . .' Of course, these labels alone are not\ndeterminative of the relationship, and the speciﬁc facts of each transaction must\nbe reviewed. The general laws of agency inform any such review.\" ( Douglas v.\nFidelity National Ins. Co. (2014) 229 Cal. App.4th 392, 410–411 [177\nCal. Rptr.3d 271], original italics, internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Douglas v. Fidelity National Ins. Co.",
+          "year": 2014,
+          "volume": 229,
+          "reporter": "Cal.App.4th",
+          "page": 392,
+          "pin": "410–411",
+          "raw": "Douglas v. Fidelity National Ins. Co. (2014) 229 Cal. App.4th 392, 410–411",
+          "span": [
+            995,
+            1069
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[S]tatutes deﬁning 'broker' are not determinative of the actual relationship in a\nparticular case. The actual relationship is determined by what the parties do and\nsay, not by the name they are called.\" ( Maloney v. Rhode Island Insurance Co.\n(1953) 115 Cal. App.2d 238, 245 [251 P.2d 1027], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Maloney v. Rhode Island Insurance Co.",
+          "year": 1953,
+          "volume": 115,
+          "reporter": "Cal.App.2d",
+          "page": 238,
+          "pin": "245",
+          "raw": "Maloney v. Rhode Island Insurance Co. (1953) 115 Cal. App.2d 238, 245",
+          "span": [
+            206,
+            275
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"While we note many similarities in the services performed and the monetary\nfunctions of agents and brokers, there is a more fundamental legal distinction\nbetween insurance agents and brokers. Put quite simply, insurance brokers, with\nno binding authority, are not agents of insurance companies, but are rather\nindependent contractors . . . .\" ( Marsh & McLennan of California, Inc. v. City of\nLos Angeles (1976) 62 Cal. App.3d 108, 118 [132 Cal. Rptr. 796].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "McLennan of California, Inc. v. City of Los Angeles",
+          "year": 1976,
+          "volume": 62,
+          "reporter": "Cal.App.3d",
+          "page": 108,
+          "pin": "118",
+          "raw": "McLennan of California, Inc. v. City of Los Angeles (1976) 62 Cal. App.3d 108, 118",
+          "span": [
+            354,
+            436
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Although an insurance broker is ordinarily the agent of the insured and not of\nthe insurer, he may become the agent of the insurer as well as for the insured.\"\n(Fraser-Yamor Agency, Inc. v. County of Del Norte (1977) 68 Cal. App.3d 201,\n213 [137 Cal. Rptr. 118], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Fraser-Yamor Agency, Inc. v. County of Del Norte",
+          "year": 1977,
+          "volume": 68,
+          "reporter": "Cal.App.3d",
+          "page": 201,
+          "pin": "213",
+          "raw": "Fraser-Yamor Agency, Inc. v. County of Del Norte (1977) 68 Cal. App.3d 201, 213",
+          "span": [
+            162,
+            241
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"When the broker accepts the policy from the insurer and the premium from the\nassured, he has elected to act for the insurer to deliver the policy and to collect\nthe premium.\" ( Maloney, supra, 115 Cal. App.2d at p. 244.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Generally speaking, a person may do by agent any act which he might do\nhimself. An agency is either actual or ostensible. 'An agency is ostensible when\nthe principal intentionally, or by want of ordinary care, causes a third person to\nbelieve another to be his agent who is not really employed by him.' To establish\nostensible authority in an agent, it must be shown the principal, intentionally or\nINSURANCE LITIGA TION CACI No. 2307\n1387\nby want of ordinary care has caused or allowed a third person to believe the\nagent possesses such authority.\" ( Preis v. American Indemnity Co. (1990) 220\nCal. App.3d 752, 761 [269 Cal. Rptr. 617], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Preis v. American Indemnity Co.",
+          "year": 1990,
+          "volume": 220,
+          "reporter": "Cal.App.3d",
+          "page": 752,
+          "pin": "761",
+          "raw": "Preis v. American Indemnity Co. (1990) 220 Cal. App.3d 752, 761",
+          "span": [
+            553,
+            616
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "Croskey et al., California Practice Guide: Insurance Litigation, Ch. 2A, Agents and\nBrokers, ¶¶ 2:12–2:24, 2:31–2:43 (The Rutter Group)\n1 California Liability Insurance Practice: Claims & Litigation (Cont.Ed.Bar)\nDetermining Whether Enforceable Obligation Exists, §§5.4–5.8\n2 California Liability Insurance Practice: Claims & Litigation (Cont.Ed.Bar) Actions\nAgainst Agents and Brokers, §§29.2–29.5\n2 California Insurance Law & Practice, Ch. 9, Issuance of Insurance Policies , §9.02\n(Matthew Bender)\n5 California Insurance Law & Practice, Ch. 61, Operating Requirements of Agents\nand Brokers, §61.01[4] (Matthew Bender)\n2 California Uninsured Motorist Law, Ch. 24, Bad Faith in Uninsured Motorist\nLaw, §24.40 (Matthew Bender)\n26 California Forms of Pleading and Practice, Ch. 308, Insurance, §308.114\n(Matthew Bender)\n12 California Points and Authorities, Ch. 120, Insurance, §§120.18, 120.110,\n120.170, 120.383, 120.392, 120.403 (Matthew Bender)\nCACI No. 2307 INSURANCE LITIGA TION\n1388",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "31",
+      "display": "Insurance Code section 31",
+      "raw": "Insurance Code section 31",
+      "span": [
+        26,
+        51
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/31"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "33",
+      "display": "Insurance Code section 33",
+      "raw": "Insurance Code section 33",
+      "span": [
+        27,
+        52
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/33"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "2315",
+      "display": "Civil Code section 2315",
+      "raw": "Civil Code section 2315",
+      "span": [
+        41,
+        64
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/2315"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Loehr v. Great Republic Insurance Co.",
+      "year": 1990,
+      "volume": 226,
+      "reporter": "Cal.App.3d",
+      "page": 727,
+      "pin": "732–733",
+      "raw": "Loehr v. Great Republic Insurance Co. (1990) 226 Cal. App.3d 727, 732–733",
+      "span": [
+        651,
+        724
+      ],
+      "role": "sources",
+      "case_key": "226 Cal.App.3d 727"
+    },
+    {
+      "name": "Douglas v. Fidelity National Ins. Co.",
+      "year": 2014,
+      "volume": 229,
+      "reporter": "Cal.App.4th",
+      "page": 392,
+      "pin": "410–411",
+      "raw": "Douglas v. Fidelity National Ins. Co. (2014) 229 Cal. App.4th 392, 410–411",
+      "span": [
+        995,
+        1069
+      ],
+      "role": "sources",
+      "case_key": "229 Cal.App.4th 392"
+    },
+    {
+      "name": "Maloney v. Rhode Island Insurance Co.",
+      "year": 1953,
+      "volume": 115,
+      "reporter": "Cal.App.2d",
+      "page": 238,
+      "pin": "245",
+      "raw": "Maloney v. Rhode Island Insurance Co. (1953) 115 Cal. App.2d 238, 245",
+      "span": [
+        206,
+        275
+      ],
+      "role": "sources",
+      "case_key": "115 Cal.App.2d 238"
+    },
+    {
+      "name": "McLennan of California, Inc. v. City of Los Angeles",
+      "year": 1976,
+      "volume": 62,
+      "reporter": "Cal.App.3d",
+      "page": 108,
+      "pin": "118",
+      "raw": "McLennan of California, Inc. v. City of Los Angeles (1976) 62 Cal. App.3d 108, 118",
+      "span": [
+        354,
+        436
+      ],
+      "role": "sources",
+      "case_key": "62 Cal.App.3d 108"
+    },
+    {
+      "name": "Fraser-Yamor Agency, Inc. v. County of Del Norte",
+      "year": 1977,
+      "volume": 68,
+      "reporter": "Cal.App.3d",
+      "page": 201,
+      "pin": "213",
+      "raw": "Fraser-Yamor Agency, Inc. v. County of Del Norte (1977) 68 Cal. App.3d 201, 213",
+      "span": [
+        162,
+        241
+      ],
+      "role": "sources",
+      "case_key": "68 Cal.App.3d 201"
+    },
+    {
+      "name": "Preis v. American Indemnity Co.",
+      "year": 1990,
+      "volume": 220,
+      "reporter": "Cal.App.3d",
+      "page": 752,
+      "pin": "761",
+      "raw": "Preis v. American Indemnity Co. (1990) 220 Cal. App.3d 752, 761",
+      "span": [
+        553,
+        616
+      ],
+      "role": "sources",
+      "case_key": "220 Cal.App.3d 752"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:16+00:00"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "CACI-551",
+  "edition": "2026",
+  "number": "551",
+  "title": "Affirmative Defense—Waiver",
+  "title_full": "Affirmative Defense—Waiver",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 567,
+  "page_end": 567,
+  "instruction_text": "551. Affirmative Defense–Waiver\n[Name of defendant ] claims that [he/she/ nonbinary pronoun] did not have\nto inform [ name of patient ] of the risks of the [ insert medical procedure ]\nbecause [ name of patient ] asked not to be told of the risks.\nIf [ name of defendant ] has proved that [ name of patient ] told [him/her/\nnonbinary pronoun] that [he/she/ nonbinary pronoun] did not want to be\ninformed of the risks of the [ insert medical procedure ], then you must\nconclude that [ name of defendant ] was not negligent in failing to inform\n[name of patient ] of the risks.",
+  "directions_for_use": "\"Whenever appropriate, the court should instruct the jury on the defenses available\nto a doctor who has failed to make the disclosure required by law.\" ( Cobbs v. Grant\n(1972) 8 Cal. 3d 229, 245 [104 Cal. Rptr. 505, 502 P.2d 1].) This instruction could be\nmodiﬁed to cover \"informed refusal\" cases by redrafting it to state, in substance,\nthat the plaintiff indicated that the plaintiff did not want to be informed of the risks\nof refusing the test.",
+  "sources_and_authority": [
+    {
+      "raw": "\"[A] medical doctor need not make disclosure of risks when the patient requests\nthat he not be so informed.\" ( Cobbs, supra, 8 Cal. 3d at p. 245.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "This defense is considered a \"justiﬁcation.\" Justiﬁcation for failure to disclose is\nan affirmative defense on which the defendant has the burden of proof. ( Mathis\nv. Morrissey (1992) 11 Cal. App.4th 332, 347, fn. 9 [13 Cal. Rptr.2d 819].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Mathis v. Morrissey",
+          "year": 1992,
+          "volume": 11,
+          "reporter": "Cal.App.4th",
+          "page": 332,
+          "pin": "347",
+          "raw": "Mathis v. Morrissey (1992) 11 Cal. App.4th 332, 347",
+          "span": [
+            158,
+            209
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "In Putensen v. Clay Adams, Inc. (1970) 12 Cal. App.3d 1062, 1083–1084 [91\nCal. Rptr. 319], the court held that it was not error for the court to refuse an\ninstruction on informed consent where the evidence showed that the doctor's\nattempt to explain the medical procedure was prevented by the plaintiff's\ninsistence on remaining ignorant of the risks involved.",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "In Putensen v. Clay Adams, Inc.",
+          "year": 1970,
+          "volume": 12,
+          "reporter": "Cal.App.3d",
+          "page": 1062,
+          "pin": "1083–1084",
+          "raw": "In Putensen v. Clay Adams, Inc. (1970) 12 Cal. App.3d 1062, 1083–1084",
+          "span": [
+            0,
+            69
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§466, 469\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §9.11\n3 Levy et al., California Torts, Ch. 31, Liability of Physicians and Other Medical\nPractitioners, §31.14 (Matthew Bender)\n36 California Forms of Pleading and Practice, Ch. 415, Physicians: Medical\nMalpractice, §415.13 (Matthew Bender)\n493",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Mathis v. Morrissey",
+      "year": 1992,
+      "volume": 11,
+      "reporter": "Cal.App.4th",
+      "page": 332,
+      "pin": "347",
+      "raw": "Mathis v. Morrissey (1992) 11 Cal. App.4th 332, 347",
+      "span": [
+        158,
+        209
+      ],
+      "role": "sources",
+      "case_key": "11 Cal.App.4th 332"
+    },
+    {
+      "name": "In Putensen v. Clay Adams, Inc.",
+      "year": 1970,
+      "volume": 12,
+      "reporter": "Cal.App.3d",
+      "page": 1062,
+      "pin": "1083–1084",
+      "raw": "In Putensen v. Clay Adams, Inc. (1970) 12 Cal. App.3d 1062, 1083–1084",
+      "span": [
+        0,
+        69
+      ],
+      "role": "sources",
+      "case_key": "12 Cal.App.3d 1062"
+    },
+    {
+      "name": "Cobbs v. Grant",
+      "year": 1972,
+      "volume": 8,
+      "reporter": "Cal.3d",
+      "page": 229,
+      "pin": "245",
+      "raw": "Cobbs v. Grant (1972) 8 Cal. 3d 229, 245",
+      "span": [
+        154,
+        194
+      ],
+      "role": "directions",
+      "case_key": "8 Cal.3d 229"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

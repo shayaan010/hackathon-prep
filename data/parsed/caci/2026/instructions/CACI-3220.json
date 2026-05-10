@@ -1,0 +1,79 @@
+{
+  "id": "CACI-3220",
+  "edition": "2026",
+  "number": "3220",
+  "title": "Affirmative Defense—Unauthorized or Unreasonable Use",
+  "title_full": "Affirmative Defense—Unauthorized or Unreasonable Use",
+  "title_statute": null,
+  "series": "3200",
+  "series_title": "Series 3200 Song-Beverly Consumer Warranty Act",
+  "page_start": 2387,
+  "page_end": 2387,
+  "instruction_text": "3220. Affirmative Defense–Unauthorized or Unreasonable Use\n[Name of defendant ] is not responsible for any harm to [ name of plaintiff ]\nif [ name of defendant ] proves that the [[ specify defect(s) in the consumer\ngood]/failure to match the [written/implied] warranty] [was/were] caused\nby unauthorized or unreasonable use of the [ consumer good ] after it was\nsold.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "Unauthorized or Unreasonable Use. Civil Code section 1794.3.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1794.3",
+          "display": "Civil Code section 1794.3",
+          "raw": "Civil Code section 1794.3",
+          "span": [
+            34,
+            59
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The Song-Beverly Act provides that a breach of the warranty of merchantability\noccurs when a good becomes unﬁt for the ordinary purpose for which it is used.\nAn exception occurs when the defect or nonconformity is caused by the buyer's\nunauthorized or unreasonable use under Civil Code section 1794.3. 'It is a\n\"familiar\" and \"longstanding\" legal principle that \" '[w]hen a proviso . . .\ncarves an exception out of the body of a statute or contract those who set up\nsuch exception must prove it.' \" [Citations.]' Defendant, as the party claiming the\nexemption from the Song-Beverly Act, had the burden to prove the\nexemption. . . . Plaintiff alleged the vehicle became unﬁt and presented\nuncontradicted evidence that the vehicle had ceased functioning; to avail itself of\nCivil Code section 1794.3, defendant had to allege and prove that,\nnotwithstanding the unﬁtness, the Song-Beverly Act did not apply due to\nplaintiff's improper use or maintenance.\" ( Jones v. Credit Auto Center , Inc.\n(2015) 237 Cal. App.4th Supp. 1, 10–11 [188 Cal. Rptr.3d 578], internal citations\nomitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1794.3",
+          "display": "Civil Code section 1794.3",
+          "raw": "Civil Code section 1794.3",
+          "span": [
+            276,
+            301
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1794.3",
+          "display": "Civil Code section 1794.3",
+          "raw": "Civil Code section 1794.3",
+          "span": [
+            773,
+            798
+          ]
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "4 Witkin, Summary of California Law (11th ed. 2017) Sales, §§321, 322\nCalifornia Products Liability Actions, Ch. 8, Defenses, §8.07[7] (Matthew Bender)\n44 California Forms of Pleading and Practice, Ch. 502, Sales: Warranties, §502.51\n(Matthew Bender)\nCalifornia Civil Practice: Business Litigation §53:59 (Thomson Reuters)\n501",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1794.3",
+      "display": "Civil Code section 1794.3",
+      "raw": "Civil Code section 1794.3",
+      "span": [
+        34,
+        59
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1794.3"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

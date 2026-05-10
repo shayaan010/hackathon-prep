@@ -1,0 +1,86 @@
+{
+  "id": "CACI-327",
+  "edition": "2026",
+  "number": "327",
+  "title": "Assignment Not Contested",
+  "title_full": "Assignment Not Contested",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 215,
+  "page_end": 215,
+  "instruction_text": "327. Assignment Not Contested\n[Name of plaintiff ] was not a party to the original contract. However, [he/\nshe/nonbinary pronoun/it] may bring a claim for breach of contract\nbecause [ name of assignor ] transferred the rights under the contract to\n[name of plaintiff ]. This transfer is referred to as an \"assignment.\"",
+  "directions_for_use": "This instruction is intended to explain to the jury why a party not named in the\noriginal contract is nevertheless a party to the case.",
+  "sources_and_authority": [
+    {
+      "raw": "Oral Assignment. Civil Code section 1052.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1052",
+          "display": "Civil Code section 1052",
+          "raw": "Civil Code section 1052",
+          "span": [
+            17,
+            40
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"To 'assign' ordinarily means to transfer title or ownership of property, but an\nassignment, to be effective, must include manifestation to another person by the\nowner of his intention to transfer the right, without further action, to such other\nperson or to a third person. It is the substance and not the form of a transaction\nwhich determines whether an assignment was intended. If from the entire\ntransaction and the conduct of the parties it clearly appears that the intent of the\nparties was to pass title to the chose in action, then an assignment will be held\nto have taken place.\" ( McCown v. Spencer (1970) 8 Cal. App.3d 216, 225 [87\nCal. Rptr. 213], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "McCown v. Spencer",
+          "year": 1970,
+          "volume": 8,
+          "reporter": "Cal.App.3d",
+          "page": 216,
+          "pin": "225",
+          "raw": "McCown v. Spencer (1970) 8 Cal. App.3d 216, 225",
+          "span": [
+            592,
+            639
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§727–739\n6 California Forms of Pleading and Practice, Ch. 60, Assignments, §60.20 (Matthew\nBender)\n27 California Legal Forms, Ch. 76, Assignments of Rights and Obligations , §76.201\n(Matthew Bender)\n2 Matthew Bender Practice Guide: California Contract Litigation, Ch. 22, Suing or\nDefending Action for Breach of Contract , 22.51–22.56, 22.58, 22.59\n141",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1052",
+      "display": "Civil Code section 1052",
+      "raw": "Civil Code section 1052",
+      "span": [
+        17,
+        40
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1052"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "McCown v. Spencer",
+      "year": 1970,
+      "volume": 8,
+      "reporter": "Cal.App.3d",
+      "page": 216,
+      "pin": "225",
+      "raw": "McCown v. Spencer (1970) 8 Cal. App.3d 216, 225",
+      "span": [
+        592,
+        639
+      ],
+      "role": "sources",
+      "case_key": "8 Cal.App.3d 216"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

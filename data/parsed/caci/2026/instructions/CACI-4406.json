@@ -1,0 +1,268 @@
+{
+  "id": "CACI-4406",
+  "edition": "2026",
+  "number": "4406",
+  "title": "Misappropriation by Disclosure",
+  "title_full": "Misappropriation by Disclosure",
+  "title_statute": null,
+  "series": "4400",
+  "series_title": "Series 4400 Trade Secrets",
+  "page_start": 3132,
+  "page_end": 3134,
+  "instruction_text": "4406. Misappropriation by Disclosure\n[Name of defendant ] misappropriated [ name of plaintiff ]'s trade secret[s]\nby disclosure if [ name of defendant ]\n1. disclosed [it/them] without [ name of plaintiff ]'s consent; and\n2. [did any of the following:]\n2. [insert one or more of the following: ]\n2. [acquired knowledge of the trade secret[s] by improper means][./;\nor]\n2. [at the time of disclosure, knew or had reason to know that [his/\nher/nonbinary pronoun /its] knowledge of [ name of plaintiff ]'s trade\nsecret[s] came from or through [ name of third party ], and that\n[name of third party ] had previously acquired the trade secret[s]\nby improper means][./; or]\n2. [at the time of disclosure, knew or had reason to know that [his/\nher/nonbinary pronoun /its] knowledge of [ name of plaintiff ]'s trade\nsecret[s] was acquired [ insert circumstances giving rise to duty to\nmaintain secrecy ], which created a duty to keep the [ select short\nterm to describe, e.g., information ] secret][./; or]\n2. [at the time of disclosure, knew or had reason to know that [his/\nher/nonbinary pronoun /its] knowledge of [ name of plaintiff ]'s trade\nsecret[s] came from or through [ name of third party ], and that\n[name of third party ] had a duty to [ name of plaintiff ] to keep the\n[e.g., information ] secret][./; or]\n2. [before a material change of [his/her/ nonbinary pronoun /its]\nposition, knew or had reason to know that [it was/they were] [a]\ntrade secret[s] and that knowledge of [it/them] had been acquired\nby accident or mistake.]",
+  "directions_for_use": "Read this instruction with CACI No. 4401 , Misappropriation of Trade\nSecrets–Essential Factual Elements, if the plaintiff claims that the defendant's\ndisclosure of the information alleged to be a trade secret is a misappropriation.\nIf consent is at issue, CACI No. 1302, Consent Explained, and CACI No. 1303,\nInvalid Consent, may also be given.\nIn element 2, select the applicable statutory act(s) alleged to constitute\nmisappropriation by disclosure. (See Civ. Code, §3624.1(b)(2).) If only one act is\n1246\nselected, omit the words \"did any of the following.\"\nIf either of the ﬁrst two acts constituting misappropriation by disclosure is alleged,\ngive also CACI No. 4408, Improper Means of Acquiring Trade Secret .",
+  "sources_and_authority": [
+    {
+      "raw": "\"Misappropriation\" Deﬁned. Civil Code section 3426.1(b)(2).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1",
+          "raw": "Civil Code section 3426.1(b)(2)",
+          "span": [
+            27,
+            58
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1(b)",
+          "raw": "Civil Code section 3426.1(b)(2)",
+          "span": [
+            27,
+            58
+          ],
+          "subsection": "b"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1(2)",
+          "raw": "Civil Code section 3426.1(b)(2)",
+          "span": [
+            27,
+            58
+          ],
+          "subsection": "2"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Constructive Notice. Civil Code section 19.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "19",
+          "display": "Civil Code section 19",
+          "raw": "Civil Code section 19",
+          "span": [
+            21,
+            42
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The fact that [defendant]'s postings were not of the 'entire secret,' and included\nonly portions of courses, does not mean that [defendant]'s disclosures are not\nmisappropriations. While previous partial disclosures arguably made public only\nthose parts disclosed, [defendant]'s partial disclosures of non-public portions of\nthe secrets may themselves be actionable because they constitute 'disclosure . . .\nwithout . . . consent by a person who . . . knew or had reason to know that his\n. . . knowledge of the trade secret was . . . [either] derived from or through a\nperson who had utilized improper means to acquire it [or] acquired under\ncircumstances giving rise to a duty to maintain its secrecy or limit its use.' \"\n(Religious Tech. Ctr . v. Netcom On-Line Commun. Servs. (N.D. Cal. 1995) 923\nF.Supp. 1231, 1257, fn. 31.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Under the UTSA, simple disclosure or use may suffice to create liability. It is\nno longer necessary, if it ever was, to prove that the purpose to which the\nacquired information is put is outweighed by the interests of the trade secret\nholder or that use of a trade secret cannot be prohibited if it is infeasible to do\nso.\" ( Morlife, Inc. v. Perry (1997) 56 Cal. App.4th 1514, 1527 [66 Cal. Rptr.2d\n731].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Morlife, Inc. v. Perry",
+          "year": 1997,
+          "volume": 56,
+          "reporter": "Cal.App.4th",
+          "page": 1514,
+          "pin": "1527",
+          "raw": "Morlife, Inc. v. Perry (1997) 56 Cal. App.4th 1514, 1527",
+          "span": [
+            327,
+            383
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[N]othing in the UTSA requires that the defendant gain any advantage from the\ndisclosure; it is sufficient to show 'use' by disclosure of a trade secret with\nactual or constructive knowledge that the secret was acquired under\ncircumstances giving rise to a duty to maintain its secrecy.\" ( Religious Tech. Ctr .,\nsupra, 923 F.Supp. at p. 1257, fn. 31.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Liability under CUTSA is not dependent on the defendant's 'comprehension' of\nthe trade secret but does require 'knowledge' of it.\" ( Silvaco Data Systems v.\nIntel Corp . (2010) 184 Cal. App.4th 210, 229 [109 Cal. Rptr.3d 27].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'Knowledge,' of course, is '[t]he fact or condition of knowing,' . . . and in this\ncontext, '[t]he fact of knowing a thing, state, etc. . . .' (8 Oxford English Dict.,\nsupra, p. 517.) To 'know' a thing is to have information of that thing at one's\ncommand, in one's possession, subject to study, disclosure, and exploitation. To\nsay that one 'knows' a fact is also to say that one possesses information of that\nfact. Thus, although the Restatement Third of Unfair Competition does not\nidentify knowledge of the trade secret as an element of a trade secrets cause of\naction, the accompanying comments make it clear that liability presupposes the\ndefendant's 'possession' of misappropriated information.\" ( Silvaco, supra, 184\nCal. App.4th at pp. 225–226, original italics.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The record contains no evidence that [defendant] ever possessed or had\nTRADE SECRETS CACI No. 4406\n1247\nknowledge of any source code connected with either [software product]. So far\nas the record shows, [defendant] never had access to that code, could not\ndisclose any part of it to anyone else, and had no way of using it to write or\nimprove code of its own. [Defendant] appears to have been in substantially the\nsame position as the customer in the pie shop who is accused of stealing the\nsecret recipe because he bought a pie with knowledge that a rival baker had\naccused the seller of using the rival's stolen recipe. The customer does not, by\nbuying or eating the pie, gain knowledge of the recipe used to make it.\"\n(Silvaco, supra, 184 Cal. App.4th at p. 226.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"When a competitor hires a former employee of plaintiff who is likely to\ndisclose trade secrets, '[i]t is a question of fact whether the competitor had\nconstructive notice of the plaintiff's right in the secret.' \" ( Ralph Andrews\nProductions, Inc. v. Paramount Pictures Corp. (1990) 222 Cal. App.3d 676,\n682–683 [271 Cal. Rptr. 797], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ralph Andrews Productions, Inc. v. Paramount Pictures Corp.",
+          "year": 1990,
+          "volume": 222,
+          "reporter": "Cal.App.3d",
+          "page": 676,
+          "pin": "682–683",
+          "raw": "Ralph Andrews Productions, Inc. v. Paramount Pictures Corp. (1990) 222 Cal. App.3d 676, 682–683",
+          "span": [
+            217,
+            312
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.53[1][b] (Matthew Bender)\n49 California Forms of Pleading and Practice, Ch. 565, Unfair Competition ,\n§565.103[4][c] (Matthew Bender)\nEdelson & Kay, eds., Trade Secret Litigation and Protection in California (State Bar\nof California 2009) Chs. 2, 6, 12\nGaab & Reese, California Practice Guide: Civil Procedure Before Trial–Claims &\nDefenses, Ch. 10(II)-A ¶ 10:250 (The Rutter Group)\nCACI No. 4406 TRADE SECRETS\n1248",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1",
+      "raw": "Civil Code section 3426.1(b)(2)",
+      "span": [
+        27,
+        58
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1(b)",
+      "raw": "Civil Code section 3426.1(b)(2)",
+      "span": [
+        27,
+        58
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1(2)",
+      "raw": "Civil Code section 3426.1(b)(2)",
+      "span": [
+        27,
+        58
+      ],
+      "subsection": "2",
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1/2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "19",
+      "display": "Civil Code section 19",
+      "raw": "Civil Code section 19",
+      "span": [
+        21,
+        42
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/19"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3624.1",
+      "display": "Civil Code section 3624.1",
+      "raw": "Civ. Code, §3624.1(b)(2)",
+      "span": [
+        457,
+        481
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3624.1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3624.1",
+      "display": "Civil Code section 3624.1(b)",
+      "raw": "Civ. Code, §3624.1(b)(2)",
+      "span": [
+        457,
+        481
+      ],
+      "subsection": "b",
+      "role": "directions",
+      "statute_key": "CA/CIV/3624.1/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3624.1",
+      "display": "Civil Code section 3624.1(2)",
+      "raw": "Civ. Code, §3624.1(b)(2)",
+      "span": [
+        457,
+        481
+      ],
+      "subsection": "2",
+      "role": "directions",
+      "statute_key": "CA/CIV/3624.1/2"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Morlife, Inc. v. Perry",
+      "year": 1997,
+      "volume": 56,
+      "reporter": "Cal.App.4th",
+      "page": 1514,
+      "pin": "1527",
+      "raw": "Morlife, Inc. v. Perry (1997) 56 Cal. App.4th 1514, 1527",
+      "span": [
+        327,
+        383
+      ],
+      "role": "sources",
+      "case_key": "56 Cal.App.4th 1514"
+    },
+    {
+      "name": "Ralph Andrews Productions, Inc. v. Paramount Pictures Corp.",
+      "year": 1990,
+      "volume": 222,
+      "reporter": "Cal.App.3d",
+      "page": 676,
+      "pin": "682–683",
+      "raw": "Ralph Andrews Productions, Inc. v. Paramount Pictures Corp. (1990) 222 Cal. App.3d 676, 682–683",
+      "span": [
+        217,
+        312
+      ],
+      "role": "sources",
+      "case_key": "222 Cal.App.3d 676"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

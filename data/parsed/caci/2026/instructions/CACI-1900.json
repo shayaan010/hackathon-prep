@@ -1,0 +1,474 @@
+{
+  "id": "CACI-1900",
+  "edition": "2026",
+  "number": "1900",
+  "title": "Intentional Misrepresentation",
+  "title_full": "Intentional Misrepresentation",
+  "title_statute": null,
+  "series": "1900",
+  "series_title": "Series 1900 Fraud Or Deceit",
+  "page_start": 1260,
+  "page_end": 1262,
+  "instruction_text": "1900. Intentional Misrepresentation\n[Name of plaintiff ] claims that [ name of defendant ] made a false\nrepresentation that harmed [him/her/ nonbinary pronoun/it]. To establish\nthis claim, [ name of plaintiff ] must prove all of the following:\n1. That [ name of defendant ] represented to [ name of plaintiff ] that a\nfact was true;\n2. That [ name of defendant ]'s representation was false;\n3. That [ name of defendant ] knew that the representation was false\nwhen [he/she/ nonbinary pronoun ] made it, or that\n[he/she/nonbinary pronoun ] made the representation recklessly and\nwithout regard for its truth;\n4. That [ name of defendant ] intended that [ name of plaintiff ] rely on\nthe representation;\n5. That [ name of plaintiff ] reasonably relied on [ name of defendant ]'s\nrepresentation;\n6. That [ name of plaintiff ] was harmed; and\n7. That [ name of plaintiff ]'s reliance on [ name of defendant ]'s\nrepresentation was a substantial factor in causing\n[his/her/nonbinary pronoun /its] harm.",
+  "directions_for_use": "Give this instruction in a case in which it is alleged that the defendant made an\nintentional misrepresentation of fact. (See Civ. Code, §1710(1).) If element 5 is\ncontested, give CACI No. 1907, Reliance, and CACI No. 1908, Reasonable\nReliance. If it is disputed that a representation was made, the jury should be\ninstructed that \"a representation may be made orally, in writing, or by nonverbal\nconduct.\" (See Thrifty-Tel, Inc. v. Bezenek (1996) 46 Cal. App.4th 1559, 1567 [54\nCal. Rptr.2d 468].)\nThe representation must ordinarily be an affirmation of fact, as opposed to an\nopinion. (See Cohen v. S&S Construction Co. (1983) 151 Cal. App.3d 941, 946 [201\nCal. Rptr. 173].) Opinions are addressed in CACI No. 1904, Opinions as Statements\nof Fact .",
+  "sources_and_authority": [
+    {
+      "raw": "Actionable Deceit. Civil Code section 1709.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1709",
+          "display": "Civil Code section 1709",
+          "raw": "Civil Code section 1709",
+          "span": [
+            19,
+            42
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Intentional Misrepresentation. Civil Code section 1710(1).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1710",
+          "display": "Civil Code section 1710",
+          "raw": "Civil Code section 1710(1)",
+          "span": [
+            31,
+            57
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1710",
+          "display": "Civil Code section 1710(1)",
+          "raw": "Civil Code section 1710(1)",
+          "span": [
+            31,
+            57
+          ],
+          "subsection": "1"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Fraud in Contract Formation. Civil Code section 1572.\n1186",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1572",
+          "display": "Civil Code section 1572",
+          "raw": "Civil Code section 1572",
+          "span": [
+            29,
+            52
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The elements of fraud that will give rise to a tort action for deceit are: \" '(a)\nmisrepresentation (false representation, concealment, or nondisclosure); (b)\nknowledge of falsity (or 'scienter'); (c) intent to defraud, i.e., to induce reliance;\n(d) justiﬁable reliance; and (e) resulting damage.' \" ( Engalla v. Permanente\nMedical Group, Inc. (1997) 15 Cal. 4th 951, 974 [64 Cal. Rptr.2d 843, 938 P.2d\n903], internal quotation marks omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Engalla v. Permanente Medical Group, Inc.",
+          "year": 1997,
+          "volume": 15,
+          "reporter": "Cal.4th",
+          "page": 951,
+          "pin": "974",
+          "raw": "Engalla v. Permanente Medical Group, Inc. (1997) 15 Cal. 4th 951, 974",
+          "span": [
+            303,
+            372
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A complaint for fraud must allege the following elements: (1) a knowingly false\nrepresentation by the defendant; (2) an intent to deceive or induce reliance; (3)\njustiﬁable reliance by the plaintiff; and (4) resulting damages.\" ( Service by\nMedallion, Inc. v. Clorox Co. (1996) 44 Cal. App.4th 1807, 1816 [52 Cal. Rptr.2d\n650] [combining misrepresentation and scienter as a single element].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Medallion, Inc. v. Clorox Co.",
+          "year": 1996,
+          "volume": 44,
+          "reporter": "Cal.App.4th",
+          "page": 1807,
+          "pin": "1816",
+          "raw": "Medallion, Inc. v. Clorox Co. (1996) 44 Cal. App.4th 1807, 1816",
+          "span": [
+            242,
+            305
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Puffing,\" or sales talk, is generally considered opinion, unless it involves a\nrepresentation of product safety. ( Hauter v. Zogarts (1975) 14 Cal. 3d 104, 112\n[120 Cal. Rptr. 681, 534 P.2d 377].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hauter v. Zogarts",
+          "year": 1975,
+          "volume": 14,
+          "reporter": "Cal.3d",
+          "page": 104,
+          "pin": "112",
+          "raw": "Hauter v. Zogarts (1975) 14 Cal. 3d 104, 112",
+          "span": [
+            116,
+            160
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Fraud is an intentional tort; it is the element of fraudulent intent, or intent to\ndeceive, that distinguishes it from actionable negligent misrepresentation and\nfrom nonactionable innocent misrepresentation. It is the element of intent which\nmakes fraud actionable, irrespective of any contractual or ﬁduciary duty one\nparty might owe to the other.\" ( City of Atascadero v. Merrill Lynch, Pierce,\nFenner & Smith (1998) 68 Cal. App.4th 445, 482 [80 Cal. Rptr.2d 329], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[F]raudulent intent is an issue for the trier of fact to decide.\" ( Beckwith v. Dahl\n(2012) 205 Cal. App.4th 1039, 1061 [141 Cal. Rptr.3d 142].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Beckwith v. Dahl",
+          "year": 2012,
+          "volume": 205,
+          "reporter": "Cal.App.4th",
+          "page": 1039,
+          "pin": "1061",
+          "raw": "Beckwith v. Dahl (2012) 205 Cal. App.4th 1039, 1061",
+          "span": [
+            69,
+            120
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he trial court failed to consider that a cause of action based in fraud may\narise from conduct that is designed to mislead, and not only from verbal or\nwritten statements.\" ( Tenet Healthsystem Desert, Inc. v. Blue Cross of California\n(2016) 245 Cal. App.4th 821, 839 [199 Cal. Rptr.3d 901].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Tenet Healthsystem Desert, Inc. v. Blue Cross of California",
+          "year": 2016,
+          "volume": 245,
+          "reporter": "Cal.App.4th",
+          "page": 821,
+          "pin": "839",
+          "raw": "Tenet Healthsystem Desert, Inc. v. Blue Cross of California (2016) 245 Cal. App.4th 821, 839",
+          "span": [
+            179,
+            271
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A] cause of action for misrepresentation requires an affirmative statement, not\nan implied assertion.\" ( RSB Vineyards, LLC v. Orsi (2017) 15 Cal. App.5th 1089,\n1102 [223 Cal. Rptr.3d 458].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "RSB Vineyards, LLC v. Orsi",
+          "year": 2017,
+          "volume": 15,
+          "reporter": "Cal.App.5th",
+          "page": 1089,
+          "pin": "1102",
+          "raw": "RSB Vineyards, LLC v. Orsi (2017) 15 Cal. App.5th 1089, 1102",
+          "span": [
+            107,
+            167
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" '[F]alse representations made recklessly and without regard for their truth in\norder to induce action by another are the equivalent of misrepresentations\nknowingly and intentionally uttered.' \" ( Engalla, supra, 15 Cal. 4th at p. 974,\nquoting Yellow Creek Logging Corp. v. Dare (1963) 216 Cal. App.2d 50, 55 [30\nCal. Rptr. 629].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Yellow Creek Logging Corp. v. Dare",
+          "year": 1963,
+          "volume": 216,
+          "reporter": "Cal.App.2d",
+          "page": 50,
+          "pin": "55",
+          "raw": "Yellow Creek Logging Corp. v. Dare (1963) 216 Cal. App.2d 50, 55",
+          "span": [
+            245,
+            309
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]here are two causation elements in a fraud cause of action. First, the\nplaintiff's actual and justiﬁable reliance on the defendant's misrepresentation\nmust have caused him to take a detrimental course of action. Second, the\ndetrimental action taken by the plaintiff must have caused his alleged damage.\"\n(Beckwith, supra, 205 Cal. App.4th at p. 1062.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A 'complete causal relationship' between the fraud or deceit and the plaintiff's\ndamages is required. . . . Causation requires proof that the defendant's conduct\nFRAUD OR DECEIT CACI No. 1900\n1187\nwas a \" 'substantial factor' \" in bringing about the harm to the plaintiff.\"\n(Williams v. Wraxall (1995) 33 Cal. App.4th 120, 132 [39 Cal. Rptr.2d 658],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Williams v. Wraxall",
+          "year": 1995,
+          "volume": 33,
+          "reporter": "Cal.App.4th",
+          "page": 120,
+          "pin": "132",
+          "raw": "Williams v. Wraxall (1995) 33 Cal. App.4th 120, 132",
+          "span": [
+            276,
+            327
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" ' \"Misrepresentation, even maliciously committed, does not support a cause of\naction unless the plaintiff suffered consequential damages.\" ' \" [Citation.]'\n[Citation.] Indeed, ' \" '[a]ssuming . . . a claimant's reliance on the actionable\nmisrepresentation, no liability attaches if the damages sustained were otherwise\ninevitable or due to unrelated causes.' [Citation.]\" [Citation.] [If the defrauded\nplaintiff would have suffered the alleged damage even in the absence of the\nfraudulent inducement, causation cannot be alleged and a fraud cause of action\ncannot be sustained.' \" ( Orcilla v. Big Sur , Inc. (2016) 244 Cal. App.4th 982,\n1008 [198 Cal. Rptr.3d 715].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The law is well established that actionable misrepresentations must pertain to\npast or existing material facts. Statements or predictions regarding future events\nare deemed to be mere opinions which are not actionable.\" ( Cansino v. Bank of\nAmerica (2014) 224 Cal. App.4th 1462, 1469 [169 Cal. Rptr.3d 619], internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cansino v. Bank of America",
+          "year": 2014,
+          "volume": 224,
+          "reporter": "Cal.App.4th",
+          "page": 1462,
+          "pin": "1469",
+          "raw": "Cansino v. Bank of America (2014) 224 Cal. App.4th 1462, 1469",
+          "span": [
+            223,
+            284
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§294, 883, 939, 943,\n944, 949\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§§40.02, 40.05 (Matthew Bender)\n23 California Forms of Pleading and Practice, Ch. 269, Fraud and Deceit , §269.19\n(Matthew Bender)\n10 California Points and Authorities, Ch. 105, Fraud and Deceit , §105.80 et seq.\n(Matthew Bender)\nCalifornia Civil Practice: Torts §22:12 (Thomson Reuters)\nCACI No. 1900 FRAUD OR DECEIT\n1188",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1709",
+      "display": "Civil Code section 1709",
+      "raw": "Civil Code section 1709",
+      "span": [
+        19,
+        42
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1709"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1710",
+      "display": "Civil Code section 1710",
+      "raw": "Civil Code section 1710(1)",
+      "span": [
+        31,
+        57
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1710"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1710",
+      "display": "Civil Code section 1710(1)",
+      "raw": "Civil Code section 1710(1)",
+      "span": [
+        31,
+        57
+      ],
+      "subsection": "1",
+      "role": "sources",
+      "statute_key": "CA/CIV/1710/1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1572",
+      "display": "Civil Code section 1572",
+      "raw": "Civil Code section 1572",
+      "span": [
+        29,
+        52
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1572"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Engalla v. Permanente Medical Group, Inc.",
+      "year": 1997,
+      "volume": 15,
+      "reporter": "Cal.4th",
+      "page": 951,
+      "pin": "974",
+      "raw": "Engalla v. Permanente Medical Group, Inc. (1997) 15 Cal. 4th 951, 974",
+      "span": [
+        303,
+        372
+      ],
+      "role": "sources",
+      "case_key": "15 Cal.4th 951"
+    },
+    {
+      "name": "Medallion, Inc. v. Clorox Co.",
+      "year": 1996,
+      "volume": 44,
+      "reporter": "Cal.App.4th",
+      "page": 1807,
+      "pin": "1816",
+      "raw": "Medallion, Inc. v. Clorox Co. (1996) 44 Cal. App.4th 1807, 1816",
+      "span": [
+        242,
+        305
+      ],
+      "role": "sources",
+      "case_key": "44 Cal.App.4th 1807"
+    },
+    {
+      "name": "Hauter v. Zogarts",
+      "year": 1975,
+      "volume": 14,
+      "reporter": "Cal.3d",
+      "page": 104,
+      "pin": "112",
+      "raw": "Hauter v. Zogarts (1975) 14 Cal. 3d 104, 112",
+      "span": [
+        116,
+        160
+      ],
+      "role": "sources",
+      "case_key": "14 Cal.3d 104"
+    },
+    {
+      "name": "Beckwith v. Dahl",
+      "year": 2012,
+      "volume": 205,
+      "reporter": "Cal.App.4th",
+      "page": 1039,
+      "pin": "1061",
+      "raw": "Beckwith v. Dahl (2012) 205 Cal. App.4th 1039, 1061",
+      "span": [
+        69,
+        120
+      ],
+      "role": "sources",
+      "case_key": "205 Cal.App.4th 1039"
+    },
+    {
+      "name": "Tenet Healthsystem Desert, Inc. v. Blue Cross of California",
+      "year": 2016,
+      "volume": 245,
+      "reporter": "Cal.App.4th",
+      "page": 821,
+      "pin": "839",
+      "raw": "Tenet Healthsystem Desert, Inc. v. Blue Cross of California (2016) 245 Cal. App.4th 821, 839",
+      "span": [
+        179,
+        271
+      ],
+      "role": "sources",
+      "case_key": "245 Cal.App.4th 821"
+    },
+    {
+      "name": "RSB Vineyards, LLC v. Orsi",
+      "year": 2017,
+      "volume": 15,
+      "reporter": "Cal.App.5th",
+      "page": 1089,
+      "pin": "1102",
+      "raw": "RSB Vineyards, LLC v. Orsi (2017) 15 Cal. App.5th 1089, 1102",
+      "span": [
+        107,
+        167
+      ],
+      "role": "sources",
+      "case_key": "15 Cal.App.5th 1089"
+    },
+    {
+      "name": "Yellow Creek Logging Corp. v. Dare",
+      "year": 1963,
+      "volume": 216,
+      "reporter": "Cal.App.2d",
+      "page": 50,
+      "pin": "55",
+      "raw": "Yellow Creek Logging Corp. v. Dare (1963) 216 Cal. App.2d 50, 55",
+      "span": [
+        245,
+        309
+      ],
+      "role": "sources",
+      "case_key": "216 Cal.App.2d 50"
+    },
+    {
+      "name": "Williams v. Wraxall",
+      "year": 1995,
+      "volume": 33,
+      "reporter": "Cal.App.4th",
+      "page": 120,
+      "pin": "132",
+      "raw": "Williams v. Wraxall (1995) 33 Cal. App.4th 120, 132",
+      "span": [
+        276,
+        327
+      ],
+      "role": "sources",
+      "case_key": "33 Cal.App.4th 120"
+    },
+    {
+      "name": "Cansino v. Bank of America",
+      "year": 2014,
+      "volume": 224,
+      "reporter": "Cal.App.4th",
+      "page": 1462,
+      "pin": "1469",
+      "raw": "Cansino v. Bank of America (2014) 224 Cal. App.4th 1462, 1469",
+      "span": [
+        223,
+        284
+      ],
+      "role": "sources",
+      "case_key": "224 Cal.App.4th 1462"
+    },
+    {
+      "name": "See Thrifty-Tel, Inc. v. Bezenek",
+      "year": 1996,
+      "volume": 46,
+      "reporter": "Cal.App.4th",
+      "page": 1559,
+      "pin": "1567",
+      "raw": "See Thrifty-Tel, Inc. v. Bezenek (1996) 46 Cal. App.4th 1559, 1567",
+      "span": [
+        407,
+        473
+      ],
+      "role": "directions",
+      "case_key": "46 Cal.App.4th 1559"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:14+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "CACI-VF-3501",
+  "edition": "2026",
+  "number": "VF-3501",
+  "title": "Fair Market Value Plus Severance Damages",
+  "title_full": "Fair Market Value Plus Severance Damages",
+  "title_statute": null,
+  "series": "VF-3500",
+  "series_title": "Series 3500 Eminent Domain",
+  "page_start": 2593,
+  "page_end": 2593,
+  "instruction_text": "VF-3501. Fair Market Value Plus Severance Damages\nWe answer the questions submitted to us as follows:\n1. What was the fair market value of the property taken on [ date of\nvaluation]? $\nAnswer question 2.\n2. What was the fair market value of the remaining property on\n[date of valuation ]? $\nAnswer question 3.\n3. What would the fair market value of the remaining property\nhave been on [ date of valuation ] if the [ name of public entity ]'s\nproposed project were completed as planned?\n$\nSigned:\nPresiding Juror\nDated:\nAfter [this verdict form has/all verdict forms have] been signed, notify\nthe [clerk/bailiff/court attendant].\n\n2024",
+  "directions_for_use": "This verdict form is based on CACI No. 3501, \"Fair Market V alue\" Explained, and\nCACI No. 3511, Permanent Severance Damages .\nThe special verdict forms in this section are intended only as models. They may\nneed to be modiﬁed depending on the facts of the case. For example, if the public\nentity's project was completed before the date of valuation, modify question 3\naccordingly.\nIf the jury is given the discretion under Civil Code section 3288 to award\nprejudgment interest (see Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801,\n814 [148 Cal. Rptr. 22, 582 P.2d 109]), give CACI No. 3935, Prejudgment Interest.\nThis verdict form may need to be augmented for the jury to make any factual\nﬁndings that are required in order to calculate the amount of prejudgment interest.\n707",
+  "sources_and_authority": [],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3288",
+      "display": "Civil Code section 3288",
+      "raw": "Civil Code section 3288",
+      "span": [
+        422,
+        445
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3288"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Bullis v. Security Pac. Nat'l Bank",
+      "year": 1978,
+      "volume": 21,
+      "reporter": "Cal.3d",
+      "page": 801,
+      "pin": "814",
+      "raw": "Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801, 814",
+      "span": [
+        481,
+        542
+      ],
+      "role": "directions",
+      "case_key": "21 Cal.3d 801"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

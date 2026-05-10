@@ -1,0 +1,158 @@
+{
+  "id": "CACI-4400",
+  "edition": "2026",
+  "number": "4400",
+  "title": "Misappropriation of Trade Secrets—Introduction",
+  "title_full": "Misappropriation of Trade Secrets—Introduction",
+  "title_statute": null,
+  "series": "4400",
+  "series_title": "Series 4400 Trade Secrets",
+  "page_start": 3116,
+  "page_end": 3118,
+  "instruction_text": "4400. Misappropriation of Trade Secrets–Introduction\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun/it] [is/was] the\n[owner/licensee] of [ insert general description of alleged trade secret[s] ].\n[Name of plaintiff ] claims that [this/these] [ select short term to describe,\ne.g., information ] [is/are] [a] trade secret[s] and that [ name of defendant ]\nmisappropriated [it/them]. \"Misappropriation\" means the improper\n[acquisition/use/ [or] disclosure] of the trade secret[s].\n[Name of plaintiff ] also claims that [ name of defendant ]'s misappropriation\ncaused [[him/her/ nonbinary pronoun/it] harm/ [or] [ name of defendant ] to\nbe unjustly enriched].\n[Name of defendant ] denies [ insert denial of any of the above claims ].\n[[Name of defendant ] also claims [ insert affırmative defenses ].]",
+  "directions_for_use": "This instruction is designed to introduce the jury to the issues involved in a case\ninvolving the misappropriation of trade secrets under the California Uniform Trade\nSecrets Act. (See Civ. Code, §3426.1 et seq.) It should be read before the\ninstructions on the substantive law.\nIn the ﬁrst sentence, provide only a general description of the alleged trade secrets.\nThen in the second sentence, select a short term to identify the items, such as\n\"information,\" \"customer lists,\" or \"computer code.\" The items that are alleged to\nbe trade secrets will be described with more speciﬁcity in CACI No. 4401,\nMisappropriation of Trade Secrets–Essential Factual Elements .\nSelect the appropriate term, \"owner\" or \"licensee,\" to indicate the plaintiff's interest\nin the alleged trade secrets. No reported California state court decision has\naddressed whether a licensee has a sufficient interest to assert a claim of trade secret\nmisappropriation. These instructions take no position on this issue. The court should\nmake a determination whether the plaintiff has the right as a matter of substantive\nlaw to maintain a cause of action for misappropriation of trade secrets if that issue\nis disputed.\nCivil Code section 3426.1(b)(1) deﬁnes \"misappropriation\" as improper\n\"[a]cquisition\" of a trade secret, and subsection (b)(2) deﬁnes it as improper\n\"[d]isclosure or use\" of a trade secret. In some cases, the mere acquisition of a trade\nsecret, as distinguished from a related disclosure or use, will not result in damages\nand will only be relevant to injunctive relief. Because generally the jury should be\ninstructed only on matters relevant to damage claims, do not select \"acquiring\" in\nthe second paragraph unless there is evidence that the acquisition resulted in\ndamages, other than damages from related disclosure or use.\n1230\nTo avoid confusion, instruct the jury only on the particular theory of\nmisappropriation applicable under the facts of the case. For example, the jury should\nnot be instructed on misappropriation through \"use\" if the plaintiff does not assert\nthat the defendant improperly used the trade secrets. Nor should the jury be\ninstructed on a particular type of \"use\" if that type of \"use\" is not asserted and\nsupported by the evidence.\nIn the third paragraph, select the nature of the recovery sought, either damages for\nharm to the plaintiff or for the defendant's unjust enrichment, or both.\nInclude the last paragraph if the defendant asserts any affirmative defenses.",
+  "sources_and_authority": [
+    {
+      "raw": "Uniform Trade Secrets Act: Deﬁnitions. Civil Code section 3426.1.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1",
+          "raw": "Civil Code section 3426.1",
+          "span": [
+            39,
+            64
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]e agree with the federal cases applying California law, which hold that\nsection 3426.7, subdivision (b), preempts common law claims that are 'based on\nthe same nucleus of facts as the misappropriation of trade secrets claim for\nrelief.' Depending on the particular facts pleaded, the statute can operate to\npreempt the speciﬁc common claims asserted here: breach of conﬁdence,\ninterference with contract, and unfair competition.\" ( K.C. Multimedia, Inc. v.\nBank of America Technology & Operations, Inc. (2009) 171 Cal. App.4th 939,\n958–959 [90 Cal. Rptr.3d 247], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" ' \"Trade secret law promotes the sharing of knowledge, and the efficient\noperation of industry; it permits the individual inventor to reap the rewards of\nhis labor by contracting with a company large enough to develop and exploit it.\"\n[Citation.]' 'Trade secret law also helps maintain \"standards of commercial ethics\n. . . .\" [Citation.] . . . By sanctioning the acquisition, use, and disclosure of\nanother's valuable, proprietary information by improper means, trade secret law\nminimizes \"the inevitable cost to the basic decency of society when one . . .\nsteals from another.\" [Citation.] In doing so, it recognizes that \" 'good faith and\nhonest, fair dealing, is the very life and spirit of the commercial world.' \" ' \"\n(Altavion, Inc. v. Konica Minolta Systems Laboratory, Inc. (2014) 226\nCal. App.4th 26, 42 [171 Cal. Rptr.3d 714], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Altavion, Inc. v. Konica Minolta Systems Laboratory, Inc.",
+          "year": 2014,
+          "volume": 226,
+          "reporter": "Cal.App.4th",
+          "page": 26,
+          "pin": "42",
+          "raw": "Altavion, Inc. v. Konica Minolta Systems Laboratory, Inc. (2014) 226 Cal. App.4th 26, 42",
+          "span": [
+            727,
+            815
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[W]e ﬁnd no support for [a current-ownership] rule in the text of the CUTSA,\ncases applying it, or legislative history. Nor do we ﬁnd any evidence of such a\nrule in patent or copyright law, which defendants have cited by analogy.\nDefendants have offered no persuasive argument from policy for our adoption of\nsuch a rule.\" ( Jasmine Networks, Inc. v. Superior Court (2009) 180 Cal. App.4th\n980, 986 [103 Cal. Rptr.3d 426].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Jasmine Networks, Inc. v. Superior Court",
+          "year": 2009,
+          "volume": 180,
+          "reporter": "Cal.App.4th",
+          "page": 980,
+          "pin": "986",
+          "raw": "Jasmine Networks, Inc. v. Superior Court (2009) 180 Cal. App.4th 980, 986",
+          "span": [
+            326,
+            399
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he only California authority [defendant] cited for the asserted requirement\n[that a trade-secrets plaintiff must own the trade secret when the action is ﬁled]\nwas the official California pattern jury instructions–whose 'ﬁrst element,'\n[defendant] asserted, 'requires the plaintiff to be either the owner or the licensee\nof the trade secret. See CACI Nos. 4400, 4401.' [Defendant] did not quote the\ncited instructions–for good reason. The most that can be said in favor of its\nTRADE SECRETS CACI No. 4400\n1231\nreading is that the broader and less speciﬁc of the two instructions uses the\npresent tense to refer to the requirement of ownership. That instruction, whose\navowed purpose is 'to introduce the jury to the issues involved' in a trade secrets\ncase (Directions for Use for CACI No. 4400), describes the plaintiff as claiming\nthat he 'is' the owner/licensee of the trade secrets underlying the suit. (CACI No.\n4400.) The second instruction, which enumerates the actual elements of the\nplaintiff's cause of action, dispels whatever weak whiff of relevance this use of\nthe present tense might have. It requires the plaintiff to prove that he 'own ed' or\n'was a licensee of' the trade secrets at issue. (CACI No. 4401, italics added.)\nGiven only these instructions to go on, one would suppose that past\nownership–i.e., ownership at the time of the alleged misappropriation–is\nsufficient to establish this element.\" ( Jasmine Networks, Inc. , supra, 180\nCal. App.4th at p. 997, original italics.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "13 Witkin, Summary of California Law (11th ed. 2017) Equity, §83\nGaab & Reese, California Practice Guide: Civil Procedure Before Trial–Claims &\nDefenses, Ch. 10(II)-A ¶ 10:250 (The Rutter Group)\n1 Milgrim on Trade Secrets, Ch. 1, Deﬁnitional Aspects , §1.01 (Matthew Bender)\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.50 et seq. (Matthew Bender)\n49 California Forms of Pleading and Practice, Ch. 565, Unfair Competition ,\n§565.103 (Matthew Bender)\n1 Zamore, Business Torts, Ch. 17, Trade Secrets, §17.05 et seq. (Matthew Bender)\nEdelson & Kay, eds., Trade Secret Litigation and Protection in California (State Bar\nof California 2009) Chs. 1, 2, 6, 12\nCACI No. 4400 TRADE SECRETS\n1232",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1",
+      "raw": "Civil Code section 3426.1",
+      "span": [
+        39,
+        64
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1(b)",
+      "raw": "Civil Code section 3426.1(b)(1)",
+      "span": [
+        1191,
+        1222
+      ],
+      "subsection": "b",
+      "role": "directions",
+      "statute_key": "CA/CIV/3426.1/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1(1)",
+      "raw": "Civil Code section 3426.1(b)(1)",
+      "span": [
+        1191,
+        1222
+      ],
+      "subsection": "1",
+      "role": "directions",
+      "statute_key": "CA/CIV/3426.1/1"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Altavion, Inc. v. Konica Minolta Systems Laboratory, Inc.",
+      "year": 2014,
+      "volume": 226,
+      "reporter": "Cal.App.4th",
+      "page": 26,
+      "pin": "42",
+      "raw": "Altavion, Inc. v. Konica Minolta Systems Laboratory, Inc. (2014) 226 Cal. App.4th 26, 42",
+      "span": [
+        727,
+        815
+      ],
+      "role": "sources",
+      "case_key": "226 Cal.App.4th 26"
+    },
+    {
+      "name": "Jasmine Networks, Inc. v. Superior Court",
+      "year": 2009,
+      "volume": 180,
+      "reporter": "Cal.App.4th",
+      "page": 980,
+      "pin": "986",
+      "raw": "Jasmine Networks, Inc. v. Superior Court (2009) 180 Cal. App.4th 980, 986",
+      "span": [
+        326,
+        399
+      ],
+      "role": "sources",
+      "case_key": "180 Cal.App.4th 980"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

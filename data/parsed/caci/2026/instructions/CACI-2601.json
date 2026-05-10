@@ -1,0 +1,105 @@
+{
+  "id": "CACI-2601",
+  "edition": "2026",
+  "number": "2601",
+  "title": "Eligibility",
+  "title_full": "Eligibility",
+  "title_statute": null,
+  "series": "2600",
+  "series_title": "Series 2600 California Family Rights Act",
+  "page_start": 1892,
+  "page_end": 1892,
+  "instruction_text": "2601. Eligibility\nTo show that [he/she/ nonbinary pronoun] was eligible for [family care/\nmedical] leave, [ name of plaintiff ] must prove all of the following:\n1. That [ name of plaintiff ] was an employee of [ name of defendant ];\n[2. That [ name of defendant ] directly employed ﬁve or more\nemployees for a wage or salary;]\n3. That at the time [ name of plaintiff ] [requested/began] leave, [he/\nshe/nonbinary pronoun ] had more than 12 months of service with\n[name of defendant ] and had worked at least 1,250 hours for [ name\nof defendant ] during the previous 12 months; and\n4. That at the time [ name of plaintiff ] [requested/began] leave [ name\nof plaintiff ] had taken no more than 12 weeks of family care or\nmedical leave in the 12-month period [ deﬁne period ].",
+  "directions_for_use": "The CFRA applies to employers who directly employ ﬁve or more employees (and\nto the state and any political or civil subdivision of the state and cities of any size).\n(Gov. Code, §12945.2(b)(4).) Include element 2 only if there is a factual dispute\nabout the number of people the defendant directly employed for a wage or salary.",
+  "sources_and_authority": [
+    {
+      "raw": "Right to Family Care and Medical Leave. Government Code section 12945.2(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "12945.2",
+          "display": "Government Code section 12945.2",
+          "raw": "Government Code section 12945.2(a)",
+          "span": [
+            40,
+            74
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "12945.2",
+          "display": "Government Code section 12945.2(a)",
+          "raw": "Government Code section 12945.2(a)",
+          "span": [
+            40,
+            74
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "Chin et al., California Practice Guide: Employment Litigation, Ch. 12-A, Overview\nof Key Leave Laws , ¶ 12:32 (The Rutter Group)\nChin et al., California Practice Guide: Employment Litigation, Ch. 12-B, Family and\nMedical Leave Act (FMLA)/California Family Rights Act (CFRA) , ¶¶ 12:87, 12:125,\n12:390, 12:421, 12:1201, 12:1300 (The Rutter Group)\n11 California Forms of Pleading and Practice, Ch. 115, Civil Rights: Employment\nDiscrimination, §115.32[6][c] (Matthew Bender)\n6",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "12945.2",
+      "display": "Government Code section 12945.2",
+      "raw": "Government Code section 12945.2(a)",
+      "span": [
+        40,
+        74
+      ],
+      "role": "sources",
+      "statute_key": "CA/GOV/12945.2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "12945.2",
+      "display": "Government Code section 12945.2(a)",
+      "raw": "Government Code section 12945.2(a)",
+      "span": [
+        40,
+        74
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/GOV/12945.2/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "12945.2",
+      "display": "Government Code section 12945.2(b)",
+      "raw": "Gov. Code, §12945.2(b)(4)",
+      "span": [
+        168,
+        193
+      ],
+      "subsection": "b",
+      "role": "directions",
+      "statute_key": "CA/GOV/12945.2/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "12945.2",
+      "display": "Government Code section 12945.2(4)",
+      "raw": "Gov. Code, §12945.2(b)(4)",
+      "span": [
+        168,
+        193
+      ],
+      "subsection": "4",
+      "role": "directions",
+      "statute_key": "CA/GOV/12945.2/4"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:18+00:00"
+}

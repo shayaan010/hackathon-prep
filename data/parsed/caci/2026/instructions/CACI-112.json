@@ -1,0 +1,128 @@
+{
+  "id": "CACI-112",
+  "edition": "2026",
+  "number": "112",
+  "title": "Questions From Jurors",
+  "title_full": "Questions From Jurors",
+  "title_statute": null,
+  "series": "100",
+  "series_title": "Series 100 Pretrial",
+  "page_start": 103,
+  "page_end": 104,
+  "instruction_text": "112. Questions From Jurors\nIf, during the trial, you have a question that you believe should be asked\nof a witness, you may write out the question and send it to me through\nmy courtroom staff. I will share your question with the attorneys and\ndecide whether it may be asked.\nDo not feel disappointed if your question is not asked. Y our question\nmay not be asked for a variety of reasons. For example, the question\nmay call for an answer that is not allowed for legal reasons. Also, you\nshould not try to guess the reason why a question is not asked or\nspeculate about what the answer might have been. Because the decision\nwhether to allow the question is mine alone, do not hold it against any of\nthe attorneys or their clients if your question is not asked.\nRemember that you are not an advocate for one side or the other. Each\nof you is an impartial judge of the facts. Y our questions should be posed\nin as neutral a fashion as possible. Do not discuss any question asked by\nany juror with any other juror until after deliberations begin.",
+  "directions_for_use": "This is an optional instruction for use if the jurors will be allowed to ask questions\nof the witnesses. For an instruction to be given at the end of the trial, see CACI No.\n5019, Questions From Jurors . This instruction may be modiﬁed to account for an\nindividual judge's practice.",
+  "sources_and_authority": [
+    {
+      "raw": "Written Questions From Jurors. Rule 2.1033 of the California Rules of Court.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In a proper case there may be a real beneﬁt from allowing jurors to submit\nquestions under proper control by the court. However, in order to permit the\ncourt to exercise its discretion and maintain control of the trial, the correct\nprocedure is to have the juror write the questions for consideration by the court\nand counsel prior to their submission to the witness.\" ( People v. McAlister\n(1985) 167 Cal. App.3d 633, 644 [213 Cal. Rptr. 271].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. McAlister",
+          "year": 1985,
+          "volume": 167,
+          "reporter": "Cal.App.3d",
+          "page": 633,
+          "pin": "644",
+          "raw": "People v. McAlister (1985) 167 Cal. App.3d 633, 644",
+          "span": [
+            372,
+            423
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he judge has discretion to ask questions submitted by jurors or to pass those\nquestions on and leave to the discretion of counsel whether to ask the\nquestions.\" ( People v. Cummings (1993) 4 Cal. 4th 1233, 1305 [18 Cal. Rptr.2d\n796, 850 P.2d 1].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Cummings",
+          "year": 1993,
+          "volume": 4,
+          "reporter": "Cal.4th",
+          "page": 1233,
+          "pin": "1305",
+          "raw": "People v. Cummings (1993) 4 Cal. 4th 1233, 1305",
+          "span": [
+            167,
+            214
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The appellant urges that when jurymen ask improper questions the defendant is\nplaced in the delicate dilemma of either allowing such question to go in without\nobjection or of offending the jurors by making the objection and the appellant\ninsists that the court of its own motion should check the putting of such\n29\nimproper questions by the jurymen, and thus relieve the party injuriously\naffected thereby from the odium which might result from making that objection\nthereto. There is no force in this contention. Objections to questions, whether\nasked by a juror or by opposing counsel, are presented to the court, and its\nruling thereon could not reasonably affect the rights or standing of the party\nmaking the objection before the jury in the one case more than in the other.\"\n(Maris v. H. Crummey, Inc. (1921) 55 Cal. App. 573, 578–579 [204 P.259].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Maris v. H. Crummey, Inc.",
+          "year": 1921,
+          "volume": 55,
+          "reporter": "Cal.App.",
+          "page": 573,
+          "pin": "578–579",
+          "raw": "Maris v. H. Crummey, Inc. (1921) 55 Cal. App. 573, 578–579",
+          "span": [
+            783,
+            841
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "3 Witkin, California Evidence (5th ed. 2012) Presentation at Trial, §97\nWegner et al., California Practice Guide: Civil Trials & Evidence, Ch. 7-E, Juror\nQuestioning Of Witnesses , ¶ 7:45.11b (The Rutter Group)\n4 California Trial Guide, Unit 91, Jury Deliberations and Rendition of V erdict ,\n§§91.01–91.03 (Matthew Bender)\nCalifornia Judges Benchbook: Civil Proceedings–Trial §§3.96, 8.53 (Cal CJER\n2019)\nCACI No. 112 PRETRIAL INSTRUCTIONS\n30",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "People v. McAlister",
+      "year": 1985,
+      "volume": 167,
+      "reporter": "Cal.App.3d",
+      "page": 633,
+      "pin": "644",
+      "raw": "People v. McAlister (1985) 167 Cal. App.3d 633, 644",
+      "span": [
+        372,
+        423
+      ],
+      "role": "sources",
+      "case_key": "167 Cal.App.3d 633"
+    },
+    {
+      "name": "People v. Cummings",
+      "year": 1993,
+      "volume": 4,
+      "reporter": "Cal.4th",
+      "page": 1233,
+      "pin": "1305",
+      "raw": "People v. Cummings (1993) 4 Cal. 4th 1233, 1305",
+      "span": [
+        167,
+        214
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.4th 1233"
+    },
+    {
+      "name": "Maris v. H. Crummey, Inc.",
+      "year": 1921,
+      "volume": 55,
+      "reporter": "Cal.App.",
+      "page": 573,
+      "pin": "578–579",
+      "raw": "Maris v. H. Crummey, Inc. (1921) 55 Cal. App. 573, 578–579",
+      "span": [
+        783,
+        841
+      ],
+      "role": "sources",
+      "case_key": "55 Cal.App. 573"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

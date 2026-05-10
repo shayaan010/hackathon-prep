@@ -1,0 +1,91 @@
+{
+  "id": "CACI-2762",
+  "edition": "2026",
+  "number": "2762",
+  "title": "Rest Break Violations—Pay Owed",
+  "title_full": "Rest Break Violations—Pay Owed",
+  "title_statute": null,
+  "series": "2700",
+  "series_title": "Series 2700 Labor Code Actions",
+  "page_start": 1974,
+  "page_end": 1974,
+  "instruction_text": "2762. Rest Break Violations–Pay Owed\nFor each workday on which [ name of plaintiff ] has proved one or more\nrest break violations, [ name of defendant ] must pay one additional hour\nof pay at [ name of plaintiff ]'s regular rate of pay. Y ou must determine the\namount of pay owed for the rest break violations that [ name of plaintiff ]\nhas proved.\n[The \"regular rate of pay\" for [ name of plaintiff ] from [ insert beginning\ndate] to [ insert ending date ] was [ insert applicable formula ]. [ Repeat as\nnecessary for date ranges with different regular rates of pay .] Multiply the\nregular rate of pay by the number of workdays for which [ name of\nplaintiff] has proved one or more rest break violations.]",
+  "directions_for_use": "Give this instruction with CACI No. 2760, Rest Break Violations-Introduction , and\nCACI No. 2761, Rest Break Violations-Essential Factual Elements .\nRegular rate of pay includes the employee's base hourly rate of pay and all other\nforms of nondiscretionary compensation earned during the same pay period,\nincluding, for example, nondiscretionary bonuses, commissions, and shift\ndifferentials. (See Ferra v. Loews Hollywood Hotel, LLC (2021) 11 Cal. 5th 858, 878\n[280 Cal. Rptr.3d 783, 489 P.3d 1166] [holding that \"the term 'regular rate of\ncompensation' in [Labor Code] section 226.7(c) has the same meaning as 'regular\nrate of pay' in [Labor Code] section 510(a) and encompasses not only hourly wages\nbut all nondiscretionary payments for work performed by the employee\"].) The\nregular rate of pay may be different over different periods of time. The court must\ndetermine the method for calculating plaintiff's regular rate of pay. If different\nregular rates of pay are at issue, deﬁne the plaintiff's regular rate of pay for all\nrelevant date ranges.\nAn employer must pay a premium wage of one hour of pay at the employee's\nregular rate of compensation for any rest breaks not provided. (Lab. Code,\n§226.7(c).) This instruction may need to be modiﬁed if there is evidence of an\nemployer's paying premium wages for any rest break violations.\nThe deﬁnition of \"regular rate of pay\" may be omitted if it is included in another\ninstruction.",
+  "sources_and_authority": [
+    {
+      "raw": "Right of Action for Missed Meal and Rest and Recovery Periods. Labor Code\nsection 226.7.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "226.7",
+          "display": "Labor Code section 226.7",
+          "raw": "Labor Code\nsection 226.7",
+          "span": [
+            63,
+            87
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Rest Periods. Cal. Code Regs., tit. 8, §11010 et seq., subd. 12.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]e hold that the term 'regular rate of compensation' in section 226.7(c) has\n88",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "226.7",
+      "display": "Labor Code section 226.7",
+      "raw": "Labor Code\nsection 226.7",
+      "span": [
+        63,
+        87
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/226.7"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "226.7",
+      "display": "Labor Code section 226.7(c)",
+      "raw": "Lab. Code,\n§226.7(c)",
+      "span": [
+        1191,
+        1211
+      ],
+      "subsection": "c",
+      "role": "directions",
+      "statute_key": "CA/LAB/226.7/c"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "See Ferra v. Loews Hollywood Hotel, LLC",
+      "year": 2021,
+      "volume": 11,
+      "reporter": "Cal.5th",
+      "page": 858,
+      "pin": "878",
+      "raw": "See Ferra v. Loews Hollywood Hotel, LLC (2021) 11 Cal. 5th 858, 878",
+      "span": [
+        394,
+        461
+      ],
+      "role": "directions",
+      "case_key": "11 Cal.5th 858"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:19+00:00"
+}

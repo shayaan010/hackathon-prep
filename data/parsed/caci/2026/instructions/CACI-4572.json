@@ -1,0 +1,77 @@
+{
+  "id": "CACI-4572",
+  "edition": "2026",
+  "number": "4572",
+  "title": "Right to Repair Act—Affirmative Defense—Act of Nature (Civ. Code, § 945.5(a))",
+  "title_full": "Right to Repair Act—Affirmative Defense—Act of Nature (Civ. Code, § 945.5(a))",
+  "title_statute": null,
+  "series": "4500",
+  "series_title": "Series 4500 Construction Law",
+  "page_start": 3241,
+  "page_end": 3241,
+  "instruction_text": "4572. Right to Repair Act–Affirmative Defense–Act of Nature\n(Civ. Code, §945.5(a))\n[Name of defendant ] claims that [he/she/ nonbinary pronoun/it] is not\nresponsible for [ name of plaintiff ]'s harm because it was caused by an\nunforeseen event. To establish this defense, [ name of defendant ] must\nprove that the [ specify defect, e.g., door that allowed unintended water to\npass through it ] was caused by [ specify, e.g., a landslide ], which was an\nunforeseen [act of nature/manmade event] that caused the home not to\nmeet the otherwise required standard.",
+  "directions_for_use": "This instruction sets forth a builder's affirmative defense to a homeowner's\nconstruction defect claim under the Right to Repair Act, asserting the construction\ndefect was caused by an unforeseen act of nature. An \"unforeseen act of nature\"\nincludes unforeseen manmade events such as war, terrorism, or vandalism, in\naddition to weather conditions and earthquakes. (See Civ. Code, §945.5(a).)\nThe unforeseen event must be \"in excess of the design criteria expressed by the\napplicable building codes, regulations, and ordinances in effect at the time of\noriginal construction.\" (Civ. Code, §945.5(a).) If there is a question of fact with\nregard to such a situation, modify the instruction accordingly.",
+  "sources_and_authority": [
+    {
+      "raw": "Right to Repair Act Affirmative Defense of Unforeseen Act of Nature. Civil\nCode section 945.5(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "945.5",
+          "display": "Civil Code section 945.5",
+          "raw": "Civil\nCode section 945.5(a)",
+          "span": [
+            69,
+            96
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "945.5",
+          "display": "Civil Code section 945.5(a)",
+          "raw": "Civil\nCode section 945.5(a)",
+          "span": [
+            69,
+            96
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1312\n10 California Forms of Pleading and Practice, Ch. 104, Building Contracts , §104.43\n(Matthew Bender)\n12 California Real Estate Law and Practice, Ch. 441, Consumers' Remedies ,\n§441.70 (Matthew Bender)\n1355",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "945.5",
+      "display": "Civil Code section 945.5",
+      "raw": "Civil\nCode section 945.5(a)",
+      "span": [
+        69,
+        96
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/945.5"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "945.5",
+      "display": "Civil Code section 945.5(a)",
+      "raw": "Civil\nCode section 945.5(a)",
+      "span": [
+        69,
+        96
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/CIV/945.5/a"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

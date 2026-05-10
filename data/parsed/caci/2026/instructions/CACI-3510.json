@@ -1,0 +1,65 @@
+{
+  "id": "CACI-3510",
+  "edition": "2026",
+  "number": "3510",
+  "title": "Value of Easement",
+  "title_full": "Value of Easement",
+  "title_statute": null,
+  "series": "3500",
+  "series_title": "Series 3500 Eminent Domain",
+  "page_start": 2572,
+  "page_end": 2572,
+  "instruction_text": "3510. Value of Easement\nThe [ name of condemnor ] has taken the right to use a portion of [ name of\nproperty owner]'s land for a speciﬁc purpose. That right is called an\n\"easement.\" After an easement has been taken, the property owner has\nthe right to use the land for any purpose that does not conﬂict with the\neasement.\nY ou must determine the fair market value of the easement on [ insert date\nof valuation ]. The fair market value of the easement is determined by\nsubtracting the fair market value of the land after the easement was\ntaken from the fair market value of the land before the easement was\ntaken.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"The holder of an easement is entitled to damages when the easement is taken or\ndamaged for public use.\" ( County Sanitation Dist. No. 8 of Los Angeles County\nv. Watson Land Co. (1993) 17 Cal. App.4th 1268, 1279 [22 Cal. Rptr.2d 117],\ninternal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Los Angeles County v. Watson Land Co.",
+          "year": 1993,
+          "volume": 17,
+          "reporter": "Cal.App.4th",
+          "page": 1268,
+          "pin": "1279",
+          "raw": "Los Angeles County v. Watson Land Co. (1993) 17 Cal. App.4th 1268, 1279",
+          "span": [
+            140,
+            211
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The value of an easement in gross . . . is the difference in the before and after\nvalue of the strip of land taken, and not what has been gained by the public\nagency.\" (County Sanitation Dist., supra, 17 Cal. App.4th at p. 1279, internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'An easement is an incorporeal interest in the land of another that gives its\nowner the right to use the land of another or to prevent the property owner from\nusing his land.' \" ( County Sanitation Dist., supra, 17 Cal. App.4th at p. 1278,\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "8 Witkin, Summary of California Law (11th ed. 2017) Constitutional Law, §1371\n1 Condemnation Practice in California (Cont.Ed.Bar 3d ed.) §§4.79–4.81\n4 Nichols on Eminent Domain, Ch. 12D, V aluation of Interests Other Than Fee\nInterests, §12D.01[1][a] (Matthew Bender)\n20 California Forms of Pleading and Practice, Ch. 247, Eminent Domain and\nInverse Condemnation , §247.136 (Matthew Bender)\n686",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Los Angeles County v. Watson Land Co.",
+      "year": 1993,
+      "volume": 17,
+      "reporter": "Cal.App.4th",
+      "page": 1268,
+      "pin": "1279",
+      "raw": "Los Angeles County v. Watson Land Co. (1993) 17 Cal. App.4th 1268, 1279",
+      "span": [
+        140,
+        211
+      ],
+      "role": "sources",
+      "case_key": "17 Cal.App.4th 1268"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

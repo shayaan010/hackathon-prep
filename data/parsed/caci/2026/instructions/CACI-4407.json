@@ -1,0 +1,453 @@
+{
+  "id": "CACI-4407",
+  "edition": "2026",
+  "number": "4407",
+  "title": "Misappropriation by Use",
+  "title_full": "Misappropriation by Use",
+  "title_statute": null,
+  "series": "4400",
+  "series_title": "Series 4400 Trade Secrets",
+  "page_start": 3135,
+  "page_end": 3138,
+  "instruction_text": "4407. Misappropriation by Use\n[Name of defendant ] misappropriated [ name of plaintiff ]'s trade secret[s]\nby use if [ name of defendant ]\n1. used [it/them] without [ name of plaintiff ]'s consent; and\n2. [did any of the following:]\n2. [insert one or more of the following: ]\n2. [acquired knowledge of the trade secret[s] by improper means][./;\nor]\n2. [at the time of use, knew or had reason to know that [his/her/\nnonbinary pronoun /its] knowledge of [ name of plaintiff ]'s trade\nsecret[s] came from or through [ name of third party ], and that\n[name of third party ] had previously acquired the trade secret[s]\nby improper means][./; or]\n2. [at the time of use, knew or had reason to know that [his/her/\nnonbinary pronoun /its] knowledge of [ name of plaintiff ]'s trade\nsecret[s] was acquired under circumstances creating a legal\nobligation to limit use of the [ select short term to describe, e.g.,\ninformation]][./; or]\n2. [at the time of use, knew or had reason to know that [his/her/\nnonbinary pronoun /its] knowledge of [ name of plaintiff ]'s trade\nsecret[s] came from or through [ name of third party ], and that\n[name of third party ] had a duty to [ name of plaintiff ] to limit use\nof the [ e.g., information ]][./; or]\n2. [before a material change of [his/her/ nonbinary pronoun /its]\nposition, knew or had reason to know that [it was/they were] [a]\ntrade secret[s] and that knowledge of [it/them] had been acquired\nby accident or mistake.]",
+  "directions_for_use": "Read this instruction with CACI No. 4401 , Misappropriation of Trade\nSecrets–Essential Factual Elements, if the plaintiff claims that the defendant's use\nof the information alleged to be a trade secret is a misappropriation.\nIf consent is at issue, CACI No. 1302, Consent Explained, and CACI No. 1303,\nInvalid Consent, may also be given.\nIn element 2, select the applicable statutory act(s) alleged to constitute\nmisappropriation by use. (See Civ. Code, §3624.1(b)(2).) If only one act is selected,\n1249\nomit the words \"did any of the following.\"\nIf either of the ﬁrst two acts constituting misappropriation by disclosure is alleged,\ngive also CACI No. 4408, Improper Means of Acquiring Trade Secret .",
+  "sources_and_authority": [
+    {
+      "raw": "\"Misapproriation\" Deﬁned. Civil Code section 3426.1(b)(2).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1",
+          "raw": "Civil Code section 3426.1(b)(2)",
+          "span": [
+            26,
+            57
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1(b)",
+          "raw": "Civil Code section 3426.1(b)(2)",
+          "span": [
+            26,
+            57
+          ],
+          "subsection": "b"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1(2)",
+          "raw": "Civil Code section 3426.1(b)(2)",
+          "span": [
+            26,
+            57
+          ],
+          "subsection": "2"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Constructive Notice. Civil Code section 19.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "19",
+          "display": "Civil Code section 19",
+          "raw": "Civil Code section 19",
+          "span": [
+            21,
+            42
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Under the plain terms of the Uniform Trade Secrets Act, defendants may be\npersonally liable if: they used, through the corporation, [plaintiff]'s trade secrets;\nat the time of the use of the conﬁdential information they knew or had reason to\nknow that knowledge of the trade secrets was derived from or through a person\nwho had improperly acquired the knowledge, or the secrets were obtained by a\nperson who owed a duty to plaintiffs to maintain the secrecy. Employing the\nconﬁdential information in manufacturing, production, research or development,\nmarketing goods that embody the trade secret, or soliciting customers through\nthe use of trade secret information, all constitute use. Use of a trade secret\nwithout knowledge it was acquired by improper means does not subject a person\nto liability unless the person receives notice that its use of the information is\nwrongful.\" ( PMC, Inc. v. Kadisha (2000) 78 Cal. App.4th 1368, 1383 [93\nCal. Rptr.2d 663], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "PMC, Inc. v. Kadisha",
+          "year": 2000,
+          "volume": 78,
+          "reporter": "Cal.App.4th",
+          "page": 1368,
+          "pin": "1383",
+          "raw": "PMC, Inc. v. Kadisha (2000) 78 Cal. App.4th 1368, 1383",
+          "span": [
+            883,
+            937
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Under the UTSA, simple disclosure or use may suffice to create liability. It is\nno longer necessary, if it ever was, to prove that the purpose to which the\nacquired information is put is outweighed by the interests of the trade secret\nholder or that use of a trade secret cannot be prohibited if it is infeasible to do\nso.\" ( Morlife, Inc. v. Perry (1997) 56 Cal. App.4th 1514, 1527 [66 Cal. Rptr.2d\n731].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Morlife, Inc. v. Perry",
+          "year": 1997,
+          "volume": 56,
+          "reporter": "Cal.App.4th",
+          "page": 1514,
+          "pin": "1527",
+          "raw": "Morlife, Inc. v. Perry (1997) 56 Cal. App.4th 1514, 1527",
+          "span": [
+            327,
+            383
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"One clearly engages in the 'use' of a secret, in the ordinary sense, when one\ndirectly exploits it for his own advantage, e.g., by incorporating it into his own\nmanufacturing technique or product. But 'use' in the ordinary sense is not\npresent when the conduct consists entirely of possessing, and taking advantage\nof, something that was made using the secret. One who bakes a pie from a\nrecipe certainly engages in the 'use' of the latter; but one who eats the pie does\nnot, by virtue of that act alone, make 'use' of the recipe in any ordinary sense,\nand this is true even if the baker is accused of stealing the recipe from a\ncompetitor, and the diner knows of that accusation. Y et this is substantially the\nsame situation as when one runs software that was compiled from allegedly\nstolen source code. The source code is the recipe from which the pie (executable\nprogram) is baked (compiled). Nor is the analogy weakened by the fact that a\ndiner is not ordinarily said to make 'use' of something he eats. His metabolism\nmay be said to do so, or the analogy may be adjusted to replace the pie with an\ninstrument, such as a stopwatch. A coach who employs the latter to time a race\ncertainly makes 'use' of it, but only a sophist could bring himself to say that\ncoach 'uses' trade secrets involved in the manufacture of the watch.\" ( Silvaco\nCACI No. 4407 TRADE SECRETS\n1250\nData Systems v. Intel Corp. (2010) 184 Cal. App.4th 210, 224 [109 Cal. Rptr.3d\n27].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Data Systems v. Intel Corp.",
+          "year": 2010,
+          "volume": 184,
+          "reporter": "Cal.App.4th",
+          "page": 210,
+          "pin": "224",
+          "raw": "Data Systems v. Intel Corp. (2010) 184 Cal. App.4th 210, 224",
+          "span": [
+            1377,
+            1437
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Liability under CUTSA is not dependent on the defendant's 'comprehension' of\nthe trade secret but does require 'knowledge' of it. So far as the record shows,\n[defendant] did not know and had no way to get the information constituting the\ntrade secret. It therefore could not, within the contemplation of the act, 'use' that\ninformation.\" ( Silvaco Data Systems , supra, 184 Cal. App.4th at p. 229.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'Knowledge,' of course, is '[t]he fact or condition of knowing,' . . . and in this\ncontext, '[t]he fact of knowing a thing, state, etc. . . .' (8 Oxford English Dict.,\nsupra, p. 517.) To 'know' a thing is to have information of that thing at one's\ncommand, in one's possession, subject to study, disclosure, and exploitation. To\nsay that one 'knows' a fact is also to say that one possesses information of that\nfact. Thus, although the Restatement Third of Unfair Competition does not\nidentify knowledge of the trade secret as an element of a trade secrets cause of\naction, the accompanying comments make it clear that liability presupposes the\ndefendant's 'possession' of misappropriated information.\" ( Silvaco Data Systems ,\nsupra, 184 Cal. App.4th at pp. 225–226, original italics.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"When a competitor hires a former employee of plaintiff who is likely to\ndisclose trade secrets, '[i]t is a question of fact whether the competitor had\nconstructive notice of the plaintiff's right in the secret.' \" ( Ralph Andrews\nProductions, Inc. v. Paramount Pictures Corp. (1990) 222 Cal. App.3d 676,\n682–683 [271 Cal. Rptr. 797], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ralph Andrews Productions, Inc. v. Paramount Pictures Corp.",
+          "year": 1990,
+          "volume": 222,
+          "reporter": "Cal.App.3d",
+          "page": 676,
+          "pin": "682–683",
+          "raw": "Ralph Andrews Productions, Inc. v. Paramount Pictures Corp. (1990) 222 Cal. App.3d 676, 682–683",
+          "span": [
+            217,
+            312
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Our Supreme Court has previously distinguished solicitation–which is\nactionable–from announcing a job change–which is not: 'Merely informing\ncustomers of one's former employer of a change of employment, without more,\nis not solicitation. Neither does the willingness to discuss business upon\ninvitation of another party constitute solicitation on the part of the invitee.\nEquity will not enjoin a former employee from receiving business from the\ncustomers of his former employer, even though the circumstances be such that\nhe should be prohibited from soliciting such business.' \" ( Hilb v. Robb (1995) 33\nCal. App.4th 1812, 1821 [39 Cal. Rptr. 2d 887], internal citation omitted; but see\nMorlife, Inc., supra, 56 Cal. App.4th at p. 1527, fn. 8 [\"we need not decide\nwhether the 'professional announcement' exception . . . has continued vitality in\nlight of the expansive deﬁnition of misappropriation under the UTSA\"].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hilb v. Robb",
+          "year": 1995,
+          "volume": 33,
+          "reporter": "Cal.App.4th",
+          "page": 1812,
+          "pin": "1821",
+          "raw": "Hilb v. Robb (1995) 33 Cal. App.4th 1812, 1821",
+          "span": [
+            584,
+            630
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]o prove misappropriation of a trade secret under the UTSA, a plaintiff must\nestablish (among other things) that the defendant improperly 'used' the plaintiff's\ntrade secret. Thus, under Evidence Code sections 500 and 520, the plaintiff bears\nthe burden of proof on that issue, both at the outset and during trial.\" ( Sargent\nFletcher , Inc. v. Able Corp. (2003) 110 Cal. App.4th 1658, 1668 [3 Cal. Rptr.3d\n279], internal citation omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "500",
+          "display": "Evidence Code section 500",
+          "raw": "Evidence Code sections 500",
+          "span": [
+            190,
+            216
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Inc. v. Able Corp.",
+          "year": 2003,
+          "volume": 110,
+          "reporter": "Cal.App.4th",
+          "page": 1658,
+          "pin": "1668",
+          "raw": "Inc. v. Able Corp. (2003) 110 Cal. App.4th 1658, 1668",
+          "span": [
+            340,
+            393
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]nformation relative to customers (e.g., their identities, locations, and\nindividual preferences), obtained by a former employee in his contacts with them\nduring his employment, may amount to 'trade secrets' which will warrant his\nTRADE SECRETS CACI No. 4407\n1251\nbeing enjoined from exploitation or disclosure after leaving the employment. [¶]\nIt is equally clear, however, that the proscriptions inhibiting the ex-employee\nreach only his use of such information, not to his mere possession or knowledge\nof it.\" ( Golden State Linen Service, Inc. v. Vidalin (1977) 69 Cal. App.3d 1, 7–8\n[137 Cal. Rptr. 807], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Golden State Linen Service, Inc. v. Vidalin",
+          "year": 1977,
+          "volume": 69,
+          "reporter": "Cal.App.3d",
+          "page": 1,
+          "pin": "7–8",
+          "raw": "Golden State Linen Service, Inc. v. Vidalin (1977) 69 Cal. App.3d 1, 7–8",
+          "span": [
+            518,
+            590
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Since these 'Marks' likely encompass any trade secrets, it is reasonable to\nconclude that one party's use of the trade secrets that affects the other party's\nrights in the mark would constitute the misappropriation of the trade secrets 'of\nanother.' \" ( Morton v. Rank Am., Inc. (C.D. Cal. 1993) 812 F.Supp. 1062, 1074\n[one can misappropriate trade secret jointly owned with another].)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.53[1][b] (Matthew Bender)\n49 California Forms of Pleading and Practice, Ch. 565, Unfair Competition ,\n§565.103[4][c] (Matthew Bender)\nEdelson & Kay, eds., Trade Secret Litigation and Protection in California (State Bar\nof California 2009) Chs. 2, 6, 12\nGaab & Reese, California Practice Guide: Civil Procedure Before Trial–Claims &\nDefenses, Ch. 10(II)-A ¶ 10:250 (The Rutter Group)\nCACI No. 4407 TRADE SECRETS\n1252",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1",
+      "raw": "Civil Code section 3426.1(b)(2)",
+      "span": [
+        26,
+        57
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1(b)",
+      "raw": "Civil Code section 3426.1(b)(2)",
+      "span": [
+        26,
+        57
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1(2)",
+      "raw": "Civil Code section 3426.1(b)(2)",
+      "span": [
+        26,
+        57
+      ],
+      "subsection": "2",
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1/2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "19",
+      "display": "Civil Code section 19",
+      "raw": "Civil Code section 19",
+      "span": [
+        21,
+        42
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/19"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "500",
+      "display": "Evidence Code section 500",
+      "raw": "Evidence Code sections 500",
+      "span": [
+        190,
+        216
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/500"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3624.1",
+      "display": "Civil Code section 3624.1",
+      "raw": "Civ. Code, §3624.1(b)(2)",
+      "span": [
+        443,
+        467
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3624.1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3624.1",
+      "display": "Civil Code section 3624.1(b)",
+      "raw": "Civ. Code, §3624.1(b)(2)",
+      "span": [
+        443,
+        467
+      ],
+      "subsection": "b",
+      "role": "directions",
+      "statute_key": "CA/CIV/3624.1/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3624.1",
+      "display": "Civil Code section 3624.1(2)",
+      "raw": "Civ. Code, §3624.1(b)(2)",
+      "span": [
+        443,
+        467
+      ],
+      "subsection": "2",
+      "role": "directions",
+      "statute_key": "CA/CIV/3624.1/2"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "PMC, Inc. v. Kadisha",
+      "year": 2000,
+      "volume": 78,
+      "reporter": "Cal.App.4th",
+      "page": 1368,
+      "pin": "1383",
+      "raw": "PMC, Inc. v. Kadisha (2000) 78 Cal. App.4th 1368, 1383",
+      "span": [
+        883,
+        937
+      ],
+      "role": "sources",
+      "case_key": "78 Cal.App.4th 1368"
+    },
+    {
+      "name": "Morlife, Inc. v. Perry",
+      "year": 1997,
+      "volume": 56,
+      "reporter": "Cal.App.4th",
+      "page": 1514,
+      "pin": "1527",
+      "raw": "Morlife, Inc. v. Perry (1997) 56 Cal. App.4th 1514, 1527",
+      "span": [
+        327,
+        383
+      ],
+      "role": "sources",
+      "case_key": "56 Cal.App.4th 1514"
+    },
+    {
+      "name": "Data Systems v. Intel Corp.",
+      "year": 2010,
+      "volume": 184,
+      "reporter": "Cal.App.4th",
+      "page": 210,
+      "pin": "224",
+      "raw": "Data Systems v. Intel Corp. (2010) 184 Cal. App.4th 210, 224",
+      "span": [
+        1377,
+        1437
+      ],
+      "role": "sources",
+      "case_key": "184 Cal.App.4th 210"
+    },
+    {
+      "name": "Ralph Andrews Productions, Inc. v. Paramount Pictures Corp.",
+      "year": 1990,
+      "volume": 222,
+      "reporter": "Cal.App.3d",
+      "page": 676,
+      "pin": "682–683",
+      "raw": "Ralph Andrews Productions, Inc. v. Paramount Pictures Corp. (1990) 222 Cal. App.3d 676, 682–683",
+      "span": [
+        217,
+        312
+      ],
+      "role": "sources",
+      "case_key": "222 Cal.App.3d 676"
+    },
+    {
+      "name": "Hilb v. Robb",
+      "year": 1995,
+      "volume": 33,
+      "reporter": "Cal.App.4th",
+      "page": 1812,
+      "pin": "1821",
+      "raw": "Hilb v. Robb (1995) 33 Cal. App.4th 1812, 1821",
+      "span": [
+        584,
+        630
+      ],
+      "role": "sources",
+      "case_key": "33 Cal.App.4th 1812"
+    },
+    {
+      "name": "Inc. v. Able Corp.",
+      "year": 2003,
+      "volume": 110,
+      "reporter": "Cal.App.4th",
+      "page": 1658,
+      "pin": "1668",
+      "raw": "Inc. v. Able Corp. (2003) 110 Cal. App.4th 1658, 1668",
+      "span": [
+        340,
+        393
+      ],
+      "role": "sources",
+      "case_key": "110 Cal.App.4th 1658"
+    },
+    {
+      "name": "Golden State Linen Service, Inc. v. Vidalin",
+      "year": 1977,
+      "volume": 69,
+      "reporter": "Cal.App.3d",
+      "page": 1,
+      "pin": "7–8",
+      "raw": "Golden State Linen Service, Inc. v. Vidalin (1977) 69 Cal. App.3d 1, 7–8",
+      "span": [
+        518,
+        590
+      ],
+      "role": "sources",
+      "case_key": "69 Cal.App.3d 1"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

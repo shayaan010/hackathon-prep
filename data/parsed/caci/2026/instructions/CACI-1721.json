@@ -1,0 +1,70 @@
+{
+  "id": "CACI-1721",
+  "edition": "2026",
+  "number": "1721",
+  "title": "Affirmative Defense—Consent",
+  "title_full": "Affirmative Defense—Consent",
+  "title_statute": null,
+  "series": "1700",
+  "series_title": "Series 1700 Defamation",
+  "page_start": 1144,
+  "page_end": 1144,
+  "instruction_text": "1721. Affirmative Defense–Consent\n[Name of defendant ] is not responsible for [ name of plaintiff ]'s harm, if\nany, if [he/she/ nonbinary pronoun] proves that [ name of plaintiff ]\nconsented, by words or conduct, to [ name of defendant ]'s communication\nof the statement(s) to others. In deciding whether [ name of plaintiff ]\nconsented to the communication, you should consider the circumstances\nsurrounding the words or conduct.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "Restatement Second of Torts, section 583, provides, in part: \"[T]he consent of\nanother to the publication of defamatory matter concerning him is a complete\ndefense to his action for defamation.\"",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"One of the oldest and most widely recognized defenses to the publication of\ndefamatory matter is the doctrine of consent, which has been classiﬁed as a form\nof absolute privilege.\" ( Royer v. Steinberg (1979) 90 Cal. App.3d 490, 498 [153\nCal. Rptr. 499].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Royer v. Steinberg",
+          "year": 1979,
+          "volume": 90,
+          "reporter": "Cal.App.3d",
+          "page": 490,
+          "pin": "498",
+          "raw": "Royer v. Steinberg (1979) 90 Cal. App.3d 490, 498",
+          "span": [
+            184,
+            233
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"One of the primary purposes of the doctrine of consent in defamation law is to\nprevent a party from inviting or inducing indiscretion and thereby laying the\nfoundation of a lawsuit for his own pecuniary gain.\" ( Royer , supra, 90\nCal. App.3d at p. 499.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "This rule applies when the plaintiff asks the defendant to repeat the statement to\nothers and when the plaintiff himself repeats the statements to others. ( Royer ,\nsupra, 90 Cal. App.3d at p. 498 [but see CACI No. 1708, Coerced Self-\nPublication].)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §694\n30 California Forms of Pleading and Practice, Ch. 340, Libel and Slander , §340.68\n(Matthew Bender)\n14 California Points and Authorities, Ch. 142, Libel and Slander (Defamation) ,\n§142.54 (Matthew Bender)\nCalifornia Civil Practice: Torts §21:28 (Thomson Reuters)\n1070",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Royer v. Steinberg",
+      "year": 1979,
+      "volume": 90,
+      "reporter": "Cal.App.3d",
+      "page": 490,
+      "pin": "498",
+      "raw": "Royer v. Steinberg (1979) 90 Cal. App.3d 490, 498",
+      "span": [
+        184,
+        233
+      ],
+      "role": "sources",
+      "case_key": "90 Cal.App.3d 490"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:13+00:00"
+}

@@ -1,0 +1,165 @@
+{
+  "id": "CACI-3923",
+  "edition": "2026",
+  "number": "3923",
+  "title": "Public Entities—Collateral Source Payments",
+  "title_full": "Public Entities—Collateral Source Payments (Gov. Code,§ 985)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "GOV",
+    "section": "985",
+    "display": "Government Code section 985",
+    "raw": "Gov. Code,§ 985",
+    "span": [
+      0,
+      15
+    ]
+  },
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2784,
+  "page_end": 2784,
+  "instruction_text": "3923. Public Entities–Collateral Source Payments (Gov. Code,\n§985)\nY ou must award damages in an amount that fully compensates [ name of\nplaintiff] for [his/her/ nonbinary pronoun/its] damages in accordance with\ninstructions from the court. Y ou may not speculate or consider any other\npossible sources of beneﬁt that [ name of plaintiff ] may have received.\nAfter you have returned your verdict the court will make whatever\nadjustments are necessary in this regard.",
+  "directions_for_use": "Per Government Code section 985(j), this language is mandatory.",
+  "sources_and_authority": [
+    {
+      "raw": "Collateral Source Evidence Inadmissible in Action Against Public Entity.\nGovernment Code section 985(b).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "985",
+          "display": "Government Code section 985",
+          "raw": "Government Code section 985(b)",
+          "span": [
+            73,
+            103
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "985",
+          "display": "Government Code section 985(b)",
+          "raw": "Government Code section 985(b)",
+          "span": [
+            73,
+            103
+          ],
+          "subsection": "b"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Mandatory Instruction. Government Code section 985(j).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "985",
+          "display": "Government Code section 985",
+          "raw": "Government Code section 985(j)",
+          "span": [
+            23,
+            53
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "985",
+          "display": "Government Code section 985(j)",
+          "raw": "Government Code section 985(j)",
+          "span": [
+            23,
+            53
+          ],
+          "subsection": "j"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he [collateral source rule] also covers payments such as pensions paid to a\nplaintiff who, as a result of his injuries, can no longer work. Like insurance\nbeneﬁts, such payments are considered to have been secured by the plaintiff's\nefforts as part of his employment contract, and the tortfeasor is entitled to no\ncredit for them. 'With respect to pension beneﬁts, the justiﬁcation for the rule is\nthat the plaintiff secured the beneﬁts by his labors, and the fact that he may\nobtain a double recovery is not relevant.' Pension beneﬁts are a commonly cited\nexample of a collateral source that may not be used to decrease a plaintiff's\nrecovery.\" (Mize-Kurzman v. Marin Community College Dist. (2012) 202\nCal. App.4th 832, 872–873 [136 Cal. Rptr.3d 259], original italics, internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Mize-Kurzman v. Marin Community College Dist.",
+          "year": 2012,
+          "volume": 202,
+          "reporter": "Cal.App.4th",
+          "page": 832,
+          "pin": "872–873",
+          "raw": "Mize-Kurzman v. Marin Community College Dist. (2012) 202 Cal. App.4th 832, 872–873",
+          "span": [
+            651,
+            733
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1811\nCalifornia Tort Damages (Cont.Ed.Bar) Restrictions on Recovery, §15.21\n15 California Forms of Pleading and Practice, Ch. 177, Damages, §177.50\n(Matthew Bender)\n6 California Points and Authorities, Ch. 64, Damages: Torts, §64.190 et seq.\n(Matthew Bender)\nCalifornia Civil Practice: Torts §31:47 (Thomson Reuters)\n898",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "985",
+      "display": "Government Code section 985",
+      "raw": "Gov. Code,§ 985",
+      "span": [
+        0,
+        15
+      ],
+      "role": "title",
+      "statute_key": "CA/GOV/985"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "985",
+      "display": "Government Code section 985(b)",
+      "raw": "Government Code section 985(b)",
+      "span": [
+        73,
+        103
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/GOV/985/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "985",
+      "display": "Government Code section 985(j)",
+      "raw": "Government Code section 985(j)",
+      "span": [
+        23,
+        53
+      ],
+      "subsection": "j",
+      "role": "sources",
+      "statute_key": "CA/GOV/985/j"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Mize-Kurzman v. Marin Community College Dist.",
+      "year": 2012,
+      "volume": 202,
+      "reporter": "Cal.App.4th",
+      "page": 832,
+      "pin": "872–873",
+      "raw": "Mize-Kurzman v. Marin Community College Dist. (2012) 202 Cal. App.4th 832, 872–873",
+      "span": [
+        651,
+        733
+      ],
+      "role": "sources",
+      "case_key": "202 Cal.App.4th 832"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

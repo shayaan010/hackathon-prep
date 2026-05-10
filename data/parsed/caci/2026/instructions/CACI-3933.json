@@ -1,0 +1,113 @@
+{
+  "id": "CACI-3933",
+  "edition": "2026",
+  "number": "3933",
+  "title": "Damages From Multiple Defendants",
+  "title_full": "Damages From Multiple Defendants",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2801,
+  "page_end": 2802,
+  "instruction_text": "3933. Damages From Multiple Defendants\nIn this case, [ name of plaintiff ] seeks damages from more than one\ndefendant. Y ou must determine the liability of each defendant to [ name\nof plaintiff] separately.\nIf you determine that more than one defendant is liable to [ name of\nplaintiff] for damages, you will be asked to ﬁnd [ name of plaintiff ]'s total\ndamages [and the comparative fault of [[ name of plaintiff ]/each\ndefendant/ [and] other nonparties]].\nIn deciding on the amount of damages, consider only [ name of plaintiff ]'s\nclaimed losses. Do not attempt to divide the damages [between/among]\nthe defendants. The allocation of responsibility for payment of damages\namong multiple defendants is to be done by the court after you reach\nyour verdict.",
+  "directions_for_use": "Give this instruction in any case involving the joint and several liability of multiple\ndefendants or several liability only for noneconomic damages under Proposition 51.\n(See Civ. Code, §1431.2.) It is designed to deter the jury from awarding different\ndamages against each defendant after factoring in the respective culpability of the\ndefendants. Do not give this instruction in a case in which separate tortfeasors have\ncaused separate injuries. (See Carr v. Cove (1973) 33 Cal. App.3d 851, 854 [109\nCal. Rptr. 449].)\nIf comparative fault is at issue, give the bracketed language in the second paragraph.\nComparative fault may involve each defendant, the plaintiff, and other nonparties.\n\"Nonparties\" include the universe of tortfeasors who are not present at trial,\nincluding defendants who settled before trial and nonjoined alleged tortfeasors.\n(Dafonte v. Up-Right (1992) 2 Cal. 4th 593, 603 [7 Cal. Rptr.2d 238, 828 P.2d 140].)\nSee also CACI No. 406, Apportionment of Responsibility , and CACI No. VF-402,\nNegligence–Fault of Plaintiff and Others at Issue .",
+  "sources_and_authority": [
+    {
+      "raw": "Proposition 51. Civil Code section 1431.2(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1431.2",
+          "display": "Civil Code section 1431.2",
+          "raw": "Civil Code section 1431.2(a)",
+          "span": [
+            16,
+            44
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1431.2",
+          "display": "Civil Code section 1431.2(a)",
+          "raw": "Civil Code section 1431.2(a)",
+          "span": [
+            16,
+            44
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The pro tanto reduction provision works to prevent settlements from producing\ndouble recoveries in the case of a single injury caused by joint tortfeasors. The\ngeneral theory of compensatory damages bars double recovery for the same\nwrong. The principal situation is where joint or concurrent tortfeasors are jointly\nand severally liable for the same wrong. Only one complete satisfaction is\npermissible, and, if partial satisfaction is received from one, the liability of\nothers will be correspondingly reduced.\" ( Carr, supra, 33 Cal. App.3d at p. 854,\n915\noriginal italics.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1518\n1 Levy et al., California Torts, Ch. 11, Conﬂicts of Law and Preemption , §11.07\n(Matthew Bender)\n25 California Forms of Pleading and Practice, Ch. 300, Indemnity and Contribution ,\n§300.60 et seq. (Matthew Bender)\n11 California Points and Authorities, Ch. 115, Indemnity and Contribution ,\n§115.130 et seq. (Matthew Bender)\nCACI No. 3933 DAMAGES\n916",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1431.2",
+      "display": "Civil Code section 1431.2",
+      "raw": "Civil Code section 1431.2(a)",
+      "span": [
+        16,
+        44
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1431.2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1431.2",
+      "display": "Civil Code section 1431.2(a)",
+      "raw": "Civil Code section 1431.2(a)",
+      "span": [
+        16,
+        44
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/CIV/1431.2/a"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "See Carr v. Cove",
+      "year": 1973,
+      "volume": 33,
+      "reporter": "Cal.App.3d",
+      "page": 851,
+      "pin": "854",
+      "raw": "See Carr v. Cove (1973) 33 Cal. App.3d 851, 854",
+      "span": [
+        451,
+        498
+      ],
+      "role": "directions",
+      "case_key": "33 Cal.App.3d 851"
+    },
+    {
+      "name": "Dafonte v. Up-Right",
+      "year": 1992,
+      "volume": 2,
+      "reporter": "Cal.4th",
+      "page": 593,
+      "pin": "603",
+      "raw": "Dafonte v. Up-Right (1992) 2 Cal. 4th 593, 603",
+      "span": [
+        853,
+        899
+      ],
+      "role": "directions",
+      "case_key": "2 Cal.4th 593"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

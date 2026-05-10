@@ -1,0 +1,140 @@
+{
+  "id": "CACI-4562",
+  "edition": "2026",
+  "number": "4562",
+  "title": "Payment for Construction Services Rendered—Essential Factual Elements (Bus. & Prof. Code, § 7031(a), (e))",
+  "title_full": "Payment for Construction Services Rendered—Essential Factual Elements (Bus. & Prof. Code, § 7031(a), (e))",
+  "title_statute": null,
+  "series": "4500",
+  "series_title": "Series 4500 Construction Law",
+  "page_start": 3235,
+  "page_end": 3235,
+  "instruction_text": "4562. Payment for Construction Services Rendered–Essential\nFactual Elements (Bus. & Prof. Code, §7031(a), (e))\n[Name of plaintiff ] claims that [ name of defendant ] owes [ name of plaintiff ]\nmoney for construction services rendered. To establish this claim, [ name\nof plaintiff ] must prove all of the following:\n1. That [ name of defendant ] [[engaged/hired]/ [or] contracted with]\n[name of plaintiff ] to [ specify contractor services ];\n2. That [ name of plaintiff ] had at all times during the performance of\nconstruction services a valid contractor's license;\n3. That [ name of plaintiff ] performed these services;\n4. That [ name of defendant ] has not paid [ name of plaintiff ] for the\nconstruction services that [ name of plaintiff ] provided; and\n5. The amount of money [ name of defendant ] owes [ name of plaintiff ]\nfor the construction services provided.",
+  "directions_for_use": "Give this instruction in a case in which the plaintiff-contractor seeks to recover\ncompensation owed for services performed for which a license is required. (Bus. &\nProf. Code, §7031(a).)\nFor element 2, licensure requirements may be satisﬁed by substantial compliance\nwith the licensure requirements. (Bus. & Prof. Code, §7031(e).) If the court has\ndetermined the defendant's substantial compliance, modify element 2 accordingly,\nand instruct the jury that the court has made the determination.\nWhen licensure or proper licensure is controverted, the burden of proof to establish\nlicensure or proper licensure is on the contractor. (Bus. & Prof. Code, §7031(d).)\nProof must be made by producing a veriﬁed certiﬁcate of licensure from the\nContractors State License Board.\nFor a case involving recovery of payment for services provided by an allegedly\nunlicensed contractor, give CACI No. 4560, Recovery of Payments to Unlicensed\nContractor–Essential Factual Elements .",
+  "sources_and_authority": [
+    {
+      "raw": "Proof of Licensure. Business and Professions Code section 7031(d).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "7031",
+          "display": "Business and Professions Code section 7031",
+          "raw": "Business and Professions Code section 7031(d)",
+          "span": [
+            20,
+            65
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "7031",
+          "display": "Business and Professions Code section 7031(d)",
+          "raw": "Business and Professions Code section 7031(d)",
+          "span": [
+            20,
+            65
+          ],
+          "subsection": "d"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Contractor\" Deﬁned. Business and Professions Code section 7026.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "7026",
+          "display": "Business and Professions Code section 7026",
+          "raw": "Business and Professions Code section 7026",
+          "span": [
+            21,
+            63
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[Contractor] has not alleged one contract, but rather a series of agreements for\neach separate task that it was asked to perform. It may therefore seek\ncompensation under those alleged agreements that apply to tasks for which no\n1349",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "7031",
+      "display": "Business and Professions Code section 7031",
+      "raw": "Business and Professions Code section 7031(d)",
+      "span": [
+        20,
+        65
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/7031"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "7031",
+      "display": "Business and Professions Code section 7031(d)",
+      "raw": "Business and Professions Code section 7031(d)",
+      "span": [
+        20,
+        65
+      ],
+      "subsection": "d",
+      "role": "sources",
+      "statute_key": "CA/BPC/7031/d"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "7026",
+      "display": "Business and Professions Code section 7026",
+      "raw": "Business and Professions Code section 7026",
+      "span": [
+        21,
+        63
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/7026"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "7031",
+      "display": "Business and Professions Code section 7031(a)",
+      "raw": "Bus. &\nProf. Code, §7031(a)",
+      "span": [
+        158,
+        185
+      ],
+      "subsection": "a",
+      "role": "directions",
+      "statute_key": "CA/BPC/7031/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "7031",
+      "display": "Business and Professions Code section 7031(e)",
+      "raw": "Bus. & Prof. Code, §7031(e)",
+      "span": [
+        302,
+        329
+      ],
+      "subsection": "e",
+      "role": "directions",
+      "statute_key": "CA/BPC/7031/e"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

@@ -1,0 +1,468 @@
+{
+  "id": "CACI-4306",
+  "edition": "2026",
+  "number": "4306",
+  "title": "Termination of Month-to-Month Tenancy—Essential Factual Elements",
+  "title_full": "Termination of Month-to-Month Tenancy—Essential Factual Elements",
+  "title_statute": null,
+  "series": "4300",
+  "series_title": "Series 4300 Unlawful Detainer",
+  "page_start": 3042,
+  "page_end": 3045,
+  "instruction_text": "4306. Termination of Month-to-Month Tenancy–Essential Factual\nElements\n[Name of plaintiff ] claims that [ name of defendant ] [and [ name of\nsubtenant], a subtenant of [ name of defendant ],] no longer [has/have] the\nright to occupy the property because the tenancy has ended. To establish\nthis claim, [ name of plaintiff ] must prove all of the following:\n1. That [ name of plaintiff ] [owns/leases] the property;\n2. That [ name of plaintiff ] [rented/subleased] the property to [ name of\ndefendant] under a month-to-month [lease/rental\nagreement/sublease];\n3. That [ name of plaintiff ] gave [ name of defendant ] proper [30/60]\ndays' written notice that the tenancy was ending; and\n4. That [ name of defendant ] [or subtenant [ name of subtenant ]] is still\noccupying the property.",
+  "directions_for_use": "Include the bracketed references to a subtenancy in the opening paragraph and in\nelement 4 if persons other than the tenant-defendant are in occupancy of the\npremises.\nIf the plaintiff is the landlord or owner, select \"owns\" in element 1 and \"rented\" and\neither \"lease\" or \"rental agreement\" in element 2. Commercial documents are\nusually called \"leases\" while residential documents are often called \"rental\nagreements.\" Select the term that is used on the written document.\nIf the plaintiff is a tenant seeking to recover possession from a subtenant, select\n\"leases\" in element 1 and \"subleased\" and \"sublease\" in element 2. (Code Civ.\nProc., §1161(3).)\nIn element 3, select the applicable number of days' notice required by statute. Thirty\ndays is sufficient for commercial tenancies, residential tenancies of less than a year,\ncommercial tenancies by qualiﬁed commercial tenants of less than a year, and\ncertain transfers of the ownership interest to a bona ﬁde purchaser. For residential\ntenancies of a year or more or commercial tenancies by qualiﬁed commercial\ntenants of a year or more, 60 days' notice is generally required. (Civ. Code,\n§§1946, 1946.1(b)–(d).) The Tenant Protection Act of 2019 may impose additional\nrequirements for the termination of a residential tenancy. (Civ. Code, §1946.2(a)\n[\"just cause\" requirement for termination of certain residential tenancies], (b) [\"just\ncause\" deﬁned].) This instruction should be modiﬁed accordingly if applicable.\nDefective service may be waived if defendant admits timely receipt of notice. (See\n1156\nV alov v. Tank (1985) 168 Cal. App.3d 867, 876 [214 Cal. Rptr. 546].) However, if the\nfact of service is contested, compliance with the statutory requirements must be\nshown. ( Palm Property Investments, LLC v. Yadegar (2011) 194 Cal. App.4th 1419,\n1425 [123 Cal. Rptr.3d 816].) Therefore, this instruction does not provide an option\nfor the jury to determine whether or not defective service was waived if there was\nactual receipt.\nIf a commercial lease requires service by a particular method, actual receipt by the\ntenant will not cure the landlord's failure to comply with the service requirements of\nthe lease. ( Culver Center Partners East #1, L.P . v. Baja Fresh Westlake Village, Inc.\n(2010) 185 Cal. App.4th 744, 752 [110 Cal. Rptr.3d 833].) Whether the same rule\napplies to a residential lease that speciﬁes a method of service has not yet been\ndecided.\nDo not give this instruction to terminate a tenancy if the tenant is receiving federal\nﬁnancial assistance through the Section 8 program. (See Wasatch Property\nManagement v. Degrate (2005) 35 Cal. 4th 1111, 1115 [29 Cal. Rptr.3d 262, 112 P.3d\n647]; Civ. Code, §1954.535 (90 days' notice required).) Speciﬁc grounds for\nterminating a federally subsidized low-income housing tenancy are required and\nmust be set forth in the notice. (See, e.g., 24 C.F.R. §982.310.)\nSee CACI No. 4307, Suffıciency and Service of Notice of Termination of Month-to-\nMonth Tenancy, for an instruction on proper advanced written notice.",
+  "sources_and_authority": [
+    {
+      "raw": "Unlawful Detainer Based on Holdover After Expiration of Term. Code of Civil\nProcedure section 1161(1).",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Automatic Renewal Absent Notice of Termination on Expiration of Term. Civil\nCode section 1946.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1946",
+          "display": "Civil Code section 1946",
+          "raw": "Civil\nCode section 1946",
+          "span": [
+            70,
+            93
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Time and Manner of Giving Notice of Termination. Civil Code section 1946.1.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1946.1",
+          "display": "Civil Code section 1946.1",
+          "raw": "Civil Code section 1946.1",
+          "span": [
+            49,
+            74
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Presumption That Term Is Based on Period for Which Rent Is Paid. Civil Code\nsection 1944.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1944",
+          "display": "Civil Code section 1944",
+          "raw": "Civil Code\nsection 1944",
+          "span": [
+            65,
+            88
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Tenant Protection Act of 2019. Civil Code section 1946.2.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1946.2",
+          "display": "Civil Code section 1946.2",
+          "raw": "Civil Code section 1946.2",
+          "span": [
+            31,
+            56
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Conversion of Unlawful Detainer to Ordinary Civil Action if Possession Not at\nIssue. Civil Code section 1952.3(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1952.3",
+          "display": "Civil Code section 1952.3",
+          "raw": "Civil Code section 1952.3(a)",
+          "span": [
+            85,
+            113
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1952.3",
+          "display": "Civil Code section 1952.3(a)",
+          "raw": "Civil Code section 1952.3(a)",
+          "span": [
+            85,
+            113
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Commercial Real Property\" and \"Qualiﬁed Commercial Tenant\" Deﬁned. Civil\nCode section 1946.1(k).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1946.1",
+          "display": "Civil Code section 1946.1",
+          "raw": "Civil\nCode section 1946.1(k)",
+          "span": [
+            68,
+            96
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1946.1",
+          "display": "Civil Code section 1946.1(k)",
+          "raw": "Civil\nCode section 1946.1(k)",
+          "span": [
+            68,
+            96
+          ],
+          "subsection": "k"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\" 'In order that such an action may be maintained the conventional relation of\nlandlord and tenant must be shown to exist. In other words, the action is limited\nto those cases in which the tenant is estopped to deny the landlord's title.' \"\n(Fredericksen v. McCosker (1956) 143 Cal. App.2d 114, 116 [299 P.2d 908],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Fredericksen v. McCosker",
+          "year": 1956,
+          "volume": 143,
+          "reporter": "Cal.App.2d",
+          "page": 114,
+          "pin": "116",
+          "raw": "Fredericksen v. McCosker (1956) 143 Cal. App.2d 114, 116",
+          "span": [
+            242,
+            298
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"If the tenant gives up possession of the property after the commencement of an\nunlawful detainer proceeding, the action becomes an ordinary one for damages.\"\n(Fish Construction Co. v. Moselle Coach Works, Inc. (1983) 148 Cal. App.3d\n654, 658 [196 Cal. Rptr. 174].)\nUNLAWFUL DETAINER 4306\n1157",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Fish Construction Co. v. Moselle Coach Works, Inc.",
+          "year": 1983,
+          "volume": 148,
+          "reporter": "Cal.App.3d",
+          "page": 654,
+          "pin": "658",
+          "raw": "Fish Construction Co. v. Moselle Coach Works, Inc. (1983) 148 Cal. App.3d 654, 658",
+          "span": [
+            160,
+            242
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The Act provides that as a prerequisite to ﬁling an unlawful detainer action\nbased on a terminated month-to-month tenancy, the landlord must serve the\ntenant with a 30-day written notice of termination.\" ( Losornio v. Motta (1998)\n67 Cal. App.4th 110, 113 [78 Cal. Rptr.2d 799], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Losornio v. Motta",
+          "year": 1998,
+          "volume": 67,
+          "reporter": "Cal.App.4th",
+          "page": 110,
+          "pin": "113",
+          "raw": "Losornio v. Motta (1998) 67 Cal. App.4th 110, 113",
+          "span": [
+            207,
+            256
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Proper service on the lessee of a valid . . . notice . . . is an essential\nprerequisite to a judgment declaring a lessor's right to possession under section\n1161, subdivision 2. A lessor must allege and prove proper service of the\nrequisite notice. Absent evidence the requisite notice was properly served\npursuant to section 1162, no judgment for possession can be obtained.\"\n(Liebovich v. Shahrokhkhany (1997) 56 Cal. App.4th 511, 513 [65 Cal. Rptr.2d\n457], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Liebovich v. Shahrokhkhany",
+          "year": 1997,
+          "volume": 56,
+          "reporter": "Cal.App.4th",
+          "page": 511,
+          "pin": "513",
+          "raw": "Liebovich v. Shahrokhkhany (1997) 56 Cal. App.4th 511, 513",
+          "span": [
+            379,
+            437
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Section 1162 does not authorize service of a . . . notice . . . by mail delivery\nalone, certiﬁed or otherwise. It provides for service by: personal delivery;\nleaving a copy with a person of suitable age and discretion at the renter's\nresidence or usual place of business and sending a copy through the mail to the\ntenant's residence; or posting and delivery of a copy to a person there residing,\nif one can be found, and sending a copy through the mail. Strict compliance\nwith the statute is required.\" ( Liebovich, supra, 56 Cal. App.4th at p. 516,\noriginal italics, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In the cases discussed . . . , a ﬁnding of proper service turned on a party's\nacknowledgment or admission the notice in question was in fact received. In the\npresent case, defendant denied, in his answer and at trial, that he had ever\nreceived the . . . notice. Because there was no admission of receipt in this case,\nservice by certiﬁed mail did not establish or amount to personal delivery.\nFurther, there was no evidence of compliance with any of the three methods of\nservice of a . . . notice . . . provided in [Code of Civil Procedure] section 1162.\nTherefore, the judgment must be reversed.\" ( Liebovich, supra, 56 Cal. App.4th at\np. 518.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[Code of Civil Procedure section 1162 speciﬁes] three ways in which service of\nthe . . . notice may be effected on a residential tenant: . . . . As explained in\nLiebovich, supra , . . . , '[w]hen the fact of service is contested, compliance with\none of these methods must be shown or the judgment must be reversed.' \" ( Palm\nProperty Investments, LLC, supra, 194 Cal. App.4th at p. 1425.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "12 Witkin, Summary of California Law (11th ed. 2017) Real Property, §707 et seq.\nFriedman et al., California Practice Guide: Landlord-Tenant, Ch. 8-B, Unlawful\nDetainer Complaint , ¶ 8:85 (The Rutter Group)\n1 California Landlord-Tenant Practice (Cont.Ed.Bar 2d ed.) §§8.69–8.80\n1 California Eviction Defense Manual (Cont.Ed.Bar 2d ed.) §§5.3, 7.5, 7.11\n7 California Real Estate Law and Practice, Ch. 200, Termination: Causes and\nProcedures, §200.21 (Matthew Bender)\n7 California Real Estate Law and Practice, Ch. 210, Unlawful Detainer , §§210.21,\n4306 UNLAWFUL DETAINER\n1158\n210.27 (Matthew Bender)\nMatthew Bender Practice Guide: California Landlord-Tenant Litigation, Ch. 5,\nUnlawful Detainer , 5.07\n29 California Forms of Pleading and Practice, Ch. 332, Landlord and Tenant: The\nTenancy, §332.28 (Matthew Bender)\n29 California Forms of Pleading and Practice, Ch. 333, Landlord and Tenant:\nEviction Actions , §333.10 (Matthew Bender)\n23 California Points and Authorities, Ch. 236, Unlawful Detainer , §§236.11, 236.40\n(Matthew Bender)\nMiller & Starr California Real Estate 4th, §34:147 (Thomson Reuters)\nUNLAWFUL DETAINER 4306\n1159",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1946",
+      "display": "Civil Code section 1946",
+      "raw": "Civil\nCode section 1946",
+      "span": [
+        70,
+        93
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1946"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1946.1",
+      "display": "Civil Code section 1946.1",
+      "raw": "Civil Code section 1946.1",
+      "span": [
+        49,
+        74
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1946.1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1944",
+      "display": "Civil Code section 1944",
+      "raw": "Civil Code\nsection 1944",
+      "span": [
+        65,
+        88
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1944"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1946.2",
+      "display": "Civil Code section 1946.2",
+      "raw": "Civil Code section 1946.2",
+      "span": [
+        31,
+        56
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1946.2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1952.3",
+      "display": "Civil Code section 1952.3",
+      "raw": "Civil Code section 1952.3(a)",
+      "span": [
+        85,
+        113
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1952.3"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1952.3",
+      "display": "Civil Code section 1952.3(a)",
+      "raw": "Civil Code section 1952.3(a)",
+      "span": [
+        85,
+        113
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/CIV/1952.3/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1946.1",
+      "display": "Civil Code section 1946.1(k)",
+      "raw": "Civil\nCode section 1946.1(k)",
+      "span": [
+        68,
+        96
+      ],
+      "subsection": "k",
+      "role": "sources",
+      "statute_key": "CA/CIV/1946.1/k"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1946.1",
+      "display": "Civil Code section 1946.1(b)",
+      "raw": "Civ. Code,\n§§1946, 1946.1(b)",
+      "span": [
+        1134,
+        1162
+      ],
+      "subsection": "b",
+      "role": "directions",
+      "statute_key": "CA/CIV/1946.1/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1946.2",
+      "display": "Civil Code section 1946.2(a)",
+      "raw": "Civ. Code, §1946.2(a)",
+      "span": [
+        1285,
+        1306
+      ],
+      "subsection": "a",
+      "role": "directions",
+      "statute_key": "CA/CIV/1946.2/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1954.535",
+      "display": "Civil Code section 1954.535",
+      "raw": "Civ. Code, §1954.535",
+      "span": [
+        2674,
+        2694
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/1954.535"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Fredericksen v. McCosker",
+      "year": 1956,
+      "volume": 143,
+      "reporter": "Cal.App.2d",
+      "page": 114,
+      "pin": "116",
+      "raw": "Fredericksen v. McCosker (1956) 143 Cal. App.2d 114, 116",
+      "span": [
+        242,
+        298
+      ],
+      "role": "sources",
+      "case_key": "143 Cal.App.2d 114"
+    },
+    {
+      "name": "Fish Construction Co. v. Moselle Coach Works, Inc.",
+      "year": 1983,
+      "volume": 148,
+      "reporter": "Cal.App.3d",
+      "page": 654,
+      "pin": "658",
+      "raw": "Fish Construction Co. v. Moselle Coach Works, Inc. (1983) 148 Cal. App.3d 654, 658",
+      "span": [
+        160,
+        242
+      ],
+      "role": "sources",
+      "case_key": "148 Cal.App.3d 654"
+    },
+    {
+      "name": "Losornio v. Motta",
+      "year": 1998,
+      "volume": 67,
+      "reporter": "Cal.App.4th",
+      "page": 110,
+      "pin": "113",
+      "raw": "Losornio v. Motta (1998) 67 Cal. App.4th 110, 113",
+      "span": [
+        207,
+        256
+      ],
+      "role": "sources",
+      "case_key": "67 Cal.App.4th 110"
+    },
+    {
+      "name": "Liebovich v. Shahrokhkhany",
+      "year": 1997,
+      "volume": 56,
+      "reporter": "Cal.App.4th",
+      "page": 511,
+      "pin": "513",
+      "raw": "Liebovich v. Shahrokhkhany (1997) 56 Cal. App.4th 511, 513",
+      "span": [
+        379,
+        437
+      ],
+      "role": "sources",
+      "case_key": "56 Cal.App.4th 511"
+    },
+    {
+      "name": "Palm Property Investments, LLC v. Yadegar",
+      "year": 2011,
+      "volume": 194,
+      "reporter": "Cal.App.4th",
+      "page": 1419,
+      "pin": "1425",
+      "raw": "Palm Property Investments, LLC v. Yadegar (2011) 194 Cal. App.4th 1419, 1425",
+      "span": [
+        1738,
+        1814
+      ],
+      "role": "directions",
+      "case_key": "194 Cal.App.4th 1419"
+    },
+    {
+      "name": "See Wasatch Property Management v. Degrate",
+      "year": 2005,
+      "volume": 35,
+      "reporter": "Cal.4th",
+      "page": 1111,
+      "pin": "1115",
+      "raw": "See Wasatch Property Management v. Degrate (2005) 35 Cal. 4th 1111, 1115",
+      "span": [
+        2564,
+        2636
+      ],
+      "role": "directions",
+      "case_key": "35 Cal.4th 1111"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:24+00:00"
+}

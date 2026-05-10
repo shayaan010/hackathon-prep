@@ -1,0 +1,150 @@
+{
+  "id": "CACI-2812",
+  "edition": "2026",
+  "number": "2812",
+  "title": "Injury Caused by Co-Employee’s Intoxication—Essential Factual Elements (Lab. Code, § 3601(a)(2))",
+  "title_full": "Injury Caused by Co-Employee’s Intoxication—Essential Factual Elements (Lab. Code, § 3601(a)(2))",
+  "title_statute": null,
+  "series": "2800",
+  "series_title": "Series 2800 Workers’ Compensation",
+  "page_start": 2042,
+  "page_end": 2042,
+  "instruction_text": "2812. Injury Caused by Co-Employee's Intoxication–Essential\nFactual Elements (Lab. Code, §3601(a)(2))\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun] was harmed\nbecause [ name of defendant ] was intoxicated. To establish this claim,\n[name of plaintiff ] must prove all of the following:\n1. That [ name of defendant ] [ insert description of injury-producing\nconduct];\n2. That [ name of defendant ] was intoxicated;\n3. That [ name of plaintiff ] was harmed; and\n4. That [ name of defendant ]'s intoxication was a substantial factor in\ncausing [ name of plaintiff ]'s harm.",
+  "directions_for_use": "This instruction is intended for use in cases where a co-employee is the defendant\nand the plaintiff alleges that the case falls outside of the workers' compensation\nexclusivity rule.",
+  "sources_and_authority": [
+    {
+      "raw": "Exclusive Remedy: Exception for Act of Intoxicated Coemployee. Labor Code\nsection 3601(a)(2).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3601",
+          "display": "Labor Code section 3601",
+          "raw": "Labor Code\nsection 3601(a)(2)",
+          "span": [
+            63,
+            92
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3601",
+          "display": "Labor Code section 3601(a)",
+          "raw": "Labor Code\nsection 3601(a)(2)",
+          "span": [
+            63,
+            92
+          ],
+          "subsection": "a"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3601",
+          "display": "Labor Code section 3601(2)",
+          "raw": "Labor Code\nsection 3601(a)(2)",
+          "span": [
+            63,
+            92
+          ],
+          "subsection": "2"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"As relevant here, a civil suit is permissible when an employee proximately\ncauses another employee's injury or death by a 'willful and unprovoked physical\nact of aggression' or by intoxication. If an employee brings a lawsuit against a\ncoemployee based on either of these exceptions, the employer is not 'held liable,\ndirectly or indirectly, for damages awarded against, or for a liability incurred by\nthe other employee . . . .' This provision is consistent with the view that a\ncoemployee is immune from suit to the extent necessary to prevent an end-run\nagainst the employer under the exclusivity rule. 'It is self-evident that Labor\nCode section 3601 did not establish or create a new right or cause of action in\nthe employee but severely limited a preexisting right to freely sue a fellow\nemployee for damages.' \" ( Torres v. Parkhouse Tire Service, Inc. (2001) 26\nCal. 4th 995, 1002 [111 Cal. Rptr.2d 564, 30 P.3d 57], internal citations and\nfootnotes omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3601",
+          "display": "Labor Code section 3601",
+          "raw": "Labor\nCode section 3601",
+          "span": [
+            632,
+            655
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Torres v. Parkhouse Tire Service, Inc.",
+          "year": 2001,
+          "volume": 26,
+          "reporter": "Cal.4th",
+          "page": 995,
+          "pin": "1002",
+          "raw": "Torres v. Parkhouse Tire Service, Inc. (2001) 26 Cal. 4th 995, 1002",
+          "span": [
+            822,
+            889
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "2 Witkin, Summary of California Law (10th ed. 2005) Workers' Compensation,\n§§67, 68\nChin et al., California Practice Guide: Employment Litigation, Ch. 5(I)-F,\nIntentional Interference with Contract or Prospective Economic Advantage , ¶ 5:624\n156",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3601",
+      "display": "Labor Code section 3601",
+      "raw": "Labor Code\nsection 3601(a)(2)",
+      "span": [
+        63,
+        92
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/3601"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3601",
+      "display": "Labor Code section 3601(a)",
+      "raw": "Labor Code\nsection 3601(a)(2)",
+      "span": [
+        63,
+        92
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/LAB/3601/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3601",
+      "display": "Labor Code section 3601(2)",
+      "raw": "Labor Code\nsection 3601(a)(2)",
+      "span": [
+        63,
+        92
+      ],
+      "subsection": "2",
+      "role": "sources",
+      "statute_key": "CA/LAB/3601/2"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Torres v. Parkhouse Tire Service, Inc.",
+      "year": 2001,
+      "volume": 26,
+      "reporter": "Cal.4th",
+      "page": 995,
+      "pin": "1002",
+      "raw": "Torres v. Parkhouse Tire Service, Inc. (2001) 26 Cal. 4th 995, 1002",
+      "span": [
+        822,
+        889
+      ],
+      "role": "sources",
+      "case_key": "26 Cal.4th 995"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:19+00:00"
+}

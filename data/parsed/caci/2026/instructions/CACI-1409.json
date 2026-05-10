@@ -1,0 +1,128 @@
+{
+  "id": "CACI-1409",
+  "edition": "2026",
+  "number": "1409",
+  "title": "Common Law Right to Detain for Investigation",
+  "title_full": "Common Law Right to Detain for Investigation",
+  "title_statute": null,
+  "series": "1400",
+  "series_title": "Series 1400 False Imprisonment",
+  "page_start": 984,
+  "page_end": 984,
+  "instruction_text": "1409. Common Law Right to Detain for Investigation\n[Name of defendant ] claims that the detention was not wrongful because\n[he/she/nonbinary pronoun] had a right to detain [ name of plaintiff ]. To\nsucceed, [ name of defendant ] must prove all of the following:\n1. That [ name of defendant ] was the\n[owner/employer/employee/agent] of a business;\n2. That [ name of defendant ] had reasonable grounds to believe that\n[name of plaintiff ] had wrongfully [taken or damaged merchandise\nor other personal property] [secured services] from the business.\nIf you ﬁnd that [ insert facts, that if established, would constitute\nreasonable grounds ], then [ name of defendant ] had reasonable\ngrounds to detain [ name of plaintiff ];\n3. That [ name of defendant ] detained [ name of plaintiff ] for a\nreasonable amount of time; and\n4. That [ name of defendant ] detained [ name of plaintiff ] in a\nreasonable manner.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"[W]e conclude that the merchant's probable cause defense is limited to suits\nbased upon a detention and does not extend to suits based upon an arrest.\"\n(Cervantez v. J.C. Penney Co. (1979) 24 Cal. 3d 579, 591 [156 Cal. Rptr. 198,\n595 P.2d 975].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cervantez v. J.C. Penney Co.",
+          "year": 1979,
+          "volume": 24,
+          "reporter": "Cal.3d",
+          "page": 579,
+          "pin": "591",
+          "raw": "Cervantez v. J.C. Penney Co. (1979) 24 Cal. 3d 579, 591",
+          "span": [
+            154,
+            209
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Ordinarily, the owner of property, in the exercise of his inherent right to protect\nthe same, is justiﬁed in restraining another who seeks to interfere with or injure\nit.\" ( Collyer v. S.H. Kress Co. (1936) 5 Cal. 2d 175, 180 [54 P.2d 20], internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Collyer v. S.H. Kress Co.",
+          "year": 1936,
+          "volume": 5,
+          "reporter": "Cal.2d",
+          "page": 175,
+          "pin": "180",
+          "raw": "Collyer v. S.H. Kress Co. (1936) 5 Cal. 2d 175, 180",
+          "span": [
+            175,
+            226
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Merchants who detain individuals whom they have probable cause to believe\nare about to injure their property are privileged against a false imprisonment\naction. The detention itself must be carried out for a reasonable time and in a\nreasonable manner.\" ( Fermino v. Fedco, Inc. (1994) 7 Cal. 4th 701, 716 [30\nCal. Rptr.2d 18, 872 P.2d 559].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Fermino v. Fedco, Inc.",
+          "year": 1994,
+          "volume": 7,
+          "reporter": "Cal.4th",
+          "page": 701,
+          "pin": "716",
+          "raw": "Fermino v. Fedco, Inc. (1994) 7 Cal. 4th 701, 716",
+          "span": [
+            256,
+            305
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"We note that the merchant's privilege is a defense to a false imprisonment\naction. As such, the lack of that privilege on defendant's part need not be\nspeciﬁcally pleaded by plaintiff. Although a false imprisonment must involve an\n'unlawful' restraint on an individual's liberty, [plaintiff's] allegations sufficiently\nplead that her conﬁnement was unlawful. Moreover, the question of whether a\ndetainment was reasonable is generally a question of fact.\" ( Fermino, supra, 7\nCal. 4th at p. 723, fn. 8, internal citations omitted.)\n910",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Cervantez v. J.C. Penney Co.",
+      "year": 1979,
+      "volume": 24,
+      "reporter": "Cal.3d",
+      "page": 579,
+      "pin": "591",
+      "raw": "Cervantez v. J.C. Penney Co. (1979) 24 Cal. 3d 579, 591",
+      "span": [
+        154,
+        209
+      ],
+      "role": "sources",
+      "case_key": "24 Cal.3d 579"
+    },
+    {
+      "name": "Collyer v. S.H. Kress Co.",
+      "year": 1936,
+      "volume": 5,
+      "reporter": "Cal.2d",
+      "page": 175,
+      "pin": "180",
+      "raw": "Collyer v. S.H. Kress Co. (1936) 5 Cal. 2d 175, 180",
+      "span": [
+        175,
+        226
+      ],
+      "role": "sources",
+      "case_key": "5 Cal.2d 175"
+    },
+    {
+      "name": "Fermino v. Fedco, Inc.",
+      "year": 1994,
+      "volume": 7,
+      "reporter": "Cal.4th",
+      "page": 701,
+      "pin": "716",
+      "raw": "Fermino v. Fedco, Inc. (1994) 7 Cal. 4th 701, 716",
+      "span": [
+        256,
+        305
+      ],
+      "role": "sources",
+      "case_key": "7 Cal.4th 701"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

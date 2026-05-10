@@ -1,0 +1,208 @@
+{
+  "id": "CACI-335",
+  "edition": "2026",
+  "number": "335",
+  "title": "Affirmative Defense—Fraud",
+  "title_full": "Affirmative Defense—Fraud",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 230,
+  "page_end": 231,
+  "instruction_text": "335. Affirmative Defense–Fraud\n[Name of defendant ] claims that no contract was created because [his/her/\nnonbinary pronoun/its] consent was obtained by fraud. To succeed, [ name\nof defendant ] must prove all of the following:\n1. That [ name of plaintiff ] represented that [ insert alleged fraudulent\nstatement];\n2. That [ name of plaintiff ] knew that the representation was not true;\n3. That [ name of plaintiff ] made the representation to persuade\n[name of defendant ] to agree to the contract;\n4. That [ name of defendant ] reasonably relied on this representation;\nand\n5. That [ name of defendant ] would not have entered into the contract\nif [he/she/ nonbinary pronoun /it] had known that the representation\nwas not true.\nIf you decide that [ name of defendant ] has proved all of the above, then\nno contract was created.",
+  "directions_for_use": "This instruction covers intentional misrepresentation under the ﬁrst alternative\npresented in Civil Code section 1572. The other types of fraud that are set forth in\nsection 1572 are negligent misrepresentation, concealment of a material fact, and\nfalse promise.\nIf the case involves an alleged negligent misrepresentation, substitute the following\nfor element 2: \"That [ name of plaintiff ] had no reasonable grounds for believing the\nrepresentation was true.\"\nIf the case involves concealment, the following may be substituted for element 1:\n\"That [ name of plaintiff ] intentionally concealed an important fact from [ name of\ndefendant], creating a false representation.\" See CACI No. 1901, Concealment, for\nalternative ways of proving this element.\nIf the case involves a false promise, substitute the following for element 1: \"That\n[name of plaintiff ] made a promise that [he/she/ nonbinary pronoun/it] did not intend\nto perform\" and insert the word \"promise\" in place of the word \"representation\"\nthroughout the remainder of the instruction.",
+  "sources_and_authority": [
+    {
+      "raw": "When Consent Not Freely Given. Civil Code sections 1567, 1568.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1567",
+          "display": "Civil Code section 1567",
+          "raw": "Civil Code sections 1567, 1568",
+          "span": [
+            31,
+            61
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1568",
+          "display": "Civil Code section 1568",
+          "raw": "Civil Code sections 1567, 1568",
+          "span": [
+            31,
+            61
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Actual Fraud. Civil Code section 1572.\n156",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1572",
+          "display": "Civil Code section 1572",
+          "raw": "Civil Code section 1572",
+          "span": [
+            14,
+            37
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Fraud can be found in making a misstatement of fact, as well as in the\nconcealment of a fact: \"Actual fraud involves conscious misrepresentation, or\nconcealment, or non-disclosure of a material fact which induces the innocent\nparty to enter the contract.\" ( Odorizzi v. Bloomﬁeld School Dist. (1966) 246\nCal. App.2d 123, 128 [54 Cal. Rptr. 533].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Odorizzi v. Bloomﬁeld School Dist.",
+          "year": 1966,
+          "volume": 246,
+          "reporter": "Cal.App.2d",
+          "page": 123,
+          "pin": "128",
+          "raw": "Odorizzi v. Bloomﬁeld School Dist. (1966) 246 Cal. App.2d 123, 128",
+          "span": [
+            258,
+            324
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Fraud may be asserted as an affirmative defense: \"One who has been induced to\nenter into a contract by false and fraudulent representations may rescind the\ncontract; or he may affirm it, keeping what he has received under it, and\nmaintain an action to recover damages he has sustained by reason of the fraud;\nor he may set up such damages as a complete or partial defense if sued on the\ncontract by the other party.\" ( Grady v. Easley (1941) 45 Cal. App.2d 632, 642\n[114 P.2d 635].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Grady v. Easley",
+          "year": 1941,
+          "volume": 45,
+          "reporter": "Cal.App.2d",
+          "page": 632,
+          "pin": "642",
+          "raw": "Grady v. Easley (1941) 45 Cal. App.2d 632, 642",
+          "span": [
+            419,
+            465
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"It is well established that a defrauded defendant may set up the fraud as a\ndefense and, in fact, may even recoup his damages by counterclaim in an action\nbrought by the guilty party to the contract. The right to avoid for fraud, however,\nis lost if the injured party, after acquiring knowledge of the fraud, manifests an\nintention to affirm the contract.\" ( Bowmer v. H. C. Louis, Inc. (1966) 243\nCal. App.2d 501, 503 [52 Cal. Rptr. 436], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bowmer v. H. C. Louis, Inc.",
+          "year": 1966,
+          "volume": 243,
+          "reporter": "Cal.App.2d",
+          "page": 501,
+          "pin": "503",
+          "raw": "Bowmer v. H. C. Louis, Inc. (1966) 243 Cal. App.2d 501, 503",
+          "span": [
+            360,
+            419
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§286–309\n17 California Forms of Pleading and Practice, Ch. 215, Duress, Menace, Fraud,\nUndue Inﬂuence, and Mistake , §§215.70–215.72, 215.144 (Matthew Bender)\n9 California Points and Authorities, Ch. 92, Duress, Menace, Fraud, Undue\nInﬂuence, and Mistake , §92.40 et seq. (Matthew Bender)\n27 California Legal Forms, Ch. 77, Discharge of Obligations, §77.353 (Matthew\nBender)\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 8, Seeking or\nOpposing Equitable Remedies in Contract Actions , 8.24\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 17, Attacking\nor Defending Existence of Contract–Fraud, Duress, Menace, and Undue Inﬂuence ,\n17.03–17.09, 17.12–17.18\nCONTRACTS CACI No. 335\n157",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1567",
+      "display": "Civil Code section 1567",
+      "raw": "Civil Code sections 1567, 1568",
+      "span": [
+        31,
+        61
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1567"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1568",
+      "display": "Civil Code section 1568",
+      "raw": "Civil Code sections 1567, 1568",
+      "span": [
+        31,
+        61
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1568"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1572",
+      "display": "Civil Code section 1572",
+      "raw": "Civil Code section 1572",
+      "span": [
+        14,
+        37
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1572"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Odorizzi v. Bloomﬁeld School Dist.",
+      "year": 1966,
+      "volume": 246,
+      "reporter": "Cal.App.2d",
+      "page": 123,
+      "pin": "128",
+      "raw": "Odorizzi v. Bloomﬁeld School Dist. (1966) 246 Cal. App.2d 123, 128",
+      "span": [
+        258,
+        324
+      ],
+      "role": "sources",
+      "case_key": "246 Cal.App.2d 123"
+    },
+    {
+      "name": "Grady v. Easley",
+      "year": 1941,
+      "volume": 45,
+      "reporter": "Cal.App.2d",
+      "page": 632,
+      "pin": "642",
+      "raw": "Grady v. Easley (1941) 45 Cal. App.2d 632, 642",
+      "span": [
+        419,
+        465
+      ],
+      "role": "sources",
+      "case_key": "45 Cal.App.2d 632"
+    },
+    {
+      "name": "Bowmer v. H. C. Louis, Inc.",
+      "year": 1966,
+      "volume": 243,
+      "reporter": "Cal.App.2d",
+      "page": 501,
+      "pin": "503",
+      "raw": "Bowmer v. H. C. Louis, Inc. (1966) 243 Cal. App.2d 501, 503",
+      "span": [
+        360,
+        419
+      ],
+      "role": "sources",
+      "case_key": "243 Cal.App.2d 501"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "CACI-3112",
+  "edition": "2026",
+  "number": "3112",
+  "title": "“Dependent Adult” Explained",
+  "title_full": "“Dependent Adult” Explained (Welf. & Inst. Code,§ 15610.23)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "WIC",
+    "section": "15610.23",
+    "display": "Welfare and Institutions Code section 15610.23",
+    "raw": "Welf. & Inst. Code,§ 15610.23",
+    "span": [
+      0,
+      29
+    ]
+  },
+  "series": "3100",
+  "series_title": "Series 3100 Elder Abuse and Dependent Adult Civil Protection Act",
+  "page_start": 2323,
+  "page_end": 2323,
+  "instruction_text": "3112. \"Dependent Adult\" Explained (Welf. & Inst. Code,\n§15610.23)\nA \"dependent adult\" is a person, regardless of whether or not the person\nlives independently, who is between the ages of 18 and 64 years and who\n[insert one of the following: ]\n[has physical or mental limitations that restrict that person's ability\nto carry out normal activities or to protect that person's rights. This\nincludes persons who have physical or developmental disabilities or\nwhose physical or mental abilities have diminished because of age.]\n[or]\n[is admitted as an inpatient to [a/an] [ insert 24-hour health facility ].]",
+  "directions_for_use": "Read the alternative that is most appropriate to the facts of the case.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Dependent Adult\" Deﬁned. Welfare and Institutions Code section 15610.23.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "WIC",
+          "section": "15610.23",
+          "display": "Welfare and Institutions Code section 15610.23",
+          "raw": "Welfare and Institutions Code section 15610.23",
+          "span": [
+            26,
+            72
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Developmentally Disabled Person\" Deﬁned. Welfare and Institutions Code\nsection 15610.25.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "WIC",
+          "section": "15610.25",
+          "display": "Welfare and Institutions Code section 15610.25",
+          "raw": "Welfare and Institutions Code\nsection 15610.25",
+          "span": [
+            42,
+            88
+          ]
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "California Elder Law Litigation (Cont.Ed.Bar) §6.22\n1 California Forms of Pleading and Practice, Ch. 5, Abuse of Minors and Elderly ,\n§5.31 (Matthew Bender)\n437",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "WIC",
+      "section": "15610.23",
+      "display": "Welfare and Institutions Code section 15610.23",
+      "raw": "Welf. & Inst. Code,§ 15610.23",
+      "span": [
+        0,
+        29
+      ],
+      "role": "title",
+      "statute_key": "CA/WIC/15610.23"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "WIC",
+      "section": "15610.25",
+      "display": "Welfare and Institutions Code section 15610.25",
+      "raw": "Welfare and Institutions Code\nsection 15610.25",
+      "span": [
+        42,
+        88
+      ],
+      "role": "sources",
+      "statute_key": "CA/WIC/15610.25"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

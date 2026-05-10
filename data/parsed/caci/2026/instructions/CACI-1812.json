@@ -1,0 +1,276 @@
+{
+  "id": "CACI-1812",
+  "edition": "2026",
+  "number": "1812",
+  "title": "Comprehensive Computer Data and Access Fraud Act—Essential Factual Elements",
+  "title_full": "Comprehensive Computer Data and Access Fraud Act—Essential Factual Elements (Pen. Code, § 502)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "PEN",
+    "section": "502",
+    "display": "Penal Code section 502",
+    "raw": "Pen. Code, § 502",
+    "span": [
+      0,
+      16
+    ]
+  },
+  "series": "1800",
+  "series_title": "Series 1800 Right Of Privacy",
+  "page_start": 1232,
+  "page_end": 1234,
+  "instruction_text": "1812. Comprehensive Computer Data and Access Fraud\nAct–Essential Factual Elements (Pen. Code, §502)\n[Name of plaintiff ] claims that [ name of defendant ] has violated the\nComprehensive Computer Data and Access Fraud Act. To establish this\nclaim, [ name of plaintiff ] must prove all of the following:\n1. That [ name of plaintiff ] is the [owner/lessee] of the [ specify\ncomputer, computer system, computer network, computer program,\nand/or data ];\n2. That [ name of defendant ] knowingly [ specify one or more prohibited\nacts from Pen. Code, §502(c), e.g., accessed [name of plaintiff]'s\ndata on a computer, computer system, or computer network ];\n[3. That [ name of defendant ]'s [ specify conduct from Pen. Code,\n§502(c), e.g., use of the computer services ] was without [ name of\nplaintiff]'s permission;]\n[4.] That [ name of plaintiff ] was harmed; and\n[5.] That [ name of defendant ]'s conduct was a substantial factor in\ncausing [ name of plaintiff ]'s harm.",
+  "directions_for_use": "Give this instruction for a claim under the Comprehensive Computer Data Access\nand Fraud Act (CDAFA). CDAFA makes civil remedies available to any person who\nsuffers damage or loss by reason of the commission of certain computer-related\noffenses. (Pen. Code, §502(c), (e)(1).)\nFor element 1, the court may need to deﬁne the technology (e.g., \"computer\nnetwork,\" \"computer program or software,\" \"computer system,\" or \"data\") or other\nstatutory term depending on the facts and circumstances of the particular case. (See\nPen. Code, §502(b) [deﬁning various terms].) For a deﬁnition of \"access,\" see\nCACI No. 1813, Deﬁnition of \"Access.\"\nSome of the prohibited acts for element 2 may also require that the defendant do\nsomething speciﬁc with the access or that the defendant have a speciﬁc purpose. For\nexample, if the defendant allegedly deleted or used plaintiff's computer data, it must\nhave been done without permission and either to (a) devise or execute any scheme\nor artiﬁce to defraud, deceive, or extort, or (b) wrongfully control or obtain money,\nproperty, or data. (See Pen. Code, §502(c)(1).) Modify the instruction to include\nthese elements where required.\nInclude element 3 regarding lack of permission depending on the violation(s)\nalleged. Lack of permission is a required element for violations of subdivisions\n1158\n(c)(1)–(7) and (c)(9)–(13), but not for violations of subdivisions (c)(8) and (c)(14).\nModify element 3 accordingly. Delete element 3 for violations of the latter\nsubdivisions.\nIf plaintiff's claim involves a \"government computer system\" or a \"public safety\ninfrastructure computer system\" and there is a factual dispute about the type of\ncomputer system involved, this instruction should be modiﬁed to add that issue as\nan element. (See Pen. Code, §502(c)(10), (11), (12), (13), and (14).)",
+  "sources_and_authority": [
+    {
+      "raw": "Comprehensive Computer Data Access and Fraud Act. Penal Code section 502.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "502",
+          "display": "Penal Code section 502",
+          "raw": "Penal Code section 502",
+          "span": [
+            50,
+            72
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Penal Code section 502, subdivision (e)(1) permits a civil action to recover\nexpenses related to investigating the unauthorized computer access.\" ( V erio\nHealthcare, Inc. v. Superior Court (2016) 3 Cal. App.5th 1315, 1321 fn. 3 [208\nCal. Rptr.3d 436].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "502",
+          "display": "Penal Code section 502",
+          "raw": "Penal Code section 502",
+          "span": [
+            1,
+            23
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Healthcare, Inc. v. Superior Court",
+          "year": 2016,
+          "volume": 3,
+          "reporter": "Cal.App.5th",
+          "page": 1315,
+          "pin": "1321",
+          "raw": "Healthcare, Inc. v. Superior Court (2016) 3 Cal. App.5th 1315, 1321",
+          "span": [
+            156,
+            223
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Whether [plaintiff] owned the data in [defendant's] possession was a question\nof fact for the jury to decide. By assuming or asking whether [plaintiff] had an\nunspeciﬁed interest in the data in question, the instruction as given removed\nfrom the jury's consideration an element that [plaintiff] had to prove to prevail\non his claim.\" ( Garrabrants v. Erhart (2023) 98 Cal. App.5th 486, 509 [316\nCal. Rptr.3d 792], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Garrabrants v. Erhart",
+          "year": 2023,
+          "volume": 98,
+          "reporter": "Cal.App.5th",
+          "page": 486,
+          "pin": "509",
+          "raw": "Garrabrants v. Erhart (2023) 98 Cal. App.5th 486, 509",
+          "span": [
+            337,
+            390
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Four of the section 502, subdivision (c) offenses include access as an element.\nThe provision under which [defendant] was charged does not. When different\nwords are used in adjoining subdivisions of a statute that were enacted at the\nsame time, that fact raises a compelling inference that a different meaning was\nintended. The Legislature's requirement of unpermitted access in some section\n502 offenses and its failure to require that element in other parts of the same\nstatute raise a strong inference that the subdivisions that do not require\nunpermitted access were intended to apply to persons who gain lawful access to\na computer but then abuse that access.\" ( People v. Childs (2013) 220\nCal. App.4th 1079, 1102 [164 Cal. Rptr.3d 287], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Childs",
+          "year": 2013,
+          "volume": 220,
+          "reporter": "Cal.App.4th",
+          "page": 1079,
+          "pin": "1102",
+          "raw": "People v. Childs (2013) 220 Cal. App.4th 1079, 1102",
+          "span": [
+            669,
+            720
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[The CDAFA] does not require unauthorized access. It merely requires knowing\naccess. What makes that access unlawful is that the person 'without permission\ntakes, copies, or makes use of' data on the computer. A plain reading of the\nstatute demonstrates that its focus is on unauthorized taking or use of\ninformation.\" ( United States v. Christensen (9th Cir. 2015) 828 F.3d 763, 789,\noriginal italics, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Because [defendant] had implied authorization to access [plaintiff]'s computers,\nit did not, at ﬁrst, violate the [CDAFA]. But when [plaintiff] sent the cease and\ndesist letter, [defendant], as it conceded, knew that it no longer had permission\nto access [plaintiff]'s computers at all. [Defendant], therefore, knowingly\naccessed and without permission took, copied, and made use of [plaintiff]'s\ndata.\" ( Facebook, Inc. v. Power V entures, Inc. (9th Cir. 2016) 844 F.3d 1058,\n1069.)\nRIGHT OF PRIV ACY CACI No. 1812\n1159",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]aking data using a method prohibited by the applicable terms of use, when\nthe taking itself generally is permitted, does not violate the CDAFA.\" ( Oracle\nUSA, Inc. v. Rimini Street, Inc. (9th Cir. 2018) 879 F.3d 948, 962, reversed in\npart on other grounds by Rimini Street, Inc. v. Oracle USA, Inc. (2019) 586 U.S.\n334, 346 [139 S.Ct. 873, 203 L.Ed.2d 180], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Rimini Street, Inc. v. Oracle USA, Inc.",
+          "year": 2019,
+          "volume": 586,
+          "reporter": "U.S.",
+          "page": 334,
+          "pin": "346",
+          "raw": "Rimini Street, Inc. v. Oracle USA, Inc. (2019) 586 U.S. 334, 346",
+          "span": [
+            263,
+            327
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, California Criminal Law (4th ed. 2012) Crimes Against Property, §229 et\nseq.\n31 California Forms of Pleading and Practice, Ch. 349, Literary Property and\nCopyright, §349.41[5] (Matthew Bender)\nCACI No. 1812 RIGHT OF PRIV ACY\n1160",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "502",
+      "display": "Penal Code section 502",
+      "raw": "Pen. Code, § 502",
+      "span": [
+        0,
+        16
+      ],
+      "role": "title",
+      "statute_key": "CA/PEN/502"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "502",
+      "display": "Penal Code section 502(c)",
+      "raw": "Pen. Code, §502(c)",
+      "span": [
+        247,
+        265
+      ],
+      "subsection": "c",
+      "role": "directions",
+      "statute_key": "CA/PEN/502/c"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "502",
+      "display": "Penal Code section 502(b)",
+      "raw": "Pen. Code, §502(b)",
+      "span": [
+        517,
+        535
+      ],
+      "subsection": "b",
+      "role": "directions",
+      "statute_key": "CA/PEN/502/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "502",
+      "display": "Penal Code section 502(1)",
+      "raw": "Pen. Code, §502(c)(1)",
+      "span": [
+        1076,
+        1097
+      ],
+      "subsection": "1",
+      "role": "directions",
+      "statute_key": "CA/PEN/502/1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "502",
+      "display": "Penal Code section 502(10)",
+      "raw": "Pen. Code, §502(c)(10)",
+      "span": [
+        1766,
+        1788
+      ],
+      "subsection": "10",
+      "role": "directions",
+      "statute_key": "CA/PEN/502/10"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Healthcare, Inc. v. Superior Court",
+      "year": 2016,
+      "volume": 3,
+      "reporter": "Cal.App.5th",
+      "page": 1315,
+      "pin": "1321",
+      "raw": "Healthcare, Inc. v. Superior Court (2016) 3 Cal. App.5th 1315, 1321",
+      "span": [
+        156,
+        223
+      ],
+      "role": "sources",
+      "case_key": "3 Cal.App.5th 1315"
+    },
+    {
+      "name": "Garrabrants v. Erhart",
+      "year": 2023,
+      "volume": 98,
+      "reporter": "Cal.App.5th",
+      "page": 486,
+      "pin": "509",
+      "raw": "Garrabrants v. Erhart (2023) 98 Cal. App.5th 486, 509",
+      "span": [
+        337,
+        390
+      ],
+      "role": "sources",
+      "case_key": "98 Cal.App.5th 486"
+    },
+    {
+      "name": "People v. Childs",
+      "year": 2013,
+      "volume": 220,
+      "reporter": "Cal.App.4th",
+      "page": 1079,
+      "pin": "1102",
+      "raw": "People v. Childs (2013) 220 Cal. App.4th 1079, 1102",
+      "span": [
+        669,
+        720
+      ],
+      "role": "sources",
+      "case_key": "220 Cal.App.4th 1079"
+    },
+    {
+      "name": "Rimini Street, Inc. v. Oracle USA, Inc.",
+      "year": 2019,
+      "volume": 586,
+      "reporter": "U.S.",
+      "page": 334,
+      "pin": "346",
+      "raw": "Rimini Street, Inc. v. Oracle USA, Inc. (2019) 586 U.S. 334, 346",
+      "span": [
+        263,
+        327
+      ],
+      "role": "sources",
+      "case_key": "586 U.S. 334"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:14+00:00"
+}

@@ -120,8 +120,35 @@ const GREETING_TEXT =
   "Hi — I'm your statute search assistant. Ask me about a contributing factor, a vehicle code section, or describe a fact pattern, and I'll surface the relevant statutes.";
 
 interface Props {
-  statutes: Statute[];
   onSelectStatute: (id: string) => void;
+  // Called when the chat reply includes statutes the model pulled via tools.
+  // The parent merges these into a lookup map so clicking a chat-card opens
+  // the StatuteDetail drawer even for statutes not currently in the sidebar.
+  onChatStatutes?: (statutes: Statute[]) => void;
+}
+
+function linkify(text: string) {
+  const URL_RE = /(https?:\/\/[^\s)\]"'>]+)/g;
+  const parts: (string | React.ReactNode)[] = [];
+  let last = 0;
+  let m: RegExpExecArray | null;
+  while ((m = URL_RE.exec(text)) !== null) {
+    if (m.index > last) parts.push(text.slice(last, m.index));
+    parts.push(
+      <a
+        key={m.index}
+        href={m[0]}
+        target="_blank"
+        rel="noreferrer"
+        className="text-blue-400 underline hover:text-blue-300"
+      >
+        {m[0]}
+      </a>,
+    );
+    last = m.index + m[0].length;
+  }
+  if (last < text.length) parts.push(text.slice(last));
+  return parts.length > 0 ? parts : text;
 }
 
 function renderText(text: string) {
@@ -136,7 +163,7 @@ function renderText(text: string) {
               {p.slice(2, -2)}
             </strong>
           ) : (
-            <span key={j}>{p}</span>
+            <span key={j}>{linkify(p)}</span>
           ),
         )}
         {i < lines.length - 1 && <br />}
@@ -145,7 +172,7 @@ function renderText(text: string) {
   });
 }
 
-export function MainChat({ statutes, onSelectStatute }: Props) {
+export function MainChat({ onSelectStatute, onChatStatutes }: Props) {
   const [messages, updateMessages] = useChatHistory();
   // Seed a one-shot greeting if this is the first visit.
   useEffect(() => {
@@ -215,6 +242,7 @@ export function MainChat({ statutes, onSelectStatute }: Props) {
     setAttachments([]);
     setBusy(true);
 
+<<<<<<< Updated upstream
     // Detect jurisdictions from the user's message ONLY — not Claude's reply.
     // A TX-focused question shouldn't drag in CA just because Claude mentioned
     // it tangentially. Pass the result through to /api/search so the database
@@ -229,14 +257,29 @@ export function MainChat({ statutes, onSelectStatute }: Props) {
         }),
         api.search(text || filenames.join(" "), 6, jurisdictions),
       ]);
+=======
+    let answer: string;
+    let pulled: Statute[] = [];
+    try {
+      const chatResult = await api.chat({
+        message: text || "Please analyze the attached file(s).",
+        history: priorHistory,
+        attached_files: attachedNow,
+      });
+      answer = chatResult.text;
+      pulled = chatResult.statutes ?? [];
+    } catch (err) {
+      answer = `_(chat backend unavailable: ${
+        err instanceof Error ? err.message : "unknown error"
+      })_`;
+    }
+>>>>>>> Stashed changes
 
-      const answer =
-        chatRes.status === "fulfilled"
-          ? chatRes.value.text
-          : `_(chat backend unavailable: ${
-              chatRes.reason instanceof Error ? chatRes.reason.message : "unknown error"
-            })_`;
+    // Cap at 4 cards per message; same limit as before, just now sourced from
+    // the model's actual tool calls instead of regex over the response text.
+    const matched = pulled.slice(0, 4);
 
+<<<<<<< Updated upstream
       // Prefer the EXACT statutes Claude cited in its reply (parsed from
       // citation patterns like "Cal. Veh. Code § 23152"). Only fall back to
       // the parallel /api/search hits when Claude didn't cite anything specific.
@@ -255,17 +298,20 @@ export function MainChat({ statutes, onSelectStatute }: Props) {
         }
         matched = fallback;
       }
+=======
+    // Lift the full set up to the page so the StatuteDetail drawer can resolve
+    // them by id when a card is clicked — even if they're not in the sidebar.
+    if (pulled.length > 0) onChatStatutes?.(pulled);
+>>>>>>> Stashed changes
 
-      updateMessages((m) =>
-        m.map((msg) =>
-          msg.id === placeholderId
-            ? { ...msg, text: answer, statutes: matched, pending: false }
-            : msg,
-        ),
-      );
-    } finally {
-      setBusy(false);
-    }
+    updateMessages((m) =>
+      m.map((msg) =>
+        msg.id === placeholderId
+          ? { ...msg, text: answer, statutes: matched, pending: false }
+          : msg,
+      ),
+    );
+    setBusy(false);
   };
 
   const onKey = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {

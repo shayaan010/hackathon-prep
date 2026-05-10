@@ -1,0 +1,124 @@
+{
+  "id": "CACI-1709",
+  "edition": "2026",
+  "number": "1709",
+  "title": "Retraction: News Publication or Broadcast",
+  "title_full": "Retraction: News Publication or Broadcast (Civ. Code,§ 48a)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "CIV",
+    "section": "48",
+    "display": "Civil Code section 48",
+    "raw": "Civ. Code,§ 48",
+    "span": [
+      0,
+      14
+    ]
+  },
+  "series": "1700",
+  "series_title": "Series 1700 Defamation",
+  "page_start": 1140,
+  "page_end": 1140,
+  "instruction_text": "1709. Retraction: News Publication or Broadcast (Civ. Code,\n§48a)\nBecause [ name of defendant ] is a [[daily/weekly] news\npublication/broadcaster], [ name of plaintiff ] may recover only the\nfollowing:\n(a) Damages to property, business, trade, profession, or occupation;\nand\n(b) Damages for money spent as a result of the defamation.\nHowever, this limitation does not apply if [ name of plaintiff ] proves both\nof the following:\n1. That [ name of plaintiff ] demanded a correction of the statement\nwithin 20 days of discovering the statement; and\n2. That [ name of defendant ] did not publish an adequate correction;\n2. [or]\n2. That [ name of defendant ]'s correction was not substantially as\nconspicuous as the original [publication/broadcast];\n2. [or]\n2. That [ name of defendant ]'s correction was not\n[published/broadcast] within three weeks of [ name of plaintiff ]'s\ndemand.\n\n1722 November 2017",
+  "directions_for_use": "The judge should decide whether the demand for a retraction was served in\ncompliance with the statute. ( O'Hara v. Storer Communications, Inc. (1991) 231\nCal. App.3d 1101, 1110 [282 Cal. Rptr. 712].)\nThe statute is limited to actions \"for damages for the publication of a libel in a daily\nor weekly news publication, or of a slander by radio broadcast.\" (Civ. Code,\n§48a(a).) However, a \"radio broadcast\" includes television. (Civ. Code, §48.5(4)\n[the terms \"radio,\" \"radio broadcast,\" and \"broadcast,\" are deﬁned to include both\nvisual and sound radio broadcasting]; Kalpoe v. Superior Court (2013) 222\nCal. App.4th 206, 210, 166 Cal. Rptr.3d 80].)",
+  "sources_and_authority": [
+    {
+      "raw": "Demand for Correction. Civil Code section 48a.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "48",
+          "display": "Civil Code section 48",
+          "raw": "Civil Code section 48",
+          "span": [
+            23,
+            44
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Under California law, a newspaper gains immunity from liability for all but\n1066",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "48",
+      "display": "Civil Code section 48",
+      "raw": "Civ. Code,§ 48",
+      "span": [
+        0,
+        14
+      ],
+      "role": "title",
+      "statute_key": "CA/CIV/48"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "48.5",
+      "display": "Civil Code section 48.5",
+      "raw": "Civ. Code, §48.5(4)",
+      "span": [
+        427,
+        446
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/48.5"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "48.5",
+      "display": "Civil Code section 48.5(4)",
+      "raw": "Civ. Code, §48.5(4)",
+      "span": [
+        427,
+        446
+      ],
+      "subsection": "4",
+      "role": "directions",
+      "statute_key": "CA/CIV/48.5/4"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "O'Hara v. Storer Communications, Inc.",
+      "year": 1991,
+      "volume": 231,
+      "reporter": "Cal.App.3d",
+      "page": 1101,
+      "pin": "1110",
+      "raw": "O'Hara v. Storer Communications, Inc. (1991) 231 Cal. App.3d 1101, 1110",
+      "span": [
+        105,
+        176
+      ],
+      "role": "directions",
+      "case_key": "231 Cal.App.3d 1101"
+    },
+    {
+      "name": "Kalpoe v. Superior Court",
+      "year": 2013,
+      "volume": 222,
+      "reporter": "Cal.App.4th",
+      "page": 206,
+      "pin": "210",
+      "raw": "Kalpoe v. Superior Court (2013) 222 Cal. App.4th 206, 210",
+      "span": [
+        568,
+        625
+      ],
+      "role": "directions",
+      "case_key": "222 Cal.App.4th 206"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:13+00:00"
+}

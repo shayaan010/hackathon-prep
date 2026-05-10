@@ -1,0 +1,328 @@
+{
+  "id": "CACI-1103",
+  "edition": "2026",
+  "number": "1103",
+  "title": "Notice",
+  "title_full": "Notice (Gov. Code, § 835.2)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "GOV",
+    "section": "835.2",
+    "display": "Government Code section 835.2",
+    "raw": "Gov. Code, § 835.2",
+    "span": [
+      0,
+      18
+    ]
+  },
+  "series": "1100",
+  "series_title": "Series 1100 Dangerous Condition of Public Property",
+  "page_start": 772,
+  "page_end": 773,
+  "instruction_text": "1103. Notice (Gov. Code, §835.2)\n[Name of plaintiff ] must prove that [ name of defendant ] had notice of the\ndangerous condition before the incident occurred. To prove that there\nwas notice, [ name of plaintiff ] must prove:\n[That [ name of defendant ] knew of the condition and knew or should\nhave known that it was dangerous. A public entity knows of a dangerous\ncondition if an employee knows of the condition and reasonably should\nhave informed the entity about it.]\n[or]\n[That the condition had existed for enough time before the incident and\nwas so obvious that the [ name of defendant ] reasonably should have\ndiscovered the condition and known that it was dangerous.]",
+  "directions_for_use": "This instruction is intended to be used where the plaintiff relies on Government\nCode section 835(b). This instruction should be modiﬁed if the plaintiff is relying on\nboth section 835(a) and section 835(b) to clarify that proof of notice is not\nnecessary under section 835(a).\nFor an instruction regarding reasonable inspection systems, see CACI No. 1104,\nInspection System .",
+  "sources_and_authority": [
+    {
+      "raw": "Actual Notice. Government Code section 835.2(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "835.2",
+          "display": "Government Code section 835.2",
+          "raw": "Government Code section 835.2(a)",
+          "span": [
+            15,
+            47
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "835.2",
+          "display": "Government Code section 835.2(a)",
+          "raw": "Government Code section 835.2(a)",
+          "span": [
+            15,
+            47
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Constructive Notice. Government Code section 835.2(b).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "835.2",
+          "display": "Government Code section 835.2",
+          "raw": "Government Code section 835.2(b)",
+          "span": [
+            21,
+            53
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "835.2",
+          "display": "Government Code section 835.2(b)",
+          "raw": "Government Code section 835.2(b)",
+          "span": [
+            21,
+            53
+          ],
+          "subsection": "b"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[Defendant] asserts that '[t]he absence of any prior accidents or injuries on the\ngravel shoulder is evidence of lack of notice.' Assuming this to be true, at most\nit establishes grounds for a ﬁnding in [defendant]'s favor, which is hardly\nenough to sustain a summary judgment. Nor is plaintiff required to prove that\n[defendant] knew for a fact that accidents of this kind would occur. The test for\nactual notice was satisﬁed if [defendant] had 'actual knowledge of the existence\nof the condition and knew or should have known of its dangerous character.' \"\n(Cole v. Town of Los Gatos (2012) 205 Cal. App.4th 749, 779–780 [140\nCal. Rptr.3d 722].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cole v. Town of Los Gatos",
+          "year": 2012,
+          "volume": 205,
+          "reporter": "Cal.App.4th",
+          "page": 749,
+          "pin": "779–780",
+          "raw": "Cole v. Town of Los Gatos (2012) 205 Cal. App.4th 749, 779–780",
+          "span": [
+            561,
+            623
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"To establish 'actual notice,' it is not enough to show that the state employees\nhad a general knowledge that people do leave hot coals on public beaches. There\nmust be some evidence that the employees had knowledge of the particular\ndangerous condition in question.\" ( State v. Superior Court of San Mateo County\n(1968) 263 Cal. App.2d 396, 399 [69 Cal. Rptr. 683], internal citations omitted.)\n698",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "State v. Superior Court of San Mateo County",
+          "year": 1968,
+          "volume": 263,
+          "reporter": "Cal.App.2d",
+          "page": 396,
+          "pin": "399",
+          "raw": "State v. Superior Court of San Mateo County (1968) 263 Cal. App.2d 396, 399",
+          "span": [
+            270,
+            345
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Whether the dangerous condition was obvious and whether it existed for a\nsufficient period of time are threshold elements to establish a claim of\nconstructive notice. Where the plaintiff fails to present direct or circumstantial\nevidence as to either element, his claim is deﬁcient as a matter of law.\" ( Heskel\nv. City of San Diego (2014) 227 Cal. App.4th 313, 317 [173 Cal. Rptr.3d 768],\ninternal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Heskel v. City of San Diego",
+          "year": 2014,
+          "volume": 227,
+          "reporter": "Cal.App.4th",
+          "page": 313,
+          "pin": "317",
+          "raw": "Heskel v. City of San Diego (2014) 227 Cal. App.4th 313, 317",
+          "span": [
+            306,
+            366
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'It is well settled that constructive notice can be shown by the long continued\nexistence of the dangerous or defective condition, and it is a question of fact for\nthe jury to determine whether the condition complained of has existed for a\nsufficient time to give the public agency constructive notice.' \" ( Erfurt v. State of\nCalifornia (1983) 141 Cal. App.3d 837, 844–845 [190 Cal. Rptr 569], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Erfurt v. State of California",
+          "year": 1983,
+          "volume": 141,
+          "reporter": "Cal.App.3d",
+          "page": 837,
+          "pin": "844–845",
+          "raw": "Erfurt v. State of California (1983) 141 Cal. App.3d 837, 844–845",
+          "span": [
+            310,
+            375
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Admissible evidence for establishing constructive notice is deﬁned by\n[Government Code section 835.2(b)] as including whether a reasonably adequate\ninspection system would have informed the public entity, and whether it\nmaintained and operated such an inspection system with due care.\" ( Heskel,\nsupra, 227 Cal. App.4th at p. 317.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "835.2",
+          "display": "Government Code section 835.2",
+          "raw": "Government Code section 835.2(b)",
+          "span": [
+            72,
+            104
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "835.2",
+          "display": "Government Code section 835.2(b)",
+          "raw": "Government Code section 835.2(b)",
+          "span": [
+            72,
+            104
+          ],
+          "subsection": "b"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"In the instant case, it can be validly argued that there was a triable issue on the\nquestion of inspection, but in determining whether there is constructive notice,\nthe method of inspection has been held to be secondary.\" ( Superior Court of San\nMateo County , supra, 263 Cal. App.2d at p. 400, internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §323\n2 California Government Tort Liability Practice (Cont.Ed.Bar 4th ed.)\n§§12.45–12.51\n5 Levy et al., California Torts, Ch. 61, Particular Liabilities and Immunities of\nPublic Entities and Public Employees , §61.01[4][b] (Matthew Bender)\n40 California Forms of Pleading and Practice, Ch. 464, Public Entities and Offıcers:\nCalifornia Government Claims Act , §464.81 (Matthew Bender)\n19A California Points and Authorities, Ch. 196, Public Entities , §196.11 (Matthew\nBender)\nDANGEROUS CONDITION OF PUBLIC PROPERTY CACI No. 1103\n699",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "835.2",
+      "display": "Government Code section 835.2",
+      "raw": "Gov. Code, § 835.2",
+      "span": [
+        0,
+        18
+      ],
+      "role": "title",
+      "statute_key": "CA/GOV/835.2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "835.2",
+      "display": "Government Code section 835.2(a)",
+      "raw": "Government Code section 835.2(a)",
+      "span": [
+        15,
+        47
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/GOV/835.2/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "835.2",
+      "display": "Government Code section 835.2(b)",
+      "raw": "Government Code section 835.2(b)",
+      "span": [
+        21,
+        53
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/GOV/835.2/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "835",
+      "display": "Government Code section 835",
+      "raw": "Government\nCode section 835(b)",
+      "span": [
+        70,
+        100
+      ],
+      "role": "directions",
+      "statute_key": "CA/GOV/835"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "835",
+      "display": "Government Code section 835(b)",
+      "raw": "Government\nCode section 835(b)",
+      "span": [
+        70,
+        100
+      ],
+      "subsection": "b",
+      "role": "directions",
+      "statute_key": "CA/GOV/835/b"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Cole v. Town of Los Gatos",
+      "year": 2012,
+      "volume": 205,
+      "reporter": "Cal.App.4th",
+      "page": 749,
+      "pin": "779–780",
+      "raw": "Cole v. Town of Los Gatos (2012) 205 Cal. App.4th 749, 779–780",
+      "span": [
+        561,
+        623
+      ],
+      "role": "sources",
+      "case_key": "205 Cal.App.4th 749"
+    },
+    {
+      "name": "State v. Superior Court of San Mateo County",
+      "year": 1968,
+      "volume": 263,
+      "reporter": "Cal.App.2d",
+      "page": 396,
+      "pin": "399",
+      "raw": "State v. Superior Court of San Mateo County (1968) 263 Cal. App.2d 396, 399",
+      "span": [
+        270,
+        345
+      ],
+      "role": "sources",
+      "case_key": "263 Cal.App.2d 396"
+    },
+    {
+      "name": "Heskel v. City of San Diego",
+      "year": 2014,
+      "volume": 227,
+      "reporter": "Cal.App.4th",
+      "page": 313,
+      "pin": "317",
+      "raw": "Heskel v. City of San Diego (2014) 227 Cal. App.4th 313, 317",
+      "span": [
+        306,
+        366
+      ],
+      "role": "sources",
+      "case_key": "227 Cal.App.4th 313"
+    },
+    {
+      "name": "Erfurt v. State of California",
+      "year": 1983,
+      "volume": 141,
+      "reporter": "Cal.App.3d",
+      "page": 837,
+      "pin": "844–845",
+      "raw": "Erfurt v. State of California (1983) 141 Cal. App.3d 837, 844–845",
+      "span": [
+        310,
+        375
+      ],
+      "role": "sources",
+      "case_key": "141 Cal.App.3d 837"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:11+00:00"
+}

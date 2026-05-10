@@ -1,0 +1,994 @@
+{
+  "id": "CACI-1501",
+  "edition": "2026",
+  "number": "1501",
+  "title": "Wrongful Use of Civil Proceedings",
+  "title_full": "Wrongful Use of Civil Proceedings",
+  "title_statute": null,
+  "series": "1500",
+  "series_title": "Series 1500 Malicious Prosecution",
+  "page_start": 1015,
+  "page_end": 1022,
+  "instruction_text": "1501. Wrongful Use of Civil Proceedings\n[Name of plaintiff ] claims that [ name of defendant ] wrongfully brought a\nlawsuit against [him/her/ nonbinary pronoun/it]. To establish this claim,\n[name of plaintiff ] must prove all of the following:\n1. That [ name of defendant ] was actively involved in bringing [or\ncontinuing] the lawsuit;\n[2. That the lawsuit ended in [ name of plaintiff ]'s favor;]\n[3. That no reasonable person in [ name of defendant ]'s circumstances\nwould have believed that there were reasonable grounds to bring\nthe lawsuit against [ name of plaintiff ];]\n4. That [ name of defendant ] acted primarily for a purpose other than\nsucceeding on the merits of the claim;\n5. That [ name of plaintiff ] was harmed; and\n6. That [ name of defendant ]'s conduct was a substantial factor in\ncausing [ name of plaintiff ]'s harm.\n[The law requires that the trial judge, rather than the jury, decide if\n[name of plaintiff ] has proven element 2 above, whether the earlier\nlawsuit ended in [his/her/ nonbinary pronoun/its] favor. But before I can\ndo so, you must decide whether [ name of plaintiff ] has proven the\nfollowing:\n[List all factual disputes that must be resolved by the jury. ]\nThe special [verdict/interrogatory] form will ask for your ﬁnding on\n[this/these] issue[s].]\n[The law [also] requires that the trial judge, rather than the jury, decide\nif [ name of plaintiff ] has proven element 3 above, whether [ name of\ndefendant] had reasonable grounds for bringing the earlier lawsuit\nagainst [him/her/ nonbinary pronoun/it]. But before I can do so, you must\ndecide whether [ name of plaintiff ] has proven the following:\n[List all factual disputes that must be resolved by the jury. ]\nThe special [verdict/interrogatory] form will ask for your ﬁnding on\n[this/these] issue[s].]",
+  "directions_for_use": "Malicious prosecution requires that the proceeding have ended in the plaintiff's\nfavor (element 2) and that the defendant did not reasonably believe that there were\n941\nany grounds (probable cause) to initiate the proceeding (element 3). Probable cause\nis to be decided by the court as a matter of law. However, the jury may be required\nto ﬁnd some preliminary facts before the court can make its legal determination,\nincluding facts regarding what the defendant knew or did not know at the time. (See\nSheldon Appel Co. v. Albert & Oliker (1989) 47 Cal. 3d 863, 881 [254 Cal. Rptr. 336,\n765 P.2d 498].) If so, include element 3 and also the bracketed part of the\ninstruction that refers to element 3.\nFavorable termination is handled in much the same way. If a proceeding is\nterminated other than on the merits, there may be disputed facts that the jury must\nﬁnd in order to determine whether there has been a favorable termination. (See\nFuentes v. Berry (1995) 38 Cal. App.4th 1800, 1808 [45 Cal. Rptr.2d 848].) If so,\ninclude element 2 and also the bracketed part of the instruction that refers to\nelement 2. Once these facts are determined, the jury does not then make a second\ndetermination as to whether there has been a favorable termination. The matter is\ndetermined by the court based on the resolution of the disputed facts. (See Sierra\nClub Found. v. Graham (1999) 72 Cal. App.4th 1135, 1159 [85 Cal. Rptr.2d 726]\n[element of favorable termination is for court to decide].)\nEither or both of the elements of probable cause and favorable termination should\nbe omitted if there are no disputed facts regarding that element for the jury to\ndecide.\nElement 4 expresses the malice requirement.",
+  "sources_and_authority": [
+    {
+      "raw": "Public Employee Immunity. Government Code section 821.6.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "821.6",
+          "display": "Government Code section 821.6",
+          "raw": "Government Code section 821.6",
+          "span": [
+            26,
+            55
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"To establish a cause of action for the malicious prosecution of a civil\nproceeding, a plaintiff must plead and prove that the prior action (1) was\ncommenced by or at the direction of the defendant and was pursued to a legal\ntermination in his, plaintiff's, favor; (2) was brought without probable cause; and\n(3) was initiated with malice.\" ( Bertero v. National General Corp. (1974) 13\nCal. 3d 43, 50 [118 Cal. Rptr. 184, 529 P.2d 608], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bertero v. National General Corp.",
+          "year": 1974,
+          "volume": 13,
+          "reporter": "Cal.3d",
+          "page": 43,
+          "pin": "50",
+          "raw": "Bertero v. National General Corp. (1974) 13 Cal. 3d 43, 50",
+          "span": [
+            343,
+            401
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The remedy of a malicious prosecution action lies to recompense the defendant\nwho has suffered out of pocket loss in the form of attorney fees and costs, as\nwell as emotional distress and injury to reputation because of groundless\nallegations made in pleadings which are public records.\" ( Sagonowsky v. More\n(1998) 64 Cal. App.4th 122, 132 [75 Cal. Rptr.2d 118], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Sagonowsky v. More",
+          "year": 1998,
+          "volume": 64,
+          "reporter": "Cal.App.4th",
+          "page": 122,
+          "pin": "132",
+          "raw": "Sagonowsky v. More (1998) 64 Cal. App.4th 122, 132",
+          "span": [
+            291,
+            341
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The malicious commencement of a civil proceeding is actionable because it\nharms the individual against whom the claim is made, and also because it\nthreatens the efficient administration of justice. The individual is harmed because\nhe is compelled to defend against a fabricated claim which not only subjects him\nto the panoply of psychological pressures most civil defendants suffer, but also\nthe additional stress of attempting to resist a suit commenced out of spite or ill\nwill, often magniﬁed by slanderous allegations in the pleadings.\" ( Merlet v. Rizzo\n(1998) 64 Cal. App.4th 53, 59 [75 Cal. Rptr.2d 83], internal citation omitted.)\nCACI No. 1501 MALICIOUS PROSECUTION\n942",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Merlet v. Rizzo",
+          "year": 1998,
+          "volume": 64,
+          "reporter": "Cal.App.4th",
+          "page": 53,
+          "pin": "59",
+          "raw": "Merlet v. Rizzo (1998) 64 Cal. App.4th 53, 59",
+          "span": [
+            545,
+            590
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[The litigation privilege of Civil Code section 47] has been interpreted to apply\nto virtually all torts except malicious prosecution.\" ( Kimmel v. Goland (1990) 51\nCal. 3d 202, 209 [271 Cal. Rptr. 191, 793 P.2d 524].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "47",
+          "display": "Civil Code section 47",
+          "raw": "Civil Code section 47",
+          "span": [
+            30,
+            51
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Kimmel v. Goland",
+          "year": 1990,
+          "volume": 51,
+          "reporter": "Cal.3d",
+          "page": 202,
+          "pin": "209",
+          "raw": "Kimmel v. Goland (1990) 51 Cal. 3d 202, 209",
+          "span": [
+            139,
+            182
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Liability for malicious prosecution is not limited to one who initiates an action.\nA person who did not ﬁle a complaint may be liable for malicious prosecution if\nhe or she 'instigated' the suit or 'participated in it at a later time.' \" ( Nunez v.\nPennisi (2015) 241 Cal. App.4th 861, 873 [193 Cal. Rptr.3d 912].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Nunez v. Pennisi",
+          "year": 2015,
+          "volume": 241,
+          "reporter": "Cal.App.4th",
+          "page": 861,
+          "pin": "873",
+          "raw": "Nunez v. Pennisi (2015) 241 Cal. App.4th 861, 873",
+          "span": [
+            241,
+            290
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A] cause of action for malicious prosecution lies when predicated on a claim\nfor affirmative relief asserted in a cross-pleading even though intimately related\nto a cause asserted in the complaint.\" ( Bertero, supra, 13 Cal. 3d at p. 53.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A claim for malicious prosecution need not be addressed to an entire lawsuit; it\nmay . . . be based upon only some of the causes of action alleged in the\nunderlying lawsuit.\" ( Franklin Mint Co. v. Manatt, Phelps & Phillips, LLP\n(2010) 184 Cal. App.4th 313, 333 [109 Cal. Rptr.3d 143].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[F]avorable termination requires favorable resolution of the underlying action in\nits entirety, not merely a single cause of action. '[I]f the defendant in the\nunderlying action prevails on all of the plaintiff's claims, he or she may\nsuccessfully sue for malicious prosecution if any one of those claims was\nsubjectively malicious and objectively unreasonable. But if the underlying\nplaintiff succeeds on any of his or her claims, the favorable termination\nrequirement is unsatisﬁed and the malicious prosecution action cannot be\nmaintained.' \" ( Citizens of Humanity, LLC v. Ramirez (2021) 63 Cal. App.5th\n117, 128 [277 Cal. Rptr.3d 501], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Citizens of Humanity, LLC v. Ramirez",
+          "year": 2021,
+          "volume": 63,
+          "reporter": "Cal.App.5th",
+          "page": 117,
+          "pin": "128",
+          "raw": "Citizens of Humanity, LLC v. Ramirez (2021) 63 Cal. App.5th 117, 128",
+          "span": [
+            549,
+            617
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A] lawyer is not immune from liability for malicious prosecution simply\nbecause the general area of law at issue is complex and there is no case law\nwith the same facts that establishes that the underlying claim was untenable.\nLawyers are charged with the responsibility of acquiring a reasonable\nunderstanding of the law governing the claim to be alleged. That achieving such\nan understanding may be more difficult in a specialized ﬁeld is no defense to\nalleging an objectively untenable claim.\" ( Franklin Mint Co. , supra, 184\nCal. App.4th at p. 346.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Our repeated references in Bertero to the types of harm suffered by an\n'individual' who is forced to defend against a baseline suit do not indicate . . .\nthat a malicious prosecution action can be brought only by an individual. On the\ncontrary, there are valid policies which would be furthered by allowing\nnonindividuals to sue for malicious prosecution.\" ( City of Long Beach v. Bozek\n(1982) 31 Cal. 3d 527, 531 [183 Cal. Rptr. 86, 645 P.2d 137], reiterated on\nremand from United States Supreme Court at 33 Cal. 3d 727 [but holding that\npublic entity cannot sue for malicious prosecution].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "City of Long Beach v. Bozek",
+          "year": 1982,
+          "volume": 31,
+          "reporter": "Cal.3d",
+          "page": 527,
+          "pin": "531",
+          "raw": "City of Long Beach v. Bozek (1982) 31 Cal. 3d 527, 531",
+          "span": [
+            360,
+            414
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he courts have refused to permit malicious prosecution claims when they are\nbased on a prior proceeding that is (1) less formal or unlike the process in the\nsuperior court (i.e., a small claims hearing, an investigation or application not\nresulting in a formal proceeding), (2) purely defensive in nature, or (3) a\nMALICIOUS PROSECUTION CACI No. 1501\n943\ncontinuation of an existing proceeding.\" ( Merlet, supra, 64 Cal. App.4th at p. 60.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[I]t is not enough that the present plaintiff (former defendant) prevailed in the\naction. The termination must ' \"reﬂect on the merits,\" ' and be such that it\n'tended to indicate [the former defendant's] innocence of or lack of\nresponsibility for the alleged misconduct.' \" ( Drummond v. Desmarais (2009)\n176 Cal. App.4th 439, 450 [98 Cal. Rptr.3d 183], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Drummond v. Desmarais",
+          "year": 2009,
+          "volume": 176,
+          "reporter": "Cal.App.4th",
+          "page": 439,
+          "pin": "450",
+          "raw": "Drummond v. Desmarais (2009) 176 Cal. App.4th 439, 450",
+          "span": [
+            277,
+            331
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'The entry of summary judgment for the defense on an underlying claim on\ngrounds of insufficient evidence does not establish as a matter of law that the\nlitigant necessarily can \"state[] and substantiate[]\" . . . a subsequent malicious\nprosecution claim.' \" ( Cuevas-Martinez v. Sun Salt Sand, Inc . (2019) 35\nCal. App.5th 1109, 1120 [248 Cal. Rptr.3d 200].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" '[A] voluntary dismissal on technical grounds, such as lack of jurisdiction,\nlaches, the statute of limitations or prematurity, does not constitute a favorable\ntermination because it does not reﬂect on the substantive merits of the\nunderlying claim. . . .' \" ( Drummond, supra, 176 Cal. App.4th at p. 456.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[Code of Civil Procedure] Section 581c, subdivision (c) provides that where a\nmotion for judgment of nonsuit is granted, 'unless the court in its order for\njudgment otherwise speciﬁes, the judgment of nonsuit operates as an\nadjudication upon the merits.' . . . [¶] We acknowledge that not every judgment\nof nonsuit should be grounds for a subsequent malicious prosecution action.\nSome will be purely technical or procedural and will not reﬂect the merits of the\naction. In such cases, trial courts should exercise their discretion to specify that\nthe judgment of nonsuit shall not operate as an adjudication upon the merits.\"\n(Nunez, supra , 241 Cal. App.4th at p. 874.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" ' \"[T]hat a malicious prosecution suit may be maintained where only one of\nseveral claims in the prior action lacked probable cause [citation] does not alter\nthe rule there must ﬁrst be a favorable termination of the entire action.\" ' Thus,\nif the defendant in the underlying action prevails on all of the plaintiff's claims,\nhe or she may successfully sue for malicious prosecution if any one of those\nclaims was subjectively malicious and objectively unreasonable. But if the\nunderlying plaintiff succeeds on any of his or her claims, the favorable\ntermination requirement is unsatisﬁed and the malicious prosecution action\ncannot be maintained.\" ( Lane v. Bell (2018) 20 Cal. App.5th 61, 64 [228\nCal. Rptr.3d 605], original italics, internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lane v. Bell",
+          "year": 2018,
+          "volume": 20,
+          "reporter": "Cal.App.5th",
+          "page": 61,
+          "pin": "64",
+          "raw": "Lane v. Bell (2018) 20 Cal. App.5th 61, 64",
+          "span": [
+            653,
+            695
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"We hold that a malicious prosecution plaintiff, who has succeeded in all\nrespects in defending a multiple-claim case, need not show that all such claims\nwere resolved on the merits as long as at least one claim was terminated on the\nmerits.\" ( Maleti v. Wickers (2022) 82 Cal. App.5th 181, 195 [298 Cal. Rptr.3d\n284], original italics, additional emphasis omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Maleti v. Wickers",
+          "year": 2022,
+          "volume": 82,
+          "reporter": "Cal.App.5th",
+          "page": 181,
+          "pin": "195",
+          "raw": "Maleti v. Wickers (2022) 82 Cal. App.5th 181, 195",
+          "span": [
+            245,
+            294
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" ' \"A voluntary dismissal may be an implicit concession that the dismissing\nparty cannot maintain the action and may constitute a decision on the merits.\n[Citations.] 'It is not enough, however, merely to show that the proceeding was\ndismissed.' [Citation.] The reasons for the dismissal of the action must be\nCACI No. 1501 MALICIOUS PROSECUTION\n944\nexamined to determine whether the termination reﬂected on the merits.\"\n[Citations.]' Whether that dismissal is a favorable termination for purposes of a\nmalicious prosecution claim depends on whether the dismissal of the [earlier]\nLawsuit is considered to be on the merits reﬂecting [plaintiff's 'innocence' of the\nmisconduct alleged.\" ( JSJ Limited Partnership v. Mehrban (2012) 205\nCal. App.4th 1512, 1524 [141 Cal. Rptr.3d 338], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "JSJ Limited Partnership v. Mehrban",
+          "year": 2012,
+          "volume": 205,
+          "reporter": "Cal.App.4th",
+          "page": 1512,
+          "pin": "1524",
+          "raw": "JSJ Limited Partnership v. Mehrban (2012) 205 Cal. App.4th 1512, 1524",
+          "span": [
+            689,
+            758
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"If a conﬂict arises as to the circumstances explaining a failure to prosecute an\naction further, the determination of the reasons underlying the dismissal is a\nquestion of fact.\" ( Fuentes, supra, 38 Cal. App.4th at p. 1808, internal citations\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]hen a dismissal results from negotiation, settlement, or consent, a favorable\ntermination is normally not recognized. Under these latter circumstances, the\ndismissal reﬂects ambiguously on the merits of the action.\" ( Weaver v. Superior\nCourt (1979) 95 Cal. App.3d 166, 184–185 [156 Cal. Rptr. 745], internal citations\nomitted, disapproved on other grounds in Sheldon Appel Co., supra, 47 Cal. 3d at\np. 882.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Weaver v. Superior Court",
+          "year": 1979,
+          "volume": 95,
+          "reporter": "Cal.App.3d",
+          "page": 166,
+          "pin": "184–185",
+          "raw": "Weaver v. Superior Court (1979) 95 Cal. App.3d 166, 184–185",
+          "span": [
+            222,
+            281
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Not every case in which a terminating sanctions motion is granted necessarily\nresults in a 'favorable termination.' But where the record from the underlying\naction is devoid of any attempt during discovery to substantiate allegations in the\ncomplaint, and the court's dismissal is justiﬁed by the plaintiff's lack of evidence\nto submit the case to a jury at trial, a prima facie showing of facts sufficient to\nsatisfy the 'favorable termination' element of a malicious prosecution claim is\nestablished . . . .\" ( Daniels v. Robbins (2010) 182 Cal. App.4th 204, 219 [105\nCal. Rptr.3d 683].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Daniels v. Robbins",
+          "year": 2010,
+          "volume": 182,
+          "reporter": "Cal.App.4th",
+          "page": 204,
+          "pin": "219",
+          "raw": "Daniels v. Robbins (2010) 182 Cal. App.4th 204, 219",
+          "span": [
+            514,
+            565
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he existence or absence of probable cause has traditionally been viewed as a\nquestion of law to be determined by the court, rather than a question of fact for\nthe jury . . . . [¶] [It] requires a sensitive evaluation of legal principles and\nprecedents, a task generally beyond the ken of lay jurors . . . .\" ( Sheldon Appel\nCo., supra, 47 Cal. 3d at p. 875.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"When there is a dispute as to the state of the defendant's knowledge and the\nexistence of probable cause turns on resolution of that dispute, . . . the jury\nmust resolve the threshold question of the defendant's factual knowledge or\nbelief. Thus, when . . . there is evidence that the defendant may have known\nthat the factual allegations on which his action depended were untrue, the jury\nmust determine what facts the defendant knew before the trial court can\ndetermine the legal question whether such facts constituted probable cause to\ninstitute the challenged proceeding.\" ( Sheldon Appel Co., supra, 47 Cal. 3d at p.\n881, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Whereas the malice element is directly concerned with the subjective mental\nstate of the defendant in instituting the prior action, the probable cause element\ncalls on the trial court to make an objective determination of the\n'reasonableness' of the defendant's conduct, i.e., to determine whether, on the\nbasis of the facts known to the defendant, the institution of the prior action was\nMALICIOUS PROSECUTION CACI No. 1501\n945\nlegally tenable.\" ( Sheldon Appel Co., supra, 47 Cal. 3d at p. 878, original italics.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'The benchmark for legal tenability is whether any reasonable attorney would\nhave thought the claim was tenable. [Citation.]' \" ( Oviedo v. Windsor Twelve\nProperties, LLC (2012) 212 Cal. App.4th 97, 114 [151 Cal. Rptr.3d 117], internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Oviedo v. Windsor Twelve Properties, LLC",
+          "year": 2012,
+          "volume": 212,
+          "reporter": "Cal.App.4th",
+          "page": 97,
+          "pin": "114",
+          "raw": "Oviedo v. Windsor Twelve Properties, LLC (2012) 212 Cal. App.4th 97, 114",
+          "span": [
+            132,
+            204
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'The facts to be analyzed for probable cause are those known to the defendant\n[in the malicious prosecution action] at the time the underlying action was\nﬁled.' \" ( Walsh v. Bronson (1988) 200 Cal. App.3d 259, 264 [245 Cal. Rptr. 888],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Walsh v. Bronson",
+          "year": 1988,
+          "volume": 200,
+          "reporter": "Cal.App.3d",
+          "page": 259,
+          "pin": "264",
+          "raw": "Walsh v. Bronson (1988) 200 Cal. App.3d 259, 264",
+          "span": [
+            167,
+            215
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A litigant will lack probable cause for his action either if he relies upon facts\nwhich he has no reasonable cause to believe to be true, or if he seeks recovery\nupon a legal theory which is untenable under the facts known to him.\" ( Soukup\nv. Law Offıces of Herbert Haﬁf (2006) 39 Cal. 4th 260, 292 [46 Cal. Rptr.3d 638,\n139 P.3d 30].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Soukup v. Law Offıces of Herbert Haﬁf",
+          "year": 2006,
+          "volume": 39,
+          "reporter": "Cal.4th",
+          "page": 260,
+          "pin": "292",
+          "raw": "Soukup v. Law Offıces of Herbert Haﬁf (2006) 39 Cal. 4th 260, 292",
+          "span": [
+            235,
+            300
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[W]e reject their contention that unpled hidden theories of liability are sufficient\nto create probable cause.\" ( Jay v. Mahaffey (2013) 218 Cal. App.4th 1522, 1542\n[161 Cal. Rptr.3d 700].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Jay v. Mahaffey",
+          "year": 2013,
+          "volume": 218,
+          "reporter": "Cal.App.4th",
+          "page": 1522,
+          "pin": "1542",
+          "raw": "Jay v. Mahaffey (2013) 218 Cal. App.4th 1522, 1542",
+          "span": [
+            115,
+            165
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"California courts have held that victory at trial, though reversed on appeal,\nconclusively establishes probable cause.\" ( Roberts v. Sentry Life Insurance\n(1999) 76 Cal. App.4th 375, 383 [90 Cal. Rptr.2d 408], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Roberts v. Sentry Life Insurance",
+          "year": 1999,
+          "volume": 76,
+          "reporter": "Cal.App.4th",
+          "page": 375,
+          "pin": "383",
+          "raw": "Roberts v. Sentry Life Insurance (1999) 76 Cal. App.4th 375, 383",
+          "span": [
+            123,
+            187
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"California courts have long embraced the so-called interim adverse judgment\nrule, under which 'a trial court judgment or verdict in favor of the plaintiff or\nprosecutor in the underlying case, unless obtained by means of fraud or perjury,\nestablishes probable cause to bring the underlying action, even though the\njudgment or verdict is overturned on appeal or by later ruling of the trial court.'\nThis rule reﬂects a recognition that '[c]laims that have succeeded at a hearing on\nthe merits, even if that result is subsequently reversed by the trial or appellate\ncourt, are not so lacking in potential merit that a reasonable attorney or litigant\nwould necessarily have recognized their frivolousness.' That is to say, if a claim\nsucceeds at a hearing on the merits, then, unless that success has been procured\nby certain improper means, the claim cannot be 'totally and completely without\nmerit.' Although the rule arose from cases that had been resolved after trial, the\nrule has also been applied to the 'denial of defense summary judgment motions,\ndirected verdict motions, and similar efforts at pretrial termination of the\nunderlying case.' \" ( Parrish v. Latham & Watkins (2017) 3 Cal. 5th 767, 776–777\n[221 Cal. Rptr.3d 432, 400 P.3d 1], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he fraud exception requires ' \"knowing use of false and perjured\ntestimony.\" ' \" ( Antounian v. Louis Vuitton Malletier (2010) 189 Cal. App.4th\n438, 452 [117 Cal. Rptr.3d 3].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Antounian v. Louis Vuitton Malletier",
+          "year": 2010,
+          "volume": 189,
+          "reporter": "Cal.App.4th",
+          "page": 438,
+          "pin": "452",
+          "raw": "Antounian v. Louis Vuitton Malletier (2010) 189 Cal. App.4th 438, 452",
+          "span": [
+            87,
+            156
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Probable cause may be present even where a suit lacks merit. . . . Suits which\nall reasonable lawyers agree totally lack merit–that is, those which lack\nprobable cause–are the least meritorious of all meritless suits. Only this\nCACI No. 1501 MALICIOUS PROSECUTION\n946\nsubgroup of meritless suits present[s] no probable cause.\" ( Roberts, supra, 76\nCal. App.4th at p. 382.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[A]n attorney may be held liable for malicious prosecution for continuing to\nprosecute a lawsuit discovered to lack probable cause.\" ( Zamos v. Stroud (2004)\n32 Cal. 4th 958, 970 [12 Cal. Rptr.3d 54, 87 P.3d 802].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Zamos v. Stroud",
+          "year": 2004,
+          "volume": 32,
+          "reporter": "Cal.4th",
+          "page": 958,
+          "pin": "970",
+          "raw": "Zamos v. Stroud (2004) 32 Cal. 4th 958, 970",
+          "span": [
+            136,
+            179
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Although attorneys may rely on their clients' allegations at the outset of a case,\nthey may not continue to do so if the evidence developed through discovery\nindicates the allegations are unfounded or unreliable.\" ( Cuevas-Martinez, supra ,\n35 Cal. App.5th at p. 1121.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]here several claims are advanced in the underlying action, each must be\nbased on probable cause.\" ( Lanz v. Goldstone (2015) 243 Cal. App.4th 441, 459\n[197 Cal. Rptr.3d 227].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lanz v. Goldstone",
+          "year": 2015,
+          "volume": 243,
+          "reporter": "Cal.App.4th",
+          "page": 441,
+          "pin": "459",
+          "raw": "Lanz v. Goldstone (2015) 243 Cal. App.4th 441, 459",
+          "span": [
+            104,
+            154
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"As an element of the tort of malicious prosecution, malice at its core refers to\nan improper motive for bringing the prior action. As an element of liability it\nreﬂects the core function of the tort, which is to secure compensation for harm\ninﬂicted by misusing the judicial system, i.e., using it for something other than\nto enforce legitimate rights and secure remedies to which the claimant may\ntenably claim an entitlement. Thus the cases speak of malice as being present\nwhen a suit is actuated by hostility or ill will, or for some purpose other than to\nsecure relief. It is also said that a plaintiff acts with malice when he asserts a\nclaim with knowledge of its falsity, because one who seeks to establish such a\nclaim 'can only be motivated by an improper purpose.' A lack of probable cause\nwill therefore support an inference of malice.\" ( Drummond, supra, 176\nCal. App.4th at pp. 451–452, original italics, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A lack of probable cause is a factor that may be considered in determining if\nthe claim was prosecuted with malice [citation], but the lack of probable cause\nmust be supplemented by other, additional evidence.\" ( Silas v. Arden (2013) 213\nCal. App.4th 75, 90 [152 Cal. Rptr.3d 255].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Silas v. Arden",
+          "year": 2013,
+          "volume": 213,
+          "reporter": "Cal.App.4th",
+          "page": 75,
+          "pin": "90",
+          "raw": "Silas v. Arden (2013) 213 Cal. App.4th 75, 90",
+          "span": [
+            214,
+            259
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Because malice concerns the former plaintiff's actual mental state, it necessarily\npresents a question of fact.\" ( Drummond, supra, 176 Cal. App.4th at p. 452.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'Since parties rarely admit an improper motive, malice is usually proven by\ncircumstantial evidence and inferences drawn from the evidence.' '[M]alice can\nbe inferred when a party continues to prosecute an action after becoming aware\nthat the action lacks probable cause.' \" ( Cuevas-Martinez, supra , 35 Cal. App.5th\nat p. 1122, original italics.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Negligence does not equate with malice. Nor does the negligent ﬁling of a case\nnecessarily constitute the malicious prosecution of that case.\" ( Grindle v. Lorbeer\n(1987) 196 Cal. App.3d 1461, 1468 [242 Cal. Rptr. 562].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Grindle v. Lorbeer",
+          "year": 1987,
+          "volume": 196,
+          "reporter": "Cal.App.3d",
+          "page": 1461,
+          "pin": "1468",
+          "raw": "Grindle v. Lorbeer (1987) 196 Cal. App.3d 1461, 1468",
+          "span": [
+            146,
+            198
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The motive of the defendant must have been something other than that of\nbringing a perceived guilty person to justice or the satisfaction in a civil action\nof some personal or ﬁnancial purpose.\" ( Downey V enture v. LMI Insurance Co.\n(1998) 66 Cal. App.4th 478, 494 [78 Cal. Rptr.2d 142], internal citations omitted.)\nMALICIOUS PROSECUTION CACI No. 1501\n947",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Malice does not require that the defendants harbor actual ill will toward the\nplaintiff in the malicious prosecution case, and liability attaches to attitudes that\nrange ' \"from open hostility to indifference. [Citations.]\" ' \" ( Cole v. Patricia A.\nMeyer & Associates, APC (2012) 206 Cal. App.4th 1095, 1113–1114 [142\nCal. Rptr.3d 646], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" ' \"Suits with the hallmark of an improper purpose\" include, but are not\nnecessarily limited to, \"those in which: ' \". . . (1) the person initiating them\ndoes not believe that his claim may be held valid; (2) the proceedings are begun\nprimarily because of hostility or ill will; (3) the proceedings are initiated solely\nfor the purpose of depriving the person against whom they are initiated of a\nbeneﬁcial use of his property; (4) the proceedings are initiated for the purpose of\nforcing a settlement which has no relation to the merits of the claim.\" ' \"\n[Citation.] [¶] Evidence tending to show that the defendants did not subjectively\nbelieve that the action was tenable is relevant to whether an action was instituted\nor maintained with malice. [Citation.]' \" ( Oviedo, supra, 212 Cal. App.4th at pp.\n113–114.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Although Zamos [supra] did not explicitly address the malice element of a\nmalicious prosecution case, its holding and reasoning compel us to conclude that\nmalice formed after the ﬁling of a complaint is actionable.\" ( Daniels, supra , 182\nCal. App.4th at p. 226.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§554, 557, 562–569,\n571–606\nAhart, California Practice Guide: Enforcing Judgments & Debts, Ch. 2-C, Liability\nFor Unfair Collection Practices–Tort Liability , ¶ 2:428 (The Rutter Group)\n4 Levy et al., California Torts, Ch. 43, Malicious Prosecution and Abuse of Process,\n§§43.01–43.10 (Matthew Bender)\n31 California Forms of Pleading and Practice, Ch. 357, Malicious Prosecution and\nAbuse of Process , §357.10 et seq. (Matthew Bender)\n14 California Points and Authorities, Ch. 147, Malicious Prosecution and Abuse of\nProcess, §147.20 et seq. (Matthew Bender)\nCACI No. 1501 MALICIOUS PROSECUTION\n948",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "821.6",
+      "display": "Government Code section 821.6",
+      "raw": "Government Code section 821.6",
+      "span": [
+        26,
+        55
+      ],
+      "role": "sources",
+      "statute_key": "CA/GOV/821.6"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "47",
+      "display": "Civil Code section 47",
+      "raw": "Civil Code section 47",
+      "span": [
+        30,
+        51
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/47"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Bertero v. National General Corp.",
+      "year": 1974,
+      "volume": 13,
+      "reporter": "Cal.3d",
+      "page": 43,
+      "pin": "50",
+      "raw": "Bertero v. National General Corp. (1974) 13 Cal. 3d 43, 50",
+      "span": [
+        343,
+        401
+      ],
+      "role": "sources",
+      "case_key": "13 Cal.3d 43"
+    },
+    {
+      "name": "Sagonowsky v. More",
+      "year": 1998,
+      "volume": 64,
+      "reporter": "Cal.App.4th",
+      "page": 122,
+      "pin": "132",
+      "raw": "Sagonowsky v. More (1998) 64 Cal. App.4th 122, 132",
+      "span": [
+        291,
+        341
+      ],
+      "role": "sources",
+      "case_key": "64 Cal.App.4th 122"
+    },
+    {
+      "name": "Merlet v. Rizzo",
+      "year": 1998,
+      "volume": 64,
+      "reporter": "Cal.App.4th",
+      "page": 53,
+      "pin": "59",
+      "raw": "Merlet v. Rizzo (1998) 64 Cal. App.4th 53, 59",
+      "span": [
+        545,
+        590
+      ],
+      "role": "sources",
+      "case_key": "64 Cal.App.4th 53"
+    },
+    {
+      "name": "Kimmel v. Goland",
+      "year": 1990,
+      "volume": 51,
+      "reporter": "Cal.3d",
+      "page": 202,
+      "pin": "209",
+      "raw": "Kimmel v. Goland (1990) 51 Cal. 3d 202, 209",
+      "span": [
+        139,
+        182
+      ],
+      "role": "sources",
+      "case_key": "51 Cal.3d 202"
+    },
+    {
+      "name": "Nunez v. Pennisi",
+      "year": 2015,
+      "volume": 241,
+      "reporter": "Cal.App.4th",
+      "page": 861,
+      "pin": "873",
+      "raw": "Nunez v. Pennisi (2015) 241 Cal. App.4th 861, 873",
+      "span": [
+        241,
+        290
+      ],
+      "role": "sources",
+      "case_key": "241 Cal.App.4th 861"
+    },
+    {
+      "name": "Citizens of Humanity, LLC v. Ramirez",
+      "year": 2021,
+      "volume": 63,
+      "reporter": "Cal.App.5th",
+      "page": 117,
+      "pin": "128",
+      "raw": "Citizens of Humanity, LLC v. Ramirez (2021) 63 Cal. App.5th 117, 128",
+      "span": [
+        549,
+        617
+      ],
+      "role": "sources",
+      "case_key": "63 Cal.App.5th 117"
+    },
+    {
+      "name": "City of Long Beach v. Bozek",
+      "year": 1982,
+      "volume": 31,
+      "reporter": "Cal.3d",
+      "page": 527,
+      "pin": "531",
+      "raw": "City of Long Beach v. Bozek (1982) 31 Cal. 3d 527, 531",
+      "span": [
+        360,
+        414
+      ],
+      "role": "sources",
+      "case_key": "31 Cal.3d 527"
+    },
+    {
+      "name": "Drummond v. Desmarais",
+      "year": 2009,
+      "volume": 176,
+      "reporter": "Cal.App.4th",
+      "page": 439,
+      "pin": "450",
+      "raw": "Drummond v. Desmarais (2009) 176 Cal. App.4th 439, 450",
+      "span": [
+        277,
+        331
+      ],
+      "role": "sources",
+      "case_key": "176 Cal.App.4th 439"
+    },
+    {
+      "name": "Lane v. Bell",
+      "year": 2018,
+      "volume": 20,
+      "reporter": "Cal.App.5th",
+      "page": 61,
+      "pin": "64",
+      "raw": "Lane v. Bell (2018) 20 Cal. App.5th 61, 64",
+      "span": [
+        653,
+        695
+      ],
+      "role": "sources",
+      "case_key": "20 Cal.App.5th 61"
+    },
+    {
+      "name": "Maleti v. Wickers",
+      "year": 2022,
+      "volume": 82,
+      "reporter": "Cal.App.5th",
+      "page": 181,
+      "pin": "195",
+      "raw": "Maleti v. Wickers (2022) 82 Cal. App.5th 181, 195",
+      "span": [
+        245,
+        294
+      ],
+      "role": "sources",
+      "case_key": "82 Cal.App.5th 181"
+    },
+    {
+      "name": "JSJ Limited Partnership v. Mehrban",
+      "year": 2012,
+      "volume": 205,
+      "reporter": "Cal.App.4th",
+      "page": 1512,
+      "pin": "1524",
+      "raw": "JSJ Limited Partnership v. Mehrban (2012) 205 Cal. App.4th 1512, 1524",
+      "span": [
+        689,
+        758
+      ],
+      "role": "sources",
+      "case_key": "205 Cal.App.4th 1512"
+    },
+    {
+      "name": "Weaver v. Superior Court",
+      "year": 1979,
+      "volume": 95,
+      "reporter": "Cal.App.3d",
+      "page": 166,
+      "pin": "184–185",
+      "raw": "Weaver v. Superior Court (1979) 95 Cal. App.3d 166, 184–185",
+      "span": [
+        222,
+        281
+      ],
+      "role": "sources",
+      "case_key": "95 Cal.App.3d 166"
+    },
+    {
+      "name": "Daniels v. Robbins",
+      "year": 2010,
+      "volume": 182,
+      "reporter": "Cal.App.4th",
+      "page": 204,
+      "pin": "219",
+      "raw": "Daniels v. Robbins (2010) 182 Cal. App.4th 204, 219",
+      "span": [
+        514,
+        565
+      ],
+      "role": "sources",
+      "case_key": "182 Cal.App.4th 204"
+    },
+    {
+      "name": "Oviedo v. Windsor Twelve Properties, LLC",
+      "year": 2012,
+      "volume": 212,
+      "reporter": "Cal.App.4th",
+      "page": 97,
+      "pin": "114",
+      "raw": "Oviedo v. Windsor Twelve Properties, LLC (2012) 212 Cal. App.4th 97, 114",
+      "span": [
+        132,
+        204
+      ],
+      "role": "sources",
+      "case_key": "212 Cal.App.4th 97"
+    },
+    {
+      "name": "Walsh v. Bronson",
+      "year": 1988,
+      "volume": 200,
+      "reporter": "Cal.App.3d",
+      "page": 259,
+      "pin": "264",
+      "raw": "Walsh v. Bronson (1988) 200 Cal. App.3d 259, 264",
+      "span": [
+        167,
+        215
+      ],
+      "role": "sources",
+      "case_key": "200 Cal.App.3d 259"
+    },
+    {
+      "name": "Soukup v. Law Offıces of Herbert Haﬁf",
+      "year": 2006,
+      "volume": 39,
+      "reporter": "Cal.4th",
+      "page": 260,
+      "pin": "292",
+      "raw": "Soukup v. Law Offıces of Herbert Haﬁf (2006) 39 Cal. 4th 260, 292",
+      "span": [
+        235,
+        300
+      ],
+      "role": "sources",
+      "case_key": "39 Cal.4th 260"
+    },
+    {
+      "name": "Jay v. Mahaffey",
+      "year": 2013,
+      "volume": 218,
+      "reporter": "Cal.App.4th",
+      "page": 1522,
+      "pin": "1542",
+      "raw": "Jay v. Mahaffey (2013) 218 Cal. App.4th 1522, 1542",
+      "span": [
+        115,
+        165
+      ],
+      "role": "sources",
+      "case_key": "218 Cal.App.4th 1522"
+    },
+    {
+      "name": "Roberts v. Sentry Life Insurance",
+      "year": 1999,
+      "volume": 76,
+      "reporter": "Cal.App.4th",
+      "page": 375,
+      "pin": "383",
+      "raw": "Roberts v. Sentry Life Insurance (1999) 76 Cal. App.4th 375, 383",
+      "span": [
+        123,
+        187
+      ],
+      "role": "sources",
+      "case_key": "76 Cal.App.4th 375"
+    },
+    {
+      "name": "Antounian v. Louis Vuitton Malletier",
+      "year": 2010,
+      "volume": 189,
+      "reporter": "Cal.App.4th",
+      "page": 438,
+      "pin": "452",
+      "raw": "Antounian v. Louis Vuitton Malletier (2010) 189 Cal. App.4th 438, 452",
+      "span": [
+        87,
+        156
+      ],
+      "role": "sources",
+      "case_key": "189 Cal.App.4th 438"
+    },
+    {
+      "name": "Zamos v. Stroud",
+      "year": 2004,
+      "volume": 32,
+      "reporter": "Cal.4th",
+      "page": 958,
+      "pin": "970",
+      "raw": "Zamos v. Stroud (2004) 32 Cal. 4th 958, 970",
+      "span": [
+        136,
+        179
+      ],
+      "role": "sources",
+      "case_key": "32 Cal.4th 958"
+    },
+    {
+      "name": "Lanz v. Goldstone",
+      "year": 2015,
+      "volume": 243,
+      "reporter": "Cal.App.4th",
+      "page": 441,
+      "pin": "459",
+      "raw": "Lanz v. Goldstone (2015) 243 Cal. App.4th 441, 459",
+      "span": [
+        104,
+        154
+      ],
+      "role": "sources",
+      "case_key": "243 Cal.App.4th 441"
+    },
+    {
+      "name": "Silas v. Arden",
+      "year": 2013,
+      "volume": 213,
+      "reporter": "Cal.App.4th",
+      "page": 75,
+      "pin": "90",
+      "raw": "Silas v. Arden (2013) 213 Cal. App.4th 75, 90",
+      "span": [
+        214,
+        259
+      ],
+      "role": "sources",
+      "case_key": "213 Cal.App.4th 75"
+    },
+    {
+      "name": "Grindle v. Lorbeer",
+      "year": 1987,
+      "volume": 196,
+      "reporter": "Cal.App.3d",
+      "page": 1461,
+      "pin": "1468",
+      "raw": "Grindle v. Lorbeer (1987) 196 Cal. App.3d 1461, 1468",
+      "span": [
+        146,
+        198
+      ],
+      "role": "sources",
+      "case_key": "196 Cal.App.3d 1461"
+    },
+    {
+      "name": "See Fuentes v. Berry",
+      "year": 1995,
+      "volume": 38,
+      "reporter": "Cal.App.4th",
+      "page": 1800,
+      "pin": "1808",
+      "raw": "See Fuentes v. Berry (1995) 38 Cal. App.4th 1800, 1808",
+      "span": [
+        934,
+        988
+      ],
+      "role": "directions",
+      "case_key": "38 Cal.App.4th 1800"
+    },
+    {
+      "name": "See Sierra Club Found. v. Graham",
+      "year": 1999,
+      "volume": 72,
+      "reporter": "Cal.App.4th",
+      "page": 1135,
+      "pin": "1159",
+      "raw": "See Sierra Club Found. v. Graham (1999) 72 Cal. App.4th 1135, 1159",
+      "span": [
+        1335,
+        1401
+      ],
+      "role": "directions",
+      "case_key": "72 Cal.App.4th 1135"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

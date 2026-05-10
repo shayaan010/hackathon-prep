@@ -1,0 +1,253 @@
+{
+  "id": "CACI-1902",
+  "edition": "2026",
+  "number": "1902",
+  "title": "False Promise",
+  "title_full": "False Promise",
+  "title_statute": null,
+  "series": "1900",
+  "series_title": "Series 1900 Fraud Or Deceit",
+  "page_start": 1267,
+  "page_end": 1268,
+  "instruction_text": "1902. False Promise\n[Name of plaintiff ] claims [he/she/ nonbinary pronoun] was harmed because\n[name of defendant ] made a false promise. To establish this claim, [ name\nof plaintiff ] must prove all of the following:\n1. That [ name of defendant ] made a promise to [ name of plaintiff ];\n2. That [ name of defendant ] did not intend to perform this promise\nwhen [he/she/ nonbinary pronoun ] made it;\n3. That [ name of defendant ] intended that [ name of plaintiff ] rely on\nthis promise;\n4. That [ name of plaintiff ] reasonably relied on [ name of defendant ]'s\npromise;\n5. That [ name of defendant ] did not perform the promised act;\n6. That [ name of plaintiff ] was harmed; and\n7. That [ name of plaintiff ]'s reliance on [ name of defendant ]'s promise\nwas a substantial factor in causing [his/her/ nonbinary pronoun /its]\nharm.",
+  "directions_for_use": "Give this instruction in a case in which it is alleged that the defendant made a\npromise without any intention of performing it. (See Civ. Code, §1710(4).) If\nelement 4 is contested, give CACI No. 1907, Reliance, and CACI No. 1908,\nReasonable Reliance .",
+  "sources_and_authority": [
+    {
+      "raw": "Deceit. Civil Code section 1710.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1710",
+          "display": "Civil Code section 1710",
+          "raw": "Civil Code section 1710",
+          "span": [
+            8,
+            31
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\" ' \"Promissory fraud\" is a subspecies of fraud and deceit. A promise to do\nsomething necessarily implies the intention to perform; hence, where a promise\nis made without such intention, there is an implied misrepresentation of fact that\nmay be actionable fraud.' \" ( Engalla v. Permanente Medical Group, Inc. (1997)\n15 Cal. 4th 951, 973–974 [64 Cal. Rptr.2d 843, 938 P.2d 903], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Engalla v. Permanente Medical Group, Inc.",
+          "year": 1997,
+          "volume": 15,
+          "reporter": "Cal.4th",
+          "page": 951,
+          "pin": "973–974",
+          "raw": "Engalla v. Permanente Medical Group, Inc. (1997) 15 Cal. 4th 951, 973–974",
+          "span": [
+            268,
+            341
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Under Civil Code section 1709, one is liable for fraudulent deceit if he\n'deceives another with intent to induce him to alter his position to his injury or\nrisk . . . .' Section 1710 of the Civil Code deﬁnes deceit for the purposes of\nCivil Code section 1709 as, inter alia, '[a] promise, made without any intention\nof performing it.' ' \"The elements of fraud, which give rise to the tort action for\ndeceit, are (a) misrepresentation (false representation, concealment, or\n1193\nnondisclosure); (b) knowledge of falsity (or 'scienter'); (c) intent to defraud, i.e.,\nto induce reliance; (d) justiﬁable reliance; and (e) resulting damage.\"\n[Citations.]' Each element must be alleged with particularity.\" ( Beckwith v. Dahl\n(2012) 205 Cal. App.4th 1039, 1059–1060 [141 Cal. Rptr.3d 142], internal\ncitations omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1709",
+          "display": "Civil Code section 1709",
+          "raw": "Civil Code section 1709",
+          "span": [
+            7,
+            30
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1709",
+          "display": "Civil Code section 1709",
+          "raw": "Civil Code section 1709",
+          "span": [
+            236,
+            259
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Beckwith v. Dahl",
+          "year": 2012,
+          "volume": 205,
+          "reporter": "Cal.App.4th",
+          "page": 1039,
+          "pin": "1059–1060",
+          "raw": "Beckwith v. Dahl (2012) 205 Cal. App.4th 1039, 1059–1060",
+          "span": [
+            704,
+            760
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A promise of future conduct is actionable as fraud only if made without a\npresent intent to perform. 'A declaration of intention, although in the nature of a\npromise, made in good faith, without intention to deceive, and in the honest\nexpectation that it will be fulﬁlled, even though it is not carried out, does not\nconstitute a fraud.' Moreover, ' \"something more than nonperformance is\nrequired to prove the defendant's intent not to perform his promise.\" . . . [I]f\nplaintiff adduces no further evidence of fraudulent intent than proof of\nnonperformance of an oral promise, he will never reach a jury.' \" ( Magpali v.\nFarmers Group, Inc. (1996) 48 Cal. App.4th 471, 481 [55 Cal. Rptr.2d 225],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Magpali v. Farmers Group, Inc.",
+          "year": 1996,
+          "volume": 48,
+          "reporter": "Cal.App.4th",
+          "page": 471,
+          "pin": "481",
+          "raw": "Magpali v. Farmers Group, Inc. (1996) 48 Cal. App.4th 471, 481",
+          "span": [
+            612,
+            674
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]n a promissory fraud action, to sufficiently allege[] defendant made a\nmisrepresentation, the complaint must allege (1) the defendant made a\nrepresentation of intent to perform some future action, i.e., the defendant made a\npromise, and (2) the defendant did not really have that intent at the time that the\npromise was made, i.e., the promise was false.\" ( Beckwith, supra , 205\nCal. App.4th at p. 1060.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[F]raudulent intent is an issue for the trier of fact to decide.\" ( Beckwith, supra ,\n205 Cal. App.4th at p. 1061.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]here are two causation elements in a fraud cause of action. First, the\nplaintiff's actual and justiﬁable reliance on the defendant's misrepresentation\nmust have caused him to take a detrimental course of action. Second, the\ndetrimental action taken by the plaintiff must have caused his alleged damage.\"\n(Beckwith, supra , 205 Cal. App.4th at p. 1062.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"An action for promissory fraud may lie where a defendant fraudulently induces\nthe plaintiff to enter into a [written] contract. [Citations.] In such cases, the\nplaintiff's claim does not depend upon whether the defendant's promise is\nultimately enforceable as a contract.\" ( Austin v. Medicis (2018) 21 Cal. App.5th\n577, 588 [230 Cal. Rptr.3d 528].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Austin v. Medicis",
+          "year": 2018,
+          "volume": 21,
+          "reporter": "Cal.App.5th",
+          "page": 577,
+          "pin": "588",
+          "raw": "Austin v. Medicis (2018) 21 Cal. App.5th 577, 588",
+          "span": [
+            276,
+            325
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§899–904\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.03[1][a] (Matthew Bender)\n23 California Forms of Pleading and Practice, Ch. 269, Fraud and Deceit , §269.12\n(Matthew Bender)\n10 California Points and Authorities, Ch. 105, Fraud and Deceit , §105.30 et seq.\n(Matthew Bender)\nCalifornia Civil Practice: Torts §22:20 (Thomson Reuters)\nCACI No. 1902 FRAUD OR DECEIT\n1194",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1710",
+      "display": "Civil Code section 1710",
+      "raw": "Civil Code section 1710",
+      "span": [
+        8,
+        31
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1710"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1709",
+      "display": "Civil Code section 1709",
+      "raw": "Civil Code section 1709",
+      "span": [
+        7,
+        30
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1709"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1710",
+      "display": "Civil Code section 1710(4)",
+      "raw": "Civ. Code, §1710(4)",
+      "span": [
+        134,
+        153
+      ],
+      "subsection": "4",
+      "role": "directions",
+      "statute_key": "CA/CIV/1710/4"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Engalla v. Permanente Medical Group, Inc.",
+      "year": 1997,
+      "volume": 15,
+      "reporter": "Cal.4th",
+      "page": 951,
+      "pin": "973–974",
+      "raw": "Engalla v. Permanente Medical Group, Inc. (1997) 15 Cal. 4th 951, 973–974",
+      "span": [
+        268,
+        341
+      ],
+      "role": "sources",
+      "case_key": "15 Cal.4th 951"
+    },
+    {
+      "name": "Beckwith v. Dahl",
+      "year": 2012,
+      "volume": 205,
+      "reporter": "Cal.App.4th",
+      "page": 1039,
+      "pin": "1059–1060",
+      "raw": "Beckwith v. Dahl (2012) 205 Cal. App.4th 1039, 1059–1060",
+      "span": [
+        704,
+        760
+      ],
+      "role": "sources",
+      "case_key": "205 Cal.App.4th 1039"
+    },
+    {
+      "name": "Magpali v. Farmers Group, Inc.",
+      "year": 1996,
+      "volume": 48,
+      "reporter": "Cal.App.4th",
+      "page": 471,
+      "pin": "481",
+      "raw": "Magpali v. Farmers Group, Inc. (1996) 48 Cal. App.4th 471, 481",
+      "span": [
+        612,
+        674
+      ],
+      "role": "sources",
+      "case_key": "48 Cal.App.4th 471"
+    },
+    {
+      "name": "Austin v. Medicis",
+      "year": 2018,
+      "volume": 21,
+      "reporter": "Cal.App.5th",
+      "page": 577,
+      "pin": "588",
+      "raw": "Austin v. Medicis (2018) 21 Cal. App.5th 577, 588",
+      "span": [
+        276,
+        325
+      ],
+      "role": "sources",
+      "case_key": "21 Cal.App.5th 577"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:14+00:00"
+}

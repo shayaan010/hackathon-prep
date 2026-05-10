@@ -1,0 +1,683 @@
+{
+  "id": "CACI-2704",
+  "edition": "2026",
+  "number": "2704",
+  "title": "Waiting-Time Penalty for Nonpayment of Wages",
+  "title_full": "Waiting-Time Penalty for Nonpayment of Wages (Lab. Code,§§ 203, 218)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "LAB",
+    "section": "203",
+    "display": "Labor Code section 203",
+    "raw": "Lab. Code,§§ 203, 218",
+    "span": [
+      0,
+      21
+    ]
+  },
+  "series": "2700",
+  "series_title": "Series 2700 Labor Code Actions",
+  "page_start": 1925,
+  "page_end": 1929,
+  "instruction_text": "2704. Waiting-Time Penalty for Nonpayment of Wages (Lab. Code,\n§§203, 218)\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun] is entitled to\nrecover a penalty based on [ name of defendant ]'s failure to pay [his/her/\nnonbinary pronoun] [wages/ insert other claim ] when due after [ name of\nplaintiff]'s employment ended. [ Name of defendant ] was required to pay\n[name of plaintiff ] all wages owed [on the date that/within 72 hours of the\ndate that] [ name of plaintiff ]'s employment ended.\nY ou must decide whether [ name of plaintiff ] has proved [he/she/ nonbinary\npronoun] is entitled to recover a penalty. I will decide the amount of the\npenalty, if any, to be imposed. To recover this penalty, [ name of plaintiff ]\nmust prove both of the following:\n1. That [ name of plaintiff ]'s employment with [ name of defendant ]\nended; and\n2. That [ name of defendant ] willfully failed to pay [ name of plaintiff ]\nall wages when due.\nThe term \"willfully\" means only that the employer intentionally failed or\nrefused to pay the wages. It does not imply a need for any additional\nbad motive.\n[Name of plaintiff ] must also prove the following:\n1. [ Name of plaintiff ]'s daily wage rate at the time [his/her/ nonbinary\npronoun] employment with [ name of defendant ] ended; and\n2. [The date on which [ name of defendant ] ﬁnally paid [ name of\nplaintiff] all wages due/That [ name of defendant ] never paid [ name\nof plaintiff ] all wages].\n[The term \"wages\" includes all amounts for labor performed by an\nemployee, whether the amount is calculated by time, task, piece,\ncommission, or some other method.]",
+  "directions_for_use": "The ﬁrst part of this instruction sets forth the elements required to obtain a waiting\ntime penalty under Labor Code section 203. The second part is intended to instruct\nthe jury on the facts required to assist the court in calculating the amount of waiting\ntime penalties. Some or all of these facts may be stipulated, in which case they may\nbe omitted from the instruction. Select between the factual scenarios in element 2 of\nthe second part: the employer eventually paid all wages due or the employer never\npaid the wages due.\n39\nThe court must determine when ﬁnal wages are due based on the circumstances of\nthe case and applicable law. (See Lab. Code, §§201, 202.) Final wages are\ngenerally due on the day an employee is discharged by the employer (Lab. Code,\n§201(a)), but are not due for 72 hours if an employee quits without notice. (Lab.\nCode, §202(a).)\nIf there is a factual dispute, for example, whether plaintiff gave advance notice of\nthe intention to quit, or whether payment of ﬁnal wages by mail was authorized by\nplaintiff, the court may be required to give further instruction to the jury.\nThe deﬁnition of \"wages\" may be deleted if it is included in other instructions.",
+  "sources_and_authority": [
+    {
+      "raw": "Wages of Discharged Employee Due Immediately. Labor Code section 201.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "201",
+          "display": "Labor Code section 201",
+          "raw": "Labor Code section 201",
+          "span": [
+            46,
+            68
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Wages of Employee on Quitting. Labor Code section 202.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "202",
+          "display": "Labor Code section 202",
+          "raw": "Labor Code section 202",
+          "span": [
+            31,
+            53
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Willful Failure to Pay Wages of Discharged Employee. Labor Code section 203.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "203",
+          "display": "Labor Code section 203",
+          "raw": "Labor Code section 203",
+          "span": [
+            53,
+            75
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Right of Action for Unpaid Wages. Labor Code section 218.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "218",
+          "display": "Labor Code section 218",
+          "raw": "Labor Code section 218",
+          "span": [
+            34,
+            56
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Wages\" Deﬁned. Labor Code section 200.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "200",
+          "display": "Labor Code section 200",
+          "raw": "Labor Code section 200",
+          "span": [
+            16,
+            38
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Payment for Accrued V acation of Terminated Employee. Labor Code section\n227.3.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "227.3",
+          "display": "Labor Code section 227.3",
+          "raw": "Labor Code section\n227.3",
+          "span": [
+            54,
+            78
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Wages Partially in Dispute. Labor Code section 206(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "206",
+          "display": "Labor Code section 206",
+          "raw": "Labor Code section 206(a)",
+          "span": [
+            28,
+            53
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "206",
+          "display": "Labor Code section 206(a)",
+          "raw": "Labor Code section 206(a)",
+          "span": [
+            28,
+            53
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Exemption for Certain Governmental Employers. Labor Code section 220(b).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "220",
+          "display": "Labor Code section 220",
+          "raw": "Labor Code section 220(b)",
+          "span": [
+            46,
+            71
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "220",
+          "display": "Labor Code section 220(b)",
+          "raw": "Labor Code section 220(b)",
+          "span": [
+            46,
+            71
+          ],
+          "subsection": "b"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Labor Code section 203 empowers a court to award 'an employee who is\ndischarged or who quits' a penalty equal to up to 30 days' worth of the\nemployee's wages '[i]f an employer willfully fails to pay' the employee his full\nwages immediately (if discharged) or within 72 hours (if he or she quits). It is\ncalled a waiting time penalty because it is awarded for effectively making the\nemployee wait for his or her ﬁnal paycheck. A waiting time penalty may be\nawarded when the ﬁnal paycheck is for less than the applicable wage–whether\nit be the minimum wage, a prevailing wage, or a living wage.\" ( Diaz v. Grill\nConcepts Services, Inc. (2018) 23 Cal. App.5th 859, 867 [233 Cal. Rptr.3d 524],\noriginal italics, internal citations omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "203",
+          "display": "Labor Code section 203",
+          "raw": "Labor Code section 203",
+          "span": [
+            1,
+            23
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Diaz v. Grill Concepts Services, Inc.",
+          "year": 2018,
+          "volume": 23,
+          "reporter": "Cal.App.5th",
+          "page": 859,
+          "pin": "867",
+          "raw": "Diaz v. Grill Concepts Services, Inc. (2018) 23 Cal. App.5th 859, 867",
+          "span": [
+            597,
+            666
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" '[T]he public policy in favor of full and prompt payment of an employee's\nearned wages is fundamental and well established . . .' and the failure to timely\npay wages injures not only the employee, but the public at large as well. We\nhave also recognized that sections 201, 202, and 203 play an important role in\nvindicating this public policy. To that end, the Legislature adopted the penalty\nprovision as a disincentive for employers to pay ﬁnal wages late. It goes without\nsaying that a longer statute of limitations for section 203 penalties provides\nadditional incentive to encourage employers to pay ﬁnal wages in a prompt\nmanner, thus furthering the public policy.\" ( Pineda v. Bank of America, N.A.\n(2010) 50 Cal. 4th 1389, 1400 [117 Cal. Rptr.3d 377, 241 P.3d 870], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'The plain purpose of [Labor Code] sections 201 and 203 is to compel the\nCACI No. 2704 LABOR CODE ACTIONS\n40\nimmediate payment of earned wages upon a discharge.' The prompt payment of\nan employee's earned wages is a fundamental public policy of this state.\" ( Kao\nv. Holiday (2017) 12 Cal. App.5th 947, 962 [219 Cal. Rptr.3d 580], internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Kao v. Holiday",
+          "year": 2017,
+          "volume": 12,
+          "reporter": "Cal.App.5th",
+          "page": 947,
+          "pin": "962",
+          "raw": "Kao v. Holiday (2017) 12 Cal. App.5th 947, 962",
+          "span": [
+            262,
+            308
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The statutory policy favoring prompt payment of wages applies to employees\nwho retire, as well as those who quit for other reasons.\" ( McLean v. State (2016)\n1 Cal. 5th 615, 626–627 [206 Cal. Rptr.3d 545, 377 P.3d 796].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "McLean v. State",
+          "year": 2016,
+          "volume": 1,
+          "reporter": "Cal.5th",
+          "page": 615,
+          "pin": "626–627",
+          "raw": "McLean v. State (2016) 1 Cal. 5th 615, 626–627",
+          "span": [
+            136,
+            182
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[M]issed-break premium pay constitutes wages for purposes of Labor Code\nsection 203, and so waiting time penalties are available under that statute if the\npremium pay is not timely paid.\" ( Naranjo v. Spectrum Security Services, Inc.\n(2022) 13 Cal. 5th 93, 117 [293 Cal. Rptr.3d 599, 509 P.3d 956].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "203",
+          "display": "Labor Code section 203",
+          "raw": "Labor Code\nsection 203",
+          "span": [
+            62,
+            84
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Naranjo v. Spectrum Security Services, Inc.",
+          "year": 2022,
+          "volume": 13,
+          "reporter": "Cal.5th",
+          "page": 93,
+          "pin": "117",
+          "raw": "Naranjo v. Spectrum Security Services, Inc. (2022) 13 Cal. 5th 93, 117",
+          "span": [
+            191,
+            261
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A]n employer may not delay payment for several days until the next regular\npay period. Unpaid wages are due immediately upon discharge. This requirement\nis strictly applied and may not be 'undercut' by company payroll practices or\n'any industry habit or custom to the contrary.' \" ( Kao, supra, 12 Cal. App.5th at\np. 962, original italics, internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" ' \"[T]o be at fault within the meaning of [section 203], the employer's refusal\nto pay need not be based on a deliberate evil purpose to defraud workmen of\nwages which the employer knows to be due. As used in section 203, 'willful'\nmerely means that the employer intentionally failed or refused to perform an act\nwhich was required to be done.\" . . .' \" ( Gonzalez v. Downtown LA Motors, LP\n(2013) 215 Cal. App.4th 36, 54 [155 Cal. Rptr.3d 18].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In civil cases the word 'willful' as ordinarily used in courts of law, does not\nnecessarily imply anything blameable, or any malice or wrong toward the other\nparty, or perverseness or moral delinquency, but merely that the thing done or\nomitted to be done, was done or omitted intentionally. It amounts to nothing\nmore than this: That the person knows what he is doing, intends to do what he is\ndoing, and is a free agent.\" ( Nishiki v. Danko Meredith, P .C. (2018) 25\nCal. App.5th 883, 891 [236 Cal. Rptr.3d 626].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[A]n employer's reasonable, good faith belief that wages are not owed may\nnegate a ﬁnding of willfulness.\" ( Choate v. Celite Corp. (2013) 215 Cal. App.4th\n1460, 1468 [155 Cal. Rptr.3d 915].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Choate v. Celite Corp.",
+          "year": 2013,
+          "volume": 215,
+          "reporter": "Cal.App.4th",
+          "page": 1460,
+          "pin": "1468",
+          "raw": "Choate v. Celite Corp. (2013) 215 Cal. App.4th 1460, 1468",
+          "span": [
+            110,
+            167
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A 'good faith dispute' that any wages are due occurs when an employer\npresents a defense, based in law or fact which, if successful, would preclude any\nrecover[y] on the part of the employee. The fact that a defense is ultimately\nunsuccessful will not preclude a ﬁnding that a good faith dispute did exist.\"\n(Kao, supra, 12 Cal. App.5th at p. 963.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A 'good faith dispute' excludes defenses that 'are unsupported by any evidence,\nare unreasonable, or are presented in bad faith.' Any of the three precludes a\ndefense from being a good faith dispute. Thus, [defendant]'s good faith does not\ncure the objective unreasonableness of its challenge or the lack of evidence to\nsupport it.\" ( Diaz, supra, 23 Cal. App.5th at pp. 873–874, original italics, internal\ncitations omitted.)\nLABOR CODE ACTIONS CACI No. 2704\n41",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A proper reading of section 203 mandates a penalty equivalent to the\nemployee's daily wages for each day he or she remained unpaid up to a total of\n30 days. . . . [¶] [T]he critical computation required by section 203 is the\ncalculation of a daily wage rate, which can then be multiplied by the number of\ndays of nonpayment, up to 30 days.\" ( Mamika v. Barca (1998) 68 Cal. App.4th\n487, 493 [80 Cal. Rptr.2d 175].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Mamika v. Barca",
+          "year": 1998,
+          "volume": 68,
+          "reporter": "Cal.App.4th",
+          "page": 487,
+          "pin": "493",
+          "raw": "Mamika v. Barca (1998) 68 Cal. App.4th 487, 493",
+          "span": [
+            344,
+            391
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'A tender of the wages due at the time of the discharge, if properly made and\nin the proper amount, terminates the further accumulation of penalty, but it does\nnot preclude the employee from recovering the penalty already accrued.' \"\n(Oppenheimer v. Sunkist Growers, Inc. (1957) 153 Cal. App.2d Supp. 897, 899\n[315 P.2d 116], citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Oppenheimer v. Sunkist Growers, Inc.",
+          "year": 1957,
+          "volume": 153,
+          "reporter": "Cal.App.2d Supp.",
+          "page": 897,
+          "pin": "899",
+          "raw": "Oppenheimer v. Sunkist Growers, Inc. (1957) 153 Cal. App.2d Supp. 897, 899",
+          "span": [
+            237,
+            311
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[Plaintiff] fails to distinguish between a request for statutory penalties provided\nby the Labor Code for employer wage-and-hour violations, which were\nrecoverable directly by employees well before the Act became part of the Labor\nCode, and a demand for 'civil penalties,' previously enforceable only by the\nstate's labor law enforcement agencies. An example of the former is section 203,\nwhich obligates an employer that willfully fails to pay wages due an employee\nwho is discharged or quits to pay the employee, in addition to the unpaid wages,\na penalty equal to the employee's daily wages for each day, not exceeding 30\ndays, that the wages are unpaid.\" ( Caliber Bodyworks, Inc. v. Superior Court\n(2005) 134 Cal. App.4th 365, 377–378 [36 Cal. Rptr.3d 31].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Caliber Bodyworks, Inc. v. Superior Court",
+          "year": 2005,
+          "volume": 134,
+          "reporter": "Cal.App.4th",
+          "page": 365,
+          "pin": "377–378",
+          "raw": "Caliber Bodyworks, Inc. v. Superior Court (2005) 134 Cal. App.4th 365, 377–378",
+          "span": [
+            662,
+            740
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In light of the unambiguous statutory language, as well as the practical\ndifficulties that would arise under defendant's interpretation, we conclude there is\nbut one reasonable construction: section 203(b) contains a single, three-year\nlimitations period governing all actions for section 203 penalties irrespective of\nwhether an employee's claim for penalties is accompanied by a claim for unpaid\nﬁnal wages.\" ( Pineda, supra, 50 Cal. 4th at p. 1398.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "4 Witkin, Summary of California Law (11th ed. 2017) Agency and Employment,\n§§437–439\nChin et al., California Practice Guide: Employment Litigation, Ch. 1-A,\nIntroduction–Background, ¶ 1:22 (The Rutter Group)\nChin et al., California Practice Guide: Employment Litigation, Ch. 11-B,\nCompensation–Coverage and Exemptions–In General , ¶ 11:121 (The Rutter\nGroup)\nChin et al., California Practice Guide: Employment Litigation, Ch. 11-D,\nCompensation–Payment of Wages , ¶¶ 11:456, 11:470.1, 11:510, 11:513–11:515 (The\nRutter Group)\nChin et al., California Practice Guide: Employment Litigation, Ch. 11-J,\nCompensation–Enforcing California Laws Regulating Employee Compensation ,\n¶¶ 11:1458–11:1459, 11:1461–11:1461.1 (The Rutter Group)\nChin et al., California Practice Guide: Employment Litigation, Ch. 17-B,\nRemedies–Contract Damages , ¶ 17:148 (The Rutter Group)\nCACI No. 2704 LABOR CODE ACTIONS\n42\n1 Wilcox, California Employment Law, Ch. 5, Administrative and Judicial Remedies\nUnder Wage and Hour Laws , §5.40 (Matthew Bender)\n21 California Forms of Pleading and Practice, Ch. 250, Employment Law: Wage and\nHour Disputes , §§250.16[2][d], 250.30 et seq. (Matthew Bender)\nCalifornia Civil Practice: Employment Litigation, §§4:67, 4:74 (Thomson Reuters)\nLABOR CODE ACTIONS CACI No. 2704\n43",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "203",
+      "display": "Labor Code section 203",
+      "raw": "Lab. Code,§§ 203, 218",
+      "span": [
+        0,
+        21
+      ],
+      "role": "title",
+      "statute_key": "CA/LAB/203"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "201",
+      "display": "Labor Code section 201",
+      "raw": "Labor Code section 201",
+      "span": [
+        46,
+        68
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/201"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "202",
+      "display": "Labor Code section 202",
+      "raw": "Labor Code section 202",
+      "span": [
+        31,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/202"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "218",
+      "display": "Labor Code section 218",
+      "raw": "Labor Code section 218",
+      "span": [
+        34,
+        56
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/218"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "200",
+      "display": "Labor Code section 200",
+      "raw": "Labor Code section 200",
+      "span": [
+        16,
+        38
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/200"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "227.3",
+      "display": "Labor Code section 227.3",
+      "raw": "Labor Code section\n227.3",
+      "span": [
+        54,
+        78
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/227.3"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "206",
+      "display": "Labor Code section 206",
+      "raw": "Labor Code section 206(a)",
+      "span": [
+        28,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/206"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "206",
+      "display": "Labor Code section 206(a)",
+      "raw": "Labor Code section 206(a)",
+      "span": [
+        28,
+        53
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/LAB/206/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "220",
+      "display": "Labor Code section 220",
+      "raw": "Labor Code section 220(b)",
+      "span": [
+        46,
+        71
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/220"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "220",
+      "display": "Labor Code section 220(b)",
+      "raw": "Labor Code section 220(b)",
+      "span": [
+        46,
+        71
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/LAB/220/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "201",
+      "display": "Labor Code section 201(a)",
+      "raw": "Lab. Code,\n§201(a)",
+      "span": [
+        755,
+        773
+      ],
+      "subsection": "a",
+      "role": "directions",
+      "statute_key": "CA/LAB/201/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "202",
+      "display": "Labor Code section 202(a)",
+      "raw": "Lab.\nCode, §202(a)",
+      "span": [
+        843,
+        861
+      ],
+      "subsection": "a",
+      "role": "directions",
+      "statute_key": "CA/LAB/202/a"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Diaz v. Grill Concepts Services, Inc.",
+      "year": 2018,
+      "volume": 23,
+      "reporter": "Cal.App.5th",
+      "page": 859,
+      "pin": "867",
+      "raw": "Diaz v. Grill Concepts Services, Inc. (2018) 23 Cal. App.5th 859, 867",
+      "span": [
+        597,
+        666
+      ],
+      "role": "sources",
+      "case_key": "23 Cal.App.5th 859"
+    },
+    {
+      "name": "Kao v. Holiday",
+      "year": 2017,
+      "volume": 12,
+      "reporter": "Cal.App.5th",
+      "page": 947,
+      "pin": "962",
+      "raw": "Kao v. Holiday (2017) 12 Cal. App.5th 947, 962",
+      "span": [
+        262,
+        308
+      ],
+      "role": "sources",
+      "case_key": "12 Cal.App.5th 947"
+    },
+    {
+      "name": "McLean v. State",
+      "year": 2016,
+      "volume": 1,
+      "reporter": "Cal.5th",
+      "page": 615,
+      "pin": "626–627",
+      "raw": "McLean v. State (2016) 1 Cal. 5th 615, 626–627",
+      "span": [
+        136,
+        182
+      ],
+      "role": "sources",
+      "case_key": "1 Cal.5th 615"
+    },
+    {
+      "name": "Naranjo v. Spectrum Security Services, Inc.",
+      "year": 2022,
+      "volume": 13,
+      "reporter": "Cal.5th",
+      "page": 93,
+      "pin": "117",
+      "raw": "Naranjo v. Spectrum Security Services, Inc. (2022) 13 Cal. 5th 93, 117",
+      "span": [
+        191,
+        261
+      ],
+      "role": "sources",
+      "case_key": "13 Cal.5th 93"
+    },
+    {
+      "name": "Choate v. Celite Corp.",
+      "year": 2013,
+      "volume": 215,
+      "reporter": "Cal.App.4th",
+      "page": 1460,
+      "pin": "1468",
+      "raw": "Choate v. Celite Corp. (2013) 215 Cal. App.4th 1460, 1468",
+      "span": [
+        110,
+        167
+      ],
+      "role": "sources",
+      "case_key": "215 Cal.App.4th 1460"
+    },
+    {
+      "name": "Mamika v. Barca",
+      "year": 1998,
+      "volume": 68,
+      "reporter": "Cal.App.4th",
+      "page": 487,
+      "pin": "493",
+      "raw": "Mamika v. Barca (1998) 68 Cal. App.4th 487, 493",
+      "span": [
+        344,
+        391
+      ],
+      "role": "sources",
+      "case_key": "68 Cal.App.4th 487"
+    },
+    {
+      "name": "Oppenheimer v. Sunkist Growers, Inc.",
+      "year": 1957,
+      "volume": 153,
+      "reporter": "Cal.App.2d Supp.",
+      "page": 897,
+      "pin": "899",
+      "raw": "Oppenheimer v. Sunkist Growers, Inc. (1957) 153 Cal. App.2d Supp. 897, 899",
+      "span": [
+        237,
+        311
+      ],
+      "role": "sources",
+      "case_key": "153 Cal.App.2d Supp. 897"
+    },
+    {
+      "name": "Caliber Bodyworks, Inc. v. Superior Court",
+      "year": 2005,
+      "volume": 134,
+      "reporter": "Cal.App.4th",
+      "page": 365,
+      "pin": "377–378",
+      "raw": "Caliber Bodyworks, Inc. v. Superior Court (2005) 134 Cal. App.4th 365, 377–378",
+      "span": [
+        662,
+        740
+      ],
+      "role": "sources",
+      "case_key": "134 Cal.App.4th 365"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:18+00:00"
+}

@@ -1,0 +1,122 @@
+{
+  "id": "CACI-3333",
+  "edition": "2026",
+  "number": "3333",
+  "title": "Affirmative Defense to Locality Discrimination, Below CostSales, and Loss Leader Sales Claims—Meeting Competition",
+  "title_full": "Affirmative Defense to Locality Discrimination, Below CostSales, and Loss Leader Sales Claims—Meeting Competition",
+  "title_statute": null,
+  "series": "3300",
+  "series_title": "Series 3300 Unfair Practices Act",
+  "page_start": 2452,
+  "page_end": 2453,
+  "instruction_text": "3333. Affirmative Defense to Locality Discrimination, Below Cost\nSales, and Loss Leader Sales Claims–Meeting Competition\n[Name of defendant ] claims that any [locality discrimination/below cost\nsales/loss leader sales] proven by [ name of plaintiff ] [is/are] justiﬁed by\nthe need to meet competition. To succeed, [ name of defendant ] must prove\nthat the sales of [ product/service] were made in an attempt, in good faith,\nto meet the legal prices of a competitor selling the same [ product/service]\nin the ordinary course of business in the same area.\nTo meet legal prices means to lower the price to a point that the seller\nbelieves in good faith is at or above the legal price of the competitor it is\ntrying to meet. That is, a seller may attempt to \"meet,\" but not \"beat,\"\nwhat in good faith it believes to be that competitor's legal price.",
+  "directions_for_use": "This defense applies to locality discrimination, sales below cost, and loss leader\nsales only.",
+  "sources_and_authority": [
+    {
+      "raw": "Good-Faith Price to Meet Competition Permitted. Business and Professions Code\nsection 17050(d).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "17050",
+          "display": "Business and Professions Code section 17050",
+          "raw": "Business and Professions Code\nsection 17050(d)",
+          "span": [
+            48,
+            94
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "17050",
+          "display": "Business and Professions Code section 17050(d)",
+          "raw": "Business and Professions Code\nsection 17050(d)",
+          "span": [
+            48,
+            94
+          ],
+          "subsection": "d"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"It is safe to assume that merchants generally know who are their competitors,\nand from what locality or trade area they draw their customers.\" ( People v. Pay\nLess Drug Store (1944) 25 Cal. 2d 108, 116 [153 P.2d 9].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Pay Less Drug Store",
+          "year": 1944,
+          "volume": 25,
+          "reporter": "Cal.2d",
+          "page": 108,
+          "pin": "116",
+          "raw": "People v. Pay Less Drug Store (1944) 25 Cal. 2d 108, 116",
+          "span": [
+            146,
+            202
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The requirement [to ascertain the 'legal prices' of competitors] is not absolute.\nIt is merely that the defendants shall have endeavored 'in good faith' to meet the\nlegal prices of a competitor.\" ( Pay Less Drug Store, supra, 25 Cal. 2d at p. 117.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The operator of a service industry cannot legally reduce its prices to a below-\ncost ﬁgure with intent to injure another or offer free service to prevent further\nloss of business to a competitor 'who is indiscriminately and deliberately\noffering free service and below cost prices to such operator's customers.' Each\nside must obey the law; the fact that one competing party disregards the statute\ndoes not give the other side a legal excuse to do so.\" ( G.B. Page v. Bakersﬁeld\nUniform & Towel Supply Co. (1966) 239 Cal. App.2d 762, 770 [49 Cal. Rptr.\n46].)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§623–629\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.153 (Matthew Bender)\n566\n49 California Forms of Pleading and Practice, Ch. 565, Unfair Competition ,\n§565.53 (Matthew Bender)\n1 Matthew Bender Practice Guide: California Unfair Competition and Business\nTorts, Ch. 5, Antitrust, 5.100[5]\nUNFAIR PRACTICES ACT CACI No. 3333\n567",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "17050",
+      "display": "Business and Professions Code section 17050",
+      "raw": "Business and Professions Code\nsection 17050(d)",
+      "span": [
+        48,
+        94
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/17050"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "17050",
+      "display": "Business and Professions Code section 17050(d)",
+      "raw": "Business and Professions Code\nsection 17050(d)",
+      "span": [
+        48,
+        94
+      ],
+      "subsection": "d",
+      "role": "sources",
+      "statute_key": "CA/BPC/17050/d"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "People v. Pay Less Drug Store",
+      "year": 1944,
+      "volume": 25,
+      "reporter": "Cal.2d",
+      "page": 108,
+      "pin": "116",
+      "raw": "People v. Pay Less Drug Store (1944) 25 Cal. 2d 108, 116",
+      "span": [
+        146,
+        202
+      ],
+      "role": "sources",
+      "case_key": "25 Cal.2d 108"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

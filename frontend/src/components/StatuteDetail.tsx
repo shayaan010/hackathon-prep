@@ -34,10 +34,14 @@ export function StatuteDetail({ statute }: Props) {
           <span className="font-mono text-[11px] font-semibold uppercase tracking-widest text-gold">
             {statute.jurisdictionLabel} · {statute.code}
           </span>
-          <span className="text-muted-foreground">·</span>
-          <span className="font-mono text-[11px] text-muted-foreground flex items-center gap-1">
-            <Calendar className="h-3 w-3" /> Verified {statute.lastVerified}
-          </span>
+          {statute.lastVerified && (
+            <>
+              <span className="text-muted-foreground">·</span>
+              <span className="font-mono text-[11px] text-muted-foreground flex items-center gap-1">
+                <Calendar className="h-3 w-3" /> Verified {statute.lastVerified}
+              </span>
+            </>
+          )}
         </div>
         <div className="flex items-start gap-4">
           <div>
@@ -60,16 +64,18 @@ export function StatuteDetail({ statute }: Props) {
           </div>
         </div>
 
-        <div className="flex items-center gap-1.5 mt-5 flex-wrap">
-          {statute.factors.map((f) => (
-            <span
-              key={f}
-              className="text-xs px-2.5 py-1 rounded-full bg-primary/10 text-primary font-medium border border-primary/20"
-            >
-              {f}
-            </span>
-          ))}
-        </div>
+        {statute.factors.length > 0 && (
+          <div className="flex items-center gap-1.5 mt-5 flex-wrap">
+            {statute.factors.map((f) => (
+              <span
+                key={f}
+                className="text-xs px-2.5 py-1 rounded-full bg-primary/10 text-primary font-medium border border-primary/20"
+              >
+                {f}
+              </span>
+            ))}
+          </div>
+        )}
       </div>
 
       {/* Body */}
@@ -83,21 +89,23 @@ export function StatuteDetail({ statute }: Props) {
           </blockquote>
         </section>
 
-        <section>
-          <h2 className="text-[11px] font-mono uppercase tracking-widest text-muted-foreground mb-3 flex items-center gap-2">
-            <Link2 className="h-3 w-3" /> Related Sections
-          </h2>
-          <div className="flex flex-wrap gap-2">
-            {statute.related.map((r) => (
-              <button
-                key={r}
-                className="font-mono text-sm px-3 py-1.5 rounded-md border border-border bg-card hover:bg-secondary hover:border-primary/40 transition-colors"
-              >
-                § {r}
-              </button>
-            ))}
-          </div>
-        </section>
+        {statute.related.length > 0 && (
+          <section>
+            <h2 className="text-[11px] font-mono uppercase tracking-widest text-muted-foreground mb-3 flex items-center gap-2">
+              <Link2 className="h-3 w-3" /> Related Sections
+            </h2>
+            <div className="flex flex-wrap gap-2">
+              {statute.related.map((r) => (
+                <button
+                  key={r}
+                  className="font-mono text-sm px-3 py-1.5 rounded-md border border-border bg-card hover:bg-secondary hover:border-primary/40 transition-colors"
+                >
+                  § {r}
+                </button>
+              ))}
+            </div>
+          </section>
+        )}
 
         {statute.cases.length > 0 && (
           <section>

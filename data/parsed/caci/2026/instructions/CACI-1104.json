@@ -1,0 +1,179 @@
+{
+  "id": "CACI-1104",
+  "edition": "2026",
+  "number": "1104",
+  "title": "Inspection System (Gov. Code, § 835.2(b)(1) & (2))",
+  "title_full": "Inspection System (Gov. Code, § 835.2(b)(1) & (2))",
+  "title_statute": null,
+  "series": "1100",
+  "series_title": "Series 1100 Dangerous Condition of Public Property",
+  "page_start": 774,
+  "page_end": 774,
+  "instruction_text": "1104. Inspection System (Gov. Code, §835.2(b)(1) & (2))\nIn deciding whether [ name of defendant ] should have discovered the\ndangerous condition, you may consider whether it had a reasonable\ninspection system and whether a reasonable system would have revealed\nthe dangerous condition.\n[In determining whether an inspection system is reasonable, you may\nconsider the practicality and cost of the system and balance those factors\nagainst the likelihood and seriousness of the potential danger if no such\nsystem existed.]\n[and/or]\n[If [ name of defendant ] had a reasonable inspection system but did not\ndetect the dangerous condition, you may consider whether it used\nreasonable care in maintaining and operating the system.]",
+  "directions_for_use": "Read the ﬁrst paragraph and one or both of the bracketed paragraphs as appropriate\nto the facts.",
+  "sources_and_authority": [
+    {
+      "raw": "Admissible Evidence of Due Care. Government Code section 835.2(b).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "835.2",
+          "display": "Government Code section 835.2",
+          "raw": "Government Code section 835.2(b)",
+          "span": [
+            33,
+            65
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "835.2",
+          "display": "Government Code section 835.2(b)",
+          "raw": "Government Code section 835.2(b)",
+          "span": [
+            33,
+            65
+          ],
+          "subsection": "b"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Constructive notice may be found where the dangerous condition would have\nbeen discovered by a reasonable inspection.\" ( Straughter v. State of California\n(1976) 89 Cal. App.3d 102, 109 [152 Cal. Rptr. 147], citing to Stanford v. City of\nOntario (1972) 6 Cal. 3d 870, 882 [101 Cal. Rptr. 97, 495 P.2d 425].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Straughter v. State of California",
+          "year": 1976,
+          "volume": 89,
+          "reporter": "Cal.App.3d",
+          "page": 102,
+          "pin": "109",
+          "raw": "Straughter v. State of California (1976) 89 Cal. App.3d 102, 109",
+          "span": [
+            122,
+            186
+          ]
+        },
+        {
+          "name": "Stanford v. City of Ontario",
+          "year": 1972,
+          "volume": 6,
+          "reporter": "Cal.3d",
+          "page": 870,
+          "pin": "882",
+          "raw": "Stanford v. City of Ontario (1972) 6 Cal. 3d 870, 882",
+          "span": [
+            219,
+            272
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The questions of whether a dangerous condition could have been discovered by\nreasonable inspection and whether there was adequate time for preventive\nmeasures are properly left to the jury.\" ( Carson v. Facilities Development Co.\n(1984) 36 Cal. 3d 830, 843 [206 Cal. Rptr. 136, 686 P.2d 656], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Carson v. Facilities Development Co.",
+          "year": 1984,
+          "volume": 36,
+          "reporter": "Cal.3d",
+          "page": 830,
+          "pin": "843",
+          "raw": "Carson v. Facilities Development Co. (1984) 36 Cal. 3d 830, 843",
+          "span": [
+            194,
+            257
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Although judicial decisions do not always link the issue of constructive notice\nto the reasonable inspection system . . . , the Tort Claims Act indicates that,\nabsent other persuasive evidence, the relationship between constructive notice\nand inspection may be crucial.\" (California Government Tort Liability Practice\n(Cont.Ed.Bar 3d ed. 1992), §3.37.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §323\n2 California Government Tort Liability Practice (Cont.Ed.Bar 4th ed.)\n700",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "835.2",
+      "display": "Government Code section 835.2",
+      "raw": "Government Code section 835.2(b)",
+      "span": [
+        33,
+        65
+      ],
+      "role": "sources",
+      "statute_key": "CA/GOV/835.2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "835.2",
+      "display": "Government Code section 835.2(b)",
+      "raw": "Government Code section 835.2(b)",
+      "span": [
+        33,
+        65
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/GOV/835.2/b"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Straughter v. State of California",
+      "year": 1976,
+      "volume": 89,
+      "reporter": "Cal.App.3d",
+      "page": 102,
+      "pin": "109",
+      "raw": "Straughter v. State of California (1976) 89 Cal. App.3d 102, 109",
+      "span": [
+        122,
+        186
+      ],
+      "role": "sources",
+      "case_key": "89 Cal.App.3d 102"
+    },
+    {
+      "name": "Stanford v. City of Ontario",
+      "year": 1972,
+      "volume": 6,
+      "reporter": "Cal.3d",
+      "page": 870,
+      "pin": "882",
+      "raw": "Stanford v. City of Ontario (1972) 6 Cal. 3d 870, 882",
+      "span": [
+        219,
+        272
+      ],
+      "role": "sources",
+      "case_key": "6 Cal.3d 870"
+    },
+    {
+      "name": "Carson v. Facilities Development Co.",
+      "year": 1984,
+      "volume": 36,
+      "reporter": "Cal.3d",
+      "page": 830,
+      "pin": "843",
+      "raw": "Carson v. Facilities Development Co. (1984) 36 Cal. 3d 830, 843",
+      "span": [
+        194,
+        257
+      ],
+      "role": "sources",
+      "case_key": "36 Cal.3d 830"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:11+00:00"
+}

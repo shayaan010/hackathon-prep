@@ -1,0 +1,150 @@
+{
+  "id": "CACI-1405",
+  "edition": "2026",
+  "number": "1405",
+  "title": "False Arrest With Warrant—Essential Factual Elements",
+  "title_full": "False Arrest With Warrant—Essential Factual Elements",
+  "title_statute": null,
+  "series": "1400",
+  "series_title": "Series 1400 False Imprisonment",
+  "page_start": 976,
+  "page_end": 977,
+  "instruction_text": "1405. False Arrest With Warrant–Essential Factual Elements\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun] was wrongfully\narrested by [ name of defendant ]. To establish this claim, [ name of plaintiff ]\nmust prove all of the following:\n1. [That [ name of defendant ] arrested [ name of plaintiff ];]\n1. [or]\n1. [That [ name of defendant ] intentionally caused [ name of plaintiff ] to\nbe wrongfully arrested;]\n2. That [ insert facts supporting the invalidity of the warrant or the\nunlawfulness of the arrest, e.g., \"the warrant for [name of plaintiff]'s\narrest had expired\" ];\n3. That [ name of plaintiff ] was [actually] harmed; and\n4. That [ name of defendant ]'s conduct was a substantial factor in\ncausing [ name of plaintiff ]'s harm.",
+  "directions_for_use": "CACI No. 1406, False Arrest With Warrant–Peace Offıcer–Affırmative\nDefense–\"Good-Faith\" Exception , should be given after this instruction if that\ndefense is asserted.\nIf the plaintiff is seeking nominal damages as an alternative to actual damages,\ninsert the following paragraph above element 3:\nIf you ﬁnd both of the above, then the law assumes that [ name of plaintiff ] has\nbeen harmed and [he/she/ nonbinary pronoun] is entitled to a nominal sum such\nas one dollar. [ Name of plaintiff ] is also entitled to additional damages if [he/\nshe/nonbinary pronoun] proves the following:\nThe second sentence of the above paragraph, along with the ﬁnal two elements of\nthis instruction, should be omitted if plaintiff is seeking nominal damages only.\nRead \"actually\" in the third element only if nominal damages are also being sought.",
+  "sources_and_authority": [
+    {
+      "raw": "Penal Code section 834.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "834",
+          "display": "Penal Code section 834",
+          "raw": "Penal Code section 834",
+          "span": [
+            0,
+            22
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Public Employee Liability for False Arrest. Government Code section 820.4.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "820.4",
+          "display": "Government Code section 820.4",
+          "raw": "Government Code section 820.4",
+          "span": [
+            44,
+            73
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"False arrest and false imprisonment are the same tort. False arrest is a way of\ncommitting false imprisonment.\" ( Cox v. Griffın (2019) 34 Cal. App.5th 440, 446,\nfn. 6 [246 Cal. Rptr.3d 185].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cox v. Griffın",
+          "year": 2019,
+          "volume": 34,
+          "reporter": "Cal.App.5th",
+          "page": 440,
+          "pin": "446",
+          "raw": "Cox v. Griffın (2019) 34 Cal. App.5th 440, 446",
+          "span": [
+            115,
+            161
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'The action for false imprisonment is frequently alleged to have been\n902\ncommitted by reason of some wrongful arrest under some pretended or void\norder of some court, in which class of false imprisonment cases it is incumbent\non the plaintiff to allege facts showing or tending to show that such arrest, under\nsuch court procedure, was wrongful, unauthorized and without any probable\ncause; . . . .' \" ( Peters v. Bigelow (1934) 137 Cal. App. 135, 139 [30 P.2d 450].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Peters v. Bigelow",
+          "year": 1934,
+          "volume": 137,
+          "reporter": "Cal.App.",
+          "page": 135,
+          "pin": "139",
+          "raw": "Peters v. Bigelow (1934) 137 Cal. App. 135, 139",
+          "span": [
+            407,
+            454
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§514–516\n3 Levy et al., California Torts, Ch. 42, False Imprisonment and False Arrest ,\n§42.25 (Matthew Bender)\n22 California Forms of Pleading and Practice, Ch. 257, False Imprisonment ,\n§257.20 (Matthew Bender)\n10 California Points and Authorities, Ch. 103, False Imprisonment , §103.77 et seq.\n(Matthew Bender)\nCalifornia Civil Practice: Torts §§13:26–13:30 (Thomson Reuters)\nFALSE IMPRISONMENT CACI No. 1405\n903",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "834",
+      "display": "Penal Code section 834",
+      "raw": "Penal Code section 834",
+      "span": [
+        0,
+        22
+      ],
+      "role": "sources",
+      "statute_key": "CA/PEN/834"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "820.4",
+      "display": "Government Code section 820.4",
+      "raw": "Government Code section 820.4",
+      "span": [
+        44,
+        73
+      ],
+      "role": "sources",
+      "statute_key": "CA/GOV/820.4"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Cox v. Griffın",
+      "year": 2019,
+      "volume": 34,
+      "reporter": "Cal.App.5th",
+      "page": 440,
+      "pin": "446",
+      "raw": "Cox v. Griffın (2019) 34 Cal. App.5th 440, 446",
+      "span": [
+        115,
+        161
+      ],
+      "role": "sources",
+      "case_key": "34 Cal.App.5th 440"
+    },
+    {
+      "name": "Peters v. Bigelow",
+      "year": 1934,
+      "volume": 137,
+      "reporter": "Cal.App.",
+      "page": 135,
+      "pin": "139",
+      "raw": "Peters v. Bigelow (1934) 137 Cal. App. 135, 139",
+      "span": [
+        407,
+        454
+      ],
+      "role": "sources",
+      "case_key": "137 Cal.App. 135"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

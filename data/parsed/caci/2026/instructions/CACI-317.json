@@ -1,0 +1,159 @@
+{
+  "id": "CACI-317",
+  "edition": "2026",
+  "number": "317",
+  "title": "Interpretation—Construction of Contract as a Whole",
+  "title_full": "Interpretation—Construction of Contract as a Whole",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 194,
+  "page_end": 195,
+  "instruction_text": "317. Interpretation–Construction of Contract as a Whole\nIn deciding what the words of a contract meant to the parties, you\nshould consider the whole contract, not just isolated parts. Y ou should\nuse each part to help you interpret the others, so that all the parts make\nsense when taken together.",
+  "directions_for_use": "This instruction may be given with CACI No. 314, Interpretation–Disputed Words.\nSee the Directions for Use and Sources and Authority to that instruction for\ndiscussion of when contract interpretation may be a proper jury role.",
+  "sources_and_authority": [
+    {
+      "raw": "Effect to Be Given to Every Part of Contract. Civil Code section 1641.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1641",
+          "display": "Civil Code section 1641",
+          "raw": "Civil Code section 1641",
+          "span": [
+            46,
+            69
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he contract must be construed as a whole and the intention of the parties\nmust be ascertained from the consideration of the entire contract, not some\nisolated portion.\" ( County of Marin v. Assessment Appeals Bd. of Marin County\n(1976) 64 Cal. App.3d 319, 324–325 [134 Cal. Rptr. 349].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "County of Marin v. Assessment Appeals Bd. of Marin County",
+          "year": 1976,
+          "volume": 64,
+          "reporter": "Cal.App.3d",
+          "page": 319,
+          "pin": "324–325",
+          "raw": "County of Marin v. Assessment Appeals Bd. of Marin County (1976) 64 Cal. App.3d 319, 324–325",
+          "span": [
+            175,
+            267
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Any contract must be construed as a whole, with the various individual\nprovisions interpreted together so as to give effect to all, if reasonably possible\nor practicable.\" ( City of Atascadero v. Merrill Lynch, Pierce, Fenner & Smith\n(1998) 68 Cal. App.4th 445, 473 [80 Cal. Rptr.2d 329].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]e should interpret contractual language in a manner which gives force and\neffect to every clause rather than to one which renders clauses nugatory.\" ( Titan\nCorp. v. Aetna Casualty and Surety Co. (1994) 22 Cal. App.4th 457, 473–474 [27\nCal. Rptr.2d 476].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Titan Corp. v. Aetna Casualty and Surety Co.",
+          "year": 1994,
+          "volume": 22,
+          "reporter": "Cal.App.4th",
+          "page": 457,
+          "pin": "473–474",
+          "raw": "Titan Corp. v. Aetna Casualty and Surety Co. (1994) 22 Cal. App.4th 457, 473–474",
+          "span": [
+            155,
+            235
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Nor are we persuaded by [defendant]'s related claim that it was improper for\n[plaintiff]'s counsel to tell the jurors, during closing argument, that in resolving\nwitness credibility issues they should consider the 'big picture' and not get lost\nin the minutiae of the contractual language.\" ( City of Hope National Medical\nCenter v. Genentech, Inc. (2008) 43 Cal. 4th 375, 394 [75 Cal. Rptr.3d 333, 181\nP.3d 142].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "City of Hope National Medical Center v. Genentech, Inc.",
+          "year": 2008,
+          "volume": 43,
+          "reporter": "Cal.4th",
+          "page": 375,
+          "pin": "394",
+          "raw": "City of Hope National Medical Center v. Genentech, Inc. (2008) 43 Cal. 4th 375, 394",
+          "span": [
+            294,
+            377
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§769–770\n13 California Forms of Pleading and Practice, Ch. 140, Contracts, §140.32\n(Matthew Bender)\n27 California Legal Forms, Ch. 75, Formation of Contracts and Standard\nContractual Provisions, §75.15 (Matthew Bender)\n2 Matthew Bender Practice Guide: California Contract Litigation, Ch. 21, Asserting\n120\na Particular Construction of Contract , 21.19\nCONTRACTS CACI No. 317\n121",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1641",
+      "display": "Civil Code section 1641",
+      "raw": "Civil Code section 1641",
+      "span": [
+        46,
+        69
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1641"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "County of Marin v. Assessment Appeals Bd. of Marin County",
+      "year": 1976,
+      "volume": 64,
+      "reporter": "Cal.App.3d",
+      "page": 319,
+      "pin": "324–325",
+      "raw": "County of Marin v. Assessment Appeals Bd. of Marin County (1976) 64 Cal. App.3d 319, 324–325",
+      "span": [
+        175,
+        267
+      ],
+      "role": "sources",
+      "case_key": "64 Cal.App.3d 319"
+    },
+    {
+      "name": "Titan Corp. v. Aetna Casualty and Surety Co.",
+      "year": 1994,
+      "volume": 22,
+      "reporter": "Cal.App.4th",
+      "page": 457,
+      "pin": "473–474",
+      "raw": "Titan Corp. v. Aetna Casualty and Surety Co. (1994) 22 Cal. App.4th 457, 473–474",
+      "span": [
+        155,
+        235
+      ],
+      "role": "sources",
+      "case_key": "22 Cal.App.4th 457"
+    },
+    {
+      "name": "City of Hope National Medical Center v. Genentech, Inc.",
+      "year": 2008,
+      "volume": 43,
+      "reporter": "Cal.4th",
+      "page": 375,
+      "pin": "394",
+      "raw": "City of Hope National Medical Center v. Genentech, Inc. (2008) 43 Cal. 4th 375, 394",
+      "span": [
+        294,
+        377
+      ],
+      "role": "sources",
+      "case_key": "43 Cal.4th 375"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

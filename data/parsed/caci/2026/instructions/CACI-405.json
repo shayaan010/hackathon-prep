@@ -1,0 +1,245 @@
+{
+  "id": "CACI-405",
+  "edition": "2026",
+  "number": "405",
+  "title": "Comparative Fault of Plaintiff",
+  "title_full": "Comparative Fault of Plaintiff",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 317,
+  "page_end": 318,
+  "instruction_text": "405. Comparative Fault of Plaintiff\n[Name of defendant ] claims that [ name of plaintiff ]'s own negligence\ncontributed to [his/her/ nonbinary pronoun] harm. To succeed on this\nclaim, [ name of defendant ] must prove both of the following:\n1. That [ name of plaintiff ] was negligent; and\n2. That [ name of plaintiff ]'s negligence was a substantial factor in\ncausing [his/her/ nonbinary pronoun ] harm.\nIf [ name of defendant ] proves the above, [ name of plaintiff ]'s damages are\nreduced by your determination of the percentage of [ name of plaintiff ]'s\nresponsibility. I will calculate the actual reduction.",
+  "directions_for_use": "This instruction should not be given absent substantial evidence that plaintiff was\nnegligent. ( Drust v. Drust (1980) 113 Cal. App.3d 1, 6 [169 Cal. Rptr. 750].)\nIf there are multiple defendants or alleged nondefendant tortfeasors, also give CACI\nNo. 406, Apportionment of Responsibility .",
+  "sources_and_authority": [
+    {
+      "raw": "\"[W]e conclude that: . . . The doctrine of comparative negligence is preferable\nto the 'all-or-nothing' doctrine of contributory negligence from the point of view\nof logic, practical experience, and fundamental justice; . . . .\" ( Li v. Yellow Cab\nCo. (1975) 13 Cal. 3d 804, 808 [119 Cal. Rptr. 858, 532 P.2d 1226].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Li v. Yellow Cab Co.",
+          "year": 1975,
+          "volume": 13,
+          "reporter": "Cal.3d",
+          "page": 804,
+          "pin": "808",
+          "raw": "Li v. Yellow Cab Co. (1975) 13 Cal. 3d 804, 808",
+          "span": [
+            231,
+            278
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The comparative fault doctrine 'is designed to permit the trier of fact to\nconsider all relevant criteria in apportioning liability. The doctrine \"is a ﬂexible,\ncommonsense concept, under which a jury properly may consider and evaluate\nthe relative responsibility of various parties for an injury (whether their\nresponsibility for the injury rests on negligence, strict liability, or other theories\nof responsibility), in order to arrive at an \"equitable apportionment or allocation\nof loss.' [Citation.]\" ( Pfeifer v. John Crane, Inc. (2013) 220 Cal. App.4th 1270,\n1285 [164 Cal. Rptr.3d 112].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Pfeifer v. John Crane, Inc.",
+          "year": 2013,
+          "volume": 220,
+          "reporter": "Cal.App.4th",
+          "page": 1270,
+          "pin": "1285",
+          "raw": "Pfeifer v. John Crane, Inc. (2013) 220 Cal. App.4th 1270, 1285",
+          "span": [
+            509,
+            571
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Where contributory negligence is asserted as a defense, and where there is\n'some evidence of a substantial character' to support a ﬁnding that such\nnegligence occurred, it is prejudicial error to refuse an instruction on this issue,\nsince defendant is thereby denied a basic theory of his defense.\" ( Hasson v. Ford\nMotor Co. (1977) 19 Cal. 3d 530, 548 [138 Cal. Rptr. 705, 564 P.2d 857].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hasson v. Ford Motor Co.",
+          "year": 1977,
+          "volume": 19,
+          "reporter": "Cal.3d",
+          "page": 530,
+          "pin": "548",
+          "raw": "Hasson v. Ford Motor Co. (1977) 19 Cal. 3d 530, 548",
+          "span": [
+            302,
+            353
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The use by the trial court of the phrase 'contributory negligence' in instructing\n'on the concept of comparative negligence is innocuous. Li v. Yellow Cab Co.\n[citation] abolished the legal doctrine, but not the phrase or the concept of\n243\n'contributory negligence.' A claimant's negligence contributing causally to his\nown injury may be considered now not as a bar to his recovery, but merely as a\nfactor to be considered in measuring the amount thereof.\" ( Bradﬁeld v. Trans\nWorld Airlines, Inc. (1979) 88 Cal. App.3d 681, 686 [152 Cal. Rptr. 172].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bradﬁeld v. Trans World Airlines, Inc.",
+          "year": 1979,
+          "volume": 88,
+          "reporter": "Cal.App.3d",
+          "page": 681,
+          "pin": "686",
+          "raw": "Bradﬁeld v. Trans World Airlines, Inc. (1979) 88 Cal. App.3d 681, 686",
+          "span": [
+            461,
+            530
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Generally, a defendant has the burden of establishing that some nonzero\npercentage of fault is properly attributed to the plaintiff, other defendants, or\nnonparties to the action.\" ( Pfeifer , supra, 220 Cal. App.4th at p. 1285.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]ithin the comparative fault system, when an employer is liable solely on a\ntheory of respondeat superior, 'the employer's share of liability for the plaintiff's\ndamages corresponds to the share of fault that the jury allocates to the\nemployee.' \" ( CRST, Inc. v. Superior Court (2017) 11 Cal. App.5th 1255, 1261\n[218 Cal. Rptr.3d 664].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "CRST, Inc. v. Superior Court",
+          "year": 2017,
+          "volume": 11,
+          "reporter": "Cal.App.5th",
+          "page": 1255,
+          "pin": "1261",
+          "raw": "CRST, Inc. v. Superior Court (2017) 11 Cal. App.5th 1255, 1261",
+          "span": [
+            253,
+            315
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[P]retreatment negligence by the patient does not warrant a jury instruction on\ncontributory or comparative negligence. This view is supported by comment m\nto section 7 of the Restatement Third of Torts: Apportionment of Liability, which\nstates: '[I]n a case involving negligent rendition of a service, including medical\nservices, a factﬁnder does not consider any plaintiff's conduct that created the\ncondition the service was employed to remedy.' \" ( Harb v. City of Bakersﬁeld\n(2015) 233 Cal. App.4th 606, 632 [183 Cal. Rptr.3d 59].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Harb v. City of Bakersﬁeld",
+          "year": 2015,
+          "volume": 233,
+          "reporter": "Cal.App.4th",
+          "page": 606,
+          "pin": "632",
+          "raw": "Harb v. City of Bakersﬁeld (2015) 233 Cal. App.4th 606, 632",
+          "span": [
+            454,
+            513
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1138, 1450–1460,\n1484–1491\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §§1.41–1.45\n1 Levy et al., California Torts, Ch. 4, Comparative Negligence, Assumption of the\nRisk, and Related Defenses , §4.04 (Matthew Bender)\n4 California Trial Guide, Unit 90, Closing Argument, §90.91 (Matthew Bender)\n33 California Forms of Pleading and Practice, Ch. 380, Negligence, §380.170\n(Matthew Bender)\n16 California Points and Authorities, Ch. 165, Negligence, §165.380 (Matthew\nBender)\nCACI No. 405 NEGLIGENCE\n244",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Li v. Yellow Cab Co.",
+      "year": 1975,
+      "volume": 13,
+      "reporter": "Cal.3d",
+      "page": 804,
+      "pin": "808",
+      "raw": "Li v. Yellow Cab Co. (1975) 13 Cal. 3d 804, 808",
+      "span": [
+        231,
+        278
+      ],
+      "role": "sources",
+      "case_key": "13 Cal.3d 804"
+    },
+    {
+      "name": "Pfeifer v. John Crane, Inc.",
+      "year": 2013,
+      "volume": 220,
+      "reporter": "Cal.App.4th",
+      "page": 1270,
+      "pin": "1285",
+      "raw": "Pfeifer v. John Crane, Inc. (2013) 220 Cal. App.4th 1270, 1285",
+      "span": [
+        509,
+        571
+      ],
+      "role": "sources",
+      "case_key": "220 Cal.App.4th 1270"
+    },
+    {
+      "name": "Hasson v. Ford Motor Co.",
+      "year": 1977,
+      "volume": 19,
+      "reporter": "Cal.3d",
+      "page": 530,
+      "pin": "548",
+      "raw": "Hasson v. Ford Motor Co. (1977) 19 Cal. 3d 530, 548",
+      "span": [
+        302,
+        353
+      ],
+      "role": "sources",
+      "case_key": "19 Cal.3d 530"
+    },
+    {
+      "name": "Bradﬁeld v. Trans World Airlines, Inc.",
+      "year": 1979,
+      "volume": 88,
+      "reporter": "Cal.App.3d",
+      "page": 681,
+      "pin": "686",
+      "raw": "Bradﬁeld v. Trans World Airlines, Inc. (1979) 88 Cal. App.3d 681, 686",
+      "span": [
+        461,
+        530
+      ],
+      "role": "sources",
+      "case_key": "88 Cal.App.3d 681"
+    },
+    {
+      "name": "CRST, Inc. v. Superior Court",
+      "year": 2017,
+      "volume": 11,
+      "reporter": "Cal.App.5th",
+      "page": 1255,
+      "pin": "1261",
+      "raw": "CRST, Inc. v. Superior Court (2017) 11 Cal. App.5th 1255, 1261",
+      "span": [
+        253,
+        315
+      ],
+      "role": "sources",
+      "case_key": "11 Cal.App.5th 1255"
+    },
+    {
+      "name": "Harb v. City of Bakersﬁeld",
+      "year": 2015,
+      "volume": 233,
+      "reporter": "Cal.App.4th",
+      "page": 606,
+      "pin": "632",
+      "raw": "Harb v. City of Bakersﬁeld (2015) 233 Cal. App.4th 606, 632",
+      "span": [
+        454,
+        513
+      ],
+      "role": "sources",
+      "case_key": "233 Cal.App.4th 606"
+    },
+    {
+      "name": "Drust v. Drust",
+      "year": 1980,
+      "volume": 113,
+      "reporter": "Cal.App.3d",
+      "page": 1,
+      "pin": "6",
+      "raw": "Drust v. Drust (1980) 113 Cal. App.3d 1, 6",
+      "span": [
+        97,
+        139
+      ],
+      "role": "directions",
+      "case_key": "113 Cal.App.3d 1"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

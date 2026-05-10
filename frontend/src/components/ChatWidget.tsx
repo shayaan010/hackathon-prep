@@ -1,6 +1,5 @@
 import { useEffect, useRef, useState } from "react";
 import { useLocation } from "@tanstack/react-router";
-import { useQuery } from "@tanstack/react-query";
 import {
   MessageCircle,
   X,
@@ -12,7 +11,7 @@ import {
   Eraser,
 } from "lucide-react";
 import { api, type AttachedFile } from "@/lib/api";
-import { STATUTES, type Statute } from "@/lib/statutes";
+import { type Statute } from "@/lib/statutes";
 import {
   chatStore,
   useChatHistory,
@@ -31,6 +30,30 @@ const SUGGESTIONS = [
 const GREETING_TEXT =
   "Hi — I'm your statute assistant. Ask me about a contributing factor, a vehicle code section, or describe a fact pattern, and I'll surface the relevant statutes.";
 
+function linkify(text: string) {
+  const URL_RE = /(https?:\/\/[^\s)\]"'>]+)/g;
+  const parts: (string | React.ReactNode)[] = [];
+  let last = 0;
+  let m: RegExpExecArray | null;
+  while ((m = URL_RE.exec(text)) !== null) {
+    if (m.index > last) parts.push(text.slice(last, m.index));
+    parts.push(
+      <a
+        key={m.index}
+        href={m[0]}
+        target="_blank"
+        rel="noreferrer"
+        className="text-blue-400 underline hover:text-blue-300"
+      >
+        {m[0]}
+      </a>,
+    );
+    last = m.index + m[0].length;
+  }
+  if (last < text.length) parts.push(text.slice(last));
+  return parts.length > 0 ? parts : text;
+}
+
 function renderText(text: string) {
   const lines = text.split("\n");
   return lines.map((line, i) => {
@@ -41,7 +64,7 @@ function renderText(text: string) {
           p.startsWith("**") && p.endsWith("**") ? (
             <strong key={j} className="font-semibold">{p.slice(2, -2)}</strong>
           ) : (
-            <span key={j}>{p}</span>
+            <span key={j}>{linkify(p)}</span>
           ),
         )}
         {i < lines.length - 1 && <br />}
@@ -90,13 +113,6 @@ export function ChatWidget() {
   const removeAttachment = (filename: string) =>
     setAttachments((prev) => prev.filter((a) => a.filename !== filename));
 
-  const { data: statutes = STATUTES } = useQuery({
-    queryKey: ["statutes"],
-    queryFn: api.statutes,
-    staleTime: 60_000,
-    placeholderData: STATUTES,
-  });
-
   useEffect(() => {
     if (open && scrollRef.current) {
       scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
@@ -143,46 +159,34 @@ export function ChatWidget() {
     setAttachments([]);
     setBusy(true);
 
+    let answer: string;
+    let pulled: Statute[] = [];
     try {
-      const [chatRes, hitsRes] = await Promise.allSettled([
-        api.chat({
-          message: text || "Please analyze the attached file(s).",
-          history: priorHistory,
-          attached_files: attachedNow,
-        }),
-        api.search(text || filenames.join(" "), 6),
-      ]);
-
-      const answer =
-        chatRes.status === "fulfilled"
-          ? chatRes.value.text
-          : `_(chat backend unavailable: ${
-              chatRes.reason instanceof Error ? chatRes.reason.message : "unknown error"
-            })_`;
-
-      const matched: Statute[] = [];
-      if (hitsRes.status === "fulfilled") {
-        const seen = new Set<string>();
-        for (const h of hitsRes.value) {
-          const stat = statutes.find((s) => s.source.url === h.source_url);
-          if (stat && !seen.has(stat.id)) {
-            seen.add(stat.id);
-            matched.push(stat);
-            if (matched.length >= 3) break;
-          }
-        }
-      }
-
-      updateMessages((m) =>
-        m.map((msg) =>
-          msg.id === placeholderId
-            ? { ...msg, text: answer, statutes: matched, pending: false }
-            : msg,
-        ),
-      );
-    } finally {
-      setBusy(false);
+      const chatResult = await api.chat({
+        message: text || "Please analyze the attached file(s).",
+        history: priorHistory,
+        attached_files: attachedNow,
+      });
+      answer = chatResult.text;
+      pulled = chatResult.statutes ?? [];
+    } catch (err) {
+      answer = `_(chat backend unavailable: ${
+        err instanceof Error ? err.message : "unknown error"
+      })_`;
     }
+
+    // Cap at 3 cards in the widget surface — same as the prior search-based
+    // matching, but now pulled directly from the model's tool calls.
+    const matched = pulled.slice(0, 3);
+
+    updateMessages((m) =>
+      m.map((msg) =>
+        msg.id === placeholderId
+          ? { ...msg, text: answer, statutes: matched, pending: false }
+          : msg,
+      ),
+    );
+    setBusy(false);
   };
 
   const onKey = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {

@@ -1,0 +1,100 @@
+{
+  "id": "CACI-213",
+  "edition": "2026",
+  "number": "213",
+  "title": "Adoptive Admissions",
+  "title_full": "Adoptive Admissions",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 135,
+  "page_end": 135,
+  "instruction_text": "213. Adoptive Admissions\nY ou have heard evidence that [ name of declarant ] made the following\nstatement: [ describe statement ]. Y ou may consider that statement as\nevidence against [ name of party against whom statement was offered ] only\nif you ﬁnd that all of the following conditions are true:\n1. The statement was made to [ name of party against whom statement\nwas offered ] or made in [his/her/ nonbinary pronoun ] presence;\n2. [ Name of party against whom statement was offered ] heard and\nunderstood the statement;\n3. [ Name of party against whom statement was offered ] would, under\nall the circumstances, naturally have denied the statement if [he/\nshe/nonbinary pronoun ] thought it was not true;\n3. AND\n4. [ Name of party against whom statement was offered ] could have\ndenied it but did not.\nIf you decide that any of these conditions are not true, you must not\nconsider for any purpose either the statement or [ name of party against\nwhom statement was offered ]'s response.\n[Y ou must not consider this evidence against any other party.]",
+  "directions_for_use": "Under Evidence Code section 403(c), the court must instruct the jury to disregard\nthe evidence of an adoptive admission if it ﬁnds that the preliminary facts do not\nexist.\nFor statements of a party opponent, see CACI No. 212, Statements of a Party\nOpponent. Evasive conduct falls under this instruction rather than under CACI\nNo. 212.",
+  "sources_and_authority": [
+    {
+      "raw": "Determination of Preliminary Facts. Evidence Code section 403.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "403",
+          "display": "Evidence Code section 403",
+          "raw": "Evidence Code section 403",
+          "span": [
+            36,
+            61
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Adoptive Admissions. Evidence Code section 1221.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "1221",
+          "display": "Evidence Code section 1221",
+          "raw": "Evidence Code section 1221",
+          "span": [
+            21,
+            47
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"When a person makes a statement in the presence of a party to an action under\ncircumstances that would normally call for a response if the statement were\nuntrue, the statement is admissible for the limited purpose of showing the party's\nreaction to it. His silence, evasion, or equivocation may be considered as a tacit\nadmission of the statements made in his presence.\" ( In re Estate of Neilson\n61",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "403",
+      "display": "Evidence Code section 403",
+      "raw": "Evidence Code section 403",
+      "span": [
+        36,
+        61
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/403"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1221",
+      "display": "Evidence Code section 1221",
+      "raw": "Evidence Code section 1221",
+      "span": [
+        21,
+        47
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/1221"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "403",
+      "display": "Evidence Code section 403(c)",
+      "raw": "Evidence Code section 403(c)",
+      "span": [
+        6,
+        34
+      ],
+      "subsection": "c",
+      "role": "directions",
+      "statute_key": "CA/EVID/403/c"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

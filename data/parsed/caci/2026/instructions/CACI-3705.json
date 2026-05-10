@@ -1,0 +1,357 @@
+{
+  "id": "CACI-3705",
+  "edition": "2026",
+  "number": "3705",
+  "title": "Existence of “Agency” Relationship Disputed",
+  "title_full": "Existence of “Agency” Relationship Disputed",
+  "title_statute": null,
+  "series": "3700",
+  "series_title": "Series 3700 Vicarious Responsibility",
+  "page_start": 2627,
+  "page_end": 2629,
+  "instruction_text": "3705. Existence of \"Agency\" Relationship Disputed\n[Name of plaintiff ] claims that [ name of agent ] was [ name of defendant ]'s\nagent and that [ name of defendant ] is therefore responsible for [ name of\nagent]'s conduct.\nIf [ name of plaintiff ] proves that [ name of defendant ] gave [ name of agent ]\nauthority to act on [his/her/ nonbinary pronoun/its] behalf, then [ name of\nagent] was [ name of defendant ]'s agent. This authority may be shown by\nwords or may be implied by the parties' conduct. This authority cannot\nbe shown by the words of [ name of agent ] alone.",
+  "directions_for_use": "This instruction should be used when the factual setting involves a relationship other\nthan employment, such as homeowner-real estate agent or franchisor-franchisee. For\nan instruction for use for employment, give CACI No. 3704, Existence of\n\"Employee\" Status Disputed . The secondary factors (a) through (j) in CACI No.\n3704 may be given with this instruction also. (See Secci v. United Independent Taxi\nDrivers, Inc. (2017) 8 Cal. App.5th 846, 855 [214 Cal. Rptr.3d 379].)",
+  "sources_and_authority": [
+    {
+      "raw": "\"Agent\" Deﬁned. Civil Code section 2295.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "2295",
+          "display": "Civil Code section 2295",
+          "raw": "Civil Code section 2295",
+          "span": [
+            16,
+            39
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[A] principal who personally engages in no misconduct may be vicariously\nliable for the tortious act committed by an agent within the course and scope of\nthe agency. [Citation.] Agency is the relationship which results from the\nmanifestation of consent by one person to another that the other shall act on his\nbehalf and subject to his control, and consent by the other so to act . . . .\n[Citation.] While the existence of an agency relationship is 'typically a question\nof fact, when ' \"the evidence is susceptible of but a single inference,\" ' summary\njudgment may be appropriate.\" ( Barenborg v. Sigma Alpha Epsilon Fraternity\n(2019) 33 Cal. App.5th 70, 85 [244 Cal. Rptr.3d 680], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Barenborg v. Sigma Alpha Epsilon Fraternity",
+          "year": 2019,
+          "volume": 33,
+          "reporter": "Cal.App.5th",
+          "page": 70,
+          "pin": "85",
+          "raw": "Barenborg v. Sigma Alpha Epsilon Fraternity (2019) 33 Cal. App.5th 70, 85",
+          "span": [
+            587,
+            660
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" ' \"The existence of an agency is a factual question within the province of the\ntrier of fact whose determination may not be disturbed on appeal if supported by\nsubstantial evidence. [Citation.]\" [Citation.] Inferences drawn from conﬂicting\nevidence by the trier of fact are generally upheld. [Citation.]' 'Only when the\nessential facts are not in conﬂict will an agency determination be made as a\nmatter of law. [Citation.]' \" ( Secci, supra, 8 Cal. App.5th at p. 854.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "The burden of proving the existence of an agency rests on the one affirming its\nexistence. ( Burbank v. National Casualty Co. (1941) 43 Cal. App.2d 773, 781\n[111 P.2d 740].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Burbank v. National Casualty Co.",
+          "year": 1941,
+          "volume": 43,
+          "reporter": "Cal.App.2d",
+          "page": 773,
+          "pin": "781",
+          "raw": "Burbank v. National Casualty Co. (1941) 43 Cal. App.2d 773, 781",
+          "span": [
+            93,
+            156
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "One who performs a mere favor for another without being subject to any legal\n741\nduty of service and without assenting to right of control is not an agent, because\nthe agency relationship rests upon mutual consent. ( Hanks v. Carter & Higgins\nof Cal. , Inc. (1967) 250 Cal. App.2d 156, 161 [58 Cal. Rptr. 190].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "An agency must rest upon an agreement. ( D'Acquisto v. Evola (1949) 90\nCal. App.2d 210, 213 [202 P.2d 596].) \"Agency may be implied from the\ncircumstances and conduct of the parties.\" ( Michelson v. Hamada (1994) 29\nCal. App.4th 1566, 1579 [36 Cal. Rptr.2d 343], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "D'Acquisto v. Evola",
+          "year": 1949,
+          "volume": 90,
+          "reporter": "Cal.App.2d",
+          "page": 210,
+          "pin": "213",
+          "raw": "D'Acquisto v. Evola (1949) 90 Cal. App.2d 210, 213",
+          "span": [
+            41,
+            91
+          ]
+        },
+        {
+          "name": "Michelson v. Hamada",
+          "year": 1994,
+          "volume": 29,
+          "reporter": "Cal.App.4th",
+          "page": 1566,
+          "pin": "1579",
+          "raw": "Michelson v. Hamada (1994) 29 Cal. App.4th 1566, 1579",
+          "span": [
+            186,
+            239
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Whether a person performing work for another is an agent or an independent\ncontractor depends primarily upon whether the one for whom the work is done\nhas the legal right to control the activities of the alleged agent. . . . It is not\nessential that the right of control be exercised or that there be actual supervision\nof the work of the agent. The existence of the right of control and supervision\nestablishes the existence of an agency relationship.\" ( Malloy v. Fong (1951) 37\nCal. 2d 356, 370 [232 P.2d 241], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Malloy v. Fong",
+          "year": 1951,
+          "volume": 37,
+          "reporter": "Cal.2d",
+          "page": 356,
+          "pin": "370",
+          "raw": "Malloy v. Fong (1951) 37 Cal. 2d 356, 370",
+          "span": [
+            457,
+            498
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"For an agency relationship to exist, the asserted principal must have a sufficient\nright to control the relevant aspect of the purported agent's day-to-day\noperations.\" ( Barenborg, supra, 33 Cal. App.5th at p. 85.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "When the principal controls only the results of the work and not the means by\nwhich it is accomplished, an independent contractor relationship is established.\n(White v. Uniroyal, Inc. (1984) 155 Cal. App.3d 1, 25 [202 Cal. Rptr. 141],\noverruled on other grounds in Soule v. GM Corp. (1994) 8 Cal. 4th 548 [34\nCal. Rptr.2d 607, 882 P.2d 298].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "White v. Uniroyal, Inc.",
+          "year": 1984,
+          "volume": 155,
+          "reporter": "Cal.App.3d",
+          "page": 1,
+          "pin": "25",
+          "raw": "White v. Uniroyal, Inc. (1984) 155 Cal. App.3d 1, 25",
+          "span": [
+            160,
+            212
+          ]
+        },
+        {
+          "name": "Soule v. GM Corp.",
+          "year": 1994,
+          "volume": 8,
+          "reporter": "Cal.4th",
+          "page": 548,
+          "pin": null,
+          "raw": "Soule v. GM Corp. (1994) 8 Cal. 4th 548",
+          "span": [
+            265,
+            304
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" '[W]hether an agency relationship has been created or exists is determined by\nthe relation of the parties as they in fact exist by agreement or acts [citation],\nand the primary right of control is particularly persuasive. [Citations.] Other\nfactors may be considered to determine if an independent contractor is acting as\nan agent, including: whether the \"principal\" and \"agent\" are engaged in distinct\noccupations; the skill required to perform the \"agent's\" work; whether the\n\"principal\" or \"agent\" supplies the workplace and tools; the length of time for\ncompletion; whether the work is part of the 'principal's\" regular business; and\nwhether the parties intended to create an agent/principal relationship.\n[Citation.]' \" ( Secci, supra, 8 Cal. App.5th at p. 855.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]here is substantial overlap in the factors for determining whether one is an\nemployee or an agent.\" ( Jackson v. AEG Live, LLC (2015) 233 Cal. App.4th\n1156, 1184 [183 Cal. Rptr.3d 394].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Jackson v. AEG Live, LLC",
+          "year": 2015,
+          "volume": 233,
+          "reporter": "Cal.App.4th",
+          "page": 1156,
+          "pin": "1184",
+          "raw": "Jackson v. AEG Live, LLC (2015) 233 Cal. App.4th 1156, 1184",
+          "span": [
+            106,
+            165
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Agency and independent contractorship are not necessarily mutually exclusive\nlegal categories as independent contractor and servant or employee are. In other\nwords, an agent may also be an independent contractor. One who contracts to act\non behalf of another and subject to the other's control, except with respect to his\nphysical conduct, is both an agent and an independent contractor.\" ( Jackson,\nsupra, 233 Cal. App.4th at p. 1184, original italics, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[Defendant] argues that when public regulations require a company to exert\nCACI No. 3705 VICARIOUS RESPONSIBILITY\n742\ncontrol over its independent contractors, evidence of that government-mandated\ncontrol cannot support a ﬁnding of vicarious liability based on agency. This\nargument conﬂicts with the policy behind the regulated hirer exception, which\nemphasizes that the effectiveness of public regulations 'would be impaired if the\ncarrier could circumvent them by having the regulated operations conducted by\nan independent contractor.' \" ( Secci, supra, 8 Cal. App.5th at pp. 860–861.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "3 Witkin, Summary of California Law (11th ed. 2017) Agency and Employment,\n§§101–105\nGreenwald et al., California Practice Guide: Real Property Transactions, Ch. 2-C\nBroker' s Relationship and Obligations to Principal and Third Parties , ¶ 2:120 et\nseq. (The Rutter Group)\nHaning et al., California Practice Guide: Personal Injury, Ch. 2(II)-A, Vicarious\nLiability, ¶¶ 2:600, 2:611 (The Rutter Group)\n1 Levy et al., California Torts, Ch. 8, Vicarious Liability, §8.04 (Matthew Bender)\n2 California Employment Law, Ch. 30, Employers' Tort Liability to Third Parties for\nConduct of Employees , §30.04 (Matthew Bender)\n21 California Forms of Pleading and Practice, Ch. 248, Employer' s Liability for\nEmployee' s Torts, §248.51 (Matthew Bender)\n37 California Forms of Pleading and Practice, Ch. 427, Principal and Agent ,\n§427.12 (Matthew Bender)\n18 California Points and Authorities, Ch. 182, Principal and Agent , §182.30 et seq.\n(Matthew Bender)\nCalifornia Civil Practice: Torts §§3:26–3:27 (Thomson Reuters)\nVICARIOUS RESPONSIBILITY CACI No. 3705\n743",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "2295",
+      "display": "Civil Code section 2295",
+      "raw": "Civil Code section 2295",
+      "span": [
+        16,
+        39
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/2295"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Barenborg v. Sigma Alpha Epsilon Fraternity",
+      "year": 2019,
+      "volume": 33,
+      "reporter": "Cal.App.5th",
+      "page": 70,
+      "pin": "85",
+      "raw": "Barenborg v. Sigma Alpha Epsilon Fraternity (2019) 33 Cal. App.5th 70, 85",
+      "span": [
+        587,
+        660
+      ],
+      "role": "sources",
+      "case_key": "33 Cal.App.5th 70"
+    },
+    {
+      "name": "Burbank v. National Casualty Co.",
+      "year": 1941,
+      "volume": 43,
+      "reporter": "Cal.App.2d",
+      "page": 773,
+      "pin": "781",
+      "raw": "Burbank v. National Casualty Co. (1941) 43 Cal. App.2d 773, 781",
+      "span": [
+        93,
+        156
+      ],
+      "role": "sources",
+      "case_key": "43 Cal.App.2d 773"
+    },
+    {
+      "name": "D'Acquisto v. Evola",
+      "year": 1949,
+      "volume": 90,
+      "reporter": "Cal.App.2d",
+      "page": 210,
+      "pin": "213",
+      "raw": "D'Acquisto v. Evola (1949) 90 Cal. App.2d 210, 213",
+      "span": [
+        41,
+        91
+      ],
+      "role": "sources",
+      "case_key": "90 Cal.App.2d 210"
+    },
+    {
+      "name": "Michelson v. Hamada",
+      "year": 1994,
+      "volume": 29,
+      "reporter": "Cal.App.4th",
+      "page": 1566,
+      "pin": "1579",
+      "raw": "Michelson v. Hamada (1994) 29 Cal. App.4th 1566, 1579",
+      "span": [
+        186,
+        239
+      ],
+      "role": "sources",
+      "case_key": "29 Cal.App.4th 1566"
+    },
+    {
+      "name": "Malloy v. Fong",
+      "year": 1951,
+      "volume": 37,
+      "reporter": "Cal.2d",
+      "page": 356,
+      "pin": "370",
+      "raw": "Malloy v. Fong (1951) 37 Cal. 2d 356, 370",
+      "span": [
+        457,
+        498
+      ],
+      "role": "sources",
+      "case_key": "37 Cal.2d 356"
+    },
+    {
+      "name": "White v. Uniroyal, Inc.",
+      "year": 1984,
+      "volume": 155,
+      "reporter": "Cal.App.3d",
+      "page": 1,
+      "pin": "25",
+      "raw": "White v. Uniroyal, Inc. (1984) 155 Cal. App.3d 1, 25",
+      "span": [
+        160,
+        212
+      ],
+      "role": "sources",
+      "case_key": "155 Cal.App.3d 1"
+    },
+    {
+      "name": "Soule v. GM Corp.",
+      "year": 1994,
+      "volume": 8,
+      "reporter": "Cal.4th",
+      "page": 548,
+      "pin": null,
+      "raw": "Soule v. GM Corp. (1994) 8 Cal. 4th 548",
+      "span": [
+        265,
+        304
+      ],
+      "role": "sources",
+      "case_key": "8 Cal.4th 548"
+    },
+    {
+      "name": "Jackson v. AEG Live, LLC",
+      "year": 2015,
+      "volume": 233,
+      "reporter": "Cal.App.4th",
+      "page": 1156,
+      "pin": "1184",
+      "raw": "Jackson v. AEG Live, LLC (2015) 233 Cal. App.4th 1156, 1184",
+      "span": [
+        106,
+        165
+      ],
+      "role": "sources",
+      "case_key": "233 Cal.App.4th 1156"
+    },
+    {
+      "name": "See Secci v. United Independent Taxi Drivers, Inc.",
+      "year": 2017,
+      "volume": 8,
+      "reporter": "Cal.App.5th",
+      "page": 846,
+      "pin": "855",
+      "raw": "See Secci v. United Independent Taxi Drivers, Inc. (2017) 8 Cal. App.5th 846, 855",
+      "span": [
+        368,
+        449
+      ],
+      "role": "directions",
+      "case_key": "8 Cal.App.5th 846"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

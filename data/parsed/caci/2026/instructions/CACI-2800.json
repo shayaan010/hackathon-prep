@@ -1,0 +1,791 @@
+{
+  "id": "CACI-2800",
+  "edition": "2026",
+  "number": "2800",
+  "title": "Employer’s Affirmative Defense—Injury Covered by Workers’ Compensation",
+  "title_full": "Employer’s Affirmative Defense—Injury Covered by Workers’ Compensation",
+  "title_statute": null,
+  "series": "2800",
+  "series_title": "Series 2800 Workers’ Compensation",
+  "page_start": 2016,
+  "page_end": 2021,
+  "instruction_text": "2800. Employer's Affirmative Defense–Injury Covered by\nWorkers' Compensation\n[Name of defendant ] claims that [ name of plaintiff ] was [ name of\ndefendant]'s employee and therefore can only recover under California's\nWorkers' Compensation Act. To succeed on this defense, [ name of\ndefendant] must prove all of the following:\n1. That [ name of plaintiff ] was [ name of defendant ]'s employee;\n2. That [ name of defendant ] [had workers' compensation insurance\n[covering [ name of plaintiff ] at the time of injury]/was self-insured\nfor workers' compensation claims [at the time of [ name of\nplaintiff]'s injury]];\n3. That [ name of plaintiff ]'s injury occurred while [he/she /nonbinary\npronoun] was working, or performing a task for or related to the\nwork [ name of defendant ] hired [him/her/ nonbinary pronoun ] to do;\nand\n4. That this [task/work] contributed to causing the injury.\nAny person performing services for another, other than as an\nindependent contractor, is presumed to be an employee.",
+  "directions_for_use": "This instruction is intended for use if the plaintiff is suing a defendant claiming to\nbe the plaintiff's employer. This instruction is not intended for use if the plaintiff is\nsuing under an exception to the workers' compensation exclusivity rule.\nElement 3 expresses the requirement that the employee be acting in the course of\nemployment at the time of injury. Element 4 expresses what is referred to as\n\"industrial causation\"; that the work was a contributing cause of the injury. The two\nrequirements are different, and both must be proved. (See Lee v. West Kern Water\nDist. (2016) 5 Cal. App.5th 606, 625 [210 Cal. Rptr.3d 362].) For an instruction\nasserting that element 3 does not apply, see CACI No. 2805, Employee Not Within\nCourse of Employment–Employer Conduct Unrelated to Employment .\nFor other instructions regarding employment status, such as special employment and\nindependent contractors, see instructions in the Vicarious Responsibility series\n(CACI Nos. 3700–3726). These instructions may need to be modiﬁed to ﬁt this\ncontext.\nLabor Code section 3351 deﬁnes \"employee\" for purposes of workers'\ncompensation. Labor Code section 3352 sets forth exceptions. This instruction\n130\nshould not be given if the plaintiff/employee has been determined to fall within a\nstatutory exception.\nIf appropriate to the facts of the case, see instructions on the going-and-coming rule\nin the Vicarious Responsibility series. These instructions may need to be modiﬁed to\nﬁt this context.",
+  "sources_and_authority": [
+    {
+      "raw": "Exclusive Remedy. Labor Code section 3602(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3602",
+          "display": "Labor Code section 3602",
+          "raw": "Labor Code section 3602(a)",
+          "span": [
+            18,
+            44
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3602",
+          "display": "Labor Code section 3602(a)",
+          "raw": "Labor Code section 3602(a)",
+          "span": [
+            18,
+            44
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Conditions of Compensation. Labor Code section 3600(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3600",
+          "display": "Labor Code section 3600",
+          "raw": "Labor Code section 3600(a)",
+          "span": [
+            28,
+            54
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3600",
+          "display": "Labor Code section 3600(a)",
+          "raw": "Labor Code section 3600(a)",
+          "span": [
+            28,
+            54
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "If Conditions of Compensation Not Met. Labor Code section 3602(c).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3602",
+          "display": "Labor Code section 3602",
+          "raw": "Labor Code section 3602(c)",
+          "span": [
+            39,
+            65
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3602",
+          "display": "Labor Code section 3602(c)",
+          "raw": "Labor Code section 3602(c)",
+          "span": [
+            39,
+            65
+          ],
+          "subsection": "c"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Employee\" Deﬁned. Labor Code section 3351.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3351",
+          "display": "Labor Code section 3351",
+          "raw": "Labor Code section 3351",
+          "span": [
+            19,
+            42
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Presumption of Employment Status. Labor Code section 3357.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3357",
+          "display": "Labor Code section 3357",
+          "raw": "Labor Code section 3357",
+          "span": [
+            34,
+            57
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Failure to Secure Payment of Compensation. Labor Code section 3706.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3706",
+          "display": "Labor Code section 3706",
+          "raw": "Labor Code section 3706",
+          "span": [
+            43,
+            66
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he basis for the exclusivity rule in workers' compensation law is the\n'presumed \"compensation bargain,\" pursuant to which the employer assumes\nliability for industrial personal injury or death without regard to fault in\nexchange for limitations on the amount of that liability. The employee is\nafforded relatively swift and certain payment of beneﬁts to cure or relieve the\neffects of industrial injury without having to prove fault but, in exchange, gives\nup the wider range of damages potentially available in tort.' \" ( Fermino v.\nFedco, Inc. (1994) 7 Cal. 4th 701, 708 [30 Cal. Rptr.2d 18, 872 P.2d 559], internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Fermino v. Fedco, Inc.",
+          "year": 1994,
+          "volume": 7,
+          "reporter": "Cal.4th",
+          "page": 701,
+          "pin": "708",
+          "raw": "Fermino v. Fedco, Inc. (1994) 7 Cal. 4th 701, 708",
+          "span": [
+            527,
+            576
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Because an employer faced with a civil complaint seeking to enforce a common\nlaw remedy which does not state facts indicating coverage by the act bears the\nburden of pleading and proving 'that the (act) is a bar to the employee's\nordinary remedy,' we believe that the burden includes a showing by the\nemployer-defendant, through appropriate pleading and proof, that he had\n'secured the payment of compensation' in accordance with the provisions of the\nact.\" ( Doney v. Tambouratgis (1979) 23 Cal. 3d 91, 98, fn. 8 [151 Cal. Rptr. 347,\n587 P.2d 1160], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Doney v. Tambouratgis",
+          "year": 1979,
+          "volume": 23,
+          "reporter": "Cal.3d",
+          "page": 91,
+          "pin": "98",
+          "raw": "Doney v. Tambouratgis (1979) 23 Cal. 3d 91, 98",
+          "span": [
+            461,
+            507
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A defendant need not plead and prove that it has purchased workers'\ncompensation insurance where the plaintiff alleges facts that otherwise bring the\ncase within the exclusive province of workers' compensation law, and no facts\npresented in the pleadings or at trial negate the workers' compensation law's\napplication or the employer's insurance coverage.\" ( Gibbs v. American Airlines,\nInc. (1999) 74 Cal. App.4th 1, 14 [87 Cal. Rptr.2d 554], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Gibbs v. American Airlines, Inc.",
+          "year": 1999,
+          "volume": 74,
+          "reporter": "Cal.App.4th",
+          "page": 1,
+          "pin": "14",
+          "raw": "Gibbs v. American Airlines, Inc. (1999) 74 Cal. App.4th 1, 14",
+          "span": [
+            360,
+            421
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he fact that an employee has received workers' compensation beneﬁts from\nsome source does not bar the employee's civil action against an uninsured\nemployer. Instead, '[t]he price that must be paid by each employer for immunity\nfrom tort liability is the purchase of a workers' compensation policy [and where\nthe employer chooses] not to pay that price . . . it should not be immune from\nWORKERS' COMPENSA TION CACI No. 2800\n131\nliability.' \" ( Huffman v. City of Poway (2000) 84 Cal. App.4th 975, 987 [101\nCal. Rptr.2d 325], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Huffman v. City of Poway",
+          "year": 2000,
+          "volume": 84,
+          "reporter": "Cal.App.4th",
+          "page": 975,
+          "pin": "987",
+          "raw": "Huffman v. City of Poway (2000) 84 Cal. App.4th 975, 987",
+          "span": [
+            448,
+            504
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Under the Workers' Compensation Act, employees are automatically entitled to\nrecover beneﬁts for injuries 'arising out of and in the course of the\nemployment.' 'When the conditions of compensation exist, recovery under the\nworkers' compensation scheme \"is the exclusive remedy against an employer for\ninjury or death of an employee.\" ' \" ( Piscitelli v. Friedenberg (2001) 87\nCal. App.4th 953, 986 [105 Cal. Rptr.2d 88], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Piscitelli v. Friedenberg",
+          "year": 2001,
+          "volume": 87,
+          "reporter": "Cal.App.4th",
+          "page": 953,
+          "pin": "986",
+          "raw": "Piscitelli v. Friedenberg (2001) 87 Cal. App.4th 953, 986",
+          "span": [
+            341,
+            398
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Unlike many other states, in California workers' compensation provides the\nexclusive remedy for at least some intentional torts committed by an employer.\nFermino described a 'tripartite system for classifying injuries arising in the\ncourse of employment. First, there are injuries caused by employer negligence or\nwithout employer fault that are compensated at the normal rate under the\nworkers' compensation system. Second, there are injuries caused by ordinary\nemployer conduct that intentionally, knowingly or recklessly harms an employee,\nfor which the employee may be entitled to extra compensation under section\n4553. Third, there are certain types of intentional employer conduct which bring\nthe employer beyond the boundaries of the compensation bargain, for which a\ncivil action may be brought.' \" ( Gunnell v. Metrocolor Laboratories, Inc. (2001)\n92 Cal. App.4th 710, 723 [112 Cal. Rptr.2d 195], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Gunnell v. Metrocolor Laboratories, Inc.",
+          "year": 2001,
+          "volume": 92,
+          "reporter": "Cal.App.4th",
+          "page": 710,
+          "pin": "723",
+          "raw": "Gunnell v. Metrocolor Laboratories, Inc. (2001) 92 Cal. App.4th 710, 723",
+          "span": [
+            810,
+            882
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"It has long been established in this jurisdiction that, generally speaking, a\ndefendant in a civil action who claims to be one of that class of persons\nprotected from an action at law by the provisions of the Workers' Compensation\nAct bears the burden of pleading and proving, as an affirmative defense to the\naction, the existence of the conditions of compensation set forth in the statute\nwhich are necessary to its application.\" ( Doney, supra, 23 Cal. 3d at p. 96,\ninternal citations and footnote omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"California courts have held worker's compensation proceedings to be the\nexclusive remedy for certain third party claims deemed collateral to or derivative\nof the employee's injury. Courts have held that the exclusive jurisdiction\nprovisions bar civil actions against employers by nondependent parents of an\nemployee for the employee's wrongful death, by an employee's spouse for loss\nof the employee's services or consortium, and for emotional distress suffered by\na spouse in witnessing the employee's injuries.\" ( Snyder v. Michael' s Stores, Inc.\n(1997) 16 Cal. 4th 991, 997 [68 Cal. Rptr.2d 476, 945 P.2d 781], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'An employer-employee relationship must exist in order to bring the . . . Act\ninto effect. (§3600)' However, the coverage of the Act extends beyond those\nwho have entered into 'traditional contract[s] of hire.' '[S]ection 3351 provides\nbroadly that for the purpose of the . . . Act, \" 'Employee' means every person in\nthe service of an employer under any appointment or contract of hire or\napprenticeship, express or implied, oral or written . . . .' \" Given this 'section's\nexplicit use of the disjunctive,' a contract of hire is not 'a prerequisite' to the\nexistence of an employment relationship. Moreover, under section 3357, '[a]ny\nCACI No. 2800 WORKERS' COMPENSA TION\n132\nperson rendering service for another, other than as an independent contractor, or\nunless expressly excluded . . . , is presumed to be an employee.' \" ( Arriaga v.\nCounty of Alameda (1995) 9 Cal. 4th 1055, 1060–1061 [40 Cal. Rptr.2d 116, 892\nP.2d 150], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Arriaga v. County of Alameda",
+          "year": 1995,
+          "volume": 9,
+          "reporter": "Cal.4th",
+          "page": 1055,
+          "pin": "1060–1061",
+          "raw": "Arriaga v. County of Alameda (1995) 9 Cal. 4th 1055, 1060–1061",
+          "span": [
+            832,
+            894
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Given these broad statutory contours, we believe that an 'employment'\nrelationship sufficient to bring the act into play cannot be determined simply\nfrom technical contractual or common law conceptions of employment but must\ninstead be resolved by reference to the history and fundamental purposes\nunderlying the Workmen's Compensation Act.\" ( Laeng v. Workmen' s Comp.\nAppeals Bd. (1972) 6 Cal. 3d 771, 777 [100 Cal. Rptr. 377, 494 P.2d 1], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[C]ourts generally are more exacting in requiring proof of an employment\nrelationship when such a relationship is asserted as a defense by the employer to\na common law action.\" ( Spradlin v. Cox (1988) 201 Cal. App.3d 799, 808 [247\nCal. Rptr. 347], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Spradlin v. Cox",
+          "year": 1988,
+          "volume": 201,
+          "reporter": "Cal.App.3d",
+          "page": 799,
+          "pin": "808",
+          "raw": "Spradlin v. Cox (1988) 201 Cal. App.3d 799, 808",
+          "span": [
+            180,
+            227
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The question of whether a person is an employee may be one of fact, of mixed\nlaw and fact, or of law only. Where the facts are undisputed, the question is one\nof law, and the Court of Appeal may independently review those facts to\ndetermine the correct answer.\" ( Barragan v. Workers' Comp. Appeals Bd. (1987)\n195 Cal. App.3d 637, 642 [240 Cal. Rptr. 811], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Barragan v. Workers' Comp. Appeals Bd.",
+          "year": 1987,
+          "volume": 195,
+          "reporter": "Cal.App.3d",
+          "page": 637,
+          "pin": "642",
+          "raw": "Barragan v. Workers' Comp. Appeals Bd. (1987) 195 Cal. App.3d 637, 642",
+          "span": [
+            265,
+            335
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"An employee may have more than one employer for purposes of workers'\ncompensation, and, in situations of dual employers, the second or 'special'\nemployer may enjoy the same immunity from a common law negligence action\non account of an industrial injury as does the ﬁrst or 'general' employer.\nIdentifying and analyzing such situations 'is one of the most ancient and\ncomplex questions of law in not only compensation but tort law.' \" ( Santa Cruz\nPoultry, Inc. v. Superior Court (1987) 194 Cal. App.3d 575, 578 [239 Cal. Rptr.\n578], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Santa Cruz Poultry, Inc. v. Superior Court",
+          "year": 1987,
+          "volume": 194,
+          "reporter": "Cal.App.3d",
+          "page": 575,
+          "pin": "578",
+          "raw": "Santa Cruz Poultry, Inc. v. Superior Court (1987) 194 Cal. App.3d 575, 578",
+          "span": [
+            437,
+            511
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In determining whether an employee is covered within the compensation system\nand thus entitled to recover compensation beneﬁts, the 'deﬁnitional reach of\nthese covered employment relationships is very broad.' A covered employee is\n'every person in the service of an employer under any appointment or contract\nof hire or apprenticeship, express or implied, oral or written.' 'Any person\nrendering service for another, other than as an independent contractor, or unless\nexpressly excluded herein, is presumed to be an employee.' . . . [T]hese\nprovisions mandate a broad and generous interpretation in favor of inclusion in\nthe system. Necessarily the other side of that coin is a presumption against the\navailability of a tort action where an employment relation exists. One result\ncannot exist without the other. Further, this result does not depend upon\n'informed consent,' but rather on the parties' legal status. . . . [W]here the facts\nof employment are not disputed, the existence of a covered relationship is a\nquestion of law.\" ( Santa Cruz Poultry, Inc., supra , 194 Cal. App.3d at pp.\n583–584, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'The requirement of . . . section 3600 is twofold. On the one hand, the injury\nWORKERS' COMPENSA TION CACI No. 2800\n133\nmust occur \"in the course of the employment.\" This concept \"ordinarily refers to\nthe time, place, and circumstances under which the injury occurs.\" Thus \" '[a]n\nemployee is in the \"course of his employment\" when he does those reasonable\nthings which his contract with his employment expressly or impliedly permits\nhim to do.' \" And, ipso facto, an employee acts within the course of his\nemployment when \" 'performing a duty imposed upon him by his employer and\none necessary to perform before the terms of the contract [are] mutually\nsatisﬁed.' \" ' [¶] 'On the other hand, the statute requires that an injury \"arise out\nof\" the employment. . . . It has long been settled that for an injury to \"arise out\nof the employment\" it must \"occur by reason of a condition or incident of [the]\nemployment . . . .\" That is, the employment and the injury must be linked in\nsome causal fashion.' \" ( LaTourette v. Workers' Comp. Appeals Bd. (1998) 17\nCal. 4th 644, 651 [72 Cal. Rptr.2d 217, 951 P.2d 1184], internal citations and\nfootnote omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "LaTourette v. Workers' Comp. Appeals Bd.",
+          "year": 1998,
+          "volume": 17,
+          "reporter": "Cal.4th",
+          "page": 644,
+          "pin": "651",
+          "raw": "LaTourette v. Workers' Comp. Appeals Bd. (1998) 17 Cal. 4th 644, 651",
+          "span": [
+            1009,
+            1077
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The requirements that an injury arise out of employment or be proximately\ncaused by employment are sometimes referred to together as the requirement of\nindustrial causation. It is a looser concept of causation than the concept of\nproximate cause employed in tort law. In general, the industrial causation\nrequirement is satisﬁed 'if the connection between work and the injury [is] a\ncontributing cause of the injury . . . .' \" ( Lee v. West Kern Water Dist. (2016) 5\nCal. App.5th 606, 624 [210 Cal. Rptr.3d 362], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lee v. West Kern Water Dist.",
+          "year": 2016,
+          "volume": 5,
+          "reporter": "Cal.App.5th",
+          "page": 606,
+          "pin": "624",
+          "raw": "Lee v. West Kern Water Dist. (2016) 5 Cal. App.5th 606, 624",
+          "span": [
+            430,
+            489
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"For our purposes here, it is important that 'arising out of' and 'in the course of'\nare two separate requirements. Even if it is conceded that an employee was\ninjured while performing job tasks in the workplace during working hours, the\nexclusivity rule applies only if it also is shown that the work was a contributing\ncause of the injury.\" ( Lee, supra , 5 Cal. App.5th at p. 625.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The jury could properly make this ﬁnding [that conduct was not within scope\nof employment] by applying special instruction No. 5, the instruction stating that\nan employer's conduct falls outside the workers' compensation scheme when an\nemployer steps outside of its proper role or engages in conduct unrelated to the\nemployment. This instruction stated the doctrine of Fermino correctly.\" (Lee,\nsupra, 5 Cal. App.5th at pp. 628–629.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The concept of 'scope of employment' in tort is more restrictive than the phrase\n'arising out of and in the course of employment,' used in workers'\ncompensation.\" ( Tognazzini v. San Luis Coastal Uniﬁed School Dist. (2001) 86\nCal. App.4th 1053, 1057 [103 Cal. Rptr.2d 790], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Tognazzini v. San Luis Coastal Uniﬁed School Dist.",
+          "year": 2001,
+          "volume": 86,
+          "reporter": "Cal.App.4th",
+          "page": 1053,
+          "pin": "1057",
+          "raw": "Tognazzini v. San Luis Coastal Uniﬁed School Dist. (2001) 86 Cal. App.4th 1053, 1057",
+          "span": [
+            166,
+            250
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Whether an employee's injury arose out of and in the course of her\nemployment is generally a question of fact to be determined in light of the\ncircumstances of the particular case. However, where the facts are undisputed,\nresolution of the question becomes a matter of law.\" ( Wright v. Beverly Fabrics,\nInc. (2002) 95 Cal. App.4th 346, 353 [115 Cal. Rptr.2d 503], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Wright v. Beverly Fabrics, Inc.",
+          "year": 2002,
+          "volume": 95,
+          "reporter": "Cal.App.4th",
+          "page": 346,
+          "pin": "353",
+          "raw": "Wright v. Beverly Fabrics, Inc. (2002) 95 Cal. App.4th 346, 353",
+          "span": [
+            278,
+            341
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Injuries sustained while an employee is performing tasks within his or her\nCACI No. 2800 WORKERS' COMPENSA TION\n134\nemployment contract but outside normal work hours are within the course of\nemployment. The rationale is that the employee is still acting in furtherance of\nthe employer's business.\" ( Wright, supra, 95 Cal. App.4th at p. 354.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "2 Witkin, Summary of California Law (11th ed. 2017) Workers' Compensation,\n§§23–49\nChin et al., California Practice Guide: Employment Litigation, Ch. 15-F, California\nWorkers' Compensation Act Preemption , ¶¶ 15:520 et seq., 15:555 (The Rutter\nGroup)\n1 Hanna, California Law of Employee Injuries and Workers' Compensation (2d ed.)\nCh. 4, §§4.03–4.06 (Matthew Bender)\n1 Herlick, California Workers' Compensation Law (6th ed.), Ch. 10, The Injury ,\n§10.09 (Matthew Bender)\n1 California Employment Law, Ch. 20, Liability for Work-Related Injuries , §20.10\n(Matthew Bender)\n1 Levy et al., California Torts, Ch. 10, Effect of Workers' Compensation Law ,\n§§10.02, 10.03[3], 10.10 (Matthew Bender)\n51 California Forms of Pleading and Practice, Ch. 577, Workers' Compensation ,\n§§577.310, 577.530 (Matthew Bender)\n23 California Points and Authorities, Ch. 239, Workers' Compensation Exclusive\nRemedy Doctrine (Matthew Bender)\nWORKERS' COMPENSA TION CACI No. 2800\n135",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3602",
+      "display": "Labor Code section 3602",
+      "raw": "Labor Code section 3602(a)",
+      "span": [
+        18,
+        44
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/3602"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3602",
+      "display": "Labor Code section 3602(a)",
+      "raw": "Labor Code section 3602(a)",
+      "span": [
+        18,
+        44
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/LAB/3602/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3600",
+      "display": "Labor Code section 3600",
+      "raw": "Labor Code section 3600(a)",
+      "span": [
+        28,
+        54
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/3600"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3600",
+      "display": "Labor Code section 3600(a)",
+      "raw": "Labor Code section 3600(a)",
+      "span": [
+        28,
+        54
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/LAB/3600/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3602",
+      "display": "Labor Code section 3602(c)",
+      "raw": "Labor Code section 3602(c)",
+      "span": [
+        39,
+        65
+      ],
+      "subsection": "c",
+      "role": "sources",
+      "statute_key": "CA/LAB/3602/c"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3351",
+      "display": "Labor Code section 3351",
+      "raw": "Labor Code section 3351",
+      "span": [
+        19,
+        42
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/3351"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3357",
+      "display": "Labor Code section 3357",
+      "raw": "Labor Code section 3357",
+      "span": [
+        34,
+        57
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/3357"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3706",
+      "display": "Labor Code section 3706",
+      "raw": "Labor Code section 3706",
+      "span": [
+        43,
+        66
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/3706"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3352",
+      "display": "Labor Code section 3352",
+      "raw": "Labor Code section 3352",
+      "span": [
+        1129,
+        1152
+      ],
+      "role": "directions",
+      "statute_key": "CA/LAB/3352"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Fermino v. Fedco, Inc.",
+      "year": 1994,
+      "volume": 7,
+      "reporter": "Cal.4th",
+      "page": 701,
+      "pin": "708",
+      "raw": "Fermino v. Fedco, Inc. (1994) 7 Cal. 4th 701, 708",
+      "span": [
+        527,
+        576
+      ],
+      "role": "sources",
+      "case_key": "7 Cal.4th 701"
+    },
+    {
+      "name": "Doney v. Tambouratgis",
+      "year": 1979,
+      "volume": 23,
+      "reporter": "Cal.3d",
+      "page": 91,
+      "pin": "98",
+      "raw": "Doney v. Tambouratgis (1979) 23 Cal. 3d 91, 98",
+      "span": [
+        461,
+        507
+      ],
+      "role": "sources",
+      "case_key": "23 Cal.3d 91"
+    },
+    {
+      "name": "Gibbs v. American Airlines, Inc.",
+      "year": 1999,
+      "volume": 74,
+      "reporter": "Cal.App.4th",
+      "page": 1,
+      "pin": "14",
+      "raw": "Gibbs v. American Airlines, Inc. (1999) 74 Cal. App.4th 1, 14",
+      "span": [
+        360,
+        421
+      ],
+      "role": "sources",
+      "case_key": "74 Cal.App.4th 1"
+    },
+    {
+      "name": "Huffman v. City of Poway",
+      "year": 2000,
+      "volume": 84,
+      "reporter": "Cal.App.4th",
+      "page": 975,
+      "pin": "987",
+      "raw": "Huffman v. City of Poway (2000) 84 Cal. App.4th 975, 987",
+      "span": [
+        448,
+        504
+      ],
+      "role": "sources",
+      "case_key": "84 Cal.App.4th 975"
+    },
+    {
+      "name": "Piscitelli v. Friedenberg",
+      "year": 2001,
+      "volume": 87,
+      "reporter": "Cal.App.4th",
+      "page": 953,
+      "pin": "986",
+      "raw": "Piscitelli v. Friedenberg (2001) 87 Cal. App.4th 953, 986",
+      "span": [
+        341,
+        398
+      ],
+      "role": "sources",
+      "case_key": "87 Cal.App.4th 953"
+    },
+    {
+      "name": "Gunnell v. Metrocolor Laboratories, Inc.",
+      "year": 2001,
+      "volume": 92,
+      "reporter": "Cal.App.4th",
+      "page": 710,
+      "pin": "723",
+      "raw": "Gunnell v. Metrocolor Laboratories, Inc. (2001) 92 Cal. App.4th 710, 723",
+      "span": [
+        810,
+        882
+      ],
+      "role": "sources",
+      "case_key": "92 Cal.App.4th 710"
+    },
+    {
+      "name": "Arriaga v. County of Alameda",
+      "year": 1995,
+      "volume": 9,
+      "reporter": "Cal.4th",
+      "page": 1055,
+      "pin": "1060–1061",
+      "raw": "Arriaga v. County of Alameda (1995) 9 Cal. 4th 1055, 1060–1061",
+      "span": [
+        832,
+        894
+      ],
+      "role": "sources",
+      "case_key": "9 Cal.4th 1055"
+    },
+    {
+      "name": "Spradlin v. Cox",
+      "year": 1988,
+      "volume": 201,
+      "reporter": "Cal.App.3d",
+      "page": 799,
+      "pin": "808",
+      "raw": "Spradlin v. Cox (1988) 201 Cal. App.3d 799, 808",
+      "span": [
+        180,
+        227
+      ],
+      "role": "sources",
+      "case_key": "201 Cal.App.3d 799"
+    },
+    {
+      "name": "Barragan v. Workers' Comp. Appeals Bd.",
+      "year": 1987,
+      "volume": 195,
+      "reporter": "Cal.App.3d",
+      "page": 637,
+      "pin": "642",
+      "raw": "Barragan v. Workers' Comp. Appeals Bd. (1987) 195 Cal. App.3d 637, 642",
+      "span": [
+        265,
+        335
+      ],
+      "role": "sources",
+      "case_key": "195 Cal.App.3d 637"
+    },
+    {
+      "name": "Santa Cruz Poultry, Inc. v. Superior Court",
+      "year": 1987,
+      "volume": 194,
+      "reporter": "Cal.App.3d",
+      "page": 575,
+      "pin": "578",
+      "raw": "Santa Cruz Poultry, Inc. v. Superior Court (1987) 194 Cal. App.3d 575, 578",
+      "span": [
+        437,
+        511
+      ],
+      "role": "sources",
+      "case_key": "194 Cal.App.3d 575"
+    },
+    {
+      "name": "LaTourette v. Workers' Comp. Appeals Bd.",
+      "year": 1998,
+      "volume": 17,
+      "reporter": "Cal.4th",
+      "page": 644,
+      "pin": "651",
+      "raw": "LaTourette v. Workers' Comp. Appeals Bd. (1998) 17 Cal. 4th 644, 651",
+      "span": [
+        1009,
+        1077
+      ],
+      "role": "sources",
+      "case_key": "17 Cal.4th 644"
+    },
+    {
+      "name": "Lee v. West Kern Water Dist.",
+      "year": 2016,
+      "volume": 5,
+      "reporter": "Cal.App.5th",
+      "page": 606,
+      "pin": "624",
+      "raw": "Lee v. West Kern Water Dist. (2016) 5 Cal. App.5th 606, 624",
+      "span": [
+        430,
+        489
+      ],
+      "role": "sources",
+      "case_key": "5 Cal.App.5th 606"
+    },
+    {
+      "name": "Tognazzini v. San Luis Coastal Uniﬁed School Dist.",
+      "year": 2001,
+      "volume": 86,
+      "reporter": "Cal.App.4th",
+      "page": 1053,
+      "pin": "1057",
+      "raw": "Tognazzini v. San Luis Coastal Uniﬁed School Dist. (2001) 86 Cal. App.4th 1053, 1057",
+      "span": [
+        166,
+        250
+      ],
+      "role": "sources",
+      "case_key": "86 Cal.App.4th 1053"
+    },
+    {
+      "name": "Wright v. Beverly Fabrics, Inc.",
+      "year": 2002,
+      "volume": 95,
+      "reporter": "Cal.App.4th",
+      "page": 346,
+      "pin": "353",
+      "raw": "Wright v. Beverly Fabrics, Inc. (2002) 95 Cal. App.4th 346, 353",
+      "span": [
+        278,
+        341
+      ],
+      "role": "sources",
+      "case_key": "95 Cal.App.4th 346"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:19+00:00"
+}

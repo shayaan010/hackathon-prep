@@ -1,0 +1,172 @@
+{
+  "id": "CACI-421",
+  "edition": "2026",
+  "number": "421",
+  "title": "Negligence per se: Rebuttal of the Presumption of Negligence (Violation of Minor Excused)",
+  "title_full": "Negligence per se: Rebuttal of the Presumption of Negligence (Violation of Minor Excused)",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 345,
+  "page_end": 345,
+  "instruction_text": "421. Negligence per se: Rebuttal of the Presumption of\nNegligence (Violation of Minor Excused)\n[Name of plaintiff/defendant ] claims that even if [he/she/ nonbinary pronoun]\nviolated the law, [he/she/ nonbinary pronoun] is not negligent because [he/\nshe/nonbinary pronoun] was years old at the time of the incident.\nIf you ﬁnd that [ name of plaintiff/defendant ] was as careful as a\nreasonably careful child of the same age, intelligence, knowledge, and\nexperience would have been in the same situation, then [ name of plaintiff/\ndefendant] was not negligent.",
+  "directions_for_use": "This instruction does not apply if the minor is engaging in an adult activity. (Evid.\nCode, §669(b)(2).)",
+  "sources_and_authority": [
+    {
+      "raw": "Rebuttal of Presumption of Negligence per se: Minor. Evidence Code section\n669(b)(2).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "669",
+          "display": "Evidence Code section 669",
+          "raw": "Evidence Code section\n669(b)(2)",
+          "span": [
+            53,
+            84
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "669",
+          "display": "Evidence Code section 669(b)",
+          "raw": "Evidence Code section\n669(b)(2)",
+          "span": [
+            53,
+            84
+          ],
+          "subsection": "b"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "669",
+          "display": "Evidence Code section 669(2)",
+          "raw": "Evidence Code section\n669(b)(2)",
+          "span": [
+            53,
+            84
+          ],
+          "subsection": "2"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The per se negligence instruction is predicated on the theory that the\nLegislature has adopted a statutory standard of conduct that no reasonable man\nwould violate, and that all reasonable adults would or should know such\nstandard. But this concept does not apply to children.\" ( Daun v. Truax (1961) 56\nCal. 2d 647, 654 [16 Cal. Rptr. 351, 365 P.2d 407].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Daun v. Truax",
+          "year": 1961,
+          "volume": 56,
+          "reporter": "Cal.2d",
+          "page": 647,
+          "pin": "654",
+          "raw": "Daun v. Truax (1961) 56 Cal. 2d 647, 654",
+          "span": [
+            281,
+            321
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "An exception to this reduced standard of care may be found if the minor was\nengaging in an adult activity, such as driving. ( Prichard v. V eterans Cab Co.\n(1965) 63 Cal. 2d 727, 732 [47 Cal. Rptr. 904, 408 P.2d 360]; Neudeck v.\nBransten (1965) 233 Cal. App.2d 17, 21 [43 Cal. Rptr. 250]; see also Rest.2d\nTorts, §283A, com. c.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Neudeck v. Bransten",
+          "year": 1965,
+          "volume": 233,
+          "reporter": "Cal.App.2d",
+          "page": 17,
+          "pin": "21",
+          "raw": "Neudeck v. Bransten (1965) 233 Cal. App.2d 17, 21",
+          "span": [
+            218,
+            267
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1002–1028\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §§1.28–1.31\n1 Levy et al., California Torts, Ch. 3, Proof of Negligence , §3.13 (Matthew Bender)\n33 California Forms of Pleading and Practice, Ch. 380, Negligence (Matthew\nBender)\n271",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "669",
+      "display": "Evidence Code section 669",
+      "raw": "Evidence Code section\n669(b)(2)",
+      "span": [
+        53,
+        84
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/669"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "669",
+      "display": "Evidence Code section 669(b)",
+      "raw": "Evidence Code section\n669(b)(2)",
+      "span": [
+        53,
+        84
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/EVID/669/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "669",
+      "display": "Evidence Code section 669(2)",
+      "raw": "Evidence Code section\n669(b)(2)",
+      "span": [
+        53,
+        84
+      ],
+      "subsection": "2",
+      "role": "sources",
+      "statute_key": "CA/EVID/669/2"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Daun v. Truax",
+      "year": 1961,
+      "volume": 56,
+      "reporter": "Cal.2d",
+      "page": 647,
+      "pin": "654",
+      "raw": "Daun v. Truax (1961) 56 Cal. 2d 647, 654",
+      "span": [
+        281,
+        321
+      ],
+      "role": "sources",
+      "case_key": "56 Cal.2d 647"
+    },
+    {
+      "name": "Neudeck v. Bransten",
+      "year": 1965,
+      "volume": 233,
+      "reporter": "Cal.App.2d",
+      "page": 17,
+      "pin": "21",
+      "raw": "Neudeck v. Bransten (1965) 233 Cal. App.2d 17, 21",
+      "span": [
+        218,
+        267
+      ],
+      "role": "sources",
+      "case_key": "233 Cal.App.2d 17"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

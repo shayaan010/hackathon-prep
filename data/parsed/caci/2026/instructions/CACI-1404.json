@@ -1,0 +1,176 @@
+{
+  "id": "CACI-1404",
+  "edition": "2026",
+  "number": "1404",
+  "title": "False Arrest Without Warrant—Affirmative Defense—Private Citizen—Probable Cause to Arrest",
+  "title_full": "False Arrest Without Warrant—Affirmative Defense—Private Citizen—Probable Cause to Arrest",
+  "title_statute": null,
+  "series": "1400",
+  "series_title": "Series 1400 False Imprisonment",
+  "page_start": 974,
+  "page_end": 975,
+  "instruction_text": "1404. False Arrest Without Warrant–Affirmative Defense–Private\nCitizen–Probable Cause to Arrest\n[Name of defendant ] claims the citizen's arrest was not wrongful because\n[he/she/nonbinary pronoun] had the authority to cause [ name of plaintiff ]\nto be arrested without a warrant.\n[If [ name of defendant ] proves that [ name of plaintiff ] committed or\nattempted to commit a crime in [ name of defendant ]'s presence, then the\narrest was lawful.]\n[or]\n[If [ name of defendant ] proves that a felony was committed and that\n[insert facts, that if proved, would establish that defendant had reasonable\ncause to believe that plaintiff had committed a felony ], then the arrest was\nlawful.]",
+  "directions_for_use": "The judge must insert in the brackets the fact or facts that are actually controverted\nand that may be necessary to arrive at the probable cause determination. There may\nbe one or more facts or combinations of facts that are necessary to make this\ndetermination, in which case they can be phrased in the alternative.\nIf a criminal act is alleged as justiﬁcation, it may be necessary to instruct whether\nthe crime is a felony, misdemeanor, or public offense.\nPenal Code section 837 provides, in part, that a warrantless arrest may be made if a\nperson has committed a felony, although not in the citizen's presence. While the\nrequirement of probable cause is not explicitly stated, it would seem that the citizen\nmust always have probable cause at the time of the arrest and that subsequent\nconviction of a felony does not sanitize an improper arrest.",
+  "sources_and_authority": [
+    {
+      "raw": "Citizen's Arrest. Penal Code section 837.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "837",
+          "display": "Penal Code section 837",
+          "raw": "Penal Code section 837",
+          "span": [
+            18,
+            40
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Felonies and Misdemeanors. Penal Code section 17(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "17",
+          "display": "Penal Code section 17",
+          "raw": "Penal Code section 17(a)",
+          "span": [
+            27,
+            51
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "17",
+          "display": "Penal Code section 17(a)",
+          "raw": "Penal Code section 17(a)",
+          "span": [
+            27,
+            51
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"What is probable cause, as has been often announced, is not a question of fact\nfor the jury, but one of law for the court, to be decided in accordance with the\ncircumstances at the time of the detention, unhampered by the outcome of the\ncharge against the plaintiff of the public offense or by the conclusions of the trial\ncourt.\" ( Collyer v. S.H. Kress Co. (1936) 5 Cal. 2d 175, 181 [54 P.2d 20], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Collyer v. S.H. Kress Co.",
+          "year": 1936,
+          "volume": 5,
+          "reporter": "Cal.2d",
+          "page": 175,
+          "pin": "181",
+          "raw": "Collyer v. S.H. Kress Co. (1936) 5 Cal. 2d 175, 181",
+          "span": [
+            334,
+            385
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'Presence' is not mere physical proximity but is determined by whether the\n900\noffense is apparent to the [person]'s senses.\" ( People v. Sjosten (1968) 262\nCal. App.2d 539, 543–544 [68 Cal. Rptr. 832], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Sjosten",
+          "year": 1968,
+          "volume": 262,
+          "reporter": "Cal.App.2d",
+          "page": 539,
+          "pin": "543–544",
+          "raw": "People v. Sjosten (1968) 262 Cal. App.2d 539, 543–544",
+          "span": [
+            130,
+            183
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§511, 512\n3 Levy et al., California Torts, Ch. 42, False Imprisonment and False Arrest ,\n§42.22 (Matthew Bender)\n22 California Forms of Pleading and Practice, Ch. 257, False Imprisonment ,\n§257.19 (Matthew Bender)\n10 California Points and Authorities, Ch. 103, False Imprisonment , §103.60 et seq.\n(Matthew Bender)\nCalifornia Civil Practice: Torts §13:11 (Thomson Reuters)\nFALSE IMPRISONMENT CACI No. 1404\n901",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "837",
+      "display": "Penal Code section 837",
+      "raw": "Penal Code section 837",
+      "span": [
+        18,
+        40
+      ],
+      "role": "sources",
+      "statute_key": "CA/PEN/837"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "17",
+      "display": "Penal Code section 17",
+      "raw": "Penal Code section 17(a)",
+      "span": [
+        27,
+        51
+      ],
+      "role": "sources",
+      "statute_key": "CA/PEN/17"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "17",
+      "display": "Penal Code section 17(a)",
+      "raw": "Penal Code section 17(a)",
+      "span": [
+        27,
+        51
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/PEN/17/a"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Collyer v. S.H. Kress Co.",
+      "year": 1936,
+      "volume": 5,
+      "reporter": "Cal.2d",
+      "page": 175,
+      "pin": "181",
+      "raw": "Collyer v. S.H. Kress Co. (1936) 5 Cal. 2d 175, 181",
+      "span": [
+        334,
+        385
+      ],
+      "role": "sources",
+      "case_key": "5 Cal.2d 175"
+    },
+    {
+      "name": "People v. Sjosten",
+      "year": 1968,
+      "volume": 262,
+      "reporter": "Cal.App.2d",
+      "page": 539,
+      "pin": "543–544",
+      "raw": "People v. Sjosten (1968) 262 Cal. App.2d 539, 543–544",
+      "span": [
+        130,
+        183
+      ],
+      "role": "sources",
+      "case_key": "262 Cal.App.2d 539"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

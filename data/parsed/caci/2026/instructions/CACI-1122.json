@@ -1,0 +1,159 @@
+{
+  "id": "CACI-1122",
+  "edition": "2026",
+  "number": "1122",
+  "title": "Affirmative Defense—Weather Conditions Affecting Streets and Highways",
+  "title_full": "Affirmative Defense—Weather Conditions Affecting Streets and Highways (Gov. Code, § 831)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "GOV",
+    "section": "831",
+    "display": "Government Code section 831",
+    "raw": "Gov. Code, § 831",
+    "span": [
+      0,
+      16
+    ]
+  },
+  "series": "1100",
+  "series_title": "Series 1100 Dangerous Condition of Public Property",
+  "page_start": 787,
+  "page_end": 788,
+  "instruction_text": "1122. Affirmative Defense–Weather Conditions Affecting Streets\nand Highways (Gov. Code, §831)\n[Name of defendant ] claims it cannot be held responsible for [ name of\nplaintiff]'s harm because the harm was caused by [ insert weather\ncondition, e.g., fog, wind, rain, ﬂood, ice, or snow ] affecting the use of a\npublic street or highway. To succeed, [ name of defendant ] must prove\nboth of the following:\n1. That [ insert weather condition, e.g., fog, wind, rain, ﬂood, ice, or\nsnow] affecting the use of a public street or highway was the\ncause of [ name of plaintiff ]'s harm; and\n2. That a reasonably careful person using the public streets and\nhighways would have noticed the [ insert weather condition, e.g.,\nfog, wind, rain, ﬂood, ice, or snow ] and anticipated its effect on the\nuse of the street or highway.",
+  "directions_for_use": "The immunity provided by Government Code section 831 does not apply to: (1)\neffects that would not be reasonably apparent to and anticipated by a person\nexercising reasonable care, (2) situations where the weather effect combines with\nother factors that make the road dangerous, (3) sunlight that blinds drivers, or (4)\nwhere the weather conditions resulted in physical damage to or deterioration of the\nstreet or highway. ( Erfurt v. State of California (1983) 141 Cal. App.3d 837,\n845–846 [190 Cal. Rptr. 569]; see Flournoy v. State of California (1969) 275\nCal. App.2d 806, 814 [80 Cal. Rptr. 485].)",
+  "sources_and_authority": [
+    {
+      "raw": "No Liability for Weather Conditions. Government Code section 831.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "831",
+          "display": "Government Code section 831",
+          "raw": "Government Code section 831",
+          "span": [
+            37,
+            64
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Weather immunity is an affirmative defense. ( Bossi v. State of California (1981)\n119 Cal. App.3d 313, 321 [174 Cal. Rptr. 93] [jury properly instructed regarding\nsection 831, but issue was moot because jury did not reach it]; see also Allyson\nv. Department of Transportation (1997) 53 Cal. App.4th 1304, 1319 [62\nCal. Rptr.2d 490].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bossi v. State of California",
+          "year": 1981,
+          "volume": 119,
+          "reporter": "Cal.App.3d",
+          "page": 313,
+          "pin": "321",
+          "raw": "Bossi v. State of California (1981) 119 Cal. App.3d 313, 321",
+          "span": [
+            46,
+            106
+          ]
+        },
+        {
+          "name": "Allyson v. Department of Transportation",
+          "year": 1997,
+          "volume": 53,
+          "reporter": "Cal.App.4th",
+          "page": 1304,
+          "pin": "1319",
+          "raw": "Allyson v. Department of Transportation (1997) 53 Cal. App.4th 1304, 1319",
+          "span": [
+            236,
+            309
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "CalTrans's duty regarding transitory conditions affecting road surface and\nhighway safety is discretionary, not mandatory. ( Allyson, supra, 53 Cal. App.4th\nat p. 1319.) Accordingly, section 831 immunity is available to CalTrans in\nappropriate circumstances. ( Id. at pp. 1320–1321.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §333\n713\n2 California Government Tort Liability Practice (Cont.Ed.Bar 4th ed.)\n§§12.80–12.81\n5 Levy et al., California Torts, Ch. 61, Particular Liabilities and Immunities of\nPublic Entities and Public Employees , §61.03[5] (Matthew Bender)\n40 California Forms of Pleading and Practice, Ch. 464, Public Entities and Offıcers:\nCalifornia Government Claims Act , §464.85 (Matthew Bender)\n19A California Points and Authorities, Ch. 196, Public Entities , §§196.12, 196.301\n(Matthew Bender)\nCACI No. 1122 DANGEROUS CONDITION OF PUBLIC PROPERTY\n714",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "831",
+      "display": "Government Code section 831",
+      "raw": "Gov. Code, § 831",
+      "span": [
+        0,
+        16
+      ],
+      "role": "title",
+      "statute_key": "CA/GOV/831"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Bossi v. State of California",
+      "year": 1981,
+      "volume": 119,
+      "reporter": "Cal.App.3d",
+      "page": 313,
+      "pin": "321",
+      "raw": "Bossi v. State of California (1981) 119 Cal. App.3d 313, 321",
+      "span": [
+        46,
+        106
+      ],
+      "role": "sources",
+      "case_key": "119 Cal.App.3d 313"
+    },
+    {
+      "name": "Allyson v. Department of Transportation",
+      "year": 1997,
+      "volume": 53,
+      "reporter": "Cal.App.4th",
+      "page": 1304,
+      "pin": "1319",
+      "raw": "Allyson v. Department of Transportation (1997) 53 Cal. App.4th 1304, 1319",
+      "span": [
+        236,
+        309
+      ],
+      "role": "sources",
+      "case_key": "53 Cal.App.4th 1304"
+    },
+    {
+      "name": "Erfurt v. State of California",
+      "year": 1983,
+      "volume": 141,
+      "reporter": "Cal.App.3d",
+      "page": 837,
+      "pin": "845–846",
+      "raw": "Erfurt v. State of California (1983) 141 Cal. App.3d 837, 845–846",
+      "span": [
+        425,
+        490
+      ],
+      "role": "directions",
+      "case_key": "141 Cal.App.3d 837"
+    },
+    {
+      "name": "Flournoy v. State of California",
+      "year": 1969,
+      "volume": 275,
+      "reporter": "Cal.App.2d",
+      "page": 806,
+      "pin": "814",
+      "raw": "Flournoy v. State of California (1969) 275 Cal. App.2d 806, 814",
+      "span": [
+        517,
+        580
+      ],
+      "role": "directions",
+      "case_key": "275 Cal.App.2d 806"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:11+00:00"
+}

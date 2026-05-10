@@ -1,0 +1,541 @@
+{
+  "id": "CACI-2102",
+  "edition": "2026",
+  "number": "2102",
+  "title": "Presumed Measure of Damages for Conversion",
+  "title_full": "Presumed Measure of Damages for Conversion (Civ. Code,§ 3336)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "CIV",
+    "section": "3336",
+    "display": "Civil Code section 3336",
+    "raw": "Civ. Code,§ 3336",
+    "span": [
+      0,
+      16
+    ]
+  },
+  "series": "2100",
+  "series_title": "Series 2100 Conversion",
+  "page_start": 1399,
+  "page_end": 1402,
+  "instruction_text": "2102. Presumed Measure of Damages for Conversion (Civ. Code,\n§3336)\nIf you decide that [ name of plaintiff ] has proved [his/her/ nonbinary\npronoun/its] claim against [ name of defendant ], you also must decide how\nmuch money will reasonably compensate [ name of plaintiff ] for the harm.\nThis compensation is called \"damages.\"\n[Name of plaintiff ] must prove the amount of [his/her/ nonbinary pronoun/\nits] damages. However, [ name of plaintiff ] does not have to prove the\nexact amount of damages that will provide reasonable compensation for\nthe harm. Y ou must not speculate or guess in awarding damages.\nThe following are the speciﬁc items of damages claimed by [ name of\nplaintiff]:\n1. [The fair market value of the [ insert item of personal property ] at\nthe time [ name of defendant ] wrongfully exercised control over it;]\n1. [or]\n1. [Special damages resulting from [ name of defendant ]'s conduct;]\n[and]\n2. Reasonable compensation for the time and money spent by [ name\nof plaintiff ] in attempting to recover the [ insert item of personal\nproperty]; [and]\n3. [Emotional distress suffered by [ name of plaintiff ] as a result of\n[name of defendant ]'s conduct.]\n[In order to recover special damages, [ name of plaintiff ] must prove:\n1. That [ describe special circumstances that require a measure of\ndamages other than value ];\n2. That it was reasonably foreseeable that special injury or harm\nwould result from the conversion; and\n3. That reasonable care on [ name of plaintiff ]'s part would not have\nprevented the loss.]\n[\"Fair market value\" is the highest price that a willing buyer would have\npaid to a willing seller, assuming:\n1. That there is no pressure on either one to buy or sell; and\n2. That the buyer and seller know all the uses and purposes for\nwhich the [ insert item ] is reasonably capable of being used.]\n1325",
+  "directions_for_use": "The third element of listed damages, emotional distress, is bracketed because it\nappears that such damages are recoverable only if the second alternative measure of\ndamages stated in the ﬁrst paragraph of Civil Code section 3336 applies. (See\nGonzales v. Pers. Storage (1997) 56 Cal. App.4th 464, 477 [65 Cal. Rptr.2d 473].)",
+  "sources_and_authority": [
+    {
+      "raw": "Damages for Wrongful Conversion. Civil Code section 3336.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3336",
+          "display": "Civil Code section 3336",
+          "raw": "Civil Code section 3336",
+          "span": [
+            33,
+            56
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Conversion of Negotiable Instruments. Commercial Code section 3420.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "COM",
+          "section": "3420",
+          "display": "Commercial Code section 3420",
+          "raw": "Commercial Code section 3420",
+          "span": [
+            38,
+            66
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Measure of Compensation for Property Taken. Code of Civil Procedure section\n1263.320(a).",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]e are of the opinion that section 3337 can only be held to apply to a\nsituation where the property was voluntarily applied by the party guilty of\nconversion to the beneﬁt of the injured party, and can have no application to a\nsituation such as here where the application was compelled by a legal duty.\"\n(Goldberg v. List (1938) 11 Cal. 2d 389, 393 [79 P.2d 1087].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Goldberg v. List",
+          "year": 1938,
+          "volume": 11,
+          "reporter": "Cal.2d",
+          "page": 389,
+          "pin": "393",
+          "raw": "Goldberg v. List (1938) 11 Cal. 2d 389, 393",
+          "span": [
+            308,
+            351
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Although the ﬁrst part of section 3336 appears to provide for alternative\nmeasures of recovery, the ﬁrst of the two measures, namely the value of the\nproperty converted at the time and place of conversion with interest from that\ntime, is generally considered to be the appropriate measure of damages in a\nconversion action. The determination of damages under the alternative provision\nis resorted to only where the determination on the basis of value at the time of\nconversion would be manifestly unjust.\" ( Myers v. Stephens (1965) 233\nCal. App.2d 104, 116 [43 Cal. Rptr. 420], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Myers v. Stephens",
+          "year": 1965,
+          "volume": 233,
+          "reporter": "Cal.App.2d",
+          "page": 104,
+          "pin": "116",
+          "raw": "Myers v. Stephens (1965) 233 Cal. App.2d 104, 116",
+          "span": [
+            509,
+            558
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"As a general rule, the value of the converted property is the appropriate\nmeasure of damages, and resort to the alternative occurs only where a\ndetermination of damages on the basis of value would be manifestly unjust.\nAccordingly, a person claiming damages under the alternative provision must\nplead and prove special circumstances that require a measure of damages other\nthan value, and the jury must determine whether it was reasonably foreseeable\nthat special injury or damage would result from the conversion.\" ( Lueter v. State\nof California (2002) 94 Cal. App.4th 1285, 1302 [115 Cal. Rptr.2d 68], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lueter v. State of California",
+          "year": 2002,
+          "volume": 94,
+          "reporter": "Cal.App.4th",
+          "page": 1285,
+          "pin": "1302",
+          "raw": "Lueter v. State of California (2002) 94 Cal. App.4th 1285, 1302",
+          "span": [
+            519,
+            582
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The damage measures set forth in the ﬁrst paragraph of section 3336 are in the\nalternative. The ﬁrst alternative is to compensate for the value of the property at\nthe time of conversion with interest from the time of the taking. The second\nalternative is compensation in a sum equal to the amount of loss legally caused\nby the conversion and which could have been avoided with a proper degree of\nprudence. Both of these alternatives are in addition to the damage element for\nthe time spent pursuing the converted property set forth in the second paragraph\nCACI No. 2102 CONVERSION\n1326\nof section 3336.\" ( Moreno v. Greenwood Auto Center (2001) 91 Cal. App.4th\n201, 209 [110 Cal. Rptr.2d 177], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Moreno v. Greenwood Auto Center",
+          "year": 2001,
+          "volume": 91,
+          "reporter": "Cal.App.4th",
+          "page": 201,
+          "pin": "209",
+          "raw": "Moreno v. Greenwood Auto Center (2001) 91 Cal. App.4th 201, 209",
+          "span": [
+            607,
+            670
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Conversion damages are calculated based on the detriment caused to the\nplaintiff. Such detriment caused by wrongful conversion of personal property is\npresumed to be the 'value of the property at the time of the conversion, with the\ninterest from that time, or, an amount sufficient to indemnify the party injured\nfor the loss which is the natural, reasonable and proximate result of the wrongful\nact complained of and which a proper degree of prudence on his part would not\nhave averted.' ' \"Money may be the subject of conversion if the claim involves a\nspeciﬁc, identiﬁable sum.\" ' \" ( Greif v. Sanin (2022) 74 Cal. App.5th 412, 449\n[289 Cal. Rptr.3d 484], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Greif v. Sanin",
+          "year": 2022,
+          "volume": 74,
+          "reporter": "Cal.App.5th",
+          "page": 412,
+          "pin": "449",
+          "raw": "Greif v. Sanin (2022) 74 Cal. App.5th 412, 449",
+          "span": [
+            590,
+            636
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Civil Code section 3336 sets out the presumptive measure of damages in\nconversion, which is rebuttable, save and except when section 3337 applies.\nUnder Civil Code section 3337, a defendant cannot rebut the presumption by\nclaiming that he applied the converted property to plaintiff's beneﬁt when he\ntook unlawful possession of the property from the beginning. Consequently, the\neffect of section 3337 is to prevent mitigation when property is stolen from the\nplaintiff and subsequently applied to his beneﬁt. In this situation, the defendant\nwill not be able to claim that his conversion beneﬁted plaintiff; he will thereby\nbe prevented from claiming an offset derived from his original wrong. In\ncontrast to this situation, if the particular facts of a case indicate, as in the\ninstant case, that the possession was lawful before the conversion occurred . . .\nCivil Code section 3337 is inapplicable, and a converter is not precluded from\nclaiming mitigation of damages.\" ( Dakota Gardens Apartment Investors \"B\" v.\nPudwill (1977) 75 Cal. App.3d 346, 351–352 [142 Cal. Rptr. 126].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3336",
+          "display": "Civil Code section 3336",
+          "raw": "Civil Code section 3336",
+          "span": [
+            1,
+            24
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3337",
+          "display": "Civil Code section 3337",
+          "raw": "Civil Code section 3337",
+          "span": [
+            154,
+            177
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3337",
+          "display": "Civil Code section 3337",
+          "raw": "Civil Code section 3337",
+          "span": [
+            863,
+            886
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]e conclude that notwithstanding further developments in the law of\nnegligence, damages for emotional distress growing out of a defendant's\nconversion of personal property are recoverable.\" ( Gonzales, supra, 56\nCal. App.4th at p. 477, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In the absence of special circumstances the appropriate measure of damages for\nconversion of personal property is the fair market value of that property plus\ninterest from the date of conversion, the standard ﬁrst listed in section 3336,\nCivil Code. However, where proof establishes an injury beyond that which\nwould be adequately compensated by the value of the property and interest, the\ncourt may award such amounts as will indemnify for all proximate reasonable\nloss caused by the wrongful act. Where damages for loss of use exceeds the\nlegal rate of interest, it is appropriate to award the former, but not both.\" ( Lint v.\nChisholm (1981) 121 Cal. App.3d 615, 624–625 [177 Cal. Rptr. 314], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lint v. Chisholm",
+          "year": 1981,
+          "volume": 121,
+          "reporter": "Cal.App.3d",
+          "page": 615,
+          "pin": "624–625",
+          "raw": "Lint v. Chisholm (1981) 121 Cal. App.3d 615, 624–625",
+          "span": [
+            622,
+            674
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'To entitle a party to such compensation the [evidence] should tend to show\nthat money was properly paid out and time properly lost in pursuit of the\nproperty, and how much.' Such evidence should be deﬁnite and certain.\nExpenses 'incurred in preparation for litigation and not in pursuit of property'\ncannot be allowed as damages under Civil Code section 3336. Additionally, any\nCONVERSION CACI No. 2102\n1327\nsuch compensation must be fair, i.e., reasonable.\" ( Haines v. Parra (1987) 193\nCal. App.3d 1553, 1559 [239 Cal. Rptr. 178], internal citations omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3336",
+          "display": "Civil Code section 3336",
+          "raw": "Civil Code section 3336",
+          "span": [
+            338,
+            361
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Haines v. Parra",
+          "year": 1987,
+          "volume": 193,
+          "reporter": "Cal.App.3d",
+          "page": 1553,
+          "pin": "1559",
+          "raw": "Haines v. Parra (1987) 193 Cal. App.3d 1553, 1559",
+          "span": [
+            464,
+            513
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A]lthough good faith and mistake are not defenses to an action for conversion,\nthe plaintiff's damages will be reduced if the defendant returns the property or\nthe plaintiff otherwise recovers the property.\" ( Krusi v. Bear , Stearns & Co.\n(1983) 144 Cal. App.3d 664, 673 [192 Cal. Rptr. 793], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Causes of action for conversion and trespass support an award for exemplary\ndamages.\" ( Krieger v. Paciﬁc Gas & Electric Co. (1981) 119 Cal. App.3d 137,\n148 [173 Cal. Rptr. 751], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Ordinarily 'value of the property' at the time of the conversion is determined by\nits market value at the time. However, '[w]here certain property has a peculiar\nvalue to a person recovering damages for deprivation thereof, or injury thereto,\nthat may be deemed to be its value . . . against a willful wrongdoer.' \" ( In re\nBrian S. (1982) 130 Cal. App.3d 523, 530 [181 Cal. Rptr. 778], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In an action for damages for conversion, it is the rule that the plaintiff, although\nowning but a limited or qualiﬁed interest in the property, may, as against a\nstranger who has no ownership therein, recover the full value of the property\nconverted.\" ( Camp v. Ortega (1962) 209 Cal. App.2d 275, 286 [25 Cal. Rptr.\n873], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Camp v. Ortega",
+          "year": 1962,
+          "volume": 209,
+          "reporter": "Cal.App.2d",
+          "page": 275,
+          "pin": "286",
+          "raw": "Camp v. Ortega (1962) 209 Cal. App.2d 275, 286",
+          "span": [
+            255,
+            301
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A plaintiff seeking recovery under the alternative provision of the statute must\ntherefore plead and prove the existence of 'special circumstances which require a\ndifferent measure of damages to be applied.' Having done so, the trier of fact\nmust then determine 'whether it was reasonably forseeable to a prudent person,\nhaving regard for the accompanying circumstances, that injury or damage would\nlikely result from his wrongful act.' \" ( Krueger v. Bank of America (1983) 145\nCal. App.3d 204, 215 [193 Cal. Rptr. 322], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Krueger v. Bank of America",
+          "year": 1983,
+          "volume": 145,
+          "reporter": "Cal.App.3d",
+          "page": 204,
+          "pin": "215",
+          "raw": "Krueger v. Bank of America (1983) 145 Cal. App.3d 204, 215",
+          "span": [
+            442,
+            500
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Defendants contend that the anticipated loss of proﬁts is not 'the natural,\nreasonable and proximate result of the wrongful act complained of,' within the\nmeaning of section 3336. Although no California case which has applied the\nalternative measure of damages in a conversion case has speciﬁcally deﬁned this\nlanguage, we are satisﬁed that its meaning is synonymous with the term\n'proximate cause' or 'legal cause.' These terms mean, in essence, 'that there be\nsome reasonable connection between the act or omission of the defendant and\nthe damage which the plaintiff has suffered.' In determining whether this\nconnection exists, the question is whether it was reasonably foreseeable to a\nprudent person, having regard for the accompanying circumstances, that injury or\ndamage would likely result from his wrongful act. This question being one of\nfact to be determined generally by the trier of fact.\" ( Myers, supra, 233\nCal. App.2d at pp. 119–120, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In exceptional circumstances, to avoid injustice, loss of proﬁts may be the\nmeasure.\" ( Newhart v. Pierce (1967) 254 Cal. App.2d 783, 794 [62 Cal. Rptr.\n553], internal citation omitted.)\nCACI No. 2102 CONVERSION\n1328",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Newhart v. Pierce",
+          "year": 1967,
+          "volume": 254,
+          "reporter": "Cal.App.2d",
+          "page": 783,
+          "pin": "794",
+          "raw": "Newhart v. Pierce (1967) 254 Cal. App.2d 783, 794",
+          "span": [
+            89,
+            138
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3336",
+      "display": "Civil Code section 3336",
+      "raw": "Civ. Code,§ 3336",
+      "span": [
+        0,
+        16
+      ],
+      "role": "title",
+      "statute_key": "CA/CIV/3336"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "COM",
+      "section": "3420",
+      "display": "Commercial Code section 3420",
+      "raw": "Commercial Code section 3420",
+      "span": [
+        38,
+        66
+      ],
+      "role": "sources",
+      "statute_key": "CA/COM/3420"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3337",
+      "display": "Civil Code section 3337",
+      "raw": "Civil Code section 3337",
+      "span": [
+        154,
+        177
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3337"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Goldberg v. List",
+      "year": 1938,
+      "volume": 11,
+      "reporter": "Cal.2d",
+      "page": 389,
+      "pin": "393",
+      "raw": "Goldberg v. List (1938) 11 Cal. 2d 389, 393",
+      "span": [
+        308,
+        351
+      ],
+      "role": "sources",
+      "case_key": "11 Cal.2d 389"
+    },
+    {
+      "name": "Myers v. Stephens",
+      "year": 1965,
+      "volume": 233,
+      "reporter": "Cal.App.2d",
+      "page": 104,
+      "pin": "116",
+      "raw": "Myers v. Stephens (1965) 233 Cal. App.2d 104, 116",
+      "span": [
+        509,
+        558
+      ],
+      "role": "sources",
+      "case_key": "233 Cal.App.2d 104"
+    },
+    {
+      "name": "Lueter v. State of California",
+      "year": 2002,
+      "volume": 94,
+      "reporter": "Cal.App.4th",
+      "page": 1285,
+      "pin": "1302",
+      "raw": "Lueter v. State of California (2002) 94 Cal. App.4th 1285, 1302",
+      "span": [
+        519,
+        582
+      ],
+      "role": "sources",
+      "case_key": "94 Cal.App.4th 1285"
+    },
+    {
+      "name": "Moreno v. Greenwood Auto Center",
+      "year": 2001,
+      "volume": 91,
+      "reporter": "Cal.App.4th",
+      "page": 201,
+      "pin": "209",
+      "raw": "Moreno v. Greenwood Auto Center (2001) 91 Cal. App.4th 201, 209",
+      "span": [
+        607,
+        670
+      ],
+      "role": "sources",
+      "case_key": "91 Cal.App.4th 201"
+    },
+    {
+      "name": "Greif v. Sanin",
+      "year": 2022,
+      "volume": 74,
+      "reporter": "Cal.App.5th",
+      "page": 412,
+      "pin": "449",
+      "raw": "Greif v. Sanin (2022) 74 Cal. App.5th 412, 449",
+      "span": [
+        590,
+        636
+      ],
+      "role": "sources",
+      "case_key": "74 Cal.App.5th 412"
+    },
+    {
+      "name": "Lint v. Chisholm",
+      "year": 1981,
+      "volume": 121,
+      "reporter": "Cal.App.3d",
+      "page": 615,
+      "pin": "624–625",
+      "raw": "Lint v. Chisholm (1981) 121 Cal. App.3d 615, 624–625",
+      "span": [
+        622,
+        674
+      ],
+      "role": "sources",
+      "case_key": "121 Cal.App.3d 615"
+    },
+    {
+      "name": "Haines v. Parra",
+      "year": 1987,
+      "volume": 193,
+      "reporter": "Cal.App.3d",
+      "page": 1553,
+      "pin": "1559",
+      "raw": "Haines v. Parra (1987) 193 Cal. App.3d 1553, 1559",
+      "span": [
+        464,
+        513
+      ],
+      "role": "sources",
+      "case_key": "193 Cal.App.3d 1553"
+    },
+    {
+      "name": "Camp v. Ortega",
+      "year": 1962,
+      "volume": 209,
+      "reporter": "Cal.App.2d",
+      "page": 275,
+      "pin": "286",
+      "raw": "Camp v. Ortega (1962) 209 Cal. App.2d 275, 286",
+      "span": [
+        255,
+        301
+      ],
+      "role": "sources",
+      "case_key": "209 Cal.App.2d 275"
+    },
+    {
+      "name": "Krueger v. Bank of America",
+      "year": 1983,
+      "volume": 145,
+      "reporter": "Cal.App.3d",
+      "page": 204,
+      "pin": "215",
+      "raw": "Krueger v. Bank of America (1983) 145 Cal. App.3d 204, 215",
+      "span": [
+        442,
+        500
+      ],
+      "role": "sources",
+      "case_key": "145 Cal.App.3d 204"
+    },
+    {
+      "name": "Newhart v. Pierce",
+      "year": 1967,
+      "volume": 254,
+      "reporter": "Cal.App.2d",
+      "page": 783,
+      "pin": "794",
+      "raw": "Newhart v. Pierce (1967) 254 Cal. App.2d 783, 794",
+      "span": [
+        89,
+        138
+      ],
+      "role": "sources",
+      "case_key": "254 Cal.App.2d 783"
+    },
+    {
+      "name": "See Gonzales v. Pers. Storage",
+      "year": 1997,
+      "volume": 56,
+      "reporter": "Cal.App.4th",
+      "page": 464,
+      "pin": "477",
+      "raw": "See Gonzales v. Pers. Storage (1997) 56 Cal. App.4th 464, 477",
+      "span": [
+        239,
+        300
+      ],
+      "role": "directions",
+      "case_key": "56 Cal.App.4th 464"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:15+00:00"
+}

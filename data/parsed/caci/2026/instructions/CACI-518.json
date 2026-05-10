@@ -1,0 +1,410 @@
+{
+  "id": "CACI-518",
+  "edition": "2026",
+  "number": "518",
+  "title": "Medical Malpractice: Res ipsa loquitur",
+  "title_full": "Medical Malpractice: Res ipsa loquitur",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 544,
+  "page_end": 547,
+  "instruction_text": "518. Medical Malpractice: Res ipsa loquitur\n[Name of plaintiff ] may prove that [ name of defendant ]'s negligence caused\n[his/her/nonbinary pronoun] harm if [he/she/ nonbinary pronoun] proves all\nof the following:\n1. That [ name of plaintiff ]'s harm ordinarily would not have\noccurred unless someone was negligent; [In deciding this issue,\nyou must consider [only] the testimony of the expert witnesses.]\n2. That the harm occurred while [ name of plaintiff ] was under the\ncare and control of [ name of defendant ]; and\n3. That [ name of plaintiff ]'s voluntary actions did not cause or\ncontribute to the event[s] that harmed [him/her/ nonbinary\npronoun].\nIf you decide that [ name of plaintiff ] did not prove one or more of these\nthree things, then you must decide whether [ name of defendant ] was\nnegligent in light of the other instructions I have read.\nIf you decide that [ name of plaintiff ] proved all of these three things, you\nmay, but are not required to, ﬁnd that [ name of defendant ] was negligent\nor that [ name of defendant ]'s negligence was a substantial factor in\ncausing [ name of plaintiff ]'s harm, or both.\n[Name of defendant ] contends that [he/she/ nonbinary pronoun/it] was not\nnegligent or that [his/her/ nonbinary pronoun/its] negligence, if any, did not\ncause [ name of plaintiff ] harm. If after weighing all of the evidence you\nbelieve that it is more probable than not that [ name of defendant ] was\nnegligent and that [his/her/ nonbinary pronoun/its] negligence was a\nsubstantial factor in causing [ name of plaintiff ]'s harm, you must decide\nin favor of [ name of plaintiff ]. Otherwise, you must decide in favor of\n[name of defendant ].",
+  "directions_for_use": "The ﬁrst paragraph of this instruction sets forth the three elements of res ipsa\nloquitur. The bracketed sentence in element 1 should be read only if expert\ntestimony is introduced. The word \"only\" within that sentence is to be used if the\ncourt has determined that the issue of the defendant's negligence involves matters\nbeyond common knowledge.\nThe second paragraph explains that if the plaintiff fails to establish res ipsa loquitur\nas a presumption, the jury may still ﬁnd for the plaintiff if it ﬁnds based on its\nconsideration of all of the evidence that the defendant was negligent. (See Howe v.\n470\nSeven Forty Two Co., Inc. (2010) 189 Cal. App.4th 1155, 1163–1164 [117\nCal. Rptr.3d 126].)\nIf the plaintiff has established the three conditions that give rise to the doctrine, the\njury is required to ﬁnd that the accident resulted from the defendant's negligence\nunless the defendant comes forward with evidence that would support a contrary\nﬁnding. (See Cal. Law Revision Com. comment to Evid. Code, §646.) The last two\nparagraphs of the instruction assume that the defendant has presented evidence that\nwould support a ﬁnding that the defendant was not negligent or that any negligence\non the defendant's part was not a proximate cause of the accident. In this case, the\npresumption drops out, and the plaintiff must then prove the elements of negligence\nwithout the beneﬁt of the presumption of res ipsa loquitur. (See Howe, supra, 189\nCal. App.4th at pp. 1163–1164; see also Evid. Code, §646(c).)",
+  "sources_and_authority": [
+    {
+      "raw": "Res ipsa loquitur. Evidence Code section 646(c).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "646",
+          "display": "Evidence Code section 646",
+          "raw": "Evidence Code section 646(c)",
+          "span": [
+            19,
+            47
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "646",
+          "display": "Evidence Code section 646(c)",
+          "raw": "Evidence Code section 646(c)",
+          "span": [
+            19,
+            47
+          ],
+          "subsection": "c"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Presumption Affecting Burden of Producing Evidence. Evidence Code section\n604.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "604",
+          "display": "Evidence Code section 604",
+          "raw": "Evidence Code section\n604",
+          "span": [
+            52,
+            77
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"In California, the doctrine of res ipsa loquitur is deﬁned by statute as 'a\npresumption affecting the burden of producing evidence.' The presumption arises\nwhen the evidence satisﬁes three conditions: ' \"(1) the accident must be of a\nkind which ordinarily does not occur in the absence of someone's negligence;\n(2) it must be caused by an agency or instrumentality within the exclusive\ncontrol of the defendant; (3) it must not have been due to any voluntary action\nor contribution on the part of the plaintiff.\" ' A presumption affecting the burden\nof producing evidence 'require[s] the trier of fact to assume the existence of the\npresumed fact' unless the defendant introduces evidence to the contrary. The\npresumed fact, in this context, is that 'a proximate cause of the occurrence was\nsome negligent conduct on the part of the defendant. . . .' If the defendant\nintroduces 'evidence which would support a ﬁnding that he was not negligent or\nthat any negligence on his part was not a proximate cause of the occurrence,' the\ntrier of fact determines whether defendant was negligent without regard to the\npresumption, simply by weighing the evidence.\" ( Brown v. Poway Uniﬁed School\nDist. (1993) 4 Cal. 4th 820, 825–826 [15 Cal. Rptr.2d 679, 843 P.2d 624], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Brown v. Poway Uniﬁed School Dist.",
+          "year": 1993,
+          "volume": 4,
+          "reporter": "Cal.4th",
+          "page": 820,
+          "pin": "825–826",
+          "raw": "Brown v. Poway Uniﬁed School Dist. (1993) 4 Cal. 4th 820, 825–826",
+          "span": [
+            1158,
+            1223
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'The doctrine of res ipsa loquitur is applicable where the accident is of such a\nnature that it can be said, in the light of past experience, that it probably was the\nresult of negligence by someone and that the defendant is probably the one\nresponsible.' \" ( Howe, supra, 189 Cal. App.4th at p. 1161.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Res ipsa loquitur is an evidentiary rule for 'determining whether circumstantial\nevidence of negligence is sufficient.' \" ( Howe, supra, 189 Cal. App.4th at p.\n1161, internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "The doctrine \"is based on a theory of 'probability' where there is no direct\nevidence of defendant's conduct, permitting a common sense inference of\nMEDICAL NEGLIGENCE CACI No. 518\n471\nnegligence from the happening of the accident.\" ( Gicking v. Kimberlin (1985)\n170 Cal. App.3d 73, 75 [215 Cal. Rptr. 834].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Gicking v. Kimberlin",
+          "year": 1985,
+          "volume": 170,
+          "reporter": "Cal.App.3d",
+          "page": 73,
+          "pin": "75",
+          "raw": "Gicking v. Kimberlin (1985) 170 Cal. App.3d 73, 75",
+          "span": [
+            235,
+            285
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"All of the cases hold, in effect, that it must appear, either as a matter of\ncommon experience or from evidence in the case, that the accident is of a type\nwhich probably would not happen unless someone was negligent.\" ( Zentz v.\nCoca Cola Bottling Co. of Fresno (1952) 39 Cal. 2d 436, 442–443 [247 P.2d\n344].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Zentz v. Coca Cola Bottling Co. of Fresno",
+          "year": 1952,
+          "volume": 39,
+          "reporter": "Cal.2d",
+          "page": 436,
+          "pin": "442–443",
+          "raw": "Zentz v. Coca Cola Bottling Co. of Fresno (1952) 39 Cal. 2d 436, 442–443",
+          "span": [
+            222,
+            294
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In determining the applicability of res ipsa loquitur, courts have relied on both\nexpert testimony and common knowledge. The standard of care in a professional\nnegligence case can be proved only by expert testimony unless the conduct\nrequired by the particular circumstances is within the common knowledge of the\nlayperson.\" ( Blackwell v. Hurst (1996) 46 Cal. App.4th 939, 943 [54 Cal. Rptr.2d\n209], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Blackwell v. Hurst",
+          "year": 1996,
+          "volume": 46,
+          "reporter": "Cal.App.4th",
+          "page": 939,
+          "pin": "943",
+          "raw": "Blackwell v. Hurst (1996) 46 Cal. App.4th 939, 943",
+          "span": [
+            328,
+            378
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Under the doctrine of res ipsa loquitur and this common knowledge exception,\nit is proper to instruct the jury that it can infer negligence from the happening of\nthe accident itself, if it ﬁnds based on common knowledge, the testimony of\nphysicians called as expert witnesses, and all the circumstances, that the injury\nwas more likely than not the result of negligence.\" ( Gannon v. Elliot (1993) 19\nCal. App.4th 1, 6 [23 Cal. Rptr.2d 86], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Gannon v. Elliot",
+          "year": 1993,
+          "volume": 19,
+          "reporter": "Cal.App.4th",
+          "page": 1,
+          "pin": "6",
+          "raw": "Gannon v. Elliot (1993) 19 Cal. App.4th 1, 6",
+          "span": [
+            375,
+            419
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The fact that a particular injury rarely occurs does not in itself justify an\ninference of negligence unless some other evidence indicates negligence. To\njustify res ipsa loquitur instructions, appellant must have produced sufficient\nevidence to permit the jury to make the necessary decision. He must have\npresented 'some substantial evidence which, if believed by the jury, would\nentitle it to draw an inference of negligence from the happening of the accident\nitself.' \" ( Blackwell, supra, 46 Cal. App.4th at p. 944, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "The purpose of the second \"control\" requirement is to \"link the defendant with\nthe probability, already established, that the accident was negligently caused.\"\n(Newing v. Cheatham (1975) 15 Cal. 3d 351, 362 [124 Cal. Rptr. 193, 540 P.2d\n33].) The control requirement is not absolute. ( Zentz, supra, 39 Cal. 2d at p. 443.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Newing v. Cheatham",
+          "year": 1975,
+          "volume": 15,
+          "reporter": "Cal.3d",
+          "page": 351,
+          "pin": "362",
+          "raw": "Newing v. Cheatham (1975) 15 Cal. 3d 351, 362",
+          "span": [
+            161,
+            206
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The purpose of [the third] requirement, like that of control by the defendant is\nto establish that the defendant is the one probably responsible for the accident.\nThe plaintiff need not show that he was entirely inactive at the time of the\naccident in order to satisfy this requirement, so long as the evidence is such as\nto eliminate his conduct as a factor contributing to the occurrence.\" ( Newing,\nsupra, 15 Cal. 3d at p. 363, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "The third condition \"should not be confused with the problem of contributory\nnegligence, as to which defendant has the burden of proof. . . . [I]ts purpose,\nlike that of control by the defendant, is merely to assist the court in determining\nwhether it is more probable than not that the defendant was responsible for the\naccident.\" ( Zentz, supra, 39 Cal. 2d at p. 444.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[Evidence Code section 646] . . . classiﬁed the doctrine as a presumption\nCACI No. 518 MEDICAL NEGLIGENCE\n472\naffecting the burden of producing evidence. Under that classiﬁcation, when the\npredicate facts are established to give rise to the presumption, the burden of\nproducing evidence to rebut it shifts to the defendant to prove lack of negligence\nor lack of proximate cause that the injury claimed was the result of that\nnegligence. As a presumption affecting the burden of producing evidence (as\ndistinguished from a presumption affecting the burden of proof), if evidence is\npresented to rebut the presumed fact, the presumption is out of the case–it\n'disappears.' But if no such evidence is submitted, the trier of fact must ﬁnd the\npresumed fact to be established.\" ( Howe, supra, 189 Cal. App.4th at p. 1162.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "646",
+          "display": "Evidence Code section 646",
+          "raw": "Evidence Code section 646",
+          "span": [
+            2,
+            27
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\" 'If evidence is produced that would support a ﬁnding that the defendant was\nnot negligent or that any negligence on his part was not a proximate cause of the\naccident, the presumptive effect of the doctrine vanishes.' '[T]he mere\nintroduction of evidence sufficient to sustain a ﬁnding of the nonexistence of the\npresumed fact causes the presumption, as a matter of law, to disappear.' When\nthe presumptive effect vanishes, it is the plaintiff's burden to introduce actual\nevidence that would show that the defendant is negligent and that such\nnegligence was the proximate cause of the accident.\" ( Howe, supra, 189\nCal. App.4th at p. 1163, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"As the [Law Revision Commission] Comment [to Evidence Code section 646]\nexplains, even though the presumptive effect of the doctrine vanishes, 'the jury\nmay still be able to draw an inference that the accident was caused by the\ndefendant's lack of due care from the facts that gave rise to the\npresumption. . . . [¶] . . . [¶] . . . An inference of negligence may well be\nwarranted from all of the evidence in the case even though the plaintiff fails to\nestablish all the elements of res ipsa loquitur. In appropriate cases, therefore, the\njury may be instructed that, even though it does not ﬁnd that the facts giving rise\nto the presumption have been proved by a preponderance of the evidence, it may\nnevertheless ﬁnd the defendant negligent if it concludes from a consideration of\nall the evidence that it is more probable than not that the defendant was\nnegligent.' \" ( Howe, supra, 189 Cal. App.4th at p. 1163, internal citation\nomitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "646",
+          "display": "Evidence Code section 646",
+          "raw": "Evidence Code section 646",
+          "span": [
+            46,
+            71
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"It follows that where part of the facts basic to the application of the doctrine of\nres ipsa loquitur is established as a matter of law but that others are not, the\ncourt should instruct that application of the doctrine by the jury depends only\nupon the existence of the basic facts not conclusively established.\" ( Rimmele v.\nNorthridge Hosp. Foundation (1975) 46 Cal. App.3d 123, 130 [120 Cal. Rptr.\n39].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Rimmele v. Northridge Hosp. Foundation",
+          "year": 1975,
+          "volume": 46,
+          "reporter": "Cal.App.3d",
+          "page": 123,
+          "pin": "130",
+          "raw": "Rimmele v. Northridge Hosp. Foundation (1975) 46 Cal. App.3d 123, 130",
+          "span": [
+            317,
+            386
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, California Evidence (5th ed. 2012) Burden of Proof and Presumptions,\n§§116–120\n3 Levy et al., California Torts, Ch. 31, Liability of Physicians and Other Medical\nPractitioners, §31.32 (Matthew Bender)\n36 California Forms of Pleading and Practice, Ch. 415, Physicians: Medical\nMEDICAL NEGLIGENCE CACI No. 518\n473",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "646",
+      "display": "Evidence Code section 646",
+      "raw": "Evidence Code section 646(c)",
+      "span": [
+        19,
+        47
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/646"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "646",
+      "display": "Evidence Code section 646(c)",
+      "raw": "Evidence Code section 646(c)",
+      "span": [
+        19,
+        47
+      ],
+      "subsection": "c",
+      "role": "sources",
+      "statute_key": "CA/EVID/646/c"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "604",
+      "display": "Evidence Code section 604",
+      "raw": "Evidence Code section\n604",
+      "span": [
+        52,
+        77
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/604"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Brown v. Poway Uniﬁed School Dist.",
+      "year": 1993,
+      "volume": 4,
+      "reporter": "Cal.4th",
+      "page": 820,
+      "pin": "825–826",
+      "raw": "Brown v. Poway Uniﬁed School Dist. (1993) 4 Cal. 4th 820, 825–826",
+      "span": [
+        1158,
+        1223
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.4th 820"
+    },
+    {
+      "name": "Gicking v. Kimberlin",
+      "year": 1985,
+      "volume": 170,
+      "reporter": "Cal.App.3d",
+      "page": 73,
+      "pin": "75",
+      "raw": "Gicking v. Kimberlin (1985) 170 Cal. App.3d 73, 75",
+      "span": [
+        235,
+        285
+      ],
+      "role": "sources",
+      "case_key": "170 Cal.App.3d 73"
+    },
+    {
+      "name": "Zentz v. Coca Cola Bottling Co. of Fresno",
+      "year": 1952,
+      "volume": 39,
+      "reporter": "Cal.2d",
+      "page": 436,
+      "pin": "442–443",
+      "raw": "Zentz v. Coca Cola Bottling Co. of Fresno (1952) 39 Cal. 2d 436, 442–443",
+      "span": [
+        222,
+        294
+      ],
+      "role": "sources",
+      "case_key": "39 Cal.2d 436"
+    },
+    {
+      "name": "Blackwell v. Hurst",
+      "year": 1996,
+      "volume": 46,
+      "reporter": "Cal.App.4th",
+      "page": 939,
+      "pin": "943",
+      "raw": "Blackwell v. Hurst (1996) 46 Cal. App.4th 939, 943",
+      "span": [
+        328,
+        378
+      ],
+      "role": "sources",
+      "case_key": "46 Cal.App.4th 939"
+    },
+    {
+      "name": "Gannon v. Elliot",
+      "year": 1993,
+      "volume": 19,
+      "reporter": "Cal.App.4th",
+      "page": 1,
+      "pin": "6",
+      "raw": "Gannon v. Elliot (1993) 19 Cal. App.4th 1, 6",
+      "span": [
+        375,
+        419
+      ],
+      "role": "sources",
+      "case_key": "19 Cal.App.4th 1"
+    },
+    {
+      "name": "Newing v. Cheatham",
+      "year": 1975,
+      "volume": 15,
+      "reporter": "Cal.3d",
+      "page": 351,
+      "pin": "362",
+      "raw": "Newing v. Cheatham (1975) 15 Cal. 3d 351, 362",
+      "span": [
+        161,
+        206
+      ],
+      "role": "sources",
+      "case_key": "15 Cal.3d 351"
+    },
+    {
+      "name": "Rimmele v. Northridge Hosp. Foundation",
+      "year": 1975,
+      "volume": 46,
+      "reporter": "Cal.App.3d",
+      "page": 123,
+      "pin": "130",
+      "raw": "Rimmele v. Northridge Hosp. Foundation (1975) 46 Cal. App.3d 123, 130",
+      "span": [
+        317,
+        386
+      ],
+      "role": "sources",
+      "case_key": "46 Cal.App.3d 123"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

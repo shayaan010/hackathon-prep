@@ -1,0 +1,313 @@
+{
+  "id": "CACI-4401",
+  "edition": "2026",
+  "number": "4401",
+  "title": "Misappropriation of Trade Secrets—Essential Factual Elements",
+  "title_full": "Misappropriation of Trade Secrets—Essential Factual Elements",
+  "title_statute": null,
+  "series": "4400",
+  "series_title": "Series 4400 Trade Secrets",
+  "page_start": 3119,
+  "page_end": 3122,
+  "instruction_text": "4401. Misappropriation of Trade Secrets–Essential Factual\nElements\n[Name of plaintiff ] claims that [ name of defendant ] has misappropriated a\ntrade secret. To succeed on this claim, [ name of plaintiff ] must prove all\nof the following:\n1. That [ name of plaintiff ] [owned/was a licensee of] [the\nfollowing:][describe each item claimed to be a trade secret that is\nsubject to the misappropriation claim ];\n2. That [this/these] [select short term to describe, e.g., information]\n[was/were] [a] trade secret[s] at the time of the misappropriation;\n3. That [ name of defendant ] improperly [acquired/used/ [or]\ndisclosed] the trade secret[s];\n4. That [[ name of plaintiff ] was harmed/ [or] [ name of defendant ] was\nunjustly enriched]; and\n5. That [ name of defendant ]'s [acquisition/use/ [or] disclosure] was a\nsubstantial factor in causing [[ name of plaintiff ]'s harm/ [or] [ name\nof defendant ] to be unjustly enriched].",
+  "directions_for_use": "In element 1, speciﬁcally describe all items that are alleged to be the trade secrets\nthat were misappropriated. (See Altavion, Inc. v. Konica Minolta Systems\nLaboratory, Inc. (2014) 226 Cal. App.4th 26, 43 [171 Cal. Rptr.3d 714].) If more than\none item is alleged, include \"the following\" and present the items as a list. Then in\nelement 2, select a short term to identify the items, such as \"information,\"\n\"customer lists,\" or \"computer code.\"\nIn element 1, select the appropriate term, \"owned\" or \"was a licensee of,\" to\nindicate the plaintiff's interest in the alleged trade secrets. No reported California\nstate court decision has addressed whether a licensee has a sufficient interest to\nassert a claim of trade secret misappropriation. These instructions take no position\non this issue. The court should make a determination whether the plaintiff has the\nright as a matter of substantive law to maintain a cause of action for\nmisappropriation of trade secrets if that issue is disputed.\nRead also CACI No. 4402, \"Trade Secret\" Deﬁned, to give the jury guidance on\nelement 2.\nCivil Code section 3426.1(b)(1) deﬁnes \"misappropriation\" as improper\n\"[a]cquisition\" of a trade secret, and subsection (b)(2) deﬁnes it as improper\n\"[d]isclosure or use\" of a trade secret. In some cases, the mere acquisition of a trade\n1233\nsecret, as distinguished from a related disclosure or use, will not result in damages\nand will only be relevant to injunctive relief. Because generally the jury should be\ninstructed only on matters relevant to damage claims, do not select \"acquired\" in\nelement 3 or \"acquisition\" in element 5 unless there is evidence that the acquisition\nresulted in damages, other than damages from related disclosure or use.\nTo avoid confusion, instruct the jury only on the particular theory of\nmisappropriation applicable under the facts of the case. For example, the jury should\nnot be instructed on misappropriation through \"use\" if the plaintiff does not assert\nthat the defendant improperly used the trade secrets. Nor should the jury be\ninstructed on a particular type of \"use\" if that type of \"use\" is not asserted and\nsupported by the evidence.\nGive also CACI No. 4409, Remedies for Misappropriation of Trade Secret .",
+  "sources_and_authority": [
+    {
+      "raw": "Uniform Trade Secrets Act: Deﬁnitions. Civil Code section 3426.1.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.1",
+          "display": "Civil Code section 3426.1",
+          "raw": "Civil Code section 3426.1",
+          "span": [
+            39,
+            64
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Trade Secrets Must Be Identiﬁed With Reasonable Particularity. Code of Civil\nProcedure section 2019.210.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A trade secret is misappropriated if a person (1) acquires a trade secret knowing\nor having reason to know that the trade secret has been acquired by 'improper\nmeans,' (2) discloses or uses a trade secret the person has acquired by 'improper\nmeans' or in violation of a nondisclosure obligation, (3) discloses or uses a trade\nsecret the person knew or should have known was derived from another who\nhad acquired it by improper means or who had a nondisclosure obligation or (4)\ndiscloses or uses a trade secret after learning that it is a trade secret but before a\nmaterial change of position.\" ( Ajaxo Inc. v. E*Trade Group Inc. (2005) 135\nCal. App.4th 21, 66 [37 Cal. Rptr.3d 221].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A cause of action for monetary relief under CUTSA may be said to consist of\nthe following elements: (1) possession by the plaintiff of a trade secret; (2) the\ndefendant's misappropriation of the trade secret, meaning its wrongful\nacquisition, disclosure, or use; and (3) resulting or threatened injury to the\nplaintiff. The ﬁrst of these elements is typically the most important, in the sense\nthat until the content and nature of the claimed secret is ascertained, it will likely\nbe impossible to intelligibly analyze the remaining issues.\" ( Silvaco Data\nSystems v. Intel Corp. (2010) 184 Cal. App.4th 210, 220 [109 Cal. Rptr.3d 27],\ninternal citations omitted, disapproved on other grounds in Kwikset Corp. v.\nSuperior Court (2011) 51 Cal. 4th 310, 337 [120 Cal. Rptr.3d 741, 246 P.3d 877].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Silvaco Data Systems v. Intel Corp.",
+          "year": 2010,
+          "volume": 184,
+          "reporter": "Cal.App.4th",
+          "page": 210,
+          "pin": "220",
+          "raw": "Silvaco Data Systems v. Intel Corp. (2010) 184 Cal. App.4th 210, 220",
+          "span": [
+            544,
+            612
+          ]
+        },
+        {
+          "name": "Kwikset Corp. v. Superior Court",
+          "year": 2011,
+          "volume": 51,
+          "reporter": "Cal.4th",
+          "page": 310,
+          "pin": "337",
+          "raw": "Kwikset Corp. v. Superior Court (2011) 51 Cal. 4th 310, 337",
+          "span": [
+            696,
+            755
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A cause of action for misappropriation of trade secrets requires a plaintiff to\nshow the plaintiff owned the trade secret; at the time of misappropriation, the\ninformation was a trade secret; the defendant improperly acquired, used, or\ndisclosed the trade secret; the plaintiff was harmed; and the defendant's\nacquisition, use, or disclosure of the trade secret was a substantial factor in\ncausing the plaintiff harm.\" ( AMN Healthcare, Inc. v. Aya Healthcare Services,\nInc. (2018) 28 Cal. App.5th 923, 942 [239 Cal. Rptr.3d 577] [citing CACI].)\n4401 TRADE SECRETS\n1234",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "AMN Healthcare, Inc. v. Aya Healthcare Services, Inc.",
+          "year": 2018,
+          "volume": 28,
+          "reporter": "Cal.App.5th",
+          "page": 923,
+          "pin": "942",
+          "raw": "AMN Healthcare, Inc. v. Aya Healthcare Services, Inc. (2018) 28 Cal. App.5th 923, 942",
+          "span": [
+            422,
+            507
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[F]airly read, CACI No. 4401 does not instruct the jury that it cannot ﬁnd\nmisappropriation has occurred unless it ﬁnds the misappropriation resulted in\ndamages or unjust enrichment. The instruction addresses the issues of damages\nand unjust enrichment because, by deﬁnition, those are the only remedies a jury\ncould consider or award for an adjudicated misappropriation. The other remedies\navailable to a plaintiff whose trade secrets have been\nmisappropriated–reasonable royalty and injunction–may be awarded only by\nthe trial court. ( Applied Medical Distribution Corp. v. Jarrells (2024) 100\nCal. App.5th 556, 571 [319 Cal. Rptr.3d 205].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Applied Medical Distribution Corp. v. Jarrells",
+          "year": 2024,
+          "volume": 100,
+          "reporter": "Cal.App.5th",
+          "page": 556,
+          "pin": "571",
+          "raw": "Applied Medical Distribution Corp. v. Jarrells (2024) 100 Cal. App.5th 556, 571",
+          "span": [
+            539,
+            618
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"It is critical to any [UTSA] cause of action–and any defense–that the\ninformation claimed to have been misappropriated be clearly identiﬁed.\nAccordingly, a California trade secrets plaintiff must, prior to commencing\ndiscovery, 'identify the trade secret with reasonable particularity.' \" ( Altavion,\nInc., supra, 226 Cal. App.4th at p. 43.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"We ﬁnd the trade secret situation more analogous to employment discrimination\ncases. In those cases, as we have seen, information of the employer's intent is in\nthe hands of the employer, but discovery affords the employee the means to\npresent sufficient evidence to raise an inference of discriminatory intent. The\nburden of proof remains with the plaintiff, but the defendant must then bear the\nburden of producing evidence once a prima facie case for the plaintiff is made.\n[¶] We conclude that the trial court correctly refused the proposed instruction\nthat would have shifted the burden of proof.\" ( Sargent Fletcher , Inc. v. Able\nCorp. (2003) 110 Cal. App.4th 1658, 1674 [3 Cal. Rptr.3d 279], internal citation\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Inc. v. Able Corp.",
+          "year": 2003,
+          "volume": 110,
+          "reporter": "Cal.App.4th",
+          "page": 1658,
+          "pin": "1674",
+          "raw": "Inc. v. Able Corp. (2003) 110 Cal. App.4th 1658, 1674",
+          "span": [
+            625,
+            678
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[W]e ﬁnd no support for [a current-ownership] rule in the text of the CUTSA,\ncases applying it, or legislative history. Nor do we ﬁnd any evidence of such a\nrule in patent or copyright law, which defendants have cited by analogy.\nDefendants have offered no persuasive argument from policy for our adoption of\nsuch a rule.\" ( Jasmine Networks, Inc. v. Superior Court (2009) 180 Cal. App.4th\n980, 986 [103 Cal. Rptr.3d 426].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Jasmine Networks, Inc. v. Superior Court",
+          "year": 2009,
+          "volume": 180,
+          "reporter": "Cal.App.4th",
+          "page": 980,
+          "pin": "986",
+          "raw": "Jasmine Networks, Inc. v. Superior Court (2009) 180 Cal. App.4th 980, 986",
+          "span": [
+            326,
+            399
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he only California authority [defendant] cited for the asserted requirement\n[that a trade-secrets plaintiff must own the trade secret when the action is ﬁled]\nwas the official California pattern jury instructions–whose 'ﬁrst element,'\n[defendant] asserted, 'requires the plaintiff to be either the owner or the licensee\nof the trade secret. See CACI Nos. 4400, 4401.' [Defendant] did not quote the\ncited instructions–for good reason. The most that can be said in favor of its\nreading is that the broader and less speciﬁc of the two instructions uses the\npresent tense to refer to the requirement of ownership. That instruction, whose\navowed purpose is 'to introduce the jury to the issues involved' in a trade secrets\ncase (Directions for Use for CACI No. 4400), describes the plaintiff as claiming\nthat he 'is' the owner/licensee of the trade secrets underlying the suit. (CACI No.\n4400.) The second instruction, which enumerates the actual elements of the\nplaintiff's cause of action, dispels whatever weak whiff of relevance this use of\nthe present tense might have. It requires the plaintiff to prove that he 'own ed' or\nTRADE SECRETS 4401\n1235\n' was a licensee of' the trade secrets at issue. (CACI No. 4401, italics added.)\nGiven only these instructions to go on, one would suppose that past\nownership–i.e., ownership at the time of the alleged misappropriation–is\nsufficient to establish this element.\" ( Jasmine Networks, Inc. , supra, 180\nCal. App.4th at p. 997, original italics.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "Gaab and Reese, California Practice Guide: Civil Procedure Before Trial–Claims &\nDefenses, Ch. 10(II)-A ¶ 10:250 (The Rutter Group)\n1 Milgrim on Trade Secrets, Ch. 1, Deﬁnitional Aspects , §1.01 (Matthew Bender)\nZamore, Business Torts, Ch. 17, Trade Secrets, §17.05 et seq. (Matthew Bender)\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.51 (Matthew Bender)\n49 California Forms of Pleading and Practice, Ch. 565, Unfair Competition ,\n§565.103[4] (Matthew Bender)\nEdelson & Kay, eds., Trade Secret Litigation and Protection in California (State Bar\nof California 2009) Chs. 1, 2, 6, 10, 11, 12\n4401 TRADE SECRETS\n1236",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1",
+      "raw": "Civil Code section 3426.1",
+      "span": [
+        39,
+        64
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3426.1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1(b)",
+      "raw": "Civil Code section 3426.1(b)(1)",
+      "span": [
+        1082,
+        1113
+      ],
+      "subsection": "b",
+      "role": "directions",
+      "statute_key": "CA/CIV/3426.1/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.1",
+      "display": "Civil Code section 3426.1(1)",
+      "raw": "Civil Code section 3426.1(b)(1)",
+      "span": [
+        1082,
+        1113
+      ],
+      "subsection": "1",
+      "role": "directions",
+      "statute_key": "CA/CIV/3426.1/1"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Silvaco Data Systems v. Intel Corp.",
+      "year": 2010,
+      "volume": 184,
+      "reporter": "Cal.App.4th",
+      "page": 210,
+      "pin": "220",
+      "raw": "Silvaco Data Systems v. Intel Corp. (2010) 184 Cal. App.4th 210, 220",
+      "span": [
+        544,
+        612
+      ],
+      "role": "sources",
+      "case_key": "184 Cal.App.4th 210"
+    },
+    {
+      "name": "Kwikset Corp. v. Superior Court",
+      "year": 2011,
+      "volume": 51,
+      "reporter": "Cal.4th",
+      "page": 310,
+      "pin": "337",
+      "raw": "Kwikset Corp. v. Superior Court (2011) 51 Cal. 4th 310, 337",
+      "span": [
+        696,
+        755
+      ],
+      "role": "sources",
+      "case_key": "51 Cal.4th 310"
+    },
+    {
+      "name": "AMN Healthcare, Inc. v. Aya Healthcare Services, Inc.",
+      "year": 2018,
+      "volume": 28,
+      "reporter": "Cal.App.5th",
+      "page": 923,
+      "pin": "942",
+      "raw": "AMN Healthcare, Inc. v. Aya Healthcare Services, Inc. (2018) 28 Cal. App.5th 923, 942",
+      "span": [
+        422,
+        507
+      ],
+      "role": "sources",
+      "case_key": "28 Cal.App.5th 923"
+    },
+    {
+      "name": "Applied Medical Distribution Corp. v. Jarrells",
+      "year": 2024,
+      "volume": 100,
+      "reporter": "Cal.App.5th",
+      "page": 556,
+      "pin": "571",
+      "raw": "Applied Medical Distribution Corp. v. Jarrells (2024) 100 Cal. App.5th 556, 571",
+      "span": [
+        539,
+        618
+      ],
+      "role": "sources",
+      "case_key": "100 Cal.App.5th 556"
+    },
+    {
+      "name": "Inc. v. Able Corp.",
+      "year": 2003,
+      "volume": 110,
+      "reporter": "Cal.App.4th",
+      "page": 1658,
+      "pin": "1674",
+      "raw": "Inc. v. Able Corp. (2003) 110 Cal. App.4th 1658, 1674",
+      "span": [
+        625,
+        678
+      ],
+      "role": "sources",
+      "case_key": "110 Cal.App.4th 1658"
+    },
+    {
+      "name": "Jasmine Networks, Inc. v. Superior Court",
+      "year": 2009,
+      "volume": 180,
+      "reporter": "Cal.App.4th",
+      "page": 980,
+      "pin": "986",
+      "raw": "Jasmine Networks, Inc. v. Superior Court (2009) 180 Cal. App.4th 980, 986",
+      "span": [
+        326,
+        399
+      ],
+      "role": "sources",
+      "case_key": "180 Cal.App.4th 980"
+    },
+    {
+      "name": "See Altavion, Inc. v. Konica Minolta Systems Laboratory, Inc.",
+      "year": 2014,
+      "volume": 226,
+      "reporter": "Cal.App.4th",
+      "page": 26,
+      "pin": "43",
+      "raw": "See Altavion, Inc. v. Konica Minolta Systems Laboratory, Inc. (2014) 226 Cal. App.4th 26, 43",
+      "span": [
+        114,
+        206
+      ],
+      "role": "directions",
+      "case_key": "226 Cal.App.4th 26"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

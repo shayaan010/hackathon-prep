@@ -1,0 +1,124 @@
+{
+  "id": "CACI-2001",
+  "edition": "2026",
+  "number": "2001",
+  "title": "Trespass—Extrahazardous Activities",
+  "title_full": "Trespass—Extrahazardous Activities",
+  "title_statute": null,
+  "series": "2000",
+  "series_title": "Series 2000 Trespass",
+  "page_start": 1329,
+  "page_end": 1330,
+  "instruction_text": "2001. Trespass–Extrahazardous Activities\n[Name of plaintiff ] claims that [ name of defendant ] trespassed on [his/her/\nnonbinary pronoun/its] property. To establish this claim, [ name of plaintiff ]\nmust prove all of the following:\n1. That [ name of plaintiff ] [owned/leased/occupied/controlled] the\nproperty;\n2. That [ name of defendant ] was engaged in [ insert extrahazardous\nactivity];\n3. That [ insert extrahazardous activity ] caused [ insert thing ] to enter\n[name of plaintiff ]'s property;\n4. That [ name of plaintiff ] did not give permission for the entry [or\nthat [ name of defendant ] exceeded [ name of plaintiff ]'s permission];\n5. That [ name of plaintiff ] was harmed; and\n6. That [ name of defendant ]'s conduct was a substantial factor in\ncausing [ name of plaintiff ]'s harm.\n[Entry can be on, above, or below the surface of the land.]\n[Entry may occur indirectly, such as by causing vibrations that damage\nthe land or property on the land.]",
+  "directions_for_use": "Nominal damages alone are not available in cases involving intangible intrusions\nsuch as noise and vibrations; proof of actual damage to the property is required:\n\"[T]he rule is that actionable trespass may not be predicated upon nondamaging\nnoise, odor, or light intrusion . . . .\" ( San Diego Gas & Electric Co. v. Superior\nCourt (1996) 13 Cal. 4th 893, 936 [55 Cal. Rptr.2d 724, 920 P.2d 669], internal\ncitation omitted.)\n\"Whether an activity is ultrahazardous is a question of law to be determined by the\ncourt.\" ( Smith v. Lockheed Propulsion Co. (1967) 247 Cal. App.2d 774, 785 [56\nCal. Rptr. 128].)",
+  "sources_and_authority": [
+    {
+      "raw": "\"[W]e conclude that the rule of the Restatement is sound, and that in this state\nthere is no liability for a trespass unless the trespass is intentional, the result of\nrecklessness or negligence, or the result of engaging in an extra-hazardous\nactivity.\" (Gallin v. Poulou (1956) 140 Cal. App.2d 638, 645 [295 P.2d 958].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Gallin v. Poulou",
+          "year": 1956,
+          "volume": 140,
+          "reporter": "Cal.App.2d",
+          "page": 638,
+          "pin": "645",
+          "raw": "Gallin v. Poulou (1956) 140 Cal. App.2d 638, 645",
+          "span": [
+            256,
+            304
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Section 520 of the Restatement of Torts deﬁnes ultrahazardous activity as\n1255\nfollows: 'An activity is ultrahazardous if it (a) necessarily involves a risk of\nserious harm to the person, land or chattels of others which cannot be eliminated\nby the exercise of the utmost care, and (b) is not a matter of common usage.'\nCalifornia has apparently accepted the Restatement deﬁnition.\" ( Smith v.\nLockheed Propulsion Co., supra, 247 Cal. App.2d at p. 785.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Trespass may be ' \"by personal intrusion of the wrongdoer or by his failure to\nleave; by throwing or placing something on the land; or by causing the entry of\nsome other person. . . .\" ' A trespass may be on the surface of the land, above it,\nor below it. The migration of pollutants from one property to another may\nconstitute a trespass, a nuisance, or both.\" ( Martin Marietta Corp. v. Insurance\nCo. of North America (1995) 40 Cal. App.4th 1113, 1132 [47 Cal. Rptr.2d 670],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Martin Marietta Corp. v. Insurance Co. of North America",
+          "year": 1995,
+          "volume": 40,
+          "reporter": "Cal.App.4th",
+          "page": 1113,
+          "pin": "1132",
+          "raw": "Martin Marietta Corp. v. Insurance Co. of North America (1995) 40 Cal. App.4th 1113, 1132",
+          "span": [
+            365,
+            454
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§803–805\n2 Levy et al., California Torts, Ch. 17, Nuisance and Trespass , §17.20 (Matthew\nBender)\n48 California Forms of Pleading and Practice, Ch. 550, Trespass, §550.15 (Matthew\nBender)\nCalifornia Civil Practice: Torts §§18:1, 18:4–18:8, 18:10 (Thomson Reuters)\nCACI No. 2001 TRESPASS\n1256",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Gallin v. Poulou",
+      "year": 1956,
+      "volume": 140,
+      "reporter": "Cal.App.2d",
+      "page": 638,
+      "pin": "645",
+      "raw": "Gallin v. Poulou (1956) 140 Cal. App.2d 638, 645",
+      "span": [
+        256,
+        304
+      ],
+      "role": "sources",
+      "case_key": "140 Cal.App.2d 638"
+    },
+    {
+      "name": "Martin Marietta Corp. v. Insurance Co. of North America",
+      "year": 1995,
+      "volume": 40,
+      "reporter": "Cal.App.4th",
+      "page": 1113,
+      "pin": "1132",
+      "raw": "Martin Marietta Corp. v. Insurance Co. of North America (1995) 40 Cal. App.4th 1113, 1132",
+      "span": [
+        365,
+        454
+      ],
+      "role": "sources",
+      "case_key": "40 Cal.App.4th 1113"
+    },
+    {
+      "name": "Electric Co. v. Superior Court",
+      "year": 1996,
+      "volume": 13,
+      "reporter": "Cal.4th",
+      "page": 893,
+      "pin": "936",
+      "raw": "Electric Co. v. Superior Court (1996) 13 Cal. 4th 893, 936",
+      "span": [
+        301,
+        359
+      ],
+      "role": "directions",
+      "case_key": "13 Cal.4th 893"
+    },
+    {
+      "name": "Smith v. Lockheed Propulsion Co.",
+      "year": 1967,
+      "volume": 247,
+      "reporter": "Cal.App.2d",
+      "page": 774,
+      "pin": "785",
+      "raw": "Smith v. Lockheed Propulsion Co. (1967) 247 Cal. App.2d 774, 785",
+      "span": [
+        519,
+        583
+      ],
+      "role": "directions",
+      "case_key": "247 Cal.App.2d 774"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:15+00:00"
+}

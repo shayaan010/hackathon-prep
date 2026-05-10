@@ -1,0 +1,128 @@
+{
+  "id": "CACI-361",
+  "edition": "2026",
+  "number": "361",
+  "title": "Reliance Damages",
+  "title_full": "Reliance Damages",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 265,
+  "page_end": 265,
+  "instruction_text": "361. Reliance Damages\nIf you decide that [ name of defendant ] breached the contract, [ name of\nplaintiff] may recover the reasonable amount of money that\n[he/she/nonbinary pronoun/it] spent in preparing for contract\nperformance. These amounts are called \"reliance damages.\" [ Name of\nplaintiff] must prove the amount that [he/she/ nonbinary pronoun/it] was\ninduced to spend in reliance on the contract.\nIf [ name of plaintiff ] proves reliance damages, [ name of defendant ] may\navoid paying [some/ [or] all] of those damages by proving [ include one or\nboth of the following ]:\n[1. That [some/ [or] all] of the money that [ name of plaintiff ] spent in\nreliance was unnecessary;]\n[1. [or]\n[2. That [ name of plaintiff ] would have suffered a loss even if [ name of\ndefendant] had fully performed [his/her/ nonbinary pronoun /its]\nobligations under the contract].",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"One proper 'measure of damages for breach of contract is the amount expended\n[by the nonbreaching party] on the faith of the contract.' \" ( Agam v. Gavra\n(2015) 236 Cal. App.4th 91, 105 [186 Cal. Rptr.3d 295].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Agam v. Gavra",
+          "year": 2015,
+          "volume": 236,
+          "reporter": "Cal.App.4th",
+          "page": 91,
+          "pin": "105",
+          "raw": "Agam v. Gavra (2015) 236 Cal. App.4th 91, 105",
+          "span": [
+            141,
+            186
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Where, without fault on his part, one party to a contract who is willing to\nperform it is prevented from doing so by the other party, the primary measure of\ndamages is the amount of his loss, which may consist of his reasonable outlay or\nexpenditure toward performance, and the anticipated proﬁts which he would\nhave derived from performance.\" ( Buxbom v. Smith (1944) 23 Cal. 2d 535, 541\n[145 P.2d 305].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Buxbom v. Smith",
+          "year": 1944,
+          "volume": 23,
+          "reporter": "Cal.2d",
+          "page": 535,
+          "pin": "541",
+          "raw": "Buxbom v. Smith (1944) 23 Cal. 2d 535, 541",
+          "span": [
+            347,
+            389
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"This measure of damages often is referred to as 'reliance damages.' It has been\nheld to apply where, as here, 'one party to an established business association\nfails and refuses to carry out the terms of the agreement, and thereby deprives\nthe other party of the opportunity to make good in the business . . . .' \" ( Agam,\nsupra, 236 Cal. App.4th at p. 105, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The lost earnings found by the jury constituted harm ﬂowing not from the\nbreach of any contract but from plaintiff's entry into the contract in the\nexpectation of receiving the promised options. Such 'reliance' damages may\nsometimes be recovered on a contract claim '[a]s an alternative' to expectation\ndamages.\" ( Ryan v. Crown Castle NG Networks, Inc. (2016) 6 Cal. App.5th 775,\n788 [211 Cal. Rptr.3d 743], original italics.)\n191",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ryan v. Crown Castle NG Networks, Inc.",
+          "year": 2016,
+          "volume": 6,
+          "reporter": "Cal.App.5th",
+          "page": 775,
+          "pin": "788",
+          "raw": "Ryan v. Crown Castle NG Networks, Inc. (2016) 6 Cal. App.5th 775, 788",
+          "span": [
+            316,
+            385
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Agam v. Gavra",
+      "year": 2015,
+      "volume": 236,
+      "reporter": "Cal.App.4th",
+      "page": 91,
+      "pin": "105",
+      "raw": "Agam v. Gavra (2015) 236 Cal. App.4th 91, 105",
+      "span": [
+        141,
+        186
+      ],
+      "role": "sources",
+      "case_key": "236 Cal.App.4th 91"
+    },
+    {
+      "name": "Buxbom v. Smith",
+      "year": 1944,
+      "volume": 23,
+      "reporter": "Cal.2d",
+      "page": 535,
+      "pin": "541",
+      "raw": "Buxbom v. Smith (1944) 23 Cal. 2d 535, 541",
+      "span": [
+        347,
+        389
+      ],
+      "role": "sources",
+      "case_key": "23 Cal.2d 535"
+    },
+    {
+      "name": "Ryan v. Crown Castle NG Networks, Inc.",
+      "year": 2016,
+      "volume": 6,
+      "reporter": "Cal.App.5th",
+      "page": 775,
+      "pin": "788",
+      "raw": "Ryan v. Crown Castle NG Networks, Inc. (2016) 6 Cal. App.5th 775, 788",
+      "span": [
+        316,
+        385
+      ],
+      "role": "sources",
+      "case_key": "6 Cal.App.5th 775"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

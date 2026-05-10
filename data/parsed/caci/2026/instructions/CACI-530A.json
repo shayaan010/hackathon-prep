@@ -1,0 +1,303 @@
+{
+  "id": "CACI-530A",
+  "edition": "2026",
+  "number": "530A",
+  "title": "Medical Battery",
+  "title_full": "Medical Battery",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 549,
+  "page_end": 551,
+  "instruction_text": "530A. Medical Battery\n[Name of plaintiff ] claims that [ name of defendant ] committed a medical\nbattery. To establish this claim, [ name of plaintiff ] must prove all of the\nfollowing:\n1. [That [ name of defendant ] performed a medical procedure without\n[name of plaintiff ]'s consent; [or]]\n1. [That [ name of plaintiff ] consented to one medical procedure, but\n[name of defendant ] performed a substantially different medical\nprocedure;]\n2. That [ name of plaintiff ] was harmed; and\n3. That [ name of defendant ]'s conduct was a substantial factor in\ncausing [ name of plaintiff ]'s harm.\nA patient can consent to a medical procedure by words or conduct.\nDerived from former CACI No. 530 April 2007; Revised October 2008",
+  "directions_for_use": "Select either or both of the two bracketed options in the ﬁrst element depending on\nthe nature of the case. In a case of a conditional consent in which it is alleged that\nthe defendant proceeded without the condition having occurred, give CACI No.\n530B, Medical Battery–Conditional Consent .",
+  "sources_and_authority": [
+    {
+      "raw": "\"The California Supreme Court has described the right to consent to medical\ntreatment as ' \"basic and fundamental,\" ' 'intensely individual,' and 'broadly\nbased.' The same court has also emphasized that excusing the patient from a\njudicial proceeding regarding a surgery to be performed over his objection\n'denie[s] fundamental due process.' It is immaterial that a doctor has said the\ntreatment is required to save the patient's life. Rather, ' \"A doctor might well\nbelieve that an operation or form of treatment is desirable or necessary, but the\nlaw does not permit him to substitute his own judgment for that of the patient by\nany form of artiﬁce or deception.\" ' Finally, the patient's reasons for refusing are\nirrelevant. 'For self-determination to have any meaning, it cannot be subject to\nthe scrutiny of anyone else's conscience or sensibilities.' \" ( Stewart v. Superior\nCourt (2017) 16 Cal. App.5th 87, 105 [224 Cal. Rptr.3d 219], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Stewart v. Superior Court",
+          "year": 2017,
+          "volume": 16,
+          "reporter": "Cal.App.5th",
+          "page": 87,
+          "pin": "105",
+          "raw": "Stewart v. Superior Court (2017) 16 Cal. App.5th 87, 105",
+          "span": [
+            861,
+            917
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Battery may also be found if a substantially different procedure is performed:\n\"Where a doctor obtains consent of the patient to perform one type of treatment\nand subsequently performs a substantially different treatment for which consent\nwas not obtained, there is a clear case of battery.\" ( Cobbs v. Grant (1972) 8\n475\nCal. 3d 229, 239 [104 Cal. Rptr. 505, 502 P.2d 1].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The battery theory should be reserved for those circumstances when a doctor\nperforms an operation to which the patient has not consented. When the patient\ngives permission to perform one type of treatment and the doctor performs\nanother, the requisite element of deliberate intent to deviate from the consent\ngiven is present. However, when the patient consents to certain treatment and the\ndoctor performs that treatment but an undisclosed inherent complication with a\nlow probability occurs, no intentional deviation from the consent given appears;\nrather, the doctor in obtaining consent may have failed to meet his due care duty\nto disclose pertinent information. In that situation the action should be pleaded in\nnegligence.\" ( Cobbs, supra, 8 Cal. 3d at p. 240.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Our high court has made it clear that battery and lack of informed consent are\nseparate causes of action. A claim based on lack of informed consent–which\nsounds in negligence–arises when the doctor performs a procedure without ﬁrst\nadequately disclosing the risks and alternatives. In contrast, a battery is an\nintentional tort that occurs when a doctor performs a procedure without\nobtaining any consent.\" ( Saxena v. Goffney (2008) 159 Cal. App.4th 316, 324 [71\nCal. Rptr.3d 469].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Saxena v. Goffney",
+          "year": 2008,
+          "volume": 159,
+          "reporter": "Cal.App.4th",
+          "page": 316,
+          "pin": "324",
+          "raw": "Saxena v. Goffney (2008) 159 Cal. App.4th 316, 324",
+          "span": [
+            410,
+            460
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Confusion may arise in the area of 'exceeding a patient's consent.' In cases\nwhere a doctor exceeds the consent and such excess surgery is found necessary\ndue to conditions arising during an operation which endanger the patient's health\nor life, the consent is presumed. The surgery necessitated is proper (though\nexceeding speciﬁc consent) on the theory of assumed consent, were the patient\nmade aware of the additional need.\" ( Pedesky v. Bleiberg (1967) 251 Cal. App.2d\n119, 123 [59 Cal. Rptr. 294].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Pedesky v. Bleiberg",
+          "year": 1967,
+          "volume": 251,
+          "reporter": "Cal.App.2d",
+          "page": 119,
+          "pin": "123",
+          "raw": "Pedesky v. Bleiberg (1967) 251 Cal. App.2d 119, 123",
+          "span": [
+            431,
+            482
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Consent to medical care, including surgery, may be express or may be implied\nfrom the circumstances.\" ( Bradford v. Winter (1963) 215 Cal. App.2d 448, 454\n[30 Cal. Rptr. 243].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bradford v. Winter",
+          "year": 1963,
+          "volume": 215,
+          "reporter": "Cal.App.2d",
+          "page": 448,
+          "pin": "454",
+          "raw": "Bradford v. Winter (1963) 215 Cal. App.2d 448, 454",
+          "span": [
+            105,
+            155
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"It is elemental that consent may be manifested by acts or conduct and need not\nnecessarily be shown by a writing or by express words.\" ( Kritzer v. Citron\n(1950) 101 Cal. App.2d 33, 38–39 [224 P.2d 808].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Kritzer v. Citron",
+          "year": 1950,
+          "volume": 101,
+          "reporter": "Cal.App.2d",
+          "page": 33,
+          "pin": "38–39",
+          "raw": "Kritzer v. Citron (1950) 101 Cal. App.2d 33, 38–39",
+          "span": [
+            138,
+            188
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he reason why CACI No. 530B has an explicit intent and knowledge\nrequirement and CACI No. 530A does not is clear. The law presumes that\n'[w]hen the patient gives permission to perform one type of treatment and the\ndoctor performs another, the requisite element of deliberate intent to deviate\nfrom the consent given is present.' That situation is covered by CACI No.\n530A.\" ( Dennis v. Southard (2009) 174 Cal. App.4th 540, 544 [94 Cal. Rptr.3d\n559], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Dennis v. Southard",
+          "year": 2009,
+          "volume": 174,
+          "reporter": "Cal.App.4th",
+          "page": 540,
+          "pin": "544",
+          "raw": "Dennis v. Southard (2009) 174 Cal. App.4th 540, 544",
+          "span": [
+            380,
+            431
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In the absence of any deﬁnitive case law establishing whether operating on the\nwrong disk within inches of the correct disk is a 'substantially different\nprocedure,' we conclude the matter is a factual question for a ﬁnder of fact to\ndecide and at least in this instance, not one capable of being decided on\ndemurrer.\" (Kaplan v. Mamelak (2008) 162 Cal. App.4th 637, 647 [75\nCal. Rptr.3d 861.)\nCACI No. 530A MEDICAL NEGLIGENCE\n476",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Kaplan v. Mamelak",
+          "year": 2008,
+          "volume": 162,
+          "reporter": "Cal.App.4th",
+          "page": 637,
+          "pin": "647",
+          "raw": "Kaplan v. Mamelak (2008) 162 Cal. App.4th 637, 647",
+          "span": [
+            321,
+            371
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Although . . . consent to surgery necessarily encompasses consent to\npostoperative care, not all postoperative contact between doctor and patient\nconstitutes care. The question of the nature of the contact between plaintiff and\n[defendant], and whether that contact was within the scope of plaintiff's consent,\nis a factual question for a ﬁnder of fact to decide.\" ( So v. Shin (2013) 212\nCal. App.4th 652, 669 [151 Cal. Rptr.3d 257], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "So v. Shin",
+          "year": 2013,
+          "volume": 212,
+          "reporter": "Cal.App.4th",
+          "page": 652,
+          "pin": "669",
+          "raw": "So v. Shin (2013) 212 Cal. App.4th 652, 669",
+          "span": [
+            368,
+            411
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§459–1635\nHaning et al., California Practice Guide: Personal Injury, Ch. 3-E, Punitive\nDamages, ¶ 3:1394 (The Rutter Group)\nHaning et al., California Practice Guide: Personal Injury, Ch. 3-F, MICRA Provisions\nAffecting Damages , ¶ 3:1883–3:1885 (The Rutter Group)\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §§9.11–9.16\n3 Levy et al., California Torts, Ch. 31, Liability of Physicians and Other Medical\nPractitioners, §31.41, Ch. 41, Assault and Battery , §41.01 (Matthew Bender)\n6 California Forms of Pleading and Practice, Ch. 58, Assault and Battery , §58.14\n(Matthew Bender)\n36 California Forms of Pleading and Practice, Ch. 415, Physicians: Medical\nMalpractice, §§415.13, 415.20 (Matthew Bender)\n2 California Points and Authorities, Ch. 21, Assault and Battery , §21.20 et seq.\n(Matthew Bender)\n17 California Points and Authorities, Ch. 175, Physicians and Surgeons: Medical\nMalpractice, §175.28 et seq. (Matthew Bender)\n33 California Legal Forms, Ch. 104, Health Care Transactions, Consents, and\nDirectives, §104.11 (Matthew Bender)\nMEDICAL NEGLIGENCE CACI No. 530A\n477",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Stewart v. Superior Court",
+      "year": 2017,
+      "volume": 16,
+      "reporter": "Cal.App.5th",
+      "page": 87,
+      "pin": "105",
+      "raw": "Stewart v. Superior Court (2017) 16 Cal. App.5th 87, 105",
+      "span": [
+        861,
+        917
+      ],
+      "role": "sources",
+      "case_key": "16 Cal.App.5th 87"
+    },
+    {
+      "name": "Saxena v. Goffney",
+      "year": 2008,
+      "volume": 159,
+      "reporter": "Cal.App.4th",
+      "page": 316,
+      "pin": "324",
+      "raw": "Saxena v. Goffney (2008) 159 Cal. App.4th 316, 324",
+      "span": [
+        410,
+        460
+      ],
+      "role": "sources",
+      "case_key": "159 Cal.App.4th 316"
+    },
+    {
+      "name": "Pedesky v. Bleiberg",
+      "year": 1967,
+      "volume": 251,
+      "reporter": "Cal.App.2d",
+      "page": 119,
+      "pin": "123",
+      "raw": "Pedesky v. Bleiberg (1967) 251 Cal. App.2d 119, 123",
+      "span": [
+        431,
+        482
+      ],
+      "role": "sources",
+      "case_key": "251 Cal.App.2d 119"
+    },
+    {
+      "name": "Bradford v. Winter",
+      "year": 1963,
+      "volume": 215,
+      "reporter": "Cal.App.2d",
+      "page": 448,
+      "pin": "454",
+      "raw": "Bradford v. Winter (1963) 215 Cal. App.2d 448, 454",
+      "span": [
+        105,
+        155
+      ],
+      "role": "sources",
+      "case_key": "215 Cal.App.2d 448"
+    },
+    {
+      "name": "Kritzer v. Citron",
+      "year": 1950,
+      "volume": 101,
+      "reporter": "Cal.App.2d",
+      "page": 33,
+      "pin": "38–39",
+      "raw": "Kritzer v. Citron (1950) 101 Cal. App.2d 33, 38–39",
+      "span": [
+        138,
+        188
+      ],
+      "role": "sources",
+      "case_key": "101 Cal.App.2d 33"
+    },
+    {
+      "name": "Dennis v. Southard",
+      "year": 2009,
+      "volume": 174,
+      "reporter": "Cal.App.4th",
+      "page": 540,
+      "pin": "544",
+      "raw": "Dennis v. Southard (2009) 174 Cal. App.4th 540, 544",
+      "span": [
+        380,
+        431
+      ],
+      "role": "sources",
+      "case_key": "174 Cal.App.4th 540"
+    },
+    {
+      "name": "Kaplan v. Mamelak",
+      "year": 2008,
+      "volume": 162,
+      "reporter": "Cal.App.4th",
+      "page": 637,
+      "pin": "647",
+      "raw": "Kaplan v. Mamelak (2008) 162 Cal. App.4th 637, 647",
+      "span": [
+        321,
+        371
+      ],
+      "role": "sources",
+      "case_key": "162 Cal.App.4th 637"
+    },
+    {
+      "name": "So v. Shin",
+      "year": 2013,
+      "volume": 212,
+      "reporter": "Cal.App.4th",
+      "page": 652,
+      "pin": "669",
+      "raw": "So v. Shin (2013) 212 Cal. App.4th 652, 669",
+      "span": [
+        368,
+        411
+      ],
+      "role": "sources",
+      "case_key": "212 Cal.App.4th 652"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

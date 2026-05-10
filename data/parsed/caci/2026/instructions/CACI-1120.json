@@ -1,0 +1,213 @@
+{
+  "id": "CACI-1120",
+  "edition": "2026",
+  "number": "1120",
+  "title": "Failure to Provide Traffic Control Signals",
+  "title_full": "Failure to Provide Traffic Control Signals (Gov. Code,§ 830.4)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "GOV",
+    "section": "830.4",
+    "display": "Government Code section 830.4",
+    "raw": "Gov. Code,§ 830.4",
+    "span": [
+      0,
+      17
+    ]
+  },
+  "series": "1100",
+  "series_title": "Series 1100 Dangerous Condition of Public Property",
+  "page_start": 783,
+  "page_end": 784,
+  "instruction_text": "1120. Failure to Provide Traffic Control Signals (Gov. Code,\n§830.4)\nY ou may not ﬁnd that [ name of defendant ]'s property was in a dangerous\ncondition just because it did not provide a [ insert device or marking ].\nHowever, you may consider the lack of a [ insert device or marking ], along\nwith other circumstances shown by the evidence, in determining whether\n[name of defendant ]'s property was dangerous.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "No Liability for Failure to Provide Traffic Controls. Government Code section\n830.4.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "830.4",
+          "display": "Government Code section 830.4",
+          "raw": "Government Code section\n830.4",
+          "span": [
+            54,
+            83
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\" '[T]he statutory scheme precludes a plaintiff from imposing liability on a\npublic entity for creating a dangerous condition merely because it did not install\nthe described traffic control devices.' In short, '[t]he lack of a traffic signal at the\nintersection does not constitute proof of a dangerous condition.' \" ( Mixon v.\nPaciﬁc Gas & Electric Co. (2012) 207 Cal. App.4th 124, 135 [142 Cal. Rptr.3d\n633], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Cases interpreting this statute have held that it provides a shield against liability\nonly in those situations where the alleged dangerous condition exists solely as a\nresult of the public entity's failure to provide a regulatory traffic device or street\nmarking. If a traffic intersection is dangerous for reasons other than the failure to\nprovide regulatory signals or street markings, the statute provides no immunity.\"\n(Washington v. City and County of San Francisco (1990) 219 Cal. App.3d 1531,\n1534–1535 [269 Cal. Rptr. 58].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Washington v. City and County of San Francisco",
+          "year": 1990,
+          "volume": 219,
+          "reporter": "Cal.App.3d",
+          "page": 1531,
+          "pin": "1534–1535",
+          "raw": "Washington v. City and County of San Francisco (1990) 219 Cal. App.3d 1531, 1534–1535",
+          "span": [
+            425,
+            510
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A public entity does not create a dangerous condition on its property 'merely\nbecause of the failure to provide regulatory traffic control signals, stop signs,\nyield right-of-way signs, or speed restriction signs . . . .' (§830.4.) If, on the\nother hand, the government installs traffic signals and invites the public to\njustiﬁably rely on them, liability will attach if the signals malfunction, confusing\nor misleading motorists, and causing an accident to occur. The reasoning behind\nthis rule is that the government creates a dangerous condition and a trap when it\noperates traffic signals that, for example, direct motorists to 'go' in all four\ndirections of an intersection simultaneously, with predictable results.\"\n(Chowdhury v. City of Los Angeles (1995) 38 Cal. App.4th 1187, 1194–1195 [45\nCal. Rptr.2d 657], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Chowdhury v. City of Los Angeles",
+          "year": 1995,
+          "volume": 38,
+          "reporter": "Cal.App.4th",
+          "page": 1187,
+          "pin": "1194–1195",
+          "raw": "Chowdhury v. City of Los Angeles (1995) 38 Cal. App.4th 1187, 1194–1195",
+          "span": [
+            724,
+            795
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"If the government turns off traffic signals entirely to avoid confusion, liability\ndoes not attach. 'When the [traffic] lights were turned off, their defective\ncondition could no longer mislead or misdirect the injured party.' The same\nresult obtains whether the traffic signals are extinguished by design or by\n709\naccident.\" ( Chowdhury, supra, 38 Cal. App.4th at p. 1195, internal citations\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Although section 830.4 . . . provides that a condition of public property is not\na dangerous one merely because of the failure to provide regulatory traffic\ncontrol signals, the absence of such signals for the protection of pedestrians must\nbe taken into consideration, together with other factors. . . . [T]he lack of\ncrosswalk markings, better illumination and warning signs became important\nfactors in the case when the [pedestrian] subway itself was in a dangerous\ncondition.\" ( Gardner v. City of San Jose (1967) 248 Cal. App.2d 798, 803 [57\nCal. Rptr. 176].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Gardner v. City of San Jose",
+          "year": 1967,
+          "volume": 248,
+          "reporter": "Cal.App.2d",
+          "page": 798,
+          "pin": "803",
+          "raw": "Gardner v. City of San Jose (1967) 248 Cal. App.2d 798, 803",
+          "span": [
+            484,
+            543
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In short, a dangerous condition proven to exist, for reasons other than or in\naddition to the mere failure to provide the controls or markings described in\nsection 830.4, may constitute a proximate cause of injury without regard to\nwhether such condition also constitutes a 'trap,' as described by section 830.8, to\none using the public improvement with due care because of the failure to post\nsigns different from those dealt with by section 830.4 warning of that dangerous\ncondition.\" ( Washington, supra, 219 Cal. App.3d at p. 1537.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[D]efendant did not cite, nor have we located, any authority to extend this\nstatutory immunity to a private entity alleged to have been negligent. To the\ncontrary, a defendant that 'is not a \"public entity\" . . . is not entitled to claim\nthe immunity set forth in the Tort Claims Act.' \" ( Lichtman v. Siemens Industry\nInc. (2017) 16 Cal. App.5th 914, 930 [224 Cal. Rptr.3d 725].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lichtman v. Siemens Industry Inc.",
+          "year": 2017,
+          "volume": 16,
+          "reporter": "Cal.App.5th",
+          "page": 914,
+          "pin": "930",
+          "raw": "Lichtman v. Siemens Industry Inc. (2017) 16 Cal. App.5th 914, 930",
+          "span": [
+            291,
+            356
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §316\n2 California Government Tort Liability Practice (Cont.Ed.Bar 4th ed.) §12.75\n5 Levy et al., California Torts, Ch. 61, Particular Liabilities and Immunities of\nPublic Entities and Public Employees , §61.03[4] (Matthew Bender)\n40 California Forms of Pleading and Practice, Ch. 464, Public Entities and Offıcers:\nCalifornia Government Claims Act , §464.85 (Matthew Bender)\n19A California Points and Authorities, Ch. 196, Public Entities , §§196.12, 196.210\n(Matthew Bender)\nCACI No. 1120 DANGEROUS CONDITION OF PUBLIC PROPERTY\n710",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "830.4",
+      "display": "Government Code section 830.4",
+      "raw": "Gov. Code,§ 830.4",
+      "span": [
+        0,
+        17
+      ],
+      "role": "title",
+      "statute_key": "CA/GOV/830.4"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Washington v. City and County of San Francisco",
+      "year": 1990,
+      "volume": 219,
+      "reporter": "Cal.App.3d",
+      "page": 1531,
+      "pin": "1534–1535",
+      "raw": "Washington v. City and County of San Francisco (1990) 219 Cal. App.3d 1531, 1534–1535",
+      "span": [
+        425,
+        510
+      ],
+      "role": "sources",
+      "case_key": "219 Cal.App.3d 1531"
+    },
+    {
+      "name": "Chowdhury v. City of Los Angeles",
+      "year": 1995,
+      "volume": 38,
+      "reporter": "Cal.App.4th",
+      "page": 1187,
+      "pin": "1194–1195",
+      "raw": "Chowdhury v. City of Los Angeles (1995) 38 Cal. App.4th 1187, 1194–1195",
+      "span": [
+        724,
+        795
+      ],
+      "role": "sources",
+      "case_key": "38 Cal.App.4th 1187"
+    },
+    {
+      "name": "Gardner v. City of San Jose",
+      "year": 1967,
+      "volume": 248,
+      "reporter": "Cal.App.2d",
+      "page": 798,
+      "pin": "803",
+      "raw": "Gardner v. City of San Jose (1967) 248 Cal. App.2d 798, 803",
+      "span": [
+        484,
+        543
+      ],
+      "role": "sources",
+      "case_key": "248 Cal.App.2d 798"
+    },
+    {
+      "name": "Lichtman v. Siemens Industry Inc.",
+      "year": 2017,
+      "volume": 16,
+      "reporter": "Cal.App.5th",
+      "page": 914,
+      "pin": "930",
+      "raw": "Lichtman v. Siemens Industry Inc. (2017) 16 Cal. App.5th 914, 930",
+      "span": [
+        291,
+        356
+      ],
+      "role": "sources",
+      "case_key": "16 Cal.App.5th 914"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:11+00:00"
+}

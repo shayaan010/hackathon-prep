@@ -1,0 +1,79 @@
+{
+  "id": "CACI-3423",
+  "edition": "2026",
+  "number": "3423",
+  "title": "Tying—“Economic Power” Explained",
+  "title_full": "Tying—“Economic Power” Explained",
+  "title_statute": null,
+  "series": "3400",
+  "series_title": "Series 3400 Cartwright Act",
+  "page_start": 2521,
+  "page_end": 2521,
+  "instruction_text": "3423. Tying–\"Economic Power\" Explained\nIn determining whether [ name of defendant ] has sufficient economic\npower in the market for [ tying item ], you may consider whether [ name of\ndefendant] has such a large share of the market for [ tying item ] that\nbuyers do not have alternate sources of [ tying item ] or a reasonably\navailable substitute. If [ name of defendant ] has economic power, it may be\nestablished even though it exists with respect to some, but not all,\nbuyers.\nY ou may also consider whether a buyer would be unable to easily locate\na similar or equally desirable product in the marketplace. If buyers do\nnot generally consider other products to be substitutes, this fact may give\n[name of defendant ] economic power over its [ tied item ]. The fact that\n[name of defendant ] can produce [ tying item ] in an efficient manner or at\na high level of quality does not, by itself, mean that competitors do not\noffer a similar product.",
+  "directions_for_use": "This instruction assumes that the plaintiff is seeking relief under Business and\nProfessions Code section 16720. If the plaintiff is instead seeking relief under\nBusiness and Professions Code section 16727, this element is not required, so long\nas the plaintiff proves that the claimed tie-in affected a \"not insubstantial amount\" of\nsales of the tied product. If that proof is note summarily established or agreed to,\nthen this instruction also must be read in such cases.",
+  "sources_and_authority": [
+    {
+      "raw": "\"[W]e emphasize that the power over the tying product . . . can be sufficient\neven though the power falls short of dominance and even though the power\nexists only with respect to some buyers in the market. As the cases unanimously\nunderline, such crucial economic power may be inferred from the tying product's\ndesirability to consumers or from uniqueness in its attributes.\" ( Suburban Mobile\nHomes v. AMF AC Communities (1980) 101 Cal. App.3d 532, 544 [161 Cal. Rptr.\n811], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Suburban Mobile Homes v. AMF AC Communities",
+          "year": 1980,
+          "volume": 101,
+          "reporter": "Cal.App.3d",
+          "page": 532,
+          "pin": "544",
+          "raw": "Suburban Mobile Homes v. AMF AC Communities (1980) 101 Cal. App.3d 532, 544",
+          "span": [
+            378,
+            453
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Decisions of the United States Supreme Court 'have made unmistakably clear\nthat the economic power over the tying product can be sufficient even though the\npower falls far short of dominance and even though the power exists only with\nrespect to some of the buyers in the market.' \" ( Corwin v. Los Angeles\nNewspaper Services Bur . (1971) 4 Cal. 3d 842, 858 [94 Cal. Rptr. 785, 484 P.2d\n953], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Tying arrangements are illegal per se 'whenever a party has sufficient economic\n635",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "16727",
+      "display": "Business and Professions Code section 16727",
+      "raw": "Business and Professions Code section 16727",
+      "span": [
+        162,
+        205
+      ],
+      "role": "directions",
+      "statute_key": "CA/BPC/16727"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Suburban Mobile Homes v. AMF AC Communities",
+      "year": 1980,
+      "volume": 101,
+      "reporter": "Cal.App.3d",
+      "page": 532,
+      "pin": "544",
+      "raw": "Suburban Mobile Homes v. AMF AC Communities (1980) 101 Cal. App.3d 532, 544",
+      "span": [
+        378,
+        453
+      ],
+      "role": "sources",
+      "case_key": "101 Cal.App.3d 532"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

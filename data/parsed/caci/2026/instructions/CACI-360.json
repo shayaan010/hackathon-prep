@@ -1,0 +1,120 @@
+{
+  "id": "CACI-360",
+  "edition": "2026",
+  "number": "360",
+  "title": "Nominal Damages",
+  "title_full": "Nominal Damages",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 264,
+  "page_end": 264,
+  "instruction_text": "360. Nominal Damages\nIf you decide that [ name of defendant ] breached the contract but also that\n[name of plaintiff ] was not harmed by the breach, you may still award\n[him/her/nonbinary pronoun/it] nominal damages such as one dollar.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "Nominal Damages. Civil Code section 3360.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3360",
+          "display": "Civil Code section 3360",
+          "raw": "Civil Code section 3360",
+          "span": [
+            17,
+            40
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"A plaintiff is entitled to recover nominal damages for the breach of a contract,\ndespite inability to show that actual damage was inﬂicted upon him, since the\ndefendant's failure to perform a contractual duty is, in itself, a legal wrong that\nis fully distinct from the actual damages. The maxim that the law will not be\nconcerned with triﬂes does not, ordinarily, apply to violation of a contractual\nright. Accordingly, nominal damages, which are presumed as a matter of law to\nstem merely from the breach of a contract may properly be awarded for the\nviolation of such a right. And, by statute, such is also the rule in California.\"\n(Sweet v. Johnson (1959) 169 Cal. App.2d 630, 632–633 [337 P.2d 499], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Sweet v. Johnson",
+          "year": 1959,
+          "volume": 169,
+          "reporter": "Cal.App.2d",
+          "page": 630,
+          "pin": "632–633",
+          "raw": "Sweet v. Johnson (1959) 169 Cal. App.2d 630, 632–633",
+          "span": [
+            637,
+            689
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"With one exception . . . an unbroken line of cases holds that nominal damages\nare limited to an amount of a few cents or a dollar.\" ( Avina v. Spurlock (1972)\n28 Cal. App.3d 1086, 1089 [105 Cal. Rptr. 198], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Avina v. Spurlock",
+          "year": 1972,
+          "volume": 28,
+          "reporter": "Cal.App.3d",
+          "page": 1086,
+          "pin": "1089",
+          "raw": "Avina v. Spurlock (1972) 28 Cal. App.3d 1086, 1089",
+          "span": [
+            135,
+            185
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §903\n15 California Forms of Pleading and Practice, Ch. 177, Damages, §§177.14, 177.71\n(Matthew Bender)\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 7, Seeking or\nOpposing Damages in Contract Actions , 7.04[11]\n190",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3360",
+      "display": "Civil Code section 3360",
+      "raw": "Civil Code section 3360",
+      "span": [
+        17,
+        40
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3360"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Sweet v. Johnson",
+      "year": 1959,
+      "volume": 169,
+      "reporter": "Cal.App.2d",
+      "page": 630,
+      "pin": "632–633",
+      "raw": "Sweet v. Johnson (1959) 169 Cal. App.2d 630, 632–633",
+      "span": [
+        637,
+        689
+      ],
+      "role": "sources",
+      "case_key": "169 Cal.App.2d 630"
+    },
+    {
+      "name": "Avina v. Spurlock",
+      "year": 1972,
+      "volume": 28,
+      "reporter": "Cal.App.3d",
+      "page": 1086,
+      "pin": "1089",
+      "raw": "Avina v. Spurlock (1972) 28 Cal. App.3d 1086, 1089",
+      "span": [
+        135,
+        185
+      ],
+      "role": "sources",
+      "case_key": "28 Cal.App.3d 1086"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

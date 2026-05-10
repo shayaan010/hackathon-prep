@@ -1,0 +1,179 @@
+{
+  "id": "CACI-404",
+  "edition": "2026",
+  "number": "404",
+  "title": "Intoxication",
+  "title_full": "Intoxication",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 316,
+  "page_end": 316,
+  "instruction_text": "404. Intoxication\nA person is not necessarily negligent just because that person used\nalcohol [or drugs]. However, people who drink alcohol [or take drugs]\nmust act just as carefully as those who do not.",
+  "directions_for_use": "This instruction should be given only if there is evidence of alcohol or drug\nconsumption. This instruction is not intended for situations in which intoxication is\ngrounds for a negligence per se instruction (e.g., driving under the inﬂuence).",
+  "sources_and_authority": [
+    {
+      "raw": "Mere consumption of alcohol is not negligence in and of itself: \"The fact that a\nperson when injured was intoxicated is not in itself evidence of contributory\nnegligence, but it is a circumstance to be considered in determining whether his\nintoxication contributed to his injury.\" ( Coakley v. Ajuria (1930) 209 Cal. 745,\n752 [290 P.33].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Coakley v. Ajuria",
+          "year": 1930,
+          "volume": 209,
+          "reporter": "Cal.",
+          "page": 745,
+          "pin": "752",
+          "raw": "Coakley v. Ajuria (1930) 209 Cal. 745, 752",
+          "span": [
+            283,
+            325
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Intoxication is not generally an excuse for failure to comply with the reasonable-\nperson standard. ( Cloud v. Market Street Railway Co. (1946) 74 Cal. App.2d 92,\n97 [168 P.2d 191].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cloud v. Market Street Railway Co.",
+          "year": 1946,
+          "volume": 74,
+          "reporter": "Cal.App.2d",
+          "page": 92,
+          "pin": "97",
+          "raw": "Cloud v. Market Street Railway Co. (1946) 74 Cal. App.2d 92, 97",
+          "span": [
+            102,
+            165
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Intoxication is not negligence as a matter of law, but it is a circumstance for the\njury to consider in determining whether such intoxication was a contributing\ncause of an injury and is also a question of fact for the jury. ( Pittman v. Boiven\n(1967) 249 Cal. App.2d 207, 217 [57 Cal. Rptr. 319]; Barr v. Scott (1955) 134\nCal. App.2d 823, 827–828 [286 P.2d 552]; see also Emery v. Los Angeles Ry.\nCorp. (1943) 61 Cal. App.2d 455, 461 [143 P.2d 112].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Pittman v. Boiven",
+          "year": 1967,
+          "volume": 249,
+          "reporter": "Cal.App.2d",
+          "page": 207,
+          "pin": "217",
+          "raw": "Pittman v. Boiven (1967) 249 Cal. App.2d 207, 217",
+          "span": [
+            227,
+            276
+          ]
+        },
+        {
+          "name": "Barr v. Scott",
+          "year": 1955,
+          "volume": 134,
+          "reporter": "Cal.App.2d",
+          "page": 823,
+          "pin": "827–828",
+          "raw": "Barr v. Scott (1955) 134 Cal. App.2d 823, 827–828",
+          "span": [
+            298,
+            347
+          ]
+        },
+        {
+          "name": "Emery v. Los Angeles Ry. Corp.",
+          "year": 1943,
+          "volume": 61,
+          "reporter": "Cal.App.2d",
+          "page": 455,
+          "pin": "461",
+          "raw": "Emery v. Los Angeles Ry. Corp. (1943) 61 Cal. App.2d 455, 461",
+          "span": [
+            373,
+            434
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1477\n2 Levy et al., California Torts, Ch. 20, Motor V ehicles, §§20.02, 20.04 (Matthew\nBender)\n33 California Forms of Pleading and Practice, Ch. 380, Negligence (Matthew\nBender)\n242",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Coakley v. Ajuria",
+      "year": 1930,
+      "volume": 209,
+      "reporter": "Cal.",
+      "page": 745,
+      "pin": "752",
+      "raw": "Coakley v. Ajuria (1930) 209 Cal. 745, 752",
+      "span": [
+        283,
+        325
+      ],
+      "role": "sources",
+      "case_key": "209 Cal. 745"
+    },
+    {
+      "name": "Cloud v. Market Street Railway Co.",
+      "year": 1946,
+      "volume": 74,
+      "reporter": "Cal.App.2d",
+      "page": 92,
+      "pin": "97",
+      "raw": "Cloud v. Market Street Railway Co. (1946) 74 Cal. App.2d 92, 97",
+      "span": [
+        102,
+        165
+      ],
+      "role": "sources",
+      "case_key": "74 Cal.App.2d 92"
+    },
+    {
+      "name": "Pittman v. Boiven",
+      "year": 1967,
+      "volume": 249,
+      "reporter": "Cal.App.2d",
+      "page": 207,
+      "pin": "217",
+      "raw": "Pittman v. Boiven (1967) 249 Cal. App.2d 207, 217",
+      "span": [
+        227,
+        276
+      ],
+      "role": "sources",
+      "case_key": "249 Cal.App.2d 207"
+    },
+    {
+      "name": "Barr v. Scott",
+      "year": 1955,
+      "volume": 134,
+      "reporter": "Cal.App.2d",
+      "page": 823,
+      "pin": "827–828",
+      "raw": "Barr v. Scott (1955) 134 Cal. App.2d 823, 827–828",
+      "span": [
+        298,
+        347
+      ],
+      "role": "sources",
+      "case_key": "134 Cal.App.2d 823"
+    },
+    {
+      "name": "Emery v. Los Angeles Ry. Corp.",
+      "year": 1943,
+      "volume": 61,
+      "reporter": "Cal.App.2d",
+      "page": 455,
+      "pin": "461",
+      "raw": "Emery v. Los Angeles Ry. Corp. (1943) 61 Cal. App.2d 455, 461",
+      "span": [
+        373,
+        434
+      ],
+      "role": "sources",
+      "case_key": "61 Cal.App.2d 455"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

@@ -1,0 +1,562 @@
+{
+  "id": "CACI-2308",
+  "edition": "2026",
+  "number": "2308",
+  "title": "Affirmative Defense—Misrepresentation or Concealment in Insurance Application",
+  "title_full": "Affirmative Defense—Misrepresentation or Concealment in Insurance Application",
+  "title_statute": null,
+  "series": "2300",
+  "series_title": "Series 2300 Insurance Litigation",
+  "page_start": 1463,
+  "page_end": 1466,
+  "instruction_text": "2308. Affirmative Defense–Misrepresentation or Concealment in\nInsurance Application\n[Name of insurer ] claims that no insurance contract was created because\n[name of insured ] [concealed an important fact/made a false\nrepresentation] in [his/her/ nonbinary pronoun/its] application for\ninsurance. To establish this defense, [ name of insurer ] must prove all of\nthe following:\n1. That [ name of insured ] submitted an application for insurance\nwith [ name of insurer ];\n2. That in the application for insurance [ name of insured ], whether\nintentionally or unintentionally, [failed to state/represented] that\n[insert omission or alleged misrepresentation ];\n3. [That the application asked for that information;]\n4. That [ name of insured ] knew that [ specify facts that were\nmisrepresented or omitted ]; and\n5. That [ name of insurer ] would not have issued the insurance policy\nif [ name of insured ] had stated the true facts in the application.",
+  "directions_for_use": "This instruction presents an insurer's affirmative defense to a claim for coverage.\nThe defense is based on a misrepresentation or omission made by the insured in the\napplication for the insurance. (See Douglas v. Fid. Nat'l Ins. Co. (2014) 229\nCal. App.4th 392, 408 [177 Cal. Rptr.3d 271].) If the policy at issue is a standard ﬁre\ninsurance policy, replace \"intentionally or unintentionally\" in element 2 with\n\"willfully.\" (See Ins. Code, §2071.) Otherwise, the insurer is not required to prove\nan intent to deceive; negligence or inadvertence is enough if the misrepresentation\nor omission is material. ( Douglas, supra , 229 Cal. App.4th at p. 408.) Element 5\nexpresses materiality.\nElement 3 applies only if plaintiff omitted information, not if the plaintiff\nmisrepresented information.\nWhile no intent to mislead is required, the insured must know the facts that\nconstitute the omission or misrepresentation (see element 4). For example, if the\napplication does not disclose that property on which insurance is sought is being\nused commercially, the applicant must have known that the property is being used\ncommercially. (See Ins. Code, §332.) It is not a defense, however, if the insured\ngave incorrect or incomplete responses on the application because the insured failed\nto appreciate the signiﬁcance of some information known to him or her. (See\n1389\nThompson v. Occidental Life Insurance Co. of California (1973) 9 Cal. 3d 904, 916\n[109 Cal. Rptr. 473, 513 P.2d 353].)\nIf it is alleged that omission occurred in circumstances other than a written\napplication, this instruction should be modiﬁed accordingly.",
+  "sources_and_authority": [
+    {
+      "raw": "Rescission of Contract. Civil Code section 1689(b)(1).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1689",
+          "display": "Civil Code section 1689",
+          "raw": "Civil Code section 1689(b)(1)",
+          "span": [
+            24,
+            53
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1689",
+          "display": "Civil Code section 1689(b)",
+          "raw": "Civil Code section 1689(b)(1)",
+          "span": [
+            24,
+            53
+          ],
+          "subsection": "b"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1689",
+          "display": "Civil Code section 1689(1)",
+          "raw": "Civil Code section 1689(b)(1)",
+          "span": [
+            24,
+            53
+          ],
+          "subsection": "1"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Time of Insurer's Rescission of Policy. Insurance Code section 650.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "650",
+          "display": "Insurance Code section 650",
+          "raw": "Insurance Code section 650",
+          "span": [
+            40,
+            66
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Concealment by Failure to Communicate. Insurance Code section 330.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "330",
+          "display": "Insurance Code section 330",
+          "raw": "Insurance Code section 330",
+          "span": [
+            39,
+            65
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Concealment Entitles Insurer to Rescind. Insurance Code section 331.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "331",
+          "display": "Insurance Code section 331",
+          "raw": "Insurance Code section 331",
+          "span": [
+            41,
+            67
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Duty to Communicate in Good Faith. Insurance Code section 332.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "332",
+          "display": "Insurance Code section 332",
+          "raw": "Insurance Code section 332",
+          "span": [
+            35,
+            61
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Materiality. Insurance Code section 334.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "334",
+          "display": "Insurance Code section 334",
+          "raw": "Insurance Code section 334",
+          "span": [
+            13,
+            39
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Intentional Omission of Information Tending to Prove Falsity. Insurance Code\nsection 338.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "338",
+          "display": "Insurance Code section 338",
+          "raw": "Insurance Code\nsection 338",
+          "span": [
+            62,
+            88
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "False Representation: Time for Rescission. Insurance Code section 359.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "359",
+          "display": "Insurance Code section 359",
+          "raw": "Insurance Code section 359",
+          "span": [
+            43,
+            69
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"It is well established that material misrepresentations or concealment of\nmaterial facts in an application for insurance entitle an insurer to rescind an\ninsurance policy, even if the misrepresentations are not intentionally made.\nAdditionally, '[a] misrepresentation or concealment of a material fact in an\ninsurance application also establishes a complete defense in an action on the\npolicy. [Citations.] As with rescission, an insurer seeking to invalidate a policy\nbased on a material misrepresentation or concealment as a defense need not\nshow an intent to deceive. [Citations.]' \" ( Douglas, supra , 229 Cal. App.4th at p.\n408, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"When the [automobile] insurer fails . . . to conduct . . . a reasonable\ninvestigation [of insurability] it cannot assert . . . a right of rescission\" under\nsection 650 of the Insurance Code as an affirmative defense to an action by an\ninjured third party. ( Barrera v. State Farm Mutual Automobile Insurance Co.\n(1969) 71 Cal. 2d 659, 678 [79 Cal. Rptr. 106, 456 P.2d 674].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Barrera v. State Farm Mutual Automobile Insurance Co.",
+          "year": 1969,
+          "volume": 71,
+          "reporter": "Cal.2d",
+          "page": 659,
+          "pin": "678",
+          "raw": "Barrera v. State Farm Mutual Automobile Insurance Co. (1969) 71 Cal. 2d 659, 678",
+          "span": [
+            259,
+            339
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A]n insurer has a right to know all that the applicant for insurance knows\nregarding the state of his health and medical history. Material misrepresentation\nor concealment of such facts [is] grounds for rescission of the policy, and an\nactual intent to deceive need not be shown. Materiality is determined solely by\nthe probable and reasonable effect [that] truthful answers would have had upon\nthe insurer. The fact that the insurer has demanded answers to speciﬁc questions\nin an application for insurance is in itself usually sufficient to establish\nmateriality as a matter of law.\" ( Thompson, supra , 9 Cal. 3d at pp. 915–916,\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[A]lthough an insurer generally 'has the right to rely on the applicant's answers\nwithout verifying their accuracy[,] . . . [¶] . . . [t]he insurer cannot rely on\nanswers given where the applicant-insured was misled by vague or ambiguous\nCACI No. 2308 INSURANCE LITIGA TION\n1390\nquestions.' \" ( Duarte v. Paciﬁc Specialty Ins. Co. (2017) 13 Cal. App.5th 45, 54\n[220 Cal. Rptr.3d 170], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Duarte v. Paciﬁc Specialty Ins. Co.",
+          "year": 2017,
+          "volume": 13,
+          "reporter": "Cal.App.5th",
+          "page": 45,
+          "pin": "54",
+          "raw": "Duarte v. Paciﬁc Specialty Ins. Co. (2017) 13 Cal. App.5th 45, 54",
+          "span": [
+            296,
+            361
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]f the applicant for insurance had no present knowledge of the facts sought, or\nfailed to appreciate the signiﬁcance of information related to him, his incorrect\nor incomplete responses would not constitute grounds for rescission. Moreover,\n'[questions] concerning illness or disease do not relate to minor indispositions\nbut are to be construed as referring to serious ailments which undermine the\ngeneral health.' Finally, as the misrepresentation must be a material one,\n'incorrect answer on an insurance application does not give rise to the defense of\nfraud where the true facts, if known, would not have made the contract less\ndesirable to the insurer.' And the trier of fact is not required to believe the 'post\nmortem' testimony of an insurer's agents that insurance would have been refused\nhad the true facts been disclosed.\" ( Thompson, supra , 9 Cal. 3d at p. 916, internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he burden of proving misrepresentation [for purposes of rescission] rests\nupon the insurer.\" ( Thompson, supra , 9 Cal. 3d at p. 919.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"To prevail, the insurer must prove that the insured made a material 'false\nrepresentation' in an insurance application. 'A representation is false when the\nfacts fail to correspond with its assertions or stipulations.' The test for\nmateriality of the misrepresentation or concealment is the same as it is for\nrescission, 'a misrepresentation or concealment is material if a truthful statement\nwould have affected the insurer's underwriting decision.' \" ( Douglas, supra , 229\nCal. App.4th at p. 408, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The materiality of a representation made in an application for a contract of\ninsurance is determined by a subjective standard (i.e., its effect on the particular\ninsurer to whom it was made) and rescission will be allowed even though the\nmisrepresentation was the result of negligence or the product of innocence. On\nthe other hand, in order to void a policy based upon the insured's violation of\nthe standard fraud and concealment clause . . . , the false statement must have\nbeen knowingly and wilfully made with the intent (express or implied) of\ndeceiving the insurer. The materiality of the statement will be determined by the\nobjective standard of its effect upon a reasonable insurer.\" (Cummings v. Fire\nInsurance Exchange (1988) 202 Cal. App.3d 1407, 1415, fn.7 [249 Cal. Rptr.\n568], original italics, internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cummings v. Fire Insurance Exchange",
+          "year": 1988,
+          "volume": 202,
+          "reporter": "Cal.App.3d",
+          "page": 1407,
+          "pin": "1415",
+          "raw": "Cummings v. Fire Insurance Exchange (1988) 202 Cal. App.3d 1407, 1415",
+          "span": [
+            695,
+            764
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The insurer is not required to show a causal relationship between the material\nmisrepresentation or concealment of material fact and the nature of the claim.\"\n(Duarte, supra, 13 Cal. App.5th at p. 53.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Cancellation and rescission are not synonymous. One is prospective, while the\nother is retroactive.\" ( Fireman' s Fund American Insurance Co. v. Escobedo\n(1978) 80 Cal. App.3d 610, 619 [145 Cal. Rptr. 785].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Fund American Insurance Co. v. Escobedo",
+          "year": 1978,
+          "volume": 80,
+          "reporter": "Cal.App.3d",
+          "page": 610,
+          "pin": "619",
+          "raw": "Fund American Insurance Co. v. Escobedo (1978) 80 Cal. App.3d 610, 619",
+          "span": [
+            115,
+            185
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[U]pon a rescission of a policy of insurance, based upon a material concealment\nor misrepresentation, all rights of the insured thereunder (except the right to\nrecover any consideration paid in the purchase of the policy) are\nINSURANCE LITIGA TION CACI No. 2308\n1391\nextinguished . . . .\" ( Imperial Casualty & Indemnity Co. v. Sogomonian (1988)\n198 Cal. App.3d 169, 184 [243 Cal. Rptr. 639].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Indemnity Co. v. Sogomonian",
+          "year": 1988,
+          "volume": 198,
+          "reporter": "Cal.App.3d",
+          "page": 169,
+          "pin": "184",
+          "raw": "Indemnity Co. v. Sogomonian (1988) 198 Cal. App.3d 169, 184",
+          "span": [
+            312,
+            371
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The consequence of rescission is not only the termination of further liability,\nbut also the restoration of the parties to their former positions by requiring each\nto return whatever consideration has been received. . . . [T]his would require the\nrefund by [the insurer] of any premiums and the repayment by the defendants of\nany proceed advance which they may have received.\" ( Imperial Casualty &\nIndemnity Co., supra , 198 Cal. App.3d at p. 184, internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "Croskey et al., California Practice Guide: Insurance Litigation, Ch. 5-F, Rescission\nby Insurer, ¶¶ 5:143–5:146, 5:153–5:159.1, 5:160–5:287, 15:241–15:256 (The Rutter\nGroup)\n2 California Liability Insurance Practice: Claims & Litigation (Cont.Ed.Bar)\nRescission and Reformation, §§21.2–21.12, 21.35–21.37\n2 California Insurance Law & Practice, Ch. 8, The Insurance Contract , §8.10[1]\n(Matthew Bender)\n2 California Uninsured Motorist Law, Ch. 24, Bad Faith in Uninsured Motorist\nLaw, §24.40 (Matthew Bender)\n26 California Forms of Pleading and Practice, Ch. 308, Insurance, §308.18\n(Matthew Bender)\n12 California Points and Authorities, Ch. 120, Insurance, §§120.250, 120.251,\n120.260 (Matthew Bender)\nCACI No. 2308 INSURANCE LITIGA TION\n1392",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1689",
+      "display": "Civil Code section 1689",
+      "raw": "Civil Code section 1689(b)(1)",
+      "span": [
+        24,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1689"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1689",
+      "display": "Civil Code section 1689(b)",
+      "raw": "Civil Code section 1689(b)(1)",
+      "span": [
+        24,
+        53
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/CIV/1689/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1689",
+      "display": "Civil Code section 1689(1)",
+      "raw": "Civil Code section 1689(b)(1)",
+      "span": [
+        24,
+        53
+      ],
+      "subsection": "1",
+      "role": "sources",
+      "statute_key": "CA/CIV/1689/1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "650",
+      "display": "Insurance Code section 650",
+      "raw": "Insurance Code section 650",
+      "span": [
+        40,
+        66
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/650"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "330",
+      "display": "Insurance Code section 330",
+      "raw": "Insurance Code section 330",
+      "span": [
+        39,
+        65
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/330"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "331",
+      "display": "Insurance Code section 331",
+      "raw": "Insurance Code section 331",
+      "span": [
+        41,
+        67
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/331"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "332",
+      "display": "Insurance Code section 332",
+      "raw": "Insurance Code section 332",
+      "span": [
+        35,
+        61
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/332"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "334",
+      "display": "Insurance Code section 334",
+      "raw": "Insurance Code section 334",
+      "span": [
+        13,
+        39
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/334"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "338",
+      "display": "Insurance Code section 338",
+      "raw": "Insurance Code\nsection 338",
+      "span": [
+        62,
+        88
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/338"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "359",
+      "display": "Insurance Code section 359",
+      "raw": "Insurance Code section 359",
+      "span": [
+        43,
+        69
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/359"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "2071",
+      "display": "Insurance Code section 2071",
+      "raw": "Ins. Code, §2071",
+      "span": [
+        430,
+        446
+      ],
+      "role": "directions",
+      "statute_key": "CA/INS/2071"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Barrera v. State Farm Mutual Automobile Insurance Co.",
+      "year": 1969,
+      "volume": 71,
+      "reporter": "Cal.2d",
+      "page": 659,
+      "pin": "678",
+      "raw": "Barrera v. State Farm Mutual Automobile Insurance Co. (1969) 71 Cal. 2d 659, 678",
+      "span": [
+        259,
+        339
+      ],
+      "role": "sources",
+      "case_key": "71 Cal.2d 659"
+    },
+    {
+      "name": "Duarte v. Paciﬁc Specialty Ins. Co.",
+      "year": 2017,
+      "volume": 13,
+      "reporter": "Cal.App.5th",
+      "page": 45,
+      "pin": "54",
+      "raw": "Duarte v. Paciﬁc Specialty Ins. Co. (2017) 13 Cal. App.5th 45, 54",
+      "span": [
+        296,
+        361
+      ],
+      "role": "sources",
+      "case_key": "13 Cal.App.5th 45"
+    },
+    {
+      "name": "Cummings v. Fire Insurance Exchange",
+      "year": 1988,
+      "volume": 202,
+      "reporter": "Cal.App.3d",
+      "page": 1407,
+      "pin": "1415",
+      "raw": "Cummings v. Fire Insurance Exchange (1988) 202 Cal. App.3d 1407, 1415",
+      "span": [
+        695,
+        764
+      ],
+      "role": "sources",
+      "case_key": "202 Cal.App.3d 1407"
+    },
+    {
+      "name": "Fund American Insurance Co. v. Escobedo",
+      "year": 1978,
+      "volume": 80,
+      "reporter": "Cal.App.3d",
+      "page": 610,
+      "pin": "619",
+      "raw": "Fund American Insurance Co. v. Escobedo (1978) 80 Cal. App.3d 610, 619",
+      "span": [
+        115,
+        185
+      ],
+      "role": "sources",
+      "case_key": "80 Cal.App.3d 610"
+    },
+    {
+      "name": "Indemnity Co. v. Sogomonian",
+      "year": 1988,
+      "volume": 198,
+      "reporter": "Cal.App.3d",
+      "page": 169,
+      "pin": "184",
+      "raw": "Indemnity Co. v. Sogomonian (1988) 198 Cal. App.3d 169, 184",
+      "span": [
+        312,
+        371
+      ],
+      "role": "sources",
+      "case_key": "198 Cal.App.3d 169"
+    },
+    {
+      "name": "See Douglas v. Fid. Nat'l Ins. Co.",
+      "year": 2014,
+      "volume": 229,
+      "reporter": "Cal.App.4th",
+      "page": 392,
+      "pin": "408",
+      "raw": "See Douglas v. Fid. Nat'l Ins. Co. (2014) 229 Cal. App.4th 392, 408",
+      "span": [
+        199,
+        266
+      ],
+      "role": "directions",
+      "case_key": "229 Cal.App.4th 392"
+    },
+    {
+      "name": "Thompson v. Occidental Life Insurance Co. of California",
+      "year": 1973,
+      "volume": 9,
+      "reporter": "Cal.3d",
+      "page": 904,
+      "pin": "916",
+      "raw": "Thompson v. Occidental Life Insurance Co. of California (1973) 9 Cal. 3d 904, 916",
+      "span": [
+        1363,
+        1444
+      ],
+      "role": "directions",
+      "case_key": "9 Cal.3d 904"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:16+00:00"
+}

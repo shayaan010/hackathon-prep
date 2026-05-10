@@ -1,0 +1,118 @@
+{
+  "id": "CACI-3222",
+  "edition": "2026",
+  "number": "3222",
+  "title": "Affirmative Defense—Statute of Limitations (Cal. U. Com.Code, § 2725)",
+  "title_full": "Affirmative Defense—Statute of Limitations (Cal. U. Com.Code, § 2725)",
+  "title_statute": null,
+  "series": "3200",
+  "series_title": "Series 3200 Song-Beverly Consumer Warranty Act",
+  "page_start": 2390,
+  "page_end": 2390,
+  "instruction_text": "3222. Affirmative Defense–Statute of Limitations (Cal. U. Com.\nCode, §2725)\n[Name of defendant ] contends that [ name of plaintiff ]'s lawsuit was not\nﬁled within the time set by law. To succeed on this defense, [ name of\ndefendant] must prove that\n[the date of [tender of] delivery occurred before [ insert date four years\nbefore ﬁling of complaint ].]\n[or]\n[any breach was discovered or should have been discovered before [ insert\ndate four years before ﬁling of complaint ].]",
+  "directions_for_use": "Use this instruction to assert a limitation defense based on the four-year period of\nCalifornia Uniform Commercial Code section 2725. (See Mexia v. Rinker Boat Co.,\nInc. (2009) 174 Cal. App.4th 1297, 1305 [95 Cal. Rptr.3d 285] [four-year statute of\nCal. U. Com. Code, §2725 applies to warranty claims under the Song-Beverly\nConsumer Warranty Act].)\nA breach of warranty occurs when tender of delivery is made. (Cal. U. Com. Code,\n§2725(2).) Include \"tender of\" if actual delivery was not made or if delivery was\nmade after tender. If whether a proper tender was made is at issue, the jury should\nbe instructed on the meaning of \"tender.\" (See Cal. U. Com. Code, §2503.)\nUnder the statute, a breach of warranty occurs when tender of delivery is made\nregardless of the aggrieved party's knowledge of the breach–that is, there is no\ndelayed-discovery rule. However, if an express warranty explicitly extends to future\nperformance of the goods (for example, a warranty to repair defects for three years\nor 30,000 miles) and discovery of the breach must await the time of the\nperformance, the cause of action accrues when the breach is or should have been\ndiscovered. (Cal. U. Com. Code, §2725(2).) In such a case, give the second option\nin the second sentence. If delayed discovery is alleged, CACI No. 455, Statute of\nLimitations–Delayed Discovery, may be adapted for use. (See Krieger v. Nick\nAlexander Imports, Inc. (1991) 234 Cal. App.3d 205, 215–220 [285 Cal. Rptr. 717].)\nUnder the California Uniform Commercial Code, by the original agreement the\nparties may reduce the period of limitation to not less than one year but may not\nextend it. (Cal. U. Com. Code, §2725(1).) Presumably, this provision does not\napply to claims under the Song-Beverly Act. (See Civ. Code, §§1790.1 [buyer's\nwaiver of rights under Song-Beverly Act is unenforceable], 1790.3 [in case of\nconﬂict, provisions of Song-Beverly Act control over Cal. U. Com. Code].)\n504",
+  "sources_and_authority": [],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "COM",
+      "section": "2725",
+      "display": "Commercial Code section 2725",
+      "raw": "Commercial Code section 2725",
+      "span": [
+        104,
+        132
+      ],
+      "role": "directions",
+      "statute_key": "CA/COM/2725"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "COM",
+      "section": "2725",
+      "display": "Commercial Code section 2725(2)",
+      "raw": "Com. Code,\n§2725(2)",
+      "span": [
+        419,
+        438
+      ],
+      "subsection": "2",
+      "role": "directions",
+      "statute_key": "CA/COM/2725/2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "COM",
+      "section": "2503",
+      "display": "Commercial Code section 2503",
+      "raw": "Com. Code, §2503",
+      "span": [
+        651,
+        667
+      ],
+      "role": "directions",
+      "statute_key": "CA/COM/2503"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "COM",
+      "section": "2725",
+      "display": "Commercial Code section 2725(1)",
+      "raw": "Com. Code, §2725(1)",
+      "span": [
+        1652,
+        1671
+      ],
+      "subsection": "1",
+      "role": "directions",
+      "statute_key": "CA/COM/2725/1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1790.1",
+      "display": "Civil Code section 1790.1",
+      "raw": "Civ. Code, §§1790.1",
+      "span": [
+        1759,
+        1778
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/1790.1"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "See Mexia v. Rinker Boat Co., Inc.",
+      "year": 2009,
+      "volume": 174,
+      "reporter": "Cal.App.4th",
+      "page": 1297,
+      "pin": "1305",
+      "raw": "See Mexia v. Rinker Boat Co., Inc. (2009) 174 Cal. App.4th 1297, 1305",
+      "span": [
+        135,
+        204
+      ],
+      "role": "directions",
+      "case_key": "174 Cal.App.4th 1297"
+    },
+    {
+      "name": "See Krieger v. Nick Alexander Imports, Inc.",
+      "year": 1991,
+      "volume": 234,
+      "reporter": "Cal.App.3d",
+      "page": 205,
+      "pin": "215–220",
+      "raw": "See Krieger v. Nick Alexander Imports, Inc. (1991) 234 Cal. App.3d 205, 215–220",
+      "span": [
+        1371,
+        1450
+      ],
+      "role": "directions",
+      "case_key": "234 Cal.App.3d 205"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

@@ -1,0 +1,212 @@
+{
+  "id": "CACI-2711",
+  "edition": "2026",
+  "number": "2711",
+  "title": "Preventing Subsequent Employment by Misrepresentation—Essential Factual Elements",
+  "title_full": "Preventing Subsequent Employment by Misrepresentation—Essential Factual Elements (Lab. Code,§ 1050)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "LAB",
+    "section": "1050",
+    "display": "Labor Code section 1050",
+    "raw": "Lab. Code,§ 1050",
+    "span": [
+      0,
+      16
+    ]
+  },
+  "series": "2700",
+  "series_title": "Series 2700 Labor Code Actions",
+  "page_start": 1937,
+  "page_end": 1937,
+  "instruction_text": "2711. Preventing Subsequent Employment by\nMisrepresentation–Essential Factual Elements (Lab. Code,\n§1050)\n[Name of plaintiff ] claims that [ name of defendant ] made [a] false\nrepresentation[s] to prevent [him/her/ nonbinary pronoun] from obtaining\nemployment. To establish this claim, [ name of plaintiff ] must prove all of\nthe following:\n1. That after [ name of plaintiff ]'s employment with [ name of\ndefendant] ended, [ name of defendant ] made [a] representation(s) to\n[name of prospective employer ] about [ name of plaintiff ];\n2. That [ name of defendant ]'s representation[s] [was/were] not true;\n3. That [ name of defendant ] knew the representation[s] [was/were]\nnot true when [he/she/ nonbinary pronoun /it] made [it/them];\n4. That [ name of defendant ] made the representation[s] with the\nintent of preventing [ name of plaintiff ] from obtaining\nemployment;\n5. That [ name of plaintiff ] was harmed; and\n6. That [ name of defendant ]'s conduct was a substantial factor in\ncausing [ name of plaintiff ]'s harm.",
+  "directions_for_use": "For jury instructions regarding opinions as statements of fact and the deﬁnition of\nan important fact, see CACI Nos. 1904 and 1905 in the Fraud or Deceit series. For\nan instruction on the qualiﬁed privilege pursuant to Civil Code section 47(c), see\nCACI No. 1723 in the Defamation series.\nIt is unclear whether elements 3 and 4 are necessary elements to this cause of\naction.",
+  "sources_and_authority": [
+    {
+      "raw": "Preventing Later Employment by Misrepresentation. Labor Code section 1050.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "1050",
+          "display": "Labor Code section 1050",
+          "raw": "Labor Code section 1050",
+          "span": [
+            50,
+            73
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Permitting Violation is Misdemeanor. Labor Code section 1052.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "1052",
+          "display": "Labor Code section 1052",
+          "raw": "Labor Code section 1052",
+          "span": [
+            37,
+            60
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Civil Liability for Violation. Labor Code section 1054.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "1054",
+          "display": "Labor Code section 1054",
+          "raw": "Labor Code section 1054",
+          "span": [
+            31,
+            54
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Truthful Statement for Termination of Employment. Labor Code section 1053.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "1053",
+          "display": "Labor Code section 1053",
+          "raw": "Labor Code section 1053",
+          "span": [
+            50,
+            73
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Privileged Publications. Civil Code section 47(c).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "47",
+          "display": "Civil Code section 47",
+          "raw": "Civil Code section 47(c)",
+          "span": [
+            25,
+            49
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "47",
+          "display": "Civil Code section 47(c)",
+          "raw": "Civil Code section 47(c)",
+          "span": [
+            25,
+            49
+          ],
+          "subsection": "c"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Section 1054 provides for a damage remedy for the party aggrieved by a\nviolation of the section 1050 prohibition against an employer blacklisting a\n51",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "1050",
+      "display": "Labor Code section 1050",
+      "raw": "Lab. Code,§ 1050",
+      "span": [
+        0,
+        16
+      ],
+      "role": "title",
+      "statute_key": "CA/LAB/1050"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "1052",
+      "display": "Labor Code section 1052",
+      "raw": "Labor Code section 1052",
+      "span": [
+        37,
+        60
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/1052"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "1054",
+      "display": "Labor Code section 1054",
+      "raw": "Labor Code section 1054",
+      "span": [
+        31,
+        54
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/1054"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "1053",
+      "display": "Labor Code section 1053",
+      "raw": "Labor Code section 1053",
+      "span": [
+        50,
+        73
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/1053"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "47",
+      "display": "Civil Code section 47",
+      "raw": "Civil Code section 47(c)",
+      "span": [
+        25,
+        49
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/47"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "47",
+      "display": "Civil Code section 47(c)",
+      "raw": "Civil Code section 47(c)",
+      "span": [
+        25,
+        49
+      ],
+      "subsection": "c",
+      "role": "sources",
+      "statute_key": "CA/CIV/47/c"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:18+00:00"
+}

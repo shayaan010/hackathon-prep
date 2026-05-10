@@ -1,0 +1,49 @@
+{
+  "id": "CACI-VF-4200",
+  "edition": "2026",
+  "number": "VF-4200",
+  "title": "Actual Intent to Hinder, Delay, or Defraud Creditor—Affirmative Defense—Good Faith",
+  "title_full": "Actual Intent to Hinder, Delay, or Defraud Creditor—Affirmative Defense—Good Faith",
+  "title_statute": null,
+  "series": "VF-4200",
+  "series_title": "Series 4200 Uniform Voidable Transactions Act",
+  "page_start": 3006,
+  "page_end": 3007,
+  "instruction_text": "VF-4200. Actual Intent to Hinder, Delay, or Defraud\nCreditor–Affirmative Defense–Good Faith\nWe answer the questions submitted to us as follows:\n1. Did [ name of plaintiff ] have a right to payment from [ name of\ndebtor]?\n1. Yes No\n1. If your answer to question 1 is yes, then answer question 2. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n2. Did [ name of debtor ] [transfer property/incur an obligation] to\n[name of defendant ]?\n2. Yes No\n2. If your answer to question 2 is yes, then answer question 3. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n3. Did [ name of debtor ] [transfer the property/incur the obligation]\nwith the intent to hinder, delay, or defraud one or more of [his/\nher/nonbinary pronoun /its] creditors?\n3. Yes No\n3. If your answer to question 3 is yes, then answer question 4. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n4. Was [ name of debtor ]'s conduct a substantial factor in causing\n[name of plaintiff ]'s harm?\n4. Yes No\n4. If your answer to question 4 is yes, then answer question 5. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n5. Did [[ name of defendant ]/[name of third party ]] receive the property\nfrom [ name of debtor ] in good faith?\n5. Yes No\n5. If your answer to question 5 is yes, then answer question 6. If you\nanswered no, skip question 6 and answer question 7.\n6. Did [[ name of defendant ]/[name of third party ]] receive the property\nfor a reasonably equivalent value?\n1120\n6. Yes No\n6. If your answer to question 6 is yes, stop here, answer no further\nquestions, and have the presiding juror sign and date this form.\nIf you answered no, then answer question 7.\n7. What are [ name of plaintiff ]'s damages?\n7. TOTAL $\nSigned:\nPresiding Juror\nDated:\nAfter [this verdict form has/all verdict forms have] been signed, notify\nthe [clerk/bailiff/court attendant].",
+  "directions_for_use": "This verdict form is based on CACI No. 4200, Actual Intent to Hinder , Delay, or\nDefraud a Creditor–Essential Factual Elements , and CACI No. 4207, Affırmative\nDefense–Good Faith . The defendant is the transferee of the property. The transferee\nmay have received the property in good faith even though the debtor had a\nfraudulent intent. (See Annod Corp. v. Hamilton & Samuels (2002) 100 Cal. App.4th\n1286, 1299 [123 Cal. Rptr.2d 924].)\nThe special verdict forms in this section are intended only as models. They may\nneed to be modiﬁed depending on the facts of the case.\nIf there are multiple causes of action, users may wish to combine the individual\nforms into one form. If different damages are recoverable on different causes of\naction, replace the damages tables in all of the verdict forms with CACI No. VF-\n3920, Damages on Multiple Legal Theories .\nIf the jury is given the discretion under Civil Code section 3288 to award\nprejudgment interest (see Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801,\n814 [148 Cal. Rptr. 22, 582 P.2d 109]), give CACI No. 3935, Prejudgment Interest.\nThis verdict form may need to be augmented for the jury to make any factual\nﬁndings that are required in order to calculate the amount of prejudgment interest.\nUNIFORM VOIDABLE TRANSACTIONS ACT VF-4200\n1121",
+  "sources_and_authority": [],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3288",
+      "display": "Civil Code section 3288",
+      "raw": "Civil Code section 3288",
+      "span": [
+        900,
+        923
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3288"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Bullis v. Security Pac. Nat'l Bank",
+      "year": 1978,
+      "volume": 21,
+      "reporter": "Cal.3d",
+      "page": 801,
+      "pin": "814",
+      "raw": "Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801, 814",
+      "span": [
+        959,
+        1020
+      ],
+      "role": "directions",
+      "case_key": "21 Cal.3d 801"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:24+00:00"
+}

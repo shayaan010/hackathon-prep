@@ -1,0 +1,89 @@
+{
+  "id": "CACI-703",
+  "edition": "2026",
+  "number": "703",
+  "title": "Definition of “Immediate Hazard”",
+  "title_full": "Definition of “Immediate Hazard”",
+  "title_statute": null,
+  "series": "700",
+  "series_title": "Series 700 Motor Vehicles and Highway Safety",
+  "page_start": 627,
+  "page_end": 627,
+  "instruction_text": "703. Deﬁnition of \"Immediate Hazard\"\nThe statute just read to you uses the words \"immediate hazard.\" An\nimmediate hazard exists if the approaching vehicle is so near or is\napproaching so fast that a reasonably careful person would realize that\nthere is a danger of collision [or accident].",
+  "directions_for_use": "This instruction is designed to be given as a supplement to the several Vehicle Code\nprovisions that contain the term \"immediate hazard.\" (V eh. Code, §§21802\n[Approaching intersection entrance], 21803 [Yield right of way], 21804 [Public or\nprivate property], 21805 [Equestrian crossings], 21950 [Crosswalks], 21953 [Tunnel\nor overhead crossing], 21954 [Pedestrian outside crosswalk], 22451 [Train signals].)",
+  "sources_and_authority": [
+    {
+      "raw": "\"It is to be noted that the legislature has not set a hard and fast rule for the\nconduct of drivers approaching through highways but has provided the general\nrule that such drivers must yield the right of way to others traveling on the\nhighway who are approaching so closely as to constitute 'an immediate hazard.'\nOur complex traffic problems are such that the circumstances of the traffic on a\nthrough highway as a driver approaches must govern his conduct in determining\nwhether it is an immediate hazard. Whether a driver acts with due care or\nnegligently in proceeding across a through highway must as a general rule be\nleft to the determination of the jury in view of all the circumstances.\" ( Wilkinson\nv. Marcellus (1952) 51 Cal. App.2d 630, 633 [125 P.2d 584].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Wilkinson v. Marcellus",
+          "year": 1952,
+          "volume": 51,
+          "reporter": "Cal.App.2d",
+          "page": 630,
+          "pin": "633",
+          "raw": "Wilkinson v. Marcellus (1952) 51 Cal. App.2d 630, 633",
+          "span": [
+            700,
+            753
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "At least one court has held that the term \"immediate hazard\" should be deﬁned\nfor the jury if a party so requests. ( Hickenbottom v. Jeppesen (1956) 144\nCal. App.2d 115, 121 [300 P.2d 689].) However, any error in failing to deﬁne the\nterm will be considered harmless if other instructions cover that point: \"The\nwords 'immediate hazard' seem reasonably clear in the context in which they\nappear, both in the statute and in the instruction given; the hazard of a collision.\"\n(Ibid.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hickenbottom v. Jeppesen",
+          "year": 1956,
+          "volume": 144,
+          "reporter": "Cal.App.2d",
+          "page": 115,
+          "pin": "121",
+          "raw": "Hickenbottom v. Jeppesen (1956) 144 Cal. App.2d 115, 121",
+          "span": [
+            117,
+            173
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1010, 1011\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §§4.10–4.11\n553",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Wilkinson v. Marcellus",
+      "year": 1952,
+      "volume": 51,
+      "reporter": "Cal.App.2d",
+      "page": 630,
+      "pin": "633",
+      "raw": "Wilkinson v. Marcellus (1952) 51 Cal. App.2d 630, 633",
+      "span": [
+        700,
+        753
+      ],
+      "role": "sources",
+      "case_key": "51 Cal.App.2d 630"
+    },
+    {
+      "name": "Hickenbottom v. Jeppesen",
+      "year": 1956,
+      "volume": 144,
+      "reporter": "Cal.App.2d",
+      "page": 115,
+      "pin": "121",
+      "raw": "Hickenbottom v. Jeppesen (1956) 144 Cal. App.2d 115, 121",
+      "span": [
+        117,
+        173
+      ],
+      "role": "sources",
+      "case_key": "144 Cal.App.2d 115"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

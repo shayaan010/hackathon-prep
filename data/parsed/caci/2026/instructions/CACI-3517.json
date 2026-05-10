@@ -1,0 +1,174 @@
+{
+  "id": "CACI-3517",
+  "edition": "2026",
+  "number": "3517",
+  "title": "Comparable Sales",
+  "title_full": "Comparable Sales (Evid. Code, § 816)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "EVID",
+    "section": "816",
+    "display": "Evidence Code section 816",
+    "raw": "Evid. Code, § 816",
+    "span": [
+      0,
+      17
+    ]
+  },
+  "series": "3500",
+  "series_title": "Series 3500 Eminent Domain",
+  "page_start": 2590,
+  "page_end": 2590,
+  "instruction_text": "3517. Comparable Sales (Evid. Code, §816)\nTo assist you in determining the fair market value of the property, you\nhave heard evidence of comparable sales. It is up to you to decide the\nimportance of this evidence in determining the fair market value.",
+  "directions_for_use": "Use this instruction if the court has allowed evidence of comparable sales to be\npresented to the jury.",
+  "sources_and_authority": [
+    {
+      "raw": "Comparable Sales. Evidence Code section 816.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "816",
+          "display": "Evidence Code section 816",
+          "raw": "Evidence Code section 816",
+          "span": [
+            18,
+            43
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he essence of comparability is recent and local sales ' suffıciently alike in\nrespect to character, size, situation, usability, and improvements' so that the price\n'may fairly be considered as shedding light ' on the value of the condemned\nproperty. . . . After the trial court resolves this preliminary legal question, it is\nthen ultimately for the jury to determine the extent to which the other property is\nin fact comparable.\" ( County of Glenn v. Foley (2012) 212 Cal. App.4th 393, 401\n[151 Cal. Rptr.3d 8], original italics, internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "County of Glenn v. Foley",
+          "year": 2012,
+          "volume": 212,
+          "reporter": "Cal.App.4th",
+          "page": 393,
+          "pin": "401",
+          "raw": "County of Glenn v. Foley (2012) 212 Cal. App.4th 393, 401",
+          "span": [
+            437,
+            494
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"This whole 'shedding light on value' standard is nothing more than a\nrestatement of the general rule for the introduction of circumstantial evidence,\nwhich is admissible if relevant, 'i.e., if it can provide any rational inference in\nsupport of the issue.' \" ( County of Glenn, supra, 212 Cal. App.4th at p. 402,\noriginal italics, footnote omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[No] general rule can be laid down regarding the degree of similarity that must\nexist to make [comparable sales] evidence admissible. It must necessarily vary\nwith the circumstances of each particular case. Whether the properties are\nsufficiently similar to have some bearing on the value under consideration, and\nto be of any aid to the jury, must necessarily rest largely in the sound discretion\nof the trial court, which will not be interfered with unless abused.\" ( Merced\nIrrigation Dist. v. Woolstenhulme (1971) 4 Cal. 3d 478, 500 [93 Cal. Rptr. 833,\n483 P.2d 1].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Merced Irrigation Dist. v. Woolstenhulme",
+          "year": 1971,
+          "volume": 4,
+          "reporter": "Cal.3d",
+          "page": 478,
+          "pin": "500",
+          "raw": "Merced Irrigation Dist. v. Woolstenhulme (1971) 4 Cal. 3d 478, 500",
+          "span": [
+            471,
+            537
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The trial judge's prima facie determination that a sale is sufficiently\n'comparable' to be admitted into evidence has never been thought to foreclose\nthe question of 'comparability' altogether. '[If] at the discretion of the court,\nsuch [sales] are admissible on the grounds of comparability, the degree of\ncomparability is a question of fact for the jury.' \" ( County of San Luis Obispo v.\nBailey (1971) 4 Cal. 3d 518, 525 [93 Cal. Rptr. 859, 483 P.2d 27].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "County of San Luis Obispo v. Bailey",
+          "year": 1971,
+          "volume": 4,
+          "reporter": "Cal.3d",
+          "page": 518,
+          "pin": "525",
+          "raw": "County of San Luis Obispo v. Bailey (1971) 4 Cal. 3d 518, 525",
+          "span": [
+            363,
+            424
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"We have never declared properties noncomparable per se merely because they\ndiffer in size or shape. On the contrary, the trial court's obligation, pursuant to\n704",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "816",
+      "display": "Evidence Code section 816",
+      "raw": "Evid. Code, § 816",
+      "span": [
+        0,
+        17
+      ],
+      "role": "title",
+      "statute_key": "CA/EVID/816"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "County of Glenn v. Foley",
+      "year": 2012,
+      "volume": 212,
+      "reporter": "Cal.App.4th",
+      "page": 393,
+      "pin": "401",
+      "raw": "County of Glenn v. Foley (2012) 212 Cal. App.4th 393, 401",
+      "span": [
+        437,
+        494
+      ],
+      "role": "sources",
+      "case_key": "212 Cal.App.4th 393"
+    },
+    {
+      "name": "Merced Irrigation Dist. v. Woolstenhulme",
+      "year": 1971,
+      "volume": 4,
+      "reporter": "Cal.3d",
+      "page": 478,
+      "pin": "500",
+      "raw": "Merced Irrigation Dist. v. Woolstenhulme (1971) 4 Cal. 3d 478, 500",
+      "span": [
+        471,
+        537
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.3d 478"
+    },
+    {
+      "name": "County of San Luis Obispo v. Bailey",
+      "year": 1971,
+      "volume": 4,
+      "reporter": "Cal.3d",
+      "page": 518,
+      "pin": "525",
+      "raw": "County of San Luis Obispo v. Bailey (1971) 4 Cal. 3d 518, 525",
+      "span": [
+        363,
+        424
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.3d 518"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

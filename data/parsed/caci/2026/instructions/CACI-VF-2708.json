@@ -1,0 +1,85 @@
+{
+  "id": "CACI-VF-2708",
+  "edition": "2026",
+  "number": "VF-2708",
+  "title": "Meal Break Violations—Employer Records Showing Noncompliance",
+  "title_full": "Meal Break Violations—Employer Records Showing Noncompliance (Lab. Code, §§ 226.7, 512)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "LAB",
+    "section": "226.7",
+    "display": "Labor Code section 226.7",
+    "raw": "Lab. Code, §§ 226.7, 512",
+    "span": [
+      0,
+      24
+    ]
+  },
+  "series": "VF-2700",
+  "series_title": "Series 2700 Labor Code Actions",
+  "page_start": 2010,
+  "page_end": 2011,
+  "instruction_text": "VF-2708. Meal Break Violations–Employer Records Showing\nNoncompliance (Lab. Code, §§226.7, 512)\nWe answer the questions submitted to us as follows:\n1. Did [ name of plaintiff ] work for [ name of defendant ] for one or\nmore workdays for a period lasting longer than ﬁve hours?\n1. Yes No\n1. If your answer to question 1 is yes, then answer question 2. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n2. Do [ name of defendant ]'s records show any missed meal breaks,\nmeal breaks of less than 30 minutes, or meal breaks taken too\nlate in a workday?\n2. Yes No\n2. If your answer to question 2 is yes, then answer question 3. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.]\n3. How many meal breaks do the records show as missed, less than\n30 minutes, or taken too late in a workday?\n3. meal breaks\n3. Answer question 4.\n4. For each meal break included in your answer to question 3, did\n[name of defendant ] prove [he/she/ nonbinary pronoun /it] provided a\nmeal break that complies with the law?\n4. Yes No\n4. If your answer to question 4 is yes, stop here, answer no further\nquestions, and have the presiding juror sign and date this form.\nIf you answered no, then answer question 5.\n5. Considering by workday the meal breaks determined in question\n3, for how many workdays did [ name of defendant ] fail to prove\nthat [he/she/ nonbinary pronoun /it] provided meal breaks that\ncomply with the law?\n5. workdays\n5. Answer question 6.\n6. For the workdays determined in question 5, what is the amount\nof pay owed?\n124\n6. $\nSigned:\nPresiding Juror\nDated:\n[After this verdict form has/After all verdict forms have] been signed,\nnotify the [clerk/bailiff/court attendant].",
+  "directions_for_use": "This verdict form is based on CACI No. 2765, Meal Break Violations–Introduction ,\nand CACI No. 2766B, Meal Break Violations–Rebuttable Presumption–Employer\nRecords. Use this verdict form if the plaintiff's meal break claims involve the\nrebuttable presumption of a violation based on an employer's records showing\nmissed meal breaks, meal breaks of less than 30 minutes, or meal breaks taken too\nlate in a workday. See also verdict form CACI No. VF-2707, Meal Break Violations .\nThe special verdict forms in this section are intended only as models. They may\nneed to be modiﬁed depending on the facts of the case.\nIf there are multiple causes of action, users may wish to combine the individual\nforms into one form. If different damages are recoverable on different causes of\naction, replace the damages tables in all of the verdict forms with CACI No. VF-\n3920, Damages on Multiple Legal Theories .\nThe court may determine if prejudgment interest is awardable and, if so, whether it\nis discretionary or mandatory. (Civ. Code, §§3287, 3288.) If the jury is given the\ndiscretion under Civil Code section 3288 to award prejudgment interest (see Bullis\nv. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801, 814 [148 Cal. Rptr. 22, 582 P.2d\n109]), give CACI No. 3935, Prejudgment Interest. This verdict form may be\naugmented for the jury to make any factual ﬁndings that are required to calculate\nthe amount of prejudgment interest.\nLABOR CODE ACTIONS VF-2708\n125",
+  "sources_and_authority": [],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "226.7",
+      "display": "Labor Code section 226.7",
+      "raw": "Lab. Code, §§ 226.7, 512",
+      "span": [
+        0,
+        24
+      ],
+      "role": "title",
+      "statute_key": "CA/LAB/226.7"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3287",
+      "display": "Civil Code section 3287",
+      "raw": "Civ. Code, §§3287, 3288",
+      "span": [
+        1015,
+        1038
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3287"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3288",
+      "display": "Civil Code section 3288",
+      "raw": "Civ. Code, §§3287, 3288",
+      "span": [
+        1015,
+        1038
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3288"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Bullis v. Security Pac. Nat'l Bank",
+      "year": 1978,
+      "volume": 21,
+      "reporter": "Cal.3d",
+      "page": 801,
+      "pin": "814",
+      "raw": "Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801, 814",
+      "span": [
+        1142,
+        1203
+      ],
+      "role": "directions",
+      "case_key": "21 Cal.3d 801"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:19+00:00"
+}

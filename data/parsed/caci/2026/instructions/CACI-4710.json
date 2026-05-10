@@ -1,0 +1,182 @@
+{
+  "id": "CACI-4710",
+  "edition": "2026",
+  "number": "4710",
+  "title": "Consumers Legal Remedies Act—Affirmative Defense—Bona Fide Error and Correction",
+  "title_full": "Consumers Legal Remedies Act—Affirmative Defense—Bona Fide Error and Correction (Civ. Code, § 1784)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "CIV",
+    "section": "1784",
+    "display": "Civil Code section 1784",
+    "raw": "Civ. Code, § 1784",
+    "span": [
+      0,
+      17
+    ]
+  },
+  "series": "4700",
+  "series_title": "Series 4700 Consumers Legal Remedies Act",
+  "page_start": 3301,
+  "page_end": 3301,
+  "instruction_text": "4710. Consumers Legal Remedies Act–Affirmative\nDefense–Bona Fide Error and Correction (Civ. Code, §1784)\n[Name of defendant ] is not responsible for damages to [ name of plaintiff ] if\n[name of defendant ] proves both of the following:\n1. The violation[s] alleged by [ name of plaintiff ] [was/were] not\nintentional and resulted from a bona ﬁde error even though\n[name of defendant ] used reasonable procedures adopted to avoid\nany such error; and\n2. Within 30 days of receiving [ name of plaintiff ]'s notice of violation,\n[name of defendant ] made, or agreed to make within a reasonable\ntime, an appropriate correction, repair, replacement, or other\nremedy of the [ specify product or service ].",
+  "directions_for_use": "Different correction requirements apply to class actions. (See Civ. Code, §1782(c).)",
+  "sources_and_authority": [
+    {
+      "raw": "Consumers Legal Remedies Act: Defenses. Civil Code section 1784.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1784",
+          "display": "Civil Code section 1784",
+          "raw": "Civil Code section 1784",
+          "span": [
+            40,
+            63
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Damages are not awardable under the CLRA if the defendant proves its\nviolation was not intentional and resulted from a bona ﬁde error despite\nreasonable procedures to avoid such an error, and remedies the violating goods\nor services.\" ( Lunada Biomedical v. Nunez (2014) 230 Cal. App.4th 459, 471\n[178 Cal. Rptr.3d 784].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lunada Biomedical v. Nunez",
+          "year": 2014,
+          "volume": 230,
+          "reporter": "Cal.App.4th",
+          "page": 459,
+          "pin": "471",
+          "raw": "Lunada Biomedical v. Nunez (2014) 230 Cal. App.4th 459, 471",
+          "span": [
+            238,
+            297
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[Defendants] also contend [plaintiff] cannot avoid the safe harbor provided for a\nreasonable correction offer under the CLRA by recasting her claim as a violation\nof the UCL. This is incorrect. [Plaintiff]'s UCL claim was based directly on\nevidence of fraudulent advertising practices and was not dependent on ﬁnding an\nunderlying violation of the CLRA. The CLRA expressly states that the effect of\na reasonable correction offer is to prevent the consumer from maintaining an\naction for damages under Civil Code section 1780, but the remedies of the\nCLRA are cumulative and the consumer may assert other common law or\nstatutory causes of action under the procedures and with the remedies provided\nfor in those laws.\" ( Flores v. Southcoast Automotive Liquidators, Inc. (2017) 17\nCal. App.5th 841, 852 [226 Cal. Rptr.3d 12].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1780",
+          "display": "Civil Code section 1780",
+          "raw": "Civil Code section 1780",
+          "span": [
+            502,
+            525
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Flores v. Southcoast Automotive Liquidators, Inc.",
+          "year": 2017,
+          "volume": 17,
+          "reporter": "Cal.App.5th",
+          "page": 841,
+          "pin": "852",
+          "raw": "Flores v. Southcoast Automotive Liquidators, Inc. (2017) 17 Cal. App.5th 841, 852",
+          "span": [
+            720,
+            801
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "4 Witkin, Summary of California Law (11th ed. 2017) Sales, §298 et seq.\nGaab & Reese, California Practice Guide: Civil Procedure Before Trial Claims &\nDefenses, Ch. 14(II)-C, Particular Defenses , ¶¶ 14:321–14:505 (The Rutter Group)\n1415",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1784",
+      "display": "Civil Code section 1784",
+      "raw": "Civ. Code, § 1784",
+      "span": [
+        0,
+        17
+      ],
+      "role": "title",
+      "statute_key": "CA/CIV/1784"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1780",
+      "display": "Civil Code section 1780",
+      "raw": "Civil Code section 1780",
+      "span": [
+        502,
+        525
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1780"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1782",
+      "display": "Civil Code section 1782",
+      "raw": "Civ. Code, §1782(c)",
+      "span": [
+        63,
+        82
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/1782"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1782",
+      "display": "Civil Code section 1782(c)",
+      "raw": "Civ. Code, §1782(c)",
+      "span": [
+        63,
+        82
+      ],
+      "subsection": "c",
+      "role": "directions",
+      "statute_key": "CA/CIV/1782/c"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Lunada Biomedical v. Nunez",
+      "year": 2014,
+      "volume": 230,
+      "reporter": "Cal.App.4th",
+      "page": 459,
+      "pin": "471",
+      "raw": "Lunada Biomedical v. Nunez (2014) 230 Cal. App.4th 459, 471",
+      "span": [
+        238,
+        297
+      ],
+      "role": "sources",
+      "case_key": "230 Cal.App.4th 459"
+    },
+    {
+      "name": "Flores v. Southcoast Automotive Liquidators, Inc.",
+      "year": 2017,
+      "volume": 17,
+      "reporter": "Cal.App.5th",
+      "page": 841,
+      "pin": "852",
+      "raw": "Flores v. Southcoast Automotive Liquidators, Inc. (2017) 17 Cal. App.5th 841, 852",
+      "span": [
+        720,
+        801
+      ],
+      "role": "sources",
+      "case_key": "17 Cal.App.5th 841"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

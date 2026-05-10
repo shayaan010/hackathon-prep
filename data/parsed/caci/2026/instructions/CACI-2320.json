@@ -1,0 +1,313 @@
+{
+  "id": "CACI-2320",
+  "edition": "2026",
+  "number": "2320",
+  "title": "Affirmative Defense—Failure to Provide Timely Notice",
+  "title_full": "Affirmative Defense—Failure to Provide Timely Notice",
+  "title_statute": null,
+  "series": "2300",
+  "series_title": "Series 2300 Insurance Litigation",
+  "page_start": 1469,
+  "page_end": 1471,
+  "instruction_text": "2320. Affirmative Defense–Failure to Provide Timely Notice\n[Name of defendant ] claims that it does not have to pay the [judgment\nagainst/settlement by] [ name of plaintiff ] because it did not receive timely\nnotice of the [lawsuit/[ insert other ]]. To succeed, [ name of defendant ] must\nprove both of the following:\n1. That [ name of plaintiff ] did not give [ name of defendant ] notice [or\nthat [ name of defendant ] did not receive notice by some other\nmeans] [within the time speciﬁed in the policy/within a reasonable\ntime] of the [lawsuit/[ insert other ]]; and\n2. That [ name of defendant ] was prejudiced by [ name of plaintiff ]'s\nfailure to give timely notice.\nTo establish prejudice, [ name of defendant ] must show a substantial\nlikelihood that, with timely notice, it would have [taken steps that would\nhave substantially reduced or eliminated [ name of plaintiff ]'s liability] [or]\n[settled for a substantially smaller amount].",
+  "directions_for_use": "The instructions in this series assume the plaintiff is the insured and the defendant is\nthe insurer. The party designations may be changed if appropriate to the facts of the\ncase.\nThis instruction is intended for use by an insurer as a defense to a breach of\ncontract action based on a third party liability policy. The defense does not apply to\n\"claims made\" policies (see Paciﬁc Employers Insurance Co. v. Superior Court\n(1990) 221 Cal. App.3d 1348, 1357–1360 [270 Cal. Rptr. 779]). This instruction also\nmay be modiﬁed for use as a defense to a judgment creditor's action to recover on a\nliability policy.",
+  "sources_and_authority": [
+    {
+      "raw": "\"The right of an injured party to sue an insurer on the policy after obtaining\njudgment against the insured is established by statute. An insurer may assert\ndefenses based upon a breach by the insured of a condition of the policy such as\na cooperation clause, but the breach cannot be a valid defense unless the insurer\nwas substantially prejudiced thereby. Similarly, it has been held that prejudice\nmust be shown with respect to breach of a notice clause.\" ( Campbell v. Allstate\nInsurance Co. (1963) 60 Cal. 2d 303, 305–306 [32 Cal. Rptr. 827, 384 P.2d 155],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Campbell v. Allstate Insurance Co.",
+          "year": 1963,
+          "volume": 60,
+          "reporter": "Cal.2d",
+          "page": 303,
+          "pin": "305–306",
+          "raw": "Campbell v. Allstate Insurance Co. (1963) 60 Cal. 2d 303, 305–306",
+          "span": [
+            461,
+            526
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The burden of establishing prejudice is on the insurance company, and\nprejudice is not presumed by delay alone. To establish prejudice, the ' \"insurer\nmust show it lost something that would have changed the handling of the\n1395\nunderlying claim.\" ' \" ( Lat v. Farmers New World Life Ins. Co. (2018) 29\nCal. App.5th 191, 196–197 [239 Cal. Rptr.3d 796], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lat v. Farmers New World Life Ins. Co.",
+          "year": 2018,
+          "volume": 29,
+          "reporter": "Cal.App.5th",
+          "page": 191,
+          "pin": "196–197",
+          "raw": "Lat v. Farmers New World Life Ins. Co. (2018) 29 Cal. App.5th 191, 196–197",
+          "span": [
+            254,
+            328
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[P]rejudice is not shown simply by displaying end results; the probability that\nsuch result could or would have been avoided absent the claimed default or error\nmust also be explored.\" ( Clemmer v. Hartford Insurance Co. (1978) 22 Cal. 3d\n865, 883, fn. 12 [151 Cal. Rptr. 285, 587 P.2d 1098].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Clemmer v. Hartford Insurance Co.",
+          "year": 1978,
+          "volume": 22,
+          "reporter": "Cal.3d",
+          "page": 865,
+          "pin": "883",
+          "raw": "Clemmer v. Hartford Insurance Co. (1978) 22 Cal. 3d 865, 883",
+          "span": [
+            188,
+            248
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Prejudice is a question of fact on which the insurer has the burden of proof.\nThe insured's delay does not itself satisfy the burden of proof. The insurer\nestablishes actual and substantial prejudice by proving more than delayed or late\nnotice. It must show ' \"a substantial likelihood that, with timely notice, and\nnotwithstanding a denial of coverage or reservation of rights, it would have\nsettled the claim for less or taken steps that would have reduced or eliminated\nthe insured's liability.\" ' \" ( Pitzer College v. Indian Harbor Ins. Co. (2019) 8\nCal. 5th 93, 105 [251 Cal. Rptr.3d 701, 447 P.3d 669].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Pitzer College v. Indian Harbor Ins. Co.",
+          "year": 2019,
+          "volume": 8,
+          "reporter": "Cal.5th",
+          "page": 93,
+          "pin": "105",
+          "raw": "Pitzer College v. Indian Harbor Ins. Co. (2019) 8 Cal. 5th 93, 105",
+          "span": [
+            506,
+            572
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"If the insurer asserts that the underlying claim is not a covered occurrence or is\nexcluded from basic coverage, then earlier notice would only result in earlier\ndenial of coverage. To establish actual prejudice, the insurer must show a\nsubstantial likelihood that, with timely notice, and notwithstanding a denial of\ncoverage or reservation of rights, it would have settled the claim for less or\ntaken steps that would have reduced or eliminated the insured's liability.\"\n(Safeco Ins. Co. of America v. Parks (2009) 170 Cal. App.4th 992, 1004 [88\nCal. Rptr.3d 730].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Safeco Ins. Co. of America v. Parks",
+          "year": 2009,
+          "volume": 170,
+          "reporter": "Cal.App.4th",
+          "page": 992,
+          "pin": "1004",
+          "raw": "Safeco Ins. Co. of America v. Parks (2009) 170 Cal. App.4th 992, 1004",
+          "span": [
+            475,
+            544
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Under the notice prejudice rule, an insurance company may not deny an\ninsured's claim under an occurrence policy based on lack of timely notice or\nproof of claim unless it can show actual prejudice from the delay. The rule is\nbased on the rationale that ' \"[t]he primary and essential part of the contract [is]\ninsurance coverage, not the procedure for determining liability . . .\" [citations],\nand that \"the notice requirement serves to protect insurers from prejudice, . . .\nnot . . . to shield them from their contractual obligations\" through \"a technical\nescape-hatch\".' \" ( Lat, supra , 29 Cal. App.5th at p. 196, internal citations\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[The notice-prejudice rule] does not apply to every time limit on any insurance\npolicy. [¶] Where the policy provides that special coverage for a particular type\nof claim is conditioned on express compliance with a reporting requirement, the\ntime limit is enforceable without proof of prejudice. Such reporting time limits\noften are found in provisions for expanded liability coverage that the insurer\nusually does not cover. The insurer makes an exception and extends special\ncoverage conditioned on compliance with a reporting requirement and other\nconditions. The reporting requirement becomes 'the written notice necessary to\ntrigger the expanded coverage afforded' by the special policy provision.\"\n(V enoco, Inc. v. Gulf Underwriters Ins. Co. (2009) 175 Cal. App.4th 750, 760 [96\nCal. Rptr.3d 409], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Inc. v. Gulf Underwriters Ins. Co.",
+          "year": 2009,
+          "volume": 175,
+          "reporter": "Cal.App.4th",
+          "page": 750,
+          "pin": "760",
+          "raw": "Inc. v. Gulf Underwriters Ins. Co. (2009) 175 Cal. App.4th 750, 760",
+          "span": [
+            715,
+            782
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"With respect to notice provisions, one Court of Appeal has explained: '[A]n\nCACI No. 2320 INSURANCE LITIGA TION\n1396\n\"occurrence\" policy provides coverage for any acts or omissions that arise\nduring the policy period even though the claim is made after the policy has\nexpired.' . . . [¶] . . . [¶] Occurrence policies were developed to provide\ncoverage for damage caused by collision, ﬁre, war, and other identiﬁable\nevents. . . . Because the occurrence of these events was relatively easy to\nascertain, the insurer was able to 'conduct a prompt investigation of the incident\n. . . .' . . . Notice provisions contained in such occurrence policies were\n'included to aid the insurer in investigating, settling, and defending claims[.]'\n. . . If an insured breaches a notice provision, resulting in substantial prejudice\nto the defense, the insurer is relieved of liability.\" ( Belz v. Clarendon America\nIns. Co. (2007) 158 Cal. App.4th 615, 626 [69 Cal. Rptr.3d 864], internal citation\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Belz v. Clarendon America Ins. Co.",
+          "year": 2007,
+          "volume": 158,
+          "reporter": "Cal.App.4th",
+          "page": 615,
+          "pin": "626",
+          "raw": "Belz v. Clarendon America Ins. Co. (2007) 158 Cal. App.4th 615, 626",
+          "span": [
+            876,
+            943
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The 'general rule' is that an insurer is not bound by a judgment unless it had\nnotice of the pendency of the action. . . . However, if an insurer denies coverage\nto the insured, the insured's contractual obligation to notify the insurer ceases.\"\n(Samson v. Transamerica Insurance Co. (1981) 30 Cal. 3d 220, 238 [178\nCal. Rptr. 343, 636 P.2d 32], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Samson v. Transamerica Insurance Co.",
+          "year": 1981,
+          "volume": 30,
+          "reporter": "Cal.3d",
+          "page": 220,
+          "pin": "238",
+          "raw": "Samson v. Transamerica Insurance Co. (1981) 30 Cal. 3d 220, 238",
+          "span": [
+            248,
+            311
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "Croskey et al., California Practice Guide: Insurance Litigation, Ch.15-I, Trial\n¶¶ 15:917–15:920 (The Rutter Group)\n1 California Liability Insurance Practice: Claims & Litigation (Cont.Ed.Bar)\nIdentifying Sources of Coverage, §§8.24–8.26\n4 California Insurance Law & Practice, Ch. 41, Liability Insurance in General ,\n§41.65[1]–[9] (Matthew Bender)\n26 California Forms of Pleading and Practice, Ch. 308, Insurance, §308.500\n(Matthew Bender)\nINSURANCE LITIGA TION CACI No. 2320\n1397",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Campbell v. Allstate Insurance Co.",
+      "year": 1963,
+      "volume": 60,
+      "reporter": "Cal.2d",
+      "page": 303,
+      "pin": "305–306",
+      "raw": "Campbell v. Allstate Insurance Co. (1963) 60 Cal. 2d 303, 305–306",
+      "span": [
+        461,
+        526
+      ],
+      "role": "sources",
+      "case_key": "60 Cal.2d 303"
+    },
+    {
+      "name": "Lat v. Farmers New World Life Ins. Co.",
+      "year": 2018,
+      "volume": 29,
+      "reporter": "Cal.App.5th",
+      "page": 191,
+      "pin": "196–197",
+      "raw": "Lat v. Farmers New World Life Ins. Co. (2018) 29 Cal. App.5th 191, 196–197",
+      "span": [
+        254,
+        328
+      ],
+      "role": "sources",
+      "case_key": "29 Cal.App.5th 191"
+    },
+    {
+      "name": "Clemmer v. Hartford Insurance Co.",
+      "year": 1978,
+      "volume": 22,
+      "reporter": "Cal.3d",
+      "page": 865,
+      "pin": "883",
+      "raw": "Clemmer v. Hartford Insurance Co. (1978) 22 Cal. 3d 865, 883",
+      "span": [
+        188,
+        248
+      ],
+      "role": "sources",
+      "case_key": "22 Cal.3d 865"
+    },
+    {
+      "name": "Pitzer College v. Indian Harbor Ins. Co.",
+      "year": 2019,
+      "volume": 8,
+      "reporter": "Cal.5th",
+      "page": 93,
+      "pin": "105",
+      "raw": "Pitzer College v. Indian Harbor Ins. Co. (2019) 8 Cal. 5th 93, 105",
+      "span": [
+        506,
+        572
+      ],
+      "role": "sources",
+      "case_key": "8 Cal.5th 93"
+    },
+    {
+      "name": "Safeco Ins. Co. of America v. Parks",
+      "year": 2009,
+      "volume": 170,
+      "reporter": "Cal.App.4th",
+      "page": 992,
+      "pin": "1004",
+      "raw": "Safeco Ins. Co. of America v. Parks (2009) 170 Cal. App.4th 992, 1004",
+      "span": [
+        475,
+        544
+      ],
+      "role": "sources",
+      "case_key": "170 Cal.App.4th 992"
+    },
+    {
+      "name": "Inc. v. Gulf Underwriters Ins. Co.",
+      "year": 2009,
+      "volume": 175,
+      "reporter": "Cal.App.4th",
+      "page": 750,
+      "pin": "760",
+      "raw": "Inc. v. Gulf Underwriters Ins. Co. (2009) 175 Cal. App.4th 750, 760",
+      "span": [
+        715,
+        782
+      ],
+      "role": "sources",
+      "case_key": "175 Cal.App.4th 750"
+    },
+    {
+      "name": "Belz v. Clarendon America Ins. Co.",
+      "year": 2007,
+      "volume": 158,
+      "reporter": "Cal.App.4th",
+      "page": 615,
+      "pin": "626",
+      "raw": "Belz v. Clarendon America Ins. Co. (2007) 158 Cal. App.4th 615, 626",
+      "span": [
+        876,
+        943
+      ],
+      "role": "sources",
+      "case_key": "158 Cal.App.4th 615"
+    },
+    {
+      "name": "Samson v. Transamerica Insurance Co.",
+      "year": 1981,
+      "volume": 30,
+      "reporter": "Cal.3d",
+      "page": 220,
+      "pin": "238",
+      "raw": "Samson v. Transamerica Insurance Co. (1981) 30 Cal. 3d 220, 238",
+      "span": [
+        248,
+        311
+      ],
+      "role": "sources",
+      "case_key": "30 Cal.3d 220"
+    },
+    {
+      "name": "Paciﬁc Employers Insurance Co. v. Superior Court",
+      "year": 1990,
+      "volume": 221,
+      "reporter": "Cal.App.3d",
+      "page": 1348,
+      "pin": "1357–1360",
+      "raw": "Paciﬁc Employers Insurance Co. v. Superior Court (1990) 221 Cal. App.3d 1348, 1357–1360",
+      "span": [
+        375,
+        462
+      ],
+      "role": "directions",
+      "case_key": "221 Cal.App.3d 1348"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:16+00:00"
+}

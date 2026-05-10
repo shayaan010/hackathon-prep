@@ -1,0 +1,55 @@
+{
+  "id": "CACI-5005",
+  "edition": "2026",
+  "number": "5005",
+  "title": "Multiple Parties",
+  "title_full": "Multiple Parties",
+  "title_statute": null,
+  "series": "5000",
+  "series_title": "Series 5000 Concluding Instructions",
+  "page_start": 3343,
+  "page_end": 3343,
+  "instruction_text": "5005. Multiple Parties\n[There are [ number] plaintiffs in this trial. Y ou should decide the case of\neach plaintiff separately as if it were a separate lawsuit. Each plaintiff is\nentitled to separate consideration of each plaintiff's own claim(s).]\n[There are [ number] defendants in this trial. Y ou should decide the case\nagainst each defendant separately as if it were a separate lawsuit. Each\ndefendant is entitled to separate consideration of each defendant's own\ndefenses.]\n[Different aspects of this case involve different parties (plaintiffs and\ndefendants). Each instruction will identify the parties to whom it applies.\nPay particular attention to the parties named in each instruction.]\n[or]\n[Unless I tell you otherwise, all instructions apply to each plaintiff and\ndefendant.]",
+  "directions_for_use": "If this instruction is used, the advisory committee recommends that it be read to the\njury before reading instructions on the substantive law.\nThe CACI instructions require the use of party names rather than party-status words\nlike \"plaintiff\" and \"defendant.\" In multiparty cases, it is important to name only the\nparties in each instruction to whom the instruction applies. For example, an\ninstruction on loss of consortium (see CACI No. 3920) will not apply to all\nplaintiffs. Instructions on vicarious liability (see CACI No. 3700 et seq.) will not\napply to all defendants. Unless all or nearly all of the instructions will apply to all\nof the parties, give the ﬁrst option for the last paragraph.",
+  "sources_and_authority": [
+    {
+      "raw": "\"We realize, of course, that multiple defendants are involved and that each\ndefendant is entitled to instructions on, and separate consideration of, every\ndefense available and applicable to it. The purpose of this rule is to insure that\nthe jury will distinguish and evaluate the separate facts relevant to each\ndefendant.\" ( Campbell v. Southern Paciﬁc Co. (1978) 22 Cal. 3d 51, 58 [148\nCal. Rptr. 596, 583 P.2d 121], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Campbell v. Southern Paciﬁc Co.",
+          "year": 1978,
+          "volume": 22,
+          "reporter": "Cal.3d",
+          "page": 51,
+          "pin": "58",
+          "raw": "Campbell v. Southern Paciﬁc Co. (1978) 22 Cal. 3d 51, 58",
+          "span": [
+            327,
+            383
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "7 Witkin, California Procedure (6th ed. 2021) Trial, §303\n1457",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Campbell v. Southern Paciﬁc Co.",
+      "year": 1978,
+      "volume": 22,
+      "reporter": "Cal.3d",
+      "page": 51,
+      "pin": "58",
+      "raw": "Campbell v. Southern Paciﬁc Co. (1978) 22 Cal. 3d 51, 58",
+      "span": [
+        327,
+        383
+      ],
+      "role": "sources",
+      "case_key": "22 Cal.3d 51"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

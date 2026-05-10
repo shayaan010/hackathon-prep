@@ -1,0 +1,454 @@
+{
+  "id": "CACI-380",
+  "edition": "2026",
+  "number": "380",
+  "title": "Agreement Formalized by Electronic Means—UniformElectronic Transactions Act",
+  "title_full": "Agreement Formalized by Electronic Means—UniformElectronic Transactions Act",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 286,
+  "page_end": 287,
+  "instruction_text": "380. Agreement Formalized by Electronic Means–Uniform\nElectronic Transactions Act (Civ. Code, §1633.1 et seq.)\n[Name of plaintiff ] claims that the parties entered into a valid contract in\nwhich [some of] the required terms were supplied by [ specify electronic\nmeans, e.g., e-mail messages ]. If the parties agree, they may form a\nbinding contract using an electronic record. An \"electronic record\" is\none created, generated, sent, communicated, received, or stored by\nelectronic means. [ E.g., E-Mail ] is an electronic record.\n[Name of plaintiff ] must prove, based on the context and surrounding\ncircumstances, including the conduct of the parties, that the parties\nagreed to use [ e.g., e-mail ] to formalize their agreement.\n[[Name of plaintiff ] must have sent the contract documents to [ name of\ndefendant] in an electronic record capable of retention by [ name of\ndefendant] at the time of receipt. An electronic record is not capable of\nretention by the recipient if the sender or its information processing\nsystem limits or prohibits the ability of the recipient to print or store it.]",
+  "directions_for_use": "This instruction is for use if the plaintiff is relying on the Uniform Electronic\nTransactions Act (UETA, Civ. Code, §1633.1 et seq.) to prove contract formation. If\nthere are other contested issues as to whether a contract was formed, also give\nCACI No. 303, Breach of Contract–Essential Factual Elements .\nThe ﬁrst paragraph asserts that electronic means were used to supply some or all of\nthe essential elements of the contract. Give the third paragraph if a law requires a\nperson to provide, send, or deliver information in writing to another person. (See\nCiv. Code, §1633.8(a).)\nThe most likely jury issue is whether the parties agreed to rely on electronic records\nto ﬁnalize their agreement. Whether the parties agree to conduct a transaction by\nelectronic means is determined from the context and surrounding circumstances,\nincluding the parties' conduct. (See Civ. Code, §1633.5(b).)\nThe UETA does not specify any particular transmissions that meet the deﬁnition of\n\"electronic record,\" such as e-mail or fax. (See Civ. Code, §1633.2(g).)\nNevertheless, there would seem to be little doubt that e-mail and fax meet the\ndeﬁnition. The parties will probably stipulate accordingly, or the court may ﬁnd that\nthe particular transmission at issue meets the deﬁnition as a matter of law.\nIf a law requires a signature, an electronic signature satisﬁes the law. (Civ. Code,\n§1633.7(d).) The UETA deﬁnes an electronic signature as an electronic sound,\nsymbol, or process attached to or logically associated with an electronic record and\n212\nexecuted or adopted by a person with the intent to sign the electronic record. (Civ.\nCode, §1633.2(h); see Gov. Code, §16.5(d) (digital signature).) The validity of an\nelectronic signature under this deﬁnition would most likely be a question of law for\nthe court. If there is an issue of fact with regard to the parties' intent to use\nelectronic signatures, this instruction will need to be modiﬁed accordingly.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Electronic Record\" Deﬁned Under UETA. Civil Code section 1633.2(g).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1633.2",
+          "display": "Civil Code section 1633.2",
+          "raw": "Civil Code section 1633.2(g)",
+          "span": [
+            39,
+            67
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1633.2",
+          "display": "Civil Code section 1633.2(g)",
+          "raw": "Civil Code section 1633.2(g)",
+          "span": [
+            39,
+            67
+          ],
+          "subsection": "g"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Electronic Signature\" Deﬁned Under UETA. Civil Code section 1633.2(h).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1633.2",
+          "display": "Civil Code section 1633.2",
+          "raw": "Civil Code section 1633.2(h)",
+          "span": [
+            42,
+            70
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1633.2",
+          "display": "Civil Code section 1633.2(h)",
+          "raw": "Civil Code section 1633.2(h)",
+          "span": [
+            42,
+            70
+          ],
+          "subsection": "h"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Agreement to Conduct Transaction by Electronic Means. Civil Code section\n1633.5(b).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1633.5",
+          "display": "Civil Code section 1633.5",
+          "raw": "Civil Code section\n1633.5(b)",
+          "span": [
+            54,
+            82
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1633.5",
+          "display": "Civil Code section 1633.5(b)",
+          "raw": "Civil Code section\n1633.5(b)",
+          "span": [
+            54,
+            82
+          ],
+          "subsection": "b"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Enforceability of Electronic Transactions. Civil Code section 1633.7.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1633.7",
+          "display": "Civil Code section 1633.7",
+          "raw": "Civil Code section 1633.7",
+          "span": [
+            43,
+            68
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Providing Required Information by Electronic Means. Civil Code section\n1633.8(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1633.8",
+          "display": "Civil Code section 1633.8",
+          "raw": "Civil Code section\n1633.8(a)",
+          "span": [
+            52,
+            80
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1633.8",
+          "display": "Civil Code section 1633.8(a)",
+          "raw": "Civil Code section\n1633.8(a)",
+          "span": [
+            52,
+            80
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Attributing Electronic Record or Signature to Person. Civil Code section 1633.9.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1633.9",
+          "display": "Civil Code section 1633.9",
+          "raw": "Civil Code section 1633.9",
+          "span": [
+            54,
+            79
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\" 'Whether the parties agree to conduct a transaction by electronic means is\ndetermined from the context and surrounding circumstances, including the\nparties' conduct. . . . 'The absence of an explicit agreement to conduct the\ntransaction by electronic means is not determinative; however, it is a relevant\nfactor to consider.\" ( J.B.B. Investment Partners, Ltd. v. Fair (2014) 232\nCal. App.4th 974, 989 [182 Cal. Rptr.3d 154].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "J.B.B. Investment Partners, Ltd. v. Fair",
+          "year": 2014,
+          "volume": 232,
+          "reporter": "Cal.App.4th",
+          "page": 974,
+          "pin": "989",
+          "raw": "J.B.B. Investment Partners, Ltd. v. Fair (2014) 232 Cal. App.4th 974, 989",
+          "span": [
+            330,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Under Civil Code section 1633.7, enacted in 1999 as part of the Uniform\nElectronic Transactions Act, an electronic signature has the same legal effect as a\nhandwritten signature.\" ( Ruiz v. Moss Bros. Auto Group, Inc. (2014) 232\nCal. App.4th 836, 843 [181 Cal. Rptr.3d 781], internal citations omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1633.7",
+          "display": "Civil Code section 1633.7",
+          "raw": "Civil Code section 1633.7",
+          "span": [
+            7,
+            32
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Ruiz v. Moss Bros. Auto Group, Inc.",
+          "year": 2014,
+          "volume": 232,
+          "reporter": "Cal.App.4th",
+          "page": 836,
+          "pin": "843",
+          "raw": "Ruiz v. Moss Bros. Auto Group, Inc. (2014) 232 Cal. App.4th 836, 843",
+          "span": [
+            183,
+            251
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Civil Code section 1633.9 addresses how a proponent of an electronic signature\nmay authenticate the signature–that is, show the signature is, in fact, the\nsignature of the person the proponent claims it is.\" ( Ruiz, supra , 232 Cal. App.4th\nat p. 843.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1633.9",
+          "display": "Civil Code section 1633.9",
+          "raw": "Civil Code section 1633.9",
+          "span": [
+            1,
+            26
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"We agree that a printed name or some other symbol might, under speciﬁc\ncircumstances, be a signature under UETA . . . .\" ( J.B.B. Investment Partners,\nLtd., supra , 232 Cal. App.4th at p. 988.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The trial court's analysis was incomplete. Attributing the name on an e-mail to\na particular person and determining that the printed name is '[t]he act of [this]\nperson' is a necessary prerequisite but is insufficient, by itself, to establish that it\nis an 'electronic signature.' . . . UETA deﬁnes the term 'electronic signature.'\nSubdivision (h) of section 1633.2 states that ' \"[e]lectronic signature\" means an\nelectronic sound, symbol, or process attached to or logically associated with an\nelectronic record and executed or adopted by a person with the intent to sign the\nelectronic record.' (Italics added; see CACI No. 380 [party suing to enforce an\nagreement formalized by electronic means must prove 'based on the context and\nsurrounding circumstances, including the conduct of the parties, that the parties\nCONTRACTS CACI No. 380\n213",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1633.2",
+      "display": "Civil Code section 1633.2",
+      "raw": "Civil Code section 1633.2(g)",
+      "span": [
+        39,
+        67
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1633.2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1633.2",
+      "display": "Civil Code section 1633.2(g)",
+      "raw": "Civil Code section 1633.2(g)",
+      "span": [
+        39,
+        67
+      ],
+      "subsection": "g",
+      "role": "sources",
+      "statute_key": "CA/CIV/1633.2/g"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1633.2",
+      "display": "Civil Code section 1633.2(h)",
+      "raw": "Civil Code section 1633.2(h)",
+      "span": [
+        42,
+        70
+      ],
+      "subsection": "h",
+      "role": "sources",
+      "statute_key": "CA/CIV/1633.2/h"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1633.5",
+      "display": "Civil Code section 1633.5",
+      "raw": "Civil Code section\n1633.5(b)",
+      "span": [
+        54,
+        82
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1633.5"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1633.5",
+      "display": "Civil Code section 1633.5(b)",
+      "raw": "Civil Code section\n1633.5(b)",
+      "span": [
+        54,
+        82
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/CIV/1633.5/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1633.7",
+      "display": "Civil Code section 1633.7",
+      "raw": "Civil Code section 1633.7",
+      "span": [
+        43,
+        68
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1633.7"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1633.8",
+      "display": "Civil Code section 1633.8",
+      "raw": "Civil Code section\n1633.8(a)",
+      "span": [
+        52,
+        80
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1633.8"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1633.8",
+      "display": "Civil Code section 1633.8(a)",
+      "raw": "Civil Code section\n1633.8(a)",
+      "span": [
+        52,
+        80
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/CIV/1633.8/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1633.9",
+      "display": "Civil Code section 1633.9",
+      "raw": "Civil Code section 1633.9",
+      "span": [
+        54,
+        79
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1633.9"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1633.1",
+      "display": "Civil Code section 1633.1",
+      "raw": "Civ. Code, §1633.1",
+      "span": [
+        106,
+        124
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/1633.1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1633.7",
+      "display": "Civil Code section 1633.7(d)",
+      "raw": "Civ. Code,\n§1633.7(d)",
+      "span": [
+        1364,
+        1385
+      ],
+      "subsection": "d",
+      "role": "directions",
+      "statute_key": "CA/CIV/1633.7/d"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "16.5",
+      "display": "Government Code section 16.5",
+      "raw": "Gov. Code, §16.5(d)",
+      "span": [
+        1648,
+        1667
+      ],
+      "role": "directions",
+      "statute_key": "CA/GOV/16.5"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "16.5",
+      "display": "Government Code section 16.5(d)",
+      "raw": "Gov. Code, §16.5(d)",
+      "span": [
+        1648,
+        1667
+      ],
+      "subsection": "d",
+      "role": "directions",
+      "statute_key": "CA/GOV/16.5/d"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "J.B.B. Investment Partners, Ltd. v. Fair",
+      "year": 2014,
+      "volume": 232,
+      "reporter": "Cal.App.4th",
+      "page": 974,
+      "pin": "989",
+      "raw": "J.B.B. Investment Partners, Ltd. v. Fair (2014) 232 Cal. App.4th 974, 989",
+      "span": [
+        330,
+        403
+      ],
+      "role": "sources",
+      "case_key": "232 Cal.App.4th 974"
+    },
+    {
+      "name": "Ruiz v. Moss Bros. Auto Group, Inc.",
+      "year": 2014,
+      "volume": 232,
+      "reporter": "Cal.App.4th",
+      "page": 836,
+      "pin": "843",
+      "raw": "Ruiz v. Moss Bros. Auto Group, Inc. (2014) 232 Cal. App.4th 836, 843",
+      "span": [
+        183,
+        251
+      ],
+      "role": "sources",
+      "case_key": "232 Cal.App.4th 836"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

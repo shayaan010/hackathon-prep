@@ -1,0 +1,269 @@
+{
+  "id": "CACI-1809",
+  "edition": "2026",
+  "number": "1809",
+  "title": "Recording of Confidential Information",
+  "title_full": "Recording of Confidential Information (Pen. Code, §§ 632,637.2)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "PEN",
+    "section": "632",
+    "display": "Penal Code section 632",
+    "raw": "Pen. Code, §§ 632,637.2",
+    "span": [
+      0,
+      23
+    ]
+  },
+  "series": "1800",
+  "series_title": "Series 1800 Right Of Privacy",
+  "page_start": 1228,
+  "page_end": 1229,
+  "instruction_text": "1809. Recording of Conﬁdential Information (Pen. Code, §§632,\n637.2)\n[Name of plaintiff ] claims that [ name of defendant ] violated\n[his/her/nonbinary pronoun] right to privacy. To establish this claim,\n[name of plaintiff ] must prove all of the following:\n1. That [ name of defendant ] intentionally [eavesdropped on/recorded]\n[name of plaintiff ]'s conversation by using an electronic device;\n2. That [ name of plaintiff ] had a reasonable expectation that the\nconversation was not being overheard or recorded; [and]\n3. That [ name of defendant ] did not have the consent of all parties to\nthe conversation to [eavesdrop on/record] it;\n4. [That [ name of plaintiff ] was harmed; and]\n5. [That [ name of defendant ]'s conduct was a substantial factor in\ncausing [ name of plaintiff ]'s harm.]",
+  "directions_for_use": "If the plaintiff is asserting more than one privacy right, give an introductory\ninstruction stating that a person's right to privacy can be violated in more than one\nway and listing the legal theories under which the plaintiff is suing.\nElements 4 and 5 are in brackets because if there is no actual harm, plaintiff can\nrecover the statutory penalty. If plaintiff is seeking actual damages, such damages\nmust be proven along with causation.",
+  "sources_and_authority": [
+    {
+      "raw": "Recording Conﬁdential Communication. Penal Code section 632(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "632",
+          "display": "Penal Code section 632",
+          "raw": "Penal Code section 632(a)",
+          "span": [
+            37,
+            62
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "632",
+          "display": "Penal Code section 632(a)",
+          "raw": "Penal Code section 632(a)",
+          "span": [
+            37,
+            62
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Civil Action for Recording Conﬁdential Communication. Penal Code section\n637.2.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "PEN",
+          "section": "637.2",
+          "display": "Penal Code section 637.2",
+          "raw": "Penal Code section\n637.2",
+          "span": [
+            54,
+            78
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[A] conversation is conﬁdential under section 632 if a party to that conversation\nhas an objectively reasonable expectation that the conversation is not being\noverheard or recorded.\" ( Flanagan v. Flanagan (2002) 27 Cal. 4th 766, 776–777\n[117 Cal. Rptr.2d 574, 41 P.3d 575].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Flanagan v. Flanagan",
+          "year": 2002,
+          "volume": 27,
+          "reporter": "Cal.4th",
+          "page": 766,
+          "pin": "776–777",
+          "raw": "Flanagan v. Flanagan (2002) 27 Cal. 4th 766, 776–777",
+          "span": [
+            186,
+            238
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'A communication must be protected if either party reasonably expects the\ncommunication to be conﬁned to the parties.' \" ( Coulter v. Bank of America\nNational Trust and Savings Assn. (1994) 28 Cal. App.4th 923, 929 [33\nCal. Rptr.2d 766], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Coulter v. Bank of America National Trust and Savings Assn.",
+          "year": 1994,
+          "volume": 28,
+          "reporter": "Cal.App.4th",
+          "page": 923,
+          "pin": "929",
+          "raw": "Coulter v. Bank of America National Trust and Savings Assn. (1994) 28 Cal. App.4th 923, 929",
+          "span": [
+            125,
+            216
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"While one who imparts private information risks the betrayal of his conﬁdence\nby the other party, a substantial distinction has been recognized between the\n1154\nsecondhand repetition of the contents of a conversation and its simultaneous\ndissemination to an unannounced second auditor, whether that auditor be a\nperson or a mechanical device.\" ( Ribas v. Clark (1985) 38 Cal. 3d 355, 360–361\n[212 Cal. Rptr. 143, 696 P.2d 637].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ribas v. Clark",
+          "year": 1985,
+          "volume": 38,
+          "reporter": "Cal.3d",
+          "page": 355,
+          "pin": "360–361",
+          "raw": "Ribas v. Clark (1985) 38 Cal. 3d 355, 360–361",
+          "span": [
+            347,
+            392
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"We hold that an actionable violation of section 632 does not require disclosure\nof a conﬁdential communication to a third party.\" ( Friddle v. Epstein (1993) 16\nCal. App.4th 1649, 1660 [21 Cal. Rptr.2d 85].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Friddle v. Epstein",
+          "year": 1993,
+          "volume": 16,
+          "reporter": "Cal.App.4th",
+          "page": 1649,
+          "pin": "1660",
+          "raw": "Friddle v. Epstein (1993) 16 Cal. App.4th 1649, 1660",
+          "span": [
+            133,
+            185
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The right to recover [the] statutory minimum accrue[s] at the moment the\nprivacy act [is] violated.\" ( Friddle, supra, 16 Cal. App.4th at p. 1661.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"If the plaintiff has suffered injuries akin to those for emotional distress, 'i.e.,\nanxiety, embarrassment, humiliation, shame, depression, feelings of\npowerlessness, anguish, etc.,' these are 'actual' damages which shall be trebled.\"\n(Friddle, supra, 16 Cal. App.4th at p. 1660.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Because the right to [the statutory] award accrues at the moment of the\nviolation, it is not barred by the judicial privilege. . . . Section 637.2 therefore\npermits him to pursue his statutory remedy of a civil lawsuit for $3,000, even\nthough the judicial privilege bars his recovery for the only actual damage he\nclaims to have suffered.\" ( Ribas, supra, 38 Cal. 3d at p. 365.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "7 Witkin, Summary of California Law (11th ed. 2017) Torts, §§728, 729, 736\n4 Levy et al., California Torts, Ch. 46, Invasion of Privacy , §46.07[8] (Matthew\nBender)\n37 California Forms of Pleading and Practice, Ch. 429, Privacy, §429.283\n(Matthew Bender)\n18 California Points and Authorities, Ch. 184, Privacy: Invasion of Privacy ,\n§184.25A (Matthew Bender)\nRIGHT OF PRIV ACY CACI No. 1809\n1155",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "632",
+      "display": "Penal Code section 632",
+      "raw": "Pen. Code, §§ 632,637.2",
+      "span": [
+        0,
+        23
+      ],
+      "role": "title",
+      "statute_key": "CA/PEN/632"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "632",
+      "display": "Penal Code section 632(a)",
+      "raw": "Penal Code section 632(a)",
+      "span": [
+        37,
+        62
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/PEN/632/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "PEN",
+      "section": "637.2",
+      "display": "Penal Code section 637.2",
+      "raw": "Penal Code section\n637.2",
+      "span": [
+        54,
+        78
+      ],
+      "role": "sources",
+      "statute_key": "CA/PEN/637.2"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Flanagan v. Flanagan",
+      "year": 2002,
+      "volume": 27,
+      "reporter": "Cal.4th",
+      "page": 766,
+      "pin": "776–777",
+      "raw": "Flanagan v. Flanagan (2002) 27 Cal. 4th 766, 776–777",
+      "span": [
+        186,
+        238
+      ],
+      "role": "sources",
+      "case_key": "27 Cal.4th 766"
+    },
+    {
+      "name": "Coulter v. Bank of America National Trust and Savings Assn.",
+      "year": 1994,
+      "volume": 28,
+      "reporter": "Cal.App.4th",
+      "page": 923,
+      "pin": "929",
+      "raw": "Coulter v. Bank of America National Trust and Savings Assn. (1994) 28 Cal. App.4th 923, 929",
+      "span": [
+        125,
+        216
+      ],
+      "role": "sources",
+      "case_key": "28 Cal.App.4th 923"
+    },
+    {
+      "name": "Ribas v. Clark",
+      "year": 1985,
+      "volume": 38,
+      "reporter": "Cal.3d",
+      "page": 355,
+      "pin": "360–361",
+      "raw": "Ribas v. Clark (1985) 38 Cal. 3d 355, 360–361",
+      "span": [
+        347,
+        392
+      ],
+      "role": "sources",
+      "case_key": "38 Cal.3d 355"
+    },
+    {
+      "name": "Friddle v. Epstein",
+      "year": 1993,
+      "volume": 16,
+      "reporter": "Cal.App.4th",
+      "page": 1649,
+      "pin": "1660",
+      "raw": "Friddle v. Epstein (1993) 16 Cal. App.4th 1649, 1660",
+      "span": [
+        133,
+        185
+      ],
+      "role": "sources",
+      "case_key": "16 Cal.App.4th 1649"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:14+00:00"
+}

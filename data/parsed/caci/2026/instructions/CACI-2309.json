@@ -1,0 +1,168 @@
+{
+  "id": "CACI-2309",
+  "edition": "2026",
+  "number": "2309",
+  "title": "Termination of Insurance Policy for Fraudulent Claim",
+  "title_full": "Termination of Insurance Policy for Fraudulent Claim",
+  "title_statute": null,
+  "series": "2300",
+  "series_title": "Series 2300 Insurance Litigation",
+  "page_start": 1467,
+  "page_end": 1467,
+  "instruction_text": "2309. Termination of Insurance Policy for Fraudulent Claim\n[Name of insurer ] claims that [ name of insured ] [is not entitled to recover\nunder/is not entitled to beneﬁts under] the insurance policy because [he/\nshe/nonbinary pronoun] made a false claim. To establish this claim, [ name\nof insurer] must prove all of the following:\n1. That [ name of insured ] made a claim for insurance beneﬁts under\na policy with [ name of insurer ];\n2. That [ name of insured ] represented to [ name of insurer ] that [ insert\nallegedly false representation ];\n3. That [ name of insured ]'s representation was not true;\n4. That [ name of insured ] knew that the representation was not true;\n5. That [ name of insured ] intended that [ name of insurer ] rely on this\nrepresentation in [investigating/paying] [ name of insured ]'s claim\nfor insurance beneﬁts; and\n6. That the representation that [ insert allegedly false representation ],\nif true, would affect a reasonable insurance company's\n[investigation of/decision to pay] a claim for insurance beneﬁts.",
+  "directions_for_use": "If the insured's misrepresentation or concealment in the insurance application is\nraised as an affirmative defense by the insurer, this instruction may be modiﬁed for\nuse. The elements of the defense would be the same as stated above.",
+  "sources_and_authority": [
+    {
+      "raw": "Rescission of Contract. Civil Code section 1689(b)(1).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1689",
+          "display": "Civil Code section 1689",
+          "raw": "Civil Code section 1689(b)(1)",
+          "span": [
+            24,
+            53
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1689",
+          "display": "Civil Code section 1689(b)",
+          "raw": "Civil Code section 1689(b)(1)",
+          "span": [
+            24,
+            53
+          ],
+          "subsection": "b"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1689",
+          "display": "Civil Code section 1689(1)",
+          "raw": "Civil Code section 1689(b)(1)",
+          "span": [
+            24,
+            53
+          ],
+          "subsection": "1"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Intentional Omission of Information Tending to Prove Falsity. Insurance Code\nsection 338.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "338",
+          "display": "Insurance Code section 338",
+          "raw": "Insurance Code\nsection 338",
+          "span": [
+            62,
+            88
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "False Representation: Time for Rescission. Insurance Code section 359.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "359",
+          "display": "Insurance Code section 359",
+          "raw": "Insurance Code section 359",
+          "span": [
+            43,
+            69
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The materiality of a representation made in an application for a contract of\ninsurance is determined by a subjective standard (i.e., its effect on the particular\ninsurer to whom it was made) and rescission will be allowed even though the\nmisrepresentation was the result of negligence or the product of innocence. On\nthe other hand, in order to void a policy based upon the insured's violation of\nthe standard fraud and concealment clause . . ., the false statement must have\nbeen knowingly and wilfully made with the intent (express or implied) of\ndeceiving the insurer. The materiality of the statement will be determined by the\nobjective standard of its effect upon a reasonable insurer.\" (Cummings v. Fire\n1393",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1689",
+      "display": "Civil Code section 1689",
+      "raw": "Civil Code section 1689(b)(1)",
+      "span": [
+        24,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1689"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1689",
+      "display": "Civil Code section 1689(b)",
+      "raw": "Civil Code section 1689(b)(1)",
+      "span": [
+        24,
+        53
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/CIV/1689/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1689",
+      "display": "Civil Code section 1689(1)",
+      "raw": "Civil Code section 1689(b)(1)",
+      "span": [
+        24,
+        53
+      ],
+      "subsection": "1",
+      "role": "sources",
+      "statute_key": "CA/CIV/1689/1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "338",
+      "display": "Insurance Code section 338",
+      "raw": "Insurance Code\nsection 338",
+      "span": [
+        62,
+        88
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/338"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "359",
+      "display": "Insurance Code section 359",
+      "raw": "Insurance Code section 359",
+      "span": [
+        43,
+        69
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/359"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:16+00:00"
+}

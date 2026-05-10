@@ -1,0 +1,123 @@
+{
+  "id": "CACI-3601",
+  "edition": "2026",
+  "number": "3601",
+  "title": "Ongoing Conspiracy",
+  "title_full": "Ongoing Conspiracy",
+  "title_statute": null,
+  "series": "3600",
+  "series_title": "Series 3600 Conspiracy",
+  "page_start": 2603,
+  "page_end": 2603,
+  "instruction_text": "3601. Ongoing Conspiracy\nIf you decide that [ name of defendant ] joined the conspiracy to commit\n[insert tort theory ], then [he/she/ nonbinary pronoun] is responsible for all\nacts done as part of the conspiracy, whether the acts occurred before or\nafter [he/she/ nonbinary pronoun] joined the conspiracy.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"It is the settled rule that 'to render a person civilly liable for injuries resulting\nfrom a conspiracy of which he was a member, it is not necessary that he should\nhave joined the conspiracy at the time of its inception; everyone who enters into\nsuch a common design is in law a party to every act previously or subsequently\ndone by any of the others in pursuance of it.' Having been found to have joined\nand actively participated in the continuing conspiracy to convert, appellant\nbecame liable for the previous acts of his coconspirators under the rules relating\nto civil liability, and the fact that some of the missing goods may never have\ncome into his possession would not absolve him from liability.\" ( De Vries v.\nBrumback (1960) 53 Cal. 2d 643, 648 [2 Cal. Rptr. 764, 349 P.2d 532], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "De Vries v. Brumback",
+          "year": 1960,
+          "volume": 53,
+          "reporter": "Cal.2d",
+          "page": 643,
+          "pin": "648",
+          "raw": "De Vries v. Brumback (1960) 53 Cal. 2d 643, 648",
+          "span": [
+            712,
+            759
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"It is well settled that a conspirator is liable for all the acts done in furtherance\nof a common scheme or plan even though he is not a direct actor. It is equally\nwell settled that a party may be liable even if the intentional tort is commenced\nbefore he participates, if he, knowing the facts, then participates therein.\"\n(Peterson v. Cruickshank (1956) 144 Cal. App.2d 148, 168–169 [300 P.2d 915],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Peterson v. Cruickshank",
+          "year": 1956,
+          "volume": 144,
+          "reporter": "Cal.App.2d",
+          "page": 148,
+          "pin": "168–169",
+          "raw": "Peterson v. Cruickshank (1956) 144 Cal. App.2d 148, 168–169",
+          "span": [
+            326,
+            385
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[Defendant] could not join in a conspiracy that had been completed.\" ( Kidron v.\nMovie Acquisition Corp. (1995) 40 Cal. App.4th 1571, 1595 [47 Cal. Rptr.2d\n752], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Kidron v. Movie Acquisition Corp.",
+          "year": 1995,
+          "volume": 40,
+          "reporter": "Cal.App.4th",
+          "page": 1571,
+          "pin": "1595",
+          "raw": "Kidron v. Movie Acquisition Corp. (1995) 40 Cal. App.4th 1571, 1595",
+          "span": [
+            72,
+            139
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Levy et al., California Torts, Ch. 9, Civil Conspiracy, Concerted Action, and\nRelated Theories of Joint Liability , §9.03 (Matthew Bender)\n13 California Forms of Pleading and Practice, Ch. 126, Conspiracy (Matthew\nBender)\n4 California Points and Authorities, Ch. 46, Conspiracy (Matthew Bender)\n717",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "De Vries v. Brumback",
+      "year": 1960,
+      "volume": 53,
+      "reporter": "Cal.2d",
+      "page": 643,
+      "pin": "648",
+      "raw": "De Vries v. Brumback (1960) 53 Cal. 2d 643, 648",
+      "span": [
+        712,
+        759
+      ],
+      "role": "sources",
+      "case_key": "53 Cal.2d 643"
+    },
+    {
+      "name": "Peterson v. Cruickshank",
+      "year": 1956,
+      "volume": 144,
+      "reporter": "Cal.App.2d",
+      "page": 148,
+      "pin": "168–169",
+      "raw": "Peterson v. Cruickshank (1956) 144 Cal. App.2d 148, 168–169",
+      "span": [
+        326,
+        385
+      ],
+      "role": "sources",
+      "case_key": "144 Cal.App.2d 148"
+    },
+    {
+      "name": "Kidron v. Movie Acquisition Corp.",
+      "year": 1995,
+      "volume": 40,
+      "reporter": "Cal.App.4th",
+      "page": 1571,
+      "pin": "1595",
+      "raw": "Kidron v. Movie Acquisition Corp. (1995) 40 Cal. App.4th 1571, 1595",
+      "span": [
+        72,
+        139
+      ],
+      "role": "sources",
+      "case_key": "40 Cal.App.4th 1571"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

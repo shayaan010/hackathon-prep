@@ -1,0 +1,143 @@
+{
+  "id": "CACI-5022",
+  "edition": "2026",
+  "number": "5022",
+  "title": "Introduction to General Verdict Form",
+  "title_full": "Introduction to General Verdict Form",
+  "title_statute": null,
+  "series": "5000",
+  "series_title": "Series 5000 Concluding Instructions",
+  "page_start": 3373,
+  "page_end": 3374,
+  "instruction_text": "5022. Introduction to General Verdict Form\nI will give you [a] general verdict form[s]. The form[s] ask[s] you to ﬁnd\neither in favor of [ name of plaintiff ] or [ name of defendant ]. [It also asks\nyou to answer [an] additional question[s] regarding [ specify, e.g., the right\nto punitive damages ].] I have already instructed you on the law that you\nare to refer to in making your determination[s].\nAt least nine of you must agree on your decision [and in answering the\nadditional question[s]]. [If there is more than one question on the verdict\nform, as long as nine of you agree on your answers to each question, the\nsame nine do not have to agree on each answer.]\nIn reaching your verdict [and answering the additional question[s]], you\nmust decide whether the party with the burden of proof has proved all\nof the necessary facts in support of each required element of [his/her/\nnonbinary pronoun/its] claim or defense. Y ou should review the elements\naddressed in the other instructions that I have given you and determine\nif at least nine of you agree that each element has been proven by the\nevidence received in the trial. The same nine do not have to agree on\neach element.\nWhen you have ﬁnished ﬁlling out the form, your presiding juror must\nwrite the date and sign it at the bottom and then notify the [bailiff/clerk/\ncourt attendant].",
+  "directions_for_use": "If a general verdict will be used, this instruction may be given to guide the jury on\nhow to go about reaching a verdict. With a general verdict, there is a danger that the\njury will shortcut the deliberative process of carefully looking at each element of\neach claim or defense and simply vote for the plaintiff or for the defendant. This\ninstruction directs the jury to approach its task as if a special verdict were being\nused and questions on each element of each claim or defense had to be answered.\nThis instruction assumes that the rule applicable to special verdicts, that the same\nnine jurors do not need to agree on every element of a claim as long as there are\nnine in favor of each (see Juarez v. Superior Court (1982) 31 Cal. 3d 759, 768–769\n[183 Cal. Rptr. 852, 647 P.2d 128]; CACI No. 5012, Introduction to Special V erdict\nForm), would apply to deliberations using a general verdict.\nThis purpose of this instruction is to lessen the possibility that the \"paradox of\nshifting majorities\" will happen. This paradox occurs when the same jury analyzing\nthe same evidence would ﬁnd liability with a special verdict, but not with a general\nverdict. The possibility arises because with a special verdict, a juror who votes no\non one question but is in a minority of three or fewer must continue to deliberate\n1487\nand vote on all of the remaining questions.\nIf, for example, the vote on element 3 is 9–3 yes with jurors 10–12 voting no, and\nthe vote on element 4 is 11–1 yes with juror 1 voting no, there will be liability with\na special verdict because each element has received nine yes votes. But if a general\nverdict is used, there would be no liability because only eight jurors have found true\nevery element of the claim. The California Supreme Court has found this result to\nbe proper with regard to special verdicts. (See Juarez, supra, 31 Cal. 3d at p. 768.)\nWith a general verdict, if the jury votes on each element of each claim or defense, it\nis more likely to ﬁnd nine votes for each element, even though it may be a different\nnine each time.\nThe second and third paragraphs will have to be modiﬁed in a case under the\nLanterman-Petris-Short Act. (See CACI No. 4012, Concluding Instruction (for LPS\nAct).)",
+  "sources_and_authority": [
+    {
+      "raw": "\"[I]f nine identical jurors agree that a party is negligent and that such negligence\nis the proximate cause of the other party's injuries, special verdicts apportioning\ndamages are valid so long as they command the votes of any nine jurors. To\nhold otherwise would be to prohibit jurors who dissent on the question of a\nparty's liability from participation in the important remaining issue of allocating\nresponsibility among the parties, a result that would deny all parties the right to\na jury of 12 persons deliberating on all issues.\" ( Juarez, supra, 31 Cal. 3d at p.\n768, original italics.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"To determine whether a general verdict is supported by the evidence it is\nnecessary to ascertain the issues embraced within the verdict and measure the\nsufficiency of the evidence as related to those issues. For this purpose reference\nmay be had to the pleadings, the pretrial order and the charge to the jury. A\ngeneral verdict implies a ﬁnding of every fact essential to its validity which is\nsupported by the evidence. Where several issues responsive to different theories\nof law are presented to the jury and the evidence is sufficient to support facts\nsustaining the verdict under one of those theories, it will be upheld even though\nthe evidence is insufficient to support facts sustaining it under any other theory.\"\n(Owens v. Pyeatt (1967) 248 Cal. App.2d 840, 844 [57 Cal. Rptr. 100], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Owens v. Pyeatt",
+          "year": 1967,
+          "volume": 248,
+          "reporter": "Cal.App.2d",
+          "page": 840,
+          "pin": "844",
+          "raw": "Owens v. Pyeatt (1967) 248 Cal. App.2d 840, 844",
+          "span": [
+            726,
+            773
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Implicit in [general] verdicts is the presumption that 'all material facts in issue\nas to which substantial evidence was received were determined in a manner\nconsistent and in conformance with the verdict.' \" ( Coorough v. De Lay (1959)\n171 Cal. App.2d 41, 45 [339 P.2d 963].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Coorough v. De Lay",
+          "year": 1959,
+          "volume": 171,
+          "reporter": "Cal.App.2d",
+          "page": 41,
+          "pin": "45",
+          "raw": "Coorough v. De Lay (1959) 171 Cal. App.2d 41, 45",
+          "span": [
+            212,
+            260
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A general verdict imports a ﬁnding in favor of the winning party on all the\naverments of his pleading material to his recovery.\" ( Behr v. County of Santa\nCruz (1959) 172 Cal. App.2d 697, 712 [342 P.2d 987].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Behr v. County of Santa Cruz",
+          "year": 1959,
+          "volume": 172,
+          "reporter": "Cal.App.2d",
+          "page": 697,
+          "pin": "712",
+          "raw": "Behr v. County of Santa Cruz (1959) 172 Cal. App.2d 697, 712",
+          "span": [
+            132,
+            192
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "7 Witkin, California Procedure (6th ed. 2021) Trial, §345\nCACI No. 5022 CONCLUDING INSTRUCTIONS\n1488",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Owens v. Pyeatt",
+      "year": 1967,
+      "volume": 248,
+      "reporter": "Cal.App.2d",
+      "page": 840,
+      "pin": "844",
+      "raw": "Owens v. Pyeatt (1967) 248 Cal. App.2d 840, 844",
+      "span": [
+        726,
+        773
+      ],
+      "role": "sources",
+      "case_key": "248 Cal.App.2d 840"
+    },
+    {
+      "name": "Coorough v. De Lay",
+      "year": 1959,
+      "volume": 171,
+      "reporter": "Cal.App.2d",
+      "page": 41,
+      "pin": "45",
+      "raw": "Coorough v. De Lay (1959) 171 Cal. App.2d 41, 45",
+      "span": [
+        212,
+        260
+      ],
+      "role": "sources",
+      "case_key": "171 Cal.App.2d 41"
+    },
+    {
+      "name": "Behr v. County of Santa Cruz",
+      "year": 1959,
+      "volume": 172,
+      "reporter": "Cal.App.2d",
+      "page": 697,
+      "pin": "712",
+      "raw": "Behr v. County of Santa Cruz (1959) 172 Cal. App.2d 697, 712",
+      "span": [
+        132,
+        192
+      ],
+      "role": "sources",
+      "case_key": "172 Cal.App.2d 697"
+    },
+    {
+      "name": "Juarez v. Superior Court",
+      "year": 1982,
+      "volume": 31,
+      "reporter": "Cal.3d",
+      "page": 759,
+      "pin": "768–769",
+      "raw": "Juarez v. Superior Court (1982) 31 Cal. 3d 759, 768–769",
+      "span": [
+        699,
+        754
+      ],
+      "role": "directions",
+      "case_key": "31 Cal.3d 759"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

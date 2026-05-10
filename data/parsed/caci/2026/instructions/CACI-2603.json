@@ -1,0 +1,143 @@
+{
+  "id": "CACI-2603",
+  "edition": "2026",
+  "number": "2603",
+  "title": "“Comparable Job” Explained",
+  "title_full": "“Comparable Job” Explained",
+  "title_statute": null,
+  "series": "2600",
+  "series_title": "Series 2600 California Family Rights Act",
+  "page_start": 1896,
+  "page_end": 1896,
+  "instruction_text": "2603. \"Comparable Job\" Explained\n\"Comparable job\" means a job that is the same or close to the\nemployee's former job in responsibilities, duties, pay, beneﬁts, working\nconditions, and schedule. It must be at the same location or a similar\ngeographic location.",
+  "directions_for_use": "Give this instruction only if comparable job is an issue under the plaintiff's CFRA\nclaim.",
+  "sources_and_authority": [
+    {
+      "raw": "Employment in a Comparable Position. Government Code section 12945.2(b)(6).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "12945.2",
+          "display": "Government Code section 12945.2",
+          "raw": "Government Code section 12945.2(b)(6)",
+          "span": [
+            37,
+            74
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "12945.2",
+          "display": "Government Code section 12945.2(b)",
+          "raw": "Government Code section 12945.2(b)(6)",
+          "span": [
+            37,
+            74
+          ],
+          "subsection": "b"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "12945.2",
+          "display": "Government Code section 12945.2(6)",
+          "raw": "Government Code section 12945.2(b)(6)",
+          "span": [
+            37,
+            74
+          ],
+          "subsection": "6"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Employment in a Comparable Position. Cal. Code Regs., tit. 2, §11087(i).",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]hile we will accord great weight and respect to the [Fair Employment and\nHousing Commission]'s regulations that apply to the necessity for leave, along\nwith any applicable federal FMLA regulations that the Commission incorporated\nby reference, we still retain ultimate responsibility for construing [CFRA].\"\n(Pang v. Beverly Hospital, Inc. (2000) 79 Cal. App.4th 986, 994–995 [94\nCal. Rptr.2d 643].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Pang v. Beverly Hospital, Inc.",
+          "year": 2000,
+          "volume": 79,
+          "reporter": "Cal.App.4th",
+          "page": 986,
+          "pin": "994–995",
+          "raw": "Pang v. Beverly Hospital, Inc. (2000) 79 Cal. App.4th 986, 994–995",
+          "span": [
+            313,
+            379
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "Chin et al., California Practice Guide: Employment Litigation, Ch. 12-B, Family and\nMedical Leave Act (FMLA)/California Family Rights Act\n(CFRA),¶¶ 12:1138–12:1139, 12:1150, 12:1154–12:1156 (The Rutter Group)\n1 Wilcox, California Employment Law, Ch. 8, Leaves of Absence , §§8.30, 8.31\n(Matthew Bender)\n11 California Forms of Pleading and Practice, Ch. 115, Civil Rights: Employment\nDiscrimination, §115.32[6][k] (Matthew Bender)\n2604–2609. Reserved for Future Use\n10",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "12945.2",
+      "display": "Government Code section 12945.2",
+      "raw": "Government Code section 12945.2(b)(6)",
+      "span": [
+        37,
+        74
+      ],
+      "role": "sources",
+      "statute_key": "CA/GOV/12945.2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "12945.2",
+      "display": "Government Code section 12945.2(b)",
+      "raw": "Government Code section 12945.2(b)(6)",
+      "span": [
+        37,
+        74
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/GOV/12945.2/b"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "12945.2",
+      "display": "Government Code section 12945.2(6)",
+      "raw": "Government Code section 12945.2(b)(6)",
+      "span": [
+        37,
+        74
+      ],
+      "subsection": "6",
+      "role": "sources",
+      "statute_key": "CA/GOV/12945.2/6"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Pang v. Beverly Hospital, Inc.",
+      "year": 2000,
+      "volume": 79,
+      "reporter": "Cal.App.4th",
+      "page": 986,
+      "pin": "994–995",
+      "raw": "Pang v. Beverly Hospital, Inc. (2000) 79 Cal. App.4th 986, 994–995",
+      "span": [
+        313,
+        379
+      ],
+      "role": "sources",
+      "case_key": "79 Cal.App.4th 986"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:18+00:00"
+}

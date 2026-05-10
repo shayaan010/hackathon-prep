@@ -1,0 +1,168 @@
+{
+  "id": "CACI-218",
+  "edition": "2026",
+  "number": "218",
+  "title": "Statements Made to Physician (Previously Existing Condition)",
+  "title_full": "Statements Made to Physician (Previously Existing Condition)",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 143,
+  "page_end": 143,
+  "instruction_text": "218. Statements Made to Physician (Previously Existing\nCondition)\n[Insert name of health-care provider ] has testiﬁed that [ insert name of\npatient] made statements to [him/her/ nonbinary pronoun] about [ name of\npatient]'s medical history. These statements helped [ name of health-care\nprovider] diagnose the patient's condition. Y ou can use these statements\nto help you examine the basis of [ name of health-care provider ]'s opinion.\nY ou cannot use them for any other purpose.\n[However, a statement by [ name of patient ] to [ name of health-care\nprovider] about [his/her/ nonbinary pronoun] current medical condition\nmay be considered as evidence of that medical condition.]",
+  "directions_for_use": "This instruction does not apply to, and should not be used for, a statement of the\npatient's then-existing physical sensation, mental feeling, pain, or bodily health.\nSuch statements are admissible as an exception to the hearsay rule under Evidence\nCode section 1250. This instruction also does not apply to statements of a patient\nregarding a prior mental or physical state if the patient is unavailable as a witness.\n(Evid. Code, §1251.)\nThis instruction also does not apply to, and should not be used for, statements of a\nparty that are offered into evidence by an opposing party. Such statements are\nadmissible as an exception to the hearsay rule under Evidence Code section 1220.\nSee CACI No. 212, Statements of a Party Opponent.",
+  "sources_and_authority": [
+    {
+      "raw": "Statements of Party. Evidence Code section 1220.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "1220",
+          "display": "Evidence Code section 1220",
+          "raw": "Evidence Code section 1220",
+          "span": [
+            21,
+            47
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Statements pointing to the cause of a physical condition may be admissible if\nthey are made by a patient to a physician. The statement must be required for\nproper diagnosis and treatment and is admissible only to show the basis of the\nphysician's medical opinion. ( People v. Wilson (1944) 25 Cal. 2d 341, 348 [153\nP.2d 720]; Johnson v. Aetna Life Insurance Co. (1963) 221 Cal. App.2d 247, 252\n[34 Cal. Rptr. 484]; Willoughby v. Zylstra (1935) 5 Cal. App.2d 297, 300–301 [42\nP.2d 685].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Wilson",
+          "year": 1944,
+          "volume": 25,
+          "reporter": "Cal.2d",
+          "page": 341,
+          "pin": "348",
+          "raw": "People v. Wilson (1944) 25 Cal. 2d 341, 348",
+          "span": [
+            266,
+            309
+          ]
+        },
+        {
+          "name": "Johnson v. Aetna Life Insurance Co.",
+          "year": 1963,
+          "volume": 221,
+          "reporter": "Cal.App.2d",
+          "page": 247,
+          "pin": "252",
+          "raw": "Johnson v. Aetna Life Insurance Co. (1963) 221 Cal. App.2d 247, 252",
+          "span": [
+            326,
+            393
+          ]
+        },
+        {
+          "name": "Willoughby v. Zylstra",
+          "year": 1935,
+          "volume": 5,
+          "reporter": "Cal.App.2d",
+          "page": 297,
+          "pin": "300–301",
+          "raw": "Willoughby v. Zylstra (1935) 5 Cal. App.2d 297, 300–301",
+          "span": [
+            415,
+            470
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, California Evidence (5th ed. 2012) Hearsay, §197\n2 California Trial Guide, Unit 40, Hearsay, §40.42 (Matthew Bender)\n69",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1220",
+      "display": "Evidence Code section 1220",
+      "raw": "Evidence Code section 1220",
+      "span": [
+        21,
+        47
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/1220"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1250",
+      "display": "Evidence Code section 1250",
+      "raw": "Evidence\nCode section 1250",
+      "span": [
+        240,
+        266
+      ],
+      "role": "directions",
+      "statute_key": "CA/EVID/1250"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1251",
+      "display": "Evidence Code section 1251",
+      "raw": "Evid. Code, §1251",
+      "span": [
+        420,
+        437
+      ],
+      "role": "directions",
+      "statute_key": "CA/EVID/1251"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "People v. Wilson",
+      "year": 1944,
+      "volume": 25,
+      "reporter": "Cal.2d",
+      "page": 341,
+      "pin": "348",
+      "raw": "People v. Wilson (1944) 25 Cal. 2d 341, 348",
+      "span": [
+        266,
+        309
+      ],
+      "role": "sources",
+      "case_key": "25 Cal.2d 341"
+    },
+    {
+      "name": "Johnson v. Aetna Life Insurance Co.",
+      "year": 1963,
+      "volume": 221,
+      "reporter": "Cal.App.2d",
+      "page": 247,
+      "pin": "252",
+      "raw": "Johnson v. Aetna Life Insurance Co. (1963) 221 Cal. App.2d 247, 252",
+      "span": [
+        326,
+        393
+      ],
+      "role": "sources",
+      "case_key": "221 Cal.App.2d 247"
+    },
+    {
+      "name": "Willoughby v. Zylstra",
+      "year": 1935,
+      "volume": 5,
+      "reporter": "Cal.App.2d",
+      "page": 297,
+      "pin": "300–301",
+      "raw": "Willoughby v. Zylstra (1935) 5 Cal. App.2d 297, 300–301",
+      "span": [
+        415,
+        470
+      ],
+      "role": "sources",
+      "case_key": "5 Cal.App.2d 297"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

@@ -1,0 +1,369 @@
+{
+  "id": "CACI-1707",
+  "edition": "2026",
+  "number": "1707",
+  "title": "Fact Versus Opinion",
+  "title_full": "Fact Versus Opinion",
+  "title_statute": null,
+  "series": "1700",
+  "series_title": "Series 1700 Defamation",
+  "page_start": 1134,
+  "page_end": 1137,
+  "instruction_text": "1707. Fact Versus Opinion\nFor [ name of plaintiff ] to recover, [ name of defendant ]'s statement(s) must\nhave been [a] statement(s) of fact, not opinion. A statement of fact is one\nthat can be proved to be true or false. In some circumstances, [ name of\nplaintiff] may recover if a statement phrased as an opinion implies that a\nfalse statement of fact is true.\nIn deciding this issue, you should consider whether the average [reader/\nlistener] would conclude from the language of the statement and its\ncontext that [ name of defendant ] was implying that a false statement of\nfact is true.",
+  "directions_for_use": "Give this instruction only if the court concludes that a statement could reasonably\nbe construed as implying a false assertion of fact. (See Campanelli v. Regents of\nUniv. of Cal. (1996) 44 Cal. App.4th 572, 578 [51 Cal. Rptr.2d 891].)",
+  "sources_and_authority": [
+    {
+      "raw": "\" 'Because [a defamatory] statement must contain a provable falsehood, courts\ndistinguish between statements of fact and statements of opinion for purposes of\ndefamation liability. Although statements of fact may be actionable as libel,\nstatements of opinion are constitutionally protected. [Citation.]' That does not\nmean that statements of opinion enjoy blanket protection. On the contrary, where\nan expression of opinion implies a false assertion of fact, the opinion can\nconstitute actionable defamation. The 'crucial question of whether challenged\nstatements convey the requisite factual imputation is ordinarily a question of law\nfor the court. [Citation.]' 'Only once the court has determined that a statement is\nreasonably susceptible to such a defamatory interpretation does it become a\nquestion for the trier of fact whether or not it was so understood. [Citations.]' \"\n(Summit Bank v. Rogers (2012) 206 Cal. App.4th 669, 695–696 [142 Cal. Rptr.3d\n40], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Summit Bank v. Rogers",
+          "year": 2012,
+          "volume": 206,
+          "reporter": "Cal.App.4th",
+          "page": 669,
+          "pin": "695–696",
+          "raw": "Summit Bank v. Rogers (2012) 206 Cal. App.4th 669, 695–696",
+          "span": [
+            881,
+            939
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'In determining whether a statement is libelous we look to what is explicitly\nstated as well as what insinuation and implication can be reasonably drawn from\nthe communication.' ' \" '[I]f the defendant juxtaposes [a] series of facts so as to\nimply a defamatory connection between them, or [otherwise] creates a\ndefamatory implication . . . he may be held responsible for the defamatory\nimplication, . . . even though the particular facts are correct.' \" ' The 'pertinent\nquestion' is whether a 'reasonable fact ﬁnder' could conclude that the statements\n'as a whole, or any of its parts, directly made or sufficiently implied a false\nassertion of defamatory fact that tended to injure' plaintiff's reputation.\" ( Issa v.\n1060\nApplegate (2019) 31 Cal. App.5th 689, 703 [242 Cal. Rptr.3d 809], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In deﬁning libel and slander, Civil Code sections 45 and 46 both refer to a\n'false . . . publication . . . .' This statutory deﬁnition can be meaningfully\napplied only to statements that are capable of being proved as false or true.\"\n(Savage v. Paciﬁc Gas & Electric Co. (1993) 21 Cal. App.4th 434, 445 [26\nCal. Rptr.2d 305].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "45",
+          "display": "Civil Code section 45",
+          "raw": "Civil Code sections 45",
+          "span": [
+            31,
+            53
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Thus, 'rhetorical hyperbole,' 'vigorous epithet[s],' 'lusty and imaginative\nexpressions[s] of . . . contempt,' and language used 'in a loose, ﬁgurative sense'\nhave all been accorded constitutional protection.\" ( Ferlauto v. Hamsher (1999)\n74 Cal. App.4th 1394, 1401 [88 Cal. Rptr.2d 843].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ferlauto v. Hamsher",
+          "year": 1999,
+          "volume": 74,
+          "reporter": "Cal.App.4th",
+          "page": 1394,
+          "pin": "1401",
+          "raw": "Ferlauto v. Hamsher (1999) 74 Cal. App.4th 1394, 1401",
+          "span": [
+            213,
+            266
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Deprecatory statements regarding the merits of litigation are \"nothing more than\n'the predictable opinion' of one side to the lawsuit\" and cannot be the basis for a\ndefamation claim.\" ( GetFugu, Inc. v. Patton Boggs LLP (2013) 220 Cal. App.4th\n141, 156 [162 Cal. Rptr.3d 831].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "GetFugu, Inc. v. Patton Boggs LLP",
+          "year": 2013,
+          "volume": 220,
+          "reporter": "Cal.App.4th",
+          "page": 141,
+          "pin": "156",
+          "raw": "GetFugu, Inc. v. Patton Boggs LLP (2013) 220 Cal. App.4th 141, 156",
+          "span": [
+            187,
+            253
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"If a speaker says, 'In my opinion John Jones is a liar,' he implies a knowledge\nof facts which lead to the conclusion that Jones told an untruth. Even if the\nspeaker states the facts upon which he bases his opinion, if those facts are either\nincorrect or incomplete, or if his assessment of them is erroneous, the statement\nmay still imply a false assertion of fact.\" ( Milkovich v. Lorain Journal Co.\n(1990) 497 U.S. 1, 18 [110 S.Ct. 2695, 111 L.Ed.2d 1].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Milkovich v. Lorain Journal Co.",
+          "year": 1990,
+          "volume": 497,
+          "reporter": "U.S.",
+          "page": 1,
+          "pin": "18",
+          "raw": "Milkovich v. Lorain Journal Co. (1990) 497 U.S. 1, 18",
+          "span": [
+            371,
+            424
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[W]hen a communication identiﬁes non-defamatory facts underlying an opinion,\nor the recipient is otherwise aware of those facts, a negative statement of opinion\nis not defamatory. As explained in the Restatement Second of Torts, a 'pure type\nof expression of opinion' occurs 'when both parties to the communication know\nthe facts or assume their existence and the comment is clearly based on those\nassumed facts and does not imply the existence of other facts in order to justify\nthe comment. The assumption of the facts may come about because someone\nelse has stated them or because they were assumed by both parties as a result of\ntheir notoriety or otherwise.' Actionable statements of opinion are 'the mixed\ntype, [where] an opinion in form or context, is apparently based on facts\nregarding the plaintiff or his conduct that have not been stated by the defendant\n[but] gives rise to the inference that there are undisclosed facts that justify the\nforming of the opinion.' \" ( John Doe 2 v. Superior Court (2016) 1 Cal. App.5th\n1300, 1314 [206 Cal. Rptr.3d 60], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Even if an opinion can be understood as implying facts capable of being proved\ntrue or false, however, it is not actionable if it also discloses the underlying\nfactual bases for the opinion and those statements are true.\" ( J-M Manufacturing\nCo., Inc. v. Phillips & Cohen LLP (2016) 247 Cal. App.4th 87, 100 [201\nCal. Rptr.3d 782].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"California courts have developed a 'totality of the circumstances' test to\ndetermine whether an alleged defamatory statement is one of fact or of opinion.\nFirst, the language of the statement is examined. For words to be defamatory,\nDEFAMA TION CACI No. 1707\n1061\nthey must be understood in a defamatory sense. Where the language of the\nstatement is 'cautiously phrased in terms of apparency,' the statement is less\nlikely to be reasonably understood as a statement of fact rather than opinion.\"\n(Baker v. Los Angeles Herald Examiner (1986) 42 Cal. 3d 254, 260 [228\nCal. Rptr. 206, 721 P.2d 87].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Baker v. Los Angeles Herald Examiner",
+          "year": 1986,
+          "volume": 42,
+          "reporter": "Cal.3d",
+          "page": 254,
+          "pin": "260",
+          "raw": "Baker v. Los Angeles Herald Examiner (1986) 42 Cal. 3d 254, 260",
+          "span": [
+            498,
+            561
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The court must put itself in the place of an average reader and decide the\nnatural and probable effect of the statement.\" ( Hofmann Co. v. E.I. Du Pont de\nNemors & Co. (1988) 202 Cal. App.3d 390, 398 [248 Cal. Rptr. 384].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[S]ome statements are ambiguous and cannot be characterized as factual or\nnonfactual as a matter of law. 'In these circumstances, it is for the jury to\ndetermine whether an ordinary reader would have understood the article as a\nfactual assertion . . . .' \" ( Kahn v. Bower (1991) 232 Cal. App.3d 1599, 1608\n[284 Cal. Rptr. 244], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Kahn v. Bower",
+          "year": 1991,
+          "volume": 232,
+          "reporter": "Cal.App.3d",
+          "page": 1599,
+          "pin": "1608",
+          "raw": "Kahn v. Bower (1991) 232 Cal. App.3d 1599, 1608",
+          "span": [
+            260,
+            307
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Use of 'hyperbolic, informal' ' \"crude, [or] ungrammatical\" language, satirical\ntone, [or] vituperative, \"juvenile name-calling\" ' provide support for the\nconclusion that offensive comments were nonactionable opinion. Similarly,\noverly vague statements, and ' \"generalized\" comments . . . \"lack[ing] any\nspeciﬁcity as to the time or place of\" alleged conduct may be a \"further signal to\nthe reader there is no factual basis for the accusations.\" ' On the other hand, if a\nstatement is 'factually speciﬁc,' 'earnest', or 'serious' in tone, or the speaker\n'represents himself as \"unbiased,\" ' ' \"having specialized\" ' or ' \"ﬁrst-hand\nexperience,\" ' or ' \"hav[ing] personally witnessed . . . abhorrent behavior\" ', this\nmay signal the opposite, rendering the statement actionable.\" ( ZL Technologies,\nInc. v. Does 1–7 (2017) 13 Cal. App.5th 603, 624 [220 Cal. Rptr.3d 569], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Whether a challenged statement 'declares or implies a provable false assertion\nof fact is a question of law for the court to decide . . . , unless the statement is\nsusceptible of both an innocent and a libelous meaning, in which case the jury\nmust decide how the statement was understood.' \" ( Overhill Farms, Inc. v. Lopez\n(2010) 190 Cal. App.4th 1248, 1261 [119 Cal. Rptr.3d 127].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Overhill Farms, Inc. v. Lopez",
+          "year": 2010,
+          "volume": 190,
+          "reporter": "Cal.App.4th",
+          "page": 1248,
+          "pin": "1261",
+          "raw": "Overhill Farms, Inc. v. Lopez (2010) 190 Cal. App.4th 1248, 1261",
+          "span": [
+            295,
+            359
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"We next turn to the broader context of his statements–posting on an Internet\nsite under an assumed user name. [Defendant] contends Internet fora are\nnotorious as 'places where readers expect to see strongly worded opinions rather\nthan objective facts,' and that 'anonymous, or pseudonymous,' opinions should\nbe ' \"discount[ed] . . . accordingly.\" ' However, the mere fact speech is\nbroadcast across the Internet by an anonymous speaker does not ipso facto make\nit nonactionable opinion and immune from defamation law.\" ( Bently Reserve LP\nv. Papaliolios (2013) 218 Cal. App.4th 418, 429 [160 Cal. Rptr.3d 423], internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bently Reserve LP v. Papaliolios",
+          "year": 2013,
+          "volume": 218,
+          "reporter": "Cal.App.4th",
+          "page": 418,
+          "pin": "429",
+          "raw": "Bently Reserve LP v. Papaliolios (2013) 218 Cal. App.4th 418, 429",
+          "span": [
+            522,
+            587
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Rather, a defendant's anonymity, the name of the Internet forum, the nature,\nlanguage, tone, and complete content of the remarks all are relevant.\" ( ZL\nTechnologies, Inc., supra, 13 Cal. App.5th at p. 625.)\nCACI No. 1707 DEFAMA TION\n1062",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§643–646\n4 Levy et al., California Torts, Ch. 45, Defamation, §§45.05–45.06 (Matthew\nBender)\n30 California Forms of Pleading and Practice, Ch. 340, Libel and Slander , §340.16\n(Matthew Bender)\n14 California Points and Authorities, Ch. 142, Libel and Slander (Defamation) ,\n§142.86 (Matthew Bender)\nCalifornia Civil Practice: Torts §§21:20–21:21 (Thomson Reuters)\nDEFAMA TION CACI No. 1707\n1063",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "45",
+      "display": "Civil Code section 45",
+      "raw": "Civil Code sections 45",
+      "span": [
+        31,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/45"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Summit Bank v. Rogers",
+      "year": 2012,
+      "volume": 206,
+      "reporter": "Cal.App.4th",
+      "page": 669,
+      "pin": "695–696",
+      "raw": "Summit Bank v. Rogers (2012) 206 Cal. App.4th 669, 695–696",
+      "span": [
+        881,
+        939
+      ],
+      "role": "sources",
+      "case_key": "206 Cal.App.4th 669"
+    },
+    {
+      "name": "Ferlauto v. Hamsher",
+      "year": 1999,
+      "volume": 74,
+      "reporter": "Cal.App.4th",
+      "page": 1394,
+      "pin": "1401",
+      "raw": "Ferlauto v. Hamsher (1999) 74 Cal. App.4th 1394, 1401",
+      "span": [
+        213,
+        266
+      ],
+      "role": "sources",
+      "case_key": "74 Cal.App.4th 1394"
+    },
+    {
+      "name": "GetFugu, Inc. v. Patton Boggs LLP",
+      "year": 2013,
+      "volume": 220,
+      "reporter": "Cal.App.4th",
+      "page": 141,
+      "pin": "156",
+      "raw": "GetFugu, Inc. v. Patton Boggs LLP (2013) 220 Cal. App.4th 141, 156",
+      "span": [
+        187,
+        253
+      ],
+      "role": "sources",
+      "case_key": "220 Cal.App.4th 141"
+    },
+    {
+      "name": "Milkovich v. Lorain Journal Co.",
+      "year": 1990,
+      "volume": 497,
+      "reporter": "U.S.",
+      "page": 1,
+      "pin": "18",
+      "raw": "Milkovich v. Lorain Journal Co. (1990) 497 U.S. 1, 18",
+      "span": [
+        371,
+        424
+      ],
+      "role": "sources",
+      "case_key": "497 U.S. 1"
+    },
+    {
+      "name": "Baker v. Los Angeles Herald Examiner",
+      "year": 1986,
+      "volume": 42,
+      "reporter": "Cal.3d",
+      "page": 254,
+      "pin": "260",
+      "raw": "Baker v. Los Angeles Herald Examiner (1986) 42 Cal. 3d 254, 260",
+      "span": [
+        498,
+        561
+      ],
+      "role": "sources",
+      "case_key": "42 Cal.3d 254"
+    },
+    {
+      "name": "Kahn v. Bower",
+      "year": 1991,
+      "volume": 232,
+      "reporter": "Cal.App.3d",
+      "page": 1599,
+      "pin": "1608",
+      "raw": "Kahn v. Bower (1991) 232 Cal. App.3d 1599, 1608",
+      "span": [
+        260,
+        307
+      ],
+      "role": "sources",
+      "case_key": "232 Cal.App.3d 1599"
+    },
+    {
+      "name": "Overhill Farms, Inc. v. Lopez",
+      "year": 2010,
+      "volume": 190,
+      "reporter": "Cal.App.4th",
+      "page": 1248,
+      "pin": "1261",
+      "raw": "Overhill Farms, Inc. v. Lopez (2010) 190 Cal. App.4th 1248, 1261",
+      "span": [
+        295,
+        359
+      ],
+      "role": "sources",
+      "case_key": "190 Cal.App.4th 1248"
+    },
+    {
+      "name": "Bently Reserve LP v. Papaliolios",
+      "year": 2013,
+      "volume": 218,
+      "reporter": "Cal.App.4th",
+      "page": 418,
+      "pin": "429",
+      "raw": "Bently Reserve LP v. Papaliolios (2013) 218 Cal. App.4th 418, 429",
+      "span": [
+        522,
+        587
+      ],
+      "role": "sources",
+      "case_key": "218 Cal.App.4th 418"
+    },
+    {
+      "name": "See Campanelli v. Regents of Univ. of Cal.",
+      "year": 1996,
+      "volume": 44,
+      "reporter": "Cal.App.4th",
+      "page": 572,
+      "pin": "578",
+      "raw": "See Campanelli v. Regents of Univ. of Cal. (1996) 44 Cal. App.4th 572, 578",
+      "span": [
+        137,
+        211
+      ],
+      "role": "directions",
+      "case_key": "44 Cal.App.4th 572"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:13+00:00"
+}

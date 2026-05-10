@@ -1,0 +1,143 @@
+{
+  "id": "CACI-3116",
+  "edition": "2026",
+  "number": "3116",
+  "title": "“Fraud” Explained",
+  "title_full": "“Fraud” Explained",
+  "title_statute": null,
+  "series": "3100",
+  "series_title": "Series 3100 Elder Abuse and Dependent Adult Civil Protection Act",
+  "page_start": 2328,
+  "page_end": 2328,
+  "instruction_text": "3116. \"Fraud\" Explained\n\"Fraud\" means an intentional misrepresentation, deceit, or concealment\nof a material fact with the intention of depriving [ name of\nplaintiff/decedent] of property or of a legal right or otherwise to cause\n[name of plaintiff/decedent ] injury.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"Fraud\" for Punitive Damages. Civil Code section 3294(c)(3).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3294",
+          "display": "Civil Code section 3294",
+          "raw": "Civil Code section 3294(c)(3)",
+          "span": [
+            30,
+            59
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3294",
+          "display": "Civil Code section 3294(c)",
+          "raw": "Civil Code section 3294(c)(3)",
+          "span": [
+            30,
+            59
+          ],
+          "subsection": "c"
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3294",
+          "display": "Civil Code section 3294(3)",
+          "raw": "Civil Code section 3294(c)(3)",
+          "span": [
+            30,
+            59
+          ],
+          "subsection": "3"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Although neglect that is fraudulent may be sufficient to trigger the enhanced\nremedies available under the Elder Abuse Act, without detrimental reliance, there\nis no fraud.\" ( Carter v. Prime Healthcare Paradise V alley LLC (2011) 198\nCal. App.4th 396, 409 [129 Cal. Rptr.3d 895], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Apart from recklessness, [plaintiffs] also alleged the [defendant] Hospital was\nliable for elder abuse remedies because it acted fraudulently. They alleged the\nHospital concealed [decedent] 's fall from his family, knowing that the fall was\nan adverse event that would affect its Medicare funding. Unlike the allegations\nof recklessness in violating staffing regulations, we ﬁnd these allegations of\nfraud insufficient. . . . There were no allegations explaining how such\nconcealment harmed [decedent] or how he detrimentally relied on it.\" ( Fenimore\nv. Regents of University of California (2016) 245 Cal. App.4th 1339, 1351 [200\nCal. Rptr.3d 345], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Fenimore v. Regents of University of California",
+          "year": 2016,
+          "volume": 245,
+          "reporter": "Cal.App.4th",
+          "page": 1339,
+          "pin": "1351",
+          "raw": "Fenimore v. Regents of University of California (2016) 245 Cal. App.4th 1339, 1351",
+          "span": [
+            544,
+            626
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "Balisok, Civil Litigation Series: Elder Abuse Litigation, §9:43 (The Rutter Group)\n1 California Forms of Pleading and Practice, Ch. 5, Abuse of Minors and Elderly ,\n§5.33[4] (Matthew Bender)\n17 California Forms of Pleading and Practice, Ch. 215, Duress, Menace, Fraud,\nUndue Inﬂuence, and Mistake , §215.70 (Matthew Bender)\n442",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3294",
+      "display": "Civil Code section 3294",
+      "raw": "Civil Code section 3294(c)(3)",
+      "span": [
+        30,
+        59
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3294"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3294",
+      "display": "Civil Code section 3294(c)",
+      "raw": "Civil Code section 3294(c)(3)",
+      "span": [
+        30,
+        59
+      ],
+      "subsection": "c",
+      "role": "sources",
+      "statute_key": "CA/CIV/3294/c"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3294",
+      "display": "Civil Code section 3294(3)",
+      "raw": "Civil Code section 3294(c)(3)",
+      "span": [
+        30,
+        59
+      ],
+      "subsection": "3",
+      "role": "sources",
+      "statute_key": "CA/CIV/3294/3"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Fenimore v. Regents of University of California",
+      "year": 2016,
+      "volume": 245,
+      "reporter": "Cal.App.4th",
+      "page": 1339,
+      "pin": "1351",
+      "raw": "Fenimore v. Regents of University of California (2016) 245 Cal. App.4th 1339, 1351",
+      "span": [
+        544,
+        626
+      ],
+      "role": "sources",
+      "case_key": "245 Cal.App.4th 1339"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

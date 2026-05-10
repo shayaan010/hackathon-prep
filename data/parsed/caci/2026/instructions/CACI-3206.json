@@ -1,0 +1,130 @@
+{
+  "id": "CACI-3206",
+  "edition": "2026",
+  "number": "3206",
+  "title": "Breach of Disclosure Obligations—Essential Factual Elements",
+  "title_full": "Breach of Disclosure Obligations—Essential Factual Elements",
+  "title_statute": null,
+  "series": "3200",
+  "series_title": "Series 3200 Song-Beverly Consumer Warranty Act",
+  "page_start": 2376,
+  "page_end": 2376,
+  "instruction_text": "3206. Breach of Disclosure Obligations–Essential Factual\nElements\n[Name of plaintiff ] claims that [ name of defendant ] violated California's\nmotor vehicle warranty laws. To establish this claim, [ name of plaintiff ]\nmust prove all of the following:\n1. That [ name of plaintiff ] [bought/leased] a [ motor vehicle ] from\n[name of defendant ];\n2. [That the vehicle was returned by a previous [buyer/lessee] to\n[name of manufacturer ] under [California/[ name of state ]]'s motor\nvehicle warranty laws; and]\n2. [or]\n2. [That [ name of defendant ] knew or should have known that the\nvehicle had been returned to the manufacturer under [California/\n[name of state ]]'s motor vehicle warranty laws; and]\n3. [That before the [sale/leasing], [ name of defendant ] failed to tell\n[name of plaintiff ], in clear and simple language, about the nature\nof the defect experienced by the original [buyer/lessee] of the\nvehicle; [or]]\n3. [That before the [sale/leasing] to [ name of plaintiff ], the defect\nexperienced by the vehicle's original [buyer/lessee] was not ﬁxed;\n[or]]\n3. [That [ name of defendant ] did not provide a written warranty to\n[name of plaintiff ] that the vehicle would be free for one year of\nthe defect experienced by the vehicle's original [buyer/lessee].]\n\n2012",
+  "directions_for_use": "Use the ﬁrst bracketed option in element 2 if the defendant is the manufacturer.\nOtherwise, use the second option.\nThis instruction is based on the disclosure and warranty obligations set forth in Civil\nCode section 1793.22(f). The instruction may be modiﬁed for use with claims\ninvolving the additional disclosure obligations set forth in California's Automotive\nConsumer Notiﬁcation Act. (Civ. Code, §§1793.23, 1793.24.)",
+  "sources_and_authority": [
+    {
+      "raw": "Song-Beverly Consumer Warranty Act: Right of Action. Civil Code section\n1794(a).\n490",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1794",
+          "display": "Civil Code section 1794",
+          "raw": "Civil Code section\n1794(a)",
+          "span": [
+            53,
+            79
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1794",
+          "display": "Civil Code section 1794(a)",
+          "raw": "Civil Code section\n1794(a)",
+          "span": [
+            53,
+            79
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1794",
+      "display": "Civil Code section 1794",
+      "raw": "Civil Code section\n1794(a)",
+      "span": [
+        53,
+        79
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1794"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1794",
+      "display": "Civil Code section 1794(a)",
+      "raw": "Civil Code section\n1794(a)",
+      "span": [
+        53,
+        79
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/CIV/1794/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1793.22",
+      "display": "Civil Code section 1793.22",
+      "raw": "Civil\nCode section 1793.22(f)",
+      "span": [
+        197,
+        226
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/1793.22"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1793.22",
+      "display": "Civil Code section 1793.22(f)",
+      "raw": "Civil\nCode section 1793.22(f)",
+      "span": [
+        197,
+        226
+      ],
+      "subsection": "f",
+      "role": "directions",
+      "statute_key": "CA/CIV/1793.22/f"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1793.23",
+      "display": "Civil Code section 1793.23",
+      "raw": "Civ. Code, §§1793.23, 1793.24",
+      "span": [
+        391,
+        420
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/1793.23"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1793.24",
+      "display": "Civil Code section 1793.24",
+      "raw": "Civ. Code, §§1793.23, 1793.24",
+      "span": [
+        391,
+        420
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/1793.24"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

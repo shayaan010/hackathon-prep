@@ -1,0 +1,133 @@
+{
+  "id": "CACI-1504",
+  "edition": "2026",
+  "number": "1504",
+  "title": "Former Criminal Proceeding—“Actively Involved” Explained",
+  "title_full": "Former Criminal Proceeding—“Actively Involved” Explained",
+  "title_statute": null,
+  "series": "1500",
+  "series_title": "Series 1500 Malicious Prosecution",
+  "page_start": 1029,
+  "page_end": 1029,
+  "instruction_text": "1504. Former Criminal Proceeding–\"Actively Involved\" Explained\n[Name of defendant ] was \"actively involved\" in causing [ name of plaintiff ]\nto be prosecuted [or in causing the continuation of the prosecution] if\nafter learning that there was no probable cause that [ name of plaintiff ]\nhad committed a crime, [he/she/ nonbinary pronoun] sought out the police\nor prosecutorial authorities and falsely reported facts to them indicating\nthat [ name of plaintiff ] had committed a crime. Merely giving testimony\nor responding to law enforcement inquiries is not active involvement.",
+  "directions_for_use": "Give this instruction in a malicious prosecution case arising from an earlier criminal\nproceeding. This instruction explains what is meant by \"active involvement\" in a\ncriminal prosecution, as used in element 1 of CACI No. 1500, Former Criminal\nProceeding–Essential Factual Elements .",
+  "sources_and_authority": [
+    {
+      "raw": "\"Although a criminal prosecution normally is commenced through the action of\ngovernment authorities, a private person may be liable for malicious prosecution\nunder certain circumstances based on his or her role in the criminal proceeding.\n'The relevant law is clear: \"One may be civilly liable for malicious prosecution\nwithout personally signing the complaint initiating the criminal proceeding.\" ' \"\n(Zucchet v. Galardi (2014) 229 Cal. App.4th 1466, 1481 [178 Cal. Rptr.3d 363],\ninternal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Zucchet v. Galardi",
+          "year": 2014,
+          "volume": 229,
+          "reporter": "Cal.App.4th",
+          "page": 1466,
+          "pin": "1481",
+          "raw": "Zucchet v. Galardi (2014) 229 Cal. App.4th 1466, 1481",
+          "span": [
+            403,
+            456
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Malicious prosecution consists of initiating or procuring the arrest and\nprosecution of another under lawful process, but from malicious motives and\nwithout probable cause . . . . . [Italics in original.] The test is whether the\ndefendant was actively instrumental in causing the prosecution.' \" ( Sullivan v.\nCounty of Los Angeles (1974) 12 Cal. 3d 710, 720 [117 Cal. Rptr. 241, 527 P.2d\n865], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Sullivan v. County of Los Angeles",
+          "year": 1974,
+          "volume": 12,
+          "reporter": "Cal.3d",
+          "page": 710,
+          "pin": "720",
+          "raw": "Sullivan v. County of Los Angeles (1974) 12 Cal. 3d 710, 720",
+          "span": [
+            299,
+            359
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Cases dealing with actions for malicious prosecution against private persons\nrequire that the defendant has at least sought out the police or prosecutorial\nauthorities and falsely reported facts to them indicating that plaintiff has\ncommitted a crime.\" ( Greene v. Bank of America (2013) 216 Cal. App.4th 454,\n464 [156 Cal. Rptr.3d 901].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Greene v. Bank of America",
+          "year": 2013,
+          "volume": 216,
+          "reporter": "Cal.App.4th",
+          "page": 454,
+          "pin": "464",
+          "raw": "Greene v. Bank of America (2013) 216 Cal. App.4th 454, 464",
+          "span": [
+            256,
+            314
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Public policy requires that 'private persons who aid in the enforcement of the\nlaw should be given an effective protection against the prejudice which is likely\nto arise from the termination of the prosecution in favor of the accused.' \"\n(Cedars-Sinai Medical Ctr . v. Superior Court (1988) 206 Cal. App.3d 414, 418\n[253 Cal. Rptr. 561].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[M]erely giving testimony and responding to law enforcement inquiries in an\n955",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Zucchet v. Galardi",
+      "year": 2014,
+      "volume": 229,
+      "reporter": "Cal.App.4th",
+      "page": 1466,
+      "pin": "1481",
+      "raw": "Zucchet v. Galardi (2014) 229 Cal. App.4th 1466, 1481",
+      "span": [
+        403,
+        456
+      ],
+      "role": "sources",
+      "case_key": "229 Cal.App.4th 1466"
+    },
+    {
+      "name": "Sullivan v. County of Los Angeles",
+      "year": 1974,
+      "volume": 12,
+      "reporter": "Cal.3d",
+      "page": 710,
+      "pin": "720",
+      "raw": "Sullivan v. County of Los Angeles (1974) 12 Cal. 3d 710, 720",
+      "span": [
+        299,
+        359
+      ],
+      "role": "sources",
+      "case_key": "12 Cal.3d 710"
+    },
+    {
+      "name": "Greene v. Bank of America",
+      "year": 2013,
+      "volume": 216,
+      "reporter": "Cal.App.4th",
+      "page": 454,
+      "pin": "464",
+      "raw": "Greene v. Bank of America (2013) 216 Cal. App.4th 454, 464",
+      "span": [
+        256,
+        314
+      ],
+      "role": "sources",
+      "case_key": "216 Cal.App.4th 454"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

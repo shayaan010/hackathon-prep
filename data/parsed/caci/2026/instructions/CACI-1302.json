@@ -1,0 +1,154 @@
+{
+  "id": "CACI-1302",
+  "edition": "2026",
+  "number": "1302",
+  "title": "Consent Explained",
+  "title_full": "Consent Explained",
+  "title_statute": null,
+  "series": "1300",
+  "series_title": "Series 1300 Assault And Battery",
+  "page_start": 931,
+  "page_end": 931,
+  "instruction_text": "1302. Consent Explained\nA plaintiff may express consent by words or acts that are reasonably\nunderstood by another person as consent.\nA plaintiff may also express consent by silence or inaction if a reasonable\nperson would understand that the silence or inaction intended to indicate\nconsent.",
+  "directions_for_use": "See CACI No. 1303, Invalid Consent , if there is an issue concerning the validity of\nplaintiff's consent.",
+  "sources_and_authority": [
+    {
+      "raw": "Consent as Defense. Civil Code section 3515.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3515",
+          "display": "Civil Code section 3515",
+          "raw": "Civil Code section 3515",
+          "span": [
+            20,
+            43
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The element of lack of consent to the particular contact is an essential element\nof battery.\" ( Rains v. Superior Court (1984) 150 Cal. App.3d 933, 938 [198\nCal. Rptr. 249].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Rains v. Superior Court",
+          "year": 1984,
+          "volume": 150,
+          "reporter": "Cal.App.3d",
+          "page": 933,
+          "pin": "938",
+          "raw": "Rains v. Superior Court (1984) 150 Cal. App.3d 933, 938",
+          "span": [
+            97,
+            152
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Consent to an act, otherwise a battery, normally vitiates the wrong .\" ( Barbara\nA. v. John G. (1983) 145 Cal. App.3d 369, 375 [193 Cal. Rptr. 422].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Barbara A. v. John G.",
+          "year": 1983,
+          "volume": 145,
+          "reporter": "Cal.App.3d",
+          "page": 369,
+          "pin": "375",
+          "raw": "Barbara A. v. John G. (1983) 145 Cal. App.3d 369, 375",
+          "span": [
+            74,
+            127
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"As a general rule, one who consents to a touching cannot recover in an action\nfor battery. . . . However, it is well-recognized a person may place conditions on\nthe consent. If the actor exceeds the terms or conditions of the consent, the\nconsent does not protect the actor from liability for the excessive act.\" ( Ashcraft\nv. King (1991) 228 Cal. App.3d 604, 609–610 [278 Cal. Rptr. 900].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ashcraft v. King",
+          "year": 1991,
+          "volume": 228,
+          "reporter": "Cal.App.3d",
+          "page": 604,
+          "pin": "609–610",
+          "raw": "Ashcraft v. King (1991) 228 Cal. App.3d 604, 609–610",
+          "span": [
+            316,
+            368
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§457–488\n3 Levy et al., California Torts, Ch. 41, Assault and Battery , §41.20 (Matthew\nBender)\n6 California Forms of Pleading and Practice, Ch. 58, Assault and Battery , §58.91\n(Matthew Bender)\n2 California Points and Authorities, Ch. 21, Assault and Battery , §21.24 (Matthew\nBender)\nCalifornia Civil Practice: Torts §§12:9, 12:18–12:19 (Thomson Reuters)\n857",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3515",
+      "display": "Civil Code section 3515",
+      "raw": "Civil Code section 3515",
+      "span": [
+        20,
+        43
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3515"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Rains v. Superior Court",
+      "year": 1984,
+      "volume": 150,
+      "reporter": "Cal.App.3d",
+      "page": 933,
+      "pin": "938",
+      "raw": "Rains v. Superior Court (1984) 150 Cal. App.3d 933, 938",
+      "span": [
+        97,
+        152
+      ],
+      "role": "sources",
+      "case_key": "150 Cal.App.3d 933"
+    },
+    {
+      "name": "Barbara A. v. John G.",
+      "year": 1983,
+      "volume": 145,
+      "reporter": "Cal.App.3d",
+      "page": 369,
+      "pin": "375",
+      "raw": "Barbara A. v. John G. (1983) 145 Cal. App.3d 369, 375",
+      "span": [
+        74,
+        127
+      ],
+      "role": "sources",
+      "case_key": "145 Cal.App.3d 369"
+    },
+    {
+      "name": "Ashcraft v. King",
+      "year": 1991,
+      "volume": 228,
+      "reporter": "Cal.App.3d",
+      "page": 604,
+      "pin": "609–610",
+      "raw": "Ashcraft v. King (1991) 228 Cal. App.3d 604, 609–610",
+      "span": [
+        316,
+        368
+      ],
+      "role": "sources",
+      "case_key": "228 Cal.App.3d 604"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "CACI-508",
+  "edition": "2026",
+  "number": "508",
+  "title": "Duty to Refer to a Specialist",
+  "title_full": "Duty to Refer to a Specialist",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 526,
+  "page_end": 526,
+  "instruction_text": "508. Duty to Refer to a Specialist\nIf a reasonably careful [ insert type of medical practitioner ] in the same\nsituation would have referred [ name of patient ] to a [ insert type of medical\nspecialist], then [ name of defendant ] was negligent if [he/she/ nonbinary\npronoun] did not do so.\nHowever, if [ name of defendant ] treated [ name of patient ] with as much\nskill and care as a reasonable [ insert type of medical specialist ] would\nhave, then [ name of defendant ] was not negligent.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "Physicians who elect to treat a patient even though the patient should have been\nreferred to a specialist will be held to the standard of care of that specialist. If\nthe physician meets the higher standard of care, he or she is not negligent.\n(Simone v. Sabo (1951) 37 Cal. 2d 253, 257 [231 P.2d 19].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Simone v. Sabo",
+          "year": 1951,
+          "volume": 37,
+          "reporter": "Cal.2d",
+          "page": 253,
+          "pin": "257",
+          "raw": "Simone v. Sabo (1951) 37 Cal. 2d 253, 257",
+          "span": [
+            244,
+            285
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "If the evidence establishes that the failure of a nurse to consult the attending\nphysician under the circumstances presented in the case is not in accord with the\nstandard of care of the nursing profession, this instruction may be applicable.\n(Fraijo v. Hartland Hospital (1979) 99 Cal. App.3d 331, 344 [160 Cal. Rptr.\n246].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Fraijo v. Hartland Hospital",
+          "year": 1979,
+          "volume": 99,
+          "reporter": "Cal.App.3d",
+          "page": 331,
+          "pin": "344",
+          "raw": "Fraijo v. Hartland Hospital (1979) 99 Cal. App.3d 331, 344",
+          "span": [
+            244,
+            302
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1066, 1067\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §9.6\n3 Levy et al., California Torts, Ch. 30, General Principles of Liability of\nProfessionals, §30.12, Ch. 31, Liability of Physicians and Other Medical\nPractitioners, §31.13 (Matthew Bender)\n17 California Forms of Pleading and Practice, Ch. 209, Dentists, §209.11 (Matthew\nBender)\n36 California Forms of Pleading and Practice, Ch. 415, Physicians: Medical\nMalpractice, §415.11 (Matthew Bender)\n17 California Points and Authorities, Ch. 175, Physicians and Surgeons , §§175.20\n(Matthew Bender)\n452",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Simone v. Sabo",
+      "year": 1951,
+      "volume": 37,
+      "reporter": "Cal.2d",
+      "page": 253,
+      "pin": "257",
+      "raw": "Simone v. Sabo (1951) 37 Cal. 2d 253, 257",
+      "span": [
+        244,
+        285
+      ],
+      "role": "sources",
+      "case_key": "37 Cal.2d 253"
+    },
+    {
+      "name": "Fraijo v. Hartland Hospital",
+      "year": 1979,
+      "volume": 99,
+      "reporter": "Cal.App.3d",
+      "page": 331,
+      "pin": "344",
+      "raw": "Fraijo v. Hartland Hospital (1979) 99 Cal. App.3d 331, 344",
+      "span": [
+        244,
+        302
+      ],
+      "role": "sources",
+      "case_key": "99 Cal.App.3d 331"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:09+00:00"
+}

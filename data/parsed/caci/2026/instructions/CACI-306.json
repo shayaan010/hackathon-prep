@@ -1,0 +1,133 @@
+{
+  "id": "CACI-306",
+  "edition": "2026",
+  "number": "306",
+  "title": "Unformalized Agreement",
+  "title_full": "Unformalized Agreement",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 174,
+  "page_end": 175,
+  "instruction_text": "306. Unformalized Agreement\n[Name of defendant ] contends that the parties did not enter into a\ncontract because they had not signed a ﬁnal written agreement. To prove\nthat a contract was created, [ name of plaintiff ] must prove both of the\nfollowing:\n1. That the parties understood and agreed to the terms of the\nagreement; and\n2. That the parties agreed to be bound before a written agreement\nwas completed and signed.",
+  "directions_for_use": "Give this instruction if the parties agreed to contract terms with the intention of\nreducing their agreement to a written and signed contract, but an alleged breach\noccurred before the written contract was completed and signed. For other situations\ninvolving the lack of a ﬁnal written contract, see CACI No. 304, Oral or Written\nContract Terms, and CACI No. 305, Implied-in-Fact Contract .\nDo not give this instruction unless the defendant has testiﬁed or offered other\nevidence in support of the contention.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Where the writing at issue shows 'no more than an intent to further reduce the\ninformal writing to a more formal one' the failure to follow it with a more\nformal writing does not negate the existence of the prior contract. However,\nwhere the writing shows it was not intended to be binding until a formal written\ncontract is executed, there is no contract.\" ( Harris v. Rudin, Richman & Appel\n(1999) 74 Cal. App.4th 299, 307 [87 Cal. Rptr.2d 822], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[I]f the respective parties orally agreed upon all of the terms and conditions of\na proposed written agreement with the mutual intention that the oral agreement\nshould thereupon become binding, the mere fact that a formal written agreement\nto the same effect has not yet been signed does not alter the binding validity of\nthe oral agreement. [Citation.]\" ( Banner Entertainment, Inc. v. Superior Court\n(1998) 62 Cal. App.4th 348, 358 [72 Cal. Rptr.2d 598].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Banner Entertainment, Inc. v. Superior Court",
+          "year": 1998,
+          "volume": 62,
+          "reporter": "Cal.App.4th",
+          "page": 348,
+          "pin": "358",
+          "raw": "Banner Entertainment, Inc. v. Superior Court (1998) 62 Cal. App.4th 348, 358",
+          "span": [
+            358,
+            434
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Thus, where it is part of the understanding between the parties that the terms of\ntheir contract are to be reduced to writing and signed by the parties, the assent to\nits terms must be evidenced in the manner agreed upon or it does not become a\nbinding or completed contract.\" ( Beck v. American Health Group Internat., Inc.\n(1989) 211 Cal. App.3d 1555, 1562 [260 Cal. Rptr. 237].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Beck v. American Health Group Internat., Inc.",
+          "year": 1989,
+          "volume": 211,
+          "reporter": "Cal.App.3d",
+          "page": 1555,
+          "pin": "1562",
+          "raw": "Beck v. American Health Group Internat., Inc. (1989) 211 Cal. App.3d 1555, 1562",
+          "span": [
+            280,
+            359
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Whether it was the parties' mutual intention that their oral agreement to the\n100\nterms contained in a proposed written agreement should be binding immediately\nis to be determined from the surrounding facts and circumstances of a particular\ncase and is a question of fact for the trial court.\" ( Banner Entertainment, Inc.,\nsupra, 62 Cal. App.4th at p. 358.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]hen parties agree on the material terms of a contract with the intention to\nlater reduce it to a formal writing, failure to complete the formal writing does\nnot negate the existence of the initial contract. If the parties do not agree on the\ncontent of the formal writing (for example because one party wants to include\nsomething not agreed on in the ﬁrst place, as [defendant] says happened here),\nthe proposed writing is not a counteroffer; rather, the initial agreement remains\nbinding and a rejected writing is a nullity.\" ( CSAA Ins. Exchange v. Hodroj\n(2021) 72 Cal. App.5th 272, 276 [287 Cal. Rptr.3d 264].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "CSAA Ins. Exchange v. Hodroj",
+          "year": 2021,
+          "volume": 72,
+          "reporter": "Cal.App.5th",
+          "page": 272,
+          "pin": "276",
+          "raw": "CSAA Ins. Exchange v. Hodroj (2021) 72 Cal. App.5th 272, 276",
+          "span": [
+            533,
+            593
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§133, 134\n13 California Forms of Pleading and Practice, Ch. 140, Contracts, §140.22\n(Matthew Bender)\n5 California Points and Authorities, Ch. 50, Contracts, §50.50 (Matthew Bender)\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 13, Attacking\nor Defending Existence of Contract–Absence of Essential Element , 13.07[3]\nCONTRACTS CACI No. 306\n101",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Banner Entertainment, Inc. v. Superior Court",
+      "year": 1998,
+      "volume": 62,
+      "reporter": "Cal.App.4th",
+      "page": 348,
+      "pin": "358",
+      "raw": "Banner Entertainment, Inc. v. Superior Court (1998) 62 Cal. App.4th 348, 358",
+      "span": [
+        358,
+        434
+      ],
+      "role": "sources",
+      "case_key": "62 Cal.App.4th 348"
+    },
+    {
+      "name": "Beck v. American Health Group Internat., Inc.",
+      "year": 1989,
+      "volume": 211,
+      "reporter": "Cal.App.3d",
+      "page": 1555,
+      "pin": "1562",
+      "raw": "Beck v. American Health Group Internat., Inc. (1989) 211 Cal. App.3d 1555, 1562",
+      "span": [
+        280,
+        359
+      ],
+      "role": "sources",
+      "case_key": "211 Cal.App.3d 1555"
+    },
+    {
+      "name": "CSAA Ins. Exchange v. Hodroj",
+      "year": 2021,
+      "volume": 72,
+      "reporter": "Cal.App.5th",
+      "page": 272,
+      "pin": "276",
+      "raw": "CSAA Ins. Exchange v. Hodroj (2021) 72 Cal. App.5th 272, 276",
+      "span": [
+        533,
+        593
+      ],
+      "role": "sources",
+      "case_key": "72 Cal.App.5th 272"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

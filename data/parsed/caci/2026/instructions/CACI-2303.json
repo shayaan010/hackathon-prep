@@ -1,0 +1,133 @@
+{
+  "id": "CACI-2303",
+  "edition": "2026",
+  "number": "2303",
+  "title": "Affirmative Defense—Insurance Policy Exclusion",
+  "title_full": "Affirmative Defense—Insurance Policy Exclusion",
+  "title_statute": null,
+  "series": "2300",
+  "series_title": "Series 2300 Insurance Litigation",
+  "page_start": 1452,
+  "page_end": 1453,
+  "instruction_text": "2303. Affirmative Defense–Insurance Policy Exclusion\n[Name of defendant ] claims that [ name of plaintiff ]'s [liability/loss] is not\ncovered because it is speciﬁcally excluded under the policy. To succeed,\n[name of defendant ] must prove that [ name of plaintiff ]'s [liability/loss]\n[arises out of/is based on/occurred because of] [ state exclusion under the\npolicy]. This exclusion applies if [ set forth disputed factual issues that jury\nmust determine ].",
+  "directions_for_use": "The instructions in this series assume the plaintiff is the insured and the defendant is\nthe insurer. The party designations may be changed if appropriate to the facts of the\ncase.\nGive this instruction if the court has determined that an exclusionary clause in an\ninsurance policy might apply to foreclose coverage, but the applicability turns on a\nquestion of fact. Identify with speciﬁcity the disputed factual issues the jury must\nresolve to determine whether the exclusion applies.\nThis instruction can be used in cases involving either a third party liability or a ﬁrst\nparty loss policy. Use CACI No. 2306, Covered and Excluded Risks–Predominant\nCause of Loss , rather than this instruction, if a ﬁrst party loss policy is involved and\nthere is evidence that a loss was caused by both covered and excluded perils.",
+  "sources_and_authority": [
+    {
+      "raw": "\"The burden of bringing itself within any exculpatory clause contained in the\npolicy is on the insurer.\" ( Clemmer v. Hartford Insurance Co. (1978) 22 Cal. 3d\n865, 880 [151 Cal. Rptr. 285, 587 P.2d 1098].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Clemmer v. Hartford Insurance Co.",
+          "year": 1978,
+          "volume": 22,
+          "reporter": "Cal.3d",
+          "page": 865,
+          "pin": "880",
+          "raw": "Clemmer v. Hartford Insurance Co. (1978) 22 Cal. 3d 865, 880",
+          "span": [
+            107,
+            167
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The burden is on an insured to establish that the occurrence forming the basis\nof its claim is within the basic scope of insurance coverage. And, once an\ninsured has made this showing, the burden is on the insurer to prove the claim is\nspeciﬁcally excluded.\" ( Aydin Corp. v. First State Insurance Co. (1998) 18\nCal. 4th 1183, 1188 [77 Cal. Rptr.2d 537, 959 P.2d 1213].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Aydin Corp. v. First State Insurance Co.",
+          "year": 1998,
+          "volume": 18,
+          "reporter": "Cal.4th",
+          "page": 1183,
+          "pin": "1188",
+          "raw": "Aydin Corp. v. First State Insurance Co. (1998) 18 Cal. 4th 1183, 1188",
+          "span": [
+            262,
+            332
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Once the insurer proves that the speciﬁc exclusion applies, the insured \"should\nbear the burden of establishing the exception because 'its effect is to reinstate\ncoverage that the exclusionary language otherwise bars.' \" ( Aydin Corp., supra,\n18 Cal. 4th at p. 1188.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The interpretation of an exclusionary clause is an issue of law subject to this\ncourt's independent determination.\" ( Marquez Knolls Property Owners Assn.,\nInc. v. Executive Risk Indemnity, Inc. (2007) 153 Cal. App.4th 228, 233 [62\nCal. Rptr.3d 510].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Marquez Knolls Property Owners Assn., Inc. v. Executive Risk Indemnity, Inc.",
+          "year": 2007,
+          "volume": 153,
+          "reporter": "Cal.App.4th",
+          "page": 228,
+          "pin": "233",
+          "raw": "Marquez Knolls Property Owners Assn., Inc. v. Executive Risk Indemnity, Inc. (2007) 153 Cal. App.4th 228, 233",
+          "span": [
+            119,
+            228
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he question of what caused the loss is generally a question of fact, and the\n1378\nloss is not covered if the covered risk was only a remote cause of the loss, or\nthe excluded risk was the efficient proximate, or predominate cause.\" ( State\nFarm Fire & Casualty Co. v. V on Der Lieth (1991) 54 Cal. 3d 1123, 1131–1132\n[2 Cal. Rptr.2d 183, 820 P.2d 285].)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "2 Witkin, Summary of California Law (11th ed. 2017) Insurance, §§85, 88\nCroskey et al., California Practice Guide: Insurance Litigation, Ch. 15-I, Trial,\n¶¶ 15:911–15:912 (The Rutter Group)\n1 California Liability Insurance Practice: Claims & Litigation (Cont.Ed.Bar)\nAnalyzing Coverage: Reading and Interpreting Insurance Policies, §3.63\n4 California Insurance Law and Practice, Ch. 41, Liability Insurance in General ,\n§41.11 (Matthew Bender)\n26 California Forms of Pleading and Practice, Ch. 308, Insurance, §308.502\n(Matthew Bender)\nINSURANCE LITIGA TION CACI No. 2303\n1379",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Clemmer v. Hartford Insurance Co.",
+      "year": 1978,
+      "volume": 22,
+      "reporter": "Cal.3d",
+      "page": 865,
+      "pin": "880",
+      "raw": "Clemmer v. Hartford Insurance Co. (1978) 22 Cal. 3d 865, 880",
+      "span": [
+        107,
+        167
+      ],
+      "role": "sources",
+      "case_key": "22 Cal.3d 865"
+    },
+    {
+      "name": "Aydin Corp. v. First State Insurance Co.",
+      "year": 1998,
+      "volume": 18,
+      "reporter": "Cal.4th",
+      "page": 1183,
+      "pin": "1188",
+      "raw": "Aydin Corp. v. First State Insurance Co. (1998) 18 Cal. 4th 1183, 1188",
+      "span": [
+        262,
+        332
+      ],
+      "role": "sources",
+      "case_key": "18 Cal.4th 1183"
+    },
+    {
+      "name": "Marquez Knolls Property Owners Assn., Inc. v. Executive Risk Indemnity, Inc.",
+      "year": 2007,
+      "volume": 153,
+      "reporter": "Cal.App.4th",
+      "page": 228,
+      "pin": "233",
+      "raw": "Marquez Knolls Property Owners Assn., Inc. v. Executive Risk Indemnity, Inc. (2007) 153 Cal. App.4th 228, 233",
+      "span": [
+        119,
+        228
+      ],
+      "role": "sources",
+      "case_key": "153 Cal.App.4th 228"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:16+00:00"
+}

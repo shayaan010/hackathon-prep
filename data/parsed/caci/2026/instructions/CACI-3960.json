@@ -1,0 +1,89 @@
+{
+  "id": "CACI-3960",
+  "edition": "2026",
+  "number": "3960",
+  "title": "Comparative Fault of Plaintiff—General Verdict",
+  "title_full": "Comparative Fault of Plaintiff—General Verdict",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2885,
+  "page_end": 2885,
+  "instruction_text": "3960. Comparative Fault of Plaintiff–General Verdict\nIf you decide that [ name of plaintiff ]'s negligence combined with [ name of\ndefendant]'s [negligence/conduct/product] in causing [ name of plaintiff ]'s\nharm, then you must decide the percentage of responsibility for the\nharm that you attribute to each of them.\nFirst, decide the total amount of [ name of plaintiff ]'s damages. Then\ndecide the percentage of responsibility that [ name of plaintiff ] and [ name\nof defendant ] have for the damages. Then reduce the total damages by\nthe percentage of responsibility that you attribute to [ name of plaintiff ].\nAfter you make these calculations, state the reduced damage award in\nyour verdict.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"In determining to what degree the injury was due to the fault of the plaintiff, it\nis logically essential that the plaintiff's negligence be weighed against the\ncombined total of all other causative negligence; moreover, inasmuch as a\nplaintiff's actual damages do not vary by virtue of the particular defendants who\nhappen to be before the court, we do not think that the damages which a plaintiff\nmay recover against defendants who are joint and severally liable should\nﬂuctuate in such a manner.\" ( American Motorcycle Assn. v. Superior Court\n(1978) 20 Cal. 3d 578, 590, fn. 2 [146 Cal. Rptr. 182, 578 P.2d 899].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "American Motorcycle Assn. v. Superior Court",
+          "year": 1978,
+          "volume": 20,
+          "reporter": "Cal.3d",
+          "page": 578,
+          "pin": "590",
+          "raw": "American Motorcycle Assn. v. Superior Court (1978) 20 Cal. 3d 578, 590",
+          "span": [
+            503,
+            573
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Proposition 51 . . . retains the joint liability of all tortfeasors, regardless of\ntheir respective shares of fault, with respect to all objectively provable expenses\nand monetary losses. On the other hand, the more intangible and subjective\ncategories of damage were limited by Proposition 51 to a rule of strict\nproportionate liability. With respect to these noneconomic damages, the plaintiff\nalone now assumes the risk that a proportionate contribution cannot be obtained\nfrom each person responsible for the injury.\" ( DaFonte v. Up-Right, Inc. (1992)\n2 Cal. 4th 593, 600 [7 Cal. Rptr.2d 238, 828 P.2d 140].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "DaFonte v. Up-Right, Inc.",
+          "year": 1992,
+          "volume": 2,
+          "reporter": "Cal.4th",
+          "page": 593,
+          "pin": "600",
+          "raw": "DaFonte v. Up-Right, Inc. (1992) 2 Cal. 4th 593, 600",
+          "span": [
+            525,
+            577
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "15 California Forms of Pleading and Practice, Ch. 177, Damages, §177.45\n(Matthew Bender)\n33 California Points and Authorities, Ch. 380, Negligence, §380.170 (Matthew\nBender)\n16 California Points and Authorities, Ch. 165, Negligence, §165.380 (Matthew\nBender)\n999",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "American Motorcycle Assn. v. Superior Court",
+      "year": 1978,
+      "volume": 20,
+      "reporter": "Cal.3d",
+      "page": 578,
+      "pin": "590",
+      "raw": "American Motorcycle Assn. v. Superior Court (1978) 20 Cal. 3d 578, 590",
+      "span": [
+        503,
+        573
+      ],
+      "role": "sources",
+      "case_key": "20 Cal.3d 578"
+    },
+    {
+      "name": "DaFonte v. Up-Right, Inc.",
+      "year": 1992,
+      "volume": 2,
+      "reporter": "Cal.4th",
+      "page": 593,
+      "pin": "600",
+      "raw": "DaFonte v. Up-Right, Inc. (1992) 2 Cal. 4th 593, 600",
+      "span": [
+        525,
+        577
+      ],
+      "role": "sources",
+      "case_key": "2 Cal.4th 593"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:24+00:00"
+}

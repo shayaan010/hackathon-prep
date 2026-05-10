@@ -1,0 +1,128 @@
+{
+  "id": "CACI-3707",
+  "edition": "2026",
+  "number": "3707",
+  "title": "Special Employment—Joint Responsibility",
+  "title_full": "Special Employment—Joint Responsibility",
+  "title_statute": null,
+  "series": "3700",
+  "series_title": "Series 3700 Vicarious Responsibility",
+  "page_start": 2635,
+  "page_end": 2636,
+  "instruction_text": "3707. Special Employment–Joint Responsibility\nIf you decide that [ name of worker ] was the special employee of [ name of\ndefendant borrowing employer ], but that [ name of defendant lending\nemployer] partially controlled [ name of worker ]'s activities along with\n[name of defendant borrowing employer ], then you must conclude that\nboth [ name of defendant lending employer ] and [ name of defendant\nborrowing employer] are responsible for the conduct of [ name of worker ].",
+  "directions_for_use": "Give this instruction with CACI No. 3706, Special Employment–Lending Employer\nDenies Responsibility for Worker' s Acts , if the jury will be given the option of\ndeciding that both the lending employer and the borrowing employer should be\ntreated as the worker's employer with regard to the claim at issue.",
+  "sources_and_authority": [
+    {
+      "raw": "\" ' \"Where an employer sends an employee to do work for another person, and\nboth have the right to exercise certain powers of control over the employee, that\nemployee may be held to have two employers–his original or 'general'\nemployer and a second, the 'special' employer.\" ' A general employer is absolved\nof respondeat superior liability when it has relinquished total control to the\nspecial employer. During this period of transferred control, the special employer\nbecomes solely liable under the doctrine of respondeat superior for the\nemployee's job-related torts.\" ( Montague v. AMN Healthcare, Inc. (2014) 223\nCal. App.4th 1515, 1520 [168 Cal. Rptr.3d 123], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Montague v. AMN Healthcare, Inc.",
+          "year": 2014,
+          "volume": 223,
+          "reporter": "Cal.App.4th",
+          "page": 1515,
+          "pin": "1520",
+          "raw": "Montague v. AMN Healthcare, Inc. (2014) 223 Cal. App.4th 1515, 1520",
+          "span": [
+            574,
+            641
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Facts demonstrating the existence of a special employment relationship do not\nnecessarily preclude a ﬁnding that a particular employee also remained under the\npartial control of the original employer. Where general and special employers\nshare control of an employee's work, a 'dual employment' arises, and the general\nemployer remains concurrently and simultaneously, jointly and severally liable\nfor the employee's torts.\" ( Marsh v. Tilley Steel Co. (1980) 26 Cal. 3d 486,\n494–495 [162 Cal. Rptr. 320, 606 P.2d 355], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Marsh v. Tilley Steel Co.",
+          "year": 1980,
+          "volume": 26,
+          "reporter": "Cal.3d",
+          "page": 486,
+          "pin": "494–495",
+          "raw": "Marsh v. Tilley Steel Co. (1980) 26 Cal. 3d 486, 494–495",
+          "span": [
+            427,
+            483
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"This is especially true where the loaned employee performs work of interest to\nboth the general and special employers.\" ( Societa per Azioni de Navigazione\nItalia v. City of Los Angeles (1982) 31 Cal. 3d 446, 460 [183 Cal. Rptr. 51, 645\nP.2d 102], internal citation omitted.) If the loaned employee performs work of\ninterest to both the general and special employers, \"there is a presumption that\nthe [employee] remained in his general employment. ( Ibid.) The [general\nemployer] can avoid liability only if it can [prove] that it gave up . . .\n'authoritative direction and control' [over the employee].\" ( Ibid.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Azioni de Navigazione Italia v. City of Los Angeles",
+          "year": 1982,
+          "volume": 31,
+          "reporter": "Cal.3d",
+          "page": 446,
+          "pin": "460",
+          "raw": "Azioni de Navigazione Italia v. City of Los Angeles (1982) 31 Cal. 3d 446, 460",
+          "span": [
+            135,
+            213
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'Authoritative direction and control' is more than the power to suggest details\n749\nor the necessary cooperation.\" ( Societa per Azioni de Navigazione Italia, supra ,\n31 Cal. 3d at p. 460, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "3 Witkin, Summary of California Law (11th ed. 2017) Agency and Employment,\n§§179–182\n1 Levy et al., California Torts, Ch. 8, Vicarious Liability, §8.03[2][e] (Matthew\nBender)\n51 California Forms of Pleading and Practice, Ch. 577, Workers' Compensation ,\n§577.22 (Matthew Bender)\n23 California Points and Authorities, Ch. 239, Workers' Compensation Exclusive\nRemedy Doctrine , §239.28 (Matthew Bender)\nCalifornia Civil Practice: Torts §§3:26–3:27 (Thomson Reuters)\nCACI No. 3707 VICARIOUS RESPONSIBILITY\n750",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Montague v. AMN Healthcare, Inc.",
+      "year": 2014,
+      "volume": 223,
+      "reporter": "Cal.App.4th",
+      "page": 1515,
+      "pin": "1520",
+      "raw": "Montague v. AMN Healthcare, Inc. (2014) 223 Cal. App.4th 1515, 1520",
+      "span": [
+        574,
+        641
+      ],
+      "role": "sources",
+      "case_key": "223 Cal.App.4th 1515"
+    },
+    {
+      "name": "Marsh v. Tilley Steel Co.",
+      "year": 1980,
+      "volume": 26,
+      "reporter": "Cal.3d",
+      "page": 486,
+      "pin": "494–495",
+      "raw": "Marsh v. Tilley Steel Co. (1980) 26 Cal. 3d 486, 494–495",
+      "span": [
+        427,
+        483
+      ],
+      "role": "sources",
+      "case_key": "26 Cal.3d 486"
+    },
+    {
+      "name": "Azioni de Navigazione Italia v. City of Los Angeles",
+      "year": 1982,
+      "volume": 31,
+      "reporter": "Cal.3d",
+      "page": 446,
+      "pin": "460",
+      "raw": "Azioni de Navigazione Italia v. City of Los Angeles (1982) 31 Cal. 3d 446, 460",
+      "span": [
+        135,
+        213
+      ],
+      "role": "sources",
+      "case_key": "31 Cal.3d 446"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

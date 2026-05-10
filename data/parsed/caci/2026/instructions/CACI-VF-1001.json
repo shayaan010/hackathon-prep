@@ -1,0 +1,62 @@
+{
+  "id": "CACI-VF-1001",
+  "edition": "2026",
+  "number": "VF-1001",
+  "title": "Premises Liability—Affirmative Defense—Recreation Immunity—Exceptions",
+  "title_full": "Premises Liability—Affirmative Defense—Recreation Immunity—Exceptions",
+  "title_statute": null,
+  "series": "VF-1000",
+  "series_title": "Series 1000 Premises Liability",
+  "page_start": 752,
+  "page_end": 754,
+  "instruction_text": "VF-1001. Premises Liability–Affirmative Defense–Recreation\nImmunity–Exceptions\nWe answer the questions submitted to us as follows:\n1. Did [ name of defendant ] [own/lease/occupy/control] the property?\n1. Yes No\n1. If your answer to question 1 is yes, then answer question 2. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n2. Was [ name of defendant ] negligent in the [use/maintenance] of the\nproperty?\n2. Yes No\n2. If your answer to question 2 is yes, then answer question 3. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n3. Was [ name of defendant ]'s negligence a substantial factor in\ncausing harm to [ name of plaintiff ]?\n3. Yes No\n3. If your answer to question 3 is yes, then answer question 4. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n4. Did [ name of plaintiff/name of person causing injury ] enter on or\nuse [ name of defendant ]'s property for a recreational purpose?\n4. Yes No\n4. If your answer to question 4 is yes, then answer question 5. If you\nanswered no, skip question 5 and answer question 6.\n5. Did [ name of defendant ] willfully or maliciously fail to protect\nothers from or warn others about a dangerous [condition/use/\nstructure/activity] on the property?\n5. Yes No\n5. If your answer to question 5 is yes, then answer question 6. If you\nanswered no, stop here, answer no further questions, and have\nthe presiding juror sign and date this form.\n6. What are [ name of plaintiff ]'s damages?\n[a. Past economic loss\n678\n[lost earnings $ ]\n[lost proﬁts $ ]\n[medical expenses $ ]\n[other past economic\nloss\n$ ]\nTotal Past Economic Damages: $\n]\n[b. Future economic loss\n[lost earnings $ ]\n[lost proﬁts $ ]\n[medical expenses $ ]\n[other future eco-\nnomic loss\n$ ]\nTotal Future Economic Damages: $\n]\n[c. Past noneconomic loss, including [physical pain/mental\nsuffering:]\n$ ]\n[d. Future noneconomic loss, including [physical pain/mental\nsuffering:]\n$ ]\nTOTAL $\nSigned:\nPresiding Juror\nDated:\nAfter [this verdict form has/all verdict forms have] been signed, notify\nthe [clerk/bailiff/court attendant].\n\nDecember 2014, December 2016, May 2017, May 2024",
+  "directions_for_use": "This verdict form is based on CACI No. 1000, Premises Liability–Essential Factual\nElements, and CACI No. 1010, Affırmative Defense–Recreation\nImmunity–Exceptions.\nThe special verdict forms in this section are intended only as models. They may\nneed to be modiﬁed depending on the facts of the case.\nPREMISES LIABILITY VF-1001\n679\nIf either of the other two exceptions to recreational immunity from Civil Code\nsection 846 is at issue, question 5 should be replaced with appropriate language for\nthe applicable exception. (See CACI No. 1010.)\nIf speciﬁcity is not required, users do not have to itemize all the damages listed in\nquestion 6. The breakdown is optional depending on the circumstances.\nIf there are multiple causes of action, users may wish to combine the individual\nforms into one form. If different damages are recoverable on different causes of\naction, replace the damages tables in all of the verdict forms with CACI No. VF-\n3920, Damages on Multiple Legal Theories .\nIf the jury is given the discretion under Civil Code section 3288 to award\nprejudgment interest (see Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801,\n814 [148 Cal. Rptr. 22, 582 P.2d 109]), give CACI No. 3935, Prejudgment Interest.\nThis verdict form may need to be augmented for the jury to make any factual\nﬁndings that are required in order to calculate the amount of prejudgment interest.\nVF-1001 PREMISES LIABILITY\n680",
+  "sources_and_authority": [],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "846",
+      "display": "Civil Code section 846",
+      "raw": "Civil Code\nsection 846",
+      "span": [
+        397,
+        419
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/846"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3288",
+      "display": "Civil Code section 3288",
+      "raw": "Civil Code section 3288",
+      "span": [
+        1024,
+        1047
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3288"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Bullis v. Security Pac. Nat'l Bank",
+      "year": 1978,
+      "volume": 21,
+      "reporter": "Cal.3d",
+      "page": 801,
+      "pin": "814",
+      "raw": "Bullis v. Security Pac. Nat'l Bank (1978) 21 Cal. 3d 801, 814",
+      "span": [
+        1083,
+        1144
+      ],
+      "role": "directions",
+      "case_key": "21 Cal.3d 801"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:11+00:00"
+}

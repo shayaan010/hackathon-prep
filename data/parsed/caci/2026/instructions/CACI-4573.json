@@ -1,0 +1,112 @@
+{
+  "id": "CACI-4573",
+  "edition": "2026",
+  "number": "4573",
+  "title": "Right to Repair Act—Affirmative Defense—Unreasonable Failure to Minimize or Prevent Damage (Civ. Code, § 945.5(b))",
+  "title_full": "Right to Repair Act—Affirmative Defense—Unreasonable Failure to Minimize or Prevent Damage (Civ. Code, § 945.5(b))",
+  "title_statute": null,
+  "series": "4500",
+  "series_title": "Series 4500 Construction Law",
+  "page_start": 3242,
+  "page_end": 3243,
+  "instruction_text": "4573. Right to Repair Act–Affirmative Defense–Unreasonable\nFailure to Minimize or Prevent Damage (Civ. Code, §945.5(b))\n[Name of defendant ] claims that [he/she/ nonbinary pronoun/it] is not\nresponsible for [ name of plaintiff ]'s harm because [ name of plaintiff ]\nunreasonably failed to minimize or prevent [his/her/ nonbinary pronoun]\ndamages in a timely manner. To establish this defense, [ name of\ndefendant] must prove [ select one or more of the following :]\n[a. [ Name of plaintiff ] failed to allow [ name of defendant ] reasonable\nand timely access to the home for inspections and repairs.]\n[b. [ Name of plaintiff ] failed to give [ name of defendant ] timely notice\nafter discovery of a construction defect.]\n[c. [ Specify other act or omission of plaintiff that is alleged to constitute\nfailure to minimize or prevent damage. ]]\n[Name of defendant ] cannot avoid responsibility for damages due to an\nuntimely or inadequate response to [ name of plaintiff ]'s claim.",
+  "directions_for_use": "This instruction sets forth a builder's affirmative defense to a homeowner's\nconstruction defect claim under the Right to Repair Act, asserting the homeowner's\nfailure to minimize or prevent damages. (See Civ. Code, §945.5(b).) Select the\nparticular failure to mitigate alleged from a or b, or specify a different failure in c.\nCACI No. 3931, Mitigation of Damages (Property Damage) , may also be given for\nthe general principle of the plaintiff's duty to mitigate damages.",
+  "sources_and_authority": [
+    {
+      "raw": "Right to Repair Act Affirmative Defense of Homeowner's Failure to Mitigate.\nCivil Code section 945.5(b).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "945.5",
+          "display": "Civil Code section 945.5",
+          "raw": "Civil Code section 945.5(b)",
+          "span": [
+            76,
+            103
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "945.5",
+          "display": "Civil Code section 945.5(b)",
+          "raw": "Civil Code section 945.5(b)",
+          "span": [
+            76,
+            103
+          ],
+          "subsection": "b"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Although the Act establishes various maximum time periods in which the\nbuilder may respond, inspect, offer to repair, and commence repairs, the builder\navails itself of the full time allowed by the Act at its peril. The builder is liable\nfor the damages its construction defects cause, and even when a homeowner has\nacted unreasonably in failing to limit losses, the builder remains liable for\n'damages due to the untimely or inadequate response of a builder to the\nhomeowner's claim.' (§945.5, subd. (b).) What constitutes a timely response will\nvary according to the circumstances, and the maximum response periods set\nforth by the Act do not necessarily insulate a builder from damages when the\nbuilder has failed to take remedial action as promptly as is reasonable under the\ncircumstances. The Act's liability provisions thus supply builders and\n1356\nhomeowners clear incentives to move quickly to minimize damages when alerted\nto emergencies.\" ( McMillin Albany LLC v. Superior Court (2018) 4 Cal. 5th 241,\n257–258 [227 Cal. Rptr.3d 191, 408 P.3d 797].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "McMillin Albany LLC v. Superior Court",
+          "year": 2018,
+          "volume": 4,
+          "reporter": "Cal.5th",
+          "page": 241,
+          "pin": "257–258",
+          "raw": "McMillin Albany LLC v. Superior Court (2018) 4 Cal. 5th 241, 257–258",
+          "span": [
+            953,
+            1021
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1312\n10 California Forms of Pleading and Practice, Ch. 104, Building Contracts , §104.43\n(Matthew Bender)\n12 California Real Estate Law and Practice, Ch. 441, Consumers' Remedies ,\n§441.70 (Matthew Bender)\nCONSTRUCTION LAW CACI No. 4573\n1357",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "945.5",
+      "display": "Civil Code section 945.5",
+      "raw": "Civil Code section 945.5(b)",
+      "span": [
+        76,
+        103
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/945.5"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "945.5",
+      "display": "Civil Code section 945.5(b)",
+      "raw": "Civil Code section 945.5(b)",
+      "span": [
+        76,
+        103
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/CIV/945.5/b"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "McMillin Albany LLC v. Superior Court",
+      "year": 2018,
+      "volume": 4,
+      "reporter": "Cal.5th",
+      "page": 241,
+      "pin": "257–258",
+      "raw": "McMillin Albany LLC v. Superior Court (2018) 4 Cal. 5th 241, 257–258",
+      "span": [
+        953,
+        1021
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.5th 241"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

@@ -1,12 +1,19 @@
 import { Link, useRouterState } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
+<<<<<<< Updated upstream
 import { Scale, BookOpen, FolderOpen, Upload, DollarSign } from "lucide-react";
+=======
+import { Scale, BookOpen, FolderOpen, Upload } from "lucide-react";
+>>>>>>> Stashed changes
 import { api } from "@/lib/api";
 
 const nav = [
   { to: "/", label: "Harvester", icon: BookOpen },
   { to: "/projects", label: "Projects", icon: FolderOpen },
+<<<<<<< Updated upstream
   { to: "/comparables", label: "Comparables", icon: DollarSign },
+=======
+>>>>>>> Stashed changes
   { to: "/upload", label: "Upload", icon: Upload },
 ] as const;
 
@@ -18,15 +25,18 @@ export function AppHeader() {
     staleTime: 30_000,
     refetchOnWindowFocus: false,
   });
-  const { data: statutes } = useQuery({
+  const { data } = useQuery({
     queryKey: ["statutes"],
-    queryFn: api.statutes,
+    queryFn: () => api.statutes(),
     staleTime: 60_000,
   });
+  const statutes = data?.items;
   const jurisdictionCount = statutes
     ? new Set(statutes.map((s) => s.jurisdictionLabel)).size
     : 0;
-  const docCount = stats?.documents ?? statutes?.length ?? 0;
+  // Prefer the curated DB total — it's the real corpus size, not the
+  // ≤50-row page the FE just received.
+  const docCount = data?.total ?? stats?.documents ?? 0;
   const headerText = docCount
     ? `${docCount} statute${docCount === 1 ? "" : "s"} · ${jurisdictionCount} jurisdiction${jurisdictionCount === 1 ? "" : "s"}`
     : "loading…";

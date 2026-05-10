@@ -1,0 +1,360 @@
+{
+  "id": "CACI-2401",
+  "edition": "2026",
+  "number": "2401",
+  "title": "Breach of Employment Contract—Unspecified Term—Actual or Constructive Discharge—Essential Factual Elements",
+  "title_full": "Breach of Employment Contract—Unspecified Term—Actual or Constructive Discharge—Essential Factual Elements",
+  "title_statute": null,
+  "series": "2400",
+  "series_title": "Series 2400 Wrongful Termination",
+  "page_start": 1535,
+  "page_end": 1539,
+  "instruction_text": "2401. Breach of Employment Contract–Unspeciﬁed Term–Actual\nor Constructive Discharge–Essential Factual Elements\n[Name of plaintiff ] claims that [ name of defendant ] breached their\nemployment contract [by forcing [ name of plaintiff ] to resign]. To\nestablish this claim, [ name of plaintiff ] must prove all of the following:\n1. That [ name of plaintiff ] and [ name of defendant ] entered into an\nemployment relationship. [An employment contract or a provision\nin an employment contract may be [written or oral/partly written\nand partly oral/created by the conduct of the parties]];\n2. That [ name of defendant ] promised, by words or conduct, to\ndischarge [ name of plaintiff ] [ specify the nature of the alleged\nagreement, e.g., only for good cause ];\n3. That [ name of plaintiff ] substantially performed [his/her/ nonbinary\npronoun] job duties [unless [ name of plaintiff ]'s performance was\nexcused [or prevented]];\n4. That [ name of defendant ] [constructively] discharged [ name of\nplaintiff] [ e.g., without good cause ];\n5. That [ name of plaintiff ] was harmed; and\n6. That [ name of defendant ]'s breach of contract was a substantial\nfactor in causing [ name of plaintiff ]'s harm.",
+  "directions_for_use": "Element 3 on substantial performance should not be confused with the \"good cause\"\ndefense: \"The action is primarily for breach of contract. It was therefore incumbent\nupon plaintiff to prove that he was able and offered to fulﬁll all obligations imposed\nupon him by the contract. Plaintiff failed to meet this requirement; by voluntarily\nwithdrawing from the contract he excused further performance by defendant.\" ( Kane\nv. Sklar (1954) 122 Cal. App.2d 480, 482 [265 P.2d 29], internal citation omitted.)\nElement 3 may be deleted if substantial performance is not a disputed issue.\nAn employee may be \"constructively\" discharged if the employer intentionally\ncreated or knowingly permitted working conditions to exist that were so intolerable\nthat a reasonable person would have had no reasonable alternative except to resign.\n(Turner v. Anheuser-Busch, Inc. (1994) 7 Cal. 4th 1238, 1251 [32 Cal. Rptr.2d 223,\n876 P.2d 1022].) If constructive rather than actual discharge is alleged, include \"by\nforcing [ name of plaintiff ] to resign\" in the introductory paragraph and\n\"constructively\" in element 4. Then also give CACI No. 2510, \"Constructive\nDischarge\" Explained.\n1461\nElements 2 and 4 may be modiﬁed for adverse employment actions other than\ndischarge, for example demotion. The California Supreme Court has extended the\nimplied contract theory to encompass adverse employment actions that violate the\nterms of an implied contract. (See Scott v. Pac. Gas & Elec. Co. (1995) 11 Cal. 4th\n454, 473-474 [46 Cal. Rptr.2d 427, 904 P.2d 834].) See CACI No. 2509, \"Adverse\nEmployment Action\" Explained.\nFor an instruction on damages, give CACI No. 3903P , Damages From Employer for\nWrongful Discharge (Economic Damage). See also CACI No. 304, Oral or Written\nContract Terms, and CACI No. 305, Implied-in-Fact Contract .",
+  "sources_and_authority": [
+    {
+      "raw": "At-Will Employment. Labor Code section 2922.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "2922",
+          "display": "Labor Code section 2922",
+          "raw": "Labor Code section 2922",
+          "span": [
+            20,
+            43
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Contractual Conditions Precedent. Civil Code section 1439.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1439",
+          "display": "Civil Code section 1439",
+          "raw": "Civil Code section 1439",
+          "span": [
+            34,
+            57
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Where there is no express agreement, the issue is whether other evidence of the\nparties' conduct has a 'tendency in reason' to demonstrate the existence of an\nactual mutual understanding on particular terms and conditions of employment.\nIf such evidence logically permits conﬂicting inferences, a question of fact is\npresented. But where the undisputed facts negate the existence or the breach of\nthe contract claimed, summary judgment is proper.\" ( Guz v. Bechtel National,\nInc. (2000) 24 Cal. 4th 317, 337 [100 Cal. Rptr.2d 352, 8 P.3d 1089], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Guz v. Bechtel National, Inc.",
+          "year": 2000,
+          "volume": 24,
+          "reporter": "Cal.4th",
+          "page": 317,
+          "pin": "337",
+          "raw": "Guz v. Bechtel National, Inc. (2000) 24 Cal. 4th 317, 337",
+          "span": [
+            451,
+            508
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "The employee bears the ultimate burden of proving that he or she was\nwrongfully terminated. ( Pugh v. See' s Candies, Inc. (Pugh I ) (1981) 116\nCal. App.3d 311, 330 [171 Cal. Rptr. 917].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The presumption that an employment relationship of indeﬁnite duration is\nintended to be terminable at will is therefore 'subject, like any presumption, to\ncontrary evidence. This may take the form of an agreement, express or implied,\nthat . . . the employment relationship will continue indeﬁnitely, pending the\noccurrence of some event such as the employer's dissatisfaction with the\nemployee's services or the existence of some \"cause\" for termination.' \" ( Foley\nv. Interactive Data Corp. (1988) 47 Cal. 3d 654, 680 [254 Cal. Rptr. 211, 765\nP.2d 373], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Foley v. Interactive Data Corp.",
+          "year": 1988,
+          "volume": 47,
+          "reporter": "Cal.3d",
+          "page": 654,
+          "pin": "680",
+          "raw": "Foley v. Interactive Data Corp. (1988) 47 Cal. 3d 654, 680",
+          "span": [
+            461,
+            519
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In Foley, we identiﬁed several factors, apart from express terms, that may bear\nupon 'the existence and content of an . . . [implied-in-fact] agreement' placing\nlimits on the employer's right to discharge an employee. These factors might\ninclude ' \"the personnel policies or practices of the employer, the employee's\nlongevity of service, actions or communications by the employer reﬂecting\nassurances of continued employment, and the practices of the industry in which\nthe employee is engaged.\" ' \" ( Guz v. Bechtel National, Inc. (2000) 24 Cal. 4th\n317, 336–337 [100 Cal. Rptr.2d 352, 8 P.3d 1089], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Guz v. Bechtel National, Inc.",
+          "year": 2000,
+          "volume": 24,
+          "reporter": "Cal.4th",
+          "page": 317,
+          "pin": "336–337",
+          "raw": "Guz v. Bechtel National, Inc. (2000) 24 Cal. 4th 317, 336–337",
+          "span": [
+            503,
+            564
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Standing alone, constructive discharge is neither a tort nor a breach of contract,\nbut a doctrine that transforms what is ostensibly a resignation into a ﬁring. Even\nafter establishing constructive discharge, an employee must independently prove\nCACI No. 2401 WRONGFUL TERMINA TION\n1462\na breach of contract or tort in connection with employment termination in order\nto obtain damages for wrongful discharge.\" ( Turner v. Anheuser-Busch, Inc.\n(1994) 7 Cal. 4th 1238, 1251 [32 Cal. Rptr.2d 223, 876 P.2d 1022], original\nitalics, internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Turner v. Anheuser-Busch, Inc.",
+          "year": 1994,
+          "volume": 7,
+          "reporter": "Cal.4th",
+          "page": 1238,
+          "pin": "1251",
+          "raw": "Turner v. Anheuser-Busch, Inc. (1994) 7 Cal. 4th 1238, 1251",
+          "span": [
+            413,
+            472
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Constructive discharge occurs when the employer's conduct effectively forces\nan employee to resign. Although the employee may say, 'I quit,' the employment\nrelationship is actually severed involuntarily by the employer's acts, against the\nemployee's will. As a result, a constructive discharge is legally regarded as a\nﬁring rather than a resignation.\" ( Turner , supra, 7 Cal. 4th at pp. 1244–1245,\ninternal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In order to amount to a constructive discharge, adverse working conditions\nmust be unusually 'aggravated' or amount to a 'continuous pattern' before the\nsituation will be deemed intolerable. In general, '[s]ingle, trivial, or isolated acts\nof [misconduct] are insufficient' to support a constructive discharge claim.\nMoreover, a poor performance rating or a demotion, even when accompanied by\nreduction in pay, does not by itself trigger a constructive discharge.\" ( Turner ,\nsupra, 7 Cal. 4th at p. 1247, internal citation and fns. omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Whether conditions were so intolerable as to justify a reasonable employee's\ndecision to resign is normally a question of fact.\" ( V aldez v. City of Los Angeles\n(1991) 231 Cal. App.3d 1043, 1056 [282 Cal. Rptr. 726].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In some circumstances, a single intolerable incident, such as a crime of\nviolence against an employee by an employer, or an employer's ultimatum that\nan employee commit a crime, may constitute a constructive discharge. Such\nmisconduct potentially could be found 'aggravated.' \" ( Turner , supra, 7 Cal. 4th\nat p. 1247, fn. 3.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Each individual incident need not be sufficient standing alone to force a\nresignation; rather, the accumulation of discriminatory treatment over time can\namount to intolerable working conditions.\" ( Brome v. California Highway Patrol\n(2020) 44 Cal. App.5th 786, 801–802 [258 Cal. Rptr.3d 83].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Brome v. California Highway Patrol",
+          "year": 2020,
+          "volume": 44,
+          "reporter": "Cal.App.5th",
+          "page": 786,
+          "pin": "801–802",
+          "raw": "Brome v. California Highway Patrol (2020) 44 Cal. App.5th 786, 801–802",
+          "span": [
+            200,
+            270
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he standard by which a constructive discharge is determined is an objective\none–the question is 'whether a reasonable person faced with the allegedly\nintolerable employer actions or conditions of employment would have no\nreasonable alternative except to quit.' \" ( Turner , supra, 7 Cal. 4th at p. 1248,\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"In order to establish a constructive discharge, an employee must plead and\nprove, by the usual preponderance of the evidence standard, that the employer\neither intentionally created or knowingly permitted working conditions that were\nso intolerable or aggravated at the time of the employee's resignation that a\nreasonable employer would realize that a reasonable person in the employee's\nposition would be compelled to resign. [¶] For purposes of this standard, the\nrequisite knowledge or intent must exist on the part of either the employer or\nthose persons who effectively represent the employer, i.e., its officers, directors,\nmanaging agents, or supervisory employees.\" ( Turner , supra, 7 Cal. 4th at p.\n1251.)\nWRONGFUL TERMINA TION CACI No. 2401\n1463",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The length of time the plaintiff remained on the job may be one relevant factor\nin determining the intolerability of employment conditions from the standpoint\nof a reasonable person. Neither logic nor precedent suggests it should always be\ndispositive.\" ( Turner , supra, 7 Cal. 4th at p. 1254, original italics.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'Good cause' or 'just cause' for termination connotes ' \"a fair and honest cause\nor reason,\" ' regulated by the good faith of the employer. The term is relative.\nWhether good cause exists is dependent upon the particular circumstances of\neach case. In deciding whether good cause exists, there must be a balance\nbetween the employer's interest in operating its business efficiently and\nproﬁtably and the employee's interest in continued employment. Care must be\nexercised so as not to interfere with the employer's legitimate exercise of\nmanagerial discretion. While the scope of such discretion is substantial, it is not\nunrestricted. Good cause is not properly found where the asserted reasons for\ndischarge are 'trivial, capricious, unrelated to business needs or goals, or\npretextual.' Where there is a contract to terminate only for good cause, the\nemployer has no right to terminate for an arbitrary or unreasonable decision.\"\n(Walker v. Blue Cross of California (1992) 4 Cal. App.4th 985, 994 [6\nCal. Rptr.2d 184], internal citations omitted, abrogated on another ground in Guz,\nsupra, 24 Cal. 4th at p. 351.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Walker v. Blue Cross of California",
+          "year": 1992,
+          "volume": 4,
+          "reporter": "Cal.App.4th",
+          "page": 985,
+          "pin": "994",
+          "raw": "Walker v. Blue Cross of California (1992) 4 Cal. App.4th 985, 994",
+          "span": [
+            936,
+            1001
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The general rule is that the measure of recovery by a wrongfully discharged\nemployee is the amount of salary agreed upon for the period of service, less the\namount which the employer affirmatively proves the employee has earned or\nwith reasonable effort might have earned from other employment.\" ( Parker v.\nTwentieth Century-Fox Film Corp. (1970) 3 Cal. 3d 176, 181 [89 Cal. Rptr. 737,\n474 P.2d 689], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Parker v. Twentieth Century-Fox Film Corp.",
+          "year": 1970,
+          "volume": 3,
+          "reporter": "Cal.3d",
+          "page": 176,
+          "pin": "181",
+          "raw": "Parker v. Twentieth Century-Fox Film Corp. (1970) 3 Cal. 3d 176, 181",
+          "span": [
+            299,
+            367
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "Chin et al., California Practice Guide: Employment Litigation, Ch.4-A, Employment\nPresumed At Will , ¶¶ 4:2, 4:8, 4:15 (The Rutter Group)\nChin et al., California Practice Guide: Employment Litigation Ch.4-B, Agreements\nLimiting At-Will Termination , ¶¶ 4:65, 4:81, 4:105 (The Rutter Group)\nChin et al., California Practice Guide: Employment Litigation, Ch.4-C, \"Good\nCause\" for Termination , ¶¶ 4:270–4:273 (The Rutter Group)\n1 Wrongful Employment Termination Practice (Cont.Ed.Bar 2d ed.) Contract\nActions, §§8.4–8.20B\n4 Wilcox, California Employment Law, Ch. 60, Liability for Wrongful Termination\nand Discipline , §§60.05, 60.07 (Matthew Bender)\n21 California Forms of Pleading and Practice, Ch. 249, Employment Law:\nTermination and Discipline , §§249.10, 249.15, 249.43, 249.90, Ch. 250,\nEmployment Law: Wage and Hour Disputes, §250.66 (Matthew Bender)\n5 California Points and Authorities, Ch. 50, Contracts, §§50.10, 50.11 (Matthew\nBender)\n10 California Points and Authorities, Ch. 100, Employer and Employee: Wrongful\nTermination and Discipline , §§100.21, 100.22, 100.28, 100.29, 100.31 (Matthew\nCACI No. 2401 WRONGFUL TERMINA TION\n1464\nBender)\nCalifornia Civil Practice: Employment Litigation §§6:9–6:11 (Thomson Reuters)\nWRONGFUL TERMINA TION CACI No. 2401\n1465",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "2922",
+      "display": "Labor Code section 2922",
+      "raw": "Labor Code section 2922",
+      "span": [
+        20,
+        43
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/2922"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1439",
+      "display": "Civil Code section 1439",
+      "raw": "Civil Code section 1439",
+      "span": [
+        34,
+        57
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1439"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Guz v. Bechtel National, Inc.",
+      "year": 2000,
+      "volume": 24,
+      "reporter": "Cal.4th",
+      "page": 317,
+      "pin": "337",
+      "raw": "Guz v. Bechtel National, Inc. (2000) 24 Cal. 4th 317, 337",
+      "span": [
+        451,
+        508
+      ],
+      "role": "sources",
+      "case_key": "24 Cal.4th 317"
+    },
+    {
+      "name": "Foley v. Interactive Data Corp.",
+      "year": 1988,
+      "volume": 47,
+      "reporter": "Cal.3d",
+      "page": 654,
+      "pin": "680",
+      "raw": "Foley v. Interactive Data Corp. (1988) 47 Cal. 3d 654, 680",
+      "span": [
+        461,
+        519
+      ],
+      "role": "sources",
+      "case_key": "47 Cal.3d 654"
+    },
+    {
+      "name": "Turner v. Anheuser-Busch, Inc.",
+      "year": 1994,
+      "volume": 7,
+      "reporter": "Cal.4th",
+      "page": 1238,
+      "pin": "1251",
+      "raw": "Turner v. Anheuser-Busch, Inc. (1994) 7 Cal. 4th 1238, 1251",
+      "span": [
+        413,
+        472
+      ],
+      "role": "sources",
+      "case_key": "7 Cal.4th 1238"
+    },
+    {
+      "name": "Brome v. California Highway Patrol",
+      "year": 2020,
+      "volume": 44,
+      "reporter": "Cal.App.5th",
+      "page": 786,
+      "pin": "801–802",
+      "raw": "Brome v. California Highway Patrol (2020) 44 Cal. App.5th 786, 801–802",
+      "span": [
+        200,
+        270
+      ],
+      "role": "sources",
+      "case_key": "44 Cal.App.5th 786"
+    },
+    {
+      "name": "Walker v. Blue Cross of California",
+      "year": 1992,
+      "volume": 4,
+      "reporter": "Cal.App.4th",
+      "page": 985,
+      "pin": "994",
+      "raw": "Walker v. Blue Cross of California (1992) 4 Cal. App.4th 985, 994",
+      "span": [
+        936,
+        1001
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.App.4th 985"
+    },
+    {
+      "name": "Parker v. Twentieth Century-Fox Film Corp.",
+      "year": 1970,
+      "volume": 3,
+      "reporter": "Cal.3d",
+      "page": 176,
+      "pin": "181",
+      "raw": "Parker v. Twentieth Century-Fox Film Corp. (1970) 3 Cal. 3d 176, 181",
+      "span": [
+        299,
+        367
+      ],
+      "role": "sources",
+      "case_key": "3 Cal.3d 176"
+    },
+    {
+      "name": "Kane v. Sklar",
+      "year": 1954,
+      "volume": 122,
+      "reporter": "Cal.App.2d",
+      "page": 480,
+      "pin": "482",
+      "raw": "Kane v. Sklar (1954) 122 Cal. App.2d 480, 482",
+      "span": [
+        416,
+        461
+      ],
+      "role": "directions",
+      "case_key": "122 Cal.App.2d 480"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:16+00:00"
+}

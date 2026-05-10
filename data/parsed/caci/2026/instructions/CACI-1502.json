@@ -1,0 +1,289 @@
+{
+  "id": "CACI-1502",
+  "edition": "2026",
+  "number": "1502",
+  "title": "Wrongful Use of Administrative Proceedings",
+  "title_full": "Wrongful Use of Administrative Proceedings",
+  "title_statute": null,
+  "series": "1500",
+  "series_title": "Series 1500 Malicious Prosecution",
+  "page_start": 1023,
+  "page_end": 1026,
+  "instruction_text": "1502. Wrongful Use of Administrative Proceedings\n[Name of plaintiff ] claims that [ name of defendant ] wrongfully brought an\nadministrative proceeding against [him/her/ nonbinary pronoun/it]. To\nestablish this claim, [ name of plaintiff ] must prove all of the following:\n1. That [ name of defendant ] was actively involved in bringing [or\ncontinuing] the administrative proceeding;\n2. That [ name of administrative body ] did not conduct an independent\ninvestigation;\n[3. That the proceeding ended in [ name of plaintiff ]'s favor;]\n[4. That no reasonable person in [ name of defendant ]'s circumstances\nwould have believed that there were reasonable grounds to bring\nthe proceeding against [ name of plaintiff ];]\n5. That [ name of defendant ] acted primarily for a purpose other than\nsucceeding on the merits of the claim;\n6. That [ name of plaintiff ] was harmed; and\n7. That [ name of defendant ]'s conduct was a substantial factor in\ncausing [ name of plaintiff ]'s harm.\n[The law requires that the trial judge, rather than the jury, decide if\n[name of plaintiff ] has proven element 3 above, whether the criminal\nproceeding ended in [his/her/ nonbinary pronoun/its] favor. But before I\ncan do so, you must decide whether [ name of plaintiff ] has proven the\nfollowing:\n[List all factual disputes that must be resolved by the jury. ]\nThe special [verdict/interrogatory] form will ask for your ﬁnding on\n[this/these] issue[s].]\n[The law [also] requires that the trial judge, rather than the jury, decide\nif [ name of plaintiff ] has proven element 4 above, whether a reasonable\nperson in [ name of defendant ]'s circumstances would have believed that\nthere were reasonable grounds for bringing the proceeding against [ name\nof plaintiff ]. But before I can do so, you must decide whether [ name of\nplaintiff] has proven the following:\n[List all factual disputes that must be resolved by the jury. ]\nThe special [verdict/interrogatory] form will ask for your ﬁnding on\n[this/these] issue[s].]\n\n949",
+  "directions_for_use": "Malicious prosecution requires that the proceeding have ended in the plaintiff's\nfavor (element 3) and that the defendant did not reasonably believe that there were\nany grounds (probable cause) to initiate the proceeding (element 4). Probable cause\nis to be decided by the court as a matter of law. However, it may require the jury to\nﬁnd some preliminary facts before the court can make its legal determination,\nincluding facts regarding what the defendant knew or didn't know at the time. (See\nSheldon Appel Co. v. Albert & Oliker (1989) 47 Cal. 3d 863, 881 [254 Cal. Rptr. 336,\n765 P.2d 498].) If so, include element 4 and also the bracketed part of the\ninstruction that refers to element 4.\nFavorable termination is handled in much the same way. If a proceeding is\nterminated other than on the merits, there may be disputed facts that the jury must\nﬁnd in order to determine whether there has been a favorable termination. (See\nFuentes v. Berry (1995) 38 Cal. App.4th 1800, 1808 [45 Cal. Rptr.2d 848].) If so,\ninclude element 3 and also the bracketed part of the instruction that refers to\nelement 3. Once these facts are determined, the jury does not then make a second\ndetermination as to whether there has been a favorable termination. The matter is\ndetermined by the court based on the resolution of the disputed facts. See Sierra\nClub Found. v. Graham (1999) 72 Cal. App.4th 1135, 1159 [85 Cal. Rptr.2d 726]\n[element of favorable termination is for court to decide].)\nEither or both of the elements of probable cause and favorable termination should\nbe omitted if there are no disputed facts regarding that element for the jury.\nElement 5 expresses the malice requirement.",
+  "sources_and_authority": [
+    {
+      "raw": "Public Employee Immunity. Government Code section 821.6.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "821.6",
+          "display": "Government Code section 821.6",
+          "raw": "Government Code section 821.6",
+          "span": [
+            26,
+            55
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\" 'Where the prosecuting officer acts on an independent investigation of his own\ninstead of on the statement of facts by the party making the complaint, the latter\nhas not caused the prosecution and cannot be held liable in an action for\nmalicious prosecution.' \" ( Werner v. Hearst Publications, Inc. (1944) 65\nCal. App.2d 667, 673 [151 P.2d 308], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Werner v. Hearst Publications, Inc.",
+          "year": 1944,
+          "volume": 65,
+          "reporter": "Cal.App.2d",
+          "page": 667,
+          "pin": "673",
+          "raw": "Werner v. Hearst Publications, Inc. (1944) 65 Cal. App.2d 667, 673",
+          "span": [
+            266,
+            332
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"We adopt the rule set forth in section 680 of the Restatement of Torts and hold\nthat an action for malicious prosecution may be founded upon the institution of a\nproceeding before an administrative agency.\" ( Hardy v. Vial (1957) 48 Cal. 2d\n577, 581 [311 P.2d 494].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hardy v. Vial",
+          "year": 1957,
+          "volume": 48,
+          "reporter": "Cal.2d",
+          "page": 577,
+          "pin": "581",
+          "raw": "Hardy v. Vial (1957) 48 Cal. 2d 577, 581",
+          "span": [
+            210,
+            250
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Government Code section 821.6 provides: \"A public employee is not liable for\ninjury caused by his instituting or prosecuting any judicial or administrative\nproceeding within the scope of his employment, even if he acts maliciously and\nwithout probable cause.\"",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "821.6",
+          "display": "Government Code section 821.6",
+          "raw": "Government Code section 821.6",
+          "span": [
+            0,
+            29
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\" 'Where the prosecuting officer acts on an independent investigation of his own\ninstead of on the statement of facts by the party making the complaint, the latter\nhas not caused the prosecution and cannot be held liable in an action for\nmalicious prosecution.' \" ( Werner v. Hearst Publications, Inc. (1944) 65\nCACI No. 1502 MALICIOUS PROSECUTION\n950\nCal. App.2d 667, 673 [151 P.2d 308], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]e hold that the State Bar, not respondents, initiated, procured or continued\nthe disciplinary proceedings of [plaintiff]. Therefore, [plaintiff] failed to allege\nthe elements required for a malicious prosecution of an administrative\nproceeding against respondents.\" ( Stanwyck v. Horne (1983) 146 Cal. App.3d\n450, 459 [194 Cal. Rptr. 228].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Stanwyck v. Horne",
+          "year": 1983,
+          "volume": 146,
+          "reporter": "Cal.App.3d",
+          "page": 450,
+          "pin": "459",
+          "raw": "Stanwyck v. Horne (1983) 146 Cal. App.3d 450, 459",
+          "span": [
+            272,
+            321
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The [Board of Medical Quality Assurance] is similar to the State Bar\nAssociation. Each is empowered and directed to conduct an independent\ninvestigation of all complaints from the public prior to the ﬁling of an\naccusation.\" ( Hogen v. V alley Hospital (1983) 147 Cal. App.3d 119, 125 [195\nCal. Rptr. 5], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" Hogen and Stanwyck placed an additional pleading burden upon the plaintiff in\na malicious prosecution case based upon the favorable termination of an\nadministrative proceeding. Those cases held that since it is the administrative\nbody, and not the individual initiating the complaint, which actually ﬁles the\ndisciplinary proceeding, a cause of action for malicious prosecution will not lie\nif the administrative body conducts an independent preliminary investigation\nprior to initiating disciplinary proceedings.\" ( Johnson v. Superior Court (1994)\n25 Cal. App.4th 1564, 1568 [31 Cal. Rptr.2d 199].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Johnson v. Superior Court",
+          "year": 1994,
+          "volume": 25,
+          "reporter": "Cal.App.4th",
+          "page": 1564,
+          "pin": "1568",
+          "raw": "Johnson v. Superior Court (1994) 25 Cal. App.4th 1564, 1568",
+          "span": [
+            519,
+            578
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Where a proceeding is terminated other than on the merits, the reasons\nunderlying the termination must be examined to see if it reﬂects the opinion of\nthe court or the prosecuting party that the action would not succeed. If a conﬂict\narises as to the circumstances explaining a failure to prosecute an action further,\nthe determination of the reasons underlying the dismissal is a question of fact.\"\n(Fuentes, supra, 38 Cal. App.4th at p. 1808, internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "The same rules for determining probable cause in the wrongful institution of\ncivil proceedings apply to cases alleging the wrongful institution of\nadministrative proceedings. ( Nicholson v. Lucas (1994) 21 Cal. App.4th 1657,\n1666, fn. 4 [26 Cal. Rptr.2d 778].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Nicholson v. Lucas",
+          "year": 1994,
+          "volume": 21,
+          "reporter": "Cal.App.4th",
+          "page": 1657,
+          "pin": "1666",
+          "raw": "Nicholson v. Lucas (1994) 21 Cal. App.4th 1657, 1666",
+          "span": [
+            177,
+            229
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"When there is a dispute as to the state of the defendant's knowledge and the\nexistence of probable cause turns on resolution of that dispute, . . . the jury\nmust resolve the threshold question of the defendant's factual knowledge or\nbelief. Thus, when . . . there is evidence that the defendant may have known\nthat the factual allegations on which his action depended were untrue, the jury\nmust determine what facts the defendant knew before the trial court can\ndetermine the legal question whether such facts constituted probable cause to\ninstitute the challenged proceeding.\" ( Sheldon Appel Co., supra, 47 Cal. 3d at p.\n881, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§607–610\n4 Levy et al., California Torts, Ch. 43, Malicious Prosecution and Abuse of Process,\n§§43.01–43.06 (Matthew Bender)\nMALICIOUS PROSECUTION CACI No. 1502\n951\n31 California Forms of Pleading and Practice, Ch. 357, Malicious Prosecution and\nAbuse of Process , §§357.10–357.32 (Matthew Bender)\n14 California Points and Authorities, Ch. 147, Malicious Prosecution and Abuse of\nProcess, §§147.20–147.53 (Matthew Bender)\nCACI No. 1502 MALICIOUS PROSECUTION\n952",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "821.6",
+      "display": "Government Code section 821.6",
+      "raw": "Government Code section 821.6",
+      "span": [
+        26,
+        55
+      ],
+      "role": "sources",
+      "statute_key": "CA/GOV/821.6"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Werner v. Hearst Publications, Inc.",
+      "year": 1944,
+      "volume": 65,
+      "reporter": "Cal.App.2d",
+      "page": 667,
+      "pin": "673",
+      "raw": "Werner v. Hearst Publications, Inc. (1944) 65 Cal. App.2d 667, 673",
+      "span": [
+        266,
+        332
+      ],
+      "role": "sources",
+      "case_key": "65 Cal.App.2d 667"
+    },
+    {
+      "name": "Hardy v. Vial",
+      "year": 1957,
+      "volume": 48,
+      "reporter": "Cal.2d",
+      "page": 577,
+      "pin": "581",
+      "raw": "Hardy v. Vial (1957) 48 Cal. 2d 577, 581",
+      "span": [
+        210,
+        250
+      ],
+      "role": "sources",
+      "case_key": "48 Cal.2d 577"
+    },
+    {
+      "name": "Stanwyck v. Horne",
+      "year": 1983,
+      "volume": 146,
+      "reporter": "Cal.App.3d",
+      "page": 450,
+      "pin": "459",
+      "raw": "Stanwyck v. Horne (1983) 146 Cal. App.3d 450, 459",
+      "span": [
+        272,
+        321
+      ],
+      "role": "sources",
+      "case_key": "146 Cal.App.3d 450"
+    },
+    {
+      "name": "Johnson v. Superior Court",
+      "year": 1994,
+      "volume": 25,
+      "reporter": "Cal.App.4th",
+      "page": 1564,
+      "pin": "1568",
+      "raw": "Johnson v. Superior Court (1994) 25 Cal. App.4th 1564, 1568",
+      "span": [
+        519,
+        578
+      ],
+      "role": "sources",
+      "case_key": "25 Cal.App.4th 1564"
+    },
+    {
+      "name": "Nicholson v. Lucas",
+      "year": 1994,
+      "volume": 21,
+      "reporter": "Cal.App.4th",
+      "page": 1657,
+      "pin": "1666",
+      "raw": "Nicholson v. Lucas (1994) 21 Cal. App.4th 1657, 1666",
+      "span": [
+        177,
+        229
+      ],
+      "role": "sources",
+      "case_key": "21 Cal.App.4th 1657"
+    },
+    {
+      "name": "See Fuentes v. Berry",
+      "year": 1995,
+      "volume": 38,
+      "reporter": "Cal.App.4th",
+      "page": 1800,
+      "pin": "1808",
+      "raw": "See Fuentes v. Berry (1995) 38 Cal. App.4th 1800, 1808",
+      "span": [
+        928,
+        982
+      ],
+      "role": "directions",
+      "case_key": "38 Cal.App.4th 1800"
+    },
+    {
+      "name": "See Sierra Club Found. v. Graham",
+      "year": 1999,
+      "volume": 72,
+      "reporter": "Cal.App.4th",
+      "page": 1135,
+      "pin": "1159",
+      "raw": "See Sierra Club Found. v. Graham (1999) 72 Cal. App.4th 1135, 1159",
+      "span": [
+        1328,
+        1394
+      ],
+      "role": "directions",
+      "case_key": "72 Cal.App.4th 1135"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

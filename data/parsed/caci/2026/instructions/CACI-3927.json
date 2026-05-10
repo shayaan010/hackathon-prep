@@ -1,0 +1,122 @@
+{
+  "id": "CACI-3927",
+  "edition": "2026",
+  "number": "3927",
+  "title": "Aggravation of Preexisting Condition or Disability",
+  "title_full": "Aggravation of Preexisting Condition or Disability",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2789,
+  "page_end": 2789,
+  "instruction_text": "3927. Aggravation of Preexisting Condition or Disability\n[Name of plaintiff ] is not entitled to damages for any physical or\nemotional condition that [he/she/ nonbinary pronoun] had before [ name of\ndefendant]'s conduct occurred. However, if [ name of plaintiff ] had a\nphysical or emotional condition that was made worse by [ name of\ndefendant]'s wrongful conduct, you must award damages that will\nreasonably and fairly compensate [him/her/ nonbinary pronoun] for the\neffect on that condition.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"[A] tortfeasor may be held liable in an action for damages where the effect of\nhis negligence is to aggravate a preexisting condition or disease. Plaintiff may\nrecover to the full extent that his condition has worsened as a result of\ndefendant's tortious act.\" ( Sanchez v. Kern Emergency Medical Transportation\nCorp. (2017) 8 Cal. App.5th 146, 168 [213 Cal. Rptr.3d 830].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Sanchez v. Kern Emergency Medical Transportation Corp.",
+          "year": 2017,
+          "volume": 8,
+          "reporter": "Cal.App.5th",
+          "page": 146,
+          "pin": "168",
+          "raw": "Sanchez v. Kern Emergency Medical Transportation Corp. (2017) 8 Cal. App.5th 146, 168",
+          "span": [
+            264,
+            349
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"It is by no means self-evident that an act which precipitates a ﬂare-up of a\npreexisting condition should be considered a 'cause which, in natural and\ncontinuous sequence, produces the injury.' Thus, general instructions on\nproximate cause were not sufficient to inform the jury on the more speciﬁc issue\nof aggravation of preexisting conditions.\" ( Ng v. Hudson (1977) 75 Cal. App.3d\n250, 256 [142 Cal. Rptr. 69], internal citations omitted, overruled on another\nground in Soule v. General Motors Corp. (1994) 8 Cal. 4th 548, 574 [34\nCal. Rptr.2d 607, 882 P.2d 298].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Ng v. Hudson",
+          "year": 1977,
+          "volume": 75,
+          "reporter": "Cal.App.3d",
+          "page": 250,
+          "pin": "256",
+          "raw": "Ng v. Hudson (1977) 75 Cal. App.3d 250, 256",
+          "span": [
+            351,
+            394
+          ]
+        },
+        {
+          "name": "Soule v. General Motors Corp.",
+          "year": 1994,
+          "volume": 8,
+          "reporter": "Cal.4th",
+          "page": 548,
+          "pin": "574",
+          "raw": "Soule v. General Motors Corp. (1994) 8 Cal. 4th 548, 574",
+          "span": [
+            475,
+            531
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[An instruction on preexisting condition] is proper only where the injured is the\nclaimant seeking compensation for his injuries. That is not the case here in a\nwrongful death action.\" ( V ecchione v. Carlin (1980) 111 Cal. App.3d 351, 358\n[168 Cal. Rptr. 571].)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1855\nCalifornia Tort Damages (Cont.Ed.Bar) Bodily Injury, §1.86\n4 Levy et al., California Torts, Ch. 51, Pain and Suffering , §51.23[3] (Matthew\nBender)\n15 California Forms of Pleading and Practice, Ch. 177, Damages, §177.45\n(Matthew Bender)\nCalifornia Civil Practice: Torts §5:11 (Thomson Reuters)\n903",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Sanchez v. Kern Emergency Medical Transportation Corp.",
+      "year": 2017,
+      "volume": 8,
+      "reporter": "Cal.App.5th",
+      "page": 146,
+      "pin": "168",
+      "raw": "Sanchez v. Kern Emergency Medical Transportation Corp. (2017) 8 Cal. App.5th 146, 168",
+      "span": [
+        264,
+        349
+      ],
+      "role": "sources",
+      "case_key": "8 Cal.App.5th 146"
+    },
+    {
+      "name": "Ng v. Hudson",
+      "year": 1977,
+      "volume": 75,
+      "reporter": "Cal.App.3d",
+      "page": 250,
+      "pin": "256",
+      "raw": "Ng v. Hudson (1977) 75 Cal. App.3d 250, 256",
+      "span": [
+        351,
+        394
+      ],
+      "role": "sources",
+      "case_key": "75 Cal.App.3d 250"
+    },
+    {
+      "name": "Soule v. General Motors Corp.",
+      "year": 1994,
+      "volume": 8,
+      "reporter": "Cal.4th",
+      "page": 548,
+      "pin": "574",
+      "raw": "Soule v. General Motors Corp. (1994) 8 Cal. 4th 548, 574",
+      "span": [
+        475,
+        531
+      ],
+      "role": "sources",
+      "case_key": "8 Cal.4th 548"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

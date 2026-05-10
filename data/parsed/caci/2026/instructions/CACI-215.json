@@ -1,0 +1,124 @@
+{
+  "id": "CACI-215",
+  "edition": "2026",
+  "number": "215",
+  "title": "Exercise of a Communication Privilege",
+  "title_full": "Exercise of a Communication Privilege",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 137,
+  "page_end": 137,
+  "instruction_text": "215. Exercise of a Communication Privilege\n[Name of party/witness ] has an absolute right not to disclose what [he/she/\nnonbinary pronoun] told [his/her/ nonbinary pronoun]\n[doctor/attorney/[other]] in conﬁdence because the law considers this\ninformation privileged. Do not consider, for any reason at all, the fact\nthat [ name of party/witness ] did not disclose what [he/she/ nonbinary\npronoun] told [his/her/ nonbinary pronoun] [doctor/attorney/[ other]]. Do not\ndiscuss that fact during your deliberations or let it inﬂuence your\ndecision in any way.",
+  "directions_for_use": "This instruction must be given upon request, if appropriate and the court has\ndetermined that the privilege has not been waived. (Evid. Code, §913(b).)",
+  "sources_and_authority": [
+    {
+      "raw": "No Presumption on Exercise of Privilege. Evidence Code section 913(b).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "913",
+          "display": "Evidence Code section 913",
+          "raw": "Evidence Code section 913(b)",
+          "span": [
+            41,
+            69
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "913",
+          "display": "Evidence Code section 913(b)",
+          "raw": "Evidence Code section 913(b)",
+          "span": [
+            41,
+            69
+          ],
+          "subsection": "b"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "The comment to Evidence Code section 913 notes that this statute \"may modify\nexisting California law as it applies in civil cases.\" Speciﬁcally, the comment\nnotes that section 913 in effect overrules two Supreme Court cases: Nelson v.\nSouthern Paciﬁc Co . (1937) 8 Cal. 2d 648 [67 P.2d 682] and Fross v. Wotton\n(1935) 3 Cal. 2d 384 [44 P.2d 350]. The Nelson court had held that evidence of a\nperson's exercise of the privilege against self-incrimination in a prior proceeding\nmay be shown for impeachment purposes if he or she testiﬁes in a self-\nexculpatory manner in a subsequent proceeding. Language in Fross indicated\nthat unfavorable inferences may be drawn in a civil case from a party's claim of\nthe privilege against self-incrimination during the case itself.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "913",
+          "display": "Evidence Code section 913",
+          "raw": "Evidence Code section 913",
+          "span": [
+            15,
+            40
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Fross v. Wotton",
+          "year": 1935,
+          "volume": 3,
+          "reporter": "Cal.2d",
+          "page": 384,
+          "pin": null,
+          "raw": "Fross v. Wotton (1935) 3 Cal. 2d 384",
+          "span": [
+            295,
+            331
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "2 Witkin, California Evidence (6th ed. 2023) Witnesses, §92\n7 Witkin, California Procedure (6th ed. 2021) Trial, §314\nJefferson, California Evidence Benchbook (3d ed. 1997) §§35.26–35.27\nCotchett, California Courtroom Evidence, §18.09 (Matthew Bender)\n3 California Trial Guide, Unit 51, Privileges, §§51.01–51.32 (Matthew Bender)\n2 California Pretrial Civil Procedure Practice Guide: The Wagstaffe Group, Ch. 40,\nScope of Discovery , §40-III\nCalifornia Judges Benchbook: Civil Proceedings–Trial §§8.34, 8.41 (Cal CJER\n2019)\n63",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "913",
+      "display": "Evidence Code section 913",
+      "raw": "Evidence Code section 913(b)",
+      "span": [
+        41,
+        69
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/913"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "913",
+      "display": "Evidence Code section 913(b)",
+      "raw": "Evidence Code section 913(b)",
+      "span": [
+        41,
+        69
+      ],
+      "subsection": "b",
+      "role": "sources",
+      "statute_key": "CA/EVID/913/b"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Fross v. Wotton",
+      "year": 1935,
+      "volume": 3,
+      "reporter": "Cal.2d",
+      "page": 384,
+      "pin": null,
+      "raw": "Fross v. Wotton (1935) 3 Cal. 2d 384",
+      "span": [
+        295,
+        331
+      ],
+      "role": "sources",
+      "case_key": "3 Cal.2d 384"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

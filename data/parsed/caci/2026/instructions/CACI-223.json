@@ -1,0 +1,111 @@
+{
+  "id": "CACI-223",
+  "edition": "2026",
+  "number": "223",
+  "title": "Opinion Testimony of Lay Witness",
+  "title_full": "Opinion Testimony of Lay Witness",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 152,
+  "page_end": 152,
+  "instruction_text": "223. Opinion Testimony of Lay Witness\nA witness [who was not testifying as an expert] gave an opinion during\nthe trial. Y ou may, but are not required to, accept that opinion. Y ou may\ngive the opinion whatever weight you think is appropriate.\nConsider the extent of the witness's opportunity to perceive the matters\non which the opinion is based, the reasons the witness gave for the\nopinion, and the facts or information on which the witness relied in\nforming that opinion. Y ou must decide whether information on which the\nwitness relied was true and accurate. Y ou may disregard all or any part\nof an opinion that you ﬁnd unbelievable, unreasonable, or unsupported\nby the evidence.",
+  "directions_for_use": "Give the bracketed phrase in the ﬁrst sentence regarding the witness not testifying\nas an expert if an expert witness also testiﬁed in the case.",
+  "sources_and_authority": [
+    {
+      "raw": "Opinion Testimony of Lay Witness. Evidence Code section 800.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "800",
+          "display": "Evidence Code section 800",
+          "raw": "Evidence Code section 800",
+          "span": [
+            34,
+            59
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Foundation for Opinion Testimony of Lay Witness. Evidence Code section 802.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "802",
+          "display": "Evidence Code section 802",
+          "raw": "Evidence Code section 802",
+          "span": [
+            49,
+            74
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Character Evidence. Evidence Code section 1100.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "1100",
+          "display": "Evidence Code section 1100",
+          "raw": "Evidence Code section 1100",
+          "span": [
+            20,
+            46
+          ]
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, California Evidence (5th ed. 2012) Opinion Evidence, §§3–25\nWegner et al., California Practice Guide: Civil Trial and Evidence, Ch. 8C-H,\nOpinion Evidence, ¶¶ 8:643–8:681 (The Rutter Group)\nJefferson's California Evidence Benchbook (Cont.Ed.Bar 3d ed.) §§29.1–29.17\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §551.70 (Matthew\nBender)\n1 Cotchett, California Courtroom Evidence, Ch. 17, Nonexpert and Expert Opinion ,\n§17.01 (Matthew Bender)\nCalifornia Judges Benchbook: Civil Proceedings–Trial §8.72 (Cal CJER 2019)\n78",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "800",
+      "display": "Evidence Code section 800",
+      "raw": "Evidence Code section 800",
+      "span": [
+        34,
+        59
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/800"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "802",
+      "display": "Evidence Code section 802",
+      "raw": "Evidence Code section 802",
+      "span": [
+        49,
+        74
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/802"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1100",
+      "display": "Evidence Code section 1100",
+      "raw": "Evidence Code section 1100",
+      "span": [
+        20,
+        46
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/1100"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

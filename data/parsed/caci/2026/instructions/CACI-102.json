@@ -1,0 +1,94 @@
+{
+  "id": "CACI-102",
+  "edition": "2026",
+  "number": "102",
+  "title": "Taking Notes During the Trial",
+  "title_full": "Taking Notes During the Trial",
+  "title_statute": null,
+  "series": "100",
+  "series_title": "Series 100 Pretrial",
+  "page_start": 89,
+  "page_end": 90,
+  "instruction_text": "102. Taking Notes During the Trial\nY ou have been given notebooks and may take notes during the trial. Do\nnot take the notebooks out of the courtroom or jury room at any time\nduring the trial. Y ou may take your notes into the jury room during\ndeliberations.\nY ou should use your notes only to remind yourself of what happened\nduring the trial. Do not let your note-taking interfere with your ability to\nlisten carefully to all the testimony and to watch the witnesses as they\ntestify. Nor should you allow your impression of a witness or other\nevidence to be inﬂuenced by whether or not other jurors are taking\nnotes. Y our independent recollection of the evidence should govern your\nverdict, and you should not allow yourself to be inﬂuenced by the notes\nof other jurors if those notes differ from what you remember.\n[The court reporter is making a record of everything that is said. If\nduring deliberations you have a question about what the witness said,\nyou should ask that the court reporter's records be read to you. Y ou\nmust accept the court reporter's record as accurate.]\nAt the end of the trial, your notes will be [collected and\ndestroyed/collected and retained by the court but not as a part of the\ncase record/ [ specify other disposition ]].",
+  "directions_for_use": "This instruction may be given as an introductory instruction or as a concluding\ninstruction after trial. (See CACI No. 5010, Taking Notes During the Trial ).\nThe bracketed paragraph should not be read if a court reporter is not being used to\nrecord the trial proceedings.\nIn the last paragraph, specify the court's disposition of the notes after trial. No\nstatute or rule of court requires any particular disposition.",
+  "sources_and_authority": [
+    {
+      "raw": "Juror Notes. Rule 2.1031 of the California Rules of Court.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Because of [the risks of note-taking], a number of courts have held that a\ncautionary instruction is required. For example, [one court] held that the\ninstruction should include 'an explanation . . . that [jurors] should not permit\ntheir note-taking to distract them from the ongoing proceedings; that their notes\nare only an aid to their memory and should not take precedence over their\nindependent recollection; that those jurors who do not take notes should rely on\ntheir independent recollection of the evidence and not be inﬂuenced by the fact\n15\nthat another juror has taken notes; and that the notes are for the note taker's own\npersonal use in refreshing his recollection of the evidence. The jury must be\nreminded that should any discrepancy exist between their recollection of the\nevidence and their notes, they should request that the record of the proceedings\nbe read back and that it is the transcript that must prevail over their notes.' \"\n(People v. Whitt (1984) 36 Cal. 3d 724, 747 [205 Cal. Rptr. 810, 685 P.2d 1161],\ninternal citations and footnote omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Whitt",
+          "year": 1984,
+          "volume": 36,
+          "reporter": "Cal.3d",
+          "page": 724,
+          "pin": "747",
+          "raw": "People v. Whitt (1984) 36 Cal. 3d 724, 747",
+          "span": [
+            955,
+            997
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In People v. Whitt , we recognized the risks inherent in juror note-taking and\nobserved that it is 'the better practice' for courts to give, sua sponte, a cautionary\ninstruction on note-taking. Although the ideal instruction would advert\nspeciﬁcally to all the dangers of note-taking, we found the less complete\ninstruction given in Whitt to be adequate: 'Be careful as to the amount of notes\nthat you take. I'd rather that you observe the witness, observe the demeanor of\nthat witness, listen to how that person testiﬁes rather than taking copious notes\n. . . . [I]f you do not recall exactly as to what a witness might have said or you\ndisagree, for instance, during the deliberation [sic] as to what a witness may\nhave said, we can reread that transcript back . . . .' \" ( People v. Silbertson\n(1985) 41 Cal. 3d 296, 303 [221 Cal. Rptr. 152, 709 P.2d 1321], internal citations\nand footnote omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Silbertson",
+          "year": 1985,
+          "volume": 41,
+          "reporter": "Cal.3d",
+          "page": 296,
+          "pin": "303",
+          "raw": "People v. Silbertson (1985) 41 Cal. 3d 296, 303",
+          "span": [
+            777,
+            824
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "California Deskbook on Complex Civil Litigation Management, Ch. 4, Trial of\nComplex Cases , §4.21[5] (Matthew Bender)\n28 California Forms of Pleading and Practice, Ch. 326, Jury Instructions , §326.32\n(Matthew Bender)\nCalifornia Judges Benchbook: Civil Proceedings–Trial §3.97 (Cal CJER 2019)\nCACI No. 102 PRETRIAL INSTRUCTIONS\n16",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "People v. Whitt",
+      "year": 1984,
+      "volume": 36,
+      "reporter": "Cal.3d",
+      "page": 724,
+      "pin": "747",
+      "raw": "People v. Whitt (1984) 36 Cal. 3d 724, 747",
+      "span": [
+        955,
+        997
+      ],
+      "role": "sources",
+      "case_key": "36 Cal.3d 724"
+    },
+    {
+      "name": "People v. Silbertson",
+      "year": 1985,
+      "volume": 41,
+      "reporter": "Cal.3d",
+      "page": 296,
+      "pin": "303",
+      "raw": "People v. Silbertson (1985) 41 Cal. 3d 296, 303",
+      "span": [
+        777,
+        824
+      ],
+      "role": "sources",
+      "case_key": "41 Cal.3d 296"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

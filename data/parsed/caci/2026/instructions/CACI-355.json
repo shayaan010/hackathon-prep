@@ -1,0 +1,86 @@
+{
+  "id": "CACI-355",
+  "edition": "2026",
+  "number": "355",
+  "title": "Obligation to Pay Money Only",
+  "title_full": "Obligation to Pay Money Only",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 253,
+  "page_end": 253,
+  "instruction_text": "355. Obligation to Pay Money Only\nTo recover damages for the breach of a contract to pay money, [ name of\nplaintiff] must prove the amount due under the contract.",
+  "directions_for_use": "Read this instruction in conjunction with CACI No. 350, Introduction to Contract\nDamages. If there is a dispute as to the appropriate rate of interest, the jury should\nbe instructed to determine the rate. Otherwise, the judge should calculate the interest\nand add the appropriate amount of interest to the verdict.",
+  "sources_and_authority": [
+    {
+      "raw": "Damages for Breach of Obligation to Pay Money. Civil Code section 3302.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3302",
+          "display": "Civil Code section 3302",
+          "raw": "Civil Code section 3302",
+          "span": [
+            47,
+            70
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Interest on Contract Damages. Civil Code section 3289.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3289",
+          "display": "Civil Code section 3289",
+          "raw": "Civil Code section 3289",
+          "span": [
+            30,
+            53
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The section is part of the original Civil Code and was intended to codify a\ncommon-law rule of damages for breach of a contract to pay a liquidated sum.\nIn Siminoff v. Jas. H. Goodman & Co. Bank, the court after careful and\nextensive analysis concluded that section 3302 was not intended to abolish the\ncommon-law measure of damages for dishonor of a check. Hartford, in reaching\nthe opposite conclusion, failed even to note the common-law rule or the\nCalifornia cases which had followed it, and did not discuss the strong arguments\nin its favor advanced in the Siminoff opinion. The Hartford holding on section\n3302 no longer applies to the instant problem since section 3320 clearly\nconstitutes 'a legislative recognition that a depositor whose check is wrongfully\ndishonored may thereby sustain \"actual damage\" beyond the amount of the\ncheck' and thus supersedes the Hartford holding on the measure of damages.\"\n(Weaver v. Bank of America National Trust & Savings Assn. (1963) 59 Cal. 2d\n428, 436, fn. 11 [30 Cal. Rptr. 4, 380 P.2d 644], internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §936\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 7, Seeking or\nOpposing Damages in Contract Actions , 7.04[7][a]\n179",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3302",
+      "display": "Civil Code section 3302",
+      "raw": "Civil Code section 3302",
+      "span": [
+        47,
+        70
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3302"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3289",
+      "display": "Civil Code section 3289",
+      "raw": "Civil Code section 3289",
+      "span": [
+        30,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3289"
+    }
+  ],
+  "all_cases": [],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

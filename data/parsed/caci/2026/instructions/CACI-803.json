@@ -1,0 +1,119 @@
+{
+  "id": "CACI-803",
+  "edition": "2026",
+  "number": "803",
+  "title": "Regulating Speed",
+  "title_full": "Regulating Speed",
+  "title_statute": null,
+  "series": "800",
+  "series_title": "Series 800 Railroad Crossings",
+  "page_start": 674,
+  "page_end": 675,
+  "instruction_text": "803. Regulating Speed\n[A railroad company] [A train operator] must use reasonable care to\ncontrol the train's speed as it approaches and passes through a railroad\ncrossing. The [railroad company] [train operator] must control train\nspeed with due regard for the safety of human life and property, taking\ninto consideration the location and conditions of the crossing.",
+  "directions_for_use": "This instruction may not be appropriate in certain cases. Regulations adopted by the\nSecretary of Transportation pursuant to the Federal Railroad Safety Act preempt\nstate common-law negligence claims based on general allegations of \"excessive\nspeed.\" ( CSX Transportation, Inc. v. Easterwood (1993) 507 U.S. 658, 675 [113\nS.Ct. 1732, 123 L.Ed.2d 387].) However, a negligence action based on a duty to\nslow or stop a train to avoid a speciﬁc, individual hazard is not preempted. ( CSX\nTransportation, Inc., supra , 507 U.S. at 676, fn. 15.)",
+  "sources_and_authority": [
+    {
+      "raw": "\"We hold that . . . federal regulations adopted by the Secretary of\nTransportation pre-empt respondent's negligence action only insofar as it asserts\nthat petitioner's train was traveling at an excessive speed.\" ( CSX Transportation,\nInc., supra, 507 U.S. at p. 676.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"While it is true that no rate of speed is negligence per se in the absence of a\nstatute or ordinance, it does not follow that a railroad company will be permitted\nto run its trains under all conditions at any rate of speed it may choose. It must\nregulate its speed with proper regard for the safety of human life and property,\nespecially when running through towns and cities. . . . [T]he question whether\nor not a rate of speed is excessive is one of fact for the jury.\" ( Young v. Paciﬁc\nElectric Ry. Co . (1929) 208 Cal. 568, 572–573 [283 P.61].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The 'reasonably prudent person' test applies also to the speed at which a train\napproaches and passes a crossing, and material in the application of that test is\n'that no unnecessary risk shall be cast upon the public' considering the 'location\nand surroundings' of the crossing involved. Specially mentioned is a 'crossing in\na thickly populated community and extensively used.' \" ( Rice v. Southern Paciﬁc\nCo. (1967) 247 Cal. App.2d 701, 707 [55 Cal. Rptr. 840], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Rice v. Southern Paciﬁc Co.",
+          "year": 1967,
+          "volume": 247,
+          "reporter": "Cal.App.2d",
+          "page": 701,
+          "pin": "707",
+          "raw": "Rice v. Southern Paciﬁc Co. (1967) 247 Cal. App.2d 701, 707",
+          "span": [
+            385,
+            444
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]t is for the jury to say whether the speed of a train was too high for a\nparticular intersection.\" ( Romo v. Southern Paciﬁc Transportation Co. (1977) 71\nCal. App.3d 909, 916 [139 Cal. Rptr. 787].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Romo v. Southern Paciﬁc Transportation Co.",
+          "year": 1977,
+          "volume": 71,
+          "reporter": "Cal.App.3d",
+          "page": 909,
+          "pin": "916",
+          "raw": "Romo v. Southern Paciﬁc Transportation Co. (1977) 71 Cal. App.3d 909, 916",
+          "span": [
+            105,
+            178
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Even when crossing protection is provided and the company speed limit is not\n600\nexceeded, speeding is still a question of fact. ( Herrera v. Southern Paciﬁc Co .\n(1957) 155 Cal. App.2d 781, 787 [318 P.2d 784].)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1039, 1239, 1240,\n1479\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) Railroad Crossings, §12.5\n2 Levy et al., California Torts, Ch. 23, Carriers, §23.26[6] (Matthew Bender)\n42 California Forms of Pleading and Practice, Ch. 485, Railroads, §485.64\n(Matthew Bender)\nRAILROAD CROSSINGS CACI No. 803\n601",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Rice v. Southern Paciﬁc Co.",
+      "year": 1967,
+      "volume": 247,
+      "reporter": "Cal.App.2d",
+      "page": 701,
+      "pin": "707",
+      "raw": "Rice v. Southern Paciﬁc Co. (1967) 247 Cal. App.2d 701, 707",
+      "span": [
+        385,
+        444
+      ],
+      "role": "sources",
+      "case_key": "247 Cal.App.2d 701"
+    },
+    {
+      "name": "Romo v. Southern Paciﬁc Transportation Co.",
+      "year": 1977,
+      "volume": 71,
+      "reporter": "Cal.App.3d",
+      "page": 909,
+      "pin": "916",
+      "raw": "Romo v. Southern Paciﬁc Transportation Co. (1977) 71 Cal. App.3d 909, 916",
+      "span": [
+        105,
+        178
+      ],
+      "role": "sources",
+      "case_key": "71 Cal.App.3d 909"
+    },
+    {
+      "name": "CSX Transportation, Inc. v. Easterwood",
+      "year": 1993,
+      "volume": 507,
+      "reporter": "U.S.",
+      "page": 658,
+      "pin": "675",
+      "raw": "CSX Transportation, Inc. v. Easterwood (1993) 507 U.S. 658, 675",
+      "span": [
+        253,
+        316
+      ],
+      "role": "directions",
+      "case_key": "507 U.S. 658"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

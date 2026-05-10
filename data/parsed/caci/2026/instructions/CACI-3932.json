@@ -1,0 +1,123 @@
+{
+  "id": "CACI-3932",
+  "edition": "2026",
+  "number": "3932",
+  "title": "Life Expectancy",
+  "title_full": "Life Expectancy",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2799,
+  "page_end": 2800,
+  "instruction_text": "3932. Life Expectancy\nIf you decide [ name of plaintiff ] has suffered damages that will continue\nfor the rest of [his/her/ nonbinary pronoun] life, you must determine how\nlong [he/she/ nonbinary pronoun] will probably live. According to [ insert\nsource of information ], a [ insert number ]-year-old [male/female] is expected\nto live another [ insert number ] years. This is the average life expectancy.\nSome people live longer and others die sooner.\nThis published information is evidence of how long a person is likely to\nlive but is not conclusive. In deciding a person's life expectancy, you\nshould also consider, among other factors, that person's health, habits,\nactivities, lifestyle, and occupation.",
+  "directions_for_use": "Use of the life tables in Vital Statistics of the United States , published by the\nNational Center for Health Statistics, is recommended. (See Life Expectancy\nTable–Male and Life Expectancy Table–Female, following the Damages series.)\nThe ﬁrst column shows the age interval between the two exact ages indicated. For\nexample, 50–51 means the one-year interval between the ﬁftieth and ﬁfty-ﬁrst\nbirthdays.",
+  "sources_and_authority": [
+    {
+      "raw": "\"The life expectancy of the deceased is a question of fact for the jury to decide,\nconsidering all relevant factors including the deceased's health, lifestyle and\noccupation. Life expectancy ﬁgures from mortality tables are admissible but are\nnot conclusive. Here the jury was correctly told the ﬁgure given was not\nconclusive evidence of Charlene's life expectancy. It was merely 'a factor which\nyou may consider,' along with the evidence of Charlene's health, habits,\noccupation and activities.\" ( Allen v. Toledo (1980) 109 Cal. App.3d 415, 424 [167\nCal. Rptr. 270], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Allen v. Toledo",
+          "year": 1980,
+          "volume": 109,
+          "reporter": "Cal.App.3d",
+          "page": 415,
+          "pin": "424",
+          "raw": "Allen v. Toledo (1980) 109 Cal. App.3d 415, 424",
+          "span": [
+            500,
+            547
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Mortality tables are admissible to assist the jury but they are not indispensable.\nIt has been held, for example, that, absent mortality tables, the trier of fact may\nstill approximate the life expectancy of a statutory beneﬁciary who appeared in\ncourt.\" ( Francis v. Sauve (1963) 222 Cal. App.2d 102, 121 [34 Cal. Rptr. 754],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Francis v. Sauve",
+          "year": 1963,
+          "volume": 222,
+          "reporter": "Cal.App.2d",
+          "page": 102,
+          "pin": "121",
+          "raw": "Francis v. Sauve (1963) 222 Cal. App.2d 102, 121",
+          "span": [
+            258,
+            306
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"It is a matter of common knowledge that many persons live beyond the period\nof life allotted them by the mortality roles.\" ( Temple v. De Mirjian (1942) 51\nCal. App.2d 559, 566 [125 P.2d 544], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Temple v. De Mirjian",
+          "year": 1942,
+          "volume": 51,
+          "reporter": "Cal.App.2d",
+          "page": 559,
+          "pin": "566",
+          "raw": "Temple v. De Mirjian (1942) 51 Cal. App.2d 559, 566",
+          "span": [
+            126,
+            177
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1843\n913\n4 Levy et al., California Torts, Ch. 51, Pain and Suffering , §51.42[2][c], Ch. 52,\nMedical Expenses and Economic Loss , §52.20 (Matthew Bender)\n15 California Forms of Pleading and Practice, Ch. 177, Damages (Matthew Bender)\n6 California Points and Authorities, Ch. 64, Damages: Tort (Matthew Bender)\nCACI No. 3932 DAMAGES\n914",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Allen v. Toledo",
+      "year": 1980,
+      "volume": 109,
+      "reporter": "Cal.App.3d",
+      "page": 415,
+      "pin": "424",
+      "raw": "Allen v. Toledo (1980) 109 Cal. App.3d 415, 424",
+      "span": [
+        500,
+        547
+      ],
+      "role": "sources",
+      "case_key": "109 Cal.App.3d 415"
+    },
+    {
+      "name": "Francis v. Sauve",
+      "year": 1963,
+      "volume": 222,
+      "reporter": "Cal.App.2d",
+      "page": 102,
+      "pin": "121",
+      "raw": "Francis v. Sauve (1963) 222 Cal. App.2d 102, 121",
+      "span": [
+        258,
+        306
+      ],
+      "role": "sources",
+      "case_key": "222 Cal.App.2d 102"
+    },
+    {
+      "name": "Temple v. De Mirjian",
+      "year": 1942,
+      "volume": 51,
+      "reporter": "Cal.App.2d",
+      "page": 559,
+      "pin": "566",
+      "raw": "Temple v. De Mirjian (1942) 51 Cal. App.2d 559, 566",
+      "span": [
+        126,
+        177
+      ],
+      "role": "sources",
+      "case_key": "51 Cal.App.2d 559"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

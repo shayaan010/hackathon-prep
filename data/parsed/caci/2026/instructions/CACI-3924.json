@@ -1,0 +1,188 @@
+{
+  "id": "CACI-3924",
+  "edition": "2026",
+  "number": "3924",
+  "title": "No Punitive Damages",
+  "title_full": "No Punitive Damages",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2785,
+  "page_end": 2785,
+  "instruction_text": "3924. No Punitive Damages\nY ou must not include in your award any damages to punish or make an\nexample of [ name of defendant ]. Such damages would be punitive\ndamages, and they cannot be a part of your verdict. Y ou must award\nonly the damages that fairly compensate [ name of plaintiff ] for [his/her/\nnonbinary pronoun/its] loss.",
+  "directions_for_use": "Do not use this instruction if punitive damages are being sought in the phase of the\ntrial in which these instructions are given.",
+  "sources_and_authority": [
+    {
+      "raw": "No Governmental Liability for Punitive Damages. Government Code section\n818.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "818",
+          "display": "Government Code section 818",
+          "raw": "Government Code section\n818",
+          "span": [
+            48,
+            75
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Punitive damages are not permitted in wrongful death actions.\" ( Cortez v.\nMacias (1980) 110 Cal. App.3d 640, 657 [167 Cal. Rptr. 905].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cortez v. Macias",
+          "year": 1980,
+          "volume": 110,
+          "reporter": "Cal.App.3d",
+          "page": 640,
+          "pin": "657",
+          "raw": "Cortez v. Macias (1980) 110 Cal. App.3d 640, 657",
+          "span": [
+            66,
+            114
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[P]unitive damages are prohibited in an action against a public entity.\" ( Pearl v.\nCity of Los Angeles (2019) 36 Cal. App.5th 475, 486 [248 Cal. Rptr.3d 508].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Pearl v. City of Los Angeles",
+          "year": 2019,
+          "volume": 36,
+          "reporter": "Cal.App.5th",
+          "page": 475,
+          "pin": "486",
+          "raw": "Pearl v. City of Los Angeles (2019) 36 Cal. App.5th 475, 486",
+          "span": [
+            76,
+            136
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The punitive damages theory cannot be predicated on the breach of contract\ncause of action without an underlying tort.\" ( Palmer v. Ted Stevens Honda, Inc.\n(1987) 193 Cal. App.3d 530, 536 [238 Cal. Rptr. 363], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Palmer v. Ted Stevens Honda, Inc.",
+          "year": 1987,
+          "volume": 193,
+          "reporter": "Cal.App.3d",
+          "page": 530,
+          "pin": "536",
+          "raw": "Palmer v. Ted Stevens Honda, Inc. (1987) 193 Cal. App.3d 530, 536",
+          "span": [
+            123,
+            188
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"An award of punitive damages is not supported by a verdict based on breach of\ncontract, even where the defendant's conduct in breaching the contract was\nwilful, fraudulent, or malicious. Even in those cases in which a separate tort\naction is alleged, if there is 'but one verdict based upon contract' a punitive\ndamage award is improper.\" ( Myers Building Industries, Ltd. v. Interface\nTechnology, Inc. (1993) 13 Cal. App.4th 949, 960 [17 Cal. Rptr.2d 242], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Myers Building Industries, Ltd. v. Interface Technology, Inc.",
+          "year": 1993,
+          "volume": 13,
+          "reporter": "Cal.App.4th",
+          "page": 949,
+          "pin": "960",
+          "raw": "Myers Building Industries, Ltd. v. Interface Technology, Inc. (1993) 13 Cal. App.4th 949, 960",
+          "span": [
+            342,
+            435
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1751\nCalifornia Tort Damages (Cont.Ed.Bar) Punitive Damages, §14.3\n4 Levy et al., California Torts, Ch. 54, Punitive Damages , §§54.05, 54.08 (Matthew\nBender)\n15 California Forms of Pleading and Practice, Ch. 177, Damages, §177.51\n(Matthew Bender)\n899",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "818",
+      "display": "Government Code section 818",
+      "raw": "Government Code section\n818",
+      "span": [
+        48,
+        75
+      ],
+      "role": "sources",
+      "statute_key": "CA/GOV/818"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Cortez v. Macias",
+      "year": 1980,
+      "volume": 110,
+      "reporter": "Cal.App.3d",
+      "page": 640,
+      "pin": "657",
+      "raw": "Cortez v. Macias (1980) 110 Cal. App.3d 640, 657",
+      "span": [
+        66,
+        114
+      ],
+      "role": "sources",
+      "case_key": "110 Cal.App.3d 640"
+    },
+    {
+      "name": "Pearl v. City of Los Angeles",
+      "year": 2019,
+      "volume": 36,
+      "reporter": "Cal.App.5th",
+      "page": 475,
+      "pin": "486",
+      "raw": "Pearl v. City of Los Angeles (2019) 36 Cal. App.5th 475, 486",
+      "span": [
+        76,
+        136
+      ],
+      "role": "sources",
+      "case_key": "36 Cal.App.5th 475"
+    },
+    {
+      "name": "Palmer v. Ted Stevens Honda, Inc.",
+      "year": 1987,
+      "volume": 193,
+      "reporter": "Cal.App.3d",
+      "page": 530,
+      "pin": "536",
+      "raw": "Palmer v. Ted Stevens Honda, Inc. (1987) 193 Cal. App.3d 530, 536",
+      "span": [
+        123,
+        188
+      ],
+      "role": "sources",
+      "case_key": "193 Cal.App.3d 530"
+    },
+    {
+      "name": "Myers Building Industries, Ltd. v. Interface Technology, Inc.",
+      "year": 1993,
+      "volume": 13,
+      "reporter": "Cal.App.4th",
+      "page": 949,
+      "pin": "960",
+      "raw": "Myers Building Industries, Ltd. v. Interface Technology, Inc. (1993) 13 Cal. App.4th 949, 960",
+      "span": [
+        342,
+        435
+      ],
+      "role": "sources",
+      "case_key": "13 Cal.App.4th 949"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

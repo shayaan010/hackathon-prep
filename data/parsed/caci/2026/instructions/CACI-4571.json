@@ -1,0 +1,157 @@
+{
+  "id": "CACI-4571",
+  "edition": "2026",
+  "number": "4571",
+  "title": "Right to Repair Act—Damages",
+  "title_full": "Right to Repair Act—Damages (Civ. Code, § 944)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "CIV",
+    "section": "944",
+    "display": "Civil Code section 944",
+    "raw": "Civ. Code, § 944",
+    "span": [
+      0,
+      16
+    ]
+  },
+  "series": "4500",
+  "series_title": "Series 4500 Construction Law",
+  "page_start": 3239,
+  "page_end": 3240,
+  "instruction_text": "4571. Right to Repair Act–Damages (Civ. Code, §944)\nIf [ name of plaintiff ] proves any construction defects, [he/she/ nonbinary\npronoun] is entitled to recover only for the following:\na. The reasonable value of repairing the defect(s);\nb. The reasonable cost of repairing any damage caused by the\nrepair efforts;\nc. The reasonable cost of repairing and correcting any damage\nresulting from the failure of the home to meet the standards;\nd. The reasonable cost of removing and replacing any improper\nrepair made by [ name of defendant ];\ne. Reasonable relocation and storage expenses;\nf. Lost business income if the home was used as a principal place of\na business licensed to be operated from the home;\ng. Reasonable investigative costs for each defect proved;\nh. ( Specify any other costs or fees recoverable by contract or statute. )\n[[Name of plaintiff ]'s right to the reasonable value of repairing any defect\nis limited to the lesser of the cost of repair or the diminution in current\nvalue of the home caused by the defect.]",
+  "directions_for_use": "This instruction sets forth the damages recoverable in an action for construction\ndefects under the Right to Repair Act. (Civ. Code, §944.) Delete those that the\nplaintiff is not claiming.\nGive the optional last paragraph for any claims involving a detached single-family\nhome. The common-law personal use exception is preserved. (Civ. Code, §943(b).)",
+  "sources_and_authority": [
+    {
+      "raw": "Damages Recoverable Under the Right to Repair Act. Civil Code section 944.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "944",
+          "display": "Civil Code section 944",
+          "raw": "Civil Code section 944",
+          "span": [
+            51,
+            73
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The provisions of chapter 5 make explicit the intended avenues for recouping\neconomic losses, property damages, and personal injury damages. Section 944\ndeﬁnes the universe of damages that are recoverable in an action under the Act.\n(§944 ['If a claim for damages is made under this title, the homeowner is only\nentitled to damages for' a series of speciﬁed types of losses].) In turn, section\n943 makes an action under the Act the exclusive means of recovery for damages\nidentiﬁed in section 944 absent an express exception: 'Except as provided in this\ntitle, no other cause of action for a claim covered by this title or for damages\n1353\nrecoverable under Section 944 is allowed.' (§943, subd. (a).) In other words,\nsection 944 identiﬁes what damages may be recovered in an action under the\nAct, and section 943 establishes that such damages may only be recovered in an\naction under the Act, absent an express exception.\" ( McMillin Albany LLC v.\nSuperior Court (2018) 4 Cal. 5th 241, 251 [227 Cal. Rptr.3d 191, 408 P.3d 797].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "McMillin Albany LLC v. Superior Court",
+          "year": 2018,
+          "volume": 4,
+          "reporter": "Cal.5th",
+          "page": 241,
+          "pin": "251",
+          "raw": "McMillin Albany LLC v. Superior Court (2018) 4 Cal. 5th 241, 251",
+          "span": [
+            927,
+            991
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Insofar as section 944 allows recovery only for damages resulting from failure\n'of the home,' it is clear that 'home' is not limited to the structure where people\nreside, because section 942 states that, '[i]n order to make a claim for violation\nof the standards set forth in Chapter 2 (commencing with Section 896), a\nhomeowner need only demonstrate . . . that the home does not meet the\napplicable standard . . . .' As we have seen section 896 covers a multitude of\ndefects not only in the residence but also in improvements such as driveways,\nlandscaping, and damage to the lot, etc.\" ( Gillotti v. Stewart (2017) 11\nCal. App.5th 875, 897 [217 Cal. Rptr.3d 860], original italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Gillotti v. Stewart",
+          "year": 2017,
+          "volume": 11,
+          "reporter": "Cal.App.5th",
+          "page": 875,
+          "pin": "897",
+          "raw": "Gillotti v. Stewart (2017) 11 Cal. App.5th 875, 897",
+          "span": [
+            591,
+            642
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1312\n10 California Forms of Pleading and Practice, Ch. 104, Building Contracts , §104.43\n(Matthew Bender)\n40 California Forms of Pleading and Practice, Ch. 460, Products Liability, §460.11\n(Matthew Bender)\n12 California Real Estate Law and Practice, Ch. 441, Consumers' Remedies ,\n§441.69 (Matthew Bender)\nCACI No. 4571 CONSTRUCTION LAW\n1354",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "944",
+      "display": "Civil Code section 944",
+      "raw": "Civ. Code, § 944",
+      "span": [
+        0,
+        16
+      ],
+      "role": "title",
+      "statute_key": "CA/CIV/944"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "943",
+      "display": "Civil Code section 943",
+      "raw": "Civ. Code, §943(b)",
+      "span": [
+        331,
+        349
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/943"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "943",
+      "display": "Civil Code section 943(b)",
+      "raw": "Civ. Code, §943(b)",
+      "span": [
+        331,
+        349
+      ],
+      "subsection": "b",
+      "role": "directions",
+      "statute_key": "CA/CIV/943/b"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "McMillin Albany LLC v. Superior Court",
+      "year": 2018,
+      "volume": 4,
+      "reporter": "Cal.5th",
+      "page": 241,
+      "pin": "251",
+      "raw": "McMillin Albany LLC v. Superior Court (2018) 4 Cal. 5th 241, 251",
+      "span": [
+        927,
+        991
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.5th 241"
+    },
+    {
+      "name": "Gillotti v. Stewart",
+      "year": 2017,
+      "volume": 11,
+      "reporter": "Cal.App.5th",
+      "page": 875,
+      "pin": "897",
+      "raw": "Gillotti v. Stewart (2017) 11 Cal. App.5th 875, 897",
+      "span": [
+        591,
+        642
+      ],
+      "role": "sources",
+      "case_key": "11 Cal.App.5th 875"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

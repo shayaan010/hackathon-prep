@@ -1,0 +1,82 @@
+{
+  "id": "CACI-1224",
+  "edition": "2026",
+  "number": "1224",
+  "title": "Negligence—Negligence for Product Rental/Standard of Care",
+  "title_full": "Negligence—Negligence for Product Rental/Standard of Care",
+  "title_statute": null,
+  "series": "1200",
+  "series_title": "Series 1200 Products Liability",
+  "page_start": 857,
+  "page_end": 857,
+  "instruction_text": "1224. Negligence–Negligence for Product Rental/Standard of\nCare\n[A person who rents products to others for money is negligent if that\nperson fails to use reasonable care to:\n1. Inspect the products for defects;\n2. Make them safe for their intended use; and\n3. Adequately warn of any known dangers.]\n[or]\n[A person who lends products to others without charge only is required\nto use reasonable care to warn of known defects.]",
+  "directions_for_use": "Use this instruction in conjunction with CACI No. 1220, Negligence–Essential\nFactual Elements , and instead of CACI No. 1221, Negligence–Basic Standard of\nCare, in cases involving rentals.\nIf the case involves a product lent gratuitously for the mutual beneﬁt of the parties\n(e.g., to a prospective purchaser), the ﬁrst paragraph is applicable and the instruction\nneeds to be modiﬁed.\nIn a purely gratuitous lending case, if the object is a \"dangerous instrumentality\"\nthere may be a duty to conduct a reasonable inspection before lending. (See\nTierstein v. Licht (1959) 174 Cal. App.2d 835, 842 [345 P.2d 341].)",
+  "sources_and_authority": [
+    {
+      "raw": "Duties of Lessor of Personal Property. Civil Code section 1955.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1955",
+          "display": "Civil Code section 1955",
+          "raw": "Civil Code section 1955",
+          "span": [
+            39,
+            62
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "If a bailment is for hire, or provides a mutual beneﬁt, the bailor has a duty to\nthe bailee and to third persons to (1) warn of actually known defects and (2) to\nuse reasonable care to make an examination of the good before lending it \"in\norder to make certain that it [is] ﬁt for the use known to be intended.\" ( Tierstein,\nsupra, 174 Cal. App.2d at pp. 840–841.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "A bailment, otherwise gratuitous, where made to induce a purchase, has been\nconsidered sufficient to give rise to the same duty of reasonable care on the part\nof the bailor as an ordinary bailment for hire. This is regarded as a bailment for\nmutual beneﬁt. ( Tierstein, supra, 174 Cal. App.2d at p. 842.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Under either a negligence or an implied warranty theory, \"the essential inquiry\n. . . is whether [the defendants] made such inspection of their equipment as was\nnecessary to discharge their duty of reasonable care.\" ( McNeal v. Greenberg\n783",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1955",
+      "display": "Civil Code section 1955",
+      "raw": "Civil Code section 1955",
+      "span": [
+        39,
+        62
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1955"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "See Tierstein v. Licht",
+      "year": 1959,
+      "volume": 174,
+      "reporter": "Cal.App.2d",
+      "page": 835,
+      "pin": "842",
+      "raw": "See Tierstein v. Licht (1959) 174 Cal. App.2d 835, 842",
+      "span": [
+        541,
+        595
+      ],
+      "role": "directions",
+      "case_key": "174 Cal.App.2d 835"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:11+00:00"
+}

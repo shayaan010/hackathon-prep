@@ -1,0 +1,60 @@
+{
+  "id": "CACI-3505",
+  "edition": "2026",
+  "number": "3505",
+  "title": "Information Discovered after Date of Valuation",
+  "title_full": "Information Discovered after Date of Valuation",
+  "title_statute": null,
+  "series": "3500",
+  "series_title": "Series 3500 Eminent Domain",
+  "page_start": 2561,
+  "page_end": 2561,
+  "instruction_text": "3505. Information Discovered after Date of Valuation\nIn determining fair market value you must consider any condition that\naffects the value of the property if the condition existed on [ insert date of\nvaluation] but was discovered after that date.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"[W]hile evidence of a change in the condition of the property after the date of\nvaluation may not be admissible . . . , information about the condition of the\nproperty on the date of valuation which happens to be discovered after that date\nmust be considered. In effect, the parties are presumed to know all relevant\ninformation available at the time of trial, even if it could not reasonably have\nbeen discovered until after the date of valuation.\" ( San Diego Water Authority v.\nMireiter (1993) 18 Cal. App.4th 1808, 1814 [23 Cal. Rptr.2d 455].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "San Diego Water Authority v. Mireiter",
+          "year": 1993,
+          "volume": 18,
+          "reporter": "Cal.App.4th",
+          "page": 1808,
+          "pin": "1814",
+          "raw": "San Diego Water Authority v. Mireiter (1993) 18 Cal. App.4th 1808, 1814",
+          "span": [
+            453,
+            524
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The California statutory scheme and the overwhelming weight of authority\nsupports the conclusion that relevant factual discoveries up to and including the\ndate of trial must be taken into account, regardless of whether they inﬂate or\ndeﬂate the value of the property. Accordingly, the trial court erred in failing to\ninstruct the jury it was required to consider the newly discovered information in\ndetermining the compensation due defendants, and reversal is therefore\nrequired.\" ( San Diego County Water Authority, supra, 18 Cal. App.4th at pp.\n1817–1818.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "8 Witkin, Summary of California Law (11th ed. 2017) Constitutional Law, §1369\n1 Condemnation Practice in California (Cont.Ed.Bar 3d ed.) §4.23\n4 Nichols on Eminent Domain, Ch. 12A, Market V alue–Time of V aluation,\n§12A.01[7] (Matthew Bender)\n675",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "San Diego Water Authority v. Mireiter",
+      "year": 1993,
+      "volume": 18,
+      "reporter": "Cal.App.4th",
+      "page": 1808,
+      "pin": "1814",
+      "raw": "San Diego Water Authority v. Mireiter (1993) 18 Cal. App.4th 1808, 1814",
+      "span": [
+        453,
+        524
+      ],
+      "role": "sources",
+      "case_key": "18 Cal.App.4th 1808"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

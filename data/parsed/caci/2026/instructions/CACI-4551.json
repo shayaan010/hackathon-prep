@@ -1,0 +1,295 @@
+{
+  "id": "CACI-4551",
+  "edition": "2026",
+  "number": "4551",
+  "title": "Affirmative Defense—Statute of Limitations—Latent Construction Defect (Code Civ. Proc., § 337.15)",
+  "title_full": "Affirmative Defense—Statute of Limitations—Latent Construction Defect (Code Civ. Proc., § 337.15)",
+  "title_statute": null,
+  "series": "4500",
+  "series_title": "Series 4500 Construction Law",
+  "page_start": 3221,
+  "page_end": 3224,
+  "instruction_text": "4551. Affirmative Defense–Statute of Limitations–Latent\nConstruction Defect (Code Civ. Proc., §337.15)\n[Name of defendant ] contends that [ name of plaintiff ]'s lawsuit was not\nﬁled within the time set by law. To succeed on this defense, [ name of\ndefendant] must prove that the date on which the [construction project/\nsurvey of real property/[ specify project, e.g., roof replacement ]] was\nsubstantially complete was more than 10 years before [ insert date ], the\ndate on which this action was ﬁled.",
+  "directions_for_use": "Give this instruction if the defendant asserts the running of the statute of limitations\nin Code of Civil Procedure section 337.15 as a defense. This section provides a 10-\nyear outside limitation period for harm caused by a latent construction defect\nregardless of delayed discovery.\nThe jury may also be instructed on the limitations periods for the particular theories\nof recovery alleged. (See, e.g., Code Civ. Proc., §§338 [three years for injury to\nreal property], 337 [four years for breach of written contract].) However, for latent\ndefects, delayed discovery (see CACI No. 455, Statute of Limitations–Delayed\nDiscovery) generally defeats that otherwise applicable statute.\nThe most likely question of fact for the jury is the date of substantial completion.\nThe statute provides four possible events, the earliest of which may constitute\nsubstantial completion of an improvement. (See Code Civ. Proc., §337.15(g).) The\nlatest date is one year from cessation of all work on the improvement. However,\nsubstantial completion of an improvement may occur before any of these dates. (See\nNelson v. Gorian & Assocs. (1998) 61 Cal. App.4th 93, 97 [71 Cal. Rptr.2d 345].)\nThe statute of limitations may start to run at a later date against the developer if the\ndevelopment includes many improvements. ( Id. at p. 99; cf. Schwetz v. Minnerly\n(1990) 220 Cal. App.3d 296, 298 [269 Cal. Rptr. 417] [\"developer\" can be an\n\"improver\" and a \"development\" is a \"work of improvement\" for purposes of\nsubsection (g)].) For further discussion of substantial completion, see the Directions\nfor Use to CACI No. 4532, Owner' s Damages for Breach of Construction\nContract–Liquidated Damages Under Contract for Delay . See also CACI No.\n4524, Contractor' s Claim for Compensation Due Under Contract–Substantial\nPerformance.\nCode of Civil Procedure section 337.15 does not apply to construction defect claims\nwithin the Right to Repair Act (Civ. Code, §895 et seq.). (Civ. Code, §941(d).) The\nact applies to all claims for property damage or economic loss except for breach of\ncontract, fraud, personal injury, or violation of a statute. (Civ. Code, §943(a); see\nMcMillin Albany LLC v. Superior Court (2018) 4 Cal. 5th 241, 249 [227 Cal. Rptr.3d\n1335\n191, 408 P.3d 797]; see also Civ. Code, §941 [statute of limitations under Right to\nRepair Act].)",
+  "sources_and_authority": [
+    {
+      "raw": "Statute of Limitations: Latent Defects. Code of Civil Procedure section 337.15.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The purpose of section 337.15 has been stated as 'to protect developers of real\nestate against liability extending indeﬁnitely into the future.' . . . [We have]\nnoted that '[a] contractor is in the business of constructing improvements and\nmust devote his capital to that end; the need to provide reserves against an\nuncertain liability extending indeﬁnitely into the future could seriously impinge\nupon the conduct of his enterprise.' \" ( Martinez v. Traubner (1982) 32 Cal. 3d\n755, 760 [187 Cal. Rptr. 251, 653 P.2d 1046], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Martinez v. Traubner",
+          "year": 1982,
+          "volume": 32,
+          "reporter": "Cal.3d",
+          "page": 755,
+          "pin": "760",
+          "raw": "Martinez v. Traubner (1982) 32 Cal. 3d 755, 760",
+          "span": [
+            441,
+            488
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A 'latent' construction defect is one that is 'not apparent by reasonable\ninspection.' As to a latent defect that is alleged in the context of the challenged\ncauses of action here–negligence, breach of warranty, and breach of\ncontract–three statutes of limitations are in play: sections 338, 337 and 337.15.\n'The interplay between these [three] statutes sets up a two-step process: (1)\nactions for a latent defect must be ﬁled within three years (§338 [injury to real\nproperty]) or four years (§337 [breach of written contract]) of discovery, but (2)\nin any event must be ﬁled within ten years (§337.15) of substantial\ncompletion.' \"( Creekridge Townhome Owners Assn., Inc. v. C. Scott Whitten, Inc.\n(2009) 177 Cal. App.4th 251, 257–258 [99 Cal. Rptr.3d 258], internal citations\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Creekridge Townhome Owners Assn., Inc. v. C. Scott Whitten, Inc.",
+          "year": 2009,
+          "volume": 177,
+          "reporter": "Cal.App.4th",
+          "page": 251,
+          "pin": "257–258",
+          "raw": "Creekridge Townhome Owners Assn., Inc. v. C. Scott Whitten, Inc. (2009) 177 Cal. App.4th 251, 257–258",
+          "span": [
+            636,
+            737
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The test to determine whether a construction defect is patent is an objective test\nthat asks 'whether the average consumer, during the course of a reasonable\ninspection, would discover the defect. The test assumes that an inspection takes\nplace.' This test generally presents a question of fact, unless the defect is\nobvious in the context of common experience; then a determination of patent\ndefect may be made as a matter of law (including on summary judgment).\"\n(Creekridge Townhome Owners Assn., Inc. , supra, 177 Cal. App.4th at p. 256,\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Our reading of the express words of section 337.15, our giving consideration to\nits legislative history, and harmonizing that section in the context of the statutory\nframework as a whole, leads us to conclude that section 337.15 does not limit\nthe time within which direct actions for personal injury damages or wrongful\ndeath may be brought against the persons speciﬁed in the statute.\" ( Martinez,\nsupra, 32 Cal. 3d at p. 759.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The 10-year period commences to run in respect to a person who has\ncontributed towards 'an improvement' when such improvement has been\nsubstantially completed irrespective of whether or not the improvement is part of\na development.\" ( Liptak v. Diane Apartments, Inc. (1980) 109 Cal. App.3d 762,\n772 [167 Cal. Rptr. 440].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Liptak v. Diane Apartments, Inc.",
+          "year": 1980,
+          "volume": 109,
+          "reporter": "Cal.App.3d",
+          "page": 762,
+          "pin": "772",
+          "raw": "Liptak v. Diane Apartments, Inc. (1980) 109 Cal. App.3d 762, 772",
+          "span": [
+            236,
+            300
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In 1981, the Legislature codiﬁed the holding in Liptak by adding subdivision\nCACI No. 4551 CONSTRUCTION LAW\n1336\n(g) to section 337.15. 'The Senate Committee on Judiciary and the Senate\nRepublican Caucus digests for the bill that became Code of Civil Procedure\nsection 337.15, subdivision (g) state in pertinent part: \" 'In [ Liptak], the [C]ourt\nof [A]ppeal held that with respect to a developer, the ten-year limitation period\ndoes not commence until the development is substantially completed. [¶] With\nrespect to a person who has contributed to an improvement on the developed\nproperty, the court held that the period commences when that particular\nimprovement has been substantially completed, regardless of the completion time\nof the development itself. [¶] AB 605 would codify the Liptak holding on these\nissues.' \" [Citation.]' \" ( Nelson, supra, 61 Cal. App.4th at pp. 96–97, internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Turning to the plain meaning of the statute as well as the legislative intent of\nenactment of section 337.15, subdivision (g), it is clear the intent was to deﬁne\nwhat event triggered the 10-year period and not what label is used to deﬁne the\nperson who performed the work of improvement. The particular development or\nwork of improvement can be one 'improvement' such as grading. It can also be\na 'particular development,' i.e., a completed structure or dwelling. When the\nwork of improvement meets one of the four criteria of section 337.15,\nsubdivision (g), the 'improver'–whether an architect, engineer, subcontractor,\ncontractor, or developer–is entitled to raise the provisions of section 337.15,\nsubdivision (g), as a bar to an action which seeks damages for latent defects\nafter the 10-year period has passed.\" ( Schwetz, supra, 220 Cal. App.3d at p. 308.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Appellants claim that the 10-year period is calculated pursuant to section\n337.15, subdivision (g)(1)–(4), which describes four events: (1) a ﬁnal\ninspection, (2) the notice of completion, (3) use or occupancy of the property, or\n(4) termination or cessation of work for one year. Subdivision (g), however,\nstates that the 10-year period ' shall commence upon substantial completion of\nthe improvement, but not later than' the occurrence of any one of the four events\ndescribed in subdivision (g)(1) through (g)(4). . . . [¶] The trial court correctly\nruled that the notice of completion date (§337.15, subd. (g)(2)) did not control if\nthe improvement was substantially completed at an earlier date.\" ( Nelson, supra,\n61 Cal. App.4th at p. 97, original italics.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'As used in section 337.15 \"an improvement\" is in the singular and refers\nseparately to each of the individual changes or additions to real property that\nqualiﬁes as an \"improvement\" irrespective of whether the change or addition is\ngrading and ﬁlling, putting in curbs and streets, laying storm drains or of other\nnature.' \" ( Nelson, supra, 61 Cal. App.4th at p. 97.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The purpose of section 337.15 and its deﬁnition of the 'substantial completion'\nthat begins the running of the 10-year period make clear that the statute's\nprotection applies to claims for damage due to defects in how an improvement\nwas designed and constructed, not to claims based on how the improvement was\nused after its construction is complete and independent of the manner in which it\nwas designed and constructed.\" ( Estuary Owners Assn. v. Shell Oil Co. (2017)\n13 Cal. App.5th 899, 915 [221 Cal. Rptr.3d 190], original italics.)\nCONSTRUCTION LAW CACI No. 4551\n1337",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Estuary Owners Assn. v. Shell Oil Co.",
+          "year": 2017,
+          "volume": 13,
+          "reporter": "Cal.App.5th",
+          "page": 899,
+          "pin": "915",
+          "raw": "Estuary Owners Assn. v. Shell Oil Co. (2017) 13 Cal. App.5th 899, 915",
+          "span": [
+            426,
+            495
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he [Right to Repair Act] leaves the common law undisturbed in some areas,\nexpressly preserving actions for breach of contract, fraud, and personal injury. In\nother areas, however, the Legislature's intent to reshape the rules governing\nconstruction defect actions is patent. Where common law principles had\nforeclosed recovery for defects in the absence of property damage or personal\ninjury the Act supplies a new statutory cause of action for purely economic loss.\nAnd, of direct relevance here, even in some areas where the common law had\nsupplied a remedy for construction defects resulting in property damage but not\npersonal injury, the text and legislative history reﬂect a clear and unequivocal\nintent to supplant common law negligence and strict product liability actions\nwith a statutory claim under the Act.\" ( McMillin Albany LLC, supra, 4 Cal. 5th at\np. 249, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "4 Witkin, California Procedure (6th ed. 2019) Actions, §§659–667\n12 California Real Estate Law and Practice, Ch. 441, Consumer' s Remedies ,\n§441.29 (Matthew Bender)\n10 California Forms of Pleading and Practice, Ch. 104, Building Contracts ,\n§§104.25[4], 104.43, 104.267 (Matthew Bender)\n19 California Points and Authorities, Ch. 190, Products Liability, §190.248\n(Matthew Bender)\nCACI No. 4551 CONSTRUCTION LAW\n1338",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "895",
+      "display": "Civil Code section 895",
+      "raw": "Civ. Code, §895",
+      "span": [
+        1924,
+        1939
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/895"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "941",
+      "display": "Civil Code section 941",
+      "raw": "Civ. Code, §941(d)",
+      "span": [
+        1951,
+        1969
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/941"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "941",
+      "display": "Civil Code section 941(d)",
+      "raw": "Civ. Code, §941(d)",
+      "span": [
+        1951,
+        1969
+      ],
+      "subsection": "d",
+      "role": "directions",
+      "statute_key": "CA/CIV/941/d"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "943",
+      "display": "Civil Code section 943",
+      "raw": "Civ. Code, §943(a)",
+      "span": [
+        2122,
+        2140
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/943"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "943",
+      "display": "Civil Code section 943(a)",
+      "raw": "Civ. Code, §943(a)",
+      "span": [
+        2122,
+        2140
+      ],
+      "subsection": "a",
+      "role": "directions",
+      "statute_key": "CA/CIV/943/a"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Martinez v. Traubner",
+      "year": 1982,
+      "volume": 32,
+      "reporter": "Cal.3d",
+      "page": 755,
+      "pin": "760",
+      "raw": "Martinez v. Traubner (1982) 32 Cal. 3d 755, 760",
+      "span": [
+        441,
+        488
+      ],
+      "role": "sources",
+      "case_key": "32 Cal.3d 755"
+    },
+    {
+      "name": "Creekridge Townhome Owners Assn., Inc. v. C. Scott Whitten, Inc.",
+      "year": 2009,
+      "volume": 177,
+      "reporter": "Cal.App.4th",
+      "page": 251,
+      "pin": "257–258",
+      "raw": "Creekridge Townhome Owners Assn., Inc. v. C. Scott Whitten, Inc. (2009) 177 Cal. App.4th 251, 257–258",
+      "span": [
+        636,
+        737
+      ],
+      "role": "sources",
+      "case_key": "177 Cal.App.4th 251"
+    },
+    {
+      "name": "Liptak v. Diane Apartments, Inc.",
+      "year": 1980,
+      "volume": 109,
+      "reporter": "Cal.App.3d",
+      "page": 762,
+      "pin": "772",
+      "raw": "Liptak v. Diane Apartments, Inc. (1980) 109 Cal. App.3d 762, 772",
+      "span": [
+        236,
+        300
+      ],
+      "role": "sources",
+      "case_key": "109 Cal.App.3d 762"
+    },
+    {
+      "name": "Estuary Owners Assn. v. Shell Oil Co.",
+      "year": 2017,
+      "volume": 13,
+      "reporter": "Cal.App.5th",
+      "page": 899,
+      "pin": "915",
+      "raw": "Estuary Owners Assn. v. Shell Oil Co. (2017) 13 Cal. App.5th 899, 915",
+      "span": [
+        426,
+        495
+      ],
+      "role": "sources",
+      "case_key": "13 Cal.App.5th 899"
+    },
+    {
+      "name": "Schwetz v. Minnerly",
+      "year": 1990,
+      "volume": 220,
+      "reporter": "Cal.App.3d",
+      "page": 296,
+      "pin": "298",
+      "raw": "Schwetz v. Minnerly (1990) 220 Cal. App.3d 296, 298",
+      "span": [
+        1321,
+        1372
+      ],
+      "role": "directions",
+      "case_key": "220 Cal.App.3d 296"
+    },
+    {
+      "name": "McMillin Albany LLC v. Superior Court",
+      "year": 2018,
+      "volume": 4,
+      "reporter": "Cal.5th",
+      "page": 241,
+      "pin": "249",
+      "raw": "McMillin Albany LLC v. Superior Court (2018) 4 Cal. 5th 241, 249",
+      "span": [
+        2146,
+        2210
+      ],
+      "role": "directions",
+      "case_key": "4 Cal.5th 241"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

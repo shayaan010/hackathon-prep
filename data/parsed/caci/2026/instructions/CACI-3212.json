@@ -1,0 +1,186 @@
+{
+  "id": "CACI-3212",
+  "edition": "2026",
+  "number": "3212",
+  "title": "Duration of Implied Warranty",
+  "title_full": "Duration of Implied Warranty",
+  "title_statute": null,
+  "series": "3200",
+  "series_title": "Series 3200 Song-Beverly Consumer Warranty Act",
+  "page_start": 2385,
+  "page_end": 2385,
+  "instruction_text": "3212. Duration of Implied Warranty\nAn implied warranty is in effect for one year after the sale of the\n[consumer good ], unless a shorter period is stated in a writing that comes\nwith the [ consumer good ], provided that the shorter period is reasonable.\nIn no event will an implied warranty be in effect for less than 60 days.\n[The time period of an implied warranty is lengthened by the number of\ndays that the [ consumer good ] was made available by [ name of plaintiff ]\nfor repairs under the warranty, including any delays caused by\ncircumstances beyond [ name of plaintiff ]'s control].",
+  "directions_for_use": "If the consumer goods at issue are not new, the instruction must be modiﬁed to\nreﬂect the shorter implied warranty period provided in Civil Code section 1795.5(c)\n(i.e., no less than 30 days but no more than three months).",
+  "sources_and_authority": [
+    {
+      "raw": "Duration of Implied Warranties. Civil Code section 1791.1(c).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1791.1",
+          "display": "Civil Code section 1791.1",
+          "raw": "Civil Code section 1791.1(c)",
+          "span": [
+            32,
+            60
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1791.1",
+          "display": "Civil Code section 1791.1(c)",
+          "raw": "Civil Code section 1791.1(c)",
+          "span": [
+            32,
+            60
+          ],
+          "subsection": "c"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Tolling of Warranty Period for Nonconforming Goods. Civil Code section\n1795.6.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1795.6",
+          "display": "Civil Code section 1795.6",
+          "raw": "Civil Code section\n1795.6",
+          "span": [
+            52,
+            77
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Distributor or Seller of Used Consumer Goods. Civil Code section 1795.5.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1795.5",
+          "display": "Civil Code section 1795.5",
+          "raw": "Civil Code section 1795.5",
+          "span": [
+            46,
+            71
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"On appeal, [defendants] concede that the duration provision is not a statute of\nlimitations and that the applicable statute of limitations is four years. They argue,\nhowever, that the judgment can be affirmed on other grounds. Among other\narguments, they contend that the duration provision of the Song-Beverly Act\nshould be interpreted as barring an action for breach of the implied warranty of\nmerchantability when the purchaser fails to discover and report the defect to the\nseller within the time period speciﬁed in that provision. We reject this argument\nbecause the plain language of the statute, particularly in light of the consumer\nprotection policies supporting the Song-Beverly Act, make clear that the statute\nmerely creates a limited, prospective duration for the implied warranty of\nmerchantability; it does not create a deadline for discovering latent defects or for\ngiving notice to the seller.\" ( Mexia v. Rinker Boat Co., Inc. (2009) 174\nCal. App.4th 1297, 1301 [95 Cal. Rptr.3d 285].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Mexia v. Rinker Boat Co., Inc.",
+          "year": 2009,
+          "volume": 174,
+          "reporter": "Cal.App.4th",
+          "page": 1297,
+          "pin": "1301",
+          "raw": "Mexia v. Rinker Boat Co., Inc. (2009) 174 Cal. App.4th 1297, 1301",
+          "span": [
+            915,
+            980
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "4 Witkin, Summary of California Law (11th ed. 2017) Sales, §335\n1 California UCC Sales & Leases (Cont.Ed.Bar) Warranties, §3.17\n44 California Forms of Pleading and Practice, Ch. 502, Sales: Warranties,\n§§502.51–502.52 (Matthew Bender)\n499",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1791.1",
+      "display": "Civil Code section 1791.1",
+      "raw": "Civil Code section 1791.1(c)",
+      "span": [
+        32,
+        60
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1791.1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1791.1",
+      "display": "Civil Code section 1791.1(c)",
+      "raw": "Civil Code section 1791.1(c)",
+      "span": [
+        32,
+        60
+      ],
+      "subsection": "c",
+      "role": "sources",
+      "statute_key": "CA/CIV/1791.1/c"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1795.6",
+      "display": "Civil Code section 1795.6",
+      "raw": "Civil Code section\n1795.6",
+      "span": [
+        52,
+        77
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1795.6"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1795.5",
+      "display": "Civil Code section 1795.5",
+      "raw": "Civil Code section 1795.5",
+      "span": [
+        46,
+        71
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1795.5"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1795.5",
+      "display": "Civil Code section 1795.5(c)",
+      "raw": "Civil Code section 1795.5(c)",
+      "span": [
+        134,
+        162
+      ],
+      "subsection": "c",
+      "role": "directions",
+      "statute_key": "CA/CIV/1795.5/c"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Mexia v. Rinker Boat Co., Inc.",
+      "year": 2009,
+      "volume": 174,
+      "reporter": "Cal.App.4th",
+      "page": 1297,
+      "pin": "1301",
+      "raw": "Mexia v. Rinker Boat Co., Inc. (2009) 174 Cal. App.4th 1297, 1301",
+      "span": [
+        915,
+        980
+      ],
+      "role": "sources",
+      "case_key": "174 Cal.App.4th 1297"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

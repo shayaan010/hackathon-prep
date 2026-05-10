@@ -1,0 +1,94 @@
+{
+  "id": "CACI-210",
+  "edition": "2026",
+  "number": "210",
+  "title": "Requests for Admissions",
+  "title_full": "Requests for Admissions",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 131,
+  "page_end": 131,
+  "instruction_text": "210. Requests for Admissions\nBefore trial, each party has the right to ask another party to admit in\nwriting that certain matters are true. If the other party admits those\nmatters, you must accept them as true. No further evidence is required\nto prove them.\n[However, these matters must be considered true only as they apply to\nthe party who admitted they were true.]",
+  "directions_for_use": "The bracketed phrase should be given if there are multiple parties.",
+  "sources_and_authority": [
+    {
+      "raw": "Requests for Admission. Code of Civil Procedure section 2033.010.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"As Professor Hogan points out, '[t]he request for admission differs\nfundamentally from the other ﬁve discovery tools (depositions, interrogatories,\ninspection demands, medical examinations, and expert witness exchanges). These\nother devices have as their main thrust the uncovering of factual data that may\nbe used in proving things at trial. The request for admission looks in the\nopposite direction. It is a device that seeks to eliminate the need for proof in\ncertain areas of the case.' \" ( Brigante v. Huang (1993) 20 Cal. App.4th 1569,\n1577 [25 Cal. Rptr.2d 354] (quoting 1 Hogan, Modern California Discovery (4th\ned. 1988) §9.1, p. 533).)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Brigante v. Huang",
+          "year": 1993,
+          "volume": 20,
+          "reporter": "Cal.App.4th",
+          "page": 1569,
+          "pin": "1577",
+          "raw": "Brigante v. Huang (1993) 20 Cal. App.4th 1569, 1577",
+          "span": [
+            496,
+            547
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "All parties to the action may rely on admissions. (See Swedberg v. Christiana\nCommunity Builders (1985) 175 Cal. App.3d 138, 143 [220 Cal. Rptr. 544].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "See Swedberg v. Christiana Community Builders",
+          "year": 1985,
+          "volume": 175,
+          "reporter": "Cal.App.3d",
+          "page": 138,
+          "pin": "143",
+          "raw": "See Swedberg v. Christiana Community Builders (1985) 175 Cal. App.3d 138, 143",
+          "span": [
+            51,
+            128
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "2 Witkin, California Evidence (5th ed. 2012) Discovery, §§162, 172, 182\n1A California Trial Guide, Unit 20, Procedural Rules for Presentation of Evidence ,\n§20.51 (Matthew Bender)\n16 California Forms of Pleading and Practice, Ch. 196, Discovery: Requests for\nAdmissions, §196.19 (Matthew Bender)\n2 California Pretrial Civil Procedure Practice Guide: The Wagstaffe Group, Ch. 44,\nRequests for Admission , §44-I\n57",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Brigante v. Huang",
+      "year": 1993,
+      "volume": 20,
+      "reporter": "Cal.App.4th",
+      "page": 1569,
+      "pin": "1577",
+      "raw": "Brigante v. Huang (1993) 20 Cal. App.4th 1569, 1577",
+      "span": [
+        496,
+        547
+      ],
+      "role": "sources",
+      "case_key": "20 Cal.App.4th 1569"
+    },
+    {
+      "name": "See Swedberg v. Christiana Community Builders",
+      "year": 1985,
+      "volume": 175,
+      "reporter": "Cal.App.3d",
+      "page": 138,
+      "pin": "143",
+      "raw": "See Swedberg v. Christiana Community Builders (1985) 175 Cal. App.3d 138, 143",
+      "span": [
+        51,
+        128
+      ],
+      "role": "sources",
+      "case_key": "175 Cal.App.3d 138"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

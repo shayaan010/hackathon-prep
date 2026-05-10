@@ -1,0 +1,89 @@
+{
+  "id": "CACI-1125",
+  "edition": "2026",
+  "number": "1125",
+  "title": "Conditions on Adjacent Property",
+  "title_full": "Conditions on Adjacent Property",
+  "title_statute": null,
+  "series": "1100",
+  "series_title": "Series 1100 Dangerous Condition of Public Property",
+  "page_start": 795,
+  "page_end": 796,
+  "instruction_text": "1125. Conditions on Adjacent Property\n[Name of public entity defendant ]'s property may be considered dangerous\nif [a] condition[s] on adjacent property contribute[s] to exposing those\nusing [ name of public entity defendant ]'s property to a substantial risk of\ninjury.\n[Name of plaintiff ] claims that the following condition[s] on adjacent\nproperty contributed to making [ name of public entity defendant ]'s\nproperty dangerous: [ specify]. Y ou should consider [this/these]\ncondition[s] in deciding whether [ name of public entity defendant ]'s\nproperty was in a dangerous condition.",
+  "directions_for_use": "Give this instruction if the plaintiff claims that conditions on property adjacent to\nthe public property that is alleged to be dangerous contributed to making the public\nproperty dangerous. This instruction should be given with, and not instead of, the\napplicable basic instructions for dangerous conditions on public property (see CACI\nNos. 1100 through 1103).\nThis instruction is for use when a plaintiff's claim involves conditions on property\nadjacent to the public property. A different instruction will be required if a\ndangerous condition on public property creates a substantial risk of injury to one\nusing adjacent property.",
+  "sources_and_authority": [
+    {
+      "raw": "\"A California Law Revision Commission comment accompanying the statute's\n1963 enactment expands on the relationship between public property and\nadjacent property with regard to dangerous conditions: ' \"Adjacent property\" as\nused in the deﬁnition of \"dangerous condition\" refers to the area that is exposed\nto the risk created by a dangerous condition of the public property. . . . [¶] . . .\nA public entity may be liable only for dangerous conditions of its own property.\nBut its own property may be considered dangerous if it creates a substantial risk\nof injury to adjacent property or to persons on adjacent property; and its own\nproperty may be considered dangerous if a condition on the adjacent property\nexposes those using the public property to a substantial risk of injury.' \"\n(Bonanno v. Central Contra Costa Transit Authority (2003) 30 Cal. 4th 139,\n147–148 [132 Cal. Rptr.2d 341, 65 P.3d 807].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bonanno v. Central Contra Costa Transit Authority",
+          "year": 2003,
+          "volume": 30,
+          "reporter": "Cal.4th",
+          "page": 139,
+          "pin": "147–148",
+          "raw": "Bonanno v. Central Contra Costa Transit Authority (2003) 30 Cal. 4th 139, 147–148",
+          "span": [
+            787,
+            868
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The third and fourth sentences of the City's '[d]esign of the [d]riveway'\ninstruction improperly told the jury that it could not 'rely on' elements of the\ndriveway, including 'the placement of the stop sign, the left turn pocket, and the\npresence of the pink cement' in deciding whether 'a dangerous condition\nexisted.' This was legally incorrect, and it directly conﬂicted with another\n721\ninstruction given to the jury, which told it that the City's 'property may be\nconsidered dangerous if a condition on adjacent property, such as the pink\nstamped concrete or the location of the stop sign, exposes those using the public\nproperty to a substantial risk of injury in conjunction with the adjacent property.'\nGiving the jury these two conﬂicting instructions could not have been anything\nbut hopelessly confusing to the jury.\" ( Guernsey v. City of Salinas (2018) 30\nCal. App.5th 269, 281–282 [241 Cal. Rptr.3d 335].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Guernsey v. City of Salinas",
+          "year": 2018,
+          "volume": 30,
+          "reporter": "Cal.App.5th",
+          "page": 269,
+          "pin": "281–282",
+          "raw": "Guernsey v. City of Salinas (2018) 30 Cal. App.5th 269, 281–282",
+          "span": [
+            832,
+            895
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§311, 321 et seq.\n5 Levy et al., California Torts, Ch. 61, Tort Claims Against Public Entities and\nEmployees, §61.01 et seq. (Matthew Bender)\n40 California Forms of Pleading and Practice, Ch. 464, Public Entities and Officers,\n§464.84 (Matthew Bender)\n19A California Points and Authorities, Ch. 196, Public Entities, §196.213 (Matthew\nBender)\nCACI No. 1125 DANGEROUS CONDITION OF PUBLIC PROPERTY\n722",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Bonanno v. Central Contra Costa Transit Authority",
+      "year": 2003,
+      "volume": 30,
+      "reporter": "Cal.4th",
+      "page": 139,
+      "pin": "147–148",
+      "raw": "Bonanno v. Central Contra Costa Transit Authority (2003) 30 Cal. 4th 139, 147–148",
+      "span": [
+        787,
+        868
+      ],
+      "role": "sources",
+      "case_key": "30 Cal.4th 139"
+    },
+    {
+      "name": "Guernsey v. City of Salinas",
+      "year": 2018,
+      "volume": 30,
+      "reporter": "Cal.App.5th",
+      "page": 269,
+      "pin": "281–282",
+      "raw": "Guernsey v. City of Salinas (2018) 30 Cal. App.5th 269, 281–282",
+      "span": [
+        832,
+        895
+      ],
+      "role": "sources",
+      "case_key": "30 Cal.App.5th 269"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:11+00:00"
+}

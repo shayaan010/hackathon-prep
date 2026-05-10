@@ -1,0 +1,94 @@
+{
+  "id": "CACI-550",
+  "edition": "2026",
+  "number": "550",
+  "title": "Affirmative Defense—Plaintiff Would Have Consented",
+  "title_full": "Affirmative Defense—Plaintiff Would Have Consented",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 565,
+  "page_end": 566,
+  "instruction_text": "550. Affirmative Defense–Plaintiff Would Have Consented\n[Name of defendant ] claims that [he/she/ nonbinary pronoun] is not\nresponsible for [ name of plaintiff ]'s harm because [ name of plaintiff ] would\nhave consented to the procedure, even if [he/she/ nonbinary pronoun] had\nbeen informed of the risks. To establish this defense, [ name of defendant ]\nmust prove that had [ name of plaintiff ] been adequately informed about\nthe risks of the [ insert medical procedure ], [he/she/ nonbinary pronoun]\nwould have consented, even if a reasonable person in [ name of plaintiff ]'s\nposition might not have consented.",
+  "directions_for_use": "Give this instruction if the defendant asserts as an affirmative defense that the\nplaintiff would have consented (and thereby would have suffered the same harm)\nhad the plaintiff been informed of the risks. This instruction can be modiﬁed to\ncover \"informed refusal\" cases by redrafting it to state, in substance, that even if the\nplaintiff had known of the risks of refusal, the plaintiff still would have refused the\ntest.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Whenever appropriate, the court should instruct the jury on the defenses\navailable to a doctor who has failed to make the disclosure required by law.\"\n(Cobbs v. Grant (1972) 8 Cal. 3d 229, 245 [104 Cal. Rptr. 505, 502 P.2d 1].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cobbs v. Grant",
+          "year": 1972,
+          "volume": 8,
+          "reporter": "Cal.3d",
+          "page": 229,
+          "pin": "245",
+          "raw": "Cobbs v. Grant (1972) 8 Cal. 3d 229, 245",
+          "span": [
+            153,
+            193
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The patient-plaintiff may testify on this subject but the issue extends beyond his\ncredibility. Since at the time of trial the uncommunicated hazard has\nmaterialized, it would be surprising if the patient-plaintiff did not claim that had\nhe been informed of the dangers he would have declined treatment. Subjectively\nhe may believe so, with the 20/20 vision of hindsight, but we doubt that justice\nwill be served by placing the physician in jeopardy of the patient's bitterness and\ndisillusionment. Thus an objective test is preferable: i.e., what would a prudent\nperson in the patient's position have decided if adequately informed of all\nsigniﬁcant perils.\" ( Cobbs, supra , 8 Cal. 3d at p. 245.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The prudent person test for causation was established to protect defendant\nphysicians from the unfairness of having a jury consider the issue of proximate\ncause with the beneﬁt of the '20/20 vision of hindsight . . .' This standard\nshould not be employed to prevent a physician from raising the defense that\neven given adequate disclosure the injured patient would have made the same\ndecision, regardless of whether a reasonably prudent person would have decided\ndifferently if adequately informed.\" ( Truman v. Thomas (1980) 27 Cal. 3d 285,\n294 fn. 5 [165 Cal. Rptr. 308, 611 P.2d 902].)\n491",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Truman v. Thomas",
+          "year": 1980,
+          "volume": 27,
+          "reporter": "Cal.3d",
+          "page": 285,
+          "pin": "294",
+          "raw": "Truman v. Thomas (1980) 27 Cal. 3d 285, 294",
+          "span": [
+            503,
+            546
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§466, 469\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §9.11\n3 Levy et al., California Torts, Ch. 31, Liability of Physicians and Other Medical\nPractitioners, §31.14 (Matthew Bender)\n36 California Forms of Pleading and Practice, Ch. 415, Physicians: Medical\nMalpractice, §415.13 (Matthew Bender)\nCACI No. 550 MEDICAL NEGLIGENCE\n492",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Cobbs v. Grant",
+      "year": 1972,
+      "volume": 8,
+      "reporter": "Cal.3d",
+      "page": 229,
+      "pin": "245",
+      "raw": "Cobbs v. Grant (1972) 8 Cal. 3d 229, 245",
+      "span": [
+        153,
+        193
+      ],
+      "role": "sources",
+      "case_key": "8 Cal.3d 229"
+    },
+    {
+      "name": "Truman v. Thomas",
+      "year": 1980,
+      "volume": 27,
+      "reporter": "Cal.3d",
+      "page": 285,
+      "pin": "294",
+      "raw": "Truman v. Thomas (1980) 27 Cal. 3d 285, 294",
+      "span": [
+        503,
+        546
+      ],
+      "role": "sources",
+      "case_key": "27 Cal.3d 285"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

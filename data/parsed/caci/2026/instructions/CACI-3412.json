@@ -1,0 +1,99 @@
+{
+  "id": "CACI-3412",
+  "edition": "2026",
+  "number": "3412",
+  "title": "Rule of Reason—“Market Power” Explained",
+  "title_full": "Rule of Reason—“Market Power” Explained",
+  "title_statute": null,
+  "series": "3400",
+  "series_title": "Series 3400 Cartwright Act",
+  "page_start": 2506,
+  "page_end": 2507,
+  "instruction_text": "3412. Rule of Reason–\"Market Power\" Explained\nMarket power is the ability to increase prices or reduce output without\nlosing market share. The higher a seller's market share, the more likely\nit has market power.\nIn deciding whether a seller has market power, you should consider how\ndifficult it is for a potential competitor to successfully enter the market.\nThe more difficult it is to successfully enter a market, the more likely a\nseller has market power within that market. Market power is less likely\nto exist if it is not difficult for potential competitors to enter a market\nsuccessfully.\nEach market has two components: a product market and a geographic\nmarket.",
+  "directions_for_use": "See instructions that follow explaining the concepts of product market and\ngeographic market: CACI Nos. 3413, Rule of Reason–\"Product Market\"\nExplained, and 3414, Rule of Reason–\"Geographic Market\" Explained.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Proving that a restraint has anticompetitive effects often requires the plaintiff to\n' \"delineate a relevant market and show that the defendant plays enough of a\nrole in that market to impair competition signiﬁcantly,\" ' i.e., has market power.\"\n(In re Cipro Cases I & II (2015) 61 Cal. 4th 116, 157 [187 Cal. Rptr.3d 632, 348\nP.3d 845].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'To meet his initial burden in establishing that the practice is an unreasonable\nrestraint of trade, plaintiff must show that the activity is the type that restrains\ntrade and that the restraint is likely to be of signiﬁcant magnitude . . . .\nOrdinarily, a plaintiff to do this must delineate a relevant market and show that\nthe defendant plays enough of a role in that market to impair competition\nsigniﬁcantly.' \" ( Roth v. Rhodes (1994) 25 Cal. App.4th 530, 542 [30 Cal. Rptr.2d\n706], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Roth v. Rhodes",
+          "year": 1994,
+          "volume": 25,
+          "reporter": "Cal.App.4th",
+          "page": 530,
+          "pin": "542",
+          "raw": "Roth v. Rhodes (1994) 25 Cal. App.4th 530, 542",
+          "span": [
+            420,
+            466
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"As a practical matter, market power is usually equated with market share.\n'Since market power can rarely be measured directly by the methods of\nlitigation, it is normally inferred from possession of a substantial percentage of\nthe sales in a market carefully deﬁned in terms of both product and\ngeography.' \" ( Redwood Theatres, Inc. v. Festival Enterprises, Inc. (1988) 200\nCal. App.3d 687, 704 [248 Cal. Rptr. 189], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Redwood Theatres, Inc. v. Festival Enterprises, Inc.",
+          "year": 1988,
+          "volume": 200,
+          "reporter": "Cal.App.3d",
+          "page": 687,
+          "pin": "704",
+          "raw": "Redwood Theatres, Inc. v. Festival Enterprises, Inc. (1988) 200 Cal. App.3d 687, 704",
+          "span": [
+            312,
+            396
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"By reducing the substitutability of products, a high level of product\ndifferentiation results in relative inelasticity of cross-product demand. This\n620\ninelasticity creates opportunities for suppliers to manipulate the price and\nquantity of goods sold or to entrench their market position by creating barriers to\nentry in a market.\" ( Redwood Theatres, Inc., supra, 200 Cal. App.3d at pp.\n706–707, footnote omitted.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§602–621\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.168 (Matthew Bender)\n49 California Forms of Pleading and Practice, Ch. 565, Unfair Competition ,\n§565.74 (Matthew Bender)\n1 Matthew Bender Practice Guide: California Unfair Competition and Business\nTorts, Ch. 5, Antitrust, 5.05, 5.11, 5.17–5.22\nCARTWRIGHT ACT CACI No. 3412\n621",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Roth v. Rhodes",
+      "year": 1994,
+      "volume": 25,
+      "reporter": "Cal.App.4th",
+      "page": 530,
+      "pin": "542",
+      "raw": "Roth v. Rhodes (1994) 25 Cal. App.4th 530, 542",
+      "span": [
+        420,
+        466
+      ],
+      "role": "sources",
+      "case_key": "25 Cal.App.4th 530"
+    },
+    {
+      "name": "Redwood Theatres, Inc. v. Festival Enterprises, Inc.",
+      "year": 1988,
+      "volume": 200,
+      "reporter": "Cal.App.3d",
+      "page": 687,
+      "pin": "704",
+      "raw": "Redwood Theatres, Inc. v. Festival Enterprises, Inc. (1988) 200 Cal. App.3d 687, 704",
+      "span": [
+        312,
+        396
+      ],
+      "role": "sources",
+      "case_key": "200 Cal.App.3d 687"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

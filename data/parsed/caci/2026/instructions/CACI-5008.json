@@ -1,0 +1,65 @@
+{
+  "id": "CACI-5008",
+  "edition": "2026",
+  "number": "5008",
+  "title": "Duty to Abide by Translation Provided in Court",
+  "title_full": "Duty to Abide by Translation Provided in Court",
+  "title_statute": null,
+  "series": "5000",
+  "series_title": "Series 5000 Concluding Instructions",
+  "page_start": 3346,
+  "page_end": 3346,
+  "instruction_text": "5008. Duty to Abide by Translation Provided in Court\nSome testimony was given in [ insert language other than English ]. An\ninterpreter provided translation for you at the time that the testimony\nwas given. Y ou must rely solely on the translation provided by the\ninterpreter, even if you understood the language spoken by the witness.\nDo not retranslate any testimony for other jurors.",
+  "directions_for_use": "If this instruction is used, the advisory committee recommends that it be read to the\njury before reading instructions on the substantive law.",
+  "sources_and_authority": [
+    {
+      "raw": "It is misconduct for a juror to retranslate for other jurors testimony that has been\ntranslated by the court-appointed interpreter. ( People v. Cabrera (1991) 230\nCal. App.3d 300, 303 [281 Cal. Rptr. 238].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "People v. Cabrera",
+          "year": 1991,
+          "volume": 230,
+          "reporter": "Cal.App.3d",
+          "page": 300,
+          "pin": "303",
+          "raw": "People v. Cabrera (1991) 230 Cal. App.3d 300, 303",
+          "span": [
+            134,
+            183
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"It is well-settled a juror may not conduct an independent investigation into the\nfacts of the case or gather evidence from outside sources and bring it into the\njury room. It is also misconduct for a juror to inject his or her own expertise\ninto the jury's deliberation.\" ( People v. Cabrera, supra, 230 Cal. App.3d at p.\n303.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"If [the juror] believed the court interpreter was translating incorrectly, the\nproper action would have been to call the matter to the trial court's attention, not\ntake it upon herself to provide her fellow jurors with the 'correct' translation.\"\n(People v. Cabrera, supra, 230 Cal. App.3d at p. 304.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "1 Witkin, California Evidence (5th ed. 2012) Hearsay, §126\n3 Witkin, California Evidence (5th ed. 2012) Presentation, §40\n1 California Trial Guide, Unit 3, Other Non-Evidentiary Motions , §3.32 (Matthew\nBender)\n1A California Trial Guide, Unit 20, Procedural Rules for Presentation of Evidence ,\n§20.13 (Matthew Bender)\n4 California Trial Guide, Unit 91, Jury Deliberations and Rendition of V erdict ,\n§§91.10, 91.12 (Matthew Bender)\nCalifornia Judges Benchbook: Civil Proceedings–Trial §8.119 (Cal CJER 2019)\n1460",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "People v. Cabrera",
+      "year": 1991,
+      "volume": 230,
+      "reporter": "Cal.App.3d",
+      "page": 300,
+      "pin": "303",
+      "raw": "People v. Cabrera (1991) 230 Cal. App.3d 300, 303",
+      "span": [
+        134,
+        183
+      ],
+      "role": "sources",
+      "case_key": "230 Cal.App.3d 300"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:26+00:00"
+}

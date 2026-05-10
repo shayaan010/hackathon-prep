@@ -1,0 +1,134 @@
+{
+  "id": "CACI-3903G",
+  "edition": "2026",
+  "number": "3903G",
+  "title": "Loss of Use of Real Property (Economic Damage)",
+  "title_full": "Loss of Use of Real Property (Economic Damage)",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2723,
+  "page_end": 2725,
+  "instruction_text": "3903G. Loss of Use of Real Property (Economic Damage)\n[Insert number , e.g., \"7.\"] The loss of use of [ name of plaintiff ]'s [ insert\nidentiﬁcation of real property ].\nTo recover damages for the loss of use, [ name of plaintiff ] must prove [the\nreasonable cost to rent similar property for the time when\n[he/she/nonbinary pronoun/it] could not use [his/her/ nonbinary pronoun/its]\nown property/ [or] the beneﬁts obtained by [ name of defendant ] because\nof [his/her/ nonbinary pronoun/its] wrongful occupation]. [If there is\nevidence of both, [ name of plaintiff ] is entitled to the greater of the two\namounts.]\n[Beneﬁts obtained may include [ name of defendant ]'s proﬁts if they are\ndirectly linked to the wrongful occupation.]",
+  "directions_for_use": "Use this instruction along with CACI No. 3903F, Damage to Real Property\n(Economic Damage) . Include the optional last paragraph if plaintiff claims that the\nmeasure of damages is the beneﬁts obtained by the defendant and that these include\nthe defendant's proﬁts obtained because of the tortious conduct.\nThis instruction may be used if the general measure of damages under CACI No.\n3903F will be the cost of repair rather than diminution in value. (See Erlich v.\nMenezes (1999) 21 Cal. 4th 543, 555 [87 Cal. Rptr.2d 886, 981 P.2d 978].)\nIf the jury determines that the cost of repair is not reasonable, it is not clear whether\nloss-of-use damages are recoverable. The rule has been that when real property has\nbeen damaged so that it cannot be restored, damages for loss of use may not be\nrecovered. ( Ferraro v. Southern California Gas Co. (1980) 102 Cal. App.3d 33,\n50–51 [162 Cal. Rptr. 238].) But in 1992, the Legislature amended Civil Code\nsection 3334 to allow for \"beneﬁts obtained\" as an alternative to rental value as a\nmeasure of damages for loss of use. The legislative intent was to deter polluters\nfrom dumping toxic material on land of little value. (See Starrh & Starrh Cotton\nGrowers v. Aera Energy LLC (2007) 153 Cal. App.4th 583, 603 [63 Cal. Rptr.3d\n165].) In Starrh & Starrh Cotton Growers, the court indicated that it was extremely\nunlikely in that case that the cost of repair could be considered to be reasonable, but\nalso allowed the jury to consider awarding the defendant's proﬁts as \"beneﬁts\nobtained.\" ( Id. at pp. 598–606.) The court did not limit the jury's right to award\nproﬁts as damages only if it found the cost of repair to be reasonable. And it seems\nthat if the court believed there was such a limitation, it would have expressly said\nso. The legislative objective would not be achieved if one could pollute land to the\npoint that it could not reasonably be restored and also not be required to pay for the\nbeneﬁts obtained. Therefore, it seems most likely that this limitation on loss-of-use\n837\ndamages no longer applies in light of the 1992 amendment and its legislative\nhistory.\nThis instruction is not intended for cases in which the plaintiff is a landlord seeking\nto recover compensation for lost rents. A more appropriate instruction for that\nsituation is CACI No. 3903N, Lost Proﬁts (Economic Damage) .",
+  "sources_and_authority": [
+    {
+      "raw": "Damages for Wrongful Occupation of Real Property. Civil Code section 3334.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3334",
+          "display": "Civil Code section 3334",
+          "raw": "Civil Code section 3334",
+          "span": [
+            50,
+            73
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he general measure of damages where injury to property is capable of being\nrepaired is the reasonable cost of repair together with the value of lost use\nduring the period of injury.\" ( Erlich, supra, 21 Cal. 4th at p.555, internal citation\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"There is no question that when cost of restoration is the correct measure of\ndamages for injury to real property, compensation for loss of use . . . would be\nappropriate.\" ( Ferraro, supra, 102 Cal. App.3d at p 51.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"There is nothing in Civil Code section 3334 or its legislative history to suggest\nthat the phrase 'beneﬁts obtained' should be read narrowly. To the contrary, the\nintent of the Legislature was to eliminate any economic incentive to trespass as a\nmeans of waste disposal. (Sen. Com. on Judiciary, com. on Assem. Bill No.\n2663 (1991–1992 Reg. Sess.) for June 23, 1992, hearing, p. 2.) If the Legislature\nhad wanted to limit the phrase 'beneﬁts obtained' to costs avoided, it could\neasily have done so. [¶] Further, this interpretation is consistent with the\nfundamental rule that the prime consideration in interpreting a statute is to\nachieve the objective of the statute. As we have indicated, the evil to be\nprevented by the 1992 amendments is identiﬁed in the legislative history–to\nprevent any economic advantage for polluters resulting from the wrongful\ndumping on another's land.\" ( Starrh & Starrh Cotton Growers, supra, 153\nCal. App.4th at p. 604, original italics, internal citation omitted,)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3334",
+          "display": "Civil Code section 3334",
+          "raw": "Civil Code section 3334",
+          "span": [
+            21,
+            44
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Trial courts in trespass actions have historically been given great ﬂexibility to\naward damages that ﬁt the particular facts of the case. [Defendant] has admitted\nthat it chose the challenged method for disposing of produced water because it\nwas the least expensive alternative and maximized its proﬁts. In light of these\nfactors, we conclude that the term 'beneﬁts obtained' may include proﬁts\nenjoyed by [defendant] that are directly linked to the wrongful trespass.\" ( Starrh\n& Starrh Cotton Growers, supra, 153 Cal. App.4th at p. 604, internal citations\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Restatement Second of Torts section 931 provides:\nIf one is entitled to a judgment for the detention of, or for preventing the use of,\nland or chattels, the damages include compensation for\n(a) the value of the use during the period of detention or prevention\nor the value of the use of or the amount paid for a substitute, and\n(b) harm to the subject matter or other harm of which the detention\nCACI No. 3903G DAMAGES\n838\nis the legal cause.",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §1913\nCalifornia Real Property Remedies Practice (Cont.Ed.Bar) Damages for Injury to\nReal Property, §11.5\n4 Levy et al., California Torts, Ch. 52, Medical Expenses and Economic Loss ,\n§52.36 (Matthew Bender)\n15 California Forms of Pleading and Practice, Ch. 177, Damages, §177.44\n(Matthew Bender)\nCalifornia Civil Practice: Torts §5:19 (Thomson Reuters)\nDAMAGES CACI No. 3903G\n839",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3334",
+      "display": "Civil Code section 3334",
+      "raw": "Civil Code section 3334",
+      "span": [
+        50,
+        73
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3334"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "See Erlich v. Menezes",
+      "year": 1999,
+      "volume": 21,
+      "reporter": "Cal.4th",
+      "page": 543,
+      "pin": "555",
+      "raw": "See Erlich v. Menezes (1999) 21 Cal. 4th 543, 555",
+      "span": [
+        450,
+        499
+      ],
+      "role": "directions",
+      "case_key": "21 Cal.4th 543"
+    },
+    {
+      "name": "Ferraro v. Southern California Gas Co.",
+      "year": 1980,
+      "volume": 102,
+      "reporter": "Cal.App.3d",
+      "page": 33,
+      "pin": "50–51",
+      "raw": "Ferraro v. Southern California Gas Co. (1980) 102 Cal. App.3d 33, 50–51",
+      "span": [
+        803,
+        874
+      ],
+      "role": "directions",
+      "case_key": "102 Cal.App.3d 33"
+    },
+    {
+      "name": "Starrh Cotton Growers v. Aera Energy LLC",
+      "year": 2007,
+      "volume": 153,
+      "reporter": "Cal.App.4th",
+      "page": 583,
+      "pin": "603",
+      "raw": "Starrh Cotton Growers v. Aera Energy LLC (2007) 153 Cal. App.4th 583, 603",
+      "span": [
+        1179,
+        1252
+      ],
+      "role": "directions",
+      "case_key": "153 Cal.App.4th 583"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

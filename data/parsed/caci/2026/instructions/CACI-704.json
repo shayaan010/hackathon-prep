@@ -1,0 +1,113 @@
+{
+  "id": "CACI-704",
+  "edition": "2026",
+  "number": "704",
+  "title": "Left Turns",
+  "title_full": "Left Turns (Veh. Code, § 21801)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "VEH",
+    "section": "21801",
+    "display": "Vehicle Code section 21801",
+    "raw": "Veh. Code, § 21801",
+    "span": [
+      0,
+      18
+    ]
+  },
+  "series": "700",
+  "series_title": "Series 700 Motor Vehicles and Highway Safety",
+  "page_start": 628,
+  "page_end": 628,
+  "instruction_text": "704. Left Turns (Veh. Code, §21801)\nThe statute just read to you uses the word \"hazard.\" A \"hazard\" exists if\nany approaching vehicle is so near or is approaching so fast that a\nreasonably careful person would realize that there is a danger of a\ncollision [or accident].\n[A driver who is attempting to make a left turn must make sure that no\noncoming vehicles are close enough to be a hazard before the driver\nproceeds across each lane.]",
+  "directions_for_use": "The bracketed paragraph should be given in appropriate cases involving multiple\nlanes of oncoming traffic. ( Sesler v. Ghumman (1990) 219 Cal. App.3d 218, 227 [268\nCal. Rptr. 70].)",
+  "sources_and_authority": [
+    {
+      "raw": "Duty to Yield Right of Way: Left Turn. Vehicle Code section 21801(a).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "21801",
+          "display": "Vehicle Code section 21801",
+          "raw": "Vehicle Code section 21801(a)",
+          "span": [
+            39,
+            68
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "VEH",
+          "section": "21801",
+          "display": "Vehicle Code section 21801(a)",
+          "raw": "Vehicle Code section 21801(a)",
+          "span": [
+            39,
+            68
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"We hold section 21802, subdivision (a), requires that where, as here, some, but\nnot all, of the oncoming vehicles have yielded their right-of-way to a left-turning\ndriver, that driver has a continuing duty during the turning movement to\nascertain, before proceeding across the next open lane(s), if any vehicle is\napproaching from the opposite direction so close as to constitute a hazard.\"\n(Sesler , supra, 219 Cal. App.3d at pp. 224–225)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Noting that in 1957 the Legislature added the phrase \"at any time during the\nturning movement\" to this section, the court in In re Kirk (1962) 202 Cal. App.2d\n288, 291 [20 Cal. Rptr. 787], reasoned that \"if the oncoming vehicle in the lane\nclosest to the left turning vehicle surrenders its right of way by indicating to the\noperator of the left turning vehicle that it desires him to proceed, such operator\nmay not proceed beyond that ﬁrst lane of traffic, now effectively blocked by the\nwaiving vehicle, if in fact other vehicles approaching in any of the other\noncoming lanes will constitute a hazard to the left turning vehicle during the\nturning movement.\"",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1010, 1011\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §§4.10–4.11\n2 Levy et al., California Torts, Ch. 20, Motor V ehicles, §20.68[2][g] (Matthew\nBender)\n554",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "21801",
+      "display": "Vehicle Code section 21801",
+      "raw": "Veh. Code, § 21801",
+      "span": [
+        0,
+        18
+      ],
+      "role": "title",
+      "statute_key": "CA/VEH/21801"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "VEH",
+      "section": "21801",
+      "display": "Vehicle Code section 21801(a)",
+      "raw": "Vehicle Code section 21801(a)",
+      "span": [
+        39,
+        68
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/VEH/21801/a"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Sesler v. Ghumman",
+      "year": 1990,
+      "volume": 219,
+      "reporter": "Cal.App.3d",
+      "page": 218,
+      "pin": "227",
+      "raw": "Sesler v. Ghumman (1990) 219 Cal. App.3d 218, 227",
+      "span": [
+        109,
+        158
+      ],
+      "role": "directions",
+      "case_key": "219 Cal.App.3d 218"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

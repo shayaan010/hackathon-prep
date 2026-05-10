@@ -1,0 +1,65 @@
+{
+  "id": "CACI-2921",
+  "edition": "2026",
+  "number": "2921",
+  "title": "Causation Under FSAA or BIA",
+  "title_full": "Causation Under FSAA or BIA",
+  "title_statute": null,
+  "series": "2900",
+  "series_title": "Series 2900 Federal Employers’ Liability Act",
+  "page_start": 2076,
+  "page_end": 2076,
+  "instruction_text": "2921. Causation Under FSAA or BIA\nIf you decide that [ name of defendant ] [ describe violation of the Federal\nSafety Appliance Act/Boiler Inspection Act ], then this is a cause of harm if\nit played any part, no matter how small, in bringing about the [harm/\ndeath], even if other factors also contributed to the [harm/death].",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"Actions alleging a violation of the BIA are brought under the FELA. The\nstandard of causation required in a BIA case is the same as the standard of\ncausation required in a FELA negligence case.\" ( Summers v. Missouri Paciﬁc\nRailroad System (10th Cir. 1997) 132 F.3d 599, 606, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Proximate cause, as traditionally understood, is not required to establish\ncausation under either the FELA or the BIA. 'Under the FELA [but not the\nBIA], an employee is entitled to recover damages if the employer's negligence\nplayed any part in producing the injury, no matter how slight.' \" ( Fontaine v.\nNational Railroad Passenger Corp. (1997) 54 Cal. App.4th 1519, 1525 [63\nCal. Rptr.2d 644], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Fontaine v. National Railroad Passenger Corp.",
+          "year": 1997,
+          "volume": 54,
+          "reporter": "Cal.App.4th",
+          "page": 1519,
+          "pin": "1525",
+          "raw": "Fontaine v. National Railroad Passenger Corp. (1997) 54 Cal. App.4th 1519, 1525",
+          "span": [
+            295,
+            374
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Liability under the BIA is established if defendant's violation of the BIA \"played\nany part, no matter how small, in bringing about or actually causing, the injury\"\nto the plaintiff . . . \"without any requirement of a showing of negligence on the\npart of the defendant.\" ( Oglesby v. Southern Paciﬁc Transportation Co. (9th Cir.\n1993) 6 F.3d 603, 606–609.)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "42 California Forms of Pleading and Practice, Ch. 485, Railroads, §485.45\n(Matthew Bender)\n190",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Fontaine v. National Railroad Passenger Corp.",
+      "year": 1997,
+      "volume": 54,
+      "reporter": "Cal.App.4th",
+      "page": 1519,
+      "pin": "1525",
+      "raw": "Fontaine v. National Railroad Passenger Corp. (1997) 54 Cal. App.4th 1519, 1525",
+      "span": [
+        295,
+        374
+      ],
+      "role": "sources",
+      "case_key": "54 Cal.App.4th 1519"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:19+00:00"
+}

@@ -1,0 +1,264 @@
+{
+  "id": "CACI-105",
+  "edition": "2026",
+  "number": "105",
+  "title": "Insurance",
+  "title_full": "Insurance",
+  "title_statute": null,
+  "series": "100",
+  "series_title": "Series 100 Pretrial",
+  "page_start": 93,
+  "page_end": 94,
+  "instruction_text": "105. Insurance\nY ou must not consider whether any of the parties in this case has\ninsurance. The presence or absence of insurance is totally irrelevant. Y ou\nmust decide this case based only on the law and the evidence.",
+  "directions_for_use": "If this instruction is given, the advisory committee recommends that it be read to the\njury before reading instructions on the substantive law.\nBy statute, evidence of a defendant's insurance coverage is inadmissible to prove\nliability. (Evid. Code, §1155.) If evidence of insurance has been admitted for some\nother reason, (1) this instruction may need to be modiﬁed to clarify that insurance\nmay not be considered for purposes of determining liability; and (2) a limiting\ninstruction should be given advising the jury to consider the evidence only for the\npurpose for which it was admitted.",
+  "sources_and_authority": [
+    {
+      "raw": "Evidence of Insurance Inadmissible to Prove Liability. Evidence Code section\n1155.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "1155",
+          "display": "Evidence Code section 1155",
+          "raw": "Evidence Code section\n1155",
+          "span": [
+            55,
+            81
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\" 'The evidence [of liability insurance] is regarded as both irrelevant and\nprejudicial to the defendant. Hence, not only is it subject to objection and\nexclusion, but any attempt to inject it by question, suggestion or argument is\nconsidered misconduct of counsel, and is often held reversible error.\n[Citations.]' \" ( Neumann v. Bishop (1976) 59 Cal. App.3d 451, 469 [130 Cal. Rptr.\n786].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Neumann v. Bishop",
+          "year": 1976,
+          "volume": 59,
+          "reporter": "Cal.App.3d",
+          "page": 451,
+          "pin": "469",
+          "raw": "Neumann v. Bishop (1976) 59 Cal. App.3d 451, 469",
+          "span": [
+            320,
+            368
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Evidence of a defendant' s insurance coverage ordinarily is not admissible to\nprove the defendant's negligence or other wrongdoing.\" ( Blake v. E. Thompson\nPetroleum Repair Co. (1985) 170 Cal. App.3d 823, 830 [216 Cal. Rptr. 568],\noriginal italics.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Blake v. E. Thompson Petroleum Repair Co.",
+          "year": 1985,
+          "volume": 170,
+          "reporter": "Cal.App.3d",
+          "page": 823,
+          "pin": "830",
+          "raw": "Blake v. E. Thompson Petroleum Repair Co. (1985) 170 Cal. App.3d 823, 830",
+          "span": [
+            136,
+            209
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[E]vidence of a plaintiff' s insurance coverage is not admissible for the purpose\nof mitigating the damages the plaintiff would otherwise recover from the\ntortfeasor. This is the 'collateral source rule.' \" ( Blake, supra, 170 Cal. App.3d at\np. 830, original italics; see Helfend v. Southern California Rapid Transit Dist.\n(1970) 2 Cal. 3d 1, 16–18 [84 Cal. Rptr. 173, 465 P.2d 61].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Helfend v. Southern California Rapid Transit Dist.",
+          "year": 1970,
+          "volume": 2,
+          "reporter": "Cal.3d",
+          "page": 1,
+          "pin": "16–18",
+          "raw": "Helfend v. Southern California Rapid Transit Dist. (1970) 2 Cal. 3d 1, 16–18",
+          "span": [
+            273,
+            349
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Both of the foregoing principles are subject to the qualiﬁcation that where the\ntopic of insurance coverage is coupled with other relevant evidence, that topic\nmay be admitted along with such other evidence. '[para. ] It has always been the\nrule that the existence of insurance may properly be referred to in a case if the\nevidence is otherwise admissible.' The trial court must then determine, pursuant\nto Evidence Code section 352, whether the probative value of the other evidence\n19\noutweighs the prejudicial effect of the mention of insurance.\" ( Blake, supra , 170\nCal. App.3d at p. 831, internal citation omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "352",
+          "display": "Evidence Code section 352",
+          "raw": "Evidence Code section 352",
+          "span": [
+            408,
+            433
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he trial court did not abuse its discretion by excluding evidence of\n[plaintiff]'s insured [health care coverage] under Evidence Code section 352.\n[Plaintiff] had the right to treat outside his plan. Evidence of his insurance would\nhave confused the issues or misled and prejudiced the jury.\" ( Pebley v. Santa\nClara Organics, LLC (2018) 22 Cal. App.5th 1266, 1278 [232 Cal. Rptr.3d 404].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "352",
+          "display": "Evidence Code section 352",
+          "raw": "Evidence Code section 352",
+          "span": [
+            124,
+            149
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Pebley v. Santa Clara Organics, LLC",
+          "year": 2018,
+          "volume": 22,
+          "reporter": "Cal.App.5th",
+          "page": 1266,
+          "pin": "1278",
+          "raw": "Pebley v. Santa Clara Organics, LLC (2018) 22 Cal. App.5th 1266, 1278",
+          "span": [
+            299,
+            368
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[M]ost of these references to Kaiser and Medicare, as well as the single\nreference to Social Security, merely provided context and background\ninformation on [plaintiff]'s past treatment at Kaiser and on some aspects of\n[defendant]'s experts' calculation of past and future reasonable medical expenses.\nThey were helpful and even necessary to the jury's understanding of the issues.\n[Plaintiff] has not shown the court abused its discretion in admitting these\nreferences to assist the jury's understanding of the facts.\" ( Stokes v. Muschinske\n(2019) 34 Cal. App.5th 45, 58 [245 Cal. Rptr.3d 764].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Stokes v. Muschinske",
+          "year": 2019,
+          "volume": 34,
+          "reporter": "Cal.App.5th",
+          "page": 45,
+          "pin": "58",
+          "raw": "Stokes v. Muschinske (2019) 34 Cal. App.5th 45, 58",
+          "span": [
+            523,
+            573
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "7 Witkin, California Procedure (6th ed. 2021) Trial, §312\n4 Witkin, California Evidence (6th ed. 2023) Circumstantial Evidence, §156\nJefferson, California Evidence Benchbook (3d ed. 1997) §§34.32–34.36\nCalifornia Practice Guide: Civil Trials and Evidence, Ch. 5-G, Jury\nSelection–Scope of Permissible V oir Dire–Proper vs. Improper Questions ¶ 5:371\n(The Rutter Group)\n3 California Trial Guide, Unit 50, Extrinsic Policies Affecting or Excluding\nEvidence, §50.32 (Matthew Bender)\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §551.68[4][g]\n(Matthew Bender)\n1 Matthew Bender Practice Guide: California Trial and Post-Trial Civil Procedure,\nCh. 11, Questioning Witnesses and Objections , 11.90\nCACI No. 105 PRETRIAL INSTRUCTIONS\n20",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "1155",
+      "display": "Evidence Code section 1155",
+      "raw": "Evidence Code section\n1155",
+      "span": [
+        55,
+        81
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/1155"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "352",
+      "display": "Evidence Code section 352",
+      "raw": "Evidence Code section 352",
+      "span": [
+        408,
+        433
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/352"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Neumann v. Bishop",
+      "year": 1976,
+      "volume": 59,
+      "reporter": "Cal.App.3d",
+      "page": 451,
+      "pin": "469",
+      "raw": "Neumann v. Bishop (1976) 59 Cal. App.3d 451, 469",
+      "span": [
+        320,
+        368
+      ],
+      "role": "sources",
+      "case_key": "59 Cal.App.3d 451"
+    },
+    {
+      "name": "Blake v. E. Thompson Petroleum Repair Co.",
+      "year": 1985,
+      "volume": 170,
+      "reporter": "Cal.App.3d",
+      "page": 823,
+      "pin": "830",
+      "raw": "Blake v. E. Thompson Petroleum Repair Co. (1985) 170 Cal. App.3d 823, 830",
+      "span": [
+        136,
+        209
+      ],
+      "role": "sources",
+      "case_key": "170 Cal.App.3d 823"
+    },
+    {
+      "name": "Helfend v. Southern California Rapid Transit Dist.",
+      "year": 1970,
+      "volume": 2,
+      "reporter": "Cal.3d",
+      "page": 1,
+      "pin": "16–18",
+      "raw": "Helfend v. Southern California Rapid Transit Dist. (1970) 2 Cal. 3d 1, 16–18",
+      "span": [
+        273,
+        349
+      ],
+      "role": "sources",
+      "case_key": "2 Cal.3d 1"
+    },
+    {
+      "name": "Pebley v. Santa Clara Organics, LLC",
+      "year": 2018,
+      "volume": 22,
+      "reporter": "Cal.App.5th",
+      "page": 1266,
+      "pin": "1278",
+      "raw": "Pebley v. Santa Clara Organics, LLC (2018) 22 Cal. App.5th 1266, 1278",
+      "span": [
+        299,
+        368
+      ],
+      "role": "sources",
+      "case_key": "22 Cal.App.5th 1266"
+    },
+    {
+      "name": "Stokes v. Muschinske",
+      "year": 2019,
+      "volume": 34,
+      "reporter": "Cal.App.5th",
+      "page": 45,
+      "pin": "58",
+      "raw": "Stokes v. Muschinske (2019) 34 Cal. App.5th 45, 58",
+      "span": [
+        523,
+        573
+      ],
+      "role": "sources",
+      "case_key": "34 Cal.App.5th 45"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

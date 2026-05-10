@@ -1,0 +1,142 @@
+{
+  "id": "CACI-4421",
+  "edition": "2026",
+  "number": "4421",
+  "title": "Affirmative Defense—Statute of Limitations—Three-YearLimit",
+  "title_full": "Affirmative Defense—Statute of Limitations—Three-YearLimit (Civ. Code, § 3426.6)",
+  "title_statute": {
+    "jurisdiction": "CA",
+    "code": "CIV",
+    "section": "3426.6",
+    "display": "Civil Code section 3426.6",
+    "raw": "Civ. Code, § 3426.6",
+    "span": [
+      0,
+      19
+    ]
+  },
+  "series": "4400",
+  "series_title": "Series 4400 Trade Secrets",
+  "page_start": 3155,
+  "page_end": 3156,
+  "instruction_text": "4421. Affirmative Defense–Statute of Limitations–Three-Year\nLimit (Civ. Code, §3426.6)\n[Name of defendant ] claims that [ name of plaintiff ]'s lawsuit was not ﬁled\nwithin the time set by law. To succeed on this defense, [ name of\ndefendant] must prove that the claimed misappropriation of [ name of\nplaintiff]'s trade secrets occurred before [ insert date three years before date\nof ﬁling ].\nHowever, the lawsuit was still ﬁled on time if [ name of plaintiff ] proves\nthat before [ insert date three years before date of ﬁling ], [he/she/ nonbinary\npronoun/it] did not discover, nor with reasonable diligence should have\ndiscovered, facts that would have caused a reasonable person to suspect\nthat [ name of defendant ] had misappropriated [ name of plaintiff ]'s [ select\nshort term to describe, e.g., information ].",
+  "directions_for_use": "Give this instruction if the California Uniform Trade Secrets Act statute of\nlimitations is at issue. (See Civ. Code, §3426.6.) In an action in which the\ndefendant is or was a customer of the initial misappropriator, modiﬁcations may be\nrequired. (See Cypress Semiconductor Corp. v. Superior Court (2008) 163\nCal. App.4th 575 [77 Cal. Rptr.3d 685].)\nIt is not necessary that the plaintiff know the identity of the defendant in order to\ntrigger the duty to discover. ( Cypress Semiconductor Corp., supra, 163 Cal. App.4th\nat p. 587.) Therefore, \"[ name of defendant ]\" in the last sentence will need to be\nmodiﬁed if inquiry notice may have been triggered against an actual, but\nunidentiﬁed, misappropriator. (See Cypress Semiconductor Corp., supra, 163\nCal. App.4th at p. 585.)\nThis instruction places the burden on the plaintiff to prove that it did not know nor\nhave any reason to suspect the misappropriation earlier than three years before\nﬁling. (See Civ. Code, §3426.6.) This is the rule for the burden of proof under the\nnonstatutory delayed-discovery rule. (See Glue-Fold, Inc. v. Slautterback Corp.\n(2000) 82 Cal. App.4th 1018, 1030 [98 Cal. Rptr.2d 661]; CACI No. 455, Statute of\nLimitations–Delayed Discovery .) Certain statutes that have their own delayed\ndiscovery language (as does Civil Code section 3426.6) have been construed to\nplace the burden on the defendant to prove that the plaintiff knew or should have\nsuspected the facts giving rise to the cause of action earlier than the limitation date.\n(See, e.g., Samuels v. Mix (1999) 22 Cal. 4th 1, 8–10 [91 Cal. Rptr.2d 273, 989 P.2d\n701] [construing Code Civ. Proc., §340.6 on legal malpractice]; CACI No. 610,\nAffırmative Defense–Statute of Limitations–Attorney Malpractice–One-Year\nLimit.) No court has construed Civil Code section 3426.6 to transfer the burden of\n1269\nproof on delayed discovery to the defendant, so presumably the burden of proof\nremains with the plaintiff under the nonstatutory rule.",
+  "sources_and_authority": [
+    {
+      "raw": "Statute of Limitations. Civil Code section 3426.6.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3426.6",
+          "display": "Civil Code section 3426.6",
+          "raw": "Civil Code section 3426.6",
+          "span": [
+            24,
+            49
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The unanimous conclusion of courts considering the issue–i.e., from federal\ncourts construing section 3426.6–is that it is the ﬁrst discovered (or\ndiscoverable) misappropriation of a trade secret which commences the limitation\nperiod.\" ( Glue-Fold, Inc., supra, 82 Cal. App.4th at p. 1026.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The statute is triggered when the plaintiff knows or has reason to know the\nthird party has knowingly acquired, used, or disclosed its trade secrets.\" ( Cypress\nSemiconductor Corp., supra , 163 Cal. App.4th 585.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he misappropriation that triggers the running of the statute is that which the\nplaintiff suspects, not that which may or may not actually exist.\" ( Cypress\nSemiconductor Corp., supra, 163 Cal. App.4th at p. 587.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[A] plaintiff may have more than one claim for misappropriation, each with its\nown statute of limitations, when more than one defendant is involved. This is\ndifferent from saying that each misappropriation gives rise to a separate claim,\nwhich is what section 3426.6 precludes.\" ( Cypress Semiconductor Corp., supra,\n163 Cal. App.4th at p. 583, original italics.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A misappropriation within the meaning of the UTSA occurs not only at the\ntime of the initial acquisition of the trade secret by wrongful means, but also\nwith each misuse or wrongful disclosure of the secret. But a claim for\nmisappropriation of a trade secret arises for a given plaintiff against a given\ndefendant only once, at the time of the initial misappropriation, subject to the\ndiscovery rule provided in section 3426.6. Each new misuse or wrongful\ndisclosure is viewed as augmenting a single claim of continuing\nmisappropriation rather than as giving rise to a separate claim.\" ( Cadence Design\nSystems, Inc. v. Avant! Corp. (2002) 29 Cal. 4th 215, 223 [127 Cal. Rptr.2d 169,\n57 P.3d 647], original italics.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"It [is appropriate] to construe section 3426.6 as meaning that a cause of action\nfor misappropriation against a third party defendant accrues with the plaintiff's\ndiscovery of that defendant's misappropriation. Any continuing misappropriation\nby that defendant constitutes a single claim.\" ( Cypress Semiconductor Corp.,\nsupra, 163 Cal. App.4th at p. 583.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"If someone steals a trade secret and then sells it to a third party, when does the\nstatute of limitations begin to run on any misappropriation claim the trade secret\nowner might have against the third party? . . . We conclude that with respect to\nthe element of knowledge, the statute of limitations on a cause of action for\nmisappropriation begins to run when the plaintiff has any reason to suspect that\nthe third party knows or reasonably should know that the information is a trade\nsecret. The third party's actual state of mind does not affect the running of the\nstatute.\" ( Cypress Semiconductor Corp., supra, 163 Cal. App.4th at p. 579,\noriginal italics.)\nCACI No. 4421 TRADE SECRETS\n1270",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3426.6",
+      "display": "Civil Code section 3426.6",
+      "raw": "Civ. Code, § 3426.6",
+      "span": [
+        0,
+        19
+      ],
+      "role": "title",
+      "statute_key": "CA/CIV/3426.6"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "See Cypress Semiconductor Corp. v. Superior Court",
+      "year": 2008,
+      "volume": 163,
+      "reporter": "Cal.App.4th",
+      "page": 575,
+      "pin": null,
+      "raw": "See Cypress Semiconductor Corp. v. Superior Court (2008) 163 Cal. App.4th 575",
+      "span": [
+        248,
+        325
+      ],
+      "role": "directions",
+      "case_key": "163 Cal.App.4th 575"
+    },
+    {
+      "name": "See Glue-Fold, Inc. v. Slautterback Corp.",
+      "year": 2000,
+      "volume": 82,
+      "reporter": "Cal.App.4th",
+      "page": 1018,
+      "pin": "1030",
+      "raw": "See Glue-Fold, Inc. v. Slautterback Corp. (2000) 82 Cal. App.4th 1018, 1030",
+      "span": [
+        1066,
+        1141
+      ],
+      "role": "directions",
+      "case_key": "82 Cal.App.4th 1018"
+    },
+    {
+      "name": "Samuels v. Mix",
+      "year": 1999,
+      "volume": 22,
+      "reporter": "Cal.4th",
+      "page": 1,
+      "pin": "8–10",
+      "raw": "Samuels v. Mix (1999) 22 Cal. 4th 1, 8–10",
+      "span": [
+        1529,
+        1570
+      ],
+      "role": "directions",
+      "case_key": "22 Cal.4th 1"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

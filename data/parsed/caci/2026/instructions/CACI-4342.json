@@ -1,0 +1,88 @@
+{
+  "id": "CACI-4342",
+  "edition": "2026",
+  "number": "4342",
+  "title": "Reduced Rent for Breach of Habitability",
+  "title_full": "Reduced Rent for Breach of Habitability",
+  "title_statute": null,
+  "series": "4300",
+  "series_title": "Series 4300 Unlawful Detainer",
+  "page_start": 3098,
+  "page_end": 3098,
+  "instruction_text": "4342. Reduced Rent for Breach of Habitability\nIf you ﬁnd that there has been a substantial breach of habitability, then\nyou must ﬁnd the reasonable reduced rental value of the property based\non the uninhabitable conditions. To ﬁnd this value, take the amount of\nmonthly rent required by the [lease/rental agreement/sublease] and\nreduce it by the [dollar amount/ [or] percent] that you consider to reﬂect\nthe uninhabitable conditions. Apply this reduction for the period of time,\nup to present, that the conditions were present. [Y ou may make different\nreductions for different months if the conditions did not affect\nhabitability uniformly over that period of time.]",
+  "directions_for_use": "Give this instruction if the court decides that the jury should determine the reduced\nrental value of the premises based on a breach of the warranty of habitability. The\ncourt may instruct the jury to ﬁnd a dollar reduction or a percent reduction, or may\nleave it up to the jury as to which approach to use. In this latter case, include both\nbracketed options.\nGive the optional last sentence if the condition would not cause uniform hardship\nthroughout the period. For example, the hardship caused by a broken furnace or air\nconditioner would vary according to the weather.\nCode of Civil Procedure section 1174.2(a) provides that the court is to determine\nthe reasonable rental value of the premises in its untenantable state up to the date of\ntrial. But whether this determination is to be made by the court or the jury is\nunsettled. Section 1174.2(d) provides that nothing in this section is intended to deny\nthe tenant the right to a trial by jury. Subsection (d) could be interpreted to mean\nthat in a jury trial, wherever the statute says \"the court,\" it should be read as \"the\njury.\" But the statute also provides that the court may order the landlord to make\nrepairs and correct the conditions of uninhabitability, which would not be a jury\nfunction.",
+  "sources_and_authority": [
+    {
+      "raw": "Breach of Warranty of Habitability. Code of Civil Procedure section 1174.2.",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The second method suggested by Green [Green v. Superior Court (1974) 10\nCal. 3d 616] is to ﬁrst recognize the agreed contract rent as something the two\nparties have agreed to as proper for the premises as impliedly warranted. Then\nthe court should take testimony and ﬁnd on the percentage reduction of\nhabitability (or usability) by the tenant by reason of the subsequently ascertained\ndefects. Then reduce the agreed rent by this percentage, multiply the difference\nby the number of months of occupancy and voila!–the tenant's damages.\"\n(Cazares v. Ortiz (1980) 109 Cal. App.3d Supp. 23, 29 [168 Cal. Rptr. 108].)\n1212",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Green v. Superior Court",
+          "year": 1974,
+          "volume": 10,
+          "reporter": "Cal.3d",
+          "page": 616,
+          "pin": null,
+          "raw": "Green v. Superior Court (1974) 10 Cal. 3d 616",
+          "span": [
+            39,
+            84
+          ]
+        },
+        {
+          "name": "Cazares v. Ortiz",
+          "year": 1980,
+          "volume": 109,
+          "reporter": "Cal.App.3d Supp.",
+          "page": 23,
+          "pin": "29",
+          "raw": "Cazares v. Ortiz (1980) 109 Cal. App.3d Supp. 23, 29",
+          "span": [
+            540,
+            592
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Green v. Superior Court",
+      "year": 1974,
+      "volume": 10,
+      "reporter": "Cal.3d",
+      "page": 616,
+      "pin": null,
+      "raw": "Green v. Superior Court (1974) 10 Cal. 3d 616",
+      "span": [
+        39,
+        84
+      ],
+      "role": "sources",
+      "case_key": "10 Cal.3d 616"
+    },
+    {
+      "name": "Cazares v. Ortiz",
+      "year": 1980,
+      "volume": 109,
+      "reporter": "Cal.App.3d Supp.",
+      "page": 23,
+      "pin": "29",
+      "raw": "Cazares v. Ortiz (1980) 109 Cal. App.3d Supp. 23, 29",
+      "span": [
+        540,
+        592
+      ],
+      "role": "sources",
+      "case_key": "109 Cal.App.3d Supp. 23"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:25+00:00"
+}

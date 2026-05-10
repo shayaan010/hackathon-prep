@@ -1,0 +1,146 @@
+{
+  "id": "CACI-107",
+  "edition": "2026",
+  "number": "107",
+  "title": "Witnesses",
+  "title_full": "Witnesses",
+  "title_statute": null,
+  "series": "100",
+  "series_title": "Series 100 Pretrial",
+  "page_start": 97,
+  "page_end": 98,
+  "instruction_text": "107. Witnesses\nA witness is a person who has knowledge related to this case. Y ou will\nhave to decide whether you believe each witness and how important each\nwitness's testimony is to the case. Y ou may believe all, part, or none of a\nwitness's testimony.\nIn deciding whether to believe a witness's testimony, you may consider,\namong other factors, the following:\n(a) How well did the witness see, hear, or otherwise sense what the\nwitness described in court?\n(b) How well did the witness remember and describe what\nhappened?\n(c) How did the witness look, act, and speak while testifying?\n(d) Did the witness have any reason to say something that was not\ntrue? For example, did the witness show any bias or prejudice or\nhave a personal relationship with any of the parties involved in\nthe case or have a personal stake in how this case is decided?\n(e) What was the witness's attitude toward this case or about giving\ntestimony?\nSometimes a witness may say something that is not consistent with\nsomething else the witness said. Sometimes different witnesses will give\ndifferent versions of what happened. People often forget things or make\nmistakes in what they remember. Also, two people may see the same\nevent but remember it differently. Y ou may consider these differences,\nbut do not decide that testimony is untrue just because it differs from\nother testimony.\nHowever, if you decide that a witness did not tell the truth about\nsomething important, you may choose not to believe anything that\nwitness said. On the other hand, if you think the witness did not tell the\ntruth about some things but told the truth about others, you may accept\nthe part you think is true and ignore the rest.\nDo not make any decision simply because there were more witnesses on\none side than on the other. If you believe it is true, the testimony of a\nsingle witness is enough to prove a fact.\n\nJune 2015, December 2016, May 2020",
+  "directions_for_use": "This instruction may be given as an introductory instruction or as a concluding\n23\ninstruction after trial. (See CACI No. 5003, Witnesses.)",
+  "sources_and_authority": [
+    {
+      "raw": "Role of Jury. Evidence Code section 312.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "312",
+          "display": "Evidence Code section 312",
+          "raw": "Evidence Code section 312",
+          "span": [
+            14,
+            39
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Considerations for Evaluating the Credibility of Witnesses. Evidence Code\nsection 780.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "780",
+          "display": "Evidence Code section 780",
+          "raw": "Evidence Code\nsection 780",
+          "span": [
+            60,
+            85
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Direct Evidence of Single Witness Sufficient. Evidence Code section 411.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "411",
+          "display": "Evidence Code section 411",
+          "raw": "Evidence Code section 411",
+          "span": [
+            46,
+            71
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"It should certainly not be of importance to tell the ordinary man of the world\nthat he should distrust the statements of a witness whom he believes to be a\nliar.\" (Wallace v. Paciﬁc Electric Ry. Co. (1930) 105 Cal. App. 664, 671 [288 P.834].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Wallace v. Paciﬁc Electric Ry. Co.",
+          "year": 1930,
+          "volume": 105,
+          "reporter": "Cal.App.",
+          "page": 664,
+          "pin": "671",
+          "raw": "Wallace v. Paciﬁc Electric Ry. Co. (1930) 105 Cal. App. 664, 671",
+          "span": [
+            165,
+            229
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "7 Witkin, California Procedure (6th ed. 2021) Trial, §314\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §551.122 (Matthew\nBender)\nCalifornia Judges Benchbook: Civil Proceedings–Trial §8.72 (Cal CJER 2019)\nCACI No. 107 PRETRIAL INSTRUCTIONS\n24",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "312",
+      "display": "Evidence Code section 312",
+      "raw": "Evidence Code section 312",
+      "span": [
+        14,
+        39
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/312"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "780",
+      "display": "Evidence Code section 780",
+      "raw": "Evidence Code\nsection 780",
+      "span": [
+        60,
+        85
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/780"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "411",
+      "display": "Evidence Code section 411",
+      "raw": "Evidence Code section 411",
+      "span": [
+        46,
+        71
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/411"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Wallace v. Paciﬁc Electric Ry. Co.",
+      "year": 1930,
+      "volume": 105,
+      "reporter": "Cal.App.",
+      "page": 664,
+      "pin": "671",
+      "raw": "Wallace v. Paciﬁc Electric Ry. Co. (1930) 105 Cal. App. 664, 671",
+      "span": [
+        165,
+        229
+      ],
+      "role": "sources",
+      "case_key": "105 Cal.App. 664"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

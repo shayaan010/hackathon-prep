@@ -1,0 +1,94 @@
+{
+  "id": "CACI-3602",
+  "edition": "2026",
+  "number": "3602",
+  "title": "Affirmative Defense—Agent and Employee Immunity Rule",
+  "title_full": "Affirmative Defense—Agent and Employee Immunity Rule",
+  "title_statute": null,
+  "series": "3600",
+  "series_title": "Series 3600 Conspiracy",
+  "page_start": 2604,
+  "page_end": 2604,
+  "instruction_text": "3602. Affirmative Defense–Agent and Employee Immunity Rule\n[Name of defendant ] claims that [he/she/ nonbinary pronoun] was not part\nof a conspiracy because [he/she/ nonbinary pronoun] was acting as an\n[agent/employee] of [ name of defendant entity ]. To succeed, [ name of\ndefendant] must prove both of the following:\n1. That [he/she/ nonbinary pronoun ] was acting in [his/her/ nonbinary\npronoun] official capacity on behalf of [ name of defendant entity ];\nand\n2. That [he/she/ nonbinary pronoun ] was not acting to advance [his/\nher/nonbinary pronoun ] own personal interests.",
+  "directions_for_use": "This instruction is for use if an individual defendant is alleged to have conspired\nwith an entity. This instruction is not intended to apply if an individual defendant is\nalleged to have conspired with a third party and there is no agency relationship\nbetween them.",
+  "sources_and_authority": [
+    {
+      "raw": "\"[A]gents or employees of a corporation cannot conspire with the corporation\nwhile acting in their official capacities on behalf of the corporation rather than as\nindividuals acting for their individual advantage.\" ( Zumbrun v. University of\nSouthern California (1972) 25 Cal. App.3d 1, 12 [101 Cal. Rptr. 499], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Zumbrun v. University of Southern California",
+          "year": 1972,
+          "volume": 25,
+          "reporter": "Cal.App.3d",
+          "page": 1,
+          "pin": "12",
+          "raw": "Zumbrun v. University of Southern California (1972) 25 Cal. App.3d 1, 12",
+          "span": [
+            217,
+            289
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The rule 'derives from the principle that ordinarily corporate agents and\nemployees acting for or on behalf of the corporation cannot be held liable for\ninducing a breach of the corporation's contract since being in a conﬁdential\nrelationship to the corporation their action in this respect is privileged.' \"\n(Applied Equipment Corp. v. Litton Saudi Arabia Ltd. (1994) 7 Cal. 4th 503, 512,\nfn. 4 [28 Cal. Rptr.2d 475, 869 P.2d 454], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Applied Equipment Corp. v. Litton Saudi Arabia Ltd.",
+          "year": 1994,
+          "volume": 7,
+          "reporter": "Cal.4th",
+          "page": 503,
+          "pin": "512",
+          "raw": "Applied Equipment Corp. v. Litton Saudi Arabia Ltd. (1994) 7 Cal. 4th 503, 512",
+          "span": [
+            311,
+            389
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A corporation is, of course, a legal ﬁction that cannot act at all except through\nits employees and agents. When a corporate employee acts in the course of his\nor her employment, on behalf of the corporation, there is no entity apart from\nthe employee with whom the employee can conspire. '[I]t is basic in the law of\nconspiracy that you must have two persons or entities to have a conspiracy. A\ncorporation cannot conspire with itself any more than a private individual can,\nand it is the general rule that the acts of the agent are the acts of the corporation\n. . . .' To hold that a subordinate employee of a corporation can be liable for\nconspiring with the corporate principal would destroy what has heretofore been\nthe settled rule that a corporation cannot conspire with itself.\" ( Black v. Bank of\n718",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Zumbrun v. University of Southern California",
+      "year": 1972,
+      "volume": 25,
+      "reporter": "Cal.App.3d",
+      "page": 1,
+      "pin": "12",
+      "raw": "Zumbrun v. University of Southern California (1972) 25 Cal. App.3d 1, 12",
+      "span": [
+        217,
+        289
+      ],
+      "role": "sources",
+      "case_key": "25 Cal.App.3d 1"
+    },
+    {
+      "name": "Applied Equipment Corp. v. Litton Saudi Arabia Ltd.",
+      "year": 1994,
+      "volume": 7,
+      "reporter": "Cal.4th",
+      "page": 503,
+      "pin": "512",
+      "raw": "Applied Equipment Corp. v. Litton Saudi Arabia Ltd. (1994) 7 Cal. 4th 503, 512",
+      "span": [
+        311,
+        389
+      ],
+      "role": "sources",
+      "case_key": "7 Cal.4th 503"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

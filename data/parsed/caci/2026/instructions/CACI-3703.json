@@ -1,0 +1,94 @@
+{
+  "id": "CACI-3703",
+  "edition": "2026",
+  "number": "3703",
+  "title": "Legal Relationship Not Disputed",
+  "title_full": "Legal Relationship Not Disputed",
+  "title_statute": null,
+  "series": "3700",
+  "series_title": "Series 3700 Vicarious Responsibility",
+  "page_start": 2619,
+  "page_end": 2620,
+  "instruction_text": "3703. Legal Relationship Not Disputed\nIn this case [ name of agent ] was the [employee/agent/[ insert other\nrelationship, e.g., \"partner\" ]] of [ name of defendant ].\nIf you ﬁnd that [ name of agent ] was acting within the scope of [his/her/\nnonbinary pronoun] [employment/agency/[ insert other relationship ]] when\nthe incident occurred, then [ name of defendant ] is responsible for any\nharm caused by [ name of agent ]'s [ insert applicable tort theory, e.g.,\n\"negligence\"].",
+  "directions_for_use": "The term \"name of agent,\" in brackets, is intended in the general sense, to denote\nthe person or entity whose wrongful conduct is alleged to have created the\nprincipal's liability.\nUnder other principles of law, a principal may be directly liable for authorizing or\ndirecting an agent's wrongful acts. (See 3 Witkin, Summary of Cal. Law (11th ed.\n2017) Agency and Employment, §173.)\nThis instruction may not apply where employer liability is statutory, such as under\nthe Fair Employment and Housing Act.",
+  "sources_and_authority": [
+    {
+      "raw": "Ordinarily, the question of agency is one of fact; however, where the evidence is\nundisputed the issue becomes one of law. ( Mantonya v. Bratlie (1948) 33 Cal. 2d\n120, 128–129 [199 P.2d 677].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Mantonya v. Bratlie",
+          "year": 1948,
+          "volume": 33,
+          "reporter": "Cal.2d",
+          "page": 120,
+          "pin": "128–129",
+          "raw": "Mantonya v. Bratlie (1948) 33 Cal. 2d 120, 128–129",
+          "span": [
+            125,
+            175
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "This instruction may be appropriate in cases where vicarious liability is asserted\nin the context of employment, since agency and employment are often viewed as\nsynonymous. Witkin observes: \"There is seldom any reason to distinguish\nbetween the service of an agent and that of an employee . . . . [However, t]he\ntwo relationships are not considered identical. It is said that an employee works\nfor the employer, while an agent also acts for and in the place of the principal\nfor the purpose of bringing the principal into legal relations with third persons.\"\n(3 Witkin, Summary of Cal. Law (11th ed. 2017), Agency and Employment,\n§4.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"It is settled that for purposes of liability to third parties for torts, a real estate\nsalesperson is the agent of the broker who employs him or her. The broker is\nliable as a matter of law for all damages caused to third persons by the tortious\nacts of the salesperson committed within the course and scope of employment.\"\n(California Real Estate Loans, Inc. v. Wallace (1993) 18 Cal. App.4th 1575, 1581\n[23 Cal. Rptr.2d 462], internal citations omitted.)\n733",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "California Real Estate Loans, Inc. v. Wallace",
+          "year": 1993,
+          "volume": 18,
+          "reporter": "Cal.App.4th",
+          "page": 1575,
+          "pin": "1581",
+          "raw": "California Real Estate Loans, Inc. v. Wallace (1993) 18 Cal. App.4th 1575, 1581",
+          "span": [
+            326,
+            405
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "3 Witkin, Summary of California Law (11th ed. 2017) Agency and Employment,\n§§2–4\n1 Levy et al., California Torts, Ch. 8, Vicarious Liability, §§8.01–8.03 (Matthew\nBender)\n2 California Employment Law, Ch. 30, Employers' Tort Liability to Third Parties for\nConduct of Employees , §30.04 (Matthew Bender)\n21 California Forms of Pleading and Practice, Ch. 248, Employer' s Liability for\nEmployee' s Torts, §248.16 (Matthew Bender)\n37 California Forms of Pleading and Practice, Ch. 427, Principal and Agent\n(Matthew Bender)\n10 California Points and Authorities, Ch. 100A, Employer and Employee:\nRespondeat Superior (Matthew Bender)\nCalifornia Civil Practice: Torts §3:1 (Thomson Reuters)\nCACI No. 3703 VICARIOUS RESPONSIBILITY\n734",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Mantonya v. Bratlie",
+      "year": 1948,
+      "volume": 33,
+      "reporter": "Cal.2d",
+      "page": 120,
+      "pin": "128–129",
+      "raw": "Mantonya v. Bratlie (1948) 33 Cal. 2d 120, 128–129",
+      "span": [
+        125,
+        175
+      ],
+      "role": "sources",
+      "case_key": "33 Cal.2d 120"
+    },
+    {
+      "name": "California Real Estate Loans, Inc. v. Wallace",
+      "year": 1993,
+      "volume": 18,
+      "reporter": "Cal.App.4th",
+      "page": 1575,
+      "pin": "1581",
+      "raw": "California Real Estate Loans, Inc. v. Wallace (1993) 18 Cal. App.4th 1575, 1581",
+      "span": [
+        326,
+        405
+      ],
+      "role": "sources",
+      "case_key": "18 Cal.App.4th 1575"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

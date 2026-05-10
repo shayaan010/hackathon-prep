@@ -1,0 +1,195 @@
+{
+  "id": "CACI-2306",
+  "edition": "2026",
+  "number": "2306",
+  "title": "Covered and Excluded Risks—Predominant Cause of Loss",
+  "title_full": "Covered and Excluded Risks—Predominant Cause of Loss",
+  "title_statute": null,
+  "series": "2300",
+  "series_title": "Series 2300 Insurance Litigation",
+  "page_start": 1457,
+  "page_end": 1459,
+  "instruction_text": "2306. Covered and Excluded Risks–Predominant Cause of Loss\nY ou have heard evidence that the claimed loss was caused by a\ncombination of covered and excluded risks under the insurance policy.\nWhen a loss is caused by a combination of covered and excluded risks\nunder the policy, the loss is covered only if the most important or\npredominant cause is a covered risk.\n[[Name of defendant ] claims that [ name of plaintiff ]'s loss is not covered\nbecause the loss was caused by a risk excluded under the policy. To\nsucceed, [ name of defendant ] must prove that the most important or\npredominant cause of the loss was [ describe excluded peril or event ],\nwhich is a risk excluded under the policy.]\n[or]\n[[Name of plaintiff ] claims that the loss was caused by a risk covered\nunder the policy. To succeed, [ name of plaintiff ] must prove that the most\nimportant or predominant cause of the loss was [ describe covered peril or\nevent], which is a risk covered under the policy.]",
+  "directions_for_use": "The instructions in this series assume the plaintiff is the insured and the defendant is\nthe insurer. The party designations may be changed if appropriate to the facts of the\ncase.\nThis instruction in intended for use in ﬁrst party property insurance cases where\nthere is evidence that a loss was caused by both covered and excluded perils. In\nmost cases the court will determine as a question of law what perils are covered and\nexcluded under the policy.\nDepending on the type of insurance at issue, the court must select the bracketed\nparagraph that presents the correct burden of proof. For all-risk homeowner's\npolicies, for example, once the insured establishes basic coverage, the insurer bears\nthe burden of proving the loss was caused by an excluded peril. In contrast, for\n\"named perils\" policies (for example, ﬁre insurance) the insured bears the burden of\nproving the loss was caused by the speciﬁed peril. (See Strubble v. United Services\nAutomobile Assn. (1973) 35 Cal. App.3d 498, 504 [110 Cal. Rptr. 828].)",
+  "sources_and_authority": [
+    {
+      "raw": "Remote Cause of Loss. Insurance Code section 530.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "530",
+          "display": "Insurance Code section 530",
+          "raw": "Insurance Code section 530",
+          "span": [
+            22,
+            48
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Excluded Peril: But-For Causation. Insurance Code section 532.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "INS",
+          "section": "532",
+          "display": "Insurance Code section 532",
+          "raw": "Insurance Code section 532",
+          "span": [
+            35,
+            61
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[In] determining whether a loss is within an exception in a policy, where there\nis a concurrence of different causes, the efficient cause–the one that sets others\n1383\nin motion–is the cause to which the loss is to be attributed, though the other\ncauses may follow it, and operate more immediately in producing the disaster.\"\n(Sabella v. Wisler (1963) 59 Cal. 2d 21, 31–32 [27 Cal. Rptr. 689, 377 P.2d 889],\ninternal quotation marks and citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Sabella v. Wisler",
+          "year": 1963,
+          "volume": 59,
+          "reporter": "Cal.2d",
+          "page": 21,
+          "pin": "31–32",
+          "raw": "Sabella v. Wisler (1963) 59 Cal. 2d 21, 31–32",
+          "span": [
+            328,
+            373
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" Sabella deﬁned 'efficient proximate cause' alternatively as the 'one that sets\nothers in motion,' and as 'the predominating or moving efficient cause.' We use\nthe term 'efficient proximate cause' (meaning predominating cause) when\nreferring to the Sabella analysis because we believe the phrase 'moving cause'\ncan be misconstrued to deny coverage erroneously, particularly when it is\nunderstood literally to mean the 'triggering' cause.\" ( Garvey v. State Farm Fire\n& Casualty Co. (1989) 48 Cal. 3d 395, 403 [257 Cal. Rptr. 292, 770 P.2d 704],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The efficient proximate cause referred to in Sabella has also been called the\npredominant cause or the most important cause of the loss. 'By focusing the\ncausal inquiry on the most important cause of a loss, the efficient proximate\ncause doctrine creates a \"workable rule of coverage that provides a fair result\nwithin the reasonable expectations of both the insured and the insurer.\" ' \"\n(V ardanyan v. AMCO Ins. Co. (2015) 243 Cal. App.4th 779, 787 [197 Cal. Rptr.3d\n195], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he 'cause' of loss in the context of a property insurance contract is totally\ndifferent from that in a liability policy. This distinction is critical to the\nresolution of losses involving multiple causes. Frequently property losses occur\nwhich involve more than one peril that might be considered legally\nsigniﬁcant. . . . 'The task becomes one of identifying the most important cause\nof the loss and attributing the loss to that cause.' [¶] On the other hand, the right\nto coverage in the third party liability insurance context draws on traditional tort\nconcepts of fault, proximate cause and duty.\" ( Garvey, supra, 48 Cal. 3d at pp.\n406–407, internal quotation marks, italics, and citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[I]n an action upon an all-risks policy (unlike a speciﬁc peril policy), the\ninsured does not have to prove that the peril proximately causing his loss was\ncovered by the policy. This is because the policy covers all risks save for those\nrisks speciﬁcally excluded by the policy. The insurer, though, since it is denying\nliability upon the policy, must prove the policy's noncoverage of the insured's\nloss–that is, that the insured's loss was proximately caused by a peril\nspeciﬁcally excluded from the coverage of the policy.\" ( V ardanyan, supra, 243\nCal. App.4th at pp. 796−797, original italics.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"A policy cannot extend coverage for a speciﬁed peril, then exclude coverage for\na loss caused by a combination of the covered peril and an excluded peril,\nwithout regard to whether the covered peril was the predominant or efficient\nproximate cause of the loss. Other Coverage 9 identiﬁes the perils that are\ncovered when the loss involves collapse. If any other peril contributes to the\nloss, whether the loss is covered or excluded depends upon which peril is the\npredominant cause of the loss. To the extent the term 'caused only by one or\nmore' of the listed perils can be construed to mean the contribution of any\nCACI No. 2306 INSURANCE LITIGA TION\n1384\nunlisted peril, in any way and to any degree, would result in the loss being\nexcluded from coverage, the provision is an unenforceable attempt to contract\naround the efficient proximate cause doctrine. ¶ Accordingly, CACI No. 2306\n. . . was the correct instruction to give to the jury.\" V ardanyan, supra, 243\nCal. App.4th at p. 796.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he scope of coverage under an all-risk homeowner's policy includes all risks\nexcept those speciﬁcally excluded by the policy. When a loss is caused by a\ncombination of a covered and speciﬁcally excluded risks, the loss is covered if\nthe covered risk was the efficient proximate cause of the loss. . . . [T]he\nquestion of what caused the loss is generally a question of fact, and the loss is\nnot covered if the covered risk was only a remote cause of the loss, or the\nexcluded risk was the efficient proximate, or predominate, cause.\" ( State Farm\nFire & Casualty Co. v. V on Der Lieth (1991) 54 Cal. 3d 1123, 1131–1132 [2\nCal. Rptr.2d 183, 820 P.2d 285], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[A]n insurer is not absolutely prohibited from drafting and enforcing policy\nprovisions that provide or leave intact coverage for some, but not all,\nmanifestations of a particular peril. This is, in fact, an everyday practice that\nnormally raises no questions regarding section 530 or the efficient proximate\ncause doctrine.\" ( Julian v. Hartford Underwriters Ins. Co. (2005) 35 Cal. 4th 747,\n759 [27 Cal. Rptr.3d 648, 110 P.3d 903].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Julian v. Hartford Underwriters Ins. Co.",
+          "year": 2005,
+          "volume": 35,
+          "reporter": "Cal.4th",
+          "page": 747,
+          "pin": "759",
+          "raw": "Julian v. Hartford Underwriters Ins. Co. (2005) 35 Cal. 4th 747, 759",
+          "span": [
+            329,
+            397
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "Croskey et al., California Practice Guide: Insurance Litigation, Ch. 6A-E, First\nParty Coverages–Causation Principles, ¶¶ 6:134–6:143, 6:253 (The Rutter Group)\n1 California Liability Insurance Practice: Claims & Litigation (Cont.Ed.Bar)\nAnalyzing Coverage: Reading and Interpreting Insurance Policies, §3.42\n3 California Insurance Law & Practice, Ch. 9, Homeowners and Related Policies ,\n§36.42 (Matthew Bender)\n26 California Forms of Pleading and Practice, Ch. 308, Insurance, §308.113\n(Matthew Bender)\n12 California Points and Authorities, Ch. 120, Insurance, §120.50 (Matthew\nBender)\nINSURANCE LITIGA TION CACI No. 2306\n1385",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "530",
+      "display": "Insurance Code section 530",
+      "raw": "Insurance Code section 530",
+      "span": [
+        22,
+        48
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/530"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "INS",
+      "section": "532",
+      "display": "Insurance Code section 532",
+      "raw": "Insurance Code section 532",
+      "span": [
+        35,
+        61
+      ],
+      "role": "sources",
+      "statute_key": "CA/INS/532"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Sabella v. Wisler",
+      "year": 1963,
+      "volume": 59,
+      "reporter": "Cal.2d",
+      "page": 21,
+      "pin": "31–32",
+      "raw": "Sabella v. Wisler (1963) 59 Cal. 2d 21, 31–32",
+      "span": [
+        328,
+        373
+      ],
+      "role": "sources",
+      "case_key": "59 Cal.2d 21"
+    },
+    {
+      "name": "Julian v. Hartford Underwriters Ins. Co.",
+      "year": 2005,
+      "volume": 35,
+      "reporter": "Cal.4th",
+      "page": 747,
+      "pin": "759",
+      "raw": "Julian v. Hartford Underwriters Ins. Co. (2005) 35 Cal. 4th 747, 759",
+      "span": [
+        329,
+        397
+      ],
+      "role": "sources",
+      "case_key": "35 Cal.4th 747"
+    },
+    {
+      "name": "See Strubble v. United Services Automobile Assn.",
+      "year": 1973,
+      "volume": 35,
+      "reporter": "Cal.App.3d",
+      "page": 498,
+      "pin": "504",
+      "raw": "See Strubble v. United Services Automobile Assn. (1973) 35 Cal. App.3d 498, 504",
+      "span": [
+        919,
+        998
+      ],
+      "role": "directions",
+      "case_key": "35 Cal.App.3d 498"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:16+00:00"
+}

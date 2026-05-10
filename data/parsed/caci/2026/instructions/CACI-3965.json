@@ -1,0 +1,133 @@
+{
+  "id": "CACI-3965",
+  "edition": "2026",
+  "number": "3965",
+  "title": "No Deduction for Workers’ Compensation Benefits Paid",
+  "title_full": "No Deduction for Workers’ Compensation Benefits Paid",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2894,
+  "page_end": 2894,
+  "instruction_text": "3965. No Deduction for Workers' Compensation Beneﬁts Paid\nDo not consider whether or not [ name of plaintiff ] received workers'\ncompensation beneﬁts for [his/her/ nonbinary pronoun] injuries. If you\ndecide in favor of [ name of plaintiff ], you should determine the amount of\nyour verdict according to my instructions concerning damages.\n\nNovember 2018",
+  "directions_for_use": "This instruction is intended for use in conjunction with a special verdict form if the\njudge may need to make deductions from the verdict to avoid a double recovery. It\nmay also be read if there are no allegations regarding the employer's comparative\nfault.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Since the employer was not negligent, the death beneﬁts paid did not constitute\nan impermissible double recovery but rather a payment for plaintiff's loss from a\nsource wholly independent of the wrongdoer.\" ( Curtis v. State of California ex\nrel. Department of Transportation (1982) 128 Cal. App.3d 668, 682 [180\nCal. Rptr. 843].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Here the collateral source was workers' compensation beneﬁts paid by the\n[defendant]'s policy. Under the general principles just described, this would not\nbe an independent source; defendant is the policyholder, so the collateral source\nrule would not apply. Y et the California Supreme Court held that the rule did\napply in a case in which an employee received beneﬁts from the employer's\nworkers' compensation policy and then sued a third party tortfeasor, the\ncompensation insurer having waived its right of subrogation against the third\nparty.\" (Lee v. West Kern Water Dist. (2016) 5 Cal. App.5th 606, 637 [210\nCal. Rptr.3d 362] [action by employee against employer on claim alleged to not\nbe within scope of employment].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lee v. West Kern Water Dist.",
+          "year": 2016,
+          "volume": 5,
+          "reporter": "Cal.App.5th",
+          "page": 606,
+          "pin": "637",
+          "raw": "Lee v. West Kern Water Dist. (2016) 5 Cal. App.5th 606, 637",
+          "span": [
+            551,
+            610
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'The average reasonably well-informed person who may be called to serve\nupon a jury knows that a workman injured in his employment receives\ncompensation. It is a delusion to think that this aspect of the case can be kept\nfrom the minds of the jurors simply by not alluding to it in the course of the\ntrial.' \" ( Berryman v. Bayshore Construction Co. (1962) 207 Cal. App.2d 331,\n336 [24 Cal. Rptr. 380], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Berryman v. Bayshore Construction Co.",
+          "year": 1962,
+          "volume": 207,
+          "reporter": "Cal.App.2d",
+          "page": 331,
+          "pin": "336",
+          "raw": "Berryman v. Bayshore Construction Co. (1962) 207 Cal. App.2d 331, 336",
+          "span": [
+            314,
+            383
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"To prevent a double recovery, the court may instruct the jury to segregate types\nof damage as between the employee and employer, awarding to the employee\nonly those tort damages not recoverable by the employer.\" ( Demkowski v. Lee\n(1991) 233 Cal. App.3d 1251, 1259 [284 Cal. Rptr. 919], footnote omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Demkowski v. Lee",
+          "year": 1991,
+          "volume": 233,
+          "reporter": "Cal.App.3d",
+          "page": 1251,
+          "pin": "1259",
+          "raw": "Demkowski v. Lee (1991) 233 Cal. App.3d 1251, 1259",
+          "span": [
+            215,
+            265
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Alternatively, the jury may generally be instructed on the types of tort damages\n1008",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Lee v. West Kern Water Dist.",
+      "year": 2016,
+      "volume": 5,
+      "reporter": "Cal.App.5th",
+      "page": 606,
+      "pin": "637",
+      "raw": "Lee v. West Kern Water Dist. (2016) 5 Cal. App.5th 606, 637",
+      "span": [
+        551,
+        610
+      ],
+      "role": "sources",
+      "case_key": "5 Cal.App.5th 606"
+    },
+    {
+      "name": "Berryman v. Bayshore Construction Co.",
+      "year": 1962,
+      "volume": 207,
+      "reporter": "Cal.App.2d",
+      "page": 331,
+      "pin": "336",
+      "raw": "Berryman v. Bayshore Construction Co. (1962) 207 Cal. App.2d 331, 336",
+      "span": [
+        314,
+        383
+      ],
+      "role": "sources",
+      "case_key": "207 Cal.App.2d 331"
+    },
+    {
+      "name": "Demkowski v. Lee",
+      "year": 1991,
+      "volume": 233,
+      "reporter": "Cal.App.3d",
+      "page": 1251,
+      "pin": "1259",
+      "raw": "Demkowski v. Lee (1991) 233 Cal. App.3d 1251, 1259",
+      "span": [
+        215,
+        265
+      ],
+      "role": "sources",
+      "case_key": "233 Cal.App.3d 1251"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:24+00:00"
+}

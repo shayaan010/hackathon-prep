@@ -1,0 +1,156 @@
+{
+  "id": "CACI-515",
+  "edition": "2026",
+  "number": "515",
+  "title": "Duty of Hospital to Provide Safe Environment",
+  "title_full": "Duty of Hospital to Provide Safe Environment",
+  "title_statute": null,
+  "series": "500",
+  "series_title": "Series 500 Medical Negligence",
+  "page_start": 540,
+  "page_end": 540,
+  "instruction_text": "515. Duty of Hospital to Provide Safe Environment\nIf [ name of defendant hospital ] knew or reasonably should have known it\nwas likely that [ name of patient ] would harm [himself/herself/ nonbinary\npronoun/another], then [ name of defendant hospital ] had to use reasonable\ncare to prevent such harm.",
+  "directions_for_use": "Always read CACI No. 514, Duty of Hospital , in conjunction with this instruction.",
+  "sources_and_authority": [
+    {
+      "raw": "\"When a patient is admitted into the care of a hospital, the hospital must\nexercise reasonable care to protect that patient from harm.\" ( Walker v. Sonora\nRegional Medical Center (2012) 202 Cal. App.4th 948, 959 [135 Cal. Rptr.3d\n876].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Walker v. Sonora Regional Medical Center",
+          "year": 2012,
+          "volume": 202,
+          "reporter": "Cal.App.4th",
+          "page": 948,
+          "pin": "959",
+          "raw": "Walker v. Sonora Regional Medical Center (2012) 202 Cal. App.4th 948, 959",
+          "span": [
+            138,
+            211
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he duty extends to safeguarding the patient from dangers due to mental\nincapacity; and where the hospital has notice or knowledge of facts from which\nit might reasonably be concluded that a patient would be likely to harm himself\nor others unless preclusive measures were taken, then the hospital must use\nreasonable care in the circumstances to prevent such harm.\" ( Vistica v.\nPresbyterian Hospital & Medical Center , Inc. (1967) 67 Cal. 2d 465, 469 [62\nCal. Rptr. 577, 432 P.2d 193].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"If those charged with the care and treatment of a mentally disturbed patient\nknow of facts from which they could reasonably conclude that the patient would\nbe likely to harm himself in the absence of preclusive measures, then they must\nuse reasonable care under the circumstances to prevent such harm.\" ( Meier v.\nRoss General Hospital (1968) 69 Cal. 2d 420, 424 [71 Cal. Rptr. 903, 445 P.2d\n519].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Meier v. Ross General Hospital",
+          "year": 1968,
+          "volume": 69,
+          "reporter": "Cal.2d",
+          "page": 420,
+          "pin": "424",
+          "raw": "Meier v. Ross General Hospital (1968) 69 Cal. 2d 420, 424",
+          "span": [
+            306,
+            363
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A rule more ﬁtting to the facts of this case is expressed in Wood v. Samaritan\nInstitution (1945) 26 Cal. 2d 847 [161 P.2d 556], where the California Supreme\nCourt held hospitals have a duty to be especially protective of their alcoholic\npatients.\" ( Emerick v. Raleigh Hills Hospital (1982) 133 Cal. App.3d 575, 581\n[184 Cal. Rptr. 92].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Wood v. Samaritan Institution",
+          "year": 1945,
+          "volume": 26,
+          "reporter": "Cal.2d",
+          "page": 847,
+          "pin": null,
+          "raw": "Wood v. Samaritan Institution (1945) 26 Cal. 2d 847",
+          "span": [
+            62,
+            113
+          ]
+        },
+        {
+          "name": "Emerick v. Raleigh Hills Hospital",
+          "year": 1982,
+          "volume": 133,
+          "reporter": "Cal.App.3d",
+          "page": 575,
+          "pin": "581",
+          "raw": "Emerick v. Raleigh Hills Hospital (1982) 133 Cal. App.3d 575, 581",
+          "span": [
+            252,
+            317
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1120–1123\nCalifornia Tort Guide (Cont.Ed.Bar 3d ed.) §§9.55–9.62\n3 Levy et al., California Torts, Ch. 31, Liability of Physicians and Other Medical\nPractitioners, §31.81 (Matthew Bender)\n25 California Forms of Pleading and Practice, Ch. 295, Hospitals, §295.13\n(Matthew Bender)\n466",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Walker v. Sonora Regional Medical Center",
+      "year": 2012,
+      "volume": 202,
+      "reporter": "Cal.App.4th",
+      "page": 948,
+      "pin": "959",
+      "raw": "Walker v. Sonora Regional Medical Center (2012) 202 Cal. App.4th 948, 959",
+      "span": [
+        138,
+        211
+      ],
+      "role": "sources",
+      "case_key": "202 Cal.App.4th 948"
+    },
+    {
+      "name": "Meier v. Ross General Hospital",
+      "year": 1968,
+      "volume": 69,
+      "reporter": "Cal.2d",
+      "page": 420,
+      "pin": "424",
+      "raw": "Meier v. Ross General Hospital (1968) 69 Cal. 2d 420, 424",
+      "span": [
+        306,
+        363
+      ],
+      "role": "sources",
+      "case_key": "69 Cal.2d 420"
+    },
+    {
+      "name": "Wood v. Samaritan Institution",
+      "year": 1945,
+      "volume": 26,
+      "reporter": "Cal.2d",
+      "page": 847,
+      "pin": null,
+      "raw": "Wood v. Samaritan Institution (1945) 26 Cal. 2d 847",
+      "span": [
+        62,
+        113
+      ],
+      "role": "sources",
+      "case_key": "26 Cal.2d 847"
+    },
+    {
+      "name": "Emerick v. Raleigh Hills Hospital",
+      "year": 1982,
+      "volume": 133,
+      "reporter": "Cal.App.3d",
+      "page": 575,
+      "pin": "581",
+      "raw": "Emerick v. Raleigh Hills Hospital (1982) 133 Cal. App.3d 575, 581",
+      "span": [
+        252,
+        317
+      ],
+      "role": "sources",
+      "case_key": "133 Cal.App.3d 575"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:10+00:00"
+}

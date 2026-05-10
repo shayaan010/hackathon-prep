@@ -1,0 +1,94 @@
+{
+  "id": "CACI-3903E",
+  "edition": "2026",
+  "number": "3903E",
+  "title": "Loss of Ability to Provide Household Services (Economic Damage)",
+  "title_full": "Loss of Ability to Provide Household Services (Economic Damage)",
+  "title_statute": null,
+  "series": "3900",
+  "series_title": "Series 3900 Damages",
+  "page_start": 2718,
+  "page_end": 2718,
+  "instruction_text": "3903E. Loss of Ability to Provide Household Services (Economic\nDamage)\n[Insert number , e.g., \"5.\"] The loss of [ name of plaintiff ]'s ability to provide\nhousehold services.\nTo recover damages for the loss of the ability to provide household\nservices, [ name of plaintiff ] must prove the reasonable value of the\nservices [he/she/ nonbinary pronoun] would have been reasonably certain\nto provide to [his/her/ nonbinary pronoun] household if the injury had not\noccurred.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\"The ﬁrst category consists of the reasonable value of nursing and other services\nthat Decedent would have provided to his wife prior to his death, but was unable\nto provide due to his illness (replacement care). Again, [defendant] does not\ncontest the recoverability of such damages here. Nor did it below. Such damages\nare recoverable. 'Generally, household services damages represent the detriment\nsuffered when injury prevents a person from contributing some or all of his or\nher customary services to the family unit.' \" ( Williams v. The Pep Boys Manny\nMoe & Jack of California (2018) 27 Cal. App.5th 225, 238 [238 Cal. Rptr.3d 809]\n[citing this instruction].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The justiﬁcation for awarding this type of damage as part of the loss of future\nearnings award is that the plaintiff should be compensated for the value of the\nservices he would have performed during the lost years which, because of the\ninjury, will now have to be performed by someone else.\" ( Overly v. Ingalls\nShipbuilding, Inc. (1999) 74 Cal. App.4th 164, 171, fn. 5 [87 Cal. Rptr.2d 626],\ninternal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Overly v. Ingalls Shipbuilding, Inc.",
+          "year": 1999,
+          "volume": 74,
+          "reporter": "Cal.App.4th",
+          "page": 164,
+          "pin": "171",
+          "raw": "Overly v. Ingalls Shipbuilding, Inc. (1999) 74 Cal. App.4th 164, 171",
+          "span": [
+            296,
+            364
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'To entitle a plaintiff to recover present damages for apprehended future\nconsequences, there must be evidence to show such a degree of probability of\ntheir occurring as amounts to a reasonable certainty that they will result from the\noriginal injury.' \" ( Bellman v. San Francisco High School Dist. (1938) 11 Cal. 2d\n576, 588 [81 P.2d 894], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bellman v. San Francisco High School Dist.",
+          "year": 1938,
+          "volume": 11,
+          "reporter": "Cal.2d",
+          "page": 576,
+          "pin": "588",
+          "raw": "Bellman v. San Francisco High School Dist. (1938) 11 Cal. 2d 576, 588",
+          "span": [
+            259,
+            328
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "California Tort Damages (Cont.Ed.Bar) Bodily Injury, §§1.64–1.66\n15 California Forms of Pleading and Practice, Ch. 177, Damages (Matthew Bender)\n6 California Points and Authorities, Ch. 64, Damages: Tort (Matthew Bender)\n832",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Overly v. Ingalls Shipbuilding, Inc.",
+      "year": 1999,
+      "volume": 74,
+      "reporter": "Cal.App.4th",
+      "page": 164,
+      "pin": "171",
+      "raw": "Overly v. Ingalls Shipbuilding, Inc. (1999) 74 Cal. App.4th 164, 171",
+      "span": [
+        296,
+        364
+      ],
+      "role": "sources",
+      "case_key": "74 Cal.App.4th 164"
+    },
+    {
+      "name": "Bellman v. San Francisco High School Dist.",
+      "year": 1938,
+      "volume": 11,
+      "reporter": "Cal.2d",
+      "page": 576,
+      "pin": "588",
+      "raw": "Bellman v. San Francisco High School Dist. (1938) 11 Cal. 2d 576, 588",
+      "span": [
+        259,
+        328
+      ],
+      "role": "sources",
+      "case_key": "11 Cal.2d 576"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:23+00:00"
+}

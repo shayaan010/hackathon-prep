@@ -1,0 +1,355 @@
+{
+  "id": "CACI-3713",
+  "edition": "2026",
+  "number": "3713",
+  "title": "Nondelegable Duty",
+  "title_full": "Nondelegable Duty",
+  "title_statute": null,
+  "series": "3700",
+  "series_title": "Series 3700 Vicarious Responsibility",
+  "page_start": 2651,
+  "page_end": 2654,
+  "instruction_text": "3713. Nondelegable Duty\n[Name of defendant ] has a duty that cannot be delegated to another\nperson arising from [ insert name, popular name, or number of regulation,\nstatute, or ordinance /a contract between the parties/ other , e.g., the\nlandlord-tenant relationship]. Under this duty, [ insert requirements of\nregulation, statute, or ordinance or otherwise describe duty ].\n[Name of plaintiff ] claims that [he/she/ nonbinary pronoun] was harmed by\nthe conduct of [ name of third party ] and that [ name of defendant ] is\nresponsible for this harm. To establish this claim, [ name of plaintiff ] must\nprove all of the following:\n1. That [ name of defendant ] hired [ name of third party ] to [ describe\njob involving nondelegable duty e.g., assemble a product ];\n2. That [ name of third party ] [ specify wrongful conduct in breach of\nduty, e.g., did not comply with this law ];\n3. That [ name of plaintiff ] was harmed; and\n4. That [ name of third party ]'s conduct was a substantial factor in\ncausing [ name of plaintiff ]'s harm.",
+  "directions_for_use": "Use this instruction with regard to the liability of the hirer for the torts of a third\nparty if a nondelegable duty is imposed on the hirer by statute, regulation,\nordinance, contract, or common law. (See Barry v. Raskov (1991) 232 Cal. App.3d\n447, 455 [283 Cal. Rptr. 463].)\nThis instruction should generally not be given in a case brought against the hirer by\nan injured independent contractor or contractor's employee that is governed by the\nPrivette doctrine, which establishes \"the basic rule that a hirer is typically not liable\nfor injuries sustained by an independent contractor or its workers while on the job\"\nbecause \"the hirer presumptively delegates to the independent contractor the\nauthority to determine the manner in which the work is to be performed.\" ( Acosta v.\nMAS Realty, LLC (2023) 96 Cal. App.5th 635, 650 [314 Cal. Rptr.3d 507, 519]; see\nGonzalez v. Mathis (2021) 12 Cal. 5th 29, 48 [282 Cal. Rptr.3d 658, 493 P.3d 212]\n[\"even where an unsafe condition exists on the premises due to the landowner's\nfailure to comply with speciﬁc statutory and regulatory duties, the landowner is not\nliable because it is the contractor who is responsible for its own workers' safety\"].)",
+  "sources_and_authority": [
+    {
+      "raw": "\"As a general rule, a hirer of an independent contractor is not liable for physical\nharm caused to others by the act or omission of the independent contractor.\n765\nThere are multiple exceptions to the rule, however, one being the doctrine of\nnondelegable duties . . . . ' \"A nondelegable duty is a deﬁnite affirmative duty\nthe law imposes on one by reason of his or her relationship with others. One\ncannot escape this duty by entrusting it to an independent contractor.\" A\nnondelegable duty may arise when a statute or regulation requires speciﬁc\nsafeguards or precautions to ensure others' safety. [Citation.] . . .' \" ( J.L. v.\nChildren' s Institute, Inc. (2009) 177 Cal. App.4th 388, 400 [99 Cal. Rptr.3d 5],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Nondelegable duties 'derive from statutes [,] contracts, and common law\nprecedents.' They 'do not rest upon any personal negligence of the employer.\nThey are rules of vicarious liability, making the employer liable for the\nnegligence of the independent contractor, irrespective of whether the employer\nhas himself been at fault. They arise in situations in which, for reasons of policy,\nthe employer is not permitted to shift the responsibility for the proper conduct of\nthe work to the contractor. The liability imposed is closely analogous to that of a\nmaster for the negligence of his servant. [¶] The statement commonly made in\nsuch cases is that the employer is under a duty which he is not free to delegate\nto the contractor. Such a \"non-delegable duty\" requires the person upon whom it\nis imposed to answer for it that care is exercised by anyone, even though he be\nan independent contractor, to whom the performance of the duty is entrusted.' \"\n(Bowman v. Wyatt (2010) 186 Cal. App.4th 286, 316 [111 Cal. Rptr.3d 787],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bowman v. Wyatt",
+          "year": 2010,
+          "volume": 186,
+          "reporter": "Cal.App.4th",
+          "page": 286,
+          "pin": "316",
+          "raw": "Bowman v. Wyatt (2010) 186 Cal. App.4th 286, 316",
+          "span": [
+            955,
+            1003
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'When the manufacturer delegates some aspect of manufacture, such as ﬁnal\nassembly or inspection, to a subsequent seller, the manufacturer may be subject\nto liability under rules of vicarious liability for a defect that was introduced into\nthe product after it left the hands of the manufacturer.' This rule has the laudable\neffect of encouraging a manufacturer or distributor like [defendant] to act to\nsafeguard proper assembly by its various dealers, including attempting to ensure\nthat negligent conduct in one location does not repeat elsewhere. It further\nensures that a plaintiff does not have the burden of discovering and proving\nwhich entity in the production chain is responsible for negligent assembly:\n[defendant] for insufficient instructions or safeguards that would ensure proper\nassembly, or a dealer for failing to execute [defendant's] commands properly.\"\n(Defries v. Yamaha Motor Corp. (2022) 84 Cal. App.5th 846, 861 [300\nCal. Rptr.3d 670], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Defries v. Yamaha Motor Corp.",
+          "year": 2022,
+          "volume": 84,
+          "reporter": "Cal.App.5th",
+          "page": 846,
+          "pin": "861",
+          "raw": "Defries v. Yamaha Motor Corp. (2022) 84 Cal. App.5th 846, 861",
+          "span": [
+            878,
+            939
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The rationale of the nondelegable duty rule is 'to assure that when a negligently\ncaused harm occurs, the injured party will be compensated by the person whose\nactivity caused the harm[.]' The 'recognition of nondelegable duties tends to\ninsure that there will be a ﬁnancially responsible defendant available to\ncompensate for the negligent harms caused by that defendant's activity[.]' Thus,\nthe nondelegable duty rule advances the same purposes as other forms of\nvicarious liability.\" ( Srithong v. Total Investment Co. (1994) 23 Cal. App.4th 721,\n727 [28 Cal. Rptr.2d 672], internal citations and footnote omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Srithong v. Total Investment Co.",
+          "year": 1994,
+          "volume": 23,
+          "reporter": "Cal.App.4th",
+          "page": 721,
+          "pin": "727",
+          "raw": "Srithong v. Total Investment Co. (1994) 23 Cal. App.4th 721, 727",
+          "span": [
+            490,
+            554
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Simply stated, ' \"[t]he duty which a possessor of land owes to others to put and\n3713 VICARIOUS RESPONSIBILITY\n766\nmaintain it in reasonably safe condition is nondelegable. If an independent\ncontractor, no matter how carefully selected, is employed to perform it, the\npossessor is answerable for harm caused by the negligent failure of his\ncontractor to put or maintain the buildings and structures in reasonably safe\ncondition[.]\" ' \" ( Srithong, supra, 23 Cal. App.4th at p. 726.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Nondelegable duties may arise when a statute provides speciﬁc safeguards or\nprecautions to insure the safety of others.\" ( Felmlee v. Falcon Cable Co. (1995)\n36 Cal. App.4th 1032, 1039 [43 Cal. Rptr.2d 158].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Felmlee v. Falcon Cable Co.",
+          "year": 1995,
+          "volume": 36,
+          "reporter": "Cal.App.4th",
+          "page": 1032,
+          "pin": "1039",
+          "raw": "Felmlee v. Falcon Cable Co. (1995) 36 Cal. App.4th 1032, 1039",
+          "span": [
+            124,
+            185
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Unlike strict liability, a nondelegable duty operates, not as a substitute for\nliability based on negligence, but to assure that when a negligently caused harm\noccurs, the injured party will be compensated by the person whose activity\ncaused the harm and who may therefore properly be held liable for the\nnegligence of his agent, whether his agent was an employee or an independent\ncontractor.\" (Maloney v. Rath (1968) 69 Cal. 2d 442, 446 [71 Cal. Rptr. 897, 445\nP.2d 513].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Maloney v. Rath",
+          "year": 1968,
+          "volume": 69,
+          "reporter": "Cal.2d",
+          "page": 442,
+          "pin": "446",
+          "raw": "Maloney v. Rath (1968) 69 Cal. 2d 442, 446",
+          "span": [
+            397,
+            439
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" '[A] nondelegable duty operates, not as a substitute for liability based on\nnegligence, but to assure that when a negligently caused harm occurs, the injured\nparty will be compensated by the person whose activity caused the harm and\nwho may therefore properly be held liable for the negligence of his agent,\nwhether his agent was an employee or independent contractor.' A California\npublic agency is subject to the imposition of the duty in the same manner as any\nprivate individual.\" ( Jordy v. County of Humboldt (1992) 11 Cal. App.4th 735,\n742 [14 Cal. Rptr.2d 553], citing Gov. Code, §815.4, internal citations omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "GOV",
+          "section": "815.4",
+          "display": "Government Code section 815.4",
+          "raw": "Gov. Code, §815.4",
+          "span": [
+            579,
+            596
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Jordy v. County of Humboldt",
+          "year": 1992,
+          "volume": 11,
+          "reporter": "Cal.App.4th",
+          "page": 735,
+          "pin": "742",
+          "raw": "Jordy v. County of Humboldt (1992) 11 Cal. App.4th 735, 742",
+          "span": [
+            489,
+            548
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"It is undisputable that '[t]he question of duty is . . . a legal question to be\ndetermined by the court.' \" ( Summers v. A.L. Gilbert Co . (1999) 69 Cal. App.4th\n1155, 1184 [82 Cal. Rptr.2d 162], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"When a court ﬁnds that a defendant has a nondelegable duty as a matter of law,\nthe instruction given by the court should speciﬁcally inform the jurors of that\nfact and not leave them to speculate on the subject.\" ( Summers, supra, 69\nCal. App.4th at p. 1187, fn. 5.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'Where the law imposes a deﬁnite, affirmative duty upon one by reason of his\nrelationship with others, whether as an owner or proprietor of land or chattels or\nin some other capacity, such persons can not escape liability for a failure to\nperform the duty thus imposed by entrusting it to an independent\ncontractor . . . . It is immaterial whether the duty thus regarded as\n\"nondelegable\" be imposed by statute, charter or by common law.' \" ( Snyder v.\nSouthern California Edison Co . (1955) 44 Cal. 2d 793, 800 [285 P.2d 912],\ninternal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]o establish a defense to liability for damages caused by a brake failure, the\nowner and operator must establish not only that \" 'he did what might reasonably\nbe expected of a person of ordinary prudence, acting under similar\ncircumstances, who desired to comply with the law' \" but also that the failure\nwas not owing to the negligence of any agent, whether employee or independent\nVICARIOUS RESPONSIBILITY 3713\n767\ncontractor, employed by him to inspect or repair the brakes.\" ( Clark v. Dziabas\n(1968) 69 Cal. 2d 449, 451 [71 Cal. Rptr. 901, 445 P.2d 517], internal citation\nomitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Clark v. Dziabas",
+          "year": 1968,
+          "volume": 69,
+          "reporter": "Cal.2d",
+          "page": 449,
+          "pin": "451",
+          "raw": "Clark v. Dziabas (1968) 69 Cal. 2d 449, 451",
+          "span": [
+            484,
+            527
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "6 Witkin, Summary of California Law (11th ed. 2017) Torts, §§1401 et seq.\n1 Levy et al., California Torts, Ch. 8, Vicarious Liability, §8.05[3][d] (Matthew\nBender)\n2 Wilcox, California Employment Law, Ch. 30, Employers' Tort Liability to Third\nParties for Conduct of Employees , §30.10[2][d] (Matthew Bender)\n21 California Forms of Pleading and Practice, Ch. 248, Employer' s Liability for\nEmployee' s Torts, §248.22[2][c] (Matthew Bender)\n10 California Points and Authorities, Ch. 100A, Employer and Employee:\nRespondeat Superior , §100A.42 (Matthew Bender)\n3713 VICARIOUS RESPONSIBILITY\n768",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "815.4",
+      "display": "Government Code section 815.4",
+      "raw": "Gov. Code, §815.4",
+      "span": [
+        579,
+        596
+      ],
+      "role": "sources",
+      "statute_key": "CA/GOV/815.4"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Bowman v. Wyatt",
+      "year": 2010,
+      "volume": 186,
+      "reporter": "Cal.App.4th",
+      "page": 286,
+      "pin": "316",
+      "raw": "Bowman v. Wyatt (2010) 186 Cal. App.4th 286, 316",
+      "span": [
+        955,
+        1003
+      ],
+      "role": "sources",
+      "case_key": "186 Cal.App.4th 286"
+    },
+    {
+      "name": "Defries v. Yamaha Motor Corp.",
+      "year": 2022,
+      "volume": 84,
+      "reporter": "Cal.App.5th",
+      "page": 846,
+      "pin": "861",
+      "raw": "Defries v. Yamaha Motor Corp. (2022) 84 Cal. App.5th 846, 861",
+      "span": [
+        878,
+        939
+      ],
+      "role": "sources",
+      "case_key": "84 Cal.App.5th 846"
+    },
+    {
+      "name": "Srithong v. Total Investment Co.",
+      "year": 1994,
+      "volume": 23,
+      "reporter": "Cal.App.4th",
+      "page": 721,
+      "pin": "727",
+      "raw": "Srithong v. Total Investment Co. (1994) 23 Cal. App.4th 721, 727",
+      "span": [
+        490,
+        554
+      ],
+      "role": "sources",
+      "case_key": "23 Cal.App.4th 721"
+    },
+    {
+      "name": "Felmlee v. Falcon Cable Co.",
+      "year": 1995,
+      "volume": 36,
+      "reporter": "Cal.App.4th",
+      "page": 1032,
+      "pin": "1039",
+      "raw": "Felmlee v. Falcon Cable Co. (1995) 36 Cal. App.4th 1032, 1039",
+      "span": [
+        124,
+        185
+      ],
+      "role": "sources",
+      "case_key": "36 Cal.App.4th 1032"
+    },
+    {
+      "name": "Maloney v. Rath",
+      "year": 1968,
+      "volume": 69,
+      "reporter": "Cal.2d",
+      "page": 442,
+      "pin": "446",
+      "raw": "Maloney v. Rath (1968) 69 Cal. 2d 442, 446",
+      "span": [
+        397,
+        439
+      ],
+      "role": "sources",
+      "case_key": "69 Cal.2d 442"
+    },
+    {
+      "name": "Jordy v. County of Humboldt",
+      "year": 1992,
+      "volume": 11,
+      "reporter": "Cal.App.4th",
+      "page": 735,
+      "pin": "742",
+      "raw": "Jordy v. County of Humboldt (1992) 11 Cal. App.4th 735, 742",
+      "span": [
+        489,
+        548
+      ],
+      "role": "sources",
+      "case_key": "11 Cal.App.4th 735"
+    },
+    {
+      "name": "Clark v. Dziabas",
+      "year": 1968,
+      "volume": 69,
+      "reporter": "Cal.2d",
+      "page": 449,
+      "pin": "451",
+      "raw": "Clark v. Dziabas (1968) 69 Cal. 2d 449, 451",
+      "span": [
+        484,
+        527
+      ],
+      "role": "sources",
+      "case_key": "69 Cal.2d 449"
+    },
+    {
+      "name": "See Barry v. Raskov",
+      "year": 1991,
+      "volume": 232,
+      "reporter": "Cal.App.3d",
+      "page": 447,
+      "pin": "455",
+      "raw": "See Barry v. Raskov (1991) 232 Cal. App.3d 447, 455",
+      "span": [
+        202,
+        253
+      ],
+      "role": "directions",
+      "case_key": "232 Cal.App.3d 447"
+    },
+    {
+      "name": "Acosta v. MAS Realty, LLC",
+      "year": 2023,
+      "volume": 96,
+      "reporter": "Cal.App.5th",
+      "page": 635,
+      "pin": "650",
+      "raw": "Acosta v. MAS Realty, LLC (2023) 96 Cal. App.5th 635, 650",
+      "span": [
+        773,
+        830
+      ],
+      "role": "directions",
+      "case_key": "96 Cal.App.5th 635"
+    },
+    {
+      "name": "Gonzalez v. Mathis",
+      "year": 2021,
+      "volume": 12,
+      "reporter": "Cal.5th",
+      "page": 29,
+      "pin": "48",
+      "raw": "Gonzalez v. Mathis (2021) 12 Cal. 5th 29, 48",
+      "span": [
+        864,
+        908
+      ],
+      "role": "directions",
+      "case_key": "12 Cal.5th 29"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:22+00:00"
+}

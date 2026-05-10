@@ -1,0 +1,150 @@
+{
+  "id": "CACI-308",
+  "edition": "2026",
+  "number": "308",
+  "title": "Contract Formation—Revocation of Offer",
+  "title_full": "Contract Formation—Revocation of Offer",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 178,
+  "page_end": 179,
+  "instruction_text": "308. Contract Formation–Revocation of Offer\nBoth an offer and an acceptance are required to create a contract. [ Name\nof defendant ] contends that the offer was withdrawn before it was\naccepted. To overcome this contention, [ name of plaintiff ] must prove one\nof the following:\n1. That [ name of defendant ] did not withdraw the offer; or\n2. That [ name of plaintiff ] accepted the offer before [ name of\ndefendant] withdrew it; or\n3. That [ name of defendant ]'s withdrawal of the offer was never\ncommunicated to [ name of plaintiff ].\nIf [ name of plaintiff ] did not prove any of the above, then a contract was\nnot created.",
+  "directions_for_use": "Do not give this instruction unless the defendant has testiﬁed or offered other\nevidence in support of the contention.\nThis instruction assumes that the defendant is claiming to have revoked the\ndefendant's offer. Change the identities of the parties in the indented paragraphs if,\nunder the facts of the case, the roles of the parties are switched (e.g., if defendant\nwas the alleged offeree).",
+  "sources_and_authority": [
+    {
+      "raw": "Revocation Before Acceptance. Civil Code section 1586.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1586",
+          "display": "Civil Code section 1586",
+          "raw": "Civil Code section 1586",
+          "span": [
+            30,
+            53
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Methods for Revocation. Civil Code section 1587.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1587",
+          "display": "Civil Code section 1587",
+          "raw": "Civil Code section 1587",
+          "span": [
+            24,
+            47
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"It is a well-established principle of contract law that an offer may be revoked\nby the offeror any time prior to acceptance.\" ( T. M. Cobb Co., Inc. v. Superior\nCourt (1984) 36 Cal. 3d 273, 278 [204 Cal. Rptr. 143, 682 P.2d 338].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "T. M. Cobb Co., Inc. v. Superior Court",
+          "year": 1984,
+          "volume": 36,
+          "reporter": "Cal.3d",
+          "page": 273,
+          "pin": "278",
+          "raw": "T. M. Cobb Co., Inc. v. Superior Court (1984) 36 Cal. 3d 273, 278",
+          "span": [
+            129,
+            194
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\" 'Under familiar contract law, a revocation of an offer must be directed to the\nofferee.' [Citation.]\" ( Moffett v. Barclay (1995) 32 Cal. App.4th 980, 983 [38\nCal. Rptr.2d 546].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Moffett v. Barclay",
+          "year": 1995,
+          "volume": 32,
+          "reporter": "Cal.App.4th",
+          "page": 980,
+          "pin": "983",
+          "raw": "Moffett v. Barclay (1995) 32 Cal. App.4th 980, 983",
+          "span": [
+            106,
+            156
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§159–165\n13 California Forms of Pleading and Practice, Ch. 140, Contracts, §§140.22, 140.61\n(Matthew Bender)\n5 California Points and Authorities, Ch. 50, Contracts, §50.351 (Matthew Bender)\n27 California Legal Forms, Ch. 75, Formation of Contracts and Standard\n104\nContractual Provisions, §75.211 (Matthew Bender)\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 13, Attacking\nor Defending Existence of Contract–Absence of Essential Element , 13.23–13.24\nCONTRACTS CACI No. 308\n105",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1586",
+      "display": "Civil Code section 1586",
+      "raw": "Civil Code section 1586",
+      "span": [
+        30,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1586"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1587",
+      "display": "Civil Code section 1587",
+      "raw": "Civil Code section 1587",
+      "span": [
+        24,
+        47
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1587"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "T. M. Cobb Co., Inc. v. Superior Court",
+      "year": 1984,
+      "volume": 36,
+      "reporter": "Cal.3d",
+      "page": 273,
+      "pin": "278",
+      "raw": "T. M. Cobb Co., Inc. v. Superior Court (1984) 36 Cal. 3d 273, 278",
+      "span": [
+        129,
+        194
+      ],
+      "role": "sources",
+      "case_key": "36 Cal.3d 273"
+    },
+    {
+      "name": "Moffett v. Barclay",
+      "year": 1995,
+      "volume": 32,
+      "reporter": "Cal.App.4th",
+      "page": 980,
+      "pin": "983",
+      "raw": "Moffett v. Barclay (1995) 32 Cal. App.4th 980, 983",
+      "span": [
+        106,
+        156
+      ],
+      "role": "sources",
+      "case_key": "32 Cal.App.4th 980"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

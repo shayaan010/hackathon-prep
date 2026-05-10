@@ -1,0 +1,120 @@
+{
+  "id": "CACI-3204",
+  "edition": "2026",
+  "number": "3204",
+  "title": "“Substantially Impaired” Explained",
+  "title_full": "“Substantially Impaired” Explained",
+  "title_statute": null,
+  "series": "3200",
+  "series_title": "Series 3200 Song-Beverly Consumer Warranty Act",
+  "page_start": 2372,
+  "page_end": 2373,
+  "instruction_text": "3204. \"Substantially Impaired\" Explained\nIn deciding whether a reasonable person would believe that the vehicle's\ndefect[s], if any, substantially impaired the vehicle's use, value, or safety,\nyou may consider, among other factors, the following:\n(a) [The nature of the defect[s];]\n(b) [The cost and length of time required for repair;]\n(c) [Whether past repair attempts have been successful;]\n(d) [The degree to which the vehicle could be used while awaiting\nrepair;]\n(e) [The availability and cost of comparable transportation during\nthe repairs;] [and]\n(f) [ Insert other appropriate factor. ]",
+  "directions_for_use": "Some or all of the stated factors may not be necessary in every case. Depending on\nthe facts of the case, other factors may be added as appropriate.",
+  "sources_and_authority": [
+    {
+      "raw": "\"Whether the impairment is substantial is determined by an objective test, based\non what a reasonable person would understand to be a defect. This test is\napplied, however, within the speciﬁc circumstances of the buyer.\" ( Lundy v. Ford\nMotor Co. (2001) 87 Cal. App.4th 472, 478 [104 Cal. Rptr.2d 545], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lundy v. Ford Motor Co.",
+          "year": 2001,
+          "volume": 87,
+          "reporter": "Cal.App.4th",
+          "page": 472,
+          "pin": "478",
+          "raw": "Lundy v. Ford Motor Co. (2001) 87 Cal. App.4th 472, 478",
+          "span": [
+            223,
+            278
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The issue of whether the problems constituted substantial impairment is one for\nthe trier of fact.\" ( Schreidel v. American Honda Motor Co. (1995) 34\nCal. App.4th 1242, 1250 [40 Cal. Rptr.2d 576], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Schreidel v. American Honda Motor Co.",
+          "year": 1995,
+          "volume": 34,
+          "reporter": "Cal.App.4th",
+          "page": 1242,
+          "pin": "1250",
+          "raw": "Schreidel v. American Honda Motor Co. (1995) 34 Cal. App.4th 1242, 1250",
+          "span": [
+            103,
+            174
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The term ['substantially'] modiﬁes its object, 'impairment.' It injects an element\nof degree; not every impairment is sufficient to satisfy the statute. The most\nanalogous deﬁnition of 'substantially' we have found in a context similar to its\nusage here is in the Uniform Commercial Code, section 2-608. Like the clause at\nissue here, this provision requires a determination of whether a defect\n'substantially impairs' the value of goods sold to a buyer. Under it, the trier of\nfact may consider: 'the nature of the defects; the cost and length of time\nrequired for repair; whether past repair attempts have been successful; the degree\nto which the goods can be used while repairs are attempted; [inconvenience to\nbuyer]; and the availability and cost of alternative goods pending repair . . . .' It\nmay be that this term, like 'reasonable,' is incapable of precise deﬁnition. At the\n486\nleast, the requirement is not satisﬁed by any impairment, however insigniﬁcant,\nthat affects use, value, or safety.\" ( Lundy, supra, 87 Cal. App.4th at p. 478,\ninternal citations omitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "COM",
+          "section": "2",
+          "display": "Commercial Code section 2",
+          "raw": "Commercial Code, section 2",
+          "span": [
+            273,
+            299
+          ]
+        }
+      ],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "4 Witkin, Summary of California Law (11th ed. 2017) Sales, §§323–330\n8 California Forms of Pleading and Practice, Ch. 91, Automobiles: Actions Involving\nDefects and Repairs , §§91.12[2], 91.64 (Matthew Bender)\n44 California Forms of Pleading and Practice, Ch. 502, Sales: Warranties, §502.53\n(Matthew Bender)\n20 California Points and Authorities, Ch. 206, Sales, §§206.104, 206.127 (Matthew\nBender)\nSONG-BEVERL Y CONSUMER W ARRANTY ACT CACI No. 3204\n487",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "COM",
+      "section": "2",
+      "display": "Commercial Code section 2",
+      "raw": "Commercial Code, section 2",
+      "span": [
+        273,
+        299
+      ],
+      "role": "sources",
+      "statute_key": "CA/COM/2"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Lundy v. Ford Motor Co.",
+      "year": 2001,
+      "volume": 87,
+      "reporter": "Cal.App.4th",
+      "page": 472,
+      "pin": "478",
+      "raw": "Lundy v. Ford Motor Co. (2001) 87 Cal. App.4th 472, 478",
+      "span": [
+        223,
+        278
+      ],
+      "role": "sources",
+      "case_key": "87 Cal.App.4th 472"
+    },
+    {
+      "name": "Schreidel v. American Honda Motor Co.",
+      "year": 1995,
+      "volume": 34,
+      "reporter": "Cal.App.4th",
+      "page": 1242,
+      "pin": "1250",
+      "raw": "Schreidel v. American Honda Motor Co. (1995) 34 Cal. App.4th 1242, 1250",
+      "span": [
+        103,
+        174
+      ],
+      "role": "sources",
+      "case_key": "34 Cal.App.4th 1242"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

@@ -1,0 +1,209 @@
+{
+  "id": "CACI-4208",
+  "edition": "2026",
+  "number": "4208",
+  "title": "Affirmative Defense—Statute of Limitations—Actual and Constructive Fraud (Civ. Code, § 3439.09(a), (b))",
+  "title_full": "Affirmative Defense—Statute of Limitations—Actual and Constructive Fraud (Civ. Code, § 3439.09(a), (b))",
+  "title_statute": null,
+  "series": "4200",
+  "series_title": "Series 4200 Uniform Voidable Transactions Act",
+  "page_start": 3004,
+  "page_end": 3004,
+  "instruction_text": "4208. Affirmative Defense–Statute of Limitations–Actual and\nConstructive Fraud (Civ. Code, §3439.09(a), (b))\n[Name of defendant ] contends that [ name of plaintiff ]'s lawsuit was not\nﬁled within the time set by law.\n[[With respect to [ name of plaintiff ]'s claim of actual intent to hinder,\ndelay, or defraud,] [To/to] succeed on this defense, [ name of defendant ]\nmust prove that [ name of plaintiff ] ﬁled [his/her/ nonbinary pronoun/its]\nlawsuit later than four years after the [transfer was made/obligation was\nincurred] [or, if later than four years, no later than one year after the\n[transfer/obligation] was or could reasonably have been discovered by\n[name of plaintiff ]].\n[[With respect to [ name of plaintiff ]'s claim of constructive fraud,] [To/to]\nsucceed on this defense, [ name of defendant ] must prove that [ name of\nplaintiff] ﬁled [his/her/ nonbinary pronoun/its] lawsuit later than four years\nafter the [transfer was made/obligation was incurred].]",
+  "directions_for_use": "This instruction provides an affirmative defense for failure to ﬁle within the statute\nof limitations. (See Civ. Code, §3439.09(a), (b).) Read the ﬁrst bracketed paragraph\nregarding delayed discovery in cases involving actual intent to hinder, delay, or\ndefraud. (See Civ. Code, §3439.04(a)(1); CACI No. 4200.) Read the second in\ncases involving constructive fraud. (See Civ. Code, §§3439.04(a)(2), 3439.05; CACI\nNos. 4202, 4203.) Read the ﬁrst bracketed phrases in those paragraphs if the\nplaintiff has brought both actual and constructive fraud claims.\nThis instruction may not be modiﬁed to assert the seven-year period under Civil\nCode section 3439.09(c). (See PGA West Residential Assn., Inc. v. Hulven Internat.,\nInc. (2017) 14 Cal. App.5th 156, 178–185 [221 Cal. Rptr.3d 353] [Civil Code section\n3439.09(c) is a statute of repose, not a statute of limitations].)",
+  "sources_and_authority": [
+    {
+      "raw": "Statute of Limitations. Civil Code section 3439.09(a), (b).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3439.09",
+          "display": "Civil Code section 3439.09",
+          "raw": "Civil Code section 3439.09(a)",
+          "span": [
+            24,
+            53
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3439.09",
+          "display": "Civil Code section 3439.09(a)",
+          "raw": "Civil Code section 3439.09(a)",
+          "span": [
+            24,
+            53
+          ],
+          "subsection": "a"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Statute of Repose. Civil Code section 3439.09(c).",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3439.09",
+          "display": "Civil Code section 3439.09",
+          "raw": "Civil Code section 3439.09(c)",
+          "span": [
+            19,
+            48
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "3439.09",
+          "display": "Civil Code section 3439.09(c)",
+          "raw": "Civil Code section 3439.09(c)",
+          "span": [
+            19,
+            48
+          ],
+          "subsection": "c"
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[T]he UFTA is not the exclusive remedy by which fraudulent conveyances and\ntransfers may be attacked. They may also be attacked by, as it were, a common\nlaw action. If and as such an action is brought, the applicable statute of\nlimitations is section 338 (d) and, more importantly, the cause of action accrues\nnot when the fraudulent transfer occurs but when the judgment against the\ndebtor is secured (or maybe even later, depending upon the belated discovery\n1118",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.09",
+      "display": "Civil Code section 3439.09",
+      "raw": "Civil Code section 3439.09(a)",
+      "span": [
+        24,
+        53
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/3439.09"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.09",
+      "display": "Civil Code section 3439.09(a)",
+      "raw": "Civil Code section 3439.09(a)",
+      "span": [
+        24,
+        53
+      ],
+      "subsection": "a",
+      "role": "sources",
+      "statute_key": "CA/CIV/3439.09/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.09",
+      "display": "Civil Code section 3439.09(c)",
+      "raw": "Civil Code section 3439.09(c)",
+      "span": [
+        19,
+        48
+      ],
+      "subsection": "c",
+      "role": "sources",
+      "statute_key": "CA/CIV/3439.09/c"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.04",
+      "display": "Civil Code section 3439.04",
+      "raw": "Civ. Code, §3439.04(a)(1)",
+      "span": [
+        268,
+        293
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3439.04"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.04",
+      "display": "Civil Code section 3439.04(a)",
+      "raw": "Civ. Code, §3439.04(a)(1)",
+      "span": [
+        268,
+        293
+      ],
+      "subsection": "a",
+      "role": "directions",
+      "statute_key": "CA/CIV/3439.04/a"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.04",
+      "display": "Civil Code section 3439.04(1)",
+      "raw": "Civ. Code, §3439.04(a)(1)",
+      "span": [
+        268,
+        293
+      ],
+      "subsection": "1",
+      "role": "directions",
+      "statute_key": "CA/CIV/3439.04/1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.04",
+      "display": "Civil Code section 3439.04(2)",
+      "raw": "Civ. Code, §§3439.04(a)(2), 3439.05",
+      "span": [
+        371,
+        406
+      ],
+      "subsection": "2",
+      "role": "directions",
+      "statute_key": "CA/CIV/3439.04/2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "3439.05",
+      "display": "Civil Code section 3439.05",
+      "raw": "Civ. Code, §§3439.04(a)(2), 3439.05",
+      "span": [
+        371,
+        406
+      ],
+      "role": "directions",
+      "statute_key": "CA/CIV/3439.05"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "See PGA West Residential Assn., Inc. v. Hulven Internat., Inc.",
+      "year": 2017,
+      "volume": 14,
+      "reporter": "Cal.App.5th",
+      "page": 156,
+      "pin": "178–185",
+      "raw": "See PGA West Residential Assn., Inc. v. Hulven Internat., Inc. (2017) 14 Cal. App.5th 156, 178–185",
+      "span": [
+        661,
+        759
+      ],
+      "role": "directions",
+      "case_key": "14 Cal.App.5th 156"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:24+00:00"
+}

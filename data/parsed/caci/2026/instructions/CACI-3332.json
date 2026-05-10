@@ -1,0 +1,120 @@
+{
+  "id": "CACI-3332",
+  "edition": "2026",
+  "number": "3332",
+  "title": "Affirmative Defense to Locality Discrimination, Below CostSales, Loss Leader Sales, and Secret Rebates—FunctionalClassifications",
+  "title_full": "Affirmative Defense to Locality Discrimination, Below CostSales, Loss Leader Sales, and Secret Rebates—FunctionalClassifications",
+  "title_statute": null,
+  "series": "3300",
+  "series_title": "Series 3300 Unfair Practices Act",
+  "page_start": 2450,
+  "page_end": 2451,
+  "instruction_text": "3332. Affirmative Defense to Locality Discrimination, Below Cost\nSales, Loss Leader Sales, and Secret Rebates–Functional\nClassiﬁcations\n[Name of defendant ] claims that any [locality discrimination/below cost\nsales/loss leader sales/secret rebates] proven by [ name of plaintiff ] [is/are]\nwithin the law because they apply to different classes of customers. To\nsucceed, [ name of defendant ] must prove all of the following:\n1. That [ name of defendant ] created different classes of customers,\nsuch as [broker/jobber/wholesaler/retailer/[ insert other ]];\n2. That customers in the different classes performed different\nfunctions and assumed the risk, investment, and costs involved;\n3. That the difference in [price/rebate/discount/special\nservices/privileges] for [ product/service] was given only in those\nsales where the favored buyer performed the function on which\nthe claim of a different class is based; and\n4. That the difference in price was reasonably related to the value of\nsuch function.",
+  "directions_for_use": "This defense applies to locality discrimination, sales below cost, loss leader sales,\nand secret rebates.",
+  "sources_and_authority": [
+    {
+      "raw": "Functional Classiﬁcations. Business and Professions Code section 17042.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "17042",
+          "display": "Business and Professions Code section 17042",
+          "raw": "Business and Professions Code section 17042",
+          "span": [
+            27,
+            70
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\" '[T]he law should tolerate no subterfuge. For instance, where a wholesaler-\nretailer buys only part of his goods as a wholesaler, he must not claim a\nfunctional discount on all. Only to the extent that a buyer actually performs\ncertain functions, assuming all the risk, investment, and costs involved, should\nhe legally qualify for a functional discount. Hence a distributor should be\neligible for a discount corresponding to any part of the function he actually\nperforms on that part of the goods for which he performs it.' \" ( Diesel Elec.\nSales & Serv., Inc. v. Marco Marine San Diego (1993) 16 Cal. App.4th 202, 217\n[20 Cal. Rptr.2d 62], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Serv., Inc. v. Marco Marine San Diego",
+          "year": 1993,
+          "volume": 16,
+          "reporter": "Cal.App.4th",
+          "page": 202,
+          "pin": "217",
+          "raw": "Serv., Inc. v. Marco Marine San Diego (1993) 16 Cal. App.4th 202, 217",
+          "span": [
+            552,
+            621
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A] pricing structure in which a distributor sells to a retailer at one discount\nand to a rack-jobber at another is expressly permitted by section 17042.\" ( Harris\nv. Capitol Records Distributing Corp. (1966) 64 Cal. 2d 454, 463 [50 Cal. Rptr.\n539, 413 P.2d 139], footnote omitted.)\n564",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Harris v. Capitol Records Distributing Corp.",
+          "year": 1966,
+          "volume": 64,
+          "reporter": "Cal.2d",
+          "page": 454,
+          "pin": "463",
+          "raw": "Harris v. Capitol Records Distributing Corp. (1966) 64 Cal. 2d 454, 463",
+          "span": [
+            158,
+            229
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§623–629\n3 Levy et al., California Torts, Ch. 40, Fraud and Deceit and Other Business Torts ,\n§40.153 (Matthew Bender)\n49 California Forms of Pleading and Practice, Ch. 565, Unfair Competition ,\n§565.53 (Matthew Bender)\n23 California Points and Authorities, Ch. 235, Unfair Competition , §235.20\n(Matthew Bender)\n1 Matthew Bender Practice Guide: California Unfair Competition and Business\nTorts, Ch. 5, Antitrust, 5.100[4]\nUNFAIR PRACTICES ACT CACI No. 3332\n565",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "17042",
+      "display": "Business and Professions Code section 17042",
+      "raw": "Business and Professions Code section 17042",
+      "span": [
+        27,
+        70
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/17042"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Serv., Inc. v. Marco Marine San Diego",
+      "year": 1993,
+      "volume": 16,
+      "reporter": "Cal.App.4th",
+      "page": 202,
+      "pin": "217",
+      "raw": "Serv., Inc. v. Marco Marine San Diego (1993) 16 Cal. App.4th 202, 217",
+      "span": [
+        552,
+        621
+      ],
+      "role": "sources",
+      "case_key": "16 Cal.App.4th 202"
+    },
+    {
+      "name": "Harris v. Capitol Records Distributing Corp.",
+      "year": 1966,
+      "volume": 64,
+      "reporter": "Cal.2d",
+      "page": 454,
+      "pin": "463",
+      "raw": "Harris v. Capitol Records Distributing Corp. (1966) 64 Cal. 2d 454, 463",
+      "span": [
+        158,
+        229
+      ],
+      "role": "sources",
+      "case_key": "64 Cal.2d 454"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:21+00:00"
+}

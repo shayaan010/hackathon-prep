@@ -1,0 +1,194 @@
+{
+  "id": "CACI-204",
+  "edition": "2026",
+  "number": "204",
+  "title": "Willful Suppression of Evidence",
+  "title_full": "Willful Suppression of Evidence",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 123,
+  "page_end": 124,
+  "instruction_text": "204. Willful Suppression of Evidence\nY ou may consider whether one party intentionally concealed or\ndestroyed evidence. If you decide that a party did so, you may decide\nthat the evidence would have been unfavorable to that party.",
+  "directions_for_use": "This instruction should be given only if there is evidence of suppression. ( In re\nEstate of Moore (1919) 180 Cal. 570, 585 [182 P.285]; Sprague v. Equifax, Inc.\n(1985) 166 Cal. App.3d 1012, 1051 [213 Cal. Rptr. 69]; County of Contra Costa v.\nNulty (1965) 237 Cal. App.2d 593, 598 [47 Cal. Rptr. 109].)\nIf there is evidence that a party improperly altered evidence (as opposed to\nconcealing or destroying it), users should consider modifying this instruction to\naccount for that circumstance.\nIn Cedars-Sinai Medical Center v. Superior Court (1998) 18 Cal. 4th 1, 12 [74\nCal. Rptr.2d 248, 954 P.2d 511], a case concerning the tort of intentional spoliation\nof evidence, the Supreme Court observed that trial courts are free to adapt standard\njury instructions on willful suppression to ﬁt the circumstances of the case,\n\"including the egregiousness of the spoliation and the strength and nature of the\ninference arising from the spoliation.\"",
+  "sources_and_authority": [
+    {
+      "raw": "Willful Suppression of Evidence. Evidence Code section 413.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "413",
+          "display": "Evidence Code section 413",
+          "raw": "Evidence Code section 413",
+          "span": [
+            33,
+            58
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Former Code of Civil Procedure section 1963(5) permitted the jury to infer\n\"[t]hat the evidence willfully suppressed would be adverse if produced.\"\nIncluding this inference in a jury instruction on willful suppression is proper\nbecause \"Evidence Code section 413 was not intended as a change in the law.\"\n(Bihun v. AT&T Information Systems, Inc. (1993) 13 Cal. App.4th 976, 994 [16\nCal. Rptr.2d 787], disapproved of on other grounds in Lakin v. Watkins\nAssociated Industries (1993) 6 Cal. 4th 644, 664 [25 Cal. Rptr.2d 109, 863 P.2d\n179].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "413",
+          "display": "Evidence Code section 413",
+          "raw": "Evidence Code section 413",
+          "span": [
+            237,
+            262
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Lakin v. Watkins Associated Industries",
+          "year": 1993,
+          "volume": 6,
+          "reporter": "Cal.4th",
+          "page": 644,
+          "pin": "664",
+          "raw": "Lakin v. Watkins Associated Industries (1993) 6 Cal. 4th 644, 664",
+          "span": [
+            436,
+            501
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The rule of [present Evidence Code section 413] . . . is predicated on common\nsense, and public policy. The purpose of a trial is to arrive at the true facts. A\ntrial is not a game where one counsel safely may sit back and refuse to produce\nevidence where in the nature of things his client is the only source from which\nthat evidence may be secured. A defendant is not under a duty to produce\ntestimony adverse to himself, but if he fails to produce evidence that would\nnaturally have been produced he must take the risk that the trier of fact will\ninfer , and properly so, that the evidence, had it been produced, would have been\nadverse.\" ( Williamson v. Superior Court of Los Angeles County (1978) 21 Cal. 3d\n49\n829, 836 fn. 2 [148 Cal. Rptr. 39, 582 P.2d 126], original italics.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "EVID",
+          "section": "413",
+          "display": "Evidence Code section 413",
+          "raw": "Evidence Code section 413",
+          "span": [
+            22,
+            47
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Williamson v. Superior Court of Los Angeles County",
+          "year": 1978,
+          "volume": 21,
+          "reporter": "Cal.3d",
+          "page": 49,
+          "pin": null,
+          "raw": "Williamson v. Superior Court of Los Angeles County (1978) 21 Cal. 3d 49",
+          "span": [
+            645,
+            716
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"We can see no error in the trial court's ruling [giving this instruction]. The jury\nwas told only that it could 'consider whether one party intentionally concealed\nor destroyed evidence.' Defendants were free to present the jury with evidence\nthat (as counsel represented to the court), the redactions were only of telephone\nnumbers, and that the failure to interview certain witnesses was proper, and to\nargue that evidence to the jury.\" ( V entura v. ABM Industries Inc. (2012) 212\nCal. App.4th 258, 273 [150 Cal. Rptr.3d 861].)",
+      "statutes": [],
+      "cases": []
+    }
+  ],
+  "secondary_sources": "7 Witkin, California Procedure (6th ed. 2021) Trial, §317\n3 Witkin, California Evidence (6th ed. 2023) Presentation at Trial, §138\n48 California Forms of Pleading and Practice, Ch. 551, Trial, §551.93 (Matthew\nBender)\nCalifornia Judges Benchbook: Civil Proceedings–Trial §§5.44, 11.10 (Cal CJER\n2019)\nCACI No. 204 EVIDENCE\n50",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "EVID",
+      "section": "413",
+      "display": "Evidence Code section 413",
+      "raw": "Evidence Code section 413",
+      "span": [
+        33,
+        58
+      ],
+      "role": "sources",
+      "statute_key": "CA/EVID/413"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Lakin v. Watkins Associated Industries",
+      "year": 1993,
+      "volume": 6,
+      "reporter": "Cal.4th",
+      "page": 644,
+      "pin": "664",
+      "raw": "Lakin v. Watkins Associated Industries (1993) 6 Cal. 4th 644, 664",
+      "span": [
+        436,
+        501
+      ],
+      "role": "sources",
+      "case_key": "6 Cal.4th 644"
+    },
+    {
+      "name": "Williamson v. Superior Court of Los Angeles County",
+      "year": 1978,
+      "volume": 21,
+      "reporter": "Cal.3d",
+      "page": 49,
+      "pin": null,
+      "raw": "Williamson v. Superior Court of Los Angeles County (1978) 21 Cal. 3d 49",
+      "span": [
+        645,
+        716
+      ],
+      "role": "sources",
+      "case_key": "21 Cal.3d 49"
+    },
+    {
+      "name": "Sprague v. Equifax, Inc.",
+      "year": 1985,
+      "volume": 166,
+      "reporter": "Cal.App.3d",
+      "page": 1012,
+      "pin": "1051",
+      "raw": "Sprague v. Equifax, Inc. (1985) 166 Cal. App.3d 1012, 1051",
+      "span": [
+        137,
+        195
+      ],
+      "role": "directions",
+      "case_key": "166 Cal.App.3d 1012"
+    },
+    {
+      "name": "County of Contra Costa v. Nulty",
+      "year": 1965,
+      "volume": 237,
+      "reporter": "Cal.App.2d",
+      "page": 593,
+      "pin": "598",
+      "raw": "County of Contra Costa v. Nulty (1965) 237 Cal. App.2d 593, 598",
+      "span": [
+        217,
+        280
+      ],
+      "role": "directions",
+      "case_key": "237 Cal.App.2d 593"
+    },
+    {
+      "name": "In Cedars-Sinai Medical Center v. Superior Court",
+      "year": 1998,
+      "volume": 18,
+      "reporter": "Cal.4th",
+      "page": 1,
+      "pin": "12",
+      "raw": "In Cedars-Sinai Medical Center v. Superior Court (1998) 18 Cal. 4th 1, 12",
+      "span": [
+        493,
+        566
+      ],
+      "role": "directions",
+      "case_key": "18 Cal.4th 1"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

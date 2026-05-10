@@ -1,0 +1,392 @@
+{
+  "id": "CACI-331",
+  "edition": "2026",
+  "number": "331",
+  "title": "Affirmative Defense—Bilateral Mistake",
+  "title_full": "Affirmative Defense—Bilateral Mistake",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 220,
+  "page_end": 221,
+  "instruction_text": "331. Affirmative Defense–Bilateral Mistake\n[Name of defendant ] claims that there was no contract because both\nparties were mistaken about [ insert description of mistake ]. To succeed,\n[name of defendant ] must prove both of the following:\n1. That both parties were mistaken about [ insert description of\nmistake]; and\n2. That [ name of defendant ] would not have agreed to enter into this\ncontract if [he/she/ nonbinary pronoun /it] had known about the\nmistake.\nIf you decide that [ name of defendant ] has proved both of the above, then\nno contract was created.",
+  "directions_for_use": "This instruction does not contain the requirement that the mistake be material to the\ncontract because the materiality of a representation is a question of law. ( Merced\nCounty Mutual Fire Insurance Co. v. State of California (1991) 233 Cal. App.3d\n765, 772 [284 Cal. Rptr. 680].) Accordingly, the judge would decide whether an\nalleged mistake was material, and that mistake would be inserted into this\ninstruction.\nIf the mistake is one of law, this may not be a jury issue.",
+  "sources_and_authority": [
+    {
+      "raw": "When Consent Not Free. Civil Code section 1567.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1567",
+          "display": "Civil Code section 1567",
+          "raw": "Civil Code section 1567",
+          "span": [
+            23,
+            46
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Consent Obtained by Fraud. Civil Code section 1568.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1568",
+          "display": "Civil Code section 1568",
+          "raw": "Civil Code section 1568",
+          "span": [
+            27,
+            50
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Mistake. Civil Code section 1576.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1576",
+          "display": "Civil Code section 1576",
+          "raw": "Civil Code section 1576",
+          "span": [
+            9,
+            32
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Mistake of Fact. Civil Code section 1577.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1577",
+          "display": "Civil Code section 1577",
+          "raw": "Civil Code section 1577",
+          "span": [
+            17,
+            40
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Mistake of Law. Civil Code section 1578.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1578",
+          "display": "Civil Code section 1578",
+          "raw": "Civil Code section 1578",
+          "span": [
+            16,
+            39
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Rescission of Contract. Civil Code section 1689.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1689",
+          "display": "Civil Code section 1689",
+          "raw": "Civil Code section 1689",
+          "span": [
+            24,
+            47
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"A mistake of fact may be urged as a defense to an action upon a contract only\nif the mistake is material to the contract.\" ( Edwards v. Lang (1961) 198\nCal. App.2d 5, 12 [18 Cal. Rptr. 60].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Edwards v. Lang",
+          "year": 1961,
+          "volume": 198,
+          "reporter": "Cal.App.2d",
+          "page": 5,
+          "pin": "12",
+          "raw": "Edwards v. Lang (1961) 198 Cal. App.2d 5, 12",
+          "span": [
+            126,
+            170
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"A 'mistake' within the meaning of subdivision (b)(1) of section 1689 of the\nCivil Code can be either one of fact or of law. 'Generally a mistake of fact\noccurs when a person understands the facts to be other than they are . . . .'\nWhen both parties understand the facts other than they are, the mistake\nnecessarily is mutual and thus becomes a basis for rescission.\" ( Crocker-Anglo\n146\nNat'l Bank v. Kuchman (1964) 224 Cal. App.2d 490, 496 [36 Cal. Rptr. 806],\ninternal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Nat'l Bank v. Kuchman",
+          "year": 1964,
+          "volume": 224,
+          "reporter": "Cal.App.2d",
+          "page": 490,
+          "pin": "496",
+          "raw": "Nat'l Bank v. Kuchman (1964) 224 Cal. App.2d 490, 496",
+          "span": [
+            388,
+            441
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]o warrant a unilateral rescission of a contract because of mutual mistake, the\nmistake must relate to basic or material fact, not a collateral matter.\" ( Wood v.\nKalbaugh (1974) 39 Cal. App.3d 926, 932 [114 Cal. Rptr 673].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Wood v. Kalbaugh",
+          "year": 1974,
+          "volume": 39,
+          "reporter": "Cal.App.3d",
+          "page": 926,
+          "pin": "932",
+          "raw": "Wood v. Kalbaugh (1974) 39 Cal. App.3d 926, 932",
+          "span": [
+            158,
+            205
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Where, as here, the extrinsic evidence is not in conﬂict, the determination of\nwhether a mutual mistake occurred is a question of law.\" ( Hess v. Ford Motor\nCo. (2002) 27 Cal. 4th 516, 527 [117 Cal. Rptr. 2d 220, 41 P.3d 46].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hess v. Ford Motor Co.",
+          "year": 2002,
+          "volume": 27,
+          "reporter": "Cal.4th",
+          "page": 516,
+          "pin": "527",
+          "raw": "Hess v. Ford Motor Co. (2002) 27 Cal. 4th 516, 527",
+          "span": [
+            139,
+            189
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Ordinary negligence does not bar a claim for mutual mistake because ' \"[t]here\nis an element of carelessness in nearly every case of mistake . . . .\" ' 'Only\ngross negligence or 'preposterous or irrational' conduct will [bar] mutual\nmistake.' \" ( Thrifty Payless, Inc. v. The Americana at Brand, LLC (2013) 218\nCal. App.4th 1230, 1243 [160 Cal. Rptr.3d 718], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Where parties are aware at the time the contract is entered into that a doubt\nexists in regard to a certain matter and contract on that assumption, the risk of\nthe existence of the doubtful matter is assumed as an element of the bargain.\"\n(Guthrie v. Times-Mirror Co. (1975) 51 Cal. App.3d 879, 885 [124 Cal. Rptr\n577].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Guthrie v. Times-Mirror Co.",
+          "year": 1975,
+          "volume": 51,
+          "reporter": "Cal.App.3d",
+          "page": 879,
+          "pin": "885",
+          "raw": "Guthrie v. Times-Mirror Co. (1975) 51 Cal. App.3d 879, 885",
+          "span": [
+            241,
+            299
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§257–276\n17 California Forms of Pleading and Practice, Ch. 215, Duress, Menace, Fraud,\nUndue Inﬂuence, and Mistake , §§215.50–215.57, 215.140 (Matthew Bender)\n9 California Points and Authorities, Ch. 92, Duress, Menace, Fraud, Undue\nInﬂuence, and Mistake , §92.90 et seq. (Matthew Bender)\n27 California Legal Forms, Ch. 77, Discharge of Obligations, §77.350 (Matthew\nBender)\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 8, Seeking or\nOpposing Equitable Remedies in Contract Actions , 8.24\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 16, Attacking\nor Defending Existence of Contract–Mistake , 16.08[1], 16.09, 16.11, 16.18\nCONTRACTS CACI No. 331\n147",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1567",
+      "display": "Civil Code section 1567",
+      "raw": "Civil Code section 1567",
+      "span": [
+        23,
+        46
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1567"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1568",
+      "display": "Civil Code section 1568",
+      "raw": "Civil Code section 1568",
+      "span": [
+        27,
+        50
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1568"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1576",
+      "display": "Civil Code section 1576",
+      "raw": "Civil Code section 1576",
+      "span": [
+        9,
+        32
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1576"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1577",
+      "display": "Civil Code section 1577",
+      "raw": "Civil Code section 1577",
+      "span": [
+        17,
+        40
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1577"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1578",
+      "display": "Civil Code section 1578",
+      "raw": "Civil Code section 1578",
+      "span": [
+        16,
+        39
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1578"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1689",
+      "display": "Civil Code section 1689",
+      "raw": "Civil Code section 1689",
+      "span": [
+        24,
+        47
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1689"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Edwards v. Lang",
+      "year": 1961,
+      "volume": 198,
+      "reporter": "Cal.App.2d",
+      "page": 5,
+      "pin": "12",
+      "raw": "Edwards v. Lang (1961) 198 Cal. App.2d 5, 12",
+      "span": [
+        126,
+        170
+      ],
+      "role": "sources",
+      "case_key": "198 Cal.App.2d 5"
+    },
+    {
+      "name": "Nat'l Bank v. Kuchman",
+      "year": 1964,
+      "volume": 224,
+      "reporter": "Cal.App.2d",
+      "page": 490,
+      "pin": "496",
+      "raw": "Nat'l Bank v. Kuchman (1964) 224 Cal. App.2d 490, 496",
+      "span": [
+        388,
+        441
+      ],
+      "role": "sources",
+      "case_key": "224 Cal.App.2d 490"
+    },
+    {
+      "name": "Wood v. Kalbaugh",
+      "year": 1974,
+      "volume": 39,
+      "reporter": "Cal.App.3d",
+      "page": 926,
+      "pin": "932",
+      "raw": "Wood v. Kalbaugh (1974) 39 Cal. App.3d 926, 932",
+      "span": [
+        158,
+        205
+      ],
+      "role": "sources",
+      "case_key": "39 Cal.App.3d 926"
+    },
+    {
+      "name": "Hess v. Ford Motor Co.",
+      "year": 2002,
+      "volume": 27,
+      "reporter": "Cal.4th",
+      "page": 516,
+      "pin": "527",
+      "raw": "Hess v. Ford Motor Co. (2002) 27 Cal. 4th 516, 527",
+      "span": [
+        139,
+        189
+      ],
+      "role": "sources",
+      "case_key": "27 Cal.4th 516"
+    },
+    {
+      "name": "Guthrie v. Times-Mirror Co.",
+      "year": 1975,
+      "volume": 51,
+      "reporter": "Cal.App.3d",
+      "page": 879,
+      "pin": "885",
+      "raw": "Guthrie v. Times-Mirror Co. (1975) 51 Cal. App.3d 879, 885",
+      "span": [
+        241,
+        299
+      ],
+      "role": "sources",
+      "case_key": "51 Cal.App.3d 879"
+    },
+    {
+      "name": "Merced County Mutual Fire Insurance Co. v. State of California",
+      "year": 1991,
+      "volume": 233,
+      "reporter": "Cal.App.3d",
+      "page": 765,
+      "pin": "772",
+      "raw": "Merced County Mutual Fire Insurance Co. v. State of California (1991) 233 Cal. App.3d 765, 772",
+      "span": [
+        163,
+        257
+      ],
+      "role": "directions",
+      "case_key": "233 Cal.App.3d 765"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

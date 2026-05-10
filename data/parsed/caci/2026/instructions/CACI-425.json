@@ -1,0 +1,619 @@
+{
+  "id": "CACI-425",
+  "edition": "2026",
+  "number": "425",
+  "title": "“Gross Negligence” Explained",
+  "title_full": "“Gross Negligence” Explained",
+  "title_statute": null,
+  "series": "400",
+  "series_title": "Series 400 Negligence",
+  "page_start": 354,
+  "page_end": 357,
+  "instruction_text": "425. \"Gross Negligence\" Explained\nGross negligence is the lack of any care or an extreme departure from\nwhat a reasonably careful person would do in the same situation to\nprevent harm to oneself or to others.\nA person can be grossly negligent by acting or by failing to act.",
+  "directions_for_use": "Give this instruction if a particular statute that is at issue in the case creates a\ndistinction based on a standard of gross negligence. (See, e.g., Gov. Code,\n§831.7(c)(1)(E) [immunity for public entity or employee to liability to participant in\nor spectator to hazardous recreational activity does not apply if act of gross\nnegligence is proximate cause of injury].) Courts generally resort to this deﬁnition if\ngross negligence is at issue under a statute. (See, e.g., Wood v. County of San\nJoaquin (2003) 111 Cal. App.4th 960, 971 [4 Cal. Rptr.3d 340].)\nGive this instruction with CACI No. 400, Negligence–Essential Factual Elements ,\nbut modify that instruction to refer to gross negligence.\nThis instruction may also be given if case law has created a distinction between\ngross and ordinary negligence. For example, under the doctrine of express\nassumption of risk, a signed waiver of liability may release liability for ordinary\nnegligence only, not for gross negligence. (See City of Santa Barbara v. Superior\nCourt (2007) 41 Cal. 4th 747, 777 [62 Cal. Rptr.3d 527, 161 P.3d 1095]; see also\nCACI No. 451, Affırmative Defense–Contractual Assumption of Risk .) Once the\ndefendant establishes the validity and applicability of the release, the plaintiff must\nprove gross negligence by a preponderance of the evidence. ( Eriksson v. Nunnink\n(2015) 233 Cal. App.4th 708, 732, 734 [183 Cal. Rptr.3d 234].) A lack of gross\nnegligence can be found as a matter of law if the plaintiff's showing is insufficient\nto suggest a triable issue of fact. (See Grebing v. 24 Hour Fitness USA, Inc. (2015)\n234 Cal. App.4th 631, 638–639 [184 Cal. Rptr.3d 155]; cf. Jimenez v. 24 Hour\nFitness USA, Inc. (2015) 237 Cal. App.4th 546, 555 [188 Cal. Rptr.3d 228] [whether\nconduct constitutes gross negligence is generally a question of fact, depending on\nthe nature of the act and the surrounding circumstances shown by the evidence].)",
+  "sources_and_authority": [
+    {
+      "raw": "\" 'Gross negligence' long has been deﬁned in California and other jurisdictions\nas either a ' \" 'want of even scant care' \" ' or ' \" 'an extreme departure from the\nordinary standard of conduct.' \" ' \" ( City of Santa Barbara, supra , 41 Cal. 4th at\np. 754, internal citations omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"By contrast, 'wanton' or 'reckless' misconduct (or ' \"willful and wanton\nnegligence\" ') describes conduct by a person who may have no intent to cause\n280\nharm, but who intentionally performs an act so unreasonable and dangerous that\nhe or she knows or should know it is highly probable that harm will result.\"\n(City of Santa Barbara, supra , 41 Cal. 4th at p. 754, fn. 4, internal citations\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"California does not recognize a distinct cause of action for 'gross negligence'\nindependent of a statutory basis.\" ( Eriksson v. Nunnink (2011) 191 Cal. App.4th\n826, 856 [120 Cal. Rptr.3d 90].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Eriksson v. Nunnink",
+          "year": 2011,
+          "volume": 191,
+          "reporter": "Cal.App.4th",
+          "page": 826,
+          "pin": "856",
+          "raw": "Eriksson v. Nunnink (2011) 191 Cal. App.4th 826, 856",
+          "span": [
+            118,
+            170
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Gross negligence is pleaded by alleging the traditional elements of negligence:\nduty, breach, causation, and damages. However, to set forth a claim for 'gross\nnegligence' the plaintiff must allege extreme conduct on the part of the\ndefendant.\" ( Rosencrans v. Dover Images, Ltd . (2011) 192 Cal. App.4th 1072,\n1082 [122 Cal. Rptr.3d 22], internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"The theory that there are degrees of negligence has been generally criticized by\nlegal writers, but a distinction has been made in this state between ordinary and\ngross negligence. Gross negligence has been said to mean the want of even scant\ncare or an extreme departure from the ordinary standard of conduct.\" ( V an Meter\nv. Bent Constr . Co. (1956) 46 Cal. 2d 588, 594 [297 P.2d 644], internal citation\nomitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"Numerous California cases have discussed the doctrine of gross negligence.\nInvariably these cases have turned upon an interpretation of a statute which has\nused the words 'gross negligence' in the text.\" ( Cont'l Ins. Co. v. Am. Prot.\nIndus. (1987) 197 Cal. App.3d 322, 329 [242 Cal. Rptr. 784].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Cont'l Ins. Co. v. Am. Prot. Indus.",
+          "year": 1987,
+          "volume": 197,
+          "reporter": "Cal.App.3d",
+          "page": 322,
+          "pin": "329",
+          "raw": "Cont'l Ins. Co. v. Am. Prot. Indus. (1987) 197 Cal. App.3d 322, 329",
+          "span": [
+            207,
+            274
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]n cases involving a waiver of liability for future negligence, courts have held\nthat conduct that substantially or unreasonably increased the inherent risk of an\nactivity or actively concealed a known risk could amount to gross negligence,\nwhich would not be barred by a release agreement. Evidence of conduct that\nevinces an extreme departure from manufacturer's safety directions or an\nindustry standard also could demonstrate gross negligence. Conversely, conduct\ndemonstrating the failure to guard against, or warn of, a dangerous condition\ntypically does not rise to the level of gross negligence.\" ( Anderson v. Fitness\nInternat., LLC (2016) 4 Cal. App.5th 867, 881 [208 Cal. Rptr.3d 792], internal\ncitations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Anderson v. Fitness Internat., LLC",
+          "year": 2016,
+          "volume": 4,
+          "reporter": "Cal.App.5th",
+          "page": 867,
+          "pin": "881",
+          "raw": "Anderson v. Fitness Internat., LLC (2016) 4 Cal. App.5th 867, 881",
+          "span": [
+            610,
+            675
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[P]ublic policy generally precludes enforcement of an agreement that would\nremove an obligation to adhere to even a minimal standard of care. Applying\nthat general rule here, we hold that an agreement purporting to release liability\nfor future gross negligence committed against a developmentally disabled child\nwho participates in a recreational camp designed for the needs of such children\nviolates public policy and is unenforceable.\" ( City of Santa Barbara, supra , 41\nCal. 4th at p. 777, original italics.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\" 'Prosser on Torts (1941) page 260, also cited by the V an Meter court for its\ndeﬁnition of gross negligence, reads as follows: \"Gross Negligence. This is very\ngreat negligence, or the want of even scant care. It has been described as a\nfailure to exercise even that care which a careless person would use. Many\nNEGLIGENCE CACI No. 425\n281\ncourts, dissatisﬁed with a term so devoid of all real content, have interpreted it\nas requiring wilful misconduct, or recklessness, or such utter lack of all care as\nwill be evidence of either–sometimes on the ground that this must have been\nthe purpose of the legislature. But most courts have considered that 'gross\nnegligence' falls short of a reckless disregard of consequences, and differs from\nordinary negligence only in degree, and not in kind. So far as it has any\naccepted meaning, it is merely an extreme departure from the ordinary standard\nof care.\" ' \" ( Decker v. City of Imperial Beach (1989) 209 Cal. App.3d 349, 358\n[257 Cal. Rptr. 356], original italics, internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Decker v. City of Imperial Beach",
+          "year": 1989,
+          "volume": 209,
+          "reporter": "Cal.App.3d",
+          "page": 349,
+          "pin": "358",
+          "raw": "Decker v. City of Imperial Beach (1989) 209 Cal. App.3d 349, 358",
+          "span": [
+            910,
+            974
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In assessing where on the spectrum a particular negligent act falls, ' \"[t]he\namount of care demanded by the standard of reasonable conduct must be in\nproportion to the apparent risk. As the danger becomes greater, the actor is\nrequired to exercise caution commensurate with it.\" ' \" ( Hass v. RhodyCo\nProductions (2018) 26 Cal. App.5th 11, 32 [236 Cal. Rptr.3d 682].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Hass v. RhodyCo Productions",
+          "year": 2018,
+          "volume": 26,
+          "reporter": "Cal.App.5th",
+          "page": 11,
+          "pin": "32",
+          "raw": "Hass v. RhodyCo Productions (2018) 26 Cal. App.5th 11, 32",
+          "span": [
+            287,
+            344
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[A]lthough the existence of gross negligence is a matter generally for the trier\nof fact, it may be determined as a matter of law on summary judgment in an\nappropriate case.\" ( Joshi v. Fitness Internat., LLC (2022) 80 Cal. App.5th 814,\n828 [295 Cal. Rptr.3d 572], internal citation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Joshi v. Fitness Internat., LLC",
+          "year": 2022,
+          "volume": 80,
+          "reporter": "Cal.App.5th",
+          "page": 814,
+          "pin": "828",
+          "raw": "Joshi v. Fitness Internat., LLC (2022) 80 Cal. App.5th 814, 828",
+          "span": [
+            178,
+            241
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"The Legislature has enacted numerous statutes . . . which provide immunity to\npersons providing emergency assistance except when there is gross negligence.\n(See Bus. & Prof. Code, §2727.5 [immunity for licensed nurse who in good\nfaith renders emergency care at the scene of an emergency occurring outside the\nplace and course of nurse's employment unless the nurse is grossly negligent];\nBus. & Prof. Code, §2395.5 [immunity for a licensed physician who serves on-\ncall in a hospital emergency room who in good faith renders emergency\nobstetrical services unless the physician was grossly negligent, reckless, or\ncommitted willful misconduct]; Bus. & Prof. Code, §2398 [immunity for\nlicensed physician who in good faith and without compensation renders\nvoluntary emergency medical assistance to a participant in a community college\nor high school athletic event for an injury suffered in the course of that event\nunless the physician was grossly negligent]; Bus. & Prof. Code, §3706\n[immunity for certiﬁed respiratory therapist who in good faith renders emergency\ncare at the scene of an emergency occurring outside the place and course of\nemployment unless the respiratory therapist was grossly negligent]; Bus. & Prof.\nCode, §4840.6 [immunity for a registered animal health technician who in good\nfaith renders emergency animal health care at the scene of an emergency unless\nthe animal health technician was grossly negligent]; Civ. Code, §1714.2\n[immunity to a person who has completed a basic cardiopulmonary resuscitation\ncourse for cardiopulmonary resuscitation and emergency cardiac care who in\ngood faith renders emergency cardiopulmonary resuscitation at the scene of an\nemergency unless the individual was grossly negligent]; Health & Saf. Code,\n§1799.105 [immunity for poison control center personnel who in good faith\nprovide emergency information and advice unless they are grossly negligent];\nHealth & Saf. Code, §1799.106 [immunity for a ﬁreﬁghter, police officer or\nCACI No. 425 NEGLIGENCE\n282\nother law enforcement officer who in good faith renders emergency medical\nservices at the scene of an emergency unless the officer was grossly negligent];\nHealth & Saf. Code, §1799.107 [immunity for public entity and emergency\nrescue personnel acting in good faith within the scope of their employment\nunless they were grossly negligent].)\" ( Decker , supra, 209 Cal. App.3d at pp.\n356–357.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "2727.5",
+          "display": "Business and Professions Code section 2727.5",
+          "raw": "Bus. & Prof. Code, §2727.5",
+          "span": [
+            162,
+            188
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "2395.5",
+          "display": "Business and Professions Code section 2395.5",
+          "raw": "Bus. & Prof. Code, §2395.5",
+          "span": [
+            389,
+            415
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "2398",
+          "display": "Business and Professions Code section 2398",
+          "raw": "Bus. & Prof. Code, §2398",
+          "span": [
+            645,
+            669
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "3706",
+          "display": "Business and Professions Code section 3706",
+          "raw": "Bus. & Prof. Code, §3706",
+          "span": [
+            959,
+            983
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "BPC",
+          "section": "4840.6",
+          "display": "Business and Professions Code section 4840.6",
+          "raw": "Bus. & Prof.\nCode, §4840.6",
+          "span": [
+            1209,
+            1235
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1714.2",
+          "display": "Civil Code section 1714.2",
+          "raw": "Civ. Code, §1714.2",
+          "span": [
+            1432,
+            1450
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "HSC",
+          "section": "1799.105",
+          "display": "Health and Safety Code section 1799.105",
+          "raw": "Health & Saf. Code,\n§1799.105",
+          "span": [
+            1738,
+            1767
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "HSC",
+          "section": "1799.106",
+          "display": "Health and Safety Code section 1799.106",
+          "raw": "Health & Saf. Code, §1799.106",
+          "span": [
+            1909,
+            1938
+          ]
+        },
+        {
+          "jurisdiction": "CA",
+          "code": "HSC",
+          "section": "1799.107",
+          "display": "Health and Safety Code section 1799.107",
+          "raw": "Health & Saf. Code, §1799.107",
+          "span": [
+            2167,
+            2196
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"The jury here was instructed: 'It is the duty of one who undertakes to perform\nthe services of a police officer or paramedic to have the knowledge and skills\nordinarily possessed and to exercise the care and skill ordinarily used in like\ncases by police officers or paramedics in the same or similar locality and under\nsimilar circumstances. A failure to perform such duty is negligence. [para.] The\nstandard to be applied in this case is gross negligence. The term gross\nnegligence means the failure to provide even scant care or an extreme departure\nfrom the ordinary standard of conduct.' \" ( Wright v. City of L.A. (1990) 219\nCal. App.3d 318, 343 [268 Cal. Rptr. 309] [construing \"gross negligence\" under\nHealth & Saf. Code, §1799.106, which provides that a police officer or\nparamedic who renders emergency medical services at the scene of an\nemergency shall only be liable in civil damages for acts or omissions performed\nin a grossly negligent manner or not performed in good faith].)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "HSC",
+          "section": "1799.106",
+          "display": "Health and Safety Code section 1799.106",
+          "raw": "Health & Saf. Code, §1799.106",
+          "span": [
+            710,
+            739
+          ]
+        }
+      ],
+      "cases": [
+        {
+          "name": "Wright v. City of L.A.",
+          "year": 1990,
+          "volume": 219,
+          "reporter": "Cal.App.3d",
+          "page": 318,
+          "pin": "343",
+          "raw": "Wright v. City of L.A. (1990) 219 Cal. App.3d 318, 343",
+          "span": [
+            597,
+            651
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §1000\nAdvising and Defending Corporate Directors and Officers (Cont.Ed.Bar) §3.13\n1 Levy et al., California Torts, Ch. 1, General Principles of Liability , §1.01\n(Matthew Bender)\n33 California Forms of Pleading and Practice, Ch. 380, Negligence, §§380.10,\n380.171 (Matthew Bender)\nNEGLIGENCE CACI No. 425\n283",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "2727.5",
+      "display": "Business and Professions Code section 2727.5",
+      "raw": "Bus. & Prof. Code, §2727.5",
+      "span": [
+        162,
+        188
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/2727.5"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "2395.5",
+      "display": "Business and Professions Code section 2395.5",
+      "raw": "Bus. & Prof. Code, §2395.5",
+      "span": [
+        389,
+        415
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/2395.5"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "2398",
+      "display": "Business and Professions Code section 2398",
+      "raw": "Bus. & Prof. Code, §2398",
+      "span": [
+        645,
+        669
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/2398"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "3706",
+      "display": "Business and Professions Code section 3706",
+      "raw": "Bus. & Prof. Code, §3706",
+      "span": [
+        959,
+        983
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/3706"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "BPC",
+      "section": "4840.6",
+      "display": "Business and Professions Code section 4840.6",
+      "raw": "Bus. & Prof.\nCode, §4840.6",
+      "span": [
+        1209,
+        1235
+      ],
+      "role": "sources",
+      "statute_key": "CA/BPC/4840.6"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1714.2",
+      "display": "Civil Code section 1714.2",
+      "raw": "Civ. Code, §1714.2",
+      "span": [
+        1432,
+        1450
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1714.2"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "HSC",
+      "section": "1799.105",
+      "display": "Health and Safety Code section 1799.105",
+      "raw": "Health & Saf. Code,\n§1799.105",
+      "span": [
+        1738,
+        1767
+      ],
+      "role": "sources",
+      "statute_key": "CA/HSC/1799.105"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "HSC",
+      "section": "1799.106",
+      "display": "Health and Safety Code section 1799.106",
+      "raw": "Health & Saf. Code, §1799.106",
+      "span": [
+        1909,
+        1938
+      ],
+      "role": "sources",
+      "statute_key": "CA/HSC/1799.106"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "HSC",
+      "section": "1799.107",
+      "display": "Health and Safety Code section 1799.107",
+      "raw": "Health & Saf. Code, §1799.107",
+      "span": [
+        2167,
+        2196
+      ],
+      "role": "sources",
+      "statute_key": "CA/HSC/1799.107"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "831.7",
+      "display": "Government Code section 831.7",
+      "raw": "Gov. Code,\n§831.7(c)(1)(E)",
+      "span": [
+        150,
+        176
+      ],
+      "role": "directions",
+      "statute_key": "CA/GOV/831.7"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "831.7",
+      "display": "Government Code section 831.7(c)",
+      "raw": "Gov. Code,\n§831.7(c)(1)(E)",
+      "span": [
+        150,
+        176
+      ],
+      "subsection": "c",
+      "role": "directions",
+      "statute_key": "CA/GOV/831.7/c"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "831.7",
+      "display": "Government Code section 831.7(1)",
+      "raw": "Gov. Code,\n§831.7(c)(1)(E)",
+      "span": [
+        150,
+        176
+      ],
+      "subsection": "1",
+      "role": "directions",
+      "statute_key": "CA/GOV/831.7/1"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "GOV",
+      "section": "831.7",
+      "display": "Government Code section 831.7(E)",
+      "raw": "Gov. Code,\n§831.7(c)(1)(E)",
+      "span": [
+        150,
+        176
+      ],
+      "subsection": "E",
+      "role": "directions",
+      "statute_key": "CA/GOV/831.7/E"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Eriksson v. Nunnink",
+      "year": 2011,
+      "volume": 191,
+      "reporter": "Cal.App.4th",
+      "page": 826,
+      "pin": "856",
+      "raw": "Eriksson v. Nunnink (2011) 191 Cal. App.4th 826, 856",
+      "span": [
+        118,
+        170
+      ],
+      "role": "sources",
+      "case_key": "191 Cal.App.4th 826"
+    },
+    {
+      "name": "Cont'l Ins. Co. v. Am. Prot. Indus.",
+      "year": 1987,
+      "volume": 197,
+      "reporter": "Cal.App.3d",
+      "page": 322,
+      "pin": "329",
+      "raw": "Cont'l Ins. Co. v. Am. Prot. Indus. (1987) 197 Cal. App.3d 322, 329",
+      "span": [
+        207,
+        274
+      ],
+      "role": "sources",
+      "case_key": "197 Cal.App.3d 322"
+    },
+    {
+      "name": "Anderson v. Fitness Internat., LLC",
+      "year": 2016,
+      "volume": 4,
+      "reporter": "Cal.App.5th",
+      "page": 867,
+      "pin": "881",
+      "raw": "Anderson v. Fitness Internat., LLC (2016) 4 Cal. App.5th 867, 881",
+      "span": [
+        610,
+        675
+      ],
+      "role": "sources",
+      "case_key": "4 Cal.App.5th 867"
+    },
+    {
+      "name": "Decker v. City of Imperial Beach",
+      "year": 1989,
+      "volume": 209,
+      "reporter": "Cal.App.3d",
+      "page": 349,
+      "pin": "358",
+      "raw": "Decker v. City of Imperial Beach (1989) 209 Cal. App.3d 349, 358",
+      "span": [
+        910,
+        974
+      ],
+      "role": "sources",
+      "case_key": "209 Cal.App.3d 349"
+    },
+    {
+      "name": "Hass v. RhodyCo Productions",
+      "year": 2018,
+      "volume": 26,
+      "reporter": "Cal.App.5th",
+      "page": 11,
+      "pin": "32",
+      "raw": "Hass v. RhodyCo Productions (2018) 26 Cal. App.5th 11, 32",
+      "span": [
+        287,
+        344
+      ],
+      "role": "sources",
+      "case_key": "26 Cal.App.5th 11"
+    },
+    {
+      "name": "Joshi v. Fitness Internat., LLC",
+      "year": 2022,
+      "volume": 80,
+      "reporter": "Cal.App.5th",
+      "page": 814,
+      "pin": "828",
+      "raw": "Joshi v. Fitness Internat., LLC (2022) 80 Cal. App.5th 814, 828",
+      "span": [
+        178,
+        241
+      ],
+      "role": "sources",
+      "case_key": "80 Cal.App.5th 814"
+    },
+    {
+      "name": "Wright v. City of L.A.",
+      "year": 1990,
+      "volume": 219,
+      "reporter": "Cal.App.3d",
+      "page": 318,
+      "pin": "343",
+      "raw": "Wright v. City of L.A. (1990) 219 Cal. App.3d 318, 343",
+      "span": [
+        597,
+        651
+      ],
+      "role": "sources",
+      "case_key": "219 Cal.App.3d 318"
+    },
+    {
+      "name": "Wood v. County of San Joaquin",
+      "year": 2003,
+      "volume": 111,
+      "reporter": "Cal.App.4th",
+      "page": 960,
+      "pin": "971",
+      "raw": "Wood v. County of San Joaquin (2003) 111 Cal. App.4th 960, 971",
+      "span": [
+        473,
+        535
+      ],
+      "role": "directions",
+      "case_key": "111 Cal.App.4th 960"
+    },
+    {
+      "name": "See City of Santa Barbara v. Superior Court",
+      "year": 2007,
+      "volume": 41,
+      "reporter": "Cal.4th",
+      "page": 747,
+      "pin": "777",
+      "raw": "See City of Santa Barbara v. Superior Court (2007) 41 Cal. 4th 747, 777",
+      "span": [
+        981,
+        1052
+      ],
+      "role": "directions",
+      "case_key": "41 Cal.4th 747"
+    },
+    {
+      "name": "Eriksson v. Nunnink",
+      "year": 2015,
+      "volume": 233,
+      "reporter": "Cal.App.4th",
+      "page": 708,
+      "pin": "732",
+      "raw": "Eriksson v. Nunnink (2015) 233 Cal. App.4th 708, 732",
+      "span": [
+        1326,
+        1378
+      ],
+      "role": "directions",
+      "case_key": "233 Cal.App.4th 708"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:08+00:00"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "CACI-222",
+  "edition": "2026",
+  "number": "222",
+  "title": "Evidence of Sliding-Scale Settlement",
+  "title_full": "Evidence of Sliding-Scale Settlement",
+  "title_statute": null,
+  "series": "200",
+  "series_title": "Series 200 Evidence",
+  "page_start": 150,
+  "page_end": 151,
+  "instruction_text": "222. Evidence of Sliding-Scale Settlement\nY ou have heard evidence that there was a settlement agreement between\n[name of settling defendant ] and [ name of plaintiff ].\nUnder this agreement, the amount of money that [ name of settling\ndefendant] will have to pay to [ name of plaintiff ] will depend on the\namount of money that [ name of plaintiff ] receives from [ name of\nnonsettling defendant ] at trial. The more money that [ name of plaintiff ]\nmight receive from [ name of nonsettling defendant ], the less that [ name of\nsettling defendant ] will have to pay under the agreement.\nY ou may consider evidence of the settlement only to decide whether\n[name of settling defendant/name of witness ] [, who testiﬁed on behalf of\n[name of settling defendant ],] is biased or prejudiced and whether [his/her/\nnonbinary pronoun] testimony is believable.",
+  "directions_for_use": "Use this instruction for cases involving sliding scale or \"Mary Carter\" settlement\nagreements if a party who settled appears at trial as a witness. A \"Mary Carter\"\nagreement calls for the settling defendant to participate in the trial on the plaintiff's\nbehalf, and provides for a settling defendant to be credited for amounts the plaintiff\nrecovers from nonsettling defendants. It is secret and raises concerns of collusion\nand the potential for fraud. The interests of the parties are realigned in a manner not\napparent to the trier of fact. ( Diamond v. Reshko (2015) 239 Cal. App.4th 828, 843,\nfn. 7 [191 Cal. Rptr.3d 438].)\nThe court must give this instruction on the motion of any party unless it ﬁnds that\ndisclosure will create substantial danger of undue prejudice, of confusing the issues,\nor of misleading the jury. (Code Civ. Proc., §877.5(a)(2).)\nIf the settling defendant is an entity, insert the name of the witness who testiﬁed on\nbehalf of the entity and include the bracketed language in the third paragraph.\nSee CACI No. 217, Evidence of Settlement . See also CACI No. 3926, Settlement\nDeduction.",
+  "sources_and_authority": [
+    {
+      "raw": "Evidence of Settlement. Code of Civil Procedure section 877.5(a)(2).",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[W]hen a defendant is a party to a sliding scale settlement, which is also called\na 'Mary Carter' agreement, that agreement must be disclosed to the jury if the\nsettling defendant testiﬁes at trial, unless the court ﬁnds that the disclosure will\ncreate a substantial danger of undue prejudice.\" ( Diamond, supra , 239\nCal. App.4th at p. 843.)\n76",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Evidence of a settlement agreement is admissible to show bias or prejudice of an\nadverse party. Relevant evidence includes evidence relevant to the credibility of\na witness. ( Moreno v. Sayre (1984) 162 Cal. App.3d 116, 126 [208 Cal. Rptr.\n444].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Moreno v. Sayre",
+          "year": 1984,
+          "volume": 162,
+          "reporter": "Cal.App.3d",
+          "page": 116,
+          "pin": "126",
+          "raw": "Moreno v. Sayre (1984) 162 Cal. App.3d 116, 126",
+          "span": [
+            176,
+            223
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "Evidence of a prior settlement is not automatically admissible. \"Even if it\nappears that a witness could have been inﬂuenced in his testimony by the\npayment of money or the obtaining of a dismissal, the party resisting the\nadmission of such evidence may still appeal to the court's discretion to exclude\nit under section 352 of the code.\" ( Granville v. Parsons (1968) 259 Cal. App.2d\n298, 305 [66 Cal. Rptr. 149].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Granville v. Parsons",
+          "year": 1968,
+          "volume": 259,
+          "reporter": "Cal.App.2d",
+          "page": 298,
+          "pin": "305",
+          "raw": "Granville v. Parsons (1968) 259 Cal. App.2d 298, 305",
+          "span": [
+            341,
+            393
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §211\n5 Levy et al., California Torts, Ch. 74, Resolving Multiparty Tort Litigation , §74.27\n(Matthew Bender)\n25 California Forms of Pleading and Practice, Ch. 300, Indemnity and Contribution ,\n§300.73[10] (Matthew Bender)\n46 California Forms of Pleading and Practice, Ch. 520, Settlement and Release ,\n§520.16[3] (Matthew Bender)\n3 California Pretrial Civil Procedure Practice Guide: The Wagstaffe Group, Ch. 57,\nSettlement and Release , §57-V\nEVIDENCE CACI No. 222\n77",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Moreno v. Sayre",
+      "year": 1984,
+      "volume": 162,
+      "reporter": "Cal.App.3d",
+      "page": 116,
+      "pin": "126",
+      "raw": "Moreno v. Sayre (1984) 162 Cal. App.3d 116, 126",
+      "span": [
+        176,
+        223
+      ],
+      "role": "sources",
+      "case_key": "162 Cal.App.3d 116"
+    },
+    {
+      "name": "Granville v. Parsons",
+      "year": 1968,
+      "volume": 259,
+      "reporter": "Cal.App.2d",
+      "page": 298,
+      "pin": "305",
+      "raw": "Granville v. Parsons (1968) 259 Cal. App.2d 298, 305",
+      "span": [
+        341,
+        393
+      ],
+      "role": "sources",
+      "case_key": "259 Cal.App.2d 298"
+    },
+    {
+      "name": "Diamond v. Reshko",
+      "year": 2015,
+      "volume": 239,
+      "reporter": "Cal.App.4th",
+      "page": 828,
+      "pin": "843",
+      "raw": "Diamond v. Reshko (2015) 239 Cal. App.4th 828, 843",
+      "span": [
+        546,
+        596
+      ],
+      "role": "directions",
+      "case_key": "239 Cal.App.4th 828"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}

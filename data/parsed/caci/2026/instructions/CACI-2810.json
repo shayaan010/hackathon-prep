@@ -1,0 +1,251 @@
+{
+  "id": "CACI-2810",
+  "edition": "2026",
+  "number": "2810",
+  "title": "Coemployee’s Affirmative Defense—Injury Covered by Workers’ Compensation",
+  "title_full": "Coemployee’s Affirmative Defense—Injury Covered by Workers’ Compensation",
+  "title_statute": null,
+  "series": "2800",
+  "series_title": "Series 2800 Workers’ Compensation",
+  "page_start": 2036,
+  "page_end": 2038,
+  "instruction_text": "2810. Coemployee's Affirmative Defense–Injury Covered by\nWorkers' Compensation\n[Name of defendant ] claims that [he/she/ nonbinary pronoun] is not\nresponsible for any harm that [ name of plaintiff ] may have suffered\nbecause [he/she/ nonbinary pronoun] was [ name of defendant ]'s coemployee\nand therefore can recover only under California's Workers'\nCompensation Act. To succeed, [ name of defendant ] must prove all of the\nfollowing:\n1. That [ name of plaintiff ] and [ name of defendant ] were [ name of\nemployer]'s employees;\n2. That [ name of employer ] [had workers' compensation insurance\n[covering [ name of plaintiff ] at the time of injury]/was self-insured\nfor workers' compensation claims [at the time of [ name of\nplaintiff]'s injury]]; and\n3. That [ name of defendant ] was acting in the scope of\n[his/her/nonbinary pronoun ] employment at the time [ name of\nplaintiff] claims [he/she/ nonbinary pronoun ] was harmed.",
+  "directions_for_use": "This instruction is intended for use if a coemployee is the defendant and that\ncoemployee claims that the case falls within the workers' compensation exclusivity\nrule. For instructions on scope of employment see instructions in the Vicarious\nLiability series (CACI Nos. 3700–3726). Scope of employment in this instruction is\nthe same as in the context of respondeat superior. ( Hendy v. Losse (1991) 54 Cal. 3d\n723, 740 [1 Cal. Rptr.2d 543, 819 P.2d 1].) See instructions in the Vicarious\nResponsibility series regarding the deﬁnition of \"scope of employment.\"",
+  "sources_and_authority": [
+    {
+      "raw": "Exclusive Remedy. Labor Code section 3601.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3601",
+          "display": "Labor Code section 3601",
+          "raw": "Labor Code section 3601",
+          "span": [
+            18,
+            41
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"Employee\" Deﬁned. Labor Code section 3351.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3351",
+          "display": "Labor Code section 3351",
+          "raw": "Labor Code section 3351",
+          "span": [
+            19,
+            42
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Presumption of Employment Status. Labor Code section 3357.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3357",
+          "display": "Labor Code section 3357",
+          "raw": "Labor Code section 3357",
+          "span": [
+            34,
+            57
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"CACI No. 2810, which the trial court gave to the jury, is intended for use when\na coemployee defendant asserts the exclusivity rule as a defense. It has three\nelements: (1) the plaintiff and the coemployee were employees of the employer;\n(2) the employer had a workers' compensation insurance policy covering the\nplaintiff at the time of injury; and (3) the coemployee was acting in the scope of\nhis or her employment at the time of injury.\" ( Lee v. West Kern Water Dist.\n(2016) 5 Cal. App.5th 606, 633 [210 Cal. Rptr.3d 362].)\n150",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Lee v. West Kern Water Dist.",
+          "year": 2016,
+          "volume": 5,
+          "reporter": "Cal.App.5th",
+          "page": 606,
+          "pin": "633",
+          "raw": "Lee v. West Kern Water Dist. (2016) 5 Cal. App.5th 606, 633",
+          "span": [
+            445,
+            504
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"Labor Code section 3601 affords coemployees the beneﬁt of the exclusivity rule\nonly '[w]here the conditions of compensation set forth in Section 3600\nconcur . . . .' Those conditions, as has been mentioned, include the requirement\nof industrial causation.\" ( Lee, supra , 5 Cal. App.5th at p. 634, internal citation\nomitted.)",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "LAB",
+          "section": "3601",
+          "display": "Labor Code section 3601",
+          "raw": "Labor Code section 3601",
+          "span": [
+            1,
+            24
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "\"[A] coemployee's conduct is within the scope of his or her employment if it\ncould be imputed to the employer under the doctrine of respondeat superior. If\nthe coemployee was not 'engaged in any active service for the employer,' the\ncoemployee was not acting within the scope of employment.\" ( Hendy, supra, 54\nCal. 3d at p. 740, internal citation omitted.)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "\"[G]enerally speaking, a defendant in a civil action who claims to be one of that\nclass of persons protected from an action at law by the provisions of the\nWorkers' Compensation Act bears the burden of pleading and proving, as an\naffirmative defense to the action, the existence of the conditions of compensation\nset forth in the statute which are necessary to its application.\" ( Doney v.\nTambouratgis (1979) 23 Cal. 3d 91, 96 [151 Cal. Rptr. 347, 587 P.2d 1160].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Doney v. Tambouratgis",
+          "year": 1979,
+          "volume": 23,
+          "reporter": "Cal.3d",
+          "page": 91,
+          "pin": "96",
+          "raw": "Doney v. Tambouratgis (1979) 23 Cal. 3d 91, 96",
+          "span": [
+            381,
+            427
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"In general, if an employer condones what courts have described as 'horseplay'\namong its employees, an employee who engages in it is within the scope of\nemployment under section 3601, subdivision (a), and is thus immune from suit,\nunless exceptions apply.\" ( Torres v. Parkhouse Tire Service, Inc. (2001) 26\nCal. 4th 995, 1006 [111 Cal. Rptr.2d 564, 30 P.3d 57], internal citations omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Torres v. Parkhouse Tire Service, Inc.",
+          "year": 2001,
+          "volume": 26,
+          "reporter": "Cal.4th",
+          "page": 995,
+          "pin": "1006",
+          "raw": "Torres v. Parkhouse Tire Service, Inc. (2001) 26 Cal. 4th 995, 1006",
+          "span": [
+            259,
+            326
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "2 Witkin, Summary of California Law (11th ed. 2017) Workers' Compensation,\n§§73, 74\nChin et al., California Practice Guide: Employment Litigation, Ch. 5(I)-F,\nIntentional Interference with Contract or Prospective Economic Advantage , ¶ 5:624\n(The Rutter Group)\nChin et al., California Practice Guide: Employment Litigation, Ch. 12-B, Family and\nMedical Leave Act (FMLA)/California Family Rights Act (CFRA) , ¶ 12:192 (The\nRutter Group)\nChin et al., California Practice Guide: Employment Litigation, Ch. 13-I, Collateral\n(Non-OSHA) Actions Relating to Occupational Safety and Health , ¶ 13:951 (The\nRutter Group)\nChin et al., California Practice Guide: Employment Litigation, Ch. 15-F, California\nWorkers' Compensation Act Preemption , ¶¶ 15:546, 15:569, 15:632 (The Rutter\nGroup)\n1 Herlick, California Workers' Compensation Law (6th ed.), Ch. 12, Tort\nActions–Subrogation, §12.22 (Matthew Bender)\n1 California Employment Law, Ch. 20, Liability for Work-Related Injuries , §20.43\n(Matthew Bender)\n1 Levy et al., California Torts, Ch. 10, Effect of Workers' Compensation Law ,\n§10.13 (Matthew Bender)\n51 California Forms of Pleading and Practice, Ch. 577, Workers' Compensation ,\nWORKERS' COMPENSA TION CACI No. 2810\n151\n§577.316 (Matthew Bender)\n23 California Points and Authorities, Ch. 239, Workers' Compensation Exclusive\nRemedy Doctrine (Matthew Bender)\nCACI No. 2810 WORKERS' COMPENSA TION\n152",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3601",
+      "display": "Labor Code section 3601",
+      "raw": "Labor Code section 3601",
+      "span": [
+        18,
+        41
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/3601"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3351",
+      "display": "Labor Code section 3351",
+      "raw": "Labor Code section 3351",
+      "span": [
+        19,
+        42
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/3351"
+    },
+    {
+      "jurisdiction": "CA",
+      "code": "LAB",
+      "section": "3357",
+      "display": "Labor Code section 3357",
+      "raw": "Labor Code section 3357",
+      "span": [
+        34,
+        57
+      ],
+      "role": "sources",
+      "statute_key": "CA/LAB/3357"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Lee v. West Kern Water Dist.",
+      "year": 2016,
+      "volume": 5,
+      "reporter": "Cal.App.5th",
+      "page": 606,
+      "pin": "633",
+      "raw": "Lee v. West Kern Water Dist. (2016) 5 Cal. App.5th 606, 633",
+      "span": [
+        445,
+        504
+      ],
+      "role": "sources",
+      "case_key": "5 Cal.App.5th 606"
+    },
+    {
+      "name": "Doney v. Tambouratgis",
+      "year": 1979,
+      "volume": 23,
+      "reporter": "Cal.3d",
+      "page": 91,
+      "pin": "96",
+      "raw": "Doney v. Tambouratgis (1979) 23 Cal. 3d 91, 96",
+      "span": [
+        381,
+        427
+      ],
+      "role": "sources",
+      "case_key": "23 Cal.3d 91"
+    },
+    {
+      "name": "Torres v. Parkhouse Tire Service, Inc.",
+      "year": 2001,
+      "volume": 26,
+      "reporter": "Cal.4th",
+      "page": 995,
+      "pin": "1006",
+      "raw": "Torres v. Parkhouse Tire Service, Inc. (2001) 26 Cal. 4th 995, 1006",
+      "span": [
+        259,
+        326
+      ],
+      "role": "sources",
+      "case_key": "26 Cal.4th 995"
+    },
+    {
+      "name": "Hendy v. Losse",
+      "year": 1991,
+      "volume": 54,
+      "reporter": "Cal.3d",
+      "page": 723,
+      "pin": "740",
+      "raw": "Hendy v. Losse (1991) 54 Cal. 3d 723, 740",
+      "span": [
+        378,
+        419
+      ],
+      "role": "directions",
+      "case_key": "54 Cal.3d 723"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:19+00:00"
+}

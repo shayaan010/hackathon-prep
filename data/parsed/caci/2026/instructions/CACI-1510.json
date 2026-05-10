@@ -1,0 +1,123 @@
+{
+  "id": "CACI-1510",
+  "edition": "2026",
+  "number": "1510",
+  "title": "Affirmative Defense—Reliance on Counsel",
+  "title_full": "Affirmative Defense—Reliance on Counsel",
+  "title_statute": null,
+  "series": "1500",
+  "series_title": "Series 1500 Malicious Prosecution",
+  "page_start": 1031,
+  "page_end": 1031,
+  "instruction_text": "1510. Affirmative Defense–Reliance on Counsel\n[Name of defendant ] claims that [he/she/ nonbinary pronoun] had\nreasonable grounds for [causing or continuing the criminal proceeding/\nbringing or continuing a [lawsuit/administrative proceeding]] because\n[he/she/nonbinary pronoun] was relying on the advice of an attorney. To\nsucceed, [ name of defendant ] must prove both of the following:\n1. That [ name of defendant ] made a full and honest disclosure of all\nthe important facts known to [him/her/ nonbinary pronoun ] to the\n[district attorney/attorney]; and\n2. That [he/she/ nonbinary pronoun ] reasonably relied on the [district\nattorney/attorney]'s advice.",
+  "directions_for_use": "",
+  "sources_and_authority": [
+    {
+      "raw": "\" 'Good faith reliance on the advice of counsel, after truthful disclosure of all\nthe relevant facts, is a complete defense to a malicious prosecution claim.' The\nburden of proving the advice of counsel defense is on [defendant].\" ( Nunez v.\nPennisi (2015) 241 Cal. App.4th 861, 876–877 [193 Cal. Rptr.3d 912], internal\ncitation omitted.)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Nunez v. Pennisi",
+          "year": 2015,
+          "volume": 241,
+          "reporter": "Cal.App.4th",
+          "page": 861,
+          "pin": "876–877",
+          "raw": "Nunez v. Pennisi (2015) 241 Cal. App.4th 861, 876–877",
+          "span": [
+            233,
+            286
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[I]f the initiator acts in bad faith or withholds from counsel facts he knew or\nshould have known would defeat a cause of action otherwise appearing from the\ninformation supplied, [the] defense fails.\" ( Bertero v. National General Corp.\n(1974) 13 Cal. 3d 43, 53–54 [118 Cal. Rptr. 184, 529 P.2d 608].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Bertero v. National General Corp.",
+          "year": 1974,
+          "volume": 13,
+          "reporter": "Cal.3d",
+          "page": 43,
+          "pin": "53–54",
+          "raw": "Bertero v. National General Corp. (1974) 13 Cal. 3d 43, 53–54",
+          "span": [
+            205,
+            266
+          ]
+        }
+      ]
+    },
+    {
+      "raw": "\"[T]he defense that a criminal prosecution was commenced upon the advice of\ncounsel is unavailing in an action for malicious prosecution if it appears . . .\nthat the defendant did not believe that the accused was guilty of the crime\ncharged.\" ( Singleton v. Singleton (1945) 68 Cal. App.2d 681, 695 [157 P.2d\n886].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Singleton v. Singleton",
+          "year": 1945,
+          "volume": 68,
+          "reporter": "Cal.App.2d",
+          "page": 681,
+          "pin": "695",
+          "raw": "Singleton v. Singleton (1945) 68 Cal. App.2d 681, 695",
+          "span": [
+            245,
+            298
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "5 Witkin, Summary of California Law (11th ed. 2017) Torts, §§602, 604\n4 Levy et al., California Torts, Ch. 43, Malicious Prosecution and Abuse of Process ,\n§43.07 (Matthew Bender)\n31 California Forms of Pleading and Practice, Ch. 357, Malicious Prosecution and\nAbuse of Process , §357.23 (Matthew Bender)\n14 California Points and Authorities, Ch. 147, Malicious Prosecution and Abuse of\nProcess, §§147.37, 147.46 (Matthew Bender)\n957",
+  "all_statutes": [],
+  "all_cases": [
+    {
+      "name": "Nunez v. Pennisi",
+      "year": 2015,
+      "volume": 241,
+      "reporter": "Cal.App.4th",
+      "page": 861,
+      "pin": "876–877",
+      "raw": "Nunez v. Pennisi (2015) 241 Cal. App.4th 861, 876–877",
+      "span": [
+        233,
+        286
+      ],
+      "role": "sources",
+      "case_key": "241 Cal.App.4th 861"
+    },
+    {
+      "name": "Bertero v. National General Corp.",
+      "year": 1974,
+      "volume": 13,
+      "reporter": "Cal.3d",
+      "page": 43,
+      "pin": "53–54",
+      "raw": "Bertero v. National General Corp. (1974) 13 Cal. 3d 43, 53–54",
+      "span": [
+        205,
+        266
+      ],
+      "role": "sources",
+      "case_key": "13 Cal.3d 43"
+    },
+    {
+      "name": "Singleton v. Singleton",
+      "year": 1945,
+      "volume": 68,
+      "reporter": "Cal.App.2d",
+      "page": 681,
+      "pin": "695",
+      "raw": "Singleton v. Singleton (1945) 68 Cal. App.2d 681, 695",
+      "span": [
+        245,
+        298
+      ],
+      "role": "sources",
+      "case_key": "68 Cal.App.2d 681"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:12+00:00"
+}

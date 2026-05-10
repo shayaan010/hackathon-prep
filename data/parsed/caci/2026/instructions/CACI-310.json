@@ -1,0 +1,91 @@
+{
+  "id": "CACI-310",
+  "edition": "2026",
+  "number": "310",
+  "title": "Contract Formation—Acceptance by Silence",
+  "title_full": "Contract Formation—Acceptance by Silence",
+  "title_statute": null,
+  "series": "300",
+  "series_title": "Series 300 Contracts",
+  "page_start": 182,
+  "page_end": 182,
+  "instruction_text": "310. Contract Formation–Acceptance by Silence\nOrdinarily, if a person does not say or do anything in response to\nanother party's offer, then the person has not accepted the offer.\nHowever, if [ name of plaintiff ] proves that both [he/she/ nonbinary pronoun/\nit] and [ name of defendant ] understood silence or inaction to mean that\n[name of defendant ] had accepted [ name of plaintiff ]'s offer, then there was\nan acceptance.",
+  "directions_for_use": "This instruction assumes that the defendant is claiming to have not accepted\nplaintiff's offer. Change the identities of the parties in the last two sets of brackets\nif, under the facts of the case, the roles of the parties are switched (e.g., if defendant\nwas the alleged offeror).\nThis instruction should be read in conjunction with and immediately after CACI\nNo. 309, Contract Formation–Acceptance , if acceptance by silence is an issue.",
+  "sources_and_authority": [
+    {
+      "raw": "Consent by Acceptance of Beneﬁts. Civil Code section 1589.",
+      "statutes": [
+        {
+          "jurisdiction": "CA",
+          "code": "CIV",
+          "section": "1589",
+          "display": "Civil Code section 1589",
+          "raw": "Civil Code section 1589",
+          "span": [
+            34,
+            57
+          ]
+        }
+      ],
+      "cases": []
+    },
+    {
+      "raw": "Because acceptance must be communicated, \"[s]ilence in the face of an offer is\nnot an acceptance, unless there is a relationship between the parties or a previous\ncourse of dealing pursuant to which silence would be understood as acceptance.\"\n(Southern California Acoustics Co., Inc. v. C. V . Holder , Inc. (1969) 71 Cal. 2d\n719, 722 [79 Cal. Rptr. 319, 456 P.2d 975].)",
+      "statutes": [],
+      "cases": []
+    },
+    {
+      "raw": "Acceptance may also be inferred from inaction where one has a duty to act, and\nfrom retention of the offered beneﬁt. ( Golden Eagle Insurance Co. v. Foremost\nInsurance Co. (1993) 20 Cal. App.4th 1372, 1386 [25 Cal. Rptr.2d 242].)",
+      "statutes": [],
+      "cases": [
+        {
+          "name": "Golden Eagle Insurance Co. v. Foremost Insurance Co.",
+          "year": 1993,
+          "volume": 20,
+          "reporter": "Cal.App.4th",
+          "page": 1372,
+          "pin": "1386",
+          "raw": "Golden Eagle Insurance Co. v. Foremost Insurance Co. (1993) 20 Cal. App.4th 1372, 1386",
+          "span": [
+            119,
+            205
+          ]
+        }
+      ]
+    }
+  ],
+  "secondary_sources": "1 Witkin, Summary of California Law (11th ed. 2017) Contracts, §§193–197\n13 California Forms of Pleading and Practice, Ch. 140, Contracts, §140.22\n(Matthew Bender)\n27 California Legal Forms, Ch. 75, Formation of Contracts and Standard\nContractual Provisions, §75.11 (Matthew Bender)\n1 Matthew Bender Practice Guide: California Contract Litigation, Ch. 13, Attacking\nor Defending Existence of Contract–Absence of Essential Element , 13.31\n108",
+  "all_statutes": [
+    {
+      "jurisdiction": "CA",
+      "code": "CIV",
+      "section": "1589",
+      "display": "Civil Code section 1589",
+      "raw": "Civil Code section 1589",
+      "span": [
+        34,
+        57
+      ],
+      "role": "sources",
+      "statute_key": "CA/CIV/1589"
+    }
+  ],
+  "all_cases": [
+    {
+      "name": "Golden Eagle Insurance Co. v. Foremost Insurance Co.",
+      "year": 1993,
+      "volume": 20,
+      "reporter": "Cal.App.4th",
+      "page": 1372,
+      "pin": "1386",
+      "raw": "Golden Eagle Insurance Co. v. Foremost Insurance Co. (1993) 20 Cal. App.4th 1372, 1386",
+      "span": [
+        119,
+        205
+      ],
+      "role": "sources",
+      "case_key": "20 Cal.App.4th 1372"
+    }
+  ],
+  "parsed_at": "2026-05-09T19:19:07+00:00"
+}
