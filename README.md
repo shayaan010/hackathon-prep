@@ -97,11 +97,6 @@ Freeform LLM responses are hard to validate. By using Claude's tool use mode wit
 
 ---
 
-## License
-
-Distributed under the MIT License.
-
----
 
 <!-- Badge definitions -->
 [contributors-badge]: https://img.shields.io/badge/contributors-5-blue
