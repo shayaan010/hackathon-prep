@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="212" height="79" alt="image" src="https://github.com/user-attachments/assets/dadff85a-3b57-4d83-adba-96a3d845b892" />
+
+
 # ⚖️ Lex Harvester
 
 ### A research workbench for personal injury attorneys — built at the EvenUp × OpenClaw Hackathon.
