@@ -5,9 +5,6 @@
 ### A research workbench for personal injury attorneys — built at the EvenUp × OpenClaw Hackathon.
 
 
-
-[View Demo](#getting-started) 
-
 </div>
 
 ---
