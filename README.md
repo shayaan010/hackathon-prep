@@ -4,10 +4,7 @@
 
 ### Reusable building blocks for the EvenUp × OpenClaw hackathon — PI legal data.
 
-[![Contributors][contributors-badge]](#)
-[![License: MIT][license-badge]](#)
-[![Python][python-badge]](#)
-[![React][react-badge]](#)
+
 
 [View Docs](#quick-reference) · [Report Bug](#) · [Request Feature](#)
 
