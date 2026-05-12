@@ -103,7 +103,7 @@ cd frontend && bun install && bun run dev           # UI on :3000
 
 ---
 
-## Statute Corpus (ingest/)
+## Statute Database (ingest/)
 
 Covers **CA Vehicle Code**, **NY Vehicle & Traffic Law**, and **TX Transportation Code**. See `ingest/README.md` for the full pipeline and instructions for adding new jurisdictions.
 
