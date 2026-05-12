@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚖️ Hackathon Prep Scaffold
+# ⚖️ LexHarvester
 
 ### Reusable building blocks for the EvenUp × OpenClaw hackathon — PI legal data.
 
