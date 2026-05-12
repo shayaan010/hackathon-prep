@@ -22,8 +22,6 @@
    - [What's Here](#whats-here)
    - [Built With](#built-with)
 2. [Getting Started](#getting-started)
-   - [Day-of Workflow](#day-of-workflow)
-   - [Local Postgres (pgvector)](#local-postgres-pgvector)
 3. [Statute Corpus](#statute-corpus-ingest)
 4. [Quick Reference](#quick-reference)
 5. [Key Design Decisions](#key-design-decisions)
@@ -94,121 +92,42 @@ test_claude.py             # 30-second sanity check that ANTHROPIC_API_KEY works
 
 ## Getting Started
 
-### Day-of Workflow
-
-> ⚠️ **First 30 min after eval drops — do NOT code.** Read tiers, pick one, sketch the data flow on paper, decide team roles.
-
-**Morning setup — once you receive your API key:**
+Add your API key, then verify setup:
 
 ```bash
-nano .env                                    # add real ANTHROPIC_API_KEY
-uv run python test_claude.py                 # → "setup works"
-uv run python pipeline_example.py           # full pipeline smoke test
+nano .env                        # add ANTHROPIC_API_KEY
+uv run python test_claude.py     # → "setup works"
 ```
 
-**Start the dev servers** (separate terminals):
+Start the dev servers (separate terminals):
 
 ```bash
-# Terminal 1 — Python API on :8000
-uv run uvicorn api.main:app --reload --port 8000
-
-# Terminal 2 — React UI on :3000
-cd frontend && bun install && bun run dev
-```
-
-**Build phase tips:**
-
-- **New jurisdiction** → drop a fetcher under `ingest/sources/<slug>.py`; `consolidate_jsonl` auto-discovers it.
-- **Non-statute sources** → extend `ingest/scrape.py` or `ingest/courtlistener.py`.
-- **Custom extraction** → modify `extract/schemas.py`.
-- Storage / search / demo stay as-is.
-
-> 🛑 **3:45 PM — stop coding, rehearse demo. Code freeze at 4 PM.**
-
----
-
-### Local Postgres (pgvector)
-
-```bash
-# Start
-docker compose -f docker-compose.postgres.yml up -d
-
-# Seed statutes
-export POSTGRES_DSN="postgresql://postgres:postgres@localhost:5432/hackathon"
-uv run python scripts/load_released_set.py
-
-# Run API (reads from Postgres when POSTGRES_DSN is set)
-uv run uvicorn api.main:app --reload --port 8000
-
-# Stop
-docker compose -f docker-compose.postgres.yml down
+uv run uvicorn api.main:app --reload --port 8000   # API on :8000
+cd frontend && bun install && bun run dev           # UI on :3000
 ```
 
 ---
 
 ## Statute Corpus (ingest/)
 
-Covers **CA Vehicle Code**, **NY Vehicle & Traffic Law**, and **TX Transportation Code**. See `ingest/README.md` for the full pipeline, CLI reference, and instructions for adding new jurisdictions.
+Covers **CA Vehicle Code**, **NY Vehicle & Traffic Law**, and **TX Transportation Code**. See `ingest/README.md` for the full pipeline and instructions for adding new jurisdictions.
 
-```bash
-# 1. Fetch raw HTML (cached; idempotent re-runs)
-uv run python -m ingest.sources.ca_leginfo_pages
-uv run python -m ingest.sources.ny_public_law
-uv run python -m ingest.sources.tx_public_law
-
-# 2. Parse to structured JSON (SHA-cached)
-uv run python -m ingest.parsers.run_ca_leginfo
-uv run python -m ingest.parsers.run_public_law -j NY
-uv run python -m ingest.parsers.run_public_law -j TX
-
-# 3. Consolidate into unified JSONL (auto-discovers sources)
-uv run python -m ingest.parsers.consolidate_jsonl
-# → data/parsed/jsonl/{ca,ny,tx}/<CODE>.jsonl
-```
+The three-step pipeline (fetch → parse → consolidate) is idempotent — safe to re-run at any point. Output lands in `data/parsed/jsonl/{ca,ny,tx}/`.
 
 ---
 
 ## Quick Reference
 
-```python
-# Statutes
-from ingest.parsers import StatuteSection, parse_section_html, parse_public_law_html
-# Or read data/parsed/jsonl/<juris>/<CODE>.jsonl directly
+All modules are importable by path — see the inline docstrings in each file for full usage. Key entry points:
 
-# Scrape
-from ingest.scrape import fetch, fetch_many, fetch_bytes
-from ingest.courtlistener import search_opinions, fetch_opinion
-from ingest.parse_pdf import extract_text, extract_full_text
-
-# Store
-from store.db import Database
-db = Database("hackathon.db")
-db.init_schema()
-
-# Extract
-from extract.llm import extract, extract_many
-from extract.schemas import CaseMetadata, Verdict, DocketEntry, Attorney
-result = extract(text, Verdict, "Extract the verdict.")
-
-# Search
-from search.semantic import SemanticIndex
-idx = SemanticIndex(db)
-idx.index_document(doc_id, text)
-hits = idx.search("query text", top_k=10)
-```
-
-**Demo (React UI — preferred):**
-```bash
-# Terminal 1
-uv run uvicorn api.main:app --reload --port 8000
-# Terminal 2
-cd frontend && bun install && bun run dev
-```
-
-**Demo (legacy Streamlit):**
-```bash
-uv run streamlit run demo/app.py
-```
+| Module | What it does |
+|--------|-------------|
+| `extract.llm` | Claude tool-use wrapper — pass a Pydantic schema, get a validated result |
+| `extract.schemas` | Pre-built schemas: `CaseMetadata`, `Verdict`, `DocketEntry`, `Attorney` |
+| `search.semantic` | Chunk → embed → store → cosine query (local, no API cost) |
+| `store.db` | SQLite with source-tracking; call `db.init_schema()` once |
+| `ingest.scrape` | Generic `fetch` / `fetch_many` helpers |
+| `ingest.courtlistener` | CourtListener opinion search + fetch |
 
 ---
 
