@@ -26,7 +26,8 @@
 ---
 
 ## About The Project
-<img width="2560" height="1232" alt="image" src="https://github.com/user-attachments/assets/4472272c-d2fe-47d7-bede-f7207d92944b" />
+<img width="2559" height="1175" alt="image" src="https://github.com/user-attachments/assets/69b0399c-11d0-4d75-bb61-01e420f8562d" />
+
 
 
 **Lex Harvester** is a research workbench for personal injury attorneys. It helps lawyers surface relevant statutes, pull comparable verdicts, and spot gaps in their research — with every result traceable back to a verified public source.
