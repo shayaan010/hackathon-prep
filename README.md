@@ -1,12 +1,11 @@
 <div align="center">
 
-# ⚖️ LexHarvester
+# ⚖️ Lex Harvester
 
-### Reusable building blocks for the EvenUp × OpenClaw hackathon — PI legal data.
+### A research workbench for personal injury attorneys — built at the EvenUp × OpenClaw Hackathon.
 
 
-
-[View Docs](#quick-reference) · [Report Bug](#) · [Request Feature](#)
+[View Docs](#quick-reference) 
 
 </div>
 
@@ -30,10 +29,9 @@
 
 ## About The Project
 
-> **No fabrication. Must trace to public sources.**  
-> Every extraction schema requires a `source_quote` field. Hallucinated quotes are silently dropped.
+**Lex Harvester** is a research workbench for personal injury attorneys. It helps lawyers surface relevant statutes, pull comparable verdicts, and spot gaps in their research — with every result traceable back to a verified public source.
 
-This scaffold gives your team a running start on hackathon day — statute ingestion, structured LLM extraction, semantic search, a FastAPI backend, and a React UI, all wired together and ready to extend.
+In law, getting something wrong has real consequences. That principle drove every design decision: if a source couldn't be verified, the answer wasn't used. Every extraction schema requires a `source_quote` field, and hallucinated quotes are silently dropped before they ever reach the UI.
 
 ### What's Here
 
